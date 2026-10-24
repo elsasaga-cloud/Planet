@@ -19,7 +19,7 @@ replies: 0
 followups: 16
 first_contact: 2024-05-14
 last_contact: 2025-10-16
-s_mail: 24 msgs (out 22 / in 2), 2023-12-25 -> 2026-08-14
+s_mail: 28 msgs (out 26 / in 2), 2023-12-25 -> 2026-08-14
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -144,7 +144,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 22 / 来 2）　|　**期间**：2023-12-25 → 2026-08-14　|　**最后去信**：2026-08-14
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 26 / 来 2）　|　**期间**：2023-12-25 → 2026-08-14　|　**最后去信**：2026-08-14
 - **对方邮箱**：info@securasound.co.uk、jason@securasound.co.uk
 - **最后一封来信**：2024-05-14 info@securasound.co.uk「Automatic reply: Industrial poe switch」：If you have sent us images of a product to identify we will generally respond to you within 1 working day. Please check that the images you have sent are clear and not low resolution. For other queries we will try and respond as promptly as we can.
 - **邮件里报过的价**：2024-08-09 $65；2024-07-11 $220
@@ -163,11 +163,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
-| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-369/`；本节随档案重渲染刷新，实时看日志。
 

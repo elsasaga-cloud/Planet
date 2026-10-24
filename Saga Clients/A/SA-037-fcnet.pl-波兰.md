@@ -21,7 +21,7 @@ replies: 1
 followups: 7
 first_contact: 2025-02-04
 last_contact: 2025-09-16
-s_mail: 13 msgs (out 13 / in 0), 2025-02-04 -> 2026-09-28
+s_mail: 26 msgs (out 24 / in 2), 2025-02-04 -> 2026-09-28
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
@@ -145,9 +145,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2025-02-04 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：a.sagatelecom　|　**邮件**：26 封（去 24 / 来 2）　|　**期间**：2025-02-04 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：biuro@fcnet.pl、info@fcnet.pl、j.cisowski@fcnet.pl、p.frydel@fcnet.pl
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-04-22 info@fcnet.pl「Re: 10G Media Converter」：We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o. \| ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 \| e-mail info@fcnet.pl NIP: 7542916466 \| REGON: 160150149 \| KRS: 0001095976 Sąd Rejonowy w Opolu, V
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -163,11 +163,11 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2025-10-10 | 2025-10-10 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-16 | 2025-09-16 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-037/`；本节随档案重渲染刷新，实时看日志。
 

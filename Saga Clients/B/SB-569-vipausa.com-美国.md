@@ -19,7 +19,7 @@ replies: 0
 followups: 18
 first_contact: 2024-05-30
 last_contact: 2025-10-25
-s_mail: 16 msgs (out 16 / in 0), 2024-06-27 -> 2026-02-13
+s_mail: 22 msgs (out 22 / in 0), 2024-06-27 -> 2026-02-13
 p1: STI-080GE
 price_tier: 20%
 research: done
@@ -139,7 +139,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2024-06-27 → 2026-02-13　|　**最后去信**：2026-02-13
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 22 / 来 0）　|　**期间**：2024-06-27 → 2026-02-13　|　**最后去信**：2026-02-13
 - **对方邮箱**：info@vipausa.com、ventas@vipausa.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-06-27 $220
@@ -154,15 +154,15 @@ updated: 2026-10-24
 | L3 Managed Switch | 2025-10-24 | 2025-10-24 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-03 | 2025-10-03 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-08 | 2025-09-08 | 0 | 1 | 1 |
-| 16 Port PoE Managed Switch | 2025-01-24 | 2025-01-24 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-12-18 | 2024-12-18 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-11-26 | 2024-11-26 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-31 | 2024-10-31 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-08-12 | 2025-08-12 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-07-15 | 2025-07-15 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-12 | 2025-06-12 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-05-16 | 2025-05-16 | 0 | 1 | 1 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-569/`；本节随档案重渲染刷新，实时看日志。
 
@@ -171,7 +171,7 @@ updated: 2026-10-24
 | [home](https://vipausa.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6307 字符；首行：VIPA ControlsAmerica |
 | [news_1](https://vipausa.com/wishlist.php) | html | HTTP 403 | 2026-10-23T04:20:51Z | 导航「Project」 |
 | [news_2](https://vipausa.com/pages/about/blog.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3763 字符；首行：Blog - VIPA ControlsAmerica |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCsjAowleVcZoyqSBr9-JUHQ) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCsjAowleVcZoyqSBr9-JUHQ |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCsjAowleVcZoyqSBr9-JUHQ) | rss | HTTP 500 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCsjAowleVcZoyqSBr9-JUHQ |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/vipa-controls-america；X/Twitter: https://twitter.com/VIPAUSA
 

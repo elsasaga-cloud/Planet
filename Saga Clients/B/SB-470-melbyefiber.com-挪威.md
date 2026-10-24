@@ -19,7 +19,7 @@ replies: 0
 followups: 5
 first_contact: 2025-05-30
 last_contact: 2025-10-08
-s_mail: 21 msgs (out 19 / in 2), 2024-06-19 -> 2026-09-14
+s_mail: 25 msgs (out 23 / in 2), 2024-06-19 -> 2026-09-14
 p1: STI-110GE
 price_tier: 20%
 research: done
@@ -133,7 +133,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 19 / 来 2）　|　**期间**：2024-06-19 → 2026-09-14　|　**最后去信**：2026-09-14
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 23 / 来 2）　|　**期间**：2024-06-19 → 2026-09-14　|　**最后去信**：2026-09-14
 - **对方邮箱**：amm@melbye.com、kontakt@melbye.no、te@melbye.com
 - **最后一封来信**：2024-10-25 te@melbye.com「Automatic reply: 8 Port Ethernet Switch」：Hi, I have left Melbye Ltd as of the 01/10/23 I would like to thank you for your custom in my time Please contact the following if you have any questions or sales Logistics and Customer Services - Amber Miller amm@melbye.com Sales – Vijay Solanki vis@melbye.co
 - **邮件里报过的价**：2024-11-28 $65；2024-07-16 $220
@@ -152,11 +152,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-12 | 2025-11-12 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-08 | 2025-10-08 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-04 | 2025-09-04 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-470/`；本节随档案重渲染刷新，实时看日志。
 
@@ -165,7 +165,7 @@ updated: 2026-10-24
 | [home](https://melbyefibre.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6294 字符；首行：Fibre Solutions \| Melbye |
 | [news_1](https://melbyefibre.com/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5885 字符；首行：News \| Melbye |
 | [news_2](https://melbyefibre.com/Blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4986 字符；首行：Blog \| Melbye |
-| [youtube](https://www.youtube.com/user/MelbyeSkandinavia) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/MelbyeSkandinavia) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/melbye-uk/；Facebook: https://facebook.com/melbyegroup/
 

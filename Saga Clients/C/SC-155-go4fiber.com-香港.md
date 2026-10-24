@@ -19,7 +19,7 @@ replies: 0
 followups: 18
 first_contact: 2024-05-08
 last_contact: 2025-10-10
-s_mail: 17 msgs (out 15 / in 2), 2023-12-28 -> 2026-02-16
+s_mail: 22 msgs (out 20 / in 2), 2023-12-28 -> 2026-02-16
 p1: STI-288DGGPM
 price_tier: 20%
 research: pending

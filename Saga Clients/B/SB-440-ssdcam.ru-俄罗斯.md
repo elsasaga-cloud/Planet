@@ -19,7 +19,7 @@ replies: 0
 followups: 9
 first_contact: 2025-03-28
 last_contact: 2025-11-03
-s_mail: 9 msgs (out 9 / in 0), 2025-08-29 -> 2026-09-04
+s_mail: 14 msgs (out 14 / in 0), 2025-03-28 -> 2026-09-04
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -138,7 +138,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2025-08-29 → 2026-09-04　|　**最后去信**：2026-09-04
+- **账号**：a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-03-28 → 2026-09-04　|　**最后去信**：2026-09-04
 - **对方邮箱**：info@ssdcam.ru、zakaz@ssdcam.ru
 - 对方从未回信（全部为我方去信）
 
@@ -153,20 +153,24 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-03 | 2025-11-03 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-03 | 2025-10-03 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-08-29 | 2025-08-29 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-23 | 2025-07-23 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-07-01 | 2025-07-01 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-05-23 | 2025-05-23 | 0 | 1 | 1 |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 telegram：内容变化：+23 −12 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-440/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://ssdcam.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5866 字符；首行：Главная \| SSDCAM - Оптовая продажа систем технической безопасности |
+| [home](https://ssdcam.ru/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5917 字符；首行：Главная \| SSDCAM - Оптовая продажа систем технической безопасности |
 | [news_1](https://ssdcam.ru/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4542 字符；首行：Новости \| SSDCAM - Оптовая продажа систем технической безопасности |
 | [news_2](https://ssdcam.ru/blog/rasshiryaem-garantiynoe-obslujivanie) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4425 字符；首行：Расширяем гарантийное обслуживание! \| SSDCAM - Оптовая продажа систем техничес |
-| [telegram](https://t.me/s/ssdcam_cctv) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5138 字符；首行：SSDCAM Системы Безопасности – Telegram |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCcn-edzDneX6IVRSD6jpNAg) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCcn-edzDneX6IVRSD6jpNAg |
+| [telegram](https://t.me/s/ssdcam_cctv) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5461 字符；首行：SSDCAM Системы Безопасности – Telegram |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCcn-edzDneX6IVRSD6jpNAg) | rss | HTTP 500 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCcn-edzDneX6IVRSD6jpNAg |
 
 ## 联系方式（已有 · 原值照录）
 

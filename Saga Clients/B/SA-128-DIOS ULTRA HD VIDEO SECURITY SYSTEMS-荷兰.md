@@ -22,7 +22,7 @@ replies: 1
 followups: 16
 first_contact: 2024-05-10
 last_contact: 2025-10-06
-s_mail: 20 msgs (out 20 / in 0), 2024-07-05 -> 2026-09-02
+s_mail: 28 msgs (out 26 / in 2), 2024-07-05 -> 2026-09-02
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -148,9 +148,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 20 / 来 0）　|　**期间**：2024-07-05 → 2026-09-02　|　**最后去信**：2026-09-02
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 26 / 来 2）　|　**期间**：2024-07-05 → 2026-09-02　|　**最后去信**：2026-09-02
 - **对方邮箱**：j.slob@dios-industries.com
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-03-05 j.slob@dios-industries.com「Re: 8 Port Industrial PoE Switch」：Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-industries.com 06-46853228 DIOS INDUSTRIES De Meeten 82 4706NH Roosendaal The Netherlands
 - **邮件里报过的价**：2024-12-04 $300
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -167,11 +167,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-06 | 2025-10-06 | 0 | 1 | 1 |
 | L3 Managed Switch | 2025-09-02 | 2025-09-02 | 0 | 1 | 1 |
-| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-128/`；本节随档案重渲染刷新，实时看日志。
 

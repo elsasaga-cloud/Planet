@@ -19,7 +19,7 @@ replies: 0
 followups: 12
 first_contact: 2025-02-18
 last_contact: 2025-11-06
-s_mail: 10 msgs (out 10 / in 0), 2025-01-15 -> 2026-02-06
+s_mail: 15 msgs (out 15 / in 0), 2025-01-15 -> 2026-02-06
 p1: STI-21616GP
 price_tier: 20%
 research: pending

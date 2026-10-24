@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-04-01
 last_contact: 2025-10-23
-s_mail: 12 msgs (out 12 / in 0), 2025-08-27 -> 2026-09-25
+s_mail: 17 msgs (out 17 / in 0), 2025-04-01 -> 2026-09-25
 p1: none
 price_tier: 20%
 research: pending

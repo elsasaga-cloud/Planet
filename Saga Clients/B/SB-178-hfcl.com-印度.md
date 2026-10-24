@@ -19,13 +19,13 @@ replies: 0
 followups: 1
 first_contact: 2025-01-08
 last_contact: 2025-01-08
-s_mail: 8 msgs (out 8 / in 0), 2024-06-17 -> 2025-01-03
+s_mail: 9 msgs (out 9 / in 0), 2024-06-17 -> 2025-03-03
 p1: STI-288GPM
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -128,13 +128,14 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-06-17 → 2025-01-03　|　**最后去信**：2025-01-03
-- **对方邮箱**：iosales@hfcl.com
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-06-17 → 2025-03-03　|　**最后去信**：2025-03-03
+- **对方邮箱**：info@hfcl.com、iosales@hfcl.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-16 $240；2024-11-19 $300；2024-08-13 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| Marvell Alleycat5 Solution | 2025-03-03 | 2025-03-03 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2024-12-16 | 2024-12-16 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-19 | 2024-11-19 | 0 | 1 | 1 |
@@ -146,17 +147,17 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 525 条：2026-04-17T11:57:33 5g-catalyzing-extended-realities；2026-04-17T11:57:33 5g-for-e
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-178/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.hfcl.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8189 字符；首行：HFCL - Leading Provider of Telecom and Networking Solutions |
-| [sitemap](https://www.hfcl.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 605 个 URL；最新 lastmod 2026-10-16T11:58:29 |
+| [sitemap](https://www.hfcl.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 605 个 URL；最新 lastmod 2026-10-16T11:58:29 |
 | [news_1](https://www.hfcl.com/insights/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 19360 字符；首行：HFCL News - Latest Announcements & Industry Updates |
 | [news_2](https://www.hfcl.com/insights) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7357 字符；首行：Insights \| HFCL - Innovating Digital Networks for a Sustainable Future |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC7DsrJOOuofW4mfsJf6oEBA |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC7DsrJOOuofW4mfsJf6oEBA |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/hfcl-limited；Instagram: https://www.instagram.com/hfcllimited/；Facebook: https://www.facebook.com/hfclg；X/Twitter: https://twitter.com/hfclg?lang=en
 
@@ -264,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-09-12
 last_contact: 2025-09-12
-s_mail: 16 msgs (out 15 / in 1), 2024-07-09 -> 2026-10-20
+s_mail: 22 msgs (out 21 / in 1), 2024-07-09 -> 2026-10-20
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
@@ -151,7 +151,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 15 / 来 1）　|　**期间**：2024-07-09 → 2026-10-20　|　**最后去信**：2026-10-20
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 21 / 来 1）　|　**期间**：2024-07-09 → 2026-10-20　|　**最后去信**：2026-10-20
 - **对方邮箱**：info@success-network.co.th、sawithree@success-network.co.th
 - **最后一封来信**：2025-09-12 info@success-network.co.th「Re: Mini Industrial PoE Switch」：Thanks for information
 - **邮件里报过的价**：2026-10-20 $180；2025-01-31 $240；2024-11-12 $300
@@ -167,22 +167,23 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-18 | 2025-11-18 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-13 | 2025-10-13 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-12 | 2025-09-12 | 1 | 1 | 2 |
-| 24 Port Fiber Switch | 2025-01-31 | 2025-01-31 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-12 | 2024-11-12 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-10-01 | 2024-10-01 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-08-12 | 2025-08-12 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-14 | 2025-07-14 | 0 | 1 | 1 |
+| Commercial Network Switch | 2025-06-17 | 2025-06-17 | 0 | 1 | 1 |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-058/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.success-network.co.th/) | html | HTTP 403 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.success-network.co.th/sitemap_index.xml) | sitemap | HTTP 403 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 1406 条） |
-| [news_1](https://www.success-network.co.th/news-blogs/) | html | HTTP 403 | 2026-10-23T04:20:51Z | 导航「ข่าวสารและบทความ」 |
+| [home](https://www.success-network.co.th/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5938 字符；首行：Success Network and Communication ศูนย์อุปกรณ์เน็ตเวิร์คระบบไอที |
+| [sitemap](https://www.success-network.co.th/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.success-network.co.th/news-blogs/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4190 字符；首行：ข่าวสารและบทความ (News & Blogs) \| Success Network |
+| [feed_auto](https://www.success-network.co.th/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Mon, 25 Aug 2025 09:31:10 Smart Security Software by AI |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/SuccessNetworkD
 

@@ -22,7 +22,7 @@ replies: 0
 followups: 8
 first_contact: 2025-02-28
 last_contact: 2025-10-17
-s_mail: 16 msgs (out 15 / in 1), 2023-11-27 -> 2026-09-07
+s_mail: 19 msgs (out 18 / in 1), 2023-11-27 -> 2026-09-07
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
@@ -136,7 +136,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 15 / 来 1）　|　**期间**：2023-11-27 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 18 / 来 1）　|　**期间**：2023-11-27 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：corinne@globall.ca、info@globall.ca、sales@globall.ca
 - **最后一封来信**：2023-11-27 corinne@globall.ca「Vacance/Vacation: "POE switch"」：Bonjour, Je suis actuellement en congé et serais de retour le 28 novembre. Pour toutes questions communiquez avec les ventes à ventes@globall.ca merci. I am currently on leave and will be back on November 28th . For any questions please contact the sales depar
 
@@ -154,11 +154,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-31 | 2025-12-31 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-545/`；本节随档案重渲染刷新，实时看日志。
 

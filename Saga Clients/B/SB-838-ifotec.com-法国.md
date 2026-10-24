@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-02-11
 last_contact: 2025-10-22
-s_mail: 7 msgs (out 6 / in 1), 2024-09-01 -> 2026-01-29
+s_mail: 12 msgs (out 11 / in 1), 2024-09-01 -> 2026-01-29
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -132,7 +132,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：7 封（去 6 / 来 1）　|　**期间**：2024-09-01 → 2026-01-29　|　**最后去信**：2026-01-29
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：12 封（去 11 / 来 1）　|　**期间**：2024-09-01 → 2026-01-29　|　**最后去信**：2026-01-29
 - **对方邮箱**：adv@ifotec.com、carrault@ifotec.com、gbillet@ifotec.com、marketing@ifotec.com
 - **最后一封来信**：2024-09-01 carrault@ifotec.com「Réponse automatique : Mini industrial switch」：Bonjour, A la retraite depuis le 15 juillet 2024, j'ai donc quitté mes fonctions au sein de la société IFOTEC et ne suis pas en mesure de répondre à votre message. Merci de prendre contact avec ma remplaçante Laëtitia Leitao à l’adresse mail lleitao@ifotec.com
 
@@ -143,12 +143,17 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-26 | 2025-11-26 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-22 | 2025-10-22 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-16 | 2025-09-16 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-08-11 | 2025-08-11 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-07-10 | 2025-07-10 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-05 | 2025-06-05 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-05-01 | 2025-05-01 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-04-03 | 2025-04-03 | 0 | 1 | 1 |
 | L3 Managed Switch | 2025-02-11 | 2025-02-11 | 0 | 1 | 1 |
 | Réponse automatique : Mini industrial switch | 2024-09-01 | 2024-09-01 | 1 | 0 | 0 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-838/`；本节随档案重渲染刷新，实时看日志。
 

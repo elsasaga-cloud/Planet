@@ -19,7 +19,7 @@ replies: 0
 followups: 13
 first_contact: 2024-05-10
 last_contact: 2025-10-16
-s_mail: 18 msgs (out 18 / in 0), 2024-07-08 -> 2026-09-16
+s_mail: 21 msgs (out 21 / in 0), 2024-07-08 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -149,7 +149,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-07-08 → 2026-09-16　|　**最后去信**：2026-09-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-07-08 → 2026-09-16　|　**最后去信**：2026-09-16
 - **对方邮箱**：costantini@bettinivideo.com、info@bettinivideo.com、marco.contu@bettinivideo.com、walter.bettini@bettinivideo.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-09-02 $65
@@ -168,11 +168,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-25 | 2025-11-25 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-12 | 2025-09-12 | 0 | 1 | 1 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-428/`；本节随档案重渲染刷新，实时看日志。
 

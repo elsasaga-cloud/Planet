@@ -169,18 +169,18 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-092/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://skeo.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5447 字符；首行：СКЕО - оборудование связи. |
-| [sitemap](https://skeo.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 738 个 URL；最新 lastmod 2023-05-26T13:09:20 |
-| [news_1](https://skeo.ru/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4953 字符；首行：Новости |
-| [news_2](https://skeo.ru/articles) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4624 字符；首行：Технические материалы |
+| [sitemap](https://skeo.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 738 个 URL；最新 lastmod 2023-05-26T13:09:20 |
+| [news_1](https://skeo.ru/news) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4997 字符；首行：Новости |
+| [news_2](https://skeo.ru/articles) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4597 字符；首行：Технические материалы |
 | [vk](https://vk.com/nposkeo) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCU8lAUnPr5cC0O3yjcB1rWg) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 http://www.youtube.com/channel/UCU8lAUnPr5cC0O3yjcB1rWg |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCU8lAUnPr5cC0O3yjcB1rWg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 http://www.youtube.com/channel/UCU8lAUnPr5cC0O3yjcB1rWg |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/NpoSkeo；X/Twitter: https://twitter.com/NPOSkeo
 

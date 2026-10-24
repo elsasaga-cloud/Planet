@@ -19,7 +19,7 @@ replies: 0
 followups: 19
 first_contact: 2024-04-29
 last_contact: 2025-10-23
-s_mail: 17 msgs (out 17 / in 0), 2024-06-24 -> 2026-09-10
+s_mail: 22 msgs (out 22 / in 0), 2024-06-24 -> 2026-09-10
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -145,7 +145,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-06-24 → 2026-09-10　|　**最后去信**：2026-09-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 22 / 来 0）　|　**期间**：2024-06-24 → 2026-09-10　|　**最后去信**：2026-09-10
 - **对方邮箱**：kenlee@intrising.com.tw
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-07 $240；2024-11-22 $300；2024-06-24 $65
@@ -160,22 +160,22 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2025-10-23 | 2025-10-23 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-17 | 2025-09-17 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-08-22 | 2025-08-22 | 0 | 1 | 1 |
-| 16 Port Ethernet Switch | 2025-02-21 | 2025-02-21 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-01-07 | 2025-01-07 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-12-17 | 2024-12-17 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
-| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| L3 Managed Switch | 2025-07-14 | 2025-07-14 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-17 | 2025-06-17 | 0 | 1 | 1 |
+| Commercial Network Switch | 2025-05-21 | 2025-05-21 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-28 | 2025-04-28 | 0 | 1 | 1 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 86 条：2023-06-15T21:34:42 location_existed_prp_topology；2023-06-17T18:10:02 odm_ftto_net
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1074/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.intrising.com.tw/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2996 字符；首行：Home - Intrising Networks |
-| [sitemap](https://www.intrising.com.tw/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 166 个 URL；最新 lastmod 2026-10-21T18:11:19 |
+| [sitemap](https://www.intrising.com.tw/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 166 个 URL；最新 lastmod 2026-10-21T18:11:19 |
 | [news_1](https://www.intrising.com.tw/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7517 字符；首行：Intrising Networks |
 | [news_2](https://www.intrising.com.tw/news/case_study/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1769 字符；首行：Intrising Networks |
 | [feed_auto](https://www.intrising.com.tw/feeds/rss/news.xml) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 24 条；最新：Fri, 24 Jul 2026 00:00:00 ISO 9001:2015 Certification |

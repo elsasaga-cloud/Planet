@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 6 msgs (out 6 / in 0), 2025-08-25 -> 2026-09-02
+s_mail: 8 msgs (out 8 / in 0), 2025-06-19 -> 2026-09-02
 p1: STI-488DGGPM
 price_tier: 30%
 research: done
@@ -135,7 +135,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2025-08-25 → 2026-09-02　|　**最后去信**：2026-09-02
+- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-06-19 → 2026-09-02　|　**最后去信**：2026-09-02
 - **对方邮箱**：info@comxus.com、umesh.palanpuri@comxus.com
 - 对方从未回信（全部为我方去信）
 
@@ -147,19 +147,21 @@ updated: 2026-10-24
 | 10G L3 Managed Switch | 2026-05-19 | 2026-05-19 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-08-25 | 2025-08-25 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-07-16 | 2025-07-16 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-19 | 2025-06-19 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 feed_auto：新增 1 条：Fri, 23 Oct 2026 10 Data Centre Network Infrastructure Costs: What Affects the Budg
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-690/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://comxus.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 20734 字符；首行：Comxus \| Complete Networking Solutions For Harsh Environment |
+| [home](https://comxus.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 20743 字符；首行：Comxus \| Complete Networking Solutions For Harsh Environment |
 | [sitemap](https://comxus.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://comxus.com/knowledge-hub/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 16768 字符；首行：Knowledge Hub - COMXUS |
-| [feed_auto](https://comxus.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 22 Oct 2026 10:30:00 Ethernet vs InfiniBand for AI Data Centres |
+| [news_1](https://comxus.com/knowledge-hub/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 16761 字符；首行：Knowledge Hub - COMXUS |
+| [feed_auto](https://comxus.com/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Fri, 23 Oct 2026 10:34:30 Data Centre Network Infrastructure Costs: What Affects t |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/comxusofficial/；Instagram: https://www.instagram.com/comxusofficial/；LinkedIn: https://www.linkedin.com/company/comxus
 

@@ -19,7 +19,7 @@ replies: 0
 followups: 10
 first_contact: 2025-02-27
 last_contact: 2025-10-24
-s_mail: 19 msgs (out 18 / in 1), 2024-11-29 -> 2026-09-16
+s_mail: 24 msgs (out 23 / in 1), 2024-11-29 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -125,7 +125,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 18 / 来 1）　|　**期间**：2024-11-29 → 2026-09-16　|　**最后去信**：2026-09-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 23 / 来 1）　|　**期间**：2024-11-29 → 2026-09-16　|　**最后去信**：2026-09-16
 - **对方邮箱**：michael@platinumcctv.com、paul@platinumcctv.com、sales@platinumcctv.com、sebastian@platinumcctv.com
 - **最后一封来信**：2024-11-29 michael@platinumcctv.com「Automatic reply: 8 Port Ethernet Switch」：I will be out of the office from Nov 21, 2024 to Dec 02, 2024 with very limited access to emails. I will respond to your message when I return. If you need more immediate response, please reach out to: Sales or Quote Related issues: Scott@PlatinumCCTV.com Supp
 
@@ -143,11 +143,11 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-16 | 2026-01-16 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-26 | 2025-12-26 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-12-07 | 2025-12-07 | 0 | 1 | 1 |
-| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-188/`；本节随档案重渲染刷新，实时看日志。
 

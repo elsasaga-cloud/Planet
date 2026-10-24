@@ -19,7 +19,7 @@ replies: 0
 followups: 1
 first_contact: 2025-04-28
 last_contact: 2025-04-28
-s_mail: 37 msgs (out 28 / in 9), 2024-02-25 -> 2026-09-08
+s_mail: 44 msgs (out 34 / in 10), 2024-02-25 -> 2026-09-08
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -106,9 +106,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：37 封（去 28 / 来 9）　|　**期间**：2024-02-25 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：44 封（去 34 / 来 10）　|　**期间**：2024-02-25 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：ayman@e-saudi.net、chairman@e-saudi.net、mathew@e-saudi.net、mhabbash@e-saudi.net、saeed@e-saudi.net
-- **最后一封来信**：2024-10-15 saeed@e-saudi.net「RE: Industrial poe switch」：Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regards, Saeed
+- **最后一封来信**：2025-04-28 saeed@e-saudi.net「RE: Commercial PoE Switch」：Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime, to better understand the scenario it will be a prudent idea if you can share us your List price. With my best Regards, Saeed Mohammed Commercial Bus
 - **邮件里报过的价**：2024-12-12 $300；2024-10-15 $50；2024-06-18 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -122,19 +122,20 @@ updated: 2026-10-24
 | 16 Port PoE Managed Switch | 2025-10-23 | 2025-10-23 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-23 | 2025-09-23 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2025-02-27 | 2025-02-27 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-07-21 | 2025-07-21 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-24 | 2025-06-24 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-431/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://e-saudi.net/) | html | SSLError: HTTPSConnectionPool(host='e-saudi.net', port=443): | - | 官网首页（T27 快照状态 http_error） |
+| [home](https://e-saudi.net/) | html | HTTP 403 | 2026-10-24T04:35:40Z | 官网首页（T27 快照状态 http_error） |
 
 ## 联系方式（已有 · 原值照录）
 

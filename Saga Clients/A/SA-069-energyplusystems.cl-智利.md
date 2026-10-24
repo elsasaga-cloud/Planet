@@ -21,13 +21,13 @@ replies: 1
 followups: 18
 first_contact: 2024-05-30
 last_contact: 2025-12-29
-s_mail: 25 msgs (out 24 / in 1), 2024-06-26 -> 2026-09-08
+s_mail: 26 msgs (out 25 / in 1), 2024-06-26 -> 2026-09-08
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -156,7 +156,7 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：25 封（去 24 / 来 1）　|　**期间**：2024-06-26 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 25 / 来 1）　|　**期间**：2024-06-26 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：ventas@energyplusystems.cl
 - **最后一封来信**：2024-09-27 ventas@energyplusystems.cl「Re: Industrial PoE Switch」：Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel +56992188218 El vie, 27 sept 2024 a las 12:00, Simon (<s.sagatelecom@gmail.com>) escribió:
 - **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-10-29 $280；2025-08-28 $240；2024-11-20 $300；2024-09-28 $38（STI-154GP）；2024-08-19 $65
@@ -175,11 +175,11 @@ updated: 2026-10-23
 | 24 Port Fiber Switch | 2025-08-28 | 2025-08-28 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-069/`；本节随档案重渲染刷新，实时看日志。
 
@@ -296,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -19,7 +19,7 @@ replies: 0
 followups: 15
 first_contact: 2024-05-08
 last_contact: 2025-10-02
-s_mail: 13 msgs (out 12 / in 1), 2024-07-03 -> 2026-02-11
+s_mail: 17 msgs (out 16 / in 1), 2024-07-03 -> 2026-02-11
 p1: STI-110GE
 price_tier: 30%
 research: done
@@ -122,7 +122,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 12 / 来 1）　|　**期间**：2024-07-03 → 2026-02-11　|　**最后去信**：2026-02-11
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 16 / 来 1）　|　**期间**：2024-07-03 → 2026-02-11　|　**最后去信**：2026-02-11
 - **对方邮箱**：compras@guilera.com、guilera@guilera.com、info@adilec.com、sales@guilera.com
 - **最后一封来信**：2024-08-05 sales@guilera.com「Resposta automàtica: 8 port Ethernet switch」：﻿ ﻿ Seré fora del 29 de juliol al 25 d'agost. Per qualsevol urgència a partir del 22/07, si us plau, contactin amb Eva Enríquez (customer_service@guilera.com) Estaré fuera del 29 de julio al 25 de agosto, Para cualquier urgencia a partir del 22/07, por favor c
 - **邮件里报过的价**：2024-11-25 $300；2024-07-03 $65
@@ -135,17 +135,17 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-06 | 2025-11-06 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-05 | 2025-09-05 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-07-16 | 2025-07-16 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-06 | 2025-06-06 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-05-07 | 2025-05-07 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-04-04 | 2025-04-04 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
 | 10G Ethernet Web Managed Switch | 2024-11-01 | 2024-11-01 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-09-25 | 2024-09-25 | 0 | 1 | 1 |
-| 2.5G Switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
-| 8 port Ethernet switch | 2024-08-05 | 2024-08-05 | 0 | 1 | 1 |
-| Resposta automàtica: 8 port Ethernet switch | 2024-08-05 | 2024-08-05 | 1 | 0 | 0 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-521/`；本节随档案重渲染刷新，实时看日志。
 

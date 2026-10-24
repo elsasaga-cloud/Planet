@@ -21,7 +21,7 @@ replies: 0
 followups: 11
 first_contact: 2024-11-12
 last_contact: 2025-10-22
-s_mail: 16 msgs (out 15 / in 1), 2025-08-26 -> 2026-09-22
+s_mail: 21 msgs (out 20 / in 1), 2025-03-26 -> 2026-09-22
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
@@ -151,7 +151,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：16 封（去 15 / 来 1）　|　**期间**：2025-08-26 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：a.sagatelecom　|　**邮件**：21 封（去 20 / 来 1）　|　**期间**：2025-03-26 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：gk@ipns-uae.com、sales1@ipns-uae.com、sales@ipns-uae.com
 - **最后一封来信**：2026-08-12 sales@ipns-uae.com「Confirmation: BORN 24-Port Managed Switch Requirement」：Dear Sir, Greetings Could you please confirm whether you are looking for a BORN COMMERCIAL 24-port managed switch? Thanks & Regards Jomini Midhun Sales Coordinator \| PH: 0523374803 Intelligent Professional Network Solutions LLC Email: <mailto:nr@ipns-uae.com> 
 
@@ -169,11 +169,11 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-19 | 2025-12-19 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-103/`；本节随档案重渲染刷新，实时看日志。
 

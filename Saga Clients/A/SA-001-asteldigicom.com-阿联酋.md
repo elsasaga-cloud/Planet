@@ -22,7 +22,7 @@ replies: 2
 followups: 36
 first_contact: 2024-05-07
 last_contact: 2025-11-27
-s_mail: 47 msgs (out 33 / in 14), 2024-06-29 -> 2025-12-01
+s_mail: 52 msgs (out 38 / in 14), 2024-06-29 -> 2025-12-01
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
@@ -229,7 +229,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：47 封（去 33 / 来 14）　|　**期间**：2024-06-29 → 2025-12-01　|　**最后去信**：2025-12-01
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：52 封（去 38 / 来 14）　|　**期间**：2024-06-29 → 2025-12-01　|　**最后去信**：2025-12-01
 - **对方邮箱**：asteldig@asteldigicom.ae、asteldigicom@eim.ae、navsim@eim.ae
 - **最后一封来信**：2025-12-01 navsim@eim.ae「FW: 10G Enterprise SFP Switch」：Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have been advised on WeChat. Thanks and best regards Sanjay Singla General Manager ASTEL DIGICOM Electronics
 
@@ -245,21 +245,21 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-08-26 | 2025-08-26 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-07-21 | 2025-07-21 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
-| Managed Optical Bypass Switch | 2025-05-28 | 2025-05-28 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T06:51:07Z
-- **最近变化摘要**：2026-10-23 auto_sitemap：新增 420 条： asteldigicom.com；2025-12-27T23:47:40 cable-tv.html；2025-12-27T23:33:33 cables.ht
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 auto_sitemap：新增 420 条： asteldigicom.com；2025-12-27T23:47:40 cable-tv.html；2025-12-27T23:33:33 cables.ht
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-001/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://asteldigicom.com/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3630 字符；首行：Astel Digicom I House of all kinds of cables and connectors |
 | [contact](https://asteldigicom.com/contactu.html) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6213 字符；首行：JOIN OUR NETWORK OF SUBSCRIBERS |
-| [auto_sitemap](https://asteldigicom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T06:51:07Z | 500 个 URL；最新 lastmod 2026-04-05T13:31:11 |
+| [auto_sitemap](https://asteldigicom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 500 个 URL；最新 lastmod 2026-04-05T13:31:11 |
 | [auto_news_1](https://asteldigicom.com/blog) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Blog」 |
 
 - **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/astel-digicom-electronics-llc（112 followers；Sanjay Singla GM 332 followers；Yash Shahani / Rehman Rahim 销售）

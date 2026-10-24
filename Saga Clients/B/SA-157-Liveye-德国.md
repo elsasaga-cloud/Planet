@@ -22,7 +22,7 @@ replies: 0
 followups: 7
 first_contact: 2025-04-11
 last_contact: 2025-11-04
-s_mail: 11 msgs (out 11 / in 0), 2025-09-05 -> 2026-09-23
+s_mail: 15 msgs (out 15 / in 0), 2025-04-11 -> 2026-09-23
 p1: STI-144GP
 price_tier: 30%
 research: done
@@ -156,7 +156,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-09-05 → 2026-09-23　|　**最后去信**：2026-09-23
+- **账号**：a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-04-11 → 2026-09-23　|　**最后去信**：2026-09-23
 - **对方邮箱**：f.hoffmann@liveye.com
 - 对方从未回信（全部为我方去信）
 
@@ -173,10 +173,12 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-04 | 2025-11-04 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-06 | 2025-10-06 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-05 | 2025-09-05 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-14 | 2025-07-14 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-157/`；本节随档案重渲染刷新，实时看日志。
 
@@ -186,7 +188,7 @@ updated: 2026-10-24
 | [sitemap](https://www.liveye.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.liveye.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8143 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
 | [news_2](https://www.liveye.com/blog/tag/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8078 字符；首行：LivEye Blog: Sicherheitsexperten teilen ihr Wissen |
-| [youtube](https://www.youtube.com/@LivEye-mobileVideosicherheit) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@LivEye-mobileVideosicherheit) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://www.liveye.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 23 Jun 2026 06:37:09 Gemeinsam für eine sichere Energiewende: LivEye wird Mit |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/liveye_mobilevideosicherheit/；Facebook: https://www.facebook.com/LivEyeGmbH；LinkedIn: https://de.linkedin.com/company/liveye-gmbh

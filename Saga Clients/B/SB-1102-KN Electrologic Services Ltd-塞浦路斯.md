@@ -19,7 +19,7 @@ replies: 0
 followups: 21
 first_contact: 2023-12-09
 last_contact: 2025-10-06
-s_mail: 17 msgs (out 17 / in 0), 2024-06-15 -> 2026-02-16
+s_mail: 21 msgs (out 21 / in 0), 2024-06-15 -> 2026-02-16
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -126,7 +126,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-06-15 → 2026-02-16　|　**最后去信**：2026-02-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-06-15 → 2026-02-16　|　**最后去信**：2026-02-16
 - **对方邮箱**：info@electrologicservices.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-11 $240；2024-11-13 $300；2024-07-17 $65；2024-06-15 $65
@@ -138,18 +138,18 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-06 | 2025-10-06 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-03 | 2025-09-03 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-07-25 | 2025-07-25 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-11 | 2025-06-11 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-05-14 | 2025-05-14 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-03-10 | 2025-03-10 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-01-01 | 2025-01-01 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-11-13 | 2024-11-13 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-15 | 2024-10-15 | 0 | 1 | 1 |
-| Power Converter | 2024-10-15 | 2024-10-15 | 0 | 1 | 1 |
-| Industrial poe switch | 2024-09-09 | 2024-09-09 | 0 | 1 | 1 |
-| Web managed switch | 2024-09-08 | 2024-09-08 | 0 | 1 | 1 |
-| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1102/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

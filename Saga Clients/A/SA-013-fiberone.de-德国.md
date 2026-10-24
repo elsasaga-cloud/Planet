@@ -266,19 +266,19 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T06:51:07Z
-- **最近变化摘要**：2026-10-23 auto_home：内容变化：+4 −23 行
+- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 auto_news_2：内容变化：+2 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-013/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [nynex_home](https://www.nynex.de/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6753 字符；首行：NYNEX – Expand your business. We connect it. · Satellit, Glasfaser & IP-Transit |
-| [fiberone_home](https://www.fiberone.de/) | html | HTTP 200 | 2026-10-23T06:51:07Z | 21974 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s \| fiberONE |
+| [fiberone_home](https://www.fiberone.de/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 23101 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s \| fiberONE |
 | [peeringdb](https://www.peeringdb.com/api/net?asn=200519) | json | HTTP 200 | 2026-10-23T02:54:23Z | data.0.name="fiberONE.de"; data.0.info_prefixes4=0; data.0.info_prefixes6=0; data.0.update |
-| [auto_home](https://fiberone.de/) | html | HTTP 200 | 2026-10-23T06:51:07Z | 21974 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s \| fiberONE |
-| [auto_sitemap](https://fiberone.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 49 个 URL；最新 lastmod - |
-| [auto_news_1](https://fiberone.de/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1513 字符；首行：News — fiberONE \| Aktuelles aus dem Glasfaser-Ausbau |
-| [auto_news_2](https://fiberone.de/referenzen/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2169 字符；首行：Referenzen — fiberONE \| Glasfaser in Frankfurts Türmen & Quartieren |
+| [auto_home](https://fiberone.de/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 23101 字符；首行：Internetanbieter Rhein-Main – Glasfaser bis 10 Gbit/s \| fiberONE |
+| [auto_sitemap](https://fiberone.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 47 个 URL；最新 lastmod - |
+| [auto_news_1](https://fiberone.de/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1678 字符；首行：News — fiberONE \| Aktuelles aus dem Glasfaser-Ausbau |
+| [auto_news_2](https://fiberone.de/referenzen/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2334 字符；首行：Referenzen — fiberONE \| Glasfaser in Frankfurts Türmen & Quartieren |
 
 - **人工定期看（登录墙，不自动抓）**：GitHub freddy36 → scripts/github_watch（每轮必跑）
 

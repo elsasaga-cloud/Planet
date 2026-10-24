@@ -19,7 +19,7 @@ replies: 0
 followups: 18
 first_contact: 2024-05-15
 last_contact: 2025-11-03
-s_mail: 18 msgs (out 18 / in 0), 2024-06-15 -> 2026-08-24
+s_mail: 23 msgs (out 23 / in 0), 2024-06-15 -> 2026-08-24
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -139,7 +139,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-06-15 → 2026-08-24　|　**最后去信**：2026-08-24
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-06-15 → 2026-08-24　|　**最后去信**：2026-08-24
 - **对方邮箱**：praid-city@yandex.ru
 - 对方从未回信（全部为我方去信）
 
@@ -154,19 +154,20 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-03 | 2025-11-03 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-08-28 | 2025-08-28 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-01-20 | 2025-01-20 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-26 | 2024-12-26 | 0 | 1 | 1 |
-| 16 Port Ethernet Switch | 2024-12-09 | 2024-12-09 | 0 | 1 | 1 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 90W PoE Managed Switch | 2025-07-22 | 2025-07-22 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-06-30 | 2025-06-30 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-05-22 | 2025-05-22 | 0 | 1 | 1 |
+| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-619/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://plus-nn.ru/) | html | SSLError: HTTPSConnectionPool(host='plus-nn.ru', port=443):  | - | 官网首页（T27 快照状态 ok） |
+| [home](https://plus-nn.ru/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1350 字符；首行：Домен не прилинкован ни к одной из директорий на сервере! |
 
 ## 联系方式（已有 · 原值照录）
 

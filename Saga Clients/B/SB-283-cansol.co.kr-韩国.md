@@ -19,7 +19,7 @@ replies: 0
 followups: 11
 first_contact: 2025-03-24
 last_contact: 2025-10-29
-s_mail: 18 msgs (out 18 / in 0), 2025-08-28 -> 2026-09-15
+s_mail: 25 msgs (out 25 / in 0), 2025-03-24 -> 2026-09-15
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -127,7 +127,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2025-08-28 → 2026-09-15　|　**最后去信**：2026-09-15
+- **账号**：a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2025-03-24 → 2026-09-15　|　**最后去信**：2026-09-15
 - **对方邮箱**：kjlee@cansol.co.kr
 - 对方从未回信（全部为我方去信）
 
@@ -145,11 +145,11 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-02-13 | 2026-02-13 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-26 | 2026-01-26 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-31 | 2025-12-31 | 0 | 1 | 1 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-283/`；本节随档案重渲染刷新，实时看日志。
 

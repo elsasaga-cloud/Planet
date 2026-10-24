@@ -21,7 +21,7 @@ replies: 0
 followups: 7
 first_contact: 2025-04-15
 last_contact: 2025-11-05
-s_mail: 11 msgs (out 11 / in 0), 2025-09-09 -> 2026-09-24
+s_mail: 15 msgs (out 15 / in 0), 2025-04-15 -> 2026-09-24
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -148,7 +148,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-09-09 → 2026-09-24　|　**最后去信**：2026-09-24
+- **账号**：a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-04-15 → 2026-09-24　|　**最后去信**：2026-09-24
 - **对方邮箱**：info@falke-security.de
 - 对方从未回信（全部为我方去信）
 
@@ -165,10 +165,12 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-06 | 2025-10-06 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-09-09 | 2025-09-09 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-15 | 2025-07-15 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-154/`；本节随档案重渲染刷新，实时看日志。
 
@@ -177,7 +179,7 @@ updated: 2026-10-24
 | [home](https://falke-security.de/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1535 字符；首行：Falke Security |
 | [sitemap](https://falke-security.de/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://falke-security.de/referenzen/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 751 字符；首行：Referenzen – Falke Security |
-| [youtube](https://www.youtube.com/user/TemplateMonsterCo) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/TemplateMonsterCo) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://falke-security.de/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 07 Nov 2017 15:34:25 Hello world! |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/TemplateMonster/；X/Twitter: https://twitter.com/TemplateMonster

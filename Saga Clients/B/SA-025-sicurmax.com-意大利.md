@@ -22,7 +22,7 @@ replies: 0
 followups: 17
 first_contact: 2024-01-20
 last_contact: 2025-10-13
-s_mail: 21 msgs (out 21 / in 0), 2024-06-18 -> 2026-10-08
+s_mail: 24 msgs (out 24 / in 0), 2024-06-18 -> 2026-10-08
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -146,7 +146,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-06-18 → 2026-10-08　|　**最后去信**：2026-10-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 24 / 来 0）　|　**期间**：2024-06-18 → 2026-10-08　|　**最后去信**：2026-10-08
 - **对方邮箱**：info@sicurmax.com、massimo@sicurmax.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-19 $300；2024-08-14 $65
@@ -165,11 +165,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-26 | 2025-12-26 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-24 | 2025-11-24 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-13 | 2025-10-13 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-025/`；本节随档案重渲染刷新，实时看日志。
 

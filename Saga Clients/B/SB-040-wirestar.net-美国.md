@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-04-01
 last_contact: 2025-04-01
-s_mail: 20 msgs (out 18 / in 2), 2024-04-24 -> 2026-08-10
+s_mail: 27 msgs (out 24 / in 3), 2024-04-24 -> 2026-08-10
 p1: STC-424XGGPM-280W
 price_tier: 25%
 research: done
@@ -113,9 +113,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 18 / 来 2）　|　**期间**：2024-04-24 → 2026-08-10　|　**最后去信**：2026-08-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 24 / 来 3）　|　**期间**：2024-04-24 → 2026-08-10　|　**最后去信**：2026-08-10
 - **对方邮箱**：kyle@wirestar.net
-- **最后一封来信**：2024-06-18 kyle@wirestar.net「Re: 48 port managed switch」：Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon Dr STE E College Station, Texas 77845 www.wirestar.net
+- **最后一封来信**：2025-04-01 kyle@wirestar.net「Re: Marvell Alleycat5 Solution」：Alan, This is interesting. Does it have VXLAN support or MPLS support? Any controller? [image: Image] Sincerely, *Kyle* *Leissner* *President & Founder* [image: WIRESTAR NETWORKS] *kyle@wirestar.net <kyle@wirestar.net> * *Direct:* (979) 721-9100 <9797219100> *
 - **邮件里报过的价**：2025-01-06 $240；2024-12-11 $300；2024-07-16 $65；2024-06-19 $310；2024-06-18 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -128,15 +128,15 @@ updated: 2026-10-24
 | Mini Industrial PoE Switch | 2025-10-10 | 2025-10-10 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-22 | 2025-09-22 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-09-02 | 2025-09-02 | 0 | 1 | 1 |
-| 48 Port SFP Switch | 2025-02-07 | 2025-02-07 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-11-19 | 2024-11-19 | 0 | 1 | 1 |
-| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 16 Port Ethernet Switch | 2025-07-25 | 2025-07-25 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-07-07 | 2025-07-07 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-05-29 | 2025-05-29 | 0 | 1 | 1 |
+| Marvell Software Function List | 2025-04-30 | 2025-04-30 | 0 | 1 | 2 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-040/`；本节随档案重渲染刷新，实时看日志。
 

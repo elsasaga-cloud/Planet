@@ -19,7 +19,7 @@ replies: 0
 followups: 6
 first_contact: 2025-03-25
 last_contact: 2025-03-25
-s_mail: 11 msgs (out 11 / in 0), 2025-09-09 -> 2026-09-01
+s_mail: 16 msgs (out 16 / in 0), 2025-03-25 -> 2026-09-01
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -135,7 +135,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-09-09 → 2026-09-01　|　**最后去信**：2026-09-01
+- **账号**：a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2025-03-25 → 2026-09-01　|　**最后去信**：2026-09-01
 - **对方邮箱**：michal.chvala@triton.eu
 - 对方从未回信（全部为我方去信）
 
@@ -152,17 +152,20 @@ updated: 2026-10-24
 | Optional Marvell Chipset Solutions | 2025-12-05 | 2025-12-05 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-07 | 2025-11-07 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-09 | 2025-09-09 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-08-04 | 2025-08-04 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-424/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://tritonsystems.eu/) | html | SSLError: HTTPSConnectionPool(host='tritonsystems.eu', port= | - | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://tritonsystems.eu/sitemap.xml) | sitemap | SSLError: HTTPSConnectionPool(host='tritonsystems.eu', port= | - | 站点地图（2026-10-21 时 9 条） |
-| [news_1](https://tritonsystems.eu/references) | html | SSLError: HTTPSConnectionPool(host='tritonsystems.eu', port= | - | 导航「REFERENCES」 |
+| [home](https://tritonsystems.eu/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4513 字符；首行：Parking, Ticketing and Access Control \| Triton Systems |
+| [sitemap](https://tritonsystems.eu/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://tritonsystems.eu/references) | html | HTTP 404 | 2026-10-24T04:35:40Z | 导航「REFERENCES」 |
 
 ## 联系方式（已有 · 原值照录）
 

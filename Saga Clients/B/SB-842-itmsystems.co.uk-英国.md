@@ -19,7 +19,7 @@ replies: 0
 followups: 16
 first_contact: 2024-05-15
 last_contact: 2025-10-16
-s_mail: 61 msgs (out 38 / in 23), 2024-06-13 -> 2026-09-07
+s_mail: 65 msgs (out 42 / in 23), 2024-06-13 -> 2026-09-07
 p1: STI-288GP
 price_tier: 25%
 research: done
@@ -171,7 +171,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：61 封（去 38 / 来 23）　|　**期间**：2024-06-13 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：65 封（去 42 / 来 23）　|　**期间**：2024-06-13 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：info@itmsystems.co.uk、info@itmsystems.net
 - **最后一封来信**：2026-08-15 info@itmsystems.net「RE: 400GB Switches」：Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and will get back to you. Kind regards Steve
 - **邮件里报过的价**：2024-09-05 $65；2024-07-10 $220；2024-06-13 $65
@@ -183,25 +183,27 @@ updated: 2026-10-24
 | Mini Industrial PoE Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-26 | 2025-09-26 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-08-25 | 2025-08-25 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-09 | 2025-07-09 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-16 | 2025-06-16 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-28 | 2025-04-28 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-27 | 2025-03-27 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-02-28 | 2025-02-28 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-01-29 | 2025-01-29 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-10-17 | 2024-10-17 | 0 | 1 | 1 |
-| 10G media converter | 2024-09-05 | 2024-09-05 | 0 | 1 | 1 |
-| Industrial fiber switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
-| Industrial fiber switch | 2024-08-08 | 2024-08-08 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-842/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.itmsystems.co.uk/) | html | SSLError: HTTPSConnectionPool(host='www.itmsystems.co.uk', p | - | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.itmsystems.co.uk/sitemap.xml) | sitemap | SSLError: HTTPSConnectionPool(host='www.itmsystems.co.uk', p | - | 站点地图（2026-10-21 时 22 条） |
-| [news_1](https://www.itmsystems.co.uk/case-studies/) | html | SSLError: HTTPSConnectionPool(host='www.itmsystems.co.uk', p | - | 导航「Case studies」 |
+| [home](https://www.itmsystems.co.uk/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3209 字符；首行：ITM Systems\|Cyber Security\|Video Surveillance & Analytics\|IT Infrastructure  |
+| [sitemap](https://www.itmsystems.co.uk/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 22 个 URL；最新 lastmod 2012-12-14T13:26:34 |
+| [news_1](https://www.itmsystems.co.uk/case-studies/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1362 字符；首行：case studies \| Cyber Security\|Video Surveillance & Analytics\|IT Infrastructu |
+| [feed_auto](http://www.itmsystems.co.uk/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 7 条；最新：Wed, 12 Dec 2012 11:18:12 End of IT Security:Is Cyber-Security the answer to comput |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/itmsystemsltd
 

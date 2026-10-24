@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-08-28
 last_contact: 2025-08-28
-s_mail: 18 msgs (out 17 / in 1), 2024-06-19 -> 2026-09-07
+s_mail: 23 msgs (out 22 / in 1), 2024-06-19 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -138,7 +138,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 17 / 来 1）　|　**期间**：2024-06-19 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 22 / 来 1）　|　**期间**：2024-06-19 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：svnshop@yandex.ru、zakaz@svn-video.ru
 - **最后一封来信**：2026-01-04 zakaz@svn-video.ru「Re: Industrial PoE Switch」：Hi, send me please your pricelists with POE switches and accessories
 - **邮件里报过的价**：2024-12-26 $240；2024-12-09 $300；2024-11-11 $65
@@ -153,26 +153,26 @@ updated: 2026-10-24
 | Optional Marvell Chipset Solutions | 2025-12-11 | 2025-12-11 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-03 | 2025-11-03 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
-| 16 Port PoE Managed Switch | 2025-01-22 | 2025-01-22 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2024-12-26 | 2024-12-26 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-09 | 2024-12-09 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-11-11 | 2024-11-11 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 8 Port Industrial PoE Switch | 2025-07-22 | 2025-07-22 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-06-30 | 2025-06-30 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-05-23 | 2025-05-23 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-16 | 2025-04-16 | 0 | 1 | 1 |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-054/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://svn-video.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10060 字符；首行：Системы видеонаблюдения SVN с доставкой по России |
-| [sitemap](https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod - |
-| [news_1](https://svn-video.ru/shopblog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4208 字符；首行：Инструкции и статьи по видеонаблюдению |
-| [news_2](https://svn-video.ru/shopblog/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3582 字符；首行：Новости |
+| [sitemap](https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod - |
+| [news_1](https://svn-video.ru/shopblog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4208 字符；首行：Инструкции и статьи по видеонаблюдению |
+| [news_2](https://svn-video.ru/shopblog/news) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3582 字符；首行：Новости |
 | [telegram](https://t.me/s/SVN_VIDEO_bot) | html | HTTP 200 | 2026-10-23T04:20:51Z | 197 字符；首行：Telegram: Launch @SVN_VIDEO_bot |
-| [youtube](https://www.youtube.com/@SVNVIDEO) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@SVNVIDEO) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [vk](https://vk.com/svn.video) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
 
 ## 联系方式（已有 · 原值照录）

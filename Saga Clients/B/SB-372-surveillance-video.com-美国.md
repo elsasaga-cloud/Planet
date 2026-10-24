@@ -21,7 +21,7 @@ replies: 0
 followups: 15
 first_contact: 2024-07-23
 last_contact: 2025-10-31
-s_mail: 23 msgs (out 23 / in 0), 2024-07-22 -> 2026-10-06
+s_mail: 28 msgs (out 28 / in 0), 2024-07-22 -> 2026-10-06
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
@@ -139,7 +139,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-07-22 → 2026-10-06　|　**最后去信**：2026-10-06
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-07-22 → 2026-10-06　|　**最后去信**：2026-10-06
 - **对方邮箱**：info@surveillance-video.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-26 $300
@@ -158,11 +158,11 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-02-02 | 2026-02-02 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-08 | 2026-01-08 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-16 | 2025-12-16 | 0 | 1 | 1 |
-| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-372/`；本节随档案重渲染刷新，实时看日志。
 

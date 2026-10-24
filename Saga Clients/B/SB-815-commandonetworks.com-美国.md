@@ -21,7 +21,7 @@ replies: 0
 followups: 9
 first_contact: 2025-02-25
 last_contact: 2025-10-23
-s_mail: 9 msgs (out 9 / in 0), 2025-01-20 -> 2026-02-11
+s_mail: 14 msgs (out 14 / in 0), 2025-01-20 -> 2026-02-11
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -126,7 +126,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2025-01-20 → 2026-02-11　|　**最后去信**：2026-02-11
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-01-20 → 2026-02-11　|　**最后去信**：2026-02-11
 - **对方邮箱**：info@commandonetworks.com
 - 对方从未回信（全部为我方去信）
 
@@ -140,22 +140,26 @@ updated: 2026-10-24
 | 8 Port Industrial PoE Switch | 2025-10-22 | 2025-10-22 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-30 | 2025-09-30 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-09-05 | 2025-09-05 | 0 | 1 | 1 |
-| 16 Port PoE Managed Switch | 2025-01-20 | 2025-01-20 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-08-06 | 2025-08-06 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-07-11 | 2025-07-11 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-06-09 | 2025-06-09 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-05-12 | 2025-05-12 | 0 | 1 | 1 |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 telegram：内容变化：+28 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-815/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://commandonetworks.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10884 字符；首行：COMMANDO is a technology company focused on networking hardware |
-| [sitemap](https://commandonetworks.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 648 个 URL；最新 lastmod 2026-10-20T10:59:33 |
+| [sitemap](https://commandonetworks.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 648 个 URL；最新 lastmod 2026-10-23T14:00:36 |
 | [news_1](https://commandonetworks.com/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 144 字符；首行：COMMANDO News - Latest Updates & Announcements |
 | [news_2](https://commandonetworks.com/portfolio) | html | HTTP 200 | 2026-10-23T04:20:51Z | 20923 字符；首行：COMMANDO Portfolio - Product Portfolio |
-| [youtube](https://www.youtube.com/@commandonetworks) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
-| [telegram](https://t.me/s/commandonetworks) | html | HTTP 200 | 2026-10-23T04:20:51Z | 13643 字符；首行：COMMANDO Networks – Telegram |
+| [youtube](https://www.youtube.com/@commandonetworks) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [telegram](https://t.me/s/commandonetworks) | html | HTTP 200 | 2026-10-24T04:35:40Z | 13643 字符；首行：COMMANDO Networks – Telegram |
 
 - **人工定期看（登录墙，不自动抓）**：X/Twitter: https://x.com/COMMANDO_Net；Facebook: https://www.facebook.com/profile.php?id=61564378755642；Instagram: https://www.instagram.com/commando.networks；LinkedIn: https://www.linkedin.com/company/commandonetworks/
 

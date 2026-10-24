@@ -19,7 +19,7 @@ replies: 0
 followups: 2
 first_contact: 2025-10-08
 last_contact: 2025-11-06
-s_mail: 27 msgs (out 17 / in 10), 2025-10-08 -> 2026-09-14
+s_mail: 28 msgs (out 18 / in 10), 2025-04-03 -> 2026-09-14
 p1: STI-280GE
 price_tier: 25%
 research: done
@@ -128,7 +128,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：27 封（去 17 / 来 10）　|　**期间**：2025-10-08 → 2026-09-14　|　**最后去信**：2026-09-14
+- **账号**：a.sagatelecom　|　**邮件**：28 封（去 18 / 来 10）　|　**期间**：2025-04-03 → 2026-09-14　|　**最后去信**：2026-09-14
 - **对方邮箱**：info@unea-x.com、inoue.mari@unea-x.com、ryosuke.osako@unea-x.com
 - **最后一封来信**：2026-05-08 inoue.mari@unea-x.com「Re: Marvell Managed Commercial Switches」：Dear Alan. Thank you for your email. Has the power supply you suggested already obtained PSE certification? Please confirm this. Best regards. UNEAX Inoue 2026年5月06日(水) 12:43 Alan from Saga Telecom &lt;a.sagatelecom@gmail.com&gt;: Hi, Inoue, 1. About Power Sup
 
@@ -141,10 +141,11 @@ updated: 2026-10-24
 | Optional Marvell Chipset Solutions | 2025-12-11 | 2025-12-11 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-06 | 2025-11-06 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-08 | 2025-10-08 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-04-03 | 2025-04-03 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-093/`；本节随档案重渲染刷新，实时看日志。
 

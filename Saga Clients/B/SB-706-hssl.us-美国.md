@@ -19,7 +19,7 @@ replies: 0
 followups: 7
 first_contact: 2025-05-22
 last_contact: 2025-10-28
-s_mail: 8 msgs (out 8 / in 0), 2025-09-10 -> 2026-02-16
+s_mail: 13 msgs (out 12 / in 1), 2025-05-21 -> 2026-02-16
 p1: STC-424XGGM
 price_tier: 20%
 research: done
@@ -124,9 +124,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-09-10 → 2026-02-16　|　**最后去信**：2026-02-16
+- **账号**：a.sagatelecom　|　**邮件**：13 封（去 12 / 来 1）　|　**期间**：2025-05-21 → 2026-02-16　|　**最后去信**：2026-02-16
 - **对方邮箱**：sales@hssl.us
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-05-21 sales@hssl.us「Re: HSSL Request/Inquiry id ##1014746##」：Dear Alan from Saga Telecom, Thank you for reaching out to our team. We have received your request/inquiry and a ticket id 1014746 has been created. A representative will be reviewing your request and sending you a response within 1 business day. Please get ba
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -138,10 +138,15 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-10-28 | 2025-10-28 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-07 | 2025-10-07 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-10 | 2025-09-10 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-08-21 | 2025-08-21 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-07-17 | 2025-07-17 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-06-20 | 2025-06-20 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-05-21 | 2025-05-21 | 0 | 1 | 1 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-706/`；本节随档案重渲染刷新，实时看日志。
 

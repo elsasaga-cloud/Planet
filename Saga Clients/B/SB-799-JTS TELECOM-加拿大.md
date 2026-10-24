@@ -21,7 +21,7 @@ replies: 1
 followups: 15
 first_contact: 2024-06-06
 last_contact: 2025-10-17
-s_mail: 26 msgs (out 24 / in 2), 2024-06-28 -> 2026-09-28
+s_mail: 30 msgs (out 28 / in 2), 2024-06-28 -> 2026-09-28
 p1: STI-110GE
 price_tier: 25%
 research: done
@@ -117,7 +117,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 24 / 来 2）　|　**期间**：2024-06-28 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 28 / 来 2）　|　**期间**：2024-06-28 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：joejts@hotmail.com
 - **最后一封来信**：2025-11-21 joejts@hotmail.com「Re: Booster PoE Switch」：No, but thank you.
 
@@ -135,7 +135,7 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2026-01-02 | 2026-01-02 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-21 | 2025-11-21 | 1 | 1 | 2 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

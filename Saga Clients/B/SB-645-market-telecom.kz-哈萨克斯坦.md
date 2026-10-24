@@ -19,7 +19,7 @@ replies: 0
 followups: 18
 first_contact: 2024-05-10
 last_contact: 2025-10-17
-s_mail: 23 msgs (out 23 / in 0), 2024-07-08 -> 2026-10-07
+s_mail: 28 msgs (out 28 / in 0), 2024-07-08 -> 2026-10-07
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -151,7 +151,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-07-08 → 2026-10-07　|　**最后去信**：2026-10-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-07-08 → 2026-10-07　|　**最后去信**：2026-10-07
 - **对方邮箱**：info@market-telecom.kz
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-31 $240；2024-08-06 $65；2024-07-08 $220
@@ -170,18 +170,18 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-28 | 2026-01-28 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-21 | 2025-11-21 | 0 | 1 | 1 |
-| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 821 条： market-telecom.kz；2026-10-23 services；2026-06-06 products；2026-07-29 about_shop；
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-645/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://market-telecom.kz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9107 字符；首行：Сетевое и телекоммуникационное оборудование в Казахстане |
-| [sitemap](https://market-telecom.kz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2026-10-23 |
+| [home](https://market-telecom.kz/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9112 字符；首行：Сетевое и телекоммуникационное оборудование в Казахстане |
+| [sitemap](https://market-telecom.kz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-10-23 |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/avantage_market/
 

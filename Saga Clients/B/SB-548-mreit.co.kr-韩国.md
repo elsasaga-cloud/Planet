@@ -19,7 +19,7 @@ replies: 0
 followups: 24
 first_contact: 2024-03-18
 last_contact: 2025-10-30
-s_mail: 27 msgs (out 27 / in 0), 2024-06-19 -> 2026-09-22
+s_mail: 35 msgs (out 35 / in 0), 2024-06-19 -> 2026-09-22
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -156,7 +156,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 27 / 来 0）　|　**期间**：2024-06-19 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 35 / 来 0）　|　**期间**：2024-06-19 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：customer@mreit.co.kr
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-23 $240；2024-11-29 $300；2024-08-12 $65
@@ -175,11 +175,11 @@ updated: 2026-10-24
 | Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
 | Managed Optical Bypass Switch | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2026-01-05 | 2026-01-05 | 0 | 1 | 1 |
-| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-548/`；本节随档案重渲染刷新，实时看日志。
 

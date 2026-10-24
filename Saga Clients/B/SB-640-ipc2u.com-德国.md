@@ -155,7 +155,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-640/`；本节随档案重渲染刷新，实时看日志。
 
@@ -165,7 +165,7 @@ updated: 2026-10-24
 | [sitemap](https://ipc2u.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://ipc2u.com/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1197 字符；首行：News |
 | [news_2](https://ipc2u.com/articles/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1217 字符；首行：Knowledge Base |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCd4FRpT-XHOezdluQfuYkGQ) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCd4FRpT-XHOezdluQfuYkGQ |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCd4FRpT-XHOezdluQfuYkGQ) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCd4FRpT-XHOezdluQfuYkGQ |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/IPC2U；LinkedIn: https://www.linkedin.com/company/industrial-personal-computer-2u/
 

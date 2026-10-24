@@ -19,7 +19,7 @@ replies: 0
 followups: 14
 first_contact: 2025-03-03
 last_contact: 2025-10-31
-s_mail: 20 msgs (out 20 / in 0), 2024-11-02 -> 2026-10-07
+s_mail: 28 msgs (out 28 / in 0), 2024-11-02 -> 2026-10-07
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -142,7 +142,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 20 / 来 0）　|　**期间**：2024-11-02 → 2026-10-07　|　**最后去信**：2026-10-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-11-02 → 2026-10-07　|　**最后去信**：2026-10-07
 - **对方邮箱**：bilgin@radioparts.com.au、danielh@radioparts.com.au、info@radioparts.com.au
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-02 $65
@@ -161,17 +161,17 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-30 | 2025-12-30 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-12-11 | 2025-12-11 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
-| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+1033 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-781/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://radioparts.com.au/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 30967 字符；首行：Trusted Supplier of Electronics Since 1935 \| Audio, Communication, Security & |
+| [home](https://radioparts.com.au/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 30959 字符；首行：Trusted Supplier of Electronics Since 1935 \| Audio, Communication, Security & |
 
 ## 联系方式（已有 · 原值照录）
 

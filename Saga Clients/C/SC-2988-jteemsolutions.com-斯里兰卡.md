@@ -19,7 +19,7 @@ replies: 0
 followups: 3
 first_contact: 2025-05-02
 last_contact: 2025-10-06
-s_mail: 12 msgs (out 10 / in 2), 2024-06-30 -> 2025-02-26
+s_mail: 13 msgs (out 11 / in 2), 2024-06-30 -> 2025-03-31
 p1: STI-110GE
 price_tier: 20%
 research: pending

@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-01-29
 last_contact: 2025-10-13
-s_mail: 15 msgs (out 14 / in 1), 2023-11-06 -> 2026-09-16
+s_mail: 20 msgs (out 19 / in 1), 2023-11-06 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -134,7 +134,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：15 封（去 14 / 来 1）　|　**期间**：2023-11-06 → 2026-09-16　|　**最后去信**：2026-09-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 19 / 来 1）　|　**期间**：2023-11-06 → 2026-09-16　|　**最后去信**：2026-09-16
 - **对方邮箱**：calvin@luckyjoint.com.sg、jackson.ho@luckyjoint.com.sg、lynn@luckyjoint.com.sg、robin@luckyjoint.com.sg、sales@luckyjoint.com.sg
 - **最后一封来信**：2023-11-06 lynn@luckyjoint.com.sg「Automatic reply: poe switch」：Thank you for your email. I will be out of the office. If you need immediate assistance during my absence, please contact Hui Xian at hxng@luckyjoint.com.sg. Otherwise I will respond to your emails as soon as possible upon my return. Thank you for your message
 
@@ -152,11 +152,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-19 | 2025-12-19 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-13 | 2025-10-13 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-320/`；本节随档案重渲染刷新，实时看日志。
 

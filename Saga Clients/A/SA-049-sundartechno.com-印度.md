@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -181,15 +181,15 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:57:18Z
-- **最近变化摘要**：2026-10-23 site_feed：恢复可达（上轮 HTTP 429）
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 indiamart_minisite：内容变化：+3 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-049/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [site_feed](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-23T04:57:18Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
+| [site_feed](https://sundartechno.com/feed/) | rss | HTTP 429 | 2026-10-23T04:57:18Z | 官网 RSS |
 | [home](https://sundartechno.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3744 字符；首行：Sundar Techno Solutions - Sundar Techno Solutions |
-| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 5001 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
+| [indiamart_minisite](https://www.sundartechno.in/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5052 字符；首行：Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengalu |
 | [auto_youtube](https://www.youtube.com/@SUNDARTECHNOSOLUTIONS) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://sundartechno.com/feed/) | rss | HTTP 200 | 2026-10-23T04:57:18Z | 10 条；最新：Thu, 22 Oct 2026 11:01:10 STAINLESS STEEL ATM & KIOSK USB KEYPAD |
 
@@ -308,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

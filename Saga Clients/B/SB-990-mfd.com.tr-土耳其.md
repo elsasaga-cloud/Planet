@@ -157,16 +157,16 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-990/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://mfd.com.tr/) | html | SSLError: HTTPSConnectionPool(host='mfd.com.tr', port=443):  | - | 官网首页（T27 快照状态 ok） |
-| [news_1](https://mfd.com.tr/win-eurasia-2022-fuari_s_tr_1357_.aspx) | html | SSLError: HTTPSConnectionPool(host='mfd.com.tr', port=443):  | - | 导航「- - Haber & Duyuru」 |
-| [news_2](https://mfd.com.tr/References.aspx?lang=tr) | html | SSLError: HTTPSConnectionPool(host='mfd.com.tr', port=443):  | - | 导航「Referans」 |
-| [youtube](https://www.youtube.com/c/mcsfactorydigitalization) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://mfd.com.tr/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2158 字符；首行：MCS Factory Digitalization |
+| [news_1](https://mfd.com.tr/win-eurasia-2022-fuari_s_tr_1357_.aspx) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1853 字符；首行：Win Eurasia 2022 Fuarı - MCS |
+| [news_2](https://mfd.com.tr/References.aspx?lang=tr) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1195 字符；首行：MCS Factory Digitalization |
+| [youtube](https://www.youtube.com/c/mcsfactorydigitalization) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/MCSfactorydigitalization；X/Twitter: https://twitter.com/MCS_fd；LinkedIn: https://www.linkedin.com/company/mcs-factory-digitalization；Instagram: https://www.instagram.com/mcsfactorydigitalization；Instagram: https://www.instagram.com/mcsfactorydigitalization/
 

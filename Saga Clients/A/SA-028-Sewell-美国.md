@@ -21,7 +21,7 @@ replies: 0
 followups: 9
 first_contact: 2025-04-03
 last_contact: 2025-11-04
-s_mail: 15 msgs (out 15 / in 0), 2025-09-02 -> 2026-08-31
+s_mail: 20 msgs (out 20 / in 0), 2025-04-02 -> 2026-08-31
 p1: STI-144GP
 price_tier: 20%
 research: done
@@ -152,8 +152,8 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-09-02 → 2026-08-31　|　**最后去信**：2026-08-31
-- **对方邮箱**：kelson@sewelldirect.com、pernell@sewelldirect.com、service@sewelldirect.com、susan@sewelldev.com
+- **账号**：a.sagatelecom　|　**邮件**：20 封（去 20 / 来 0）　|　**期间**：2025-04-02 → 2026-08-31　|　**最后去信**：2026-08-31
+- **对方邮箱**：brent@sewelldirect.com、brett@sewelldirect.com、kelson@sewelldirect.com、pernell@sewelldirect.com、service@sewelldirect.com、susan@sewelldev.com
 - 对方从未回信（全部为我方去信）
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -170,19 +170,19 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-18 | 2025-12-18 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-12-02 | 2025-12-02 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-03 | 2025-11-03 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+22 −22 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-028/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://sewelldirect.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8512 字符；首行：HDMI & Audio/Video Products for Home Theater — Sewell Direct |
+| [home](https://sewelldirect.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 8929 字符；首行：HDMI & Audio/Video Products for Home Theater — Sewell Direct |
 | [sitemap](https://sewelldirect.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [youtube](https://www.youtube.com/user/sewelldirect) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/sewelldirect) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://facebook.com/sewelldirect；Instagram: https://instagram.com/sewelldirect；X/Twitter: https://x.com/sewelldirect
 

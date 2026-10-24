@@ -19,7 +19,7 @@ replies: 0
 followups: 20
 first_contact: 2024-04-30
 last_contact: 2025-10-30
-s_mail: 26 msgs (out 26 / in 0), 2024-06-24 -> 2026-09-28
+s_mail: 31 msgs (out 31 / in 0), 2024-06-24 -> 2026-09-28
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -151,7 +151,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 26 / 来 0）　|　**期间**：2024-06-24 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：31 封（去 31 / 来 0）　|　**期间**：2024-06-24 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：info@avcomm.us、kang.yu@avcomm.us
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-02 $240；2024-11-21 $300；2024-08-14 $65
@@ -170,18 +170,18 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-01-26 | 2026-01-26 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-06 | 2026-01-06 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-12 | 2025-12-12 | 0 | 1 | 1 |
-| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条： inc.avcomm.us； help-1； faq； feed； feed； feed； feed； feed…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-304/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.avcomm.us/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5919 字符；首行：Advanced Communication & Computing Solutions \| Industrial Networking \| |
-| [sitemap](https://www.avcomm.us/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod - |
+| [sitemap](https://www.avcomm.us/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod - |
 | [news_1](https://www.avcomm.us/latest-news-2) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1745 字符；首行：Latest News \| AVCOMM Technologies Inc--Industrial IT Expert |
 | [news_2](https://www.avcomm.us/case-studies-1) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2765 字符；首行：Case Studies \| AVCOMM Technologies Inc--Industrial IT Expert |
 

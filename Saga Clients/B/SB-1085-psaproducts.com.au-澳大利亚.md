@@ -19,7 +19,7 @@ replies: 0
 followups: 21
 first_contact: 2024-05-13
 last_contact: 2025-10-25
-s_mail: 24 msgs (out 24 / in 0), 2024-07-03 -> 2026-09-22
+s_mail: 31 msgs (out 31 / in 0), 2024-07-03 -> 2026-09-22
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -153,7 +153,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 24 / 来 0）　|　**期间**：2024-07-03 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：31 封（去 31 / 来 0）　|　**期间**：2024-07-03 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：enquiry@psaproducts.com.au、marcus@psaproducts.com.au、vinceb@psaproducts.com.au
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-19 $240；2024-09-03 $300；2024-08-05 $65
@@ -172,11 +172,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-25 | 2025-12-25 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-12-05 | 2025-12-05 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
-| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1085/`；本节随档案重渲染刷新，实时看日志。
 
@@ -185,7 +185,7 @@ updated: 2026-10-24
 | [home](https://www.psaproducts.com.au/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3455 字符；首行：PSA Products \| Security Systems Wholesale in Australia |
 | [sitemap](https://www.psaproducts.com.au/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.psaproducts.com.au/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1937 字符；首行：News \| PSA Products |
-| [youtube](https://www.youtube.com/@PSAproducts) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@PSAproducts) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://www.psaproducts.com.au/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 26 Aug 2026 02:12:43 QLD Smoke Alarm Laws for Landlords |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/psaproducts；Instagram: https://www.instagram.com/psaproducts/?fbclid=IwAR2FuO4Aa0C12LiXNY_7TiM-okfSToWNGxib9RBSWC_Qdg-GF4Mrwu7ABM8；LinkedIn: https://www.linkedin.com/company/psa-products-pty-ltd/mycompany/?viewAsMember=true

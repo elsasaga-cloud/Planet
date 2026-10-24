@@ -19,7 +19,7 @@ replies: 0
 followups: 15
 first_contact: 2025-02-26
 last_contact: 2025-11-06
-s_mail: 27 msgs (out 26 / in 1), 2025-01-21 -> 2026-09-08
+s_mail: 33 msgs (out 32 / in 1), 2025-01-21 -> 2026-09-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -131,7 +131,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 26 / 来 1）　|　**期间**：2025-01-21 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 32 / 来 1）　|　**期间**：2025-01-21 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：john.g@enssecurity.com、marcela.g@enssecurity.com、robert.sh@enssecurity.com、sales@enssecurity.com、shawn.s@enssecurity.com
 - **最后一封来信**：2025-02-25 shawn.s@enssecurity.com「Out of the Office until Thursday, Feb 27th. Re: 90W PoE Managed Switch」：Good morning / afternoon, I will be out of the office Tuesday Feb 25th and Wednesday Feb 26th, returning Thursday Feb 27th. If you need immediate assistance, please contact George Ge at george.g@enssecurity.com or Kenneth at kenneth.m@enssecurity.com. Please c
 
@@ -149,11 +149,11 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-02-06 | 2026-02-06 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-15 | 2026-01-15 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-12 | 2026-01-12 | 0 | 1 | 1 |
-| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-900/`；本节随档案重渲染刷新，实时看日志。
 

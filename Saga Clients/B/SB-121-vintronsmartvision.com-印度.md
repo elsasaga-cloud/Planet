@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 23 msgs (out 23 / in 0), 2024-07-03 -> 2026-09-24
+s_mail: 24 msgs (out 24 / in 0), 2024-07-03 -> 2026-09-24
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -135,7 +135,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-07-03 → 2026-09-24　|　**最后去信**：2026-09-24
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 24 / 来 0）　|　**期间**：2024-07-03 → 2026-09-24　|　**最后去信**：2026-09-24
 - **对方邮箱**：lead@vintronsmartvision.com、sales@quippro.kz、varun@vintronsmartvision.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-31 $300；2024-12-05 $300；2024-12-01 $300；2024-11-11 $300；2024-09-26 $65；2024-08-26 $300；2024-08-07 $65
@@ -147,25 +147,25 @@ updated: 2026-10-24
 | 24 Port PoE Managed Switch | 2026-07-29 | 2026-07-29 | 0 | 1 | 1 |
 | 10G L3 Managed Switch | 2026-06-17 | 2026-06-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2026-05-14 | 2026-05-14 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-04-09 | 2025-04-09 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-02-07 | 2025-02-10 | 5 | 1 | 11 |
 | Mini Industrial PoE Switch | 2025-01-13 | 2025-01-13 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-12-31 | 2024-12-31 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2024-12-24 | 2024-12-24 | 0 | 1 | 1 |
 | 2.5G Web Managed Switch | 2024-12-19 | 2024-12-19 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-12-05 | 2024-12-05 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-01 | 2024-12-01 | 2 | 1 | 4 |
-| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 47 条： 3-0mp-ip-h-265-new-indoor-camera； 3-0mp-ip-h-265-new-outdoor-camera-4-ir-array-le
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-121/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://vintronsmartvision.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8950 字符；首行：CCTV Manufacturer India \| Vintron \| CCTV Manufacturer India — PoE Switches, C |
-| [sitemap](https://vintronsmartvision.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 127 个 URL；最新 lastmod - |
+| [home](https://vintronsmartvision.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 8897 字符；首行：CCTV Manufacturer India \| Vintron Smartvision |
+| [sitemap](https://vintronsmartvision.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 127 个 URL；最新 lastmod - |
 | [news_1](https://www.vintronsmartvision.com/blog.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12432 字符；首行：Vintron CCTV Blog \| Industry Insights for Dealers & Integrators Vintron CCTV  |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/Vintronsmartvision；LinkedIn: https://www.linkedin.com/company/vintron-smartvision/；Instagram: https://www.instagram.com/vintronsmartvision?igsi=MXc4M3o1dnNkNjR4eA==

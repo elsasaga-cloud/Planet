@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -110,16 +110,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_1：内容变化：+1 −186 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-611/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.elementuengenharia.com.br/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4085 字符；首行：Elementu engenharia e integração \| integração \| Rua Pedro José Laroca, 1667 J |
 | [sitemap](https://www.elementuengenharia.com.br/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.elementuengenharia.com.br/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6092 字符；首行：Blog \| Araraquara \| Elementu engenharia e integração |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCgWfFOxdFPunN47bix_F9sA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCgWfFOxdFPunN47bix_F9sA |
+| [news_1](https://www.elementuengenharia.com.br/blog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 0 字符；首行： |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCgWfFOxdFPunN47bix_F9sA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCgWfFOxdFPunN47bix_F9sA |
 | [feed_auto](https://www.elementuengenharia.com.br/blog-feed.xml) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 20 条；最新：Thu, 18 Jan 2024 11:54:11 Sistema de Pesagem em Movimento de Alta Velocidade (HS-W |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/elementuengenharia/?hl=pt-br；Facebook: https://www.facebook.com/elementu.engenharia.integracao/；LinkedIn: https://www.linkedin.com/company/elementu-engenharia-e-integra%C3%A7%C3%A3o
@@ -227,12 +227,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

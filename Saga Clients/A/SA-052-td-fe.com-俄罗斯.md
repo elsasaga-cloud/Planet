@@ -194,15 +194,15 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 2 条：2022-09-04T06:00:01 td-fe.com；2022-09-04T06:00:01 enclosed
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-052/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://td-fe.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 406 字符；首行：Fatal error: Uncaught Error: Call to undefined function mysql_connect() in /home |
-| [sitemap](https://td-fe.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 82 个 URL；最新 lastmod 2022-09-04T06:00:18 |
-| [news_1](https://td-fe.com/news/) | html | HTTP 500 | 2026-10-23T04:20:51Z | 导航「All news」 |
+| [home](https://td-fe.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3342 字符；首行：TH Faraday Electronics Ltd. is a professional developer and manufacturer of pow |
+| [sitemap](https://td-fe.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 82 个 URL；最新 lastmod 2022-09-04T06:00:18 |
+| [news_1](https://td-fe.com/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2048 字符；首行：News of TH Faraday Electronics Ltd. |
 
 ## 联系方式（已有 · 原值照录）
 

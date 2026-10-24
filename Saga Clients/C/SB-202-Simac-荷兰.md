@@ -22,7 +22,7 @@ replies: 0
 followups: 6
 first_contact: 2025-03-19
 last_contact: 2025-10-08
-s_mail: 12 msgs (out 12 / in 0), 2025-09-04 -> 2026-09-14
+s_mail: 16 msgs (out 16 / in 0), 2025-03-19 -> 2026-09-14
 p1: STI-050GE
 price_tier: 25%
 research: done

@@ -21,7 +21,7 @@ replies: 0
 followups: 4
 first_contact: 2025-06-20
 last_contact: 2025-09-23
-s_mail: 12 msgs (out 12 / in 0), 2025-09-23 -> 2026-10-07
+s_mail: 15 msgs (out 15 / in 0), 2025-06-20 -> 2026-10-07
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
@@ -140,7 +140,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2025-09-23 → 2026-10-07　|　**最后去信**：2026-10-07
+- **账号**：a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-06-20 → 2026-10-07　|　**最后去信**：2026-10-07
 - **对方邮箱**：info@sistel-networking.it
 - 对方从未回信（全部为我方去信）
 
@@ -158,10 +158,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-22 | 2025-12-22 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-19 | 2025-11-19 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-23 | 2025-09-23 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-481/`；本节随档案重渲染刷新，实时看日志。
 
@@ -170,7 +171,7 @@ updated: 2026-10-24
 | [home](https://www.sistel-networking.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6579 字符；首行：Cablaggio rame e fibra ottica, Armadi Rack 19 pollici, UPS, Switch, Firewall |
 | [sitemap](https://www.sistel-networking.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.sistel-networking.it/blog-grid-view/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3869 字符；首行：Blog: Novità tendenze approfondimenti networking |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCelEVV67HnYhh4tohzenaAA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCelEVV67HnYhh4tohzenaAA |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCelEVV67HnYhh4tohzenaAA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCelEVV67HnYhh4tohzenaAA |
 | [feed_auto](https://www.sistel-networking.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Tue, 17 Feb 2026 09:06:43 Guida completa alla giunzione della fibra ottica: tecnic |
 
 ## 联系方式（已有 · 原值照录）

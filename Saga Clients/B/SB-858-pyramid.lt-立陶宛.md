@@ -19,7 +19,7 @@ replies: 0
 followups: 15
 first_contact: 2024-05-14
 last_contact: 2025-10-07
-s_mail: 20 msgs (out 20 / in 0), 2024-06-15 -> 2026-09-09
+s_mail: 24 msgs (out 24 / in 0), 2024-06-15 -> 2026-09-09
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -154,7 +154,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 20 / 来 0）　|　**期间**：2024-06-15 → 2026-09-09　|　**最后去信**：2026-09-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 24 / 来 0）　|　**期间**：2024-06-15 → 2026-09-09　|　**最后去信**：2026-09-09
 - **对方邮箱**：arunas@pyramid.lt、info@pyramid-electronics.com、mattheos@pyramid.lt
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-27 $240；2024-09-06 $65；2024-08-09 $220
@@ -173,17 +173,17 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-11 | 2025-11-11 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-07 | 2025-10-07 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-04 | 2025-09-04 | 0 | 1 | 1 |
-| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+1375 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-858/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.pyramid.lt/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 40738 字符；首行：Stebėjimo kameros, signalizacijos, apsaugos sistemos \| Pyramid.lt |
+| [home](https://www.pyramid.lt/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 40637 字符；首行：Stebėjimo kameros, signalizacijos, apsaugos sistemos \| Pyramid.lt |
 | [sitemap](https://www.pyramid.lt/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 
 ## 联系方式（已有 · 原值照录）

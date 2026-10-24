@@ -19,7 +19,7 @@ replies: 0
 followups: 7
 first_contact: 2025-05-27
 last_contact: 2025-11-05
-s_mail: 9 msgs (out 9 / in 0), 2025-08-26 -> 2026-03-09
+s_mail: 12 msgs (out 12 / in 0), 2025-05-27 -> 2026-03-09
 p1: STC-424XGGM
 price_tier: 20%
 research: done
@@ -127,7 +127,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2025-08-26 → 2026-03-09　|　**最后去信**：2026-03-09
+- **账号**：a.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2025-05-27 → 2026-03-09　|　**最后去信**：2026-03-09
 - **对方邮箱**：sales@netsolutionstore.com.au
 - 对方从未回信（全部为我方去信）
 
@@ -142,18 +142,21 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2025-10-15 | 2025-10-15 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-08-26 | 2025-08-26 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-16 | 2025-07-16 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-06-19 | 2025-06-19 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 404 条：2026-10-23T15:20:26 X870-32c.php；2026-10-23T15:20:26 X870-96x-8c.php；2026-10-23T1
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-992/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.netsolutionstore.com.au/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4248 字符；首行：Extreme Networks Products & Solutions \| NetSolutionStore.com.au |
-| [sitemap](https://www.netsolutionstore.com.au/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 484 个 URL；最新 lastmod 2026-10-22T13:31:06 |
-| [youtube](https://www.youtube.com/c/VirtualgraffitiAU) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [sitemap](https://www.netsolutionstore.com.au/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 484 个 URL；最新 lastmod 2026-10-23T15:20:26 |
+| [youtube](https://www.youtube.com/c/VirtualgraffitiAU) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/VirtualGraffitiAU/；X/Twitter: https://twitter.com/vgaustralia；LinkedIn: https://www.linkedin.com/company/virtual-graffiti-australia-pty-limited
 

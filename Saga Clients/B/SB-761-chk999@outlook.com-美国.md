@@ -21,7 +21,7 @@ replies: 1
 followups: 14
 first_contact: 2025-02-08
 last_contact: 2025-10-31
-s_mail: 21 msgs (out 20 / in 1), 2024-10-30 -> 2026-08-31
+s_mail: 26 msgs (out 25 / in 1), 2024-10-30 -> 2026-08-31
 p1: STI-288GP
 price_tier: 25%
 research: done
@@ -106,7 +106,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 20 / 来 1）　|　**期间**：2024-10-30 → 2026-08-31　|　**最后去信**：2026-08-31
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 25 / 来 1）　|　**期间**：2024-10-30 → 2026-08-31　|　**最后去信**：2026-08-31
 - **对方邮箱**：chk999@outlook.com
 - **最后一封来信**：2024-10-30 chk999@outlook.com「Re: 10G Ethernet Web Managed Switch」：Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan
 
@@ -124,7 +124,7 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2025-12-17 | 2025-12-17 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-12-01 | 2025-12-01 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-10-31 | 2025-10-31 | 0 | 1 | 1 |
-| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

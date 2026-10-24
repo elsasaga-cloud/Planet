@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-01-30
 last_contact: 2025-01-30
-s_mail: 17 msgs (out 15 / in 2), 2024-06-24 -> 2026-09-07
+s_mail: 22 msgs (out 20 / in 2), 2024-06-24 -> 2026-09-07
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
@@ -139,7 +139,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 15 / 来 2）　|　**期间**：2024-06-24 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 20 / 来 2）　|　**期间**：2024-06-24 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：ahyz@bitstream.pl、dpietrzyk@bitstream.pl、info@bitstream.pl、ksurowiec@bitstream.pl
 - **最后一封来信**：2026-08-11 ahyz@bitstream.pl「Nieobecność Re: 24 Port PoE Managed Switch」：W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl -- Z poważaniem, Aleksander Hyz Zespół BitStream [图:Aleksander Hyz] Aleksander Hyz Technolog produkcji +48 81 743 86
 - **邮件里报过的价**：2024-11-22 $300；2024-08-17 $65
@@ -154,24 +154,24 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-10 | 2025-10-10 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2025-01-30 | 2025-01-30 | 1 | 2 | 8 |
-| 48 Port PoE Managed Switch | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
-| 8 Port 2.5G Switch | 2024-10-29 | 2024-10-29 | 0 | 1 | 1 |
-| 8 Port Ethernet Switch | 2024-09-10 | 2024-09-10 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-08-05 | 2025-08-05 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-07-03 | 2025-07-03 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-05-26 | 2025-05-26 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-01-30 | 2025-04-21 | 1 | 4 | 14 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 771 条：2026-08-18T11:31:26 bitstream.pl；2026-08-18T11:31:26 en；2026-08-18T11:31:26 it；20
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-031/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://bitstream.pl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2154 字符；首行：Polski producent urządzeń do transmisji danych \| BitStream |
-| [sitemap](https://bitstream.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 851 个 URL；最新 lastmod 2026-10-09T14:42:14 |
+| [sitemap](https://bitstream.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 851 个 URL；最新 lastmod 2026-10-09T14:42:14 |
 | [news_1](https://bitstream.pl/o-nas/realizacje/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1974 字符；首行：Realizacje |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCOz0wLfEeqn8PTFcCIUaKkg) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCOz0wLfEeqn8PTFcCIUaKkg |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCOz0wLfEeqn8PTFcCIUaKkg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCOz0wLfEeqn8PTFcCIUaKkg |
 | [feed_auto](https://bitstream.pl/rss/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 30 条；最新：Thu, 08 Oct 2026 12:13:20 Mediakonwerter w sieciach przemysłowych – kiedy światłow |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/bitstream.poland/；LinkedIn: https://pl.linkedin.com/company/bitstream-poland；X/Twitter: https://twitter.com/BitstreamPoland

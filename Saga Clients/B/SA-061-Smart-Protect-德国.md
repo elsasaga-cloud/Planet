@@ -22,7 +22,7 @@ replies: 1
 followups: 1
 first_contact: 2025-05-13
 last_contact: 2025-05-13
-s_mail: 11 msgs (out 10 / in 1), 2025-06-10 -> 2026-09-07
+s_mail: 17 msgs (out 14 / in 3), 2025-04-15 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -116,7 +116,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：11 封（去 10 / 来 1）　|　**期间**：2025-06-10 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：a.sagatelecom　|　**邮件**：17 封（去 14 / 来 3）　|　**期间**：2025-04-15 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：info@smart-protect.nrw、info@walker-security.systems
 - **最后一封来信**：2025-06-10 info@walker-security.systems「Re: Industrial PoE Switch」：Hello , Are the switches manageable ? Mit freundlichen Grüßen [图:image001.jpg] [图:image002.png] +49 2153 909 77 40 \| +49 177 322 42 15 [图:image003.png] invoice@walker-security.systems [图:image004.png] www.walker-security.systems <https://www.walker-security.sy
 
@@ -130,10 +130,14 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-06 | 2025-10-06 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-06-10 | 2025-09-09 | 1 | 3 | 3 |
+| 16 Port Ethernet Switch | 2025-07-15 | 2025-07-15 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-05-13 | 2025-05-13 | 1 | 2 | 14 |
+| !!Achtung neue Mail Adresse!! | 2025-05-13 | 2025-05-13 | 1 | 0 | 0 |
+| 8 Port Industrial PoE Switch | 2025-04-15 | 2025-04-15 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-061/`；本节随档案重渲染刷新，实时看日志。
 

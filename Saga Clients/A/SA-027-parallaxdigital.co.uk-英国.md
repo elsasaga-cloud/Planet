@@ -21,7 +21,7 @@ replies: 2
 followups: 16
 first_contact: 2024-05-07
 last_contact: 2025-10-14
-s_mail: 23 msgs (out 21 / in 2), 2024-06-03 -> 2026-09-28
+s_mail: 28 msgs (out 26 / in 2), 2024-06-03 -> 2026-09-28
 p1: STI-144GP
 price_tier: 30%
 research: done
@@ -169,7 +169,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 21 / 来 2）　|　**期间**：2024-06-03 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 26 / 来 2）　|　**期间**：2024-06-03 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：jeff.ferrier@parallaxdigital.co.uk、networkops@parallaxdigital.co.uk
 - **最后一封来信**：2024-10-24 jeff.ferrier@parallaxdigital.co.uk「Re: 24V/48V PoE Switch」：Simon Thanks for the info Customers usually want one or the other and not a combo We sell desktop and rack for both Jeff Jeff Ferrier Director [image] ……………………………………………………………………………………………………………….. [image] T: +44 1670 202001 M: +44 7709 802615 jeff.ferrier@paral
 - **邮件里报过的价**：2024-07-03 $65；2024-06-03 $220
@@ -188,11 +188,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-26 | 2025-12-26 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-07 | 2025-11-07 | 0 | 1 | 1 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-027/`；本节随档案重渲染刷新，实时看日志。
 
@@ -202,7 +202,7 @@ updated: 2026-10-24
 | [sitemap](https://parallaxdigital.co.uk/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://parallaxdigital.co.uk/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6671 字符；首行：News – Parallax Digital |
 | [news_2](https://parallaxdigital.co.uk/projects/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4517 字符；首行：Projects – Parallax Digital |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxopjYNDTtcIM_TEsEOkfOw) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCxopjYNDTtcIM_TEsEOkfOw |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxopjYNDTtcIM_TEsEOkfOw) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCxopjYNDTtcIM_TEsEOkfOw |
 | [feed_auto](https://parallaxdigital.co.uk/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 7 条；最新：Sun, 09 Aug 2026 11:55:37 Website Email Issue Sorted |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/ParallaxDigTech；X/Twitter: https://twitter.com/ParallaxDigTech；LinkedIn: https://www.linkedin.com/company/14845052/；Instagram: https://www.instagram.com/parallaxdigtech/

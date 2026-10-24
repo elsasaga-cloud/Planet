@@ -19,7 +19,7 @@ replies: 0
 followups: 19
 first_contact: 2024-05-02
 last_contact: 2025-10-28
-s_mail: 28 msgs (out 25 / in 3), 2024-05-02 -> 2026-09-28
+s_mail: 33 msgs (out 30 / in 3), 2024-05-02 -> 2026-09-28
 p1: STI-110GE
 price_tier: 30%
 research: done
@@ -134,7 +134,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 25 / 来 3）　|　**期间**：2024-05-02 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 30 / 来 3）　|　**期间**：2024-05-02 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：brandon@dmsimfg.com、dustin@dmsimfg.com、evan@dmsimfg.com、info@dmsimfg.com、iylin@dmsimfg.com、kelly@dmsimfg.com
 - **最后一封来信**：2025-01-02 brandon@dmsimfg.com「Automatic reply: 48 Port 10G Core Switch」：December 25th through January 5th DMSI facilities are closed. We will re-open on Monday January 6th. The sales team is monitoring emails, responses will be delayed.
 - **邮件里报过的价**：2024-11-21 $300
@@ -153,11 +153,11 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-01-26 | 2026-01-26 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-06 | 2026-01-06 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-12 | 2025-12-12 | 0 | 1 | 1 |
-| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-528/`；本节随档案重渲染刷新，实时看日志。
 

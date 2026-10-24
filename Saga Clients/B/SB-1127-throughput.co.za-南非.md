@@ -21,7 +21,7 @@ replies: 0
 followups: 4
 first_contact: 2025-06-27
 last_contact: 2025-11-04
-s_mail: 12 msgs (out 12 / in 0), 2025-01-14 -> 2026-10-02
+s_mail: 16 msgs (out 16 / in 0), 2025-01-14 -> 2026-10-02
 p1: STI-288GPM
 price_tier: 20%
 research: done
@@ -132,7 +132,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2025-01-14 → 2026-10-02　|　**最后去信**：2026-10-02
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2025-01-14 → 2026-10-02　|　**最后去信**：2026-10-02
 - **对方邮箱**：anton@throughput.co.za、bob@throughput.co.za、sales@throughput.co.za、support@throughput.co.za
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-14 $240
@@ -150,11 +150,12 @@ updated: 2026-10-24
 | Optional Marvell Chipset Solutions | 2025-12-03 | 2025-12-03 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-04 | 2025-11-04 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-01-14 | 2025-01-14 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-07-25 | 2025-07-25 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1127/`；本节随档案重渲染刷新，实时看日志。
 

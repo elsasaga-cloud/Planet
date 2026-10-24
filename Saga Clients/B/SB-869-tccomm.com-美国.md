@@ -19,7 +19,7 @@ replies: 0
 followups: 19
 first_contact: 2025-02-20
 last_contact: 2025-11-04
-s_mail: 34 msgs (out 33 / in 1), 2024-06-19 -> 2026-09-09
+s_mail: 44 msgs (out 43 / in 1), 2024-06-19 -> 2026-09-09
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -152,7 +152,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：34 封（去 33 / 来 1）　|　**期间**：2024-06-19 → 2026-09-09　|　**最后去信**：2026-09-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：44 封（去 43 / 来 1）　|　**期间**：2024-06-19 → 2026-09-09　|　**最后去信**：2026-09-09
 - **对方邮箱**：fredrickc@tccomm.com、larry@novaca.com、stevec@tccomm.com
 - **最后一封来信**：2024-10-30 chk999@outlook.com「Re: 10G Ethernet Web Managed Switch」：Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan
 - **邮件里报过的价**：2024-11-26 $65；2024-06-19 $220
@@ -175,17 +175,17 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 400 条： BECOL； Serial-Over-T1-E1-Multiplexer； TDM-over-IP-Jumboswitch； Fiber； Network-Co
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-869/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://tccomm.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9456 字符；首行：TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions |
-| [sitemap](https://tccomm.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 481 个 URL；最新 lastmod - |
+| [sitemap](https://tccomm.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 481 个 URL；最新 lastmod - |
 | [news_1](https://tccomm.com/NewsEvents) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6586 字符；首行：Product Updates on How TC Integrates Ethernet, TDM & Voice on One Rugged GigE P |
 | [news_2](https://tccomm.com/NewsandUpdates) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8930 字符；首行：Product Updates on How TC Integrates Ethernet, TDM & Voice on One Rugged GigE P |
-| [youtube](https://www.youtube.com/@TCCommInc) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@TCCommInc) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: http://www.linkedin.com/company/tc-communications_2
 

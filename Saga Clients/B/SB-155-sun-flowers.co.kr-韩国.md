@@ -19,7 +19,7 @@ replies: 0
 followups: 23
 first_contact: 2024-05-01
 last_contact: 2025-10-29
-s_mail: 28 msgs (out 28 / in 0), 2024-06-19 -> 2026-09-14
+s_mail: 35 msgs (out 35 / in 0), 2024-06-19 -> 2026-09-14
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -138,7 +138,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-06-19 → 2026-09-14　|　**最后去信**：2026-09-14
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 35 / 来 0）　|　**期间**：2024-06-19 → 2026-09-14　|　**最后去信**：2026-09-14
 - **对方邮箱**：sun@sun-flowers.co.kr
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-09-12 $65；2024-06-19 $220
@@ -157,11 +157,11 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-02-13 | 2026-02-13 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-23 | 2026-01-23 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-31 | 2025-12-31 | 0 | 1 | 1 |
-| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-155/`；本节随档案重渲染刷新，实时看日志。
 

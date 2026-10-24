@@ -19,7 +19,7 @@ replies: 0
 followups: 1
 first_contact: 2025-10-09
 last_contact: 2025-10-09
-s_mail: 2 msgs (out 2 / in 0), 2025-01-08 -> 2025-09-09
+s_mail: 7 msgs (out 7 / in 0), 2025-01-08 -> 2025-09-09
 p1: STI-288GPM
 price_tier: 25%
 research: done
@@ -117,25 +117,30 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：2 封（去 2 / 来 0）　|　**期间**：2025-01-08 → 2025-09-09　|　**最后去信**：2025-09-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2025-01-08 → 2025-09-09　|　**最后去信**：2025-09-09
 - **对方邮箱**：mamun@mkseoman.com
 - 对方从未回信（全部为我方去信）
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | 24 Port Fiber Switch | 2025-09-09 | 2025-09-09 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-04 | 2025-08-04 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-03 | 2025-07-03 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-06-05 | 2025-06-05 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-05-06 | 2025-05-06 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-03-25 | 2025-03-25 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-01-08 | 2025-01-08 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2022-05-05 air_venera_switch.html?cid=20；2022-05-05 air_venera_dimmer.html?cid=21
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-743/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.tiscontrol.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8522 字符；首行：Smart Home Automation \| Hotel Automation System \| TIS |
-| [sitemap](https://www.tiscontrol.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2022-05-05 |
+| [sitemap](https://www.tiscontrol.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2022-05-05 |
 
 ## 联系方式（已有 · 原值照录）
 

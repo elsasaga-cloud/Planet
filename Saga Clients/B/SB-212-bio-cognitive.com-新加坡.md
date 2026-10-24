@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-07-07
 last_contact: 2025-07-07
-s_mail: 14 msgs (out 14 / in 0), 2024-06-18 -> 2026-09-04
+s_mail: 23 msgs (out 21 / in 2), 2024-06-18 -> 2026-09-04
 p1: STI-21616GP
 price_tier: 25%
 research: done
@@ -117,9 +117,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2024-06-18 → 2026-09-04　|　**最后去信**：2026-09-04
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 21 / 来 2）　|　**期间**：2024-06-18 → 2026-09-04　|　**最后去信**：2026-09-04
 - **对方邮箱**：amyhoi@bio-cognitive.com、enquiries@bio-cognitive.com
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-07-07 amyhoi@bio-cognitive.com「RE: Commercial PoE Switch」：HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mobile number will be replaced with 87967877, do update your records. 😊 Best Regards, Amy Hoi (Ms) 許婉颖 HP: (65) 8796 7877 Bio-Cognitive Solutions Pte Lt
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -131,15 +131,15 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-10 | 2025-10-10 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-09-09 | 2025-09-09 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2025-01-29 | 2025-01-29 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-09-16 | 2024-09-16 | 0 | 1 | 1 |
-| 24V poe switch | 2024-08-15 | 2024-08-15 | 0 | 1 | 1 |
-| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Commercial PoE Switch | 2025-07-07 | 2025-08-06 | 2 | 4 | 13 |
+| Marvell Industrial Alert System | 2025-06-06 | 2025-06-06 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-05-02 | 2025-05-02 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-03-04 | 2025-03-04 | 0 | 1 | 1 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-212/`；本节随档案重渲染刷新，实时看日志。
 

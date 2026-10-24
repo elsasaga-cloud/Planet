@@ -21,7 +21,7 @@ replies: 1
 followups: 19
 first_contact: 2023-12-15
 last_contact: 2025-10-10
-s_mail: 13 msgs (out 13 / in 0), 2024-09-30 -> 2026-09-25
+s_mail: 17 msgs (out 17 / in 0), 2024-09-30 -> 2026-09-25
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
@@ -166,7 +166,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2024-09-30 → 2026-09-25　|　**最后去信**：2026-09-25
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-09-30 → 2026-09-25　|　**最后去信**：2026-09-25
 - **对方邮箱**：bok@rfog.pl、tomasz.paszkowski@rfog.pl
 - 对方从未回信（全部为我方去信）
 
@@ -184,18 +184,18 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-10 | 2025-10-10 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2019-07-21T16:32:53 produkt,1101,mini-nadajnik-swiatlowodowy-catv-rf1t15tftth-min
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-051/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](http://www.rfog.pl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7870 字符；首行：Transmisja światłowodowa i sieci światłowodowe. Światłowody, media konwertery,  |
-| [sitemap](http://www.rfog.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2019-07-21T16:32:53 |
+| [sitemap](http://www.rfog.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2019-07-21T16:32:53 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/RFOGPL/
 

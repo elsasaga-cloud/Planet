@@ -19,7 +19,7 @@ replies: 0
 followups: 6
 first_contact: 2025-05-02
 last_contact: 2025-09-19
-s_mail: 5 msgs (out 5 / in 0), 2025-09-19 -> 2026-02-26
+s_mail: 10 msgs (out 10 / in 0), 2025-05-02 -> 2026-02-26
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -121,7 +121,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：5 封（去 5 / 来 0）　|　**期间**：2025-09-19 → 2026-02-26　|　**最后去信**：2026-02-26
+- **账号**：a.sagatelecom　|　**邮件**：10 封（去 10 / 来 0）　|　**期间**：2025-05-02 → 2026-02-26　|　**最后去信**：2026-02-26
 - **对方邮箱**：thomas.thoma@art2soft.eu
 - 对方从未回信（全部为我方去信）
 
@@ -132,10 +132,15 @@ updated: 2026-10-24
 | Optional Marvell Chipset Solutions | 2025-12-10 | 2025-12-10 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-12 | 2025-11-12 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-08-15 | 2025-08-15 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-15 | 2025-07-15 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-06-19 | 2025-06-19 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-05-20 | 2025-05-20 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-05-02 | 2025-05-02 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-682/`；本节随档案重渲染刷新，实时看日志。
 

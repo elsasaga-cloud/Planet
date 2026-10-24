@@ -19,7 +19,7 @@ replies: 0
 followups: 15
 first_contact: 2024-05-10
 last_contact: 2025-10-07
-s_mail: 19 msgs (out 19 / in 0), 2024-07-08 -> 2026-09-10
+s_mail: 23 msgs (out 23 / in 0), 2024-07-08 -> 2026-09-10
 p1: STI-288GP
 price_tier: 20%
 research: done
@@ -148,7 +148,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 19 / 来 0）　|　**期间**：2024-07-08 → 2026-09-10　|　**最后去信**：2026-09-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-07-08 → 2026-09-10　|　**最后去信**：2026-09-10
 - **对方邮箱**：e.slavev@maxtel.bg、info@maxtel.bg、varna@maxtel.bg
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-10-22 $65
@@ -167,11 +167,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-11 | 2025-11-11 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-07 | 2025-10-07 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-04 | 2025-09-04 | 0 | 1 | 1 |
-| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-362/`；本节随档案重渲染刷新，实时看日志。
 

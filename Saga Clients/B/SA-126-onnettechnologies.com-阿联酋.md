@@ -22,7 +22,7 @@ replies: 1
 followups: 1
 first_contact: 2025-04-25
 last_contact: 2025-04-25
-s_mail: 6 msgs (out 4 / in 2), 2026-03-30 -> 2026-09-08
+s_mail: 12 msgs (out 7 / in 5), 2025-03-26 -> 2026-09-08
 p1: STI-288DGGPM-2BT
 price_tier: 30%
 research: done
@@ -130,7 +130,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：6 封（去 4 / 来 2）　|　**期间**：2026-03-30 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：a.sagatelecom　|　**邮件**：12 封（去 7 / 来 5）　|　**期间**：2025-03-26 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：saurabh@onnettechnologies.com
 - **最后一封来信**：2026-08-10 saurabh@onnettechnologies.com「RE: 24 Port PoE Managed Switch」：Hi Alan, We only use below configurations 1. 4 POE +2 Uplink with Booster ( 10-30 V DC In PoE Out ) 2. 4G PoE + 2 /1 Gig Uplink + 1/2 SFP Uplink with watch dog ( PoE ) and option up to 250 meter with dip switch – Unmanaged 3. 8G PoE + 2 /1 Gig Uplink + 1/2 SFP
 
@@ -140,10 +140,12 @@ updated: 2026-10-24
 | 24 Port PoE Managed Switch | 2026-08-10 | 2026-08-10 | 1 | 1 | 2 |
 | Saga Q3 Product Links | 2026-07-15 | 2026-07-15 | 1 | 1 | 3 |
 | Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-25 | 2025-04-25 | 3 | 2 | 5 |
+| Marvell Alleycat5 Solution | 2025-03-26 | 2025-03-26 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-126/`；本节随档案重渲染刷新，实时看日志。
 

@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-02-11
 last_contact: 2025-10-22
-s_mail: 21 msgs (out 21 / in 0), 2024-06-28 -> 2026-09-22
+s_mail: 26 msgs (out 26 / in 0), 2024-06-28 -> 2026-09-22
 p1: STC-424XGGM
 price_tier: 30%
 research: done
@@ -140,7 +140,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-06-28 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 26 / 来 0）　|　**期间**：2024-06-28 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：contact@elfcams.com
 - 对方从未回信（全部为我方去信）
 
@@ -158,18 +158,20 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-26 | 2025-11-26 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-22 | 2025-10-22 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-09-16 | 2025-09-16 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-533/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.elfcams.com/) | html | ReadTimeout: HTTPSConnectionPool(host='www.elfcams.com', por | - | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.elfcams.com/sitemap_index.xml) | sitemap | ReadTimeout: HTTPSConnectionPool(host='www.elfcams.com', por | - | 站点地图（2026-10-21 时 681 条） |
-| [news_1](https://www.elfcams.com/article) | html | ReadTimeout: HTTPSConnectionPool(host='www.elfcams.com', por | - | 导航「Articles sur la fibre optique」 |
+| [home](https://www.elfcams.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 12224 字符；首行：Elfcam \| Votre spécialiste en équipements fibre optique et réseau |
+| [sitemap](https://www.elfcams.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://www.elfcams.com/article) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9778 字符；首行：Guides & Articles Fibre Optique — Installation, PON, WiFi \| Elfcam |
+| [feed_auto](https://www.elfcams.com/feed) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Mon, 08 Dec 2025 10:19:11 Comparatif PVC vs LSZH vs TPU : Quel Matériau de Gaine p |
 
 - **人工定期看（登录墙，不自动抓）**：WhatsApp: https://wa.me/33749955099；WhatsApp: https://wa.me/33668549177
 

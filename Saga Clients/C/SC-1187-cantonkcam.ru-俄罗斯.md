@@ -19,7 +19,7 @@ replies: 0
 followups: 17
 first_contact: 2024-06-04
 last_contact: 2025-10-31
-s_mail: 15 msgs (out 15 / in 0), 2024-06-27 -> 2026-04-22
+s_mail: 20 msgs (out 20 / in 0), 2024-06-27 -> 2026-04-22
 p1: STC-28DGGPM
 price_tier: 20%
 research: pending

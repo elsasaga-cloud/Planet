@@ -19,7 +19,7 @@ replies: 0
 followups: 16
 first_contact: 2024-05-09
 last_contact: 2025-10-17
-s_mail: 21 msgs (out 21 / in 0), 2024-07-04 -> 2026-08-14
+s_mail: 25 msgs (out 25 / in 0), 2024-07-04 -> 2026-08-14
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -153,7 +153,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-07-04 → 2026-08-14　|　**最后去信**：2026-08-14
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2024-07-04 → 2026-08-14　|　**最后去信**：2026-08-14
 - **对方邮箱**：nigilm@simpleuk.com、sales@simpleuk.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-13 $300
@@ -172,18 +172,18 @@ updated: 2026-10-24
 | Optional Marvell Chipset Solutions | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-11 | 2025-11-11 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2020-09-16 cfp-100g；2019-11-12 cisco-memory；2019-12-20 compact-flash；2019-11-12 d
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-863/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.simpleuk.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3923 字符；首行：Simple Technology. Simple Technology |
-| [sitemap](https://www.simpleuk.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2026-10-22 |
+| [sitemap](https://www.simpleuk.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-10-22 |
 | [news_1](https://www.simpleuk.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5875 字符；首行：Blog. Simple Technology |
 | [news_2](https://www.simpleuk.com/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2576 字符；首行：News Archive. Simple Technology |
 | [feed_auto](https://www.simpleuk.com/news/rss/2) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 2 条；最新： Our Commitment to Quality |

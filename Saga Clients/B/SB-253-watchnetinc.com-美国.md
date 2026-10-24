@@ -19,7 +19,7 @@ replies: 0
 followups: 19
 first_contact: 2024-04-23
 last_contact: 2025-10-28
-s_mail: 30 msgs (out 30 / in 0), 2024-06-19 -> 2026-09-18
+s_mail: 37 msgs (out 37 / in 0), 2024-06-19 -> 2026-09-18
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -156,7 +156,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 30 / 来 0）　|　**期间**：2024-06-19 → 2026-09-18　|　**最后去信**：2026-09-18
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：37 封（去 37 / 来 0）　|　**期间**：2024-06-19 → 2026-09-18　|　**最后去信**：2026-09-18
 - **对方邮箱**：harish@watchnetinc.com、info@watchnetinc.com、techme@watchnetinc.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-08 $65；2024-12-26 $240；2024-08-18 $300；2024-07-15 $65；2024-06-25 $65
@@ -179,7 +179,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-253/`；本节随档案重渲染刷新，实时看日志。
 
@@ -188,7 +188,7 @@ updated: 2026-10-24
 | [home](https://watchnetinc.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6286 字符；首行：Home Page - WatchNET inc - CCTV, Access Control and NVRs |
 | [news_1](https://watchnetinc.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1613 字符；首行：Blog - WatchNET inc |
 | [news_2](https://watchnetinc.com/events/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1693 字符；首行：Events - WatchNET inc |
-| [youtube](https://www.youtube.com/@watchnetvideos) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@watchnetvideos) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://watchnetinc.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 1 条；最新：Wed, 08 Apr 2020 16:01:09 Hello world! |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/watchnetinc；LinkedIn: https://www.linkedin.com/company/watchnet-inc-/；Instagram: https://www.instagram.com/watchnetinc/

@@ -21,7 +21,7 @@ replies: 2
 followups: 19
 first_contact: 2024-02-26
 last_contact: 2025-10-09
-s_mail: 23 msgs (out 22 / in 1), 2024-06-22 -> 2026-09-28
+s_mail: 29 msgs (out 28 / in 1), 2024-06-22 -> 2026-09-28
 p1: STI-288GP
 price_tier: 25%
 research: done
@@ -115,7 +115,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 22 / 来 1）　|　**期间**：2024-06-22 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 28 / 来 1）　|　**期间**：2024-06-22 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：pongpanot.k@hotmail.com
 - **最后一封来信**：2024-07-04 pongpanot.k@hotmail.com「Re: 8 Port Network Switch」：Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 sets for Tunnel project in Bangkok. Rdgs, Pongpanot
 
@@ -133,7 +133,7 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-22 | 2025-12-22 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
-| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

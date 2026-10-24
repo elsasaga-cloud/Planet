@@ -22,7 +22,7 @@ replies: 1
 followups: 11
 first_contact: 2024-02-04
 last_contact: 2024-10-17
-s_mail: 20 msgs (out 18 / in 2), 2024-11-06 -> 2026-09-21
+s_mail: 25 msgs (out 23 / in 2), 2024-11-06 -> 2026-09-21
 p1: STI-288GPM
 price_tier: 20%
 research: done
@@ -146,7 +146,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 18 / 来 2）　|　**期间**：2024-11-06 → 2026-09-21　|　**最后去信**：2026-09-21
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 23 / 来 2）　|　**期间**：2024-11-06 → 2026-09-21　|　**最后去信**：2026-09-21
 - **对方邮箱**：sales@avanca.com.sg、steven@avanca.com.sg
 - **最后一封来信**：2024-11-06 steven@avanca.com.sg「Re: 10G Media Converter」：Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, Singapore 536209 Tel: +65 62425108 Mobile/Whatsapp: +65 96878577 Email: steven@avanca.com.sg<mailto:steven@avanca.com.s
 
@@ -164,11 +164,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-23 | 2025-12-23 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-132/`；本节随档案重渲染刷新，实时看日志。
 

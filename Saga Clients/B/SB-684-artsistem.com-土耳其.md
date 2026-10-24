@@ -132,17 +132,17 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-684/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.artsistem.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6248 字符；首行：Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı |
-| [sitemap](https://www.artsistem.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2026-10-23T04:28:13 |
-| [news_1](https://www.artsistem.com/haberler) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8530 字符；首行：Haberler · Art Sistem |
-| [news_2](https://www.artsistem.com/duyurular) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2003 字符；首行：Duyurular · Art Sistem |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5V1MNZYedlHLnzpPdHlWsw) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC5V1MNZYedlHLnzpPdHlWsw |
+| [home](https://www.artsistem.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 6320 字符；首行：Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı |
+| [sitemap](https://www.artsistem.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-10-24T04:42:14 |
+| [news_1](https://www.artsistem.com/haberler) | html | HTTP 200 | 2026-10-24T04:35:40Z | 8494 字符；首行：Haberler · Art Sistem |
+| [news_2](https://www.artsistem.com/duyurular) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2015 字符；首行：Duyurular · Art Sistem |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5V1MNZYedlHLnzpPdHlWsw) | rss | HTTP 500 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC5V1MNZYedlHLnzpPdHlWsw |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://tr-tr.facebook.com/ArtSistem；Instagram: https://www.instagram.com/artsistem/；LinkedIn: https://tr.linkedin.com/company/artsistem；WhatsApp: https://wa.me/902125525242
 

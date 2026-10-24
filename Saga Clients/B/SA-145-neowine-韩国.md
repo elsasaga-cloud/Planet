@@ -22,7 +22,7 @@ replies: 1
 followups: 27
 first_contact: 2025-02-14
 last_contact: 2025-11-05
-s_mail: 14 msgs (out 13 / in 1), 2025-01-07 -> 2026-03-09
+s_mail: 22 msgs (out 21 / in 1), 2025-01-07 -> 2026-03-09
 p1: STC-448DGGPM
 price_tier: 20%
 research: done
@@ -150,7 +150,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 13 / 来 1）　|　**期间**：2025-01-07 → 2026-03-09　|　**最后去信**：2026-03-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 21 / 来 1）　|　**期间**：2025-01-07 → 2026-03-09　|　**最后去信**：2026-03-09
 - **对方邮箱**：dexter@neowine.com、godinus@neowine.com
 - **最后一封来信**：2025-01-31 godinus@neowine.com「Re: 48 Port PoE Managed Switch」：ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성:
 - **邮件里报过的价**：2025-02-01 $150（STC-424DGGPM-280W）；2025-01-31 $300
@@ -165,21 +165,24 @@ updated: 2026-10-24
 | 10G Media Converter | 2025-10-20 | 2025-10-20 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-26 | 2025-09-26 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-03 | 2025-09-03 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2025-01-31 | 2025-02-20 | 1 | 4 | 9 |
-| Industrial PoE Switch | 2025-01-07 | 2025-01-07 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-08-14 | 2025-08-14 | 0 | 1 | 1 |
+| 16 Port PoE Managed Switch | 2025-07-18 | 2025-07-18 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-26 | 2025-06-26 | 0 | 1 | 1 |
+| Marvell Networking Solutions | 2025-06-04 | 2025-06-04 | 0 | 1 | 1 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+8 −8 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-145/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://neowine.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1926 字符；首行：neowine |
-| [sitemap](https://neowine.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 86 个 URL；最新 lastmod 2026-09-18 |
-| [news_1](https://neowine.com/bbs/board.php?bo_table=notice) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1465 字符；首行：NOTICE 1 페이지 \| neowine |
-| [news_2](https://neowine.com/bbs/board.php?bo_table=neowine) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1599 字符；首行：Press 1 페이지 \| neowine |
+| [sitemap](https://neowine.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 86 个 URL；最新 lastmod 2026-09-18 |
+| [news_1](https://neowine.com/bbs/board.php?bo_table=notice) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1465 字符；首行：NOTICE 1 페이지 \| neowine |
+| [news_2](https://neowine.com/bbs/board.php?bo_table=neowine) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1599 字符；首行：Press 1 페이지 \| neowine |
 
 ## 联系方式（已有 · 原值照录）
 

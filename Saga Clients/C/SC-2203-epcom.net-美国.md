@@ -22,7 +22,7 @@ replies: 0
 followups: 8
 first_contact: 2025-03-12
 last_contact: 2025-10-21
-s_mail: 19 msgs (out 16 / in 3), 2025-08-27 -> 2026-10-09
+s_mail: 24 msgs (out 21 / in 3), 2025-03-12 -> 2026-10-09
 p1: STC-424DGGM
 price_tier: 20%
 research: done

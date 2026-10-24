@@ -20,7 +20,7 @@ replies: 0
 followups: 5
 first_contact: 2025-05-20
 last_contact: 2025-09-19
-s_mail: 5 msgs (out 5 / in 0), 2025-09-19 -> 2026-02-26
+s_mail: 9 msgs (out 9 / in 0), 2025-05-20 -> 2026-02-26
 p1: none
 price_tier: 25%
 research: done

@@ -19,7 +19,7 @@ replies: 0
 followups: 10
 first_contact: 2024-05-09
 last_contact: 2025-03-14
-s_mail: 7 msgs (out 7 / in 0), 2024-07-04 -> 2026-01-16
+s_mail: 8 msgs (out 8 / in 0), 2024-07-04 -> 2026-01-16
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -138,7 +138,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2024-07-04 → 2026-01-16　|　**最后去信**：2026-01-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-07-04 → 2026-01-16　|　**最后去信**：2026-01-16
 - **对方邮箱**：saeid.habibi@ddc-group.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-08-22 $65；2024-07-04 $220
@@ -146,6 +146,7 @@ updated: 2026-10-24
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | OEM Core Switching Solution | 2026-01-16 | 2026-01-16 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-03-14 | 2025-03-14 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-02-06 | 2025-02-06 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-11-13 | 2024-11-13 | 0 | 1 | 1 |
 | 2.5G Web Managed Switch | 2024-10-18 | 2024-10-18 | 0 | 1 | 1 |
@@ -155,14 +156,14 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条： level1_en；2022-07-25T05:45:34 vga-cables；2022-07-25T05:45:34 smartphone-car-hold
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-148/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://level1.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 379 字符；首行：Human verification |
-| [sitemap](https://level1.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2022-07-25T05:45:35 |
+| [sitemap](https://level1.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2022-07-25T05:45:35 |
 
 ## 联系方式（已有 · 原值照录）
 

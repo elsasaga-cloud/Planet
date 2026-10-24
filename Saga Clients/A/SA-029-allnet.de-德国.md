@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-07-09
 last_contact: 2025-07-09
-s_mail: 17 msgs (out 15 / in 2), 2024-06-04 -> 2026-10-08
+s_mail: 24 msgs (out 21 / in 3), 2024-06-04 -> 2026-10-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
@@ -142,9 +142,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 15 / 来 2）　|　**期间**：2024-06-04 → 2026-10-08　|　**最后去信**：2026-10-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 21 / 来 3）　|　**期间**：2024-06-04 → 2026-10-08　|　**最后去信**：2026-10-08
 - **对方邮箱**：sales@allnet.de、zerwes@allnet.de
-- **最后一封来信**：2024-08-05 zerwes@allnet.de「Automatische Antwort: 48 port managed switch」：Sehr geehrte Partner, vielen Dank f?r Ihre Email. Ich bin vom 26.07.2024 bis einschl. 09.08.24 im Urlaub. Ihre Email wird in der zwischenzeit nicht beantwortet. In dringenden F?llen k?nnen sie unseren Vertrieb unter Tel: 089/894222-22 erreichen. E-Mail: sales@
+- **最后一封来信**：2025-07-10 zerwes@allnet.de「AW: 16 Port Ethernet Switch」：Hallo Alan, sorry we have our solution with SFP Slots and Managed Versions. Thanks Gerhard Von: Alan from Saga Telecom <a.sagatelecom@gmail.com> Gesendet: Mittwoch, 9. Juli 2025 14:50 An: Gerhard Zerwes <zerwes@allnet.de> Betreff: 16 Port Ethernet Switch Hi, G
 - **邮件里报过的价**：2026-10-08 $180；2024-08-05 $220
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -158,14 +158,14 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-14 | 2025-11-14 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-09-22 | 2025-09-22 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2025-02-04 | 2025-02-04 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-11-28 | 2024-11-28 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-14 | 2024-10-14 | 0 | 1 | 1 |
-| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| L3 Managed Switch | 2025-08-22 | 2025-08-22 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-09 | 2025-07-11 | 1 | 2 | 5 |
+| Marvell Industrial Alert System | 2025-06-03 | 2025-06-03 | 0 | 1 | 1 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-029/`；本节随档案重渲染刷新，实时看日志。
 

@@ -22,7 +22,7 @@ replies: 1
 followups: 20
 first_contact: 2024-05-03
 last_contact: 2025-12-01
-s_mail: 22 msgs (out 20 / in 2), 2024-06-25 -> 2026-09-07
+s_mail: 28 msgs (out 26 / in 2), 2024-06-25 -> 2026-09-07
 p1: STI-110GE
 price_tier: 30%
 research: done
@@ -138,7 +138,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 20 / 来 2）　|　**期间**：2024-06-25 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 26 / 来 2）　|　**期间**：2024-06-25 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：eric-piaget@looptelecom.com、henri@looptelecom.com、innotrans@looptelecom.com、sandy_tsaih@looptelecom.com
 - **最后一封来信**：2025-12-04 eric-piaget@looptelecom.com「RE: Booster PoE Switch」：Hi Alan, No need now, just for information . Thanks Best regards/Cordialement Eric PIAGET V.P. Marketing Sales EMEA & India LOOP TELECOM Mobile +33(0)6 67 67 10 45 <mailto:eric-piaget@looptelecom.com> eric-piaget@looptelecom.com - FRANCE – UTC+2 <http://www.lo
 - **邮件里报过的价**：2024-12-18 $240；2024-11-25 $300
@@ -152,22 +152,23 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-28 | 2026-02-05 | 2 | 5 | 11 |
 | 10G Enterprise SFP Switch | 2025-10-22 | 2025-10-22 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-16 | 2025-09-16 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2025-02-20 | 2025-02-20 | 0 | 1 | 1 |
-| 16 Port Ethernet Switch | 2025-01-09 | 2025-01-09 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2024-12-18 | 2024-12-18 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-10-30 | 2024-10-30 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 16 Port PoE Managed Switch | 2025-08-21 | 2025-08-21 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-07-11 | 2025-07-11 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-16 | 2025-06-16 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-05-19 | 2025-05-19 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-24 | 2025-04-24 | 0 | 1 | 1 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-065/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://looptelecom.com/) | html | SSLError: HTTPSConnectionPool(host='looptelecom.com', port=4 | - | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://looptelecom.com/sitemap.xml) | sitemap | SSLError: HTTPSConnectionPool(host='looptelecom.com', port=4 | - | 站点地图（2026-10-21 时 346 条） |
+| [sitemap](https://looptelecom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 346 个 URL；最新 lastmod 2021-12-03T06:57:59 |
 | [news_1](https://looptelecom.com/en/news) | html | SSLError: HTTPSConnectionPool(host='looptelecom.com', port=4 | - | 导航「News」 |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/loop-telecom-international/

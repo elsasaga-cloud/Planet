@@ -21,7 +21,7 @@ replies: 1
 followups: 20
 first_contact: 2024-05-02
 last_contact: 2025-10-23
-s_mail: 22 msgs (out 21 / in 1), 2024-06-26 -> 2026-09-09
+s_mail: 28 msgs (out 27 / in 1), 2024-06-26 -> 2026-09-09
 p1: STI-21616GP
 price_tier: 30%
 research: done
@@ -136,7 +136,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 21 / 来 1）　|　**期间**：2024-06-26 → 2026-09-09　|　**最后去信**：2026-09-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 27 / 来 1）　|　**期间**：2024-06-26 → 2026-09-09　|　**最后去信**：2026-09-09
 - **对方邮箱**：info@ad-net.com.tw、robin@ad-net.com.tw
 - **最后一封来信**：2025-09-17 robin@ad-net.com.tw「RE: 16 Port PoE Managed Switch」：Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12 Connectors X-Coded) Managed Ethernet Switch, what would be the price ? Robin @ AD-NET TECHNOLOGY CO., LTD. No.
 - **邮件里报过的价**：2024-12-17 $300；2024-10-29 $65
@@ -154,12 +154,12 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-23 | 2025-10-23 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-09-17 | 2025-09-17 | 1 | 2 | 3 |
-| 24 Port Fiber Switch | 2025-02-20 | 2025-02-20 | 0 | 1 | 1 |
-| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 90W PoE Managed Switch | 2025-08-22 | 2025-08-22 | 0 | 1 | 1 |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-002/`；本节随档案重渲染刷新，实时看日志。
 
@@ -168,7 +168,7 @@ updated: 2026-10-24
 | [home](https://www.ad-net.com.tw/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5312 字符；首行：GEPON, Fiber Optic Media Converters, E1 converters, Taiwan |
 | [sitemap](https://www.ad-net.com.tw/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.ad-net.com.tw/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6414 字符；首行：Blog \| Home |
-| [youtube](https://www.youtube.com/user/sellerofsmiles) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/sellerofsmiles) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/adnetTechnology；X/Twitter: https://twitter.com/ad_net；LinkedIn: https://www.linkedin.com/company/ad-net-technology-co-ltd
 

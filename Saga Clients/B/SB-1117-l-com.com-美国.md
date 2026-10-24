@@ -21,7 +21,7 @@ replies: 0
 followups: 9
 first_contact: 2025-04-04
 last_contact: 2025-11-04
-s_mail: 9 msgs (out 6 / in 3), 2024-11-08 -> 2026-03-10
+s_mail: 17 msgs (out 11 / in 6), 2024-11-08 -> 2026-03-10
 p1: STI-288GP
 price_tier: 30%
 research: done
@@ -126,9 +126,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 6 / 来 3）　|　**期间**：2024-11-08 → 2026-03-10　|　**最后去信**：2026-03-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 11 / 来 6）　|　**期间**：2024-11-08 → 2026-03-10　|　**最后去信**：2026-03-10
 - **对方邮箱**：mkleinfelter@l-com.com、noreply@l-com.com、sales@l-com.com、ssmith@l-com.com
-- **最后一封来信**：2025-01-04 noreply@l-com.com「Auto Reply - Thank you for your email - " Industrial PoE Switch ": CASE # 593307」：Thank you for choosing L-Com. You have reached us outside of normal business hours. Our representatives are available Monday - Friday 8am-7:30pm ET and our team will make it a priority to provide an update within the next business day. You can also find produc
+- **最后一封来信**：2025-05-30 noreply@l-com.com「Auto Reply - Thank you for your email - " 90W PoE Managed Switch ": CASE # 65076」：Thank you for choosing L-Com. Your business is very important to us. Due to high volumes, response times may be longer than usual, but we will reply as quickly as possible. For urgent needs,please visit L-Com.com <https://vcyv5qqi.r.us-west-2.awstrack.me/L0/ht
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -138,13 +138,17 @@ updated: 2026-10-24
 | Industrial PoE Switch | 2025-10-14 | 2025-10-14 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-25 | 2025-09-25 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-03 | 2025-09-03 | 0 | 1 | 1 |
-| Auto Reply - Thank you for your email - " Industrial PoE Switch ": CASE # 593307 | 2025-01-04 | 2025-01-04 | 1 | 0 | 0 |
-| Auto Reply - Thank you for your email - " 10G Media Converter ": CASE # 59151985 | 2024-12-04 | 2024-12-04 | 1 | 0 | 0 |
-| Auto Reply - Thank you for your email - " 8 Port Industrial PoE Switch ": CASE # | 2024-11-08 | 2024-11-08 | 1 | 0 | 0 |
+| Marvell Industrial Alert System | 2025-07-29 | 2025-07-29 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-08 | 2025-07-08 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-05-30 | 2025-05-30 | 0 | 1 | 1 |
+| Auto Reply - Thank you for your email - " 90W PoE Managed Switch ": CASE # 65076 | 2025-05-30 | 2025-05-30 | 1 | 0 | 0 |
+| Managed Optical Bypass Switch | 2025-05-02 | 2025-05-02 | 0 | 1 | 2 |
+| Auto Reply - Thank you for your email - " Managed Optical Bypass Switch ": CASE  | 2025-05-02 | 2025-05-02 | 1 | 0 | 0 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1117/`；本节随档案重渲染刷新，实时看日志。
 

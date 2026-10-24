@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 22 msgs (out 21 / in 1), 2024-06-26 -> 2026-09-07
+s_mail: 30 msgs (out 29 / in 1), 2024-06-26 -> 2026-09-07
 p1: STI-280GE
 price_tier: 25%
 research: done
@@ -103,7 +103,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 21 / 来 1）　|　**期间**：2024-06-26 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 29 / 来 1）　|　**期间**：2024-06-26 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：jinsookim2982@gmail.com、jskim@solway.co.kr
 - **最后一封来信**：2026-02-06 jinsookim2982@gmail.com「OEM Core Switching Solution」：Hi Alan, Thank you for your email. I have a request regarding your product lineup. Do you carry Copper Bypass equipment as well? Could you please provide me with your best pricing for both Optic and Copper Bypass switches? Thank you, and I look forward to hear
 - **邮件里报过的价**：2024-11-28 $300
@@ -122,11 +122,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-10-30 | 2025-10-30 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-23 | 2025-09-23 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 29 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-620/`；本节随档案重渲染刷新，实时看日志。
 

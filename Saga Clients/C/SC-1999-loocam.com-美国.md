@@ -19,7 +19,7 @@ replies: 0
 followups: 11
 first_contact: 2025-02-20
 last_contact: 2025-11-06
-s_mail: 22 msgs (out 22 / in 0), 2024-06-21 -> 2026-09-08
+s_mail: 27 msgs (out 27 / in 0), 2024-06-21 -> 2026-09-08
 p1: STC-448DGGPM
 price_tier: 30%
 research: pending

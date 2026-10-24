@@ -19,7 +19,7 @@ replies: 0
 followups: 9
 first_contact: 2025-01-28
 last_contact: 2025-10-09
-s_mail: 7 msgs (out 7 / in 0), 2025-01-28 -> 2026-02-17
+s_mail: 13 msgs (out 13 / in 0), 2025-01-28 -> 2026-02-17
 p1: STI-110GE
 price_tier: 20%
 research: done
@@ -111,7 +111,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2025-01-28 → 2026-02-17　|　**最后去信**：2026-02-17
+- **账号**：a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2025-01-28 → 2026-02-17　|　**最后去信**：2026-02-17
 - **对方邮箱**：apac@omctech.com、rugged@omctech.com、sales@omctech.com
 - 对方从未回信（全部为我方去信）
 
@@ -123,11 +123,17 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
 | Commercial Network Switch | 2025-09-12 | 2025-09-12 | 0 | 1 | 1 |
-| 10G Media Converter | 2025-01-28 | 2025-01-28 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-11 | 2025-08-11 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-10 | 2025-07-10 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-12 | 2025-06-12 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-05-13 | 2025-05-13 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-04-17 | 2025-04-17 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-03-05 | 2025-03-05 | 0 | 1 | 1 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1084/`；本节随档案重渲染刷新，实时看日志。
 

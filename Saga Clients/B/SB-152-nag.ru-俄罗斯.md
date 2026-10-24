@@ -21,7 +21,7 @@ replies: 0
 followups: 1
 first_contact: 2025-09-27
 last_contact: 2025-09-27
-s_mail: 13 msgs (out 12 / in 1), 2024-10-30 -> 2026-09-07
+s_mail: 18 msgs (out 17 / in 1), 2024-10-30 -> 2026-09-07
 p1: none
 price_tier: 30%
 research: done
@@ -115,7 +115,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 12 / 来 1）　|　**期间**：2024-10-30 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 17 / 来 1）　|　**期间**：2024-10-30 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：a.ryazanov@nag.ru、l.abrarova@nag.ru、sales@nag.ru
 - **最后一封来信**：2025-10-01 sales@nag.ru「Re: 10G Enterprise SFP Switch」：? ?
 - **邮件里报过的价**：2025-01-08 $240
@@ -130,24 +130,25 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
 | Re: 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 1 | 1 | 5 |
 | 48 Port PoE Managed Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-01-08 | 2025-01-08 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
-| 24 Port Passive PoE Switch | 2024-10-30 | 2024-10-30 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-07-18 | 2025-07-18 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-24 | 2025-06-24 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-05-22 | 2025-05-22 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-04-11 | 2025-04-11 | 0 | 1 | 1 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 telegram：内容变化：+33 −13 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-152/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://nag.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5705 字符；首行：Главная |
-| [news_1](https://nag.ru/category/56) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5165 字符；首行：Блог НАГ |
-| [telegram](https://t.me/s/NagNews) | html | HTTP 200 | 2026-10-23T04:20:51Z | 13259 字符；首行：Nag.Новости – Telegram |
+| [home](https://nag.ru/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5705 字符；首行：Главная |
+| [news_1](https://nag.ru/category/56) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5165 字符；首行：Блог НАГ |
+| [telegram](https://t.me/s/NagNews) | html | HTTP 200 | 2026-10-24T04:35:40Z | 13259 字符；首行：Nag.Новости – Telegram |
 | [vk](https://vk.com/nag.company) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
-| [youtube](https://www.youtube.com/user/Navuhod) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/Navuhod) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://nag.ru/rss/google) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 60 条；最新：Wed, 01 Apr 2026 06:31:00 Сравнительное тестирование автоматических выключателей н |
 
 ## 联系方式（已有 · 原值照录）

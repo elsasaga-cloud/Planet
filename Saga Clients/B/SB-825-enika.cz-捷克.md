@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-01-30
 last_contact: 2025-10-08
-s_mail: 8 msgs (out 7 / in 1), 2025-01-30 -> 2026-02-09
+s_mail: 13 msgs (out 12 / in 1), 2025-01-30 -> 2026-02-09
 p1: STC-28GM
 price_tier: 20%
 research: done
@@ -128,7 +128,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：8 封（去 7 / 来 1）　|　**期间**：2025-01-30 → 2026-02-09　|　**最后去信**：2026-02-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 12 / 来 1）　|　**期间**：2025-01-30 → 2026-02-09　|　**最后去信**：2026-02-09
 - **对方邮箱**：i.horackova@enika.cz、p.gottwald@enika.cz
 - **最后一封来信**：2025-01-30 p.gottwald@enika.cz「Automatická odpověď: 16 Port Ethernet Switch」：﻿ ﻿ ﻿ ﻿﻿Dobrý den, jsem na dovolené. Zpět budu 3.2. V urgentních případech prosím kontaktujte kolegy na svitidla@enika.cz Děkuji, Pavel Gottwald Hello, I am on vacation. I will be back 3.2. In urgent cases, please contact my colleagues on svitidla@enika.cz. Th
 
@@ -140,22 +140,27 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-13 | 2025-11-13 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-08 | 2025-10-08 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-08 | 2025-09-08 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-05-21 | 2025-05-21 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-04-18 | 2025-04-18 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-14 | 2025-03-14 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-01-30 | 2025-01-30 | 0 | 1 | 1 |
-| Automatická odpověď: 16 Port Ethernet Switch | 2025-01-30 | 2025-01-30 | 1 | 0 | 0 |
+| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-825/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.enika.eu/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5690 字符；首行：Enika Nova Paka |
+| [home](https://www.enika.eu/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5690 字符；首行：Enika Nova Paka |
 | [sitemap](https://www.enika.eu/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.enika.eu/articles/2/aktuality//) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5670 字符；首行：News - Enika Nová Paka |
 | [news_2](https://www.enika.eu/articles/2/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5670 字符；首行：News - Enika Nová Paka |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCu-XHkzP07Pf5r04O3tkYsQ) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCu-XHkzP07Pf5r04O3tkYsQ |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCu-XHkzP07Pf5r04O3tkYsQ) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCu-XHkzP07Pf5r04O3tkYsQ |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/enika.cz；Facebook: https://www.facebook.com/Enika.cz/
 

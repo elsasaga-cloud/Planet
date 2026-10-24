@@ -19,7 +19,7 @@ replies: 0
 followups: 5
 first_contact: 2025-06-19
 last_contact: 2025-10-21
-s_mail: 8 msgs (out 8 / in 0), 2025-08-25 -> 2026-02-09
+s_mail: 10 msgs (out 10 / in 0), 2025-06-18 -> 2026-02-09
 p1: STC-424XGGM
 price_tier: 20%
 research: done
@@ -129,7 +129,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-08-25 → 2026-02-09　|　**最后去信**：2026-02-09
+- **账号**：a.sagatelecom　|　**邮件**：10 封（去 10 / 来 0）　|　**期间**：2025-06-18 → 2026-02-09　|　**最后去信**：2026-02-09
 - **对方邮箱**：sales@serverblink.com
 - 对方从未回信（全部为我方去信）
 
@@ -143,16 +143,18 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2025-10-20 | 2025-10-20 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-09-18 | 2025-09-18 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-08-25 | 2025-08-25 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-07-16 | 2025-07-16 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-06-18 | 2025-06-18 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+9 −9 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-735/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.serverblink.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10386 字符；首行：PC, Computer & Server Parts \| IT Hardware Store \| Server Blink |
+| [home](https://www.serverblink.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 10415 字符；首行：PC, Computer & Server Parts \| IT Hardware Store \| Server Blink |
 | [news_1](https://www.serverblink.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1433 字符；首行：Blog - Server Blink LLC |
 
 ## 联系方式（已有 · 原值照录）

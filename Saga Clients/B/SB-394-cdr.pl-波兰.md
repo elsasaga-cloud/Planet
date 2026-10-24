@@ -21,7 +21,7 @@ replies: 0
 followups: 4
 first_contact: 2025-07-17
 last_contact: 2025-10-20
-s_mail: 14 msgs (out 14 / in 0), 2025-08-26 -> 2026-10-06
+s_mail: 15 msgs (out 15 / in 0), 2025-07-17 -> 2026-10-06
 p1: STC-424XGGM
 price_tier: 20%
 research: done
@@ -131,7 +131,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-08-26 → 2026-10-06　|　**最后去信**：2026-10-06
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-07-17 → 2026-10-06　|　**最后去信**：2026-10-06
 - **对方邮箱**：magdalena@cdr.pl、sales@cdr.pl
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2026-10-06 $180
@@ -150,19 +150,19 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-23 | 2025-12-23 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-20 | 2025-11-20 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-10-20 | 2025-10-20 | 0 | 1 | 1 |
-| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条： k976,access-pointy-routery-systemy-bezprzewodowe-hotspot-ubiquiti-unifi-unifi-cl
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-394/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cdr.pl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4072 字符；首行：CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink,  |
-| [sitemap](https://cdr.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod - |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCpr_pD42oLhqArvw8e6EwdQ) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCpr_pD42oLhqArvw8e6EwdQ |
+| [home](https://cdr.pl/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4031 字符；首行：CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink,  |
+| [sitemap](https://cdr.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod - |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCpr_pD42oLhqArvw8e6EwdQ) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCpr_pD42oLhqArvw8e6EwdQ |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/wwwcdrpl；Instagram: https://www.instagram.com/cdrpl/
 

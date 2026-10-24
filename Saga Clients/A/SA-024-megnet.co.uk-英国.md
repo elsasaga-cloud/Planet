@@ -21,13 +21,13 @@ replies: 1
 followups: 13
 first_contact: 2025-02-19
 last_contact: 2025-12-29
-s_mail: 25 msgs (out 21 / in 4), 2024-12-23 -> 2026-09-08
+s_mail: 26 msgs (out 22 / in 4), 2024-12-23 -> 2026-09-08
 p1: STI-110GE
 price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -152,7 +152,7 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：25 封（去 21 / 来 4）　|　**期间**：2024-12-23 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 22 / 来 4）　|　**期间**：2024-12-23 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：becca@megnet.co.uk、jitendra@megnet.co.uk、nasim@megnet.co.uk、omar@megnet.co.uk、purchasing@megnet.co.uk、rajiv@megnet.co.uk
 - **最后一封来信**：2025-12-01 nasim@megnet.co.uk「Price and lead time」：Hi Team, Please share your best price, lead time, and warranty details for the following unit: HT2500-PSE-BT60 – 60W PoE++ Single-Port Injector This will be a test unit, and if it works on the customer’s end, we will proceed with a bulk order. Kindly advise at
 - **邮件里报过的价**：2026-09-08 $170；2026-07-20 $1500；2025-12-02 $15；2025-10-29 $280；2025-08-27 $240；2025-01-16 $300
@@ -171,17 +171,17 @@ updated: 2026-10-23
 | Industrial PoE Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-08-27 | 2025-08-27 | 3 | 1 | 4 |
 | Mini Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
-| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+28 −28 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-024/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://megnet.co.uk/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8102 字符；首行：Megnet \| Compatible & OEM Network Transceivers, DAC & AOC |
+| [home](https://megnet.co.uk/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 8109 字符；首行：Megnet \| Compatible & OEM Network Transceivers, DAC & AOC |
 | [sitemap](https://megnet.co.uk/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [feed_auto](https://megnet.co.uk/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 22 May 2024 14:13:14 Scaling New Heights: ARI-QSFP+ 100G for Cloud Computing  |
 
@@ -295,12 +295,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-06**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

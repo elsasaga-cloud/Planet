@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-11-11
 last_contact: 2025-11-11
-s_mail: 20 msgs (out 17 / in 3), 2024-07-04 -> 2026-09-28
+s_mail: 25 msgs (out 21 / in 4), 2024-07-04 -> 2026-09-28
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
@@ -141,7 +141,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 17 / 来 3）　|　**期间**：2024-07-04 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 21 / 来 4）　|　**期间**：2024-07-04 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：anders.hedin@direktronik.se、fredrik.brunzell@direktronik.se、info@direktronik.se、mats.backlund@direktronik.se、steffo@direktronik.se
 - **最后一封来信**：2025-11-11 info@direktronik.se「RE: Booster PoE Switch」：Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. Therefore, we need to gather the necessary documentation to ensure compliance. As part of our compliance and quality assurance process, 
 - **邮件里报过的价**：2026-09-28 $180；2024-12-25 $240；2024-08-02 $220
@@ -156,21 +156,21 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-11 | 2025-12-08 | 1 | 3 | 12 |
 | 10G Enterprise SFP Switch | 2025-10-07 | 2025-10-07 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-03 | 2025-09-03 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2025-01-21 | 2025-01-21 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2024-12-25 | 2024-12-25 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-11-27 | 2024-11-27 | 0 | 1 | 1 |
-| 8 Port Ethernet Switch | 2024-10-14 | 2024-10-14 | 0 | 1 | 1 |
-| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 16 Port Ethernet Switch | 2025-07-29 | 2025-07-29 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-12 | 2025-06-12 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-19 | 2025-05-19 | 1 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-12 | 2025-03-12 | 0 | 1 | 1 |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+548 −0 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-067/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.direktronik.se/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 34679 字符；首行：Direktronik - dataprodukter utöver det vanliga |
+| [home](https://www.direktronik.se/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 34679 字符；首行：Direktronik - dataprodukter utöver det vanliga |
 
 ## 联系方式（已有 · 原值照录）
 

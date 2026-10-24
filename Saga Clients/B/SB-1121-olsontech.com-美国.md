@@ -19,7 +19,7 @@ replies: 0
 followups: 11
 first_contact: 2025-02-28
 last_contact: 2025-10-24
-s_mail: 10 msgs (out 9 / in 1), 2025-01-23 -> 2026-02-12
+s_mail: 18 msgs (out 15 / in 3), 2025-01-23 -> 2026-02-12
 p1: STI-110GE
 price_tier: 30%
 research: done
@@ -128,9 +128,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：10 封（去 9 / 来 1）　|　**期间**：2025-01-23 → 2026-02-12　|　**最后去信**：2026-02-12
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 15 / 来 3）　|　**期间**：2025-01-23 → 2026-02-12　|　**最后去信**：2026-02-12
 - **对方邮箱**：peter@olsontech.com、sales@olsontech.com
-- **最后一封来信**：2025-04-24 peter@olsontech.com「CATV Optical Transmitters and Mini Nodes」：Made in the U.S.A. ================== ================== ================== CATV Transmitters & Mini Nodes ============================== ============================== ============================== ####Transmitters - 1.2 GHz Optical Transmitters - Mini Form 
+- **最后一封来信**：2025-08-09 petertarquinio@antronix.com「Re: 24 Port Fiber Switch」：Thank you. Yes, please send manual as well...
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -142,19 +142,22 @@ updated: 2026-10-24
 | 90W PoE Managed Switch | 2025-10-24 | 2025-10-24 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-08 | 2025-09-08 | 0 | 1 | 1 |
-| CATV Optical Transmitters and Mini Nodes | 2025-04-24 | 2025-04-24 | 1 | 0 | 0 |
-| 48 Port SFP Switch | 2025-01-23 | 2025-01-23 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-08-08 | 2025-08-21 | 3 | 4 | 12 |
+| 16 Port Ethernet Switch | 2025-07-14 | 2025-07-14 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-11 | 2025-06-11 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-05-15 | 2025-05-15 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：更新 3 条：aboutus（2026-10-21 → 2026-10-23）；edgepon（2026-10-21 → 2026-10-23）；solutions（2026-10
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1121/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://olsontech.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1643 字符；首行：Home \| OlsonTech |
-| [sitemap](https://olsontech.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 25 个 URL；最新 lastmod 2026-10-22 |
+| [home](https://olsontech.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 1764 字符；首行：What we do |
+| [sitemap](https://olsontech.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 25 个 URL；最新 lastmod 2026-10-23 |
 
 ## 联系方式（已有 · 原值照录）
 

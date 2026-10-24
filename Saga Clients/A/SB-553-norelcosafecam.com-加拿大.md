@@ -22,7 +22,7 @@ replies: 0
 followups: 13
 first_contact: 2024-06-06
 last_contact: 2025-10-18
-s_mail: 15 msgs (out 15 / in 0), 2025-08-29 -> 2026-09-24
+s_mail: 18 msgs (out 18 / in 0), 2025-05-27 -> 2026-09-24
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
@@ -154,7 +154,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-08-29 → 2026-09-24　|　**最后去信**：2026-09-24
+- **账号**：a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2025-05-27 → 2026-09-24　|　**最后去信**：2026-09-24
 - **对方邮箱**：alexs@nsidistribution.com、amanda@nsidistribution.com、claudio@nsidistribution.com、joef@nsidistribution.com、norm@nsidistribution.com、vito@nsidistribution.com
 - 对方从未回信（全部为我方去信）
 
@@ -172,19 +172,19 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-29 | 2026-01-29 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2026-01-05 | 2026-01-05 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-21 | 2025-11-21 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_1：内容变化：+1 −0 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-553/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.nsidistribution.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6227 字符；首行：NSI \| Home |
+| [home](https://www.nsidistribution.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 6234 字符；首行：NSI \| Home |
 | [sitemap](https://www.nsidistribution.com/sitemaps-2-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.nsidistribution.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7607 字符；首行：NSI \| Blog |
+| [news_1](https://www.nsidistribution.com/blog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 7614 字符；首行：NSI \| Blog |
 
 ## 联系方式（已有 · 原值照录）
 

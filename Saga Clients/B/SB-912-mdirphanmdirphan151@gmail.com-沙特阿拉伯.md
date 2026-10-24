@@ -21,7 +21,7 @@ replies: 1
 followups: 23
 first_contact: 2023-12-15
 last_contact: 2025-10-27
-s_mail: 14 msgs (out 14 / in 0), 2024-06-18 -> 2026-10-01
+s_mail: 19 msgs (out 19 / in 0), 2024-06-18 -> 2026-10-01
 p1: STC-2216GPM
 price_tier: 25%
 research: done
@@ -117,7 +117,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2024-06-18 → 2026-10-01　|　**最后去信**：2026-10-01
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 19 / 来 0）　|　**期间**：2024-06-18 → 2026-10-01　|　**最后去信**：2026-10-01
 - **对方邮箱**：mdirphanmdirphan151@gmail.com
 - 对方从未回信（全部为我方去信）
 
@@ -134,8 +134,8 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-23 | 2025-09-23 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-09-01 | 2025-09-01 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2025-01-14 | 2025-01-14 | 0 | 1 | 1 |
-| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 8 Port Industrial PoE Switch | 2025-07-24 | 2025-07-24 | 0 | 1 | 1 |
+| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -19,7 +19,7 @@ replies: 0
 followups: 6
 first_contact: 2025-05-21
 last_contact: 2025-10-27
-s_mail: 14 msgs (out 14 / in 0), 2025-08-29 -> 2026-10-07
+s_mail: 17 msgs (out 17 / in 0), 2025-05-21 -> 2026-10-07
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -130,7 +130,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-08-29 → 2026-10-07　|　**最后去信**：2026-10-07
+- **账号**：a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2025-05-21 → 2026-10-07　|　**最后去信**：2026-10-07
 - **对方邮箱**：efi@palwintec.com
 - 对方从未回信（全部为我方去信）
 
@@ -148,11 +148,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-25 | 2025-12-25 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-10-27 | 2025-10-27 | 0 | 1 | 1 |
-| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-341/`；本节随档案重渲染刷新，实时看日志。
 
@@ -160,7 +160,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | [home](https://palwintec.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1147 字符；首行：עמוד הבית - פאל ווינטק מערכות בע"מ |
 | [sitemap](https://palwintec.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [youtube](https://www.youtube.com/@user-fq6hr6tv2q) | youtube_handle | RuntimeError: channelId not found (HTTP 404) | - | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@user-fq6hr6tv2q) | youtube_handle | RuntimeError: channelId not found (HTTP 404)；YouTube 对运行器 IP | - | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://palwintec.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 01 Aug 2024 12:31:12 Elementor #3717 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/palwintec/?eid=ARA6vCekMFt0aLHSe7dGepW95wAL413m1FhGQjRZUTBM-LZRsiGZ8sviuFbvfOOynUqqUGaODOUib5YP；Instagram: https://www.instagram.com/palwintec/

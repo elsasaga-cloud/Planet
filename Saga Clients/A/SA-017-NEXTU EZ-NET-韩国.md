@@ -21,7 +21,7 @@ replies: 2
 followups: 25
 first_contact: 2024-05-09
 last_contact: 2025-10-24
-s_mail: 28 msgs (out 27 / in 1), 2024-07-09 -> 2026-09-23
+s_mail: 38 msgs (out 35 / in 3), 2024-07-09 -> 2026-09-23
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
@@ -174,9 +174,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 27 / 来 1）　|　**期间**：2024-07-09 → 2026-09-23　|　**最后去信**：2026-09-23
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 35 / 来 3）　|　**期间**：2024-07-09 → 2026-09-23　|　**最后去信**：2026-09-23
 - **对方邮箱**：eznet66@naver.com、sales@ez-net.co.kr
-- **最后一封来信**：2025-02-21 eznet66@naver.com「RE: 16 Port Ethernet Switch」：hi, than you for yr information. there is no uplink port and unmanaged? pls let me know a quotation for this model. thanks br roadman,kim Hi, Kim, How are you? There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industria
+- **最后一封来信**：2025-05-26 eznet66@naver.com「RE: Managed Optical Bypass Switch」：Hi, thank you for yr product information. pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have unmanaged bypass switch hub? pls check and let me know. thanks BR ROADMNA,KIM Hi, Kim, How are you? Th
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -192,18 +192,18 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2026-05-05 | 2026-05-05 | 0 | 1 | 1 |
 | Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-25 | 2025-12-25 | 0 | 1 | 1 |
-| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-017/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://ez-net.co.kr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 370 字符；首行：(주)이지넷유비쿼터스ㅣNEXTU |
-| [youtube](https://www.youtube.com/@10techlife) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@10techlife) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/nextu_headoffice/
 

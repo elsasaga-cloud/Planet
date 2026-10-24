@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 19 msgs (out 18 / in 1), 2024-06-28 -> 2026-08-10
+s_mail: 27 msgs (out 26 / in 1), 2024-06-28 -> 2026-08-10
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -123,7 +123,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 18 / 来 1）　|　**期间**：2024-06-28 → 2026-08-10　|　**最后去信**：2026-08-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 26 / 来 1）　|　**期间**：2024-06-28 → 2026-08-10　|　**最后去信**：2026-08-10
 - **对方邮箱**：21wooh@mcss.co.kr、sales@mcss.co.kr、support@mcss.co.kr、svc@mcss.co.kr
 - **最后一封来信**：2026-01-16 support@mcss.co.kr「Re: Fw: OEM Core Switching Solution」：Hello Alan, Thank you for the email. Could you please send us a list of products and related materials that support your OEM / white-label services (such as branding and model name customization)? Additionally, please share information about your company and y
 - **邮件里报过的价**：2024-08-29 $300
@@ -139,24 +139,24 @@ updated: 2026-10-24
 | 10G Media Converter | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-25 | 2025-09-25 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-02 | 2025-09-02 | 0 | 1 | 1 |
-| 16 Port PoE Managed Switch | 2025-02-17 | 2025-02-17 | 0 | 1 | 1 |
-| 48 Port SFP Switch | 2025-01-28 | 2025-01-28 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2025-01-02 | 2025-01-02 | 0 | 1 | 1 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-08-11 | 2025-08-11 | 1 | 1 | 2 |
+| L3 Managed Switch | 2025-07-16 | 2025-07-16 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-06-24 | 2025-06-24 | 0 | 1 | 1 |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 491 条： index； 18； intro； notice； 22； system； 46； ito…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1118/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.mcss.co.kr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6957 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
-| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 571 个 URL；最新 lastmod 2026-08-06 |
+| [home](https://www.mcss.co.kr/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 6957 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
+| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 571 个 URL；最新 lastmod 2026-08-06 |
 | [news_1](https://www.mcss.co.kr/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5549 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
 | [news_2](https://www.mcss.co.kr/reference) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9245 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
-| [youtube](https://www.youtube.com/@mcssolution) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@mcssolution) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/mcssolution?igsh=MWpycG9ydWRuaTdreQ%3D%3D；Facebook: https://www.facebook.com/www.mcss.co.kr/?locale=ko_KR%2F
 

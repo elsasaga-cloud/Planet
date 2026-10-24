@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-04-15
 last_contact: 2025-04-15
-s_mail: 19 msgs (out 19 / in 0), 2024-06-17 -> 2026-09-07
+s_mail: 29 msgs (out 28 / in 1), 2024-06-17 -> 2026-09-07
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
@@ -133,9 +133,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 19 / 来 0）　|　**期间**：2024-06-17 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 28 / 来 1）　|　**期间**：2024-06-17 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：master@gtwave.co.kr
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-04-15 master@gtwave.co.kr「RE: Marvell Software Function List」：Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park
 - **邮件里报过的价**：2024-07-17 $220；2024-06-17 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -151,18 +151,18 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-22 | 2025-09-22 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-09-01 | 2025-09-01 | 0 | 1 | 1 |
-| 16 Port Ethernet Switch | 2025-02-10 | 2025-02-10 | 0 | 1 | 1 |
-| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 48 Port PoE Managed Switch | 2025-07-24 | 2025-07-24 | 0 | 1 | 1 |
+| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+0 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-044/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://gtwave.co.kr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2338 字符；首行：GTWAVE Co.,Ltd |
+| [home](https://gtwave.co.kr/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2330 字符；首行：GTWAVE Co.,Ltd |
 
 ## 联系方式（已有 · 原值照录）
 

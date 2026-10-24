@@ -21,7 +21,7 @@ replies: 0
 followups: 14
 first_contact: 2024-05-02
 last_contact: 2025-10-14
-s_mail: 18 msgs (out 18 / in 0), 2024-06-26 -> 2026-09-22
+s_mail: 23 msgs (out 23 / in 0), 2024-06-26 -> 2026-09-22
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -140,7 +140,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-06-26 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-06-26 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：adevries@microsens.de、nfaut@microsens.de
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-07-19 $220
@@ -159,11 +159,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-14 | 2025-11-14 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-14 | 2025-10-14 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-17 | 2025-09-17 | 0 | 1 | 1 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-151/`；本节随档案重渲染刷新，实时看日志。
 
@@ -173,7 +173,7 @@ updated: 2026-10-24
 | [sitemap](https://www.microsens.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.microsens.com/company/press-events) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7835 字符；首行：MICROSENS - Press/Events |
 | [news_2](https://www.microsens.com/company/press-events/press-releases) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7633 字符；首行：MICROSENS - Press Releases |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxubH--ge55dyVnsAxFFXLA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCxubH--ge55dyVnsAxFFXLA |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCxubH--ge55dyVnsAxFFXLA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCxubH--ge55dyVnsAxFFXLA |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/microsens-gmbh-&-co.-kg/；LinkedIn: https://www.linkedin.com/company/microsens-gmbh-&-co.-kg/?viewAsMember=true
 

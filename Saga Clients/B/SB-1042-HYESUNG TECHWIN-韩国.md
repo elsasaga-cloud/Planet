@@ -19,7 +19,7 @@ replies: 0
 followups: 22
 first_contact: 2024-12-11
 last_contact: 2025-10-30
-s_mail: 27 msgs (out 27 / in 0), 2024-12-11 -> 2026-09-16
+s_mail: 38 msgs (out 38 / in 0), 2024-12-11 -> 2026-09-16
 p1: STI-280GE
 price_tier: 30%
 research: done
@@ -137,7 +137,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 27 / 来 0）　|　**期间**：2024-12-11 → 2026-09-16　|　**最后去信**：2026-09-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 38 / 来 0）　|　**期间**：2024-12-11 → 2026-09-16　|　**最后去信**：2026-09-16
 - **对方邮箱**：insuner@hanmail.net、kis@hstw.net、lsk@hstw.net
 - 对方从未回信（全部为我方去信）
 
@@ -155,11 +155,11 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-02-16 | 2026-02-16 | 0 | 1 | 1 |
 | Managed Optical Bypass Switch | 2026-02-09 | 2026-02-09 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-27 | 2026-01-27 | 0 | 1 | 1 |
-| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1042/`；本节随档案重渲染刷新，实时看日志。
 

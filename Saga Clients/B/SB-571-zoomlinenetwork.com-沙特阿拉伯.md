@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-04-04
 last_contact: 2025-10-22
-s_mail: 25 msgs (out 25 / in 0), 2024-07-04 -> 2026-09-22
+s_mail: 30 msgs (out 30 / in 0), 2024-07-04 -> 2026-09-22
 p1: STI-288GP
 price_tier: 20%
 research: done
@@ -145,7 +145,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2024-07-04 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 30 / 来 0）　|　**期间**：2024-07-04 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：faisal@zoomlinenetwork.com、sales@zoomlinenetwork.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-31 $300
@@ -164,11 +164,11 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-02-02 | 2026-02-02 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-28 | 2026-01-28 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-25 | 2025-12-25 | 0 | 1 | 1 |
-| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-571/`；本节随档案重渲染刷新，实时看日志。
 
@@ -177,7 +177,7 @@ updated: 2026-10-24
 | [home](https://zoomlinenetwork.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 13641 字符；首行：Networking Products and Security Solutions Distributors in UAE |
 | [sitemap](https://zoomlinenetwork.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://zoomlinenetwork.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 14567 字符；首行：Blog - Zoom Line Networks Technology LLC |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCD9QKqH3CcAwkil77u_HANw) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCD9QKqH3CcAwkil77u_HANw |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCD9QKqH3CcAwkil77u_HANw) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCD9QKqH3CcAwkil77u_HANw |
 | [feed_auto](https://zoomlinenetwork.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Mon, 21 Sep 2026 03:51:07 Aruba Instant On Access Points: An Affordable Wi-Fi Solu |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/zoomlinenetwork/?ref=aymt_homepage_panel&eid=ARCIoz4eOFYSbAdDOc1Vurt8nXVxYuiyEM8u3maiCsqT2VDbw-XfzsSNEDtmsrpr_jH-kdmdom09CaFZ；Instagram: https://www.instagram.com/zoomlinenetworkstechnology/；LinkedIn: https://www.linkedin.com/company/zoomlinenetworks/；X/Twitter: https://twitter.com/zoomlinenetwork

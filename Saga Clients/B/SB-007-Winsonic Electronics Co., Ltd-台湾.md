@@ -21,7 +21,7 @@ replies: 1
 followups: 10
 first_contact: 2025-02-18
 last_contact: 2025-11-24
-s_mail: 14 msgs (out 13 / in 1), 2025-02-18 -> 2026-09-07
+s_mail: 22 msgs (out 20 / in 2), 2025-02-18 -> 2026-09-07
 p1: STI-288GP
 price_tier: 30%
 research: done
@@ -130,7 +130,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：14 封（去 13 / 来 1）　|　**期间**：2025-02-18 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：a.sagatelecom　|　**邮件**：22 封（去 20 / 来 2）　|　**期间**：2025-02-18 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：rex.lin@ewinsonic.com、sales@ewinsonic.com
 - **最后一封来信**：2025-11-24 rex.lin@ewinsonic.com「轉寄: Booster PoE Switch」：Dear Alan, Coule you provide detial spec and price list? Best Regards., Rex Lin Winsonic Electronics Co., Ltd. www.ewinsonic.com<http://www.ewinsonic.com>
 
@@ -144,11 +144,15 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-24 | 2026-01-29 | 1 | 5 | 13 |
 | 10G Enterprise SFP Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2025-02-18 | 2025-02-18 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-14 | 2025-08-14 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-07-09 | 2025-07-09 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-07-09 | 2025-07-09 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-11 | 2025-06-11 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-007/`；本节随档案重渲染刷新，实时看日志。
 

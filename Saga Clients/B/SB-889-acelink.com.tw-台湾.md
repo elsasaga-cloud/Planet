@@ -19,7 +19,7 @@ replies: 0
 followups: 7
 first_contact: 2025-02-18
 last_contact: 2025-10-20
-s_mail: 10 msgs (out 10 / in 0), 2024-06-17 -> 2026-09-04
+s_mail: 14 msgs (out 14 / in 0), 2024-06-17 -> 2026-09-04
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -121,7 +121,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：10 封（去 10 / 来 0）　|　**期间**：2024-06-17 → 2026-09-04　|　**最后去信**：2026-09-04
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2024-06-17 → 2026-09-04　|　**最后去信**：2026-09-04
 - **对方邮箱**：contact@acelink.com.tw
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-06-17 $65
@@ -135,13 +135,16 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-15 | 2025-12-15 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-25 | 2025-11-25 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-07-09 | 2025-10-20 | 2 | 4 | 8 |
+| Marvell Industrial Alert System | 2025-06-11 | 2025-06-11 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-16 | 2025-05-16 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-04-18 | 2025-04-18 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-19 | 2025-03-19 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-02-18 | 2025-02-18 | 0 | 1 | 1 |
-| 24 port poe switch | 2024-07-15 | 2024-07-15 | 0 | 1 | 1 |
-| 10G fiber media converter | 2024-06-17 | 2024-06-17 | 0 | 1 | 1 |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-889/`；本节随档案重渲染刷新，实时看日志。
 
@@ -150,7 +153,7 @@ updated: 2026-10-24
 | [home](https://www.acelink.com.tw/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2831 字符；首行：Acelink Technology - Network Solutions |
 | [news_1](https://www.acelink.com.tw/list/en/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12987 字符；首行：ACELINK-Your Best Solution Provider - News |
 | [news_2](https://www.acelink.com.tw/list/en/event/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2344 字符；首行：ACELINK-Your Best Solution Provider - Event |
-| [youtube](https://www.youtube.com/@AcelinkHQ) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@AcelinkHQ) | youtube_handle | HTTP 500 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/acelink.hq；LinkedIn: https://www.linkedin.com/company/acelink-technology/
 

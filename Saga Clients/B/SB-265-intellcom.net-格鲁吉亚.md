@@ -19,7 +19,7 @@ replies: 0
 followups: 1
 first_contact: 2025-06-12
 last_contact: 2025-06-12
-s_mail: 17 msgs (out 17 / in 0), 2024-06-27 -> 2026-10-09
+s_mail: 23 msgs (out 22 / in 1), 2024-06-27 -> 2026-10-09
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -127,9 +127,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-06-27 → 2026-10-09　|　**最后去信**：2026-10-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 22 / 来 1）　|　**期间**：2024-06-27 → 2026-10-09　|　**最后去信**：2026-10-09
 - **对方邮箱**：ekvtime@intellcom.net、sale@intellcom.net、soso@intellcom.net
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-06-12 sale@intellcom.net「Re: Managed Optical Bypass Switch [#298633]」：---- Hello, How can i help you? პატივისცემით, -- მარიამი შელია მომხმარებელთან ურთიერთობის მენეჯერი +995 32 298 98 49 (537) [w̲w̲w̲.i̲n̲t̲e̲l̲l̲c̲o̲m̲.n̲e̲t̲](https://www.intellcom.net) თბილისი, ტერევერკოს ქ. 42 ─────────────────────────────────────────────────
 - **邮件里报过的价**：2026-10-09 $180；2024-12-17 $240；2024-11-01 $300；2024-09-24 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -143,21 +143,21 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-07 | 2025-10-07 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-03 | 2025-09-03 | 0 | 1 | 1 |
-| 48 Port SFP Switch | 2025-01-16 | 2025-01-16 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2024-12-17 | 2024-12-17 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-11-26 | 2024-11-26 | 0 | 1 | 1 |
-| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-07-28 | 2025-07-28 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-12 | 2025-06-12 | 0 | 1 | 1 |
+| Re: Managed Optical Bypass Switch [#298633] | 2025-06-12 | 2025-06-12 | 1 | 1 | 0 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2025-12-01 Circuit-Breakers；2025-12-01 %E1%83%93%E1%83%98%E1%83%A4%E1%83%94%E1%83
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-265/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://intellcom.net/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6631 字符；首行：ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები |
-| [sitemap](https://intellcom.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2025-12-01 |
+| [home](https://intellcom.net/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 6530 字符；首行：ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები |
+| [sitemap](https://intellcom.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2025-12-01 |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -21,7 +21,7 @@ replies: 1
 followups: 20
 first_contact: 2024-04-29
 last_contact: 2025-10-30
-s_mail: 25 msgs (out 25 / in 0), 2024-06-20 -> 2026-09-28
+s_mail: 30 msgs (out 30 / in 0), 2024-06-20 -> 2026-09-28
 p1: STI-054GP
 price_tier: 25%
 research: done
@@ -124,7 +124,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2024-06-20 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 30 / 来 0）　|　**期间**：2024-06-20 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：computerwayne@gmail.com
 - 对方从未回信（全部为我方去信）
 
@@ -142,7 +142,7 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-01-26 | 2026-01-26 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-07 | 2026-01-07 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-15 | 2025-12-15 | 0 | 1 | 1 |
-| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

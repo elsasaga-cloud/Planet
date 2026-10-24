@@ -21,7 +21,7 @@ replies: 2
 followups: 2
 first_contact: 2025-06-12
 last_contact: 2025-09-08
-s_mail: 11 msgs (out 11 / in 0), 2025-01-23 -> 2026-09-08
+s_mail: 15 msgs (out 15 / in 0), 2025-01-23 -> 2026-09-08
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -137,7 +137,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-01-23 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-01-23 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：brandon@getsecurityalarm.com、info@getsecurityalarm.com
 - 对方从未回信（全部为我方去信）
 
@@ -153,11 +153,13 @@ updated: 2026-10-24
 | 90W PoE Managed Switch | 2025-10-24 | 2025-10-24 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-08 | 2025-09-09 | 1 | 2 | 4 |
-| 8 Port Industrial PoE Switch | 2025-01-23 | 2025-01-23 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-08-11 | 2025-08-11 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-11 | 2025-07-14 | 1 | 3 | 6 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-039/`；本节随档案重渲染刷新，实时看日志。
 

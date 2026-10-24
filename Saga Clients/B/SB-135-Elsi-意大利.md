@@ -21,7 +21,7 @@ replies: 0
 followups: 14
 first_contact: 2024-06-12
 last_contact: 2025-10-16
-s_mail: 19 msgs (out 19 / in 0), 2024-07-09 -> 2026-09-16
+s_mail: 23 msgs (out 23 / in 0), 2024-07-09 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -140,7 +140,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 19 / 来 0）　|　**期间**：2024-07-09 → 2026-09-16　|　**最后去信**：2026-09-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-07-09 → 2026-09-16　|　**最后去信**：2026-09-16
 - **对方邮箱**：d.bianco@elsikr.it、m.sciumbata@elsikr.it
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-06 $300
@@ -159,11 +159,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
 | Managed Optical Bypass Switch | 2025-09-12 | 2025-09-12 | 0 | 1 | 1 |
-| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-135/`；本节随档案重渲染刷新，实时看日志。
 
@@ -171,7 +171,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | [home](https://elsikr.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2167 字符；首行：ELSI - Benvenuti |
 | [news_1](https://elsikr.it/news-eventi.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2149 字符；首行：ELSI - Benvenuti |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCYELhx7-ypmlfXBfYA9ufIA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCYELhx7-ypmlfXBfYA9ufIA |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCYELhx7-ypmlfXBfYA9ufIA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCYELhx7-ypmlfXBfYA9ufIA |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/elsisrl.crotone；LinkedIn: https://www.linkedin.com/company/elsi-srl；WhatsApp: https://wa.me/393484008201
 

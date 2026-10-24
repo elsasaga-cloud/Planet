@@ -19,7 +19,7 @@ replies: 0
 followups: 19
 first_contact: 2024-04-29
 last_contact: 2025-10-23
-s_mail: 16 msgs (out 16 / in 0), 2024-06-24 -> 2026-09-09
+s_mail: 22 msgs (out 22 / in 0), 2024-06-24 -> 2026-09-09
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -143,7 +143,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2024-06-24 → 2026-09-09　|　**最后去信**：2026-09-09
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 22 / 来 0）　|　**期间**：2024-06-24 → 2026-09-09　|　**最后去信**：2026-09-09
 - **对方邮箱**：sales@ison-tech.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-03 $240；2024-11-22 $300；2024-09-10 $65
@@ -157,23 +157,23 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-28 | 2025-11-28 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-23 | 2025-10-23 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-17 | 2025-09-17 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2025-02-20 | 2025-02-20 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-12-16 | 2024-12-16 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-22 | 2024-11-22 | 0 | 1 | 1 |
-| Power Converter | 2024-10-29 | 2024-10-29 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| 16 Port Ethernet Switch | 2025-08-22 | 2025-08-22 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-07-14 | 2025-07-14 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-17 | 2025-06-17 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-05-20 | 2025-05-20 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-25 | 2025-04-25 | 0 | 1 | 1 |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 126 条：2021-03-01 home；2021-03-01 company；2021-03-01 core_value；2021-03-01 quality；2021-
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1075/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.ison-tech.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4404 字符；首行：Home |
-| [sitemap](https://www.ison-tech.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 206 个 URL；最新 lastmod 2026-10-23 |
+| [sitemap](https://www.ison-tech.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 206 个 URL；最新 lastmod 2026-10-24 |
 | [news_1](https://www.ison-tech.com/index.php/blog/detail?id=57&n=University Campus Feeder Network System) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4165 字符；首行：University Campus Feeder Network System |
 | [news_2](https://www.ison-tech.com/index.php/blog/detail?id=58&n=Thailand Solar Power Plant) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3799 字符；首行：Thailand Solar Power Plant |
 

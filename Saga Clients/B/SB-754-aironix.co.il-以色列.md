@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-03-04
 last_contact: 2025-10-27
-s_mail: 19 msgs (out 17 / in 2), 2025-01-09 -> 2026-10-07
+s_mail: 23 msgs (out 21 / in 2), 2025-01-09 -> 2026-10-07
 p1: STI-280GE
 price_tier: 20%
 research: done
@@ -125,7 +125,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 17 / 来 2）　|　**期间**：2025-01-09 → 2026-10-07　|　**最后去信**：2026-10-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 21 / 来 2）　|　**期间**：2025-01-09 → 2026-10-07　|　**最后去信**：2026-10-07
 - **对方邮箱**：eytan@aironix.co.il、info@aironix.co.il、yair@aironix.co.il
 - **最后一封来信**：2026-08-15 yair@aironix.co.il「Re: 24 Port PoE Managed Switch」：Thank you, my customer buying target price is 150usd each Br - Yair Br - Yair Mobile/WhatsApp +972548318384
 
@@ -143,11 +143,11 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-25 | 2025-12-25 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-10-27 | 2025-10-27 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-754/`；本节随档案重渲染刷新，实时看日志。
 

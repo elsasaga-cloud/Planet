@@ -22,7 +22,7 @@ replies: 1
 followups: 24
 first_contact: 2024-05-01
 last_contact: 2025-10-29
-s_mail: 18 msgs (out 17 / in 1), 2024-07-08 -> 2026-09-07
+s_mail: 25 msgs (out 24 / in 1), 2024-07-08 -> 2026-09-07
 p1: STC-424XGGM(L3)
 price_tier: 30%
 research: done
@@ -147,7 +147,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 17 / 来 1）　|　**期间**：2024-07-08 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 24 / 来 1）　|　**期间**：2024-07-08 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：cdma092@piolink.com、gooleebiz@gmail.com
 - **最后一封来信**：2025-02-18 gooleebiz@gmail.com「Re: 24 Port Fiber Switch」：Hi Alan, Thank you for your email. Could we talk via WeChat? My WeChat account is "jayden092" Best Regards, Jayden 2025년 2월 18일 (화) 오전 10:01, Alan from Saga Telecom <a.sagatelecom@gmail.com>님이 작성:
 - **邮件里报过的价**：2024-10-11 $65；2024-07-08 $220
@@ -163,24 +163,24 @@ updated: 2026-10-24
 | 10G Media Converter | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-25 | 2025-09-25 | 0 | 1 | 1 |
 | 16 Port PoE Managed Switch | 2025-09-02 | 2025-09-02 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-02-18 | 2025-02-18 | 1 | 2 | 4 |
-| 90W PoE Managed Switch | 2025-01-29 | 2025-01-29 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-11-08 | 2024-11-08 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-08-12 | 2025-08-12 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-18 | 2025-07-18 | 0 | 1 | 1 |
+| L3 Managed Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 25 条：2023-02-02T09:14:30 Web-Application-Firewall.php；2023-02-02T09:14:30 Comprehensive
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-097/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.piolink.com/en/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2229 字符；首行：PIOLINK - Optimizing Your Cloud Data Center |
-| [sitemap](https://www.piolink.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 105 个 URL；最新 lastmod 2023-02-02T09:14:30 |
+| [sitemap](https://www.piolink.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 105 个 URL；最新 lastmod 2023-02-02T09:14:30 |
 | [news_1](https://www.piolink.com/en/company/News.php) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3914 字符；首行：PIOLINK - News |
 | [news_2](https://www.piolink.com/en/insight/insight.php) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2243 字符；首行：PIOLINK - Insight |
-| [youtube](https://www.youtube.com/@PIOLINK_Global) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@PIOLINK_Global) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/piolink-inc/；Facebook: https://www.facebook.com/PIOLINK
 

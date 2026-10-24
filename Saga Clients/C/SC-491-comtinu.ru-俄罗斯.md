@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 21 msgs (out 18 / in 3), 2024-05-17 -> 2026-08-10
+s_mail: 23 msgs (out 20 / in 3), 2024-05-17 -> 2026-08-10
 p1: none
 price_tier: 20%
 research: pending

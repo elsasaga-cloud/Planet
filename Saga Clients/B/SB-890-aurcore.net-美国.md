@@ -133,17 +133,17 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 1 条：2026-03-06T17:28:15 meet-the-aurcore-team-at-ofc-2026-west-hall-5151
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-890/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.aurcore.net/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7518 字符；首行：AurCore Technology |
-| [sitemap](https://www.aurcore.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 81 个 URL；最新 lastmod 2026-10-23T04:31:56 |
+| [sitemap](https://www.aurcore.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 81 个 URL；最新 lastmod 2026-10-24T04:51:24 |
 | [news_1](https://www.aurcore.net/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2006 字符；首行：AurCore - Latest News & Updates |
 | [news_2](https://www.aurcore.net/blogs) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3740 字符；首行：AurCore \| Blog & Insights |
-| [youtube](https://www.youtube.com/@AurCoreTechnology) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@AurCoreTechnology) | youtube_handle | HTTP 500 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/aurcore-technology/；X/Twitter: https://x.com/AurCoreNetwork；Instagram: https://www.instagram.com/aurcore.technology/；Facebook: https://www.facebook.com/profile.php?id=61590648732019
 

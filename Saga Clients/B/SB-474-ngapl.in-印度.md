@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 6 msgs (out 6 / in 0), 2025-08-26 -> 2026-09-02
+s_mail: 7 msgs (out 7 / in 0), 2025-07-15 -> 2026-09-02
 p1: STI-080GE
 price_tier: 25%
 research: done
@@ -125,7 +125,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2025-08-26 → 2026-09-02　|　**最后去信**：2026-09-02
+- **账号**：a.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2025-07-15 → 2026-09-02　|　**最后去信**：2026-09-02
 - **对方邮箱**：info@ngapl.com
 - 对方从未回信（全部为我方去信）
 
@@ -137,17 +137,18 @@ updated: 2026-10-24
 | 10G L3 Managed Switch | 2026-05-19 | 2026-05-19 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-08-26 | 2025-08-26 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-07-15 | 2025-07-15 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-474/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://ngapl.in/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5418 字符；首行：NextGen – Solutions Simplified |
-| [youtube](https://www.youtube.com/@NextgenAutomationPvtLtd) | youtube_handle | HTTP 200 | 2026-10-23T04:20:51Z | 5 条；最新：2026-01-08T06:55:37+00:00 HBTL 1st SCR Stacking |
+| [youtube](https://www.youtube.com/@NextgenAutomationPvtLtd) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://ngapl.in/?feed=rss2) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 7 条；最新：Wed, 31 Jul 2024 06:30:42 Hello world! |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/profile.php?id=61556633901221；X/Twitter: https://twitter.com/LtdNextgen；Instagram: https://www.instagram.com/ngapl2002/?hl=en/；LinkedIn: https://www.linkedin.com/company/nextgen-automation-pvt-ltd/?viewAsMember=true/

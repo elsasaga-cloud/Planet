@@ -22,7 +22,7 @@ replies: 4
 followups: 41
 first_contact: 2024-01-24
 last_contact: 2025-12-30
-s_mail: 33 msgs (out 31 / in 2), 2024-06-16 -> 2026-09-25
+s_mail: 38 msgs (out 36 / in 2), 2024-06-16 -> 2026-09-25
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -181,7 +181,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 31 / 来 2）　|　**期间**：2024-06-16 → 2026-09-25　|　**最后去信**：2026-09-25
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 36 / 来 2）　|　**期间**：2024-06-16 → 2026-09-25　|　**最后去信**：2026-09-25
 - **对方邮箱**：info@netontechnologies.com、m.maarouf@eurotechnology.ae
 - **最后一封来信**：2024-08-14 info@netontechnologies.com「Re: 10G fiber media converter」：hi Whats the pricing.
 - **邮件里报过的价**：2024-11-20 $300；2024-08-14 $38（STI-154GP）；2024-07-07 $65
@@ -200,11 +200,11 @@ updated: 2026-10-24
 | 10G Enterprise SFP Switch | 2026-05-12 | 2026-05-12 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2026-04-24 | 2026-04-24 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2026-04-23 | 2026-04-23 | 0 | 1 | 1 |
-| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-113/`；本节随档案重渲染刷新，实时看日志。
 

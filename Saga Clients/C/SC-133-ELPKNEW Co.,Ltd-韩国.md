@@ -19,7 +19,7 @@ replies: 0
 followups: 45
 first_contact: 2024-05-01
 last_contact: 2025-11-04
-s_mail: 26 msgs (out 26 / in 0), 2024-07-09 -> 2026-10-01
+s_mail: 34 msgs (out 34 / in 0), 2024-07-09 -> 2026-10-01
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: pending

@@ -19,7 +19,7 @@ replies: 0
 followups: 22
 first_contact: 2024-04-30
 last_contact: 2025-10-20
-s_mail: 35 msgs (out 24 / in 11), 2024-04-29 -> 2026-09-04
+s_mail: 47 msgs (out 32 / in 15), 2024-04-29 -> 2026-09-04
 p1: STI-280GE
 price_tier: 20%
 research: done
@@ -142,9 +142,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 24 / 来 11）　|　**期间**：2024-04-29 → 2026-09-04　|　**最后去信**：2026-09-04
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：47 封（去 32 / 来 15）　|　**期间**：2024-04-29 → 2026-09-04　|　**最后去信**：2026-09-04
 - **对方邮箱**：kevin@ksm.com.au、sales@ksm.com.au
-- **最后一封来信**：2025-01-28 sales@ksm.com.au「Thank you for your email, please select from one of the options below?」：In order to best service your inquiry, please make a selection: For immediate attention please call reception: 02 8003 3372 to speak to someone. Alternatively we will respond as follows: Email Replies: By close of business day. Order Placement: Please place or
+- **最后一封来信**：2025-06-10 sales@ksm.com.au「Thank you for your email, please select from one of the options below?」：In order to best service your inquiry, please make a selection: For immediate attention please call reception: 02 8003 3372 to speak to someone. Alternatively we will respond as follows: Email Replies: By close of business day. Order Placement: Please place or
 - **邮件里报过的价**：2024-12-23 $240；2024-11-22 $300；2024-06-25 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -165,7 +165,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1077/`；本节随档案重渲染刷新，实时看日志。
 

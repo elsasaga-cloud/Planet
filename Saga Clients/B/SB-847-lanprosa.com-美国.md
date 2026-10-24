@@ -21,7 +21,7 @@ replies: 0
 followups: 15
 first_contact: 2024-08-21
 last_contact: 2025-10-25
-s_mail: 23 msgs (out 22 / in 1), 2024-08-21 -> 2026-09-16
+s_mail: 29 msgs (out 28 / in 1), 2024-08-21 -> 2026-09-16
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
@@ -142,7 +142,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 22 / 来 1）　|　**期间**：2024-08-21 → 2026-09-16　|　**最后去信**：2026-09-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 28 / 来 1）　|　**期间**：2024-08-21 → 2026-09-16　|　**最后去信**：2026-09-16
 - **对方邮箱**：mercadeo@lanprosa.com、web@lanprosa.com
 - **最后一封来信**：2026-06-30 mercadeo@lanprosa.com「Re: Firmware 7.5 L2+ Feature Update」：Can you please share price and point of you have router products and cloud management Answer back to web@lanprosa.com El El jue, 25 jun 2026 a la(s) 1:30 p. m., Alan from Saga Telecom < a.sagatelecom@gmail.com> escribió:
 - **邮件里报过的价**：2025-01-24 $240；2024-12-17 $65；2024-11-25 $300
@@ -161,19 +161,19 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-29 | 2025-12-29 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-12-09 | 2025-12-09 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-14 | 2025-11-14 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+47 −47 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-847/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://lanprosa.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9178 字符；首行：lanprosa - Lanprosa |
+| [home](https://lanprosa.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9166 字符；首行：lanprosa - Lanprosa |
 | [sitemap](https://lanprosa.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [youtube](https://www.youtube.com/@LANPROSACR) | youtube_handle | RuntimeError: channelId not found (HTTP 404) | - | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@LANPROSACR) | youtube_handle | RuntimeError: channelId not found (HTTP 404)；YouTube 对运行器 IP | - | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://lanprosa.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 5 条；最新：Tue, 16 Sep 2025 20:43:57 Elementos fundamentaes que componen un CCTV |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/LanprosaSA；Instagram: https://www.instagram.com/lanprosa/；LinkedIn: https://cr.linkedin.com/company/lanprosacr；WhatsApp: https://wa.me/50622212014；Facebook: https://www.facebook.com/sharer/sharer.php?u=https://lanprosa.com/；X/Twitter: https://x.com/share?url=https://lanprosa.com/；LinkedIn: https://www.linkedin.com/shareArticle?mini=true&url=https://lanprosa.com/；WhatsApp: https://wa.me/+50622212014

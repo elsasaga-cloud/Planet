@@ -19,7 +19,7 @@ replies: 0
 followups: 22
 first_contact: 2024-05-06
 last_contact: 2025-10-31
-s_mail: 25 msgs (out 25 / in 0), 2024-06-26 -> 2026-09-24
+s_mail: 33 msgs (out 33 / in 0), 2024-06-26 -> 2026-09-24
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -136,7 +136,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2024-06-26 → 2026-09-24　|　**最后去信**：2026-09-24
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 33 / 来 0）　|　**期间**：2024-06-26 → 2026-09-24　|　**最后去信**：2026-09-24
 - **对方邮箱**：sales@view-tel.co.kr
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-10-29 $300；2024-07-29 $65
@@ -155,11 +155,11 @@ updated: 2026-10-24
 | Updated Ethernet Switches Links | 2026-03-03 | 2026-03-03 | 0 | 1 | 1 |
 | Managed Optical Bypass Switch | 2026-02-02 | 2026-02-02 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-12 | 2026-01-12 | 0 | 1 | 1 |
-| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1095/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

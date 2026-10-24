@@ -19,7 +19,7 @@ replies: 0
 followups: 13
 first_contact: 2024-04-23
 last_contact: 2025-10-14
-s_mail: 23 msgs (out 23 / in 0), 2024-06-19 -> 2026-10-08
+s_mail: 26 msgs (out 26 / in 0), 2024-06-19 -> 2026-10-08
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -151,7 +151,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-06-19 → 2026-10-08　|　**最后去信**：2026-10-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 26 / 来 0）　|　**期间**：2024-06-19 → 2026-10-08　|　**最后去信**：2026-10-08
 - **对方邮箱**：support@bvsecurity.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-15 $300
@@ -170,17 +170,17 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-24 | 2025-11-24 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-14 | 2025-10-14 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-11 | 2025-09-11 | 0 | 1 | 1 |
-| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 home：内容变化：+0 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-429/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://bvsecurity.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4781 字符；首行：Skip to content |
+| [home](https://bvsecurity.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4772 字符；首行：Skip to content |
 | [sitemap](https://bvsecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://bvsecurity.com/blogs/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6297 字符；首行：Skip to content |
 

@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-03-12
 last_contact: 2025-10-14
-s_mail: 22 msgs (out 19 / in 3), 2024-05-02 -> 2026-09-22
+s_mail: 29 msgs (out 26 / in 3), 2024-05-02 -> 2026-09-22
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -142,7 +142,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 19 / 来 3）　|　**期间**：2024-05-02 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 26 / 来 3）　|　**期间**：2024-05-02 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：info@barox.de、jeneeben.jesujeevagan@barox.ch、luis.coello@barox.de、mail@barox.de、rohr.rudolf@barox.ch
 - **最后一封来信**：2024-05-03 luis.coello@barox.de「Re: Industrial Ethernet Switch」：None whatsoever! Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device
 - **邮件里报过的价**：2024-05-03 $25（STI-050GE）
@@ -161,11 +161,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-14 | 2025-11-14 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-14 | 2025-10-14 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-18 | 2025-09-18 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-139/`；本节随档案重渲染刷新，实时看日志。
 
@@ -174,7 +174,7 @@ updated: 2026-10-24
 | [home](https://www.barox.ch/en-us/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6090 字符；首行：Switches for Video \| barox.ch |
 | [sitemap](https://www.barox.ch/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.barox.ch/en-us/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 23657 字符；首行：News \| barox.ch |
-| [youtube](https://www.youtube.com/@baroxkommunikationag4606) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@baroxkommunikationag4606) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://ch.linkedin.com/company/barox-kommunikation-ag
 

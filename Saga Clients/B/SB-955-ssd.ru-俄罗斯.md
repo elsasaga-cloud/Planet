@@ -19,7 +19,7 @@ replies: 0
 followups: 17
 first_contact: 2024-06-05
 last_contact: 2025-10-31
-s_mail: 13 msgs (out 13 / in 0), 2024-07-01 -> 2026-01-12
+s_mail: 18 msgs (out 18 / in 0), 2024-07-01 -> 2026-01-12
 p1: STI-110GE
 price_tier: 30%
 research: done
@@ -134,7 +134,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2024-07-01 → 2026-01-12　|　**最后去信**：2026-01-12
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-07-01 → 2026-01-12　|　**最后去信**：2026-01-12
 - **对方邮箱**：mail@ssd.ru
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-26 $65
@@ -146,19 +146,19 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-10-31 | 2025-10-31 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-08-28 | 2025-08-28 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-07-18 | 2025-07-18 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-06-26 | 2025-06-26 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-05-22 | 2025-05-22 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-04-15 | 2025-04-15 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-03-12 | 2025-03-12 | 0 | 1 | 1 |
 | L3 Managed Switch | 2025-01-17 | 2025-01-17 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2024-12-18 | 2024-12-18 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-11-26 | 2024-11-26 | 0 | 1 | 1 |
-| Power Converter | 2024-11-01 | 2024-11-01 | 0 | 1 | 1 |
-| 24 Port Passive PoE Switch | 2024-09-24 | 2024-09-24 | 0 | 1 | 1 |
-| Industrial poe switch | 2024-08-21 | 2024-08-21 | 0 | 1 | 1 |
-| CCTV poe switch | 2024-07-25 | 2024-07-25 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 telegram：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-955/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -168,8 +168,8 @@ updated: 2026-10-24
 | [news_1](https://ssd.ru/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4058 字符；首行：Новости \| Компания ССД |
 | [news_2](https://ssd.ru/articles/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3666 字符；首行：Статьи \| Компания ССД |
 | [vk](https://vk.com/svyazstroidetal) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
-| [telegram](https://t.me/s/ssdtyt) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11163 字符；首行：ССД тут – Telegram |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC5mTdDW5pkq3QgBiewbZ9QA |
+| [telegram](https://t.me/s/ssdtyt) | html | HTTP 200 | 2026-10-24T04:35:40Z | 11163 字符；首行：ССД тут – Telegram |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC5mTdDW5pkq3QgBiewbZ9QA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UC5mTdDW5pkq3QgBiewbZ9QA |
 
 ## 联系方式（已有 · 原值照录）
 

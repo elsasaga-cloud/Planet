@@ -21,7 +21,7 @@ replies: 1
 followups: 8
 first_contact: 2024-02-04
 last_contact: 2024-10-13
-s_mail: 16 msgs (out 15 / in 1), 2024-11-20 -> 2026-10-08
+s_mail: 19 msgs (out 18 / in 1), 2024-11-20 -> 2026-10-08
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
@@ -133,7 +133,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 15 / 来 1）　|　**期间**：2024-11-20 → 2026-10-08　|　**最后去信**：2026-10-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 18 / 来 1）　|　**期间**：2024-11-20 → 2026-10-08　|　**最后去信**：2026-10-08
 - **对方邮箱**：andrea.rongoni@stsitalia.com、eros.stefani@stsitalia.com
 - **最后一封来信**：2024-11-20 eros.stefani@stsitalia.com「R: 48 Port PoE Managed Switch」：€..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni contenute in questo messaggio sono strettamente riservate e sono esclusivamente indirizzate al destinatario indicato od alla persona responsabile di rime
 
@@ -151,11 +151,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-24 | 2025-11-24 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-14 | 2025-10-14 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-09-11 | 2025-09-11 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-024/`；本节随档案重渲染刷新，实时看日志。
 

@@ -19,7 +19,7 @@ replies: 0
 followups: 7
 first_contact: 2025-03-19
 last_contact: 2025-10-20
-s_mail: 6 msgs (out 6 / in 0), 2025-09-11 -> 2026-03-05
+s_mail: 11 msgs (out 11 / in 0), 2025-03-19 -> 2026-03-05
 p1: STI-110GE
 price_tier: 20%
 research: done
@@ -112,7 +112,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2025-09-11 → 2026-03-05　|　**最后去信**：2026-03-05
+- **账号**：a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-03-19 → 2026-03-05　|　**最后去信**：2026-03-05
 - **对方邮箱**：sales@excelengineeringsg.net
 - 对方从未回信（全部为我方去信）
 
@@ -124,10 +124,15 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-24 | 2025-11-24 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-20 | 2025-10-20 | 0 | 1 | 1 |
 | 10G Media Converter | 2025-09-11 | 2025-09-11 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-08-08 | 2025-08-08 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-07-08 | 2025-07-08 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-10 | 2025-06-10 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-05-09 | 2025-05-09 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-03-19 | 2025-03-19 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-883/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

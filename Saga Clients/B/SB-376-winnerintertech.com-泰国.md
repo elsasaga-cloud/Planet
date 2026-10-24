@@ -19,7 +19,7 @@ replies: 0
 followups: 6
 first_contact: 2025-05-27
 last_contact: 2025-10-13
-s_mail: 13 msgs (out 13 / in 0), 2025-09-19 -> 2026-09-24
+s_mail: 17 msgs (out 17 / in 0), 2025-05-27 -> 2026-09-24
 p1: STI-288GPM
 price_tier: 20%
 research: done
@@ -130,7 +130,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2025-09-19 → 2026-09-24　|　**最后去信**：2026-09-24
+- **账号**：a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2025-05-27 → 2026-09-24　|　**最后去信**：2026-09-24
 - **对方邮箱**：narathon@winnerintertech.com、office@winnerintertech.com、sales01@winnerintertech.com
 - 对方从未回信（全部为我方去信）
 
@@ -148,20 +148,20 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-18 | 2025-12-18 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-14 | 2025-11-14 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-13 | 2025-10-13 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+3 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-376/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.winnerintertech.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5361 字符；首行：Winner Intertech |
+| [home](https://www.winnerintertech.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5361 字符；首行：Winner Intertech |
 | [sitemap](https://www.winnerintertech.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 53 个 URL；最新 lastmod 2026-10-01T22:10:10 |
-| [news_1](https://www.winnerintertech.com/categorycontent/5952/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4372 字符；首行：news |
-| [news_2](https://www.winnerintertech.com/categorycontent/6476/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3754 字符；首行：Blog |
+| [news_1](https://www.winnerintertech.com/categorycontent/5952/news) | html | HTTP 200 | 2026-10-24T04:35:40Z | 4372 字符；首行：news |
+| [news_2](https://www.winnerintertech.com/categorycontent/6476/blog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3754 字符；首行：Blog |
 
 ## 联系方式（已有 · 原值照录）
 

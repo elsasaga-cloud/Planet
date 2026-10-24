@@ -22,7 +22,7 @@ replies: 1
 followups: 10
 first_contact: 2025-02-28
 last_contact: 2025-10-23
-s_mail: 13 msgs (out 12 / in 1), 2024-12-18 -> 2026-08-17
+s_mail: 17 msgs (out 16 / in 1), 2024-12-18 -> 2026-08-17
 p1: STI-050GE
 price_tier: 20%
 research: done
@@ -136,7 +136,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 12 / 来 1）　|　**期间**：2024-12-18 → 2026-08-17　|　**最后去信**：2026-08-17
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 16 / 来 1）　|　**期间**：2024-12-18 → 2026-08-17　|　**最后去信**：2026-08-17
 - **对方邮箱**：ag@bargas.ru、info@bargas.ru
 - **最后一封来信**：2024-12-18 ag@bargas.ru「Re: Mini Industrial PoE Switch」：Hello! How yes this is kruto ---------------- Кому: info@donvision.ru (info@donvision.ru); Тема: Mini Industrial PoE Switch; 18.12.2024, 12:00, "Simon" <s.sagatelecom@gmail.com>: Hi, How are you? This is about our MINI Din unmanaged switches for you. 1. 100/10
 - **邮件里报过的价**：2024-12-18 $33（STI-222GP）
@@ -153,19 +153,21 @@ updated: 2026-10-24
 | 90W PoE Managed Switch | 2025-10-23 | 2025-10-23 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-24 | 2025-09-24 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2025-08-25 | 2025-08-25 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-12-18 | 2024-12-31 | 1 | 3 | 2 |
+| Industrial PoE Switch | 2025-07-11 | 2025-07-11 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-06-11 | 2025-06-11 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-133/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.bargas.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 189 字符；首行：KillBot user verification [40.76.117.240] [Mozilla/5.0 (X11; Linux x86_64) Apple |
-| [news_1](https://www.bargas.ru/news?from=bot) | html | HTTP 200 | 2026-10-23T04:20:51Z | 189 字符；首行：KillBot user verification [40.76.117.240] [Mozilla/5.0 (X11; Linux x86_64) Apple |
-| [news_2](https://www.bargas.ru/blog?from=bot) | html | HTTP 200 | 2026-10-23T04:20:51Z | 208 字符；首行：KillBot user verification [40.76.117.240] [Mozilla/5.0 (X11; Linux x86_64) Apple |
+| [home](https://www.bargas.ru/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 183 字符；首行：KillBot user verification [68.220.58.243] [Mozilla/5.0 (X11; Linux x86_64) Apple |
+| [news_1](https://www.bargas.ru/news?from=bot) | html | HTTP 200 | 2026-10-24T04:35:40Z | 208 字符；首行：KillBot user verification [68.220.58.243] [Mozilla/5.0 (X11; Linux x86_64) Apple |
+| [news_2](https://www.bargas.ru/blog?from=bot) | html | HTTP 200 | 2026-10-24T04:35:40Z | 199 字符；首行：KillBot user verification [68.220.58.243] [Mozilla/5.0 (X11; Linux x86_64) Apple |
 
 ## 联系方式（已有 · 原值照录）
 

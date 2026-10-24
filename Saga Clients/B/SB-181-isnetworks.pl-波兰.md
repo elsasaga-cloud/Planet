@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-01-31
 last_contact: 2025-10-21
-s_mail: 18 msgs (out 17 / in 1), 2024-08-30 -> 2026-09-28
+s_mail: 23 msgs (out 22 / in 1), 2024-08-30 -> 2026-09-28
 p1: STI-288GPM
 price_tier: 25%
 research: done
@@ -138,7 +138,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 17 / 来 1）　|　**期间**：2024-08-30 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 22 / 来 1）　|　**期间**：2024-08-30 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：biuro@is-net.pl、marek@is-net.pl
 - **最后一封来信**：2026-02-09 marek@is-net.pl「RE: OEM Core Switching Solution」：Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). Regards, Marek Kubas ……………………………… IS NETWORKS
 - **邮件里报过的价**：2024-11-28 $300
@@ -156,12 +156,12 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-21 | 2025-11-21 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-21 | 2025-10-21 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2025-01-31 | 2025-01-31 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Mini Industrial PoE Switch | 2025-08-05 | 2025-08-05 | 0 | 1 | 1 |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-181/`；本节随档案重渲染刷新，实时看日志。
 

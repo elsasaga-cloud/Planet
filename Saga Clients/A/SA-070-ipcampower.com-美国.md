@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-08-22
 last_contact: 2025-08-22
-s_mail: 11 msgs (out 11 / in 0), 2024-07-01 -> 2026-09-07
+s_mail: 18 msgs (out 17 / in 1), 2024-07-01 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -136,9 +136,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2024-07-01 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 17 / 来 1）　|　**期间**：2024-07-01 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：sales@ipcampower.com
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-08-21 sales@ipcampower.com「RE: Industrial PoE Switch」：Hello there, We require TAA Compliant and UL Listed switches. If you have this, please let me know. Thanks, Sean Nelson IPCAMPOWER.com <https://ipcampower.com/collections/unmanaged-poe-switches> POE Switches \| <https://ipcampower.com/collections/poe-monitors> 
 - **邮件里报过的价**：2024-11-14 $300；2024-07-30 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -148,16 +148,18 @@ updated: 2026-10-24
 | Firmware 7.5 L2+ Feature Update | 2026-07-20 | 2026-07-20 | 0 | 1 | 2 |
 | Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-18 | 2025-11-18 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-08-21 | 2025-08-21 | 1 | 1 | 2 |
+| Marvell Industrial Alert System | 2025-07-17 | 2025-07-17 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-17 | 2025-06-17 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-21 | 2025-05-21 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-04-21 | 2025-04-21 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-19 | 2025-03-19 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2024-12-26 | 2024-12-26 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-09-16 | 2024-09-16 | 0 | 1 | 1 |
-| PoE Switch | 2024-08-23 | 2024-08-23 | 0 | 1 | 1 |
-| 10G media converter | 2024-07-30 | 2024-07-30 | 0 | 1 | 1 |
-| Passive poe switch | 2024-07-01 | 2024-07-01 | 0 | 1 | 1 |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-070/`；本节随档案重渲染刷新，实时看日志。
 

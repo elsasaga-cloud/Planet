@@ -22,12 +22,13 @@ replies: 0
 followups: 1
 first_contact: 2025-10-09
 last_contact: 2025-10-09
+s_mail: 1 msgs (out 1 / in 0), 2025-03-19 -> 2025-03-19
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -117,16 +118,26 @@ updated: 2026-10-23
 |---|---|---|---|---|---|---|
 | 2025-10-09 | 2025.10.9 | dac |  | E |  | 菲律宾.xlsx#15 |
 
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-03-19 → 2025-03-19　|　**最后去信**：2025-03-19
+- **对方邮箱**：info@crec.com.ph
+- 对方从未回信（全部为我方去信）
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 10G Media Converter | 2025-03-19 | 2025-03-19 | 0 | 1 | 1 |
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 148 条：2025-08-06 citicore-solar-capacity-accelerates-to-13gw-early-next-year；2025-08-06
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-142/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://crec.com.ph/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 0 字符；首行： |
-| [sitemap](https://crec.com.ph/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 229 个 URL；最新 lastmod 2025-08-06 |
+| [sitemap](https://crec.com.ph/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 229 个 URL；最新 lastmod 2025-08-06 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -233,12 +244,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

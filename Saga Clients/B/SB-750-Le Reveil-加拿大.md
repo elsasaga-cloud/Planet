@@ -21,7 +21,7 @@ replies: 0
 followups: 15
 first_contact: 2024-06-27
 last_contact: 2025-10-17
-s_mail: 18 msgs (out 16 / in 2), 2024-06-17 -> 2026-03-05
+s_mail: 22 msgs (out 20 / in 2), 2024-06-17 -> 2026-03-05
 p1: none
 price_tier: 25%
 research: done
@@ -107,7 +107,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 16 / 来 2）　|　**期间**：2024-06-17 → 2026-03-05　|　**最后去信**：2026-03-05
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 20 / 来 2）　|　**期间**：2024-06-17 → 2026-03-05　|　**最后去信**：2026-03-05
 - **对方邮箱**：francois.burton0@gmail.com
 - **最后一封来信**：2024-06-24 francois.burton0@gmail.com「Re: 48 port managed switch」：Not really, looking for SFP+ ports with ventilation front to back.
 
@@ -120,12 +120,12 @@ updated: 2026-10-24
 | Mini Industrial PoE Switch | 2025-10-17 | 2025-10-17 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-24 | 2025-09-24 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-08-29 | 2025-08-29 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-25 | 2025-07-25 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-26 | 2025-06-26 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
+| L3 Managed Switch | 2025-03-06 | 2025-03-06 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2024-11-14 | 2024-11-14 | 0 | 1 | 1 |
-| Power Converter | 2024-10-15 | 2024-10-15 | 0 | 1 | 1 |
-| 24 port managed switch | 2024-08-14 | 2024-09-09 | 0 | 2 | 3 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 联系方式（已有 · 原值照录）
 

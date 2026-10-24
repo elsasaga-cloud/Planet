@@ -22,7 +22,7 @@ replies: 1
 followups: 3
 first_contact: 2025-06-10
 last_contact: 2025-10-14
-s_mail: 42 msgs (out 25 / in 17), 2025-06-10 -> 2026-08-26
+s_mail: 43 msgs (out 26 / in 17), 2025-06-10 -> 2026-08-26
 p1: STI-42424XGGPM-4BT
 price_tier: 25%
 research: done
@@ -184,7 +184,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：42 封（去 25 / 来 17）　|　**期间**：2025-06-10 → 2026-08-26　|　**最后去信**：2026-08-26
+- **账号**：a.sagatelecom　|　**邮件**：43 封（去 26 / 来 17）　|　**期间**：2025-06-10 → 2026-08-26　|　**最后去信**：2026-08-26
 - **对方邮箱**：info@gogreenit.net
 - **最后一封来信**：2026-04-27 info@gogreenit.net「Re: 90W PoE Managed Switch」：Hi Alan!
 
@@ -193,17 +193,18 @@ updated: 2026-10-24
 | Saga Marvell AC5 Series | 2026-08-26 | 2026-08-26 | 0 | 1 | 1 |
 | Firmware 7.5 L2+ Feature Update | 2026-07-10 | 2026-07-10 | 0 | 1 | 2 |
 | 90W PoE Managed Switch | 2025-06-10 | 2026-05-20 | 17 | 23 | 24 |
+| Managed Optical Bypass Switch | 2025-07-08 | 2025-07-08 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:57:18Z
-- **最近变化摘要**：2026-10-23 mastodon_instance：内容变化：+1 −1 行
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 chewie_rss：新增 4 条：Fri, 23 Oct 2026 23 ；Fri, 23 Oct 2026 12 ；Fri, 23 Oct 2026 12 ；Fri, 23 Oct 2026 12 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-012/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-23T04:57:18Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16381, "domain_count": 285; conta |
-| [chewie_rss](https://mammut.gogreenit.net/@chewie.rss) | rss | HTTP 200 | 2026-10-23T02:54:23Z | 20 条；最新：Thu, 22 Oct 2026 18:04:59  |
+| [mastodon_instance](https://mammut.gogreenit.net/api/v1/instance) | json | HTTP 200 | 2026-10-24T04:35:40Z | version="4.7.3"; stats={"user_count": 9, "status_count": 16403, "domain_count": 285; conta |
+| [chewie_rss](https://mammut.gogreenit.net/@chewie.rss) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 20 条；最新：Fri, 23 Oct 2026 23:06:18  |
 | [home](http://gogreenit.net/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2569 字符；首行：Go Green IT - Home |
 | [auto_home](https://gogreenit.net/) | html | HTTP 200 | 2026-10-23T04:57:18Z | 2569 字符；首行：Go Green IT - Home |
 

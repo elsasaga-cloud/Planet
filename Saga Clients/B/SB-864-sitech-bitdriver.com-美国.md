@@ -19,7 +19,7 @@ replies: 0
 followups: 19
 first_contact: 2025-02-25
 last_contact: 2026-11-05
-s_mail: 25 msgs (out 25 / in 0), 2025-01-20 -> 2026-09-10
+s_mail: 35 msgs (out 35 / in 0), 2025-01-20 -> 2026-09-10
 p1: STI-110GE
 price_tier: 30%
 research: done
@@ -149,7 +149,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2025-01-20 → 2026-09-10　|　**最后去信**：2026-09-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 35 / 来 0）　|　**期间**：2025-01-20 → 2026-09-10　|　**最后去信**：2026-09-10
 - **对方邮箱**：contact@tracnova.com、ramesh@sitech-bitdriver.com、sales@sitech-bitdriver.com
 - 对方从未回信（全部为我方去信）
 
@@ -167,18 +167,18 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-02-05 | 2026-02-05 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-15 | 2026-01-15 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-09 | 2026-01-09 | 0 | 1 | 1 |
-| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 212 条： t43.htm； t44.htm； t45.htm； t46.htm； t47.htm； t48.htm； t49.htm； t50.htm…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-864/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://sitech-bitdriver.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3509 字符；首行：A World of Fiber Optic Solutions by S.I. Tech, Inc. |
-| [sitemap](https://sitech-bitdriver.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 292 个 URL；最新 lastmod - |
+| [sitemap](https://sitech-bitdriver.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 292 个 URL；最新 lastmod - |
 | [news_1](https://sitech-bitdriver.com/news/news.htm) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2417 字符；首行：S.I. Tech Latest News and Featured Products |
 
 ## 联系方式（已有 · 原值照录）

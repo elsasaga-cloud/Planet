@@ -19,7 +19,7 @@ replies: 0
 followups: 17
 first_contact: 2024-05-17
 last_contact: 2025-10-22
-s_mail: 21 msgs (out 21 / in 0), 2024-06-17 -> 2026-09-22
+s_mail: 26 msgs (out 26 / in 0), 2024-06-17 -> 2026-09-22
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -148,7 +148,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-06-17 → 2026-09-22　|　**最后去信**：2026-09-22
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 26 / 来 0）　|　**期间**：2024-06-17 → 2026-09-22　|　**最后去信**：2026-09-22
 - **对方邮箱**：contact@inv-technology.com、maxence@inv-technology.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-01 $240；2024-11-19 $300；2024-09-13 $65
@@ -167,21 +167,21 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-26 | 2025-11-26 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-22 | 2025-10-22 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-18 | 2025-09-18 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 228 条：2020-10-09T14:26:03 33-accessories；2020-10-09T14:26:03 34-access-control-kits；202
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-839/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://inv-technology.com/en/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3355 字符；首行：Video surveillance and security in Corsica - Dynavision |
-| [sitemap](https://inv-technology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 308 个 URL；最新 lastmod 2020-10-09T14:26:03 |
+| [home](https://inv-technology.com/en/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3355 字符；首行：Video surveillance and security in Corsica - Dynavision |
+| [sitemap](https://inv-technology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 308 个 URL；最新 lastmod 2020-10-09T14:26:03 |
 | [news_1](https://inv-technology.com/en/blog/test-actu-dynavision-b1.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1370 字符；首行：INV-Technology |
 | [news_2](https://inv-technology.com/en/content/6-our-references) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2376 字符；首行：Our references |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCmR8v1WcK5Q0-KXFmQRbdUg |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCmR8v1WcK5Q0-KXFmQRbdUg |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/invtechnology20/
 

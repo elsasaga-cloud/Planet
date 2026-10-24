@@ -21,7 +21,7 @@ replies: 0
 followups: 8
 first_contact: 2025-02-20
 last_contact: 2025-10-28
-s_mail: 26 msgs (out 14 / in 12), 2023-11-02 -> 2026-09-23
+s_mail: 33 msgs (out 18 / in 15), 2023-11-02 -> 2026-09-23
 p1: STI-288GPM
 price_tier: 20%
 research: done
@@ -133,7 +133,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 14 / 来 12）　|　**期间**：2023-11-02 → 2026-09-23　|　**最后去信**：2026-09-23
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 18 / 来 15）　|　**期间**：2023-11-02 → 2026-09-23　|　**最后去信**：2026-09-23
 - **对方邮箱**：info@lanopia.de
 - **最后一封来信**：2026-09-23 info@lanopia.de「Ihr email an Lanopia GmbH」：Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder unser technisches Support Team wird Sie so schnell wie moeglich kontaktieren. Ihr Lanopia Team Thank you for your email and your interest in
 
@@ -151,18 +151,18 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-23 | 2025-12-23 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-18 | 2025-11-18 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-10-28 | 2025-10-28 | 0 | 1 | 1 |
-| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 35 条： audio-to-fiber-converter； 12g-3g-sdi-video-sfp； usb-to-fiber-converter； 5mp-1080p
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-544/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.lanopia.de) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1691 字符；首行：Lanopia - LAN und WAN Netzwerk Lösungen - Startseite |
-| [sitemap](https://www.lanopia.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 115 个 URL；最新 lastmod - |
+| [sitemap](https://www.lanopia.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 115 个 URL；最新 lastmod - |
 | [news_1](https://www.lanopia.de/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2360 字符；首行：Lanopia - LAN und WAN Netzwerk Lösungen - News |
 | [news_2](https://www.lanopia.de/news/omnitron-spoe-switches/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4285 字符；首行：Lanopia - LAN und WAN Netzwerk Lösungen - Omnitron SPoE Switches |
 

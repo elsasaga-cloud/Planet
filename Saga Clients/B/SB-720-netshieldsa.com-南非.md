@@ -19,7 +19,7 @@ replies: 0
 followups: 7
 first_contact: 2025-03-26
 last_contact: 2025-11-05
-s_mail: 15 msgs (out 14 / in 1), 2025-09-01 -> 2026-10-06
+s_mail: 19 msgs (out 18 / in 1), 2025-03-26 -> 2026-10-06
 p1: STI-280GE
 price_tier: 30%
 research: done
@@ -123,7 +123,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：15 封（去 14 / 来 1）　|　**期间**：2025-09-01 → 2026-10-06　|　**最后去信**：2026-10-06
+- **账号**：a.sagatelecom　|　**邮件**：19 封（去 18 / 来 1）　|　**期间**：2025-03-26 → 2026-10-06　|　**最后去信**：2026-10-06
 - **对方邮箱**：celia@netshieldsa.com、inus@netshieldsa.com
 - **最后一封来信**：2026-03-23 inus@netshieldsa.com「RE: Marvell Managed Commercial Switches」：Hi, Please give me indication of pricing on all your switches? Regards Inus
 
@@ -141,11 +141,11 @@ updated: 2026-10-24
 | Optional Marvell Chipset Solutions | 2025-12-04 | 2025-12-04 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-05 | 2025-11-05 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-01 | 2025-10-01 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 17 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-720/`；本节随档案重渲染刷新，实时看日志。
 

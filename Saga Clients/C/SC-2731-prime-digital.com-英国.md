@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 9 msgs (out 9 / in 0), 2024-07-08 -> 2025-08-28
+s_mail: 14 msgs (out 14 / in 0), 2024-07-08 -> 2025-08-28
 p1: STI-144GP
 price_tier: 20%
 research: pending

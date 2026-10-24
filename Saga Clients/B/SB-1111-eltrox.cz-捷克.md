@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-01-30
 last_contact: 2025-10-09
-s_mail: 14 msgs (out 14 / in 0), 2025-01-30 -> 2026-10-01
+s_mail: 19 msgs (out 19 / in 0), 2025-01-30 -> 2026-10-01
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -127,7 +127,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-01-30 → 2026-10-01　|　**最后去信**：2026-10-01
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 19 / 来 0）　|　**期间**：2025-01-30 → 2026-10-01　|　**最后去信**：2026-10-01
 - **对方邮箱**：info@eltrox.cz
 - 对方从未回信（全部为我方去信）
 
@@ -145,19 +145,19 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-15 | 2025-12-15 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-13 | 2025-11-13 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
-| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_1：内容变化：+225 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1111/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.eltrox.cz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 21215 字符；首行：Eltrox.cz \| Zabezpečovací systémy a chytrá domácnost |
-| [sitemap](https://www.eltrox.cz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod - |
-| [news_1](https://www.eltrox.cz/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 19124 字符；首行：Blog - eltrox.cz |
+| [home](https://www.eltrox.cz/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 21518 字符；首行：Eltrox.cz \| Zabezpečovací systémy a chytrá domácnost |
+| [sitemap](https://www.eltrox.cz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod - |
+| [news_1](https://www.eltrox.cz/blog/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 19412 字符；首行：Blog - eltrox.cz |
 
 ## 联系方式（已有 · 原值照录）
 

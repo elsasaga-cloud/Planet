@@ -19,7 +19,7 @@ replies: 0
 followups: 18
 first_contact: 2024-05-09
 last_contact: 2025-10-28
-s_mail: 24 msgs (out 24 / in 0), 2024-07-04 -> 2026-09-25
+s_mail: 29 msgs (out 29 / in 0), 2024-07-04 -> 2026-09-25
 p1: STI-288GPM
 price_tier: 25%
 research: done
@@ -146,7 +146,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 24 / 来 0）　|　**期间**：2024-07-04 → 2026-09-25　|　**最后去信**：2026-09-25
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 29 / 来 0）　|　**期间**：2024-07-04 → 2026-09-25　|　**最后去信**：2026-09-25
 - **对方邮箱**：info@cctvroom.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-26 $240；2024-11-14 $300；2024-09-16 $65
@@ -165,11 +165,11 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-20 | 2026-01-20 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2026-01-06 | 2026-01-06 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-12-11 | 2025-12-11 | 0 | 1 | 1 |
-| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 29 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-813/`；本节随档案重渲染刷新，实时看日志。
 

@@ -21,7 +21,7 @@ replies: 1
 followups: 16
 first_contact: 2024-06-16
 last_contact: 2025-10-29
-s_mail: 19 msgs (out 18 / in 1), 2024-06-16 -> 2026-03-11
+s_mail: 24 msgs (out 23 / in 1), 2024-06-16 -> 2026-03-11
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
@@ -133,7 +133,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：19 封（去 18 / 来 1）　|　**期间**：2024-06-16 → 2026-03-11　|　**最后去信**：2026-03-11
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 23 / 来 1）　|　**期间**：2024-06-16 → 2026-03-11　|　**最后去信**：2026-03-11
 - **对方邮箱**：mike@genrov.com
 - **最后一封来信**：2024-06-16 mike@genrov.com「Re: Industrial PoE Switch」：Hi Simon You could email the data sheet/manual Regards Mike
 - **邮件里报过的价**：2024-11-20 $300；2024-08-14 $65
@@ -148,20 +148,21 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-10-29 | 2025-10-29 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
-| 90W PoE Managed Switch | 2025-02-07 | 2025-02-07 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
-| 8 Port Ethernet Switch | 2024-10-24 | 2024-10-24 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-08-08 | 2025-08-08 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-07-04 | 2025-07-04 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-14 | 2025-05-14 | 0 | 1 | 1 |
+| 16 Port PoE Managed Switch | 2025-04-10 | 2025-04-10 | 0 | 1 | 1 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-039/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://genrov.com/) | html | SSLError: HTTPSConnectionPool(host='genrov.com', port=443):  | - | 官网首页（T27 快照状态 ok） |
+| [home](https://genrov.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 437 字符；首行：Genrov Home |
 
 ## 联系方式（已有 · 原值照录）
 

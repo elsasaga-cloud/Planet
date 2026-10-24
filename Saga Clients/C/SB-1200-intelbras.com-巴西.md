@@ -20,7 +20,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 20 msgs (out 19 / in 1), 2024-06-17 -> 2025-09-18
+s_mail: 23 msgs (out 22 / in 1), 2024-06-17 -> 2025-09-18
 p1: none
 price_tier: 30%
 research: done

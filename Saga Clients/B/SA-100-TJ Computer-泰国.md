@@ -22,7 +22,7 @@ replies: 1
 followups: 1
 first_contact: 2025-03-18
 last_contact: 2025-03-18
-s_mail: 9 msgs (out 9 / in 0), 2025-02-12 -> 2026-09-07
+s_mail: 20 msgs (out 18 / in 2), 2025-02-12 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -116,9 +116,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2025-02-12 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 18 / 来 2）　|　**期间**：2025-02-12 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：tjcomputer2003@gmail.com、tjcomputercctv@tj2003.net
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-05-14 tjcomputercctv@tj2003.net「Re: Managed Optical Bypass Switch」：ราคาเท่าไหร่? ขอบคุณครับ ขอแสดงความนับถือ พงศ์นันท์ รื่นบุญ (ปีเตอร์) มือถือ : 08-0069-1918, 06-2217-9229 E-mail : tjcomputercctv@tj2003.net <tjcomputercctv@tj2003.net> ในวันที่ พ. 14 พ.ค. 2025 เวลา 15:30 Alan from Saga Telecom < a.sagatelecom@gmail.com> เขียน
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -130,11 +130,15 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-19 | 2025-11-19 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-15 | 2025-10-15 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2025-02-12 | 2025-02-12 | 0 | 1 | 1 |
+| 24 Port Fiber Switch | 2025-08-13 | 2025-08-13 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-14 | 2025-07-14 | 0 | 1 | 1 |
+| Commercial PoE Switch | 2025-06-20 | 2025-06-20 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-14 | 2025-05-15 | 1 | 2 | 4 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-100/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

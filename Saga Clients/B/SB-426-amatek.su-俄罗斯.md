@@ -19,7 +19,7 @@ replies: 0
 followups: 35
 first_contact: 2024-04-29
 last_contact: 2025-10-31
-s_mail: 38 msgs (out 38 / in 0), 2024-06-24 -> 2026-08-24
+s_mail: 46 msgs (out 46 / in 0), 2024-06-24 -> 2026-08-24
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -180,7 +180,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 38 / 来 0）　|　**期间**：2024-06-24 → 2026-08-24　|　**最后去信**：2026-08-24
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：46 封（去 46 / 来 0）　|　**期间**：2024-06-24 → 2026-08-24　|　**最后去信**：2026-08-24
 - **对方邮箱**：info@amatek.su、kovrigo@ksb.su、mp@amatek.su、remont@amatek.su
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-16 $240；2025-01-02 $240；2024-09-10 $65；2024-08-15 $220；2024-07-26 $220；2024-07-01 $65
@@ -203,18 +203,18 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2015-09-01 nachalo_prodaz；2015-10-30 amatek_sfitex；2016-02-05 registratori_ar-hf1
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-426/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://amatek.su/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4495 字符；首行：Amatek - cистемы видеонаблюдения |
-| [sitemap](https://amatek.su/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2026-10-23 |
+| [sitemap](https://amatek.su/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-10-24 |
 | [news_1](https://amatek.su/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3904 字符；首行：AMATEK - Новости |
 | [news_2](https://amatek.su/news/c-dnem-velikoi-pobedy25) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3589 字符；首行：Новости, анонсы событий, акции торговой марки Amatek |
 | [vk](https://vk.com/amatek) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCNSSCmYlGf7klcRsfhRLT6Q) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCNSSCmYlGf7klcRsfhRLT6Q |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCNSSCmYlGf7klcRsfhRLT6Q) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCNSSCmYlGf7klcRsfhRLT6Q |
 
 ## 联系方式（已有 · 原值照录）
 

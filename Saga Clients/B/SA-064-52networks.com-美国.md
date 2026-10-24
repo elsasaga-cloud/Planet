@@ -21,7 +21,7 @@ replies: 0
 followups: 7
 first_contact: 2025-02-22
 last_contact: 2025-09-17
-s_mail: 35 msgs (out 21 / in 14), 2025-01-17 -> 2026-08-14
+s_mail: 38 msgs (out 24 / in 14), 2025-01-17 -> 2026-08-14
 p1: STI-110GE
 price_tier: 20%
 research: done
@@ -187,7 +187,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 21 / 来 14）　|　**期间**：2025-01-17 → 2026-08-14　|　**最后去信**：2026-08-14
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 24 / 来 14）　|　**期间**：2025-01-17 → 2026-08-14　|　**最后去信**：2026-08-14
 - **对方邮箱**：sales@52networks.com
 - **最后一封来信**：2025-07-24 sales@52networks.com「Re: 8 Port Industrial PoE Switch」：Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:
 - **邮件里报过的价**：2025-01-17 $240
@@ -201,11 +201,14 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-14 | 2026-01-14 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-10 | 2025-11-10 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-07-11 | 2025-09-17 | 14 | 14 | 31 |
+| Commercial PoE Switch | 2025-06-06 | 2025-06-06 | 0 | 1 | 1 |
+| Commercial Network Switch | 2025-05-09 | 2025-05-09 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-10 | 2025-04-10 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-01-17 | 2025-01-17 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T06:51:07Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-064/`；本节随档案重渲染刷新，实时看日志。
 

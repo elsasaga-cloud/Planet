@@ -21,7 +21,7 @@ replies: 0
 followups: 1
 first_contact: 2025-12-04
 last_contact: 2025-12-04
-s_mail: 14 msgs (out 12 / in 2), 2025-02-26 -> 2026-09-07
+s_mail: 16 msgs (out 14 / in 2), 2025-02-26 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -136,7 +136,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：14 封（去 12 / 来 2）　|　**期间**：2025-02-26 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：a.sagatelecom　|　**邮件**：16 封（去 14 / 来 2）　|　**期间**：2025-02-26 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：ets@elitteamsecurity.com
 - **最后一封来信**：2025-12-17 ets@elitteamsecurity.com「Re: Optional Marvell Chipset Solutions」：*Hi,* Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high. Best regards, On Mon, Dec 15, 2025 at 3:16 PM Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:
 
@@ -150,11 +150,13 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-07 | 2025-11-07 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-03 | 2025-10-03 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-01 | 2025-09-01 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-07-23 | 2025-07-23 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-05-30 | 2025-05-30 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-02-26 | 2025-02-26 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-153/`；本节随档案重渲染刷新，实时看日志。
 

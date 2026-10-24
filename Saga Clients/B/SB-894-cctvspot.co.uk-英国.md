@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -110,16 +110,16 @@ updated: 2026-10-23
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-894/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://cctvspot.co.uk/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 31377 字符；首行：CCTV cameras, systems and dvr kits from Hikvision & Dahua - cctvspot.co.uk |
-| [news_1](https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/hikvision-sadp-tool-how-to-use-it) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2765 字符；首行：What is Hikvision SADP tool and how to use it? - cctvspot.co.uk |
-| [news_2](https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/how-to-install-hard-drive-into-dvr) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3045 字符；首行：How to install HDD into DVR - Video tutorial and easy step-by-step guide - cctv |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCKCH9AwwPcfJ9Bil43oNVvA) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 http://www.youtube.com/channel/UCKCH9AwwPcfJ9Bil43oNVvA |
+| [news_1](https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/hikvision-sadp-tool-how-to-use-it) | html | HTTP 200 | 2026-10-24T04:35:40Z | 2765 字符；首行：What is Hikvision SADP tool and how to use it? - cctvspot.co.uk |
+| [news_2](https://cctvspot.co.uk/blog-for-cctv-security-cameras-systems-reviews/how-to-install-hard-drive-into-dvr) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3045 字符；首行：How to install HDD into DVR - Video tutorial and easy step-by-step guide - cctv |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCKCH9AwwPcfJ9Bil43oNVvA) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 http://www.youtube.com/channel/UCKCH9AwwPcfJ9Bil43oNVvA |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/MBVision.Ltd/；X/Twitter: https://www.twitter.com/MBVisionLTD
 
@@ -227,12 +227,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -19,7 +19,7 @@ replies: 0
 followups: 4
 first_contact: 2025-06-19
 last_contact: 2025-09-19
-s_mail: 10 msgs (out 1 / in 9), 2024-05-22 -> 2025-09-19
+s_mail: 16 msgs (out 4 / in 12), 2024-05-22 -> 2025-09-19
 p1: STI-288GP
 price_tier: 25%
 research: done
@@ -121,36 +121,39 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：10 封（去 1 / 来 9）　|　**期间**：2024-05-22 → 2025-09-19　|　**最后去信**：2025-09-19
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 4 / 来 12）　|　**期间**：2024-05-22 → 2025-09-19　|　**最后去信**：2025-09-19
 - **对方邮箱**：info@tamyeezsecurity.com
-- **最后一封来信**：2025-01-20 notifications@poewit-technologies-inc.odoo.com「16 Port PoE Managed Switch (#8756)」：Dear Simon, Your request 16 Port PoE Managed Switch has been received and is being reviewed by our Sales team. The reference of your ticket is 8756. View the ticket To add additional [...] ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​
+- **最后一封来信**：2025-06-09 notifications@poewit-technologies-inc.odoo.com「Marvell Industrial Alert System (#9877)」：Dear Alan from Saga Telecom, Your request Marvell Industrial Alert System has been received and is being reviewed by our Sales team. The reference of your ticket is 9877. View the [...] ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ ​ ͏ 
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
 | 24 Port Fiber Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-08-21 | 2025-08-21 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-15 | 2025-07-15 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-06-19 | 2025-06-19 | 0 | 1 | 1 |
+| Marvell Industrial Alert System (#9877) | 2025-06-09 | 2025-06-09 | 1 | 0 | 0 |
+| 90W PoE Managed Switch (#9636) | 2025-05-12 | 2025-05-12 | 1 | 0 | 0 |
+| Managed Optical Bypass Switch (#9432) | 2025-04-11 | 2025-04-11 | 1 | 0 | 0 |
 | 16 Port PoE Managed Switch (#8756) | 2025-01-20 | 2025-01-20 | 1 | 0 | 0 |
 | Mini Industrial PoE Switch (#8583) | 2024-12-25 | 2024-12-25 | 1 | 0 | 0 |
 | 90W PoE Managed Switch (#8327) | 2024-11-27 | 2024-11-27 | 1 | 0 | 0 |
 | 10G Media Converter (#8112) | 2024-10-31 | 2024-10-31 | 1 | 0 | 0 |
 | 2.5G Web Managed Switch (#7814) | 2024-09-29 | 2024-09-29 | 1 | 0 | 0 |
-| 2.5G Switch (#7479) | 2024-08-25 | 2024-08-25 | 1 | 0 | 0 |
-| 48 port managed switch (#7125) | 2024-07-21 | 2024-07-21 | 1 | 0 | 0 |
-| Industrial PoE Switch (#6772) | 2024-06-20 | 2024-06-20 | 1 | 0 | 0 |
-| Layer 3 managed switch (#6427) | 2024-05-22 | 2024-05-22 | 1 | 0 | 0 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_1：内容变化：+5 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1225/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.odoo.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6279 字符；首行：Open Source ERP and CRM \| Odoo |
+| [home](https://www.odoo.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 6286 字符；首行：Open Source ERP and CRM \| Odoo |
 | [sitemap](https://www.odoo.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.odoo.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7800 字符；首行：Blog Posts \| Odoo |
+| [news_1](https://www.odoo.com/blog) | html | HTTP 200 | 2026-10-24T04:35:40Z | 7802 字符；首行：Blog Posts \| Odoo |
 | [news_2](https://www.odoo.com/app/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4065 字符；首行：Odoo \| Open Source Blogs alternative to Medium |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCkQPikELWZFLgQNHd73jkdg |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCkQPikELWZFLgQNHd73jkdg |
 
 - **人工定期看（登录墙，不自动抓）**：X/Twitter: https://twitter.com/Odoo；LinkedIn: https://www.linkedin.com/company/odoo；Instagram: https://www.instagram.com/odoo.official；Facebook: https://www.facebook.com/odoo
 

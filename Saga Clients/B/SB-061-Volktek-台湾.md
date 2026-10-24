@@ -21,7 +21,7 @@ replies: 0
 followups: 8
 first_contact: 2025-03-20
 last_contact: 2025-10-21
-s_mail: 8 msgs (out 8 / in 0), 2025-09-16 -> 2026-09-04
+s_mail: 14 msgs (out 14 / in 0), 2025-03-20 -> 2026-09-04
 p1: LT-IS6312GP-4GX8GT-FBP
 price_tier: 30%
 research: done
@@ -123,7 +123,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-09-16 → 2026-09-04　|　**最后去信**：2026-09-04
+- **账号**：a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-03-20 → 2026-09-04　|　**最后去信**：2026-09-04
 - **对方邮箱**：joseph.pi@volktek.com、karen.hua@volktek.com
 - 对方从未回信（全部为我方去信）
 
@@ -137,20 +137,25 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-26 | 2025-11-26 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-21 | 2025-10-21 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-16 | 2025-09-16 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-08-15 | 2025-08-15 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-09 | 2025-07-09 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-12 | 2025-06-12 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-16 | 2025-05-16 | 0 | 1 | 1 |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 50 条：2026-03-23 metro-ethernet-switches.html；2026-03-23 industrial-poe-switches.html；20
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-061/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.volktek.com/index_en.php) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8770 字符；首行：Industrial Ethernet Switches & PoE Solutions \| Volktek Taiwan |
-| [sitemap](https://www.volktek.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 130 个 URL；最新 lastmod 2026-03-23 |
+| [sitemap](https://www.volktek.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 130 个 URL；最新 lastmod 2026-03-23 |
 | [news_1](https://www.volktek.com/news_en.php?id=63974) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5244 字符；首行：Articles \| VOLKTEK |
 | [news_2](https://www.volktek.com/news_en.php) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5569 字符；首行：News & Events \| VOLKTEK |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCnfa1v_jvahfH-3kgEzTRUw/ |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCnfa1v_jvahfH-3kgEzTRUw/ |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/volktek/；LinkedIn: https://www.linkedin.com/company/volktek；Instagram: https://www.instagram.com/volktek_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
 

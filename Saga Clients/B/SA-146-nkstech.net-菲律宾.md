@@ -22,13 +22,13 @@ replies: 0
 followups: 1
 first_contact: 2025-10-09
 last_contact: 2025-10-09
-s_mail: 4 msgs (out 3 / in 1), 2024-11-06 -> 2025-01-10
+s_mail: 5 msgs (out 4 / in 1), 2024-11-06 -> 2025-03-19
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-23
+updated: 2026-10-24
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -131,20 +131,21 @@ updated: 2026-10-23
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom　|　**邮件**：4 封（去 3 / 来 1）　|　**期间**：2024-11-06 → 2025-01-10　|　**最后去信**：2025-01-10
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：5 封（去 4 / 来 1）　|　**期间**：2024-11-06 → 2025-03-19　|　**最后去信**：2025-03-19
 - **对方邮箱**：info@nkstech.net
 - **最后一封来信**：2024-11-06 steven@avanca.com.sg「Re: 10G Media Converter」：Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, Singapore 536209 Tel: +65 62425108 Mobile/Whatsapp: +65 96878577 Email: steven@avanca.com.sg<mailto:steven@avanca.com.s
 - **邮件里报过的价**：2024-12-03 $300；2024-11-06 $65
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
+| 8 Port Industrial PoE Switch | 2025-03-19 | 2025-03-19 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-01-10 | 2025-01-10 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-12-03 | 2024-12-03 | 2 | 1 | 3 |
 | 10G Media Converter | 2024-11-06 | 2024-11-15 | 3 | 4 | 15 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-146/`；本节随档案重渲染刷新，实时看日志。
 
@@ -259,12 +260,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-22**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-23：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-23　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

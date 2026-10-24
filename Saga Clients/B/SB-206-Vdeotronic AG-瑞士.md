@@ -19,7 +19,7 @@ replies: 0
 followups: 6
 first_contact: 2025-03-20
 last_contact: 2025-10-08
-s_mail: 12 msgs (out 12 / in 0), 2025-09-04 -> 2026-09-14
+s_mail: 16 msgs (out 16 / in 0), 2025-03-20 -> 2026-09-14
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
@@ -132,7 +132,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2025-09-04 → 2026-09-14　|　**最后去信**：2026-09-14
+- **账号**：a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2025-03-20 → 2026-09-14　|　**最后去信**：2026-09-14
 - **对方邮箱**：c.sgouros@videotronic.ch
 - 对方从未回信（全部为我方去信）
 
@@ -150,10 +150,11 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-12 | 2025-11-12 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-08 | 2025-10-08 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-09-04 | 2025-09-04 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-206/`；本节随档案重渲染刷新，实时看日志。
 
@@ -161,7 +162,7 @@ updated: 2026-10-24
 |---|---|---|---|---|
 | [home](https://videotronic.ch/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5160 字符；首行：Videotronic \| Videosicherheit & Zutrittskontrolle Schweiz |
 | [news_1](https://videotronic.ch/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6570 字符；首行：News |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCD96WpFWvsFSRLZjJKXyH8w) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCD96WpFWvsFSRLZjJKXyH8w |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCD96WpFWvsFSRLZjJKXyH8w) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCD96WpFWvsFSRLZjJKXyH8w |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/videotronicag；LinkedIn: https://www.linkedin.com/company/videotronic-ag；X/Twitter: https://twitter.com/VideotronicAG
 

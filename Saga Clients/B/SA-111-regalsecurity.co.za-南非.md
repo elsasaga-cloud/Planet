@@ -22,7 +22,7 @@ replies: 1
 followups: 19
 first_contact: 2024-02-12
 last_contact: 2025-11-05
-s_mail: 34 msgs (out 19 / in 15), 2023-11-21 -> 2026-10-06
+s_mail: 38 msgs (out 23 / in 15), 2023-11-21 -> 2026-10-06
 p1: STC-228GP
 price_tier: 30%
 research: done
@@ -173,7 +173,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：34 封（去 19 / 来 15）　|　**期间**：2023-11-21 → 2026-10-06　|　**最后去信**：2026-10-06
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 23 / 来 15）　|　**期间**：2023-11-21 → 2026-10-06　|　**最后去信**：2026-10-06
 - **对方邮箱**：enquiries@regalsecurity.co.za、jacques.duplessis@regalsecurity.co.za、nsc.support@regalsecurity.co.za、sales@regalsecurity.co.za
 - **最后一封来信**：2024-10-17 nsc.support@regalsecurity.co.za「RE: 8 Port Industrial PoE Switch [#RS95768]」：Morning Simon Please find the Attached Quote kind regards Josephine Davis Sales Support Consultant Regal Distributors SA (Pty) Ltd T 087-802-3920 O Greenstone Head Office E nsc.support@regalsecurity.co.za W www.regalsecurity.co.za
 - **邮件里报过的价**：2024-12-11 $300
@@ -196,7 +196,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-111/`；本节随档案重渲染刷新，实时看日志。
 

@@ -21,7 +21,7 @@ replies: 0
 followups: 9
 first_contact: 2024-05-08
 last_contact: 2025-06-17
-s_mail: 25 msgs (out 18 / in 7), 2024-04-24 -> 2026-09-21
+s_mail: 30 msgs (out 23 / in 7), 2024-04-24 -> 2026-09-21
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -154,7 +154,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 18 / 来 7）　|　**期间**：2024-04-24 → 2026-09-21　|　**最后去信**：2026-09-21
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 23 / 来 7）　|　**期间**：2024-04-24 → 2026-09-21　|　**最后去信**：2026-09-21
 - **对方邮箱**：akshat.pandey@goip.in、info@goip.in、info@syrotech.com、pankaj.sodhi@goip.in、pankaj@syrotech.com、sachin.verma@goip.in
 - **最后一封来信**：2024-10-24 pankaj.sodhi@goip.in「Re: 8 Port 2.5G Switch」：Hi Simon, It is Semi manage or manage Switch, Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect. I am on WhatsApp at +91-9818989801 and on Skype at pankaj.sodhi Regards, Pankaj Sodhi +91-9818989801
 - **邮件里报过的价**：2024-08-13 $220
@@ -166,18 +166,18 @@ updated: 2026-10-24
 | 24 Port PoE Managed Switch | 2026-07-24 | 2026-07-24 | 0 | 1 | 1 |
 | 10G L3 Managed Switch | 2026-06-16 | 2026-06-16 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2026-05-01 | 2026-05-01 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-17 | 2025-06-17 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-17 | 2025-06-17 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-08 | 2025-05-08 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-05-08 | 2025-05-08 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-03 | 2025-03-03 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2024-11-25 | 2024-11-25 | 0 | 1 | 1 |
 | 8 Port 2.5G Switch | 2024-10-22 | 2024-10-24 | 1 | 1 | 1 |
-| Your request has been logged with request id ##157861## | 2024-10-22 | 2024-10-22 | 1 | 0 | 0 |
-| 8 Port Ethernet Switch | 2024-09-26 | 2024-09-26 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2024-09-26 | 2024-09-26 | 0 | 1 | 1 |
-| unmanaged switch | 2024-08-26 | 2024-08-26 | 0 | 1 | 1 |
-| 24 port poe switch | 2024-08-26 | 2024-08-26 | 0 | 1 | 1 |
-| …共 24 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 29 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-928/`；本节随档案重渲染刷新，实时看日志。
 

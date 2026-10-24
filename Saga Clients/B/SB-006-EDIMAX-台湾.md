@@ -21,7 +21,7 @@ replies: 1
 followups: 8
 first_contact: 2025-07-09
 last_contact: 2025-07-09
-s_mail: 10 msgs (out 8 / in 2), 2025-07-09 -> 2026-09-08
+s_mail: 14 msgs (out 12 / in 2), 2025-03-27 -> 2026-09-08
 p1: STI-21616GP
 price_tier: 30%
 research: done
@@ -118,7 +118,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：10 封（去 8 / 来 2）　|　**期间**：2025-07-09 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：a.sagatelecom　|　**邮件**：14 封（去 12 / 来 2）　|　**期间**：2025-03-27 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：bruceyang@edimax.com.tw、jessechen@edimax.com.tw、marketing@edimax.com.tw、sales@edimax.com
 - **最后一封来信**：2025-07-09 jessechen@edimax.com.tw「RE: 16 Port Ethernet Switch」：Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen
 
@@ -130,10 +130,14 @@ updated: 2026-10-24
 | Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-07-09 | 2025-10-20 | 2 | 4 | 8 |
 | L3 Managed Switch | 2025-09-17 | 2025-09-17 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-18 | 2025-06-18 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-05-21 | 2025-05-21 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-04-29 | 2025-04-29 | 0 | 1 | 1 |
+| Marvell Alleycat5 Solution | 2025-03-27 | 2025-03-27 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-006/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

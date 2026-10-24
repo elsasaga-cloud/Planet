@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-07-07
 last_contact: 2025-07-07
-s_mail: 24 msgs (out 20 / in 4), 2024-07-08 -> 2026-09-07
+s_mail: 33 msgs (out 27 / in 6), 2024-07-08 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -128,7 +128,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 20 / 来 4）　|　**期间**：2024-07-08 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 27 / 来 6）　|　**期间**：2024-07-08 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：briticom@briticom.net、justin@teltronix.net、wadii@teltronix.net
 - **最后一封来信**：2025-10-31 wadii@teltronix.net「RE: Booster PoE Switch」：It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX \| BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C.DDEAD2E0]<briticom.net> Please click here<https://www.linkedin.com/company/teltronix> to follow us on LinkedI
 - **邮件里报过的价**：2024-07-08 $220
@@ -144,14 +144,14 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-10-30 | 2025-10-31 | 1 | 1 | 3 |
 | 10G Enterprise SFP Switch | 2025-10-09 | 2025-10-09 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
-| 16 Port PoE Managed Switch | 2025-02-07 | 2025-02-07 | 0 | 1 | 1 |
-| Power Converter | 2024-10-02 | 2024-12-11 | 1 | 5 | 18 |
-| 8 port poe switch | 2024-09-02 | 2024-09-03 | 1 | 2 | 6 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-08-08 | 2025-08-08 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-07-04 | 2025-07-08 | 2 | 3 | 10 |
+| Commercial PoE Switch | 2025-05-15 | 2025-05-15 | 0 | 1 | 1 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1019/`；本节随档案重渲染刷新，实时看日志。
 

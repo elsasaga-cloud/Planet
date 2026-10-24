@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-01-27
 last_contact: 2025-10-27
-s_mail: 7 msgs (out 7 / in 0), 2025-01-27 -> 2026-02-02
+s_mail: 11 msgs (out 11 / in 0), 2025-01-27 -> 2026-02-02
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -136,7 +136,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：7 封（去 7 / 来 0）　|　**期间**：2025-01-27 → 2026-02-02　|　**最后去信**：2026-02-02
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-01-27 → 2026-02-02　|　**最后去信**：2026-02-02
 - **对方邮箱**：billy.grumbles@alibisecurity.com
 - 对方从未回信（全部为我方去信）
 
@@ -148,11 +148,15 @@ updated: 2026-10-24
 | 90W PoE Managed Switch | 2025-10-27 | 2025-10-27 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-29 | 2025-09-29 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-08-29 | 2025-08-29 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-07-21 | 2025-07-21 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-06-24 | 2025-06-24 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-21 | 2025-05-21 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-03-04 | 2025-03-04 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-01-27 | 2025-01-27 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1055/`；本节随档案重渲染刷新，实时看日志。
 
@@ -162,7 +166,7 @@ updated: 2026-10-24
 | [sitemap](https://www.alibisecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.alibisecurity.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 10801 字符；首行：Security Resources |
 | [news_2](https://www.alibisecurity.com/blog/category/success-stories) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11599 字符；首行：Success Stories |
-| [youtube](https://www.youtube.com/c/Sctechnologies) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/c/Sctechnologies) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/AlibiPartners/；LinkedIn: https://www.linkedin.com/company/alibi-security
 

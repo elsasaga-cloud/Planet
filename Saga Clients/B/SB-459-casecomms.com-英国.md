@@ -21,7 +21,7 @@ replies: 1
 followups: 20
 first_contact: 2024-04-01
 last_contact: 2025-10-27
-s_mail: 47 msgs (out 42 / in 5), 2024-05-09 -> 2026-09-07
+s_mail: 57 msgs (out 52 / in 5), 2024-05-09 -> 2026-09-07
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
@@ -165,7 +165,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：47 封（去 42 / 来 5）　|　**期间**：2024-05-09 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：57 封（去 52 / 来 5）　|　**期间**：2024-05-09 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：admin@case.uk.com、andys@case.uk.com、sales@foscam.uk.com
 - **最后一封来信**：2025-02-08 andys@case.uk.com「RE: L3 Managed Switch」：Thank you Alan I guess this is based on the Marvell chipset. It does seem quite expensive we have layer 3 switches for a lot less. Best regards Andy
 
@@ -187,7 +187,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-459/`；本节随档案重渲染刷新，实时看日志。
 

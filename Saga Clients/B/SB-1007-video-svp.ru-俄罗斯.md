@@ -19,7 +19,7 @@ replies: 0
 followups: 17
 first_contact: 2024-05-10
 last_contact: 2025-11-03
-s_mail: 15 msgs (out 15 / in 0), 2024-07-05 -> 2026-08-25
+s_mail: 20 msgs (out 20 / in 0), 2024-07-05 -> 2026-08-25
 p1: STI-280GE
 price_tier: 30%
 research: done
@@ -144,7 +144,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2024-07-05 → 2026-08-25　|　**最后去信**：2026-08-25
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：20 封（去 20 / 来 0）　|　**期间**：2024-07-05 → 2026-08-25　|　**最后去信**：2026-08-25
 - **对方邮箱**：vadim@sbvs.ru、video@svp.ru、vladros@inbox.ru
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-31 $240；2024-08-22 $300；2024-08-05 $65
@@ -159,15 +159,15 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-03 | 2025-11-03 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-02 | 2025-10-02 | 0 | 1 | 1 |
 | Mini Industrial PoE Switch | 2025-08-28 | 2025-08-28 | 0 | 1 | 1 |
-| 16 Port Ethernet Switch | 2025-01-24 | 2025-01-24 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2024-12-31 | 2024-12-31 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-11-12 | 2024-11-12 | 0 | 1 | 1 |
-| 24 Port Passive PoE Switch | 2024-10-22 | 2024-10-22 | 0 | 1 | 1 |
-| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Industrial PoE Switch | 2025-07-23 | 2025-07-23 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-30 | 2025-06-30 | 0 | 1 | 1 |
+| 90W PoE Managed Switch | 2025-05-23 | 2025-05-23 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-04-16 | 2025-04-16 | 0 | 1 | 1 |
+| …共 20 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1007/`；本节随档案重渲染刷新，实时看日志。
 

@@ -21,7 +21,7 @@ replies: 0
 followups: 8
 first_contact: unknown
 last_contact: unknown
-s_mail: 8 msgs (out 8 / in 0), 2025-09-15 -> 2026-09-04
+s_mail: 14 msgs (out 14 / in 0), 2025-03-19 -> 2026-09-04
 p1: STI-288DGGPM-2BT
 price_tier: 30%
 research: done
@@ -124,7 +124,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-09-15 → 2026-09-04　|　**最后去信**：2026-09-04
+- **账号**：a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-03-19 → 2026-09-04　|　**最后去信**：2026-09-04
 - **对方邮箱**：jone.chen@aetektec.com
 - 对方从未回信（全部为我方去信）
 
@@ -138,19 +138,24 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-25 | 2025-11-25 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-20 | 2025-10-20 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2025-09-15 | 2025-09-15 | 0 | 1 | 1 |
+| Mini Industrial PoE Switch | 2025-08-14 | 2025-08-14 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-09 | 2025-07-09 | 0 | 1 | 1 |
+| Marvell Industrial Alert System | 2025-06-11 | 2025-06-11 | 0 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-16 | 2025-05-16 | 0 | 1 | 1 |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-062/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.aetektec.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5486 字符；首行：AETEK |
-| [news_1](https://www.aetektec.com/News) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9033 字符；首行：AETEK News List |
-| [news_2](https://www.aetektec.com/News/Details/40) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3739 字符；首行：AETEK \| AETEK NDAA & TAA COMPLIANT PRODUCTS |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCFX36NuXabiRml5YPXDVO2g) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://m.youtube.com/channel/UCFX36NuXabiRml5YPXDVO2g |
+| [home](https://www.aetektec.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5486 字符；首行：AETEK |
+| [news_1](https://www.aetektec.com/News) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9033 字符；首行：AETEK News List |
+| [news_2](https://www.aetektec.com/News/Details/40) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3739 字符；首行：AETEK \| AETEK NDAA & TAA COMPLIANT PRODUCTS |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCFX36NuXabiRml5YPXDVO2g) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://m.youtube.com/channel/UCFX36NuXabiRml5YPXDVO2g |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/aetek-inc/
 

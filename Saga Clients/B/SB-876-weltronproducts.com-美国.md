@@ -19,7 +19,7 @@ replies: 0
 followups: 19
 first_contact: 2024-05-03
 last_contact: 2025-10-30
-s_mail: 30 msgs (out 29 / in 1), 2024-06-26 -> 2026-10-01
+s_mail: 35 msgs (out 34 / in 1), 2024-06-26 -> 2026-10-01
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -145,7 +145,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 29 / 来 1）　|　**期间**：2024-06-26 → 2026-10-01　|　**最后去信**：2026-10-01
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：35 封（去 34 / 来 1）　|　**期间**：2024-06-26 → 2026-10-01　|　**最后去信**：2026-10-01
 - **对方邮箱**：awinston@winstonele.com、info@weltron.us、robwinston@winstonele.com
 - **最后一封来信**：2024-07-19 robwinston@winstonele.com「Automatic reply: 8 port Ethernet Switch」：﻿ ﻿****External OOO - Please Read**** I will be traveling out of the country returning Monday, July 22, 2024. During this time I will have very limited access to my email and phone but I will be checking periodically and will try and respond accordingly when p
 - **邮件里报过的价**：2024-09-11 $65；2024-08-15 $220
@@ -168,7 +168,7 @@ updated: 2026-10-24
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-876/`；本节随档案重渲染刷新，实时看日志。
 

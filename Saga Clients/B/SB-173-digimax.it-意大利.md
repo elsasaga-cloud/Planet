@@ -19,7 +19,7 @@ replies: 0
 followups: 12
 first_contact: 2024-06-04
 last_contact: 2025-10-15
-s_mail: 18 msgs (out 17 / in 1), 2024-06-28 -> 2026-09-16
+s_mail: 21 msgs (out 20 / in 1), 2024-06-28 -> 2026-09-16
 p1: STI-280GE
 price_tier: 20%
 research: done
@@ -143,7 +143,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 17 / 来 1）　|　**期间**：2024-06-28 → 2026-09-16　|　**最后去信**：2026-09-16
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 20 / 来 1）　|　**期间**：2024-06-28 → 2026-09-16　|　**最后去信**：2026-09-16
 - **对方邮箱**：digimax@digimax.it、f.zordan@digimax.it、m.tirapelle@digimax.it
 - **最后一封来信**：2026-09-16 f.zordan@digimax.it「Risposta automatica: 16 Port Industrial PoE Switch」：Buongiorno, nelle giornate del 15/09/2026 e 16/09/2026 sarò assente e avrò un accesso limitato alla posta elettronica. Sarà mia cura leggere e gestire le Vostre comunicazioni a partire dal 17/09/2026. Recapiti Ordini d'acquisto : ordini@digimax.it Evasione ord
 - **邮件里报过的价**：2024-08-19 $65
@@ -162,18 +162,18 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-25 | 2025-11-25 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-15 | 2025-10-15 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-09-12 | 2025-09-12 | 0 | 1 | 1 |
-| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 820 条：2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:0
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-173/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.digimax.it/it) | html | HTTP 200 | 2026-10-23T04:20:51Z | 38944 字符；首行：Digimax \| Alimentatori industriali, driver led, strip led, pc industriali e d |
-| [sitemap](https://www.digimax.it/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 900 个 URL；最新 lastmod 2026-10-23T04:26:54 |
+| [sitemap](https://www.digimax.it/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 900 个 URL；最新 lastmod 2026-10-24T04:43:53 |
 | [news_1](https://www.digimax.it/it/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 33802 字符；首行：Digimax \| Visita il nostro blog: news, articoli e approfondimenti |
 
 ## 联系方式（已有 · 原值照录）

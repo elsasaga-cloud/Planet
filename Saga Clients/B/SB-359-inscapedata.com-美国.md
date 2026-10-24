@@ -21,7 +21,7 @@ replies: 0
 followups: 20
 first_contact: 2024-05-02
 last_contact: 2025-10-30
-s_mail: 26 msgs (out 26 / in 0), 2024-06-25 -> 2026-10-01
+s_mail: 31 msgs (out 31 / in 0), 2024-06-25 -> 2026-10-01
 p1: STI-488XGGPM
 price_tier: 30%
 research: done
@@ -150,7 +150,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 26 / 来 0）　|　**期间**：2024-06-25 → 2026-10-01　|　**最后去信**：2026-10-01
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：31 封（去 31 / 来 0）　|　**期间**：2024-06-25 → 2026-10-01　|　**最后去信**：2026-10-01
 - **对方邮箱**：juan.moncada@inscapedata.com、patricia.gonzales@inscapedata.com、sales@inscapedata.com、sergio.fermor@inscapedata.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2025-01-07 $240；2024-07-22 $220
@@ -169,21 +169,21 @@ updated: 2026-10-24
 | Managed Optical Bypass Switch | 2026-01-26 | 2026-01-26 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-07 | 2026-01-07 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-15 | 2025-12-15 | 0 | 1 | 1 |
-| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 382 条：2016-06-30T00:43:15 about.htm；2016-03-25T22:32:45 InscapeDataLineCard04112015.pdf
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-359/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://inscapedata.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4445 字符；首行：Outdoor PoE Switch, Leader in Outdoor Network Solutions, Outdoor 2, 4, 8 Port G |
-| [sitemap](https://inscapedata.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 462 个 URL；最新 lastmod 2016-09-29T18:28:15 |
+| [sitemap](https://inscapedata.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 462 个 URL；最新 lastmod 2016-09-29T18:28:15 |
 | [news_1](https://inscapedata.com/press.htm) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6228 字符；首行：Events, Newsletter & Press Releases\| Inscape Data Corporation |
 | [news_2](https://inscapedata.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8092 字符；首行：Inscape Data |
-| [youtube](https://www.youtube.com/@InscapeData) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/@InscapeData) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/inscape-data-corporation/
 

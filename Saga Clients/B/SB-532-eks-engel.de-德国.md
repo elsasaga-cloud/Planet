@@ -19,7 +19,7 @@ replies: 0
 followups: 8
 first_contact: 2025-02-25
 last_contact: 2025-11-04
-s_mail: 12 msgs (out 12 / in 0), 2025-02-25 -> 2026-09-23
+s_mail: 16 msgs (out 16 / in 0), 2025-02-25 -> 2026-09-23
 p1: STI-288GPM
 price_tier: 30%
 research: done
@@ -142,7 +142,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2025-02-25 → 2026-09-23　|　**最后去信**：2026-09-23
+- **账号**：a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2025-02-25 → 2026-09-23　|　**最后去信**：2026-09-23
 - **对方邮箱**：info@eks-engel.de、re@eks-engel.de
 - 对方从未回信（全部为我方去信）
 
@@ -159,11 +159,12 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-04 | 2025-11-04 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-25 | 2025-09-25 | 0 | 1 | 1 |
 | 16 Port Ethernet Switch | 2025-09-05 | 2025-09-05 | 0 | 1 | 1 |
-| 24 Port Fiber Switch | 2025-02-25 | 2025-02-25 | 0 | 1 | 1 |
+| Marvell Networking Solutions | 2025-07-14 | 2025-07-14 | 0 | 1 | 1 |
+| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-532/`；本节随档案重渲染刷新，实时看日志。
 
@@ -173,7 +174,7 @@ updated: 2026-10-24
 | [sitemap](https://www.eks-engel.de/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.eks-engel.de/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7851 字符；首行：Entdecke eks Engel: Einblicke, Produkte, Veranstaltungen |
 | [news_2](https://www.eks-engel.de/blog/detail/we-keep-you-running/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3759 字符；首行：We keep you running |
-| [youtube](https://www.youtube.com/user/eksEngel) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [youtube](https://www.youtube.com/user/eksEngel) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/pages/Eks-Engel-GmbH-Co-KG/1593035034308566；Instagram: https://www.instagram.com/eksengelfos；LinkedIn: https://www.linkedin.com/company/eks-engel-gmbh-&-co-kg
 

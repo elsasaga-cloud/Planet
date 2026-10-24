@@ -19,7 +19,7 @@ replies: 0
 followups: 5
 first_contact: 2025-05-29
 last_contact: 2025-10-16
-s_mail: 12 msgs (out 10 / in 2), 2025-10-16 -> 2026-09-17
+s_mail: 17 msgs (out 12 / in 5), 2025-05-29 -> 2026-09-17
 p1: STI-288GPM
 price_tier: 25%
 research: done
@@ -133,7 +133,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：12 封（去 10 / 来 2）　|　**期间**：2025-10-16 → 2026-09-17　|　**最后去信**：2026-09-17
+- **账号**：a.sagatelecom　|　**邮件**：17 封（去 12 / 来 5）　|　**期间**：2025-05-29 → 2026-09-17　|　**最后去信**：2026-09-17
 - **对方邮箱**：a.giacobazzi@eter.it、info@eter.it
 - **最后一封来信**：2026-08-05 info@eter.it「Re: WiFi 7 Ready Access Switch」：Grazie per averci contattato! Vi preghiamo di inoltrare la vostra richiesta all'ufficio competente: Per preventivi: commerciale@eter.it Per ordini: ordini@eter.it Per giacenze e spedizioni: magazzino@eter.it Per assistenza tecnica: ufficiotecnico@eter.it Per a
 
@@ -149,20 +149,22 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-30 | 2026-01-30 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-30 | 2025-12-30 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-16 | 2025-10-16 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-07-08 | 2025-07-08 | 1 | 1 | 1 |
+| Managed Optical Bypass Switch | 2025-05-29 | 2025-05-29 | 2 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 feed_auto：新增 1 条：Fri, 23 Oct 2026 06 Eter Biometric Technologies al Secsolutionforum 2026: innovazio
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-444/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.eter.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5589 字符；首行：Home - Eter Biometrics |
+| [home](https://www.eter.it/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 5654 字符；首行：Home - Eter Biometrics |
 | [sitemap](https://www.eter.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.eter.it/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3369 字符；首行：News - Eter Biometrics |
-| [youtube](https://www.youtube.com/@eterbiometric2178) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
-| [feed_auto](https://www.eter.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 26 Aug 2026 10:14:15 Le 5 tecnologie che stanno cambiando il controllo access |
+| [news_1](https://www.eter.it/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 3460 字符；首行：News - Eter Biometrics |
+| [youtube](https://www.youtube.com/@eterbiometric2178) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [feed_auto](https://www.eter.it/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Fri, 23 Oct 2026 06:52:27 Eter Biometric Technologies al Secsolutionforum 2026: in |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/eterbiometric；Instagram: https://www.instagram.com/eterbiometric/；LinkedIn: https://www.linkedin.com/company/eter-biometric/
 

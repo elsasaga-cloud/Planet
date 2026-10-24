@@ -19,7 +19,7 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-s_mail: 22 msgs (out 17 / in 5), 2024-06-29 -> 2026-09-18
+s_mail: 23 msgs (out 18 / in 5), 2024-06-29 -> 2026-09-18
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
@@ -129,7 +129,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 17 / 来 5）　|　**期间**：2024-06-29 → 2026-09-18　|　**最后去信**：2026-09-18
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 18 / 来 5）　|　**期间**：2024-06-29 → 2026-09-18　|　**最后去信**：2026-09-18
 - **对方邮箱**：info@apolloinfoways.in、ravi@apolloinfoways.in
 - **最后一封来信**：2025-01-06 ravi@apolloinfoways.in「Re: 24 Port Fiber Switch」：Pls share the Datasheet for this. Ravi
 - **邮件里报过的价**：2025-01-06 $240；2024-11-15 $300；2024-09-18 $110；2024-08-22 $65
@@ -141,18 +141,18 @@ updated: 2026-10-24
 | 24 Port PoE Managed Switch | 2026-07-23 | 2026-07-23 | 0 | 1 | 1 |
 | 32 Port 400GB DC Switch | 2026-06-15 | 2026-06-15 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2026-05-01 | 2026-05-01 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-03-03 | 2025-03-03 | 0 | 1 | 1 |
 | 24 Port Fiber Switch | 2025-01-06 | 2025-01-06 | 1 | 2 | 6 |
 | Mini Industrial PoE Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
 | Industrial PoE Switch | 2024-11-03 | 2024-11-15 | 4 | 3 | 10 |
 | 10G Ethernet Web Managed Switch | 2024-10-22 | 2024-10-22 | 0 | 1 | 1 |
 | 24V/48V PoE Switch | 2024-09-16 | 2024-09-19 | 3 | 4 | 6 |
 | 10G media converter | 2024-08-22 | 2024-08-22 | 0 | 1 | 1 |
-| 8 port poe switch | 2024-07-26 | 2024-07-26 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 14 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-679/`；本节随档案重渲染刷新，实时看日志。
 

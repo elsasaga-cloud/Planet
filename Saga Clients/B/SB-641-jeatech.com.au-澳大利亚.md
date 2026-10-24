@@ -19,7 +19,7 @@ replies: 0
 followups: 7
 first_contact: 2025-07-03
 last_contact: 2025-11-04
-s_mail: 16 msgs (out 16 / in 0), 2025-09-04 -> 2026-08-27
+s_mail: 19 msgs (out 19 / in 0), 2025-07-03 -> 2026-08-27
 p1: STI-288GPM
 price_tier: 20%
 research: done
@@ -143,7 +143,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2025-09-04 → 2026-08-27　|　**最后去信**：2026-08-27
+- **账号**：a.sagatelecom　|　**邮件**：19 封（去 19 / 来 0）　|　**期间**：2025-07-03 → 2026-08-27　|　**最后去信**：2026-08-27
 - **对方邮箱**：craigk@jeatech.com.au、sales@jeatech.com.au、tony.ioannidis@jeatech.com.au
 - 对方从未回信（全部为我方去信）
 
@@ -161,20 +161,20 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-15 | 2025-12-15 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-12-12 | 2025-12-12 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-11-24 | 2025-11-24 | 0 | 1 | 1 |
-| …共 16 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_2：内容变化：+2 −153 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-641/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://jeatech.com.au/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6970 字符；首行：Home - JEA Technologies |
-| [sitemap](https://jeatech.com.au/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://jeatech.com.au/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3686 字符；首行：News - JEA Technologies |
-| [news_2](https://jeatech.com.au/case-studies/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3506 字符；首行：Case Studies - JEA Technologies |
+| [home](https://jeatech.com.au/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
+| [sitemap](https://jeatech.com.au/sitemap_index.xml) | sitemap | HTTP 403 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 306 条） |
+| [news_1](https://jeatech.com.au/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
+| [news_2](https://jeatech.com.au/case-studies/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 73 字符；首行：One moment, please... |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -19,7 +19,7 @@ replies: 0
 followups: 9
 first_contact: 2025-02-21
 last_contact: 2025-10-31
-s_mail: 21 msgs (out 21 / in 0), 2024-06-24 -> 2026-09-08
+s_mail: 25 msgs (out 25 / in 0), 2024-06-24 -> 2026-09-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -145,7 +145,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2024-06-24 → 2026-09-08　|　**最后去信**：2026-09-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2024-06-24 → 2026-09-08　|　**最后去信**：2026-09-08
 - **对方邮箱**：imcneil@cctv-global.co.uk、sales@cctv-global.co.uk
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-08-16 $65；2024-07-22 $220
@@ -164,11 +164,11 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-21 | 2026-01-21 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-22 | 2025-12-22 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-11-21 | 2025-11-21 | 0 | 1 | 1 |
-| …共 21 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1107/`；本节随档案重渲染刷新，实时看日志。
 

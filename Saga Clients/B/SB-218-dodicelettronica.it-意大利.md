@@ -19,7 +19,7 @@ replies: 0
 followups: 7
 first_contact: 2025-02-06
 last_contact: 2025-10-15
-s_mail: 27 msgs (out 27 / in 0), 2024-06-19 -> 2026-10-08
+s_mail: 30 msgs (out 30 / in 0), 2024-06-19 -> 2026-10-08
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -135,7 +135,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 27 / 来 0）　|　**期间**：2024-06-19 → 2026-10-08　|　**最后去信**：2026-10-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 30 / 来 0）　|　**期间**：2024-06-19 → 2026-10-08　|　**最后去信**：2026-10-08
 - **对方邮箱**：info@dodicelettronica.it、ivan.d@dodic.it、marketing@dodic.it、simone.d@dodic.it
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-12-16 $240；2024-10-25 $300；2024-08-16 $65
@@ -154,19 +154,19 @@ updated: 2026-10-24
 | Updated Ethernet Switches Links | 2026-03-02 | 2026-03-02 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-28 | 2026-01-28 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-27 | 2026-01-27 | 0 | 1 | 1 |
-| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 news_1：内容变化：+12 −12 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-218/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.dodicgroup.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12309 字符；首行：Dodic: soluzioni di sicurezza antifurto, video e domotica - |
-| [news_1](https://www.dodicgroup.it/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6326 字符；首行：News - Dodic Group |
-| [youtube](https://www.youtube.com/@dodicelettronica) | youtube_handle | HTTP 404 | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
+| [home](https://www.dodicgroup.it/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 12313 字符；首行：Dodic: soluzioni di sicurezza antifurto, video e domotica - |
+| [news_1](https://www.dodicgroup.it/news/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 6335 字符；首行：News - Dodic Group |
+| [youtube](https://www.youtube.com/@dodicelettronica) | youtube_handle | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://www.dodicgroup.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 22 Oct 2026 08:55:54 Risco – Promo Sensori Radio |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/dodic.1975；Instagram: https://www.instagram.com/dodic_1975/；LinkedIn: https://www.linkedin.com/company/652910/admin/dashboard/

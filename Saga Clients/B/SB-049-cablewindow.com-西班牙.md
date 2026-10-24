@@ -21,7 +21,7 @@ replies: 0
 followups: 5
 first_contact: 2025-06-19
 last_contact: 2025-11-06
-s_mail: 12 msgs (out 12 / in 0), 2025-09-19 -> 2026-09-30
+s_mail: 15 msgs (out 15 / in 0), 2025-06-19 -> 2026-09-30
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -122,7 +122,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2025-09-19 → 2026-09-30　|　**最后去信**：2026-09-30
+- **账号**：a.sagatelecom　|　**邮件**：15 封（去 15 / 来 0）　|　**期间**：2025-06-19 → 2026-09-30　|　**最后去信**：2026-09-30
 - **对方邮箱**：info@cablewindow.com
 - 对方从未回信（全部为我方去信）
 
@@ -140,17 +140,18 @@ updated: 2026-10-24
 | Marvell Industrial Alert System | 2025-12-16 | 2025-12-16 | 0 | 1 | 1 |
 | Booster PoE Switch | 2025-11-06 | 2025-11-06 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-09-19 | 2025-09-19 | 0 | 1 | 1 |
+| …共 15 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 420 条： seguridad-en-vehiculos-monitores-de-vehiculo-monitor-camara-marcha-atras-184； se
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-049/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.cablewindow.com/en/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4117 字符；首行：Cablewindow |
-| [sitemap](https://www.cablewindow.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 500 个 URL；最新 lastmod - |
+| [sitemap](https://www.cablewindow.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 500 个 URL；最新 lastmod - |
 | [news_1](http://www.cablewindow.com/blog/all-post.html) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Blog」 |
 | [feed_auto](http://www.cablewindow.com/modules/feeder/rss.php?id_category=0&orderby=position&orderway=asc) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新： Domo Motorizado PTZ Exterior 500º/s 27x Easy Plug - 604,94 € |
 

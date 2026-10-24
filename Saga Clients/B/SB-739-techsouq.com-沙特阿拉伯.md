@@ -21,7 +21,7 @@ replies: 1
 followups: 15
 first_contact: 2024-09-08
 last_contact: 2025-10-22
-s_mail: 16 msgs (out 15 / in 1), 2024-09-08 -> 2026-04-08
+s_mail: 21 msgs (out 20 / in 1), 2024-09-08 -> 2026-04-08
 p1: STI-110GE
 price_tier: 20%
 research: done
@@ -139,7 +139,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 15 / 来 1）　|　**期间**：2024-09-08 → 2026-04-08　|　**最后去信**：2026-04-08
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 20 / 来 1）　|　**期间**：2024-09-08 → 2026-04-08　|　**最后去信**：2026-04-08
 - **对方邮箱**：info@techsouq.com
 - **最后一封来信**：2024-09-08 info@techsouq.com「Re: Power Converter」：Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirates Tel. No. (Office) +9714 355 0600 Mobile/ whatsapp No. +97152 703 6860 E-mail : info@techsouq.com<mailto:info
 - **邮件里报过的价**：2024-12-11 $300；2024-09-09 $33.5
@@ -154,15 +154,15 @@ updated: 2026-10-24
 | 16 Port PoE Managed Switch | 2025-10-22 | 2025-10-22 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-09-23 | 2025-09-23 | 0 | 1 | 1 |
 | 90W PoE Managed Switch | 2025-08-27 | 2025-08-27 | 0 | 1 | 1 |
-| 10G Media Converter | 2025-02-27 | 2025-02-27 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2025-01-03 | 2025-01-03 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-12-11 | 2024-12-11 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| Managed Optical Bypass Switch | 2025-07-21 | 2025-07-21 | 0 | 1 | 1 |
+| 16 Port Ethernet Switch | 2025-06-23 | 2025-06-23 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-05-27 | 2025-05-27 | 0 | 1 | 1 |
+| Commercial Network Switch | 2025-04-25 | 2025-04-25 | 0 | 1 | 1 |
+| …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-739/`；本节随档案重渲染刷新，实时看日志。
 

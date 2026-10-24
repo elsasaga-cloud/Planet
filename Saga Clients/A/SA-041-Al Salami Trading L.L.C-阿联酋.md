@@ -21,7 +21,7 @@ replies: 1
 followups: 1
 first_contact: 2025-06-02
 last_contact: 2025-06-02
-s_mail: 8 msgs (out 8 / in 0), 2025-09-09 -> 2026-09-07
+s_mail: 15 msgs (out 14 / in 1), 2025-03-25 -> 2026-09-07
 p1: STI-144GP
 price_tier: 25%
 research: done
@@ -127,9 +127,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：a.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2025-09-09 → 2026-09-07　|　**最后去信**：2026-09-07
+- **账号**：a.sagatelecom　|　**邮件**：15 封（去 14 / 来 1）　|　**期间**：2025-03-25 → 2026-09-07　|　**最后去信**：2026-09-07
 - **对方邮箱**：reyann@alsalami.com
-- 对方从未回信（全部为我方去信）
+- **最后一封来信**：2025-06-16 reyann@alsalami.com「RE: Industrial PoE Switch」：Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best Regards, Reyann Salazar Brosoto Security System Engineer Description: cid:7addf3cea1f6a2c428872260063a0fe9@alsalami.com ALSALAMI TRADING
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
 |---|---|---|---|---|---|
@@ -141,15 +141,19 @@ updated: 2026-10-24
 | Booster PoE Switch | 2025-11-25 | 2025-11-25 | 0 | 1 | 1 |
 | 10G Enterprise SFP Switch | 2025-10-27 | 2025-10-27 | 0 | 1 | 1 |
 | Commercial PoE Switch | 2025-09-09 | 2025-09-09 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2025-08-04 | 2025-08-04 | 0 | 1 | 1 |
+| Industrial PoE Switch | 2025-03-25 | 2025-07-03 | 1 | 3 | 9 |
+| Mini Industrial PoE Switch | 2025-06-05 | 2025-06-05 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2025-05-06 | 2025-05-06 | 0 | 1 | 1 |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-24T04:35:40Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-041/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://alsalami.com/) | html | SSLError: HTTPSConnectionPool(host='alsalami.com', port=443) | - | 官网首页（T27 快照状态 timeout） |
+| [home](https://alsalami.com/) | html | ReadTimeout: HTTPConnectionPool(host='alsalami.com', port=80 | - | 官网首页（T27 快照状态 timeout） |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -21,7 +21,7 @@ replies: 1
 followups: 8
 first_contact: 2025-04-04
 last_contact: 2025-10-21
-s_mail: 27 msgs (out 25 / in 2), 2024-06-15 -> 2026-09-28
+s_mail: 32 msgs (out 30 / in 2), 2024-06-15 -> 2026-09-28
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
@@ -153,7 +153,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 25 / 来 2）　|　**期间**：2024-06-15 → 2026-09-28　|　**最后去信**：2026-09-28
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：32 封（去 30 / 来 2）　|　**期间**：2024-06-15 → 2026-09-28　|　**最后去信**：2026-09-28
 - **对方邮箱**：bartosz.krawczyk@impakt.com.pl、lukasz.gasiewicz@impakt.com.pl、marcin.chojnacki@impakt.com.pl、michal.jastrzebski@impakt.com.pl
 - **最后一封来信**：2025-10-03 lukasz.gasiewicz@impakt.com.pl「RE: FW: [EXTERNAL] Industrial PoE Switch」：[cid:image001.png@01DC3465.BD049E50] We looking for devices like this &#128521; with CE power supply Prices ? MOQ ? Best regards, Łukasz Gąsiewicz PRODUCT DEVELOPMENT MANAGER e-mail: lukasz.gasiewicz@impakt.com.pl
 - **邮件里报过的价**：2024-08-05 $65；2024-06-15 $220
@@ -172,11 +172,11 @@ updated: 2026-10-24
 | Updated Ethernet Switches Links | 2026-03-30 | 2026-03-30 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-02-06 | 2026-02-06 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-24 | 2025-12-24 | 0 | 1 | 1 |
-| …共 22 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 27 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-076/`；本节随档案重渲染刷新，实时看日志。
 

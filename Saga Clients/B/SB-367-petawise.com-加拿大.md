@@ -20,7 +20,7 @@ replies: 0
 followups: 18
 first_contact: 2024-05-03
 last_contact: 2025-10-31
-s_mail: 23 msgs (out 23 / in 0), 2024-06-26 -> 2026-08-27
+s_mail: 28 msgs (out 28 / in 0), 2024-06-26 -> 2026-08-27
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
@@ -153,7 +153,7 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-06-26 → 2026-08-27　|　**最后去信**：2026-08-27
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-06-26 → 2026-08-27　|　**最后去信**：2026-08-27
 - **对方邮箱**：dexter@petawise.com、ebin@petawise.com、johnk@petawise.com、sales@petawise.com、stephane@petawise.com
 - 对方从未回信（全部为我方去信）
 - **邮件里报过的价**：2024-11-27 $300；2024-07-19 $65
@@ -172,20 +172,20 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-08 | 2026-01-08 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2025-12-16 | 2025-12-16 | 0 | 1 | 1 |
 | Optional Marvell Chipset Solutions | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
-| …共 23 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 28 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **最近变化摘要**：2026-10-24 sitemap：新增 125 条：2020-12-08T08:16:31 ipc314sr-dvpf2836；2020-12-08T08:16:31 ipc314sr-dvpf36；2020-12
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-367/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://petawise.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2373 字符；首行：Petawise \| Best cameras in Ontario \| Best cameras in Canada |
-| [sitemap](https://petawise.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 205 个 URL；最新 lastmod 2020-12-08T08:16:31 |
+| [sitemap](https://petawise.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-24T04:35:40Z | 205 个 URL；最新 lastmod 2020-12-08T08:16:31 |
 | [news_1](https://petawise.com/news-events/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1585 字符；首行：Offers, News & Events - Petawise |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw) | rss | HTTP 404 | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCU3Nq4CjuDP8-51g6jo4njw |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw) | rss | YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过） | 2026-10-23T04:20:51Z | YouTube 频道 https://www.youtube.com/channel/UCU3Nq4CjuDP8-51g6jo4njw |
 | [feed_auto](https://petawise.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 1 条；最新：Mon, 27 Jul 2020 17:20:49 Omdia: Uniview Ranked 4th in the Global Video Surveillanc |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/peta.wise.737；LinkedIn: https://www.linkedin.com/company/78987730/admin/dashboard/；Instagram: https://www.instagram.com/petawise.inc/；LinkedIn: https://www.linkedin.com/in/petawise/

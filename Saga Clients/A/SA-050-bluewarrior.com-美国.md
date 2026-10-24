@@ -21,7 +21,7 @@ replies: 1
 followups: 18
 first_contact: 2024-05-08
 last_contact: 2025-10-28
-s_mail: 25 msgs (out 23 / in 2), 2024-05-28 -> 2026-09-17
+s_mail: 32 msgs (out 29 / in 3), 2024-05-28 -> 2026-09-17
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
@@ -167,9 +167,9 @@ updated: 2026-10-24
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 23 / 来 2）　|　**期间**：2024-05-28 → 2026-09-17　|　**最后去信**：2026-09-17
+- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：32 封（去 29 / 来 3）　|　**期间**：2024-05-28 → 2026-09-17　|　**最后去信**：2026-09-17
 - **对方邮箱**：sales@bluewarrior.com
-- **最后一封来信**：2024-05-28 sales@bluewarrior.com「Re: Industrial poe managed switch」：Picture and description do not match
+- **最后一封来信**：2025-03-19 sales@bluewarrior.com「Tom West Out of Office / AI Conference - Lisbon Re: Marvell Software Function Li」：Thank you for your email. RE: AI Conference in Lisbon, Portugal I am currently out of the office starting on Wednesday, March 19th, 2025 and returning on Tuesday, April 2nd, 2025. If you need assistance during this time, one of my team members will be able to 
 - **邮件里报过的价**：2024-11-14 $300；2024-05-28 $140（STI-288DGGPM-2BT）
 
 | 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
@@ -186,11 +186,11 @@ updated: 2026-10-24
 | OEM Core Switching Solution | 2026-01-20 | 2026-01-20 | 0 | 1 | 1 |
 | Marvell Industrial Alert System | 2026-01-06 | 2026-01-06 | 0 | 1 | 1 |
 | 8 Port Industrial PoE Switch | 2025-12-11 | 2025-12-11 | 0 | 1 | 1 |
-| …共 19 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+| …共 26 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-23T04:20:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-24T04:35:40Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-050/`；本节随档案重渲染刷新，实时看日志。
 
