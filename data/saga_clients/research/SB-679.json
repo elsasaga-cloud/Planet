@@ -94,7 +94,7 @@
       "revive": "补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进",
       "lane": "IN 非主攻",
       "cadence": "不动",
-      "evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+      "evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）"
     },
     "situation": "—",
     "need": "24V/48V 混供 PoE 管理型。",
@@ -115,12 +115,44 @@
     },
     "facts": [
       {
+        "date": "2024-09-16",
+        "dir": "来",
+        "who": "ravi@apolloinfoways.in",
+        "quote": "Is this managed or unmanaged. Regards Ravi ________________________________",
+        "why": "来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "87e3b8ad670eab84"
+      },
+      {
         "date": "2024-09-18",
         "dir": "来",
         "who": "Ravi",
         "quote": "I need manage switch for 24V/48V POE.",
         "why": "需求",
         "k": "e3fdaaebc77d14ee"
+      },
+      {
+        "date": "2024-09-19",
+        "dir": "来",
+        "who": "ravi@apolloinfoways.in",
+        "quote": "Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​",
+        "why": "来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "48e1b99fa850f527"
+      },
+      {
+        "date": "2024-11-03",
+        "dir": "来",
+        "who": "ravi@apolloinfoways.in",
+        "quote": "Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​",
+        "why": "来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "fa79557f8a8ef2a4"
+      },
+      {
+        "date": "2025-01-06",
+        "dir": "来",
+        "who": "ravi@apolloinfoways.in",
+        "quote": "Pls share the Datasheet for this. Ravi ________________________________",
+        "why": "来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "79e45ea6c45d68d9"
       },
       {
         "date": "2025-12-08",

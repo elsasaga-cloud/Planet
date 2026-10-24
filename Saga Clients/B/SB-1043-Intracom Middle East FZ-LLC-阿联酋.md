@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1043` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）** ｜ 类型：希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型 ｜ 筛子：2→3（问价后未要样） ｜ 停点：$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目 ｜ 复活：一句话问当时的无线回传项目 ｜ 通路：AE 非主攻（但 Intracom 体量大） ｜ 节奏：一封 ｜ 证据：k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824
+- **绑定等级：轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）** ｜ 类型：希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型 ｜ 筛子：2→3（问价后未要样） ｜ 停点：$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目 ｜ 复活：一句话问当时的无线回传项目 ｜ 通路：AE 非主攻（但 Intracom 体量大） ｜ 节奏：一封 ｜ 证据：k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：工业 PoE 小型款（无线回传站点）。
 - **断点 / 为什么停在这里**：无闭环。
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-08-07 | 来 | myaacoub@intracom-telecom.com | Dear Sender, I am on annual leave with limited access to my emails, for any urgent matters contact me on my mobile. Best Regards, Mohammad Yaacoub +97 | 来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `7ae3b3c443b92c6f` |
 | 2024-10-09 | 来 | Mohammad Yaacoub | Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. | 价格先行 | `d05d6d8f07683799` |
 
 ## 基本事实（事实/推断/假设分层）

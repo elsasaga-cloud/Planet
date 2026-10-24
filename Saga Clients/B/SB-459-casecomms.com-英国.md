@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-459` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回）** ｜ 类型：英国工业通信/网络品牌商（Case Communications；Andy = 产品/采购）——第一档品牌商，但已有同类供应 ｜ 筛子：3（问价 + 定制 MOQ） ｜ 停点：$500 的 Marvell L3 DIN PoE 对一个「已有更便宜 L3」的品牌商没有理由；Alan 回「for high-end market ONLY」等于关门 ｜ 复活：只在有新品类时发：CENTEC 汇聚或 10G 工业（它没有的），不再推 PoE ｜ 通路：UK 主攻 ｜ 节奏：半年一封新品类信 ｜ 证据：k=d7d86e7b1d5cba30（already have）；f76d37aef2dff400（问价 + MOQ）；aee9616b96315f19（$500）；83a6a36c850cb83b（a lot less）；注意 4e64486e83ba3f88：Simon 2024-05 自称「This is my sister's company」
+- **绑定等级：轻度绑定→价格断（2024-05 Andy「we already have such a switch」；2025-02 问 L3 DIN PoE 单价与定制 MOQ → $500 → 「quite expensive, we have layer 3 switches for a lot less」；之后 Alan 40+ 封群发无回）** ｜ 类型：英国工业通信/网络品牌商（Case Communications；Andy = 产品/采购）——第一档品牌商，但已有同类供应 ｜ 筛子：3（问价 + 定制 MOQ） ｜ 停点：$500 的 Marvell L3 DIN PoE 对一个「已有更便宜 L3」的品牌商没有理由；Alan 回「for high-end market ONLY」等于关门 ｜ 复活：只在有新品类时发：CENTEC 汇聚或 10G 工业（它没有的），不再推 PoE ｜ 通路：UK 主攻 ｜ 节奏：半年一封新品类信 ｜ 证据：k=d7d86e7b1d5cba30（already have）；f76d37aef2dff400（问价 + MOQ）；aee9616b96315f19（$500）；83a6a36c850cb83b（a lot less）；注意 4e64486e83ba3f88：Simon 2024-05 自称「This is my sister's company」；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：Andy 两次回复都在说同一件事：你们的东西我有，而且更便宜。Saga 的回应是强调 Marvell 高端定位——对品牌商这不是论点。52 封群发中 5 封得到回复，全部是 2024-05 与 2025-02 的两个瞬间。
 - **对方真实需求（有据）**：L3 工业 PoE（已有更便宜来源）；潜在：10G 工业汇聚 / CENTEC。
 - **断点 / 为什么停在这里**：价格 + 定位话术。
@@ -55,6 +55,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-05-09 | 来 | andys@case.uk.com | Hi Simon Thank you for your mail but we already have such a switch Best regards Andy | 来信原文（主题「RE: 24 port switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `d7d86e7b1d5cba30` |
 | 2025-02-07 | 来 | Andy | can you let me know the unit price of this switch, and MoQ to have it customised | 定制意向 | `f76d37aef2dff400` |
 | 2025-02-08 | 来 | Andy | It does seem quite expensive we have layer 3 switches for a lot less. | 价格断 | `83a6a36c850cb83b` |
 

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（边界户：芯片线）** ｜ 类型：美国 ITS 自有品牌加固交换机（HN 系列）+ Juniper/Fortinet 代理；Mark Schulting——第一档 OEM 类型 ｜ 筛子：2（给过精确规格：32 口全 L3 1U 8 光 24 电 + QSFP+；「all 10 gig fiber… buying in bulk」） ｜ 停点：Broadcom 芯片硬要求（2025-02-05 / 03-03 / 04-28 三次「I need a broadcom chipset」）；Saga 线 = Marvell / CENTEC / Realtek；Simon 2025-02-10 转报两款 Broadcom 全光（1,000 / 4,000 USD）无回音；Alan 2025-04-28「we focus on Marvell… Broadcom is for high-end market only」 ｜ 复活：只有 Mark 接受 CENTEC 全 L3（OSPF/BGP/MPLS/VXLAN）——Alan 2026-01-16 的 CENTEC 推介无回复；Saga 无 Broadcom 货源 ｜ 通路：US ｜ 节奏：2024-05 → 2026-02 去信 21 封；最后来信 2025-04-28 ｜ 证据：k=d0066f467b2afcd7 / 185a3765640a0e3f / 5f00be3e081f8769 / 898769c94b9fc197 / eb80eea25e1a3bb5 / e8d9d485eebf828f / 231c410bdb6b62d3
+- **绑定等级：未绑定（边界户：芯片线）** ｜ 类型：美国 ITS 自有品牌加固交换机（HN 系列）+ Juniper/Fortinet 代理；Mark Schulting——第一档 OEM 类型 ｜ 筛子：2（给过精确规格：32 口全 L3 1U 8 光 24 电 + QSFP+；「all 10 gig fiber… buying in bulk」） ｜ 停点：Broadcom 芯片硬要求（2025-02-05 / 03-03 / 04-28 三次「I need a broadcom chipset」）；Saga 线 = Marvell / CENTEC / Realtek；Simon 2025-02-10 转报两款 Broadcom 全光（1,000 / 4,000 USD）无回音；Alan 2025-04-28「we focus on Marvell… Broadcom is for high-end market only」 ｜ 复活：只有 Mark 接受 CENTEC 全 L3（OSPF/BGP/MPLS/VXLAN）——Alan 2026-01-16 的 CENTEC 推介无回复；Saga 无 Broadcom 货源 ｜ 通路：US ｜ 节奏：2024-05 → 2026-02 去信 21 封；最后来信 2025-04-28 ｜ 证据：k=d0066f467b2afcd7 / 185a3765640a0e3f / 5f00be3e081f8769 / 898769c94b9fc197 / eb80eea25e1a3bb5 / e8d9d485eebf828f / 231c410bdb6b62d3；第 19 批回补来信原文 3 条（gmail_s/gmail_a）
 - **现状一句话**：Mark 是少数主动说「buying in bulk」的美国品牌商：2024-05 要 32 口全 L3 机架（8 光 24 电 + QSFP+），2025-01 看中 12 光 24 电款要规格书、问「all 10 gig fiber 1g/2.5g/10g」，然后连问三次 Broadcom。Simon 先给 CENTEC（「a good domestic brand」）、再临时找了两款 Broadcom 全光报 1,000/4,000 USD，Alan 最后定调「we focus on Marvell」。2026-01 Alan 再推 CENTEC 核心机，无回。
 - **对方真实需求（有据）**：全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。
 - **断点 / 为什么停在这里**：芯片线边界（概念层 C 系列）。Saga 曾为他破例找 Broadcom 货源，又收回——口径摇摆比拒绝更伤。
@@ -56,9 +56,12 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-05-09 | 来 | Mark Schulting | I'm in need of a 32 port model full layer 3 1u 8 fiber 24 copper with a qsfp+ uplink | 首个精确需求 | `d0066f467b2afcd7` |
+| 2025-01-26 | 来 | mark@expresssupply.net | WE would not be interested in this switch . However, we are looking for another vendor to supply us some full layer 3 switches | 来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `e17a1b0f28d7f22f` |
+| 2025-01-27 | 来 | mark@expresssupply.net | it appears you have a 12 fiber 24 copper. Can you send me a spec sheet on this one -- With kind regards, Mark Express Supply Inc. 407-497-8614 Hardene | 来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `77637aa387e80868` |
 | 2025-01-28 | 来 | Mark | Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk | 批量意向 | `185a3765640a0e3f` |
 | 2025-02-05 | 来 | Mark | I need a broadcom chipset | 边界出现 | `5f00be3e081f8769` |
 | 2025-02-10 | 去 | Simon | I got 2 models for you, Broadcom chipset. 1, 1000usd/pc, 2*40G+24*10G… 2, 4000usd/pc, 6*40G+48*10G | 破例找货（来源未入库） | `eb80eea25e1a3bb5` |
+| 2025-03-03 | 来 | mark@expresssupply.net | We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened Networks / ITS Express Switches and Adv | 来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `c7ad8300f3fcf7eb` |
 | 2025-04-28 | 来 | Mark | Do you have broadcom based solution? | 第三次 | `898769c94b9fc197` |
 | 2025-04-28 | 去 | Alan | Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small... | 口径收回 | `e8d9d485eebf828f` |
 

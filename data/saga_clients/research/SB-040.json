@@ -98,7 +98,7 @@
       "revive": "一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间",
       "lane": "US 主攻",
       "cadence": "一封；之后看回复",
-      "evidence": "k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）"
+      "evidence": "k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。",
     "need": "运营商汇聚：VXLAN/MPLS + 控制器。",
@@ -118,6 +118,14 @@
       "one_question": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?"
     },
     "facts": [
+      {
+        "date": "2024-06-18",
+        "dir": "来",
+        "who": "kyle@wirestar.net",
+        "quote": "Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon",
+        "why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "1301f24ebea116b3"
+      },
       {
         "date": "2025-04-01",
         "dir": "来",

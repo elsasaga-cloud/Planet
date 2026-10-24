@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-003` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回）** ｜ 类型：美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP ｜ 筛子：3（两次问 OEM 价、一次技术门槛） ｜ 停点：两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回 ｜ 复活：一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品 ｜ 通路：US 主攻；品牌商 OEM = 目标顺位第一 ｜ 节奏：现在一封 OEM 价表；之后季度 ｜ 证据：k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）
+- **绑定等级：轻度绑定（3 封实质来信：2025-06-26 明确「We might be interesting to OEM those switches and add them to our offer and catalog」→ IGMP 是硬要求 → 2025-11-28 问 Booster OEM 价 → Simon 2025-12-01 报 STI-488XGGBPM $215；2026-01 CENTEC 核心 OEM 信后无回）** ｜ 类型：美国视频/广播光传输品牌商（Thor Fiber / Thor Broadcast；Stan = 产品负责人）——第一档 OEM 品牌商，video over IP 必须 IGMP ｜ 筛子：3（两次问 OEM 价、一次技术门槛） ｜ 停点：两处：① 2025-06 Stan 要「best OEM prices for all those models」，Simon 答「OEM 价等样品测试后再谈，大概 10% 折扣」——把 OEM 报价推后了；② 2025-12-01 报了 $215 后无回，2026-01 的 CENTEC 信也无回 ｜ 复活：一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品 ｜ 通路：US 主攻；品牌商 OEM = 目标顺位第一 ｜ 节奏：现在一封 OEM 价表；之后季度 ｜ 证据：k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。
 - **对方真实需求（有据）**：OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。
 - **断点 / 为什么停在这里**：OEM 价格表未给全。
@@ -58,6 +58,7 @@ updated: 2026-10-24
 | 2025-06-26 | 来 | Stan Sochur | We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me best OEM prices for all those models… Do those switches support IGMP protocol? | OEM 意向 | `809f837f36d8ac93` |
 | 2025-06-26 | 去 | Simon | For OEM prices, maybe lets discuss this after sample testing? Probably a 10% discount | OEM 价推后 | `785f5e7be824e94b` |
 | 2025-06-28 | 来 | Stan | We species with video over IP , we must have IGMP protocol, it is mandatory. | 硬门槛 | `dc22cb3479825c92` |
+| 2025-11-28 | 来 | stan@thorfiber.com | Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@g | 来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `92ccd99bae9b2cff` |
 | 2025-12-01 | 去 | Simon | STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster | 单款报价 | `822038afc07c951e` |
 
 ## 基本事实（事实/推断/假设分层）

@@ -182,7 +182,7 @@
       "revive": "不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell）",
       "lane": "AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据",
       "cadence": "现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购",
-      "evidence": "k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）"
+      "evidence": "k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "Sanjay 是两年里一步一步走完筛子的人：2024-06 问 2.5G SFP 环网 + 120W 电源，Simon 直说「honestly we are a trading company… realtek chip」，他没走；2025-04 一次问三款（4/8/12+ 口 PoE 带 NMS 口）并问质保与测试证书，Simon 报 $110/$125；2025-10 要 QC 实验室照片和 PDF 目录；2025-11-24 拿出一张标书：带 4 口交换的 MC、SC/PC 双纤、-20~+65℃，中标可到 1,000 pcs，流程「规格审批 → 样品审批 → 供货」。Alan 先说没有正好的型号，再给 STI-140GE $30（含双纤模块）与 DIN 导轨 Meanwell 电源 $10；Sanjay 当天要 2+2 台样品、PayPal、发广州货代，并要 WeChat 快速沟通——Alan 把 WeChat 交给 Simon。12-01 付款。之后邮件无一封：标书结果、样品评测、1,000 台——仓库全无。",
     "need": "标书：工业 MC/4 口交换（1 光 SC/PC + 4 电，非 PoE，非管理，-20~+65℃）+ DIN 电源；日常：工业 PoE 整线替代其在售 ONV（研究档）。",
@@ -223,6 +223,14 @@
         "quote": "For approval/certification, honestly we are a trading company. For the switch, there is CE, FCC, RoHS… realtek chip",
         "why": "身份与芯片实话——对方没走",
         "k": "f7eeb34e0ebf238b"
+      },
+      {
+        "date": "2025-01-06",
+        "dir": "来",
+        "who": "navsim@eim.ae",
+        "quote": "Hello MR Simon May we have your website URL or PDF catalogue to see the products in detail. Thanks and best regards Sanjay Singla General Manager ASTE",
+        "why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "f18cc2e1fa27d344"
       },
       {
         "date": "2025-04-28",
@@ -289,20 +297,20 @@
         "k": "5ec435ffe9b9305e"
       },
       {
-        "date": "2025-12-01",
-        "dir": "来",
-        "who": "Sanjay",
-        "quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
-        "why": "付款；邮件到此为止",
-        "k": "0cc642cb3b5505fb"
-      },
-      {
         "date": "2025-11-27",
         "dir": "PI",
         "who": "Simon → Astel",
         "quote": "STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75",
         "why": "样品单经济账",
         "k": "PI STAG20251127018"
+      },
+      {
+        "date": "2025-12-01",
+        "dir": "来",
+        "who": "Sanjay",
+        "quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
+        "why": "付款；邮件到此为止",
+        "k": "0cc642cb3b5505fb"
       }
     ],
     "proof_gaps": [

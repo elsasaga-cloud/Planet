@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-161` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2 封：2025-02 要数据表 + 网站；2026-01-16「please give about price」对 CENTEC 核心 → Alan「still working on new prices for 2026」→ 之后只发链接，未补价）** ｜ 类型：韩国网络品牌商（Hanchang Infotech；自有标商用 FS，现 Volktek；Peter/Park）——第一档品牌商 ｜ 筛子：2（两次要资料/价格） ｜ 停点：Saga 欠价：CENTEC 2026Q2 价表在库（U29） ｜ 复活：补发 Q2 价表 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46
+- **绑定等级：轻度触达（2 封：2025-02 要数据表 + 网站；2026-01-16「please give about price」对 CENTEC 核心 → Alan「still working on new prices for 2026」→ 之后只发链接，未补价）** ｜ 类型：韩国网络品牌商（Hanchang Infotech；自有标商用 FS，现 Volktek；Peter/Park）——第一档品牌商 ｜ 筛子：2（两次要资料/价格） ｜ 停点：Saga 欠价：CENTEC 2026Q2 价表在库（U29） ｜ 复活：补发 Q2 价表 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：CENTEC 核心/汇聚 + 商用 FS 贴标。
 - **断点 / 为什么停在这里**：Saga 未补价。
@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-04 | 来 | jryoun74@hcin4.com | ﻿thank you for infromations... please attach datasheet and website... thank you! ---------- Original message ---------- From: "Alan from Saga Telecom" | 来信原文（主题「RE: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `8b775668d592d1fe` |
 | 2026-01-16 | 来 | Peter (jryoun74) | thank you for informations~ please give about price~ | 要价 | `edd3336a251448b6` |
 
 ## 基本事实（事实/推断/假设分层）

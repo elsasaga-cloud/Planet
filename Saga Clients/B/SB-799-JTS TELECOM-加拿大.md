@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-799` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-07-30「Yea I'm interested Could you send me a quote」→ 价表；2025-11-21「No, but thank you」）** ｜ 类型：加拿大小型电信承包（JTS；Hotmail） ｜ 筛子：2 ｜ 停点：2025-11 明确「No」 ｜ 复活：不动 ｜ 通路：CA ｜ 节奏：不动 ｜ 证据：k=a7eeebbc9d6743fe / 3b06b00f028239e2
+- **绑定等级：轻度触达（2024-07-30「Yea I'm interested Could you send me a quote」→ 价表；2025-11-21「No, but thank you」）** ｜ 类型：加拿大小型电信承包（JTS；Hotmail） ｜ 筛子：2 ｜ 停点：2025-11 明确「No」 ｜ 复活：不动 ｜ 通路：CA ｜ 节奏：不动 ｜ 证据：k=a7eeebbc9d6743fe / 3b06b00f028239e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：被动 PoE 24 口。
 - **断点 / 为什么停在这里**：明确拒绝。
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-07-30 | 来 | joejts@hotmail.com | Hi Yea I’m interested Could you send me a quote ________________________________ | 来信原文（主题「Re: Passive poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `a7eeebbc9d6743fe` |
 | 2025-11-21 | 来 | Joe | No, but thank you. | 拒绝 | `3b06b00f028239e2` |
 
 ## 基本事实（事实/推断/假设分层）

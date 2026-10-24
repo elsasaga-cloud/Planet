@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1275` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5
+- **绑定等级：轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接）** ｜ 类型：巴基斯坦电源/工程（Power Logic；Gmail） ｜ 筛子：1 ｜ 停点：— ｜ 复活：不动 ｜ 通路：PK ｜ 节奏：不动 ｜ 证据：k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-05-24 | 来 | powerlogic1965@gmail.com | hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `53639b11bc8d96b5` |
 
 ## 基本事实（事实/推断/假设分层）
 

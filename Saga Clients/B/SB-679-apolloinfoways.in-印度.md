@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-679` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）** ｜ 类型：印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段 ｜ 筛子：3（问价 + 规格） ｜ 停点：管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持 ｜ 复活：补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进 ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：轻度触达（S/A 邮箱 5 封来信 2024-09→2025-01 + Elsa 邮箱 2025-12-08 Ravi「How about Console port and management ports」对 Booster PoE——Ravi 仍在读、仍在问；Q-33/印度口径不变）** ｜ 类型：印度网络品牌商（Apollo Infoways / WatchDog 自有型号，中国 ODM 采购；Ravi = 老板）——第一档品牌商但印度价格段 ｜ 筛子：3（问价 + 规格） ｜ 停点：管理型 24V/48V $110 对印度品牌商偏高；30V/55V 不支持 ｜ 复活：补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进 ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：24V/48V 混供 PoE 管理型。
 - **断点 / 为什么停在这里**：价格段。
@@ -52,7 +52,11 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-09-16 | 来 | ravi@apolloinfoways.in | Is this managed or unmanaged. Regards Ravi ________________________________ | 来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `87e3b8ad670eab84` |
 | 2024-09-18 | 来 | Ravi | I need manage switch for 24V/48V POE. | 需求 | `e3fdaaebc77d14ee` |
+| 2024-09-19 | 来 | ravi@apolloinfoways.in | Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​ | 来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `48e1b99fa850f527` |
+| 2024-11-03 | 来 | ravi@apolloinfoways.in | Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ | 来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `fa79557f8a8ef2a4` |
+| 2025-01-06 | 来 | ravi@apolloinfoways.in | Pls share the Datasheet for this. Ravi ________________________________ | 来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `79e45ea6c45d68d9` |
 | 2025-12-08 | 来 | Ravi（Apollo Infoways） | How about Console port and management ports. | 问管理口/Console = 在比对自家 WatchDog 型号规格；Elsa 是否答复未入库 | `gmail_e` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 回复未入库

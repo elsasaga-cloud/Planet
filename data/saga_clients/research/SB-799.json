@@ -1,93 +1,101 @@
 {
- "code": "SB-799",
- "name_official": "JTS Telecom（加拿大；联系人 Joe，Hotmail）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（仅表内信息）",
- "summary": "加拿大小型电信承包/个体 JTS Telecom（Hotmail 邮箱）：用户记录「VC（视频/光纤转换）对他是新领域，想进入」；1 次回复后 15 次跟进无果。身份不可核。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣：VC 新领域想进入；1 次回复、15 次跟进",
-   "quote": "VC is new to him, wanna enter into this new field",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "JTS Telecom（表内；未能核实）",
-  "hq": "加拿大",
-  "size": "微型/个体"
- },
- "business_lines": [
-  "电信布线/承包（推断）",
-  "欲进入光纤转换/视频传输领域"
- ],
- "channels": {
-  "邮箱": "（表内 Hotmail）"
- },
- "signals": [
-  "入门型买家 → 低门槛起步包（光电转换 + 8 口 PoE）"
- ],
- "risks": [
-  "身份不可核；15 次跟进无果"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 25,
-  "why": "终端 25% 档：STI-110GE 千兆光电转换（$23.4）+ STC-28DGGPM（$84.1）组成入门包"
- },
- "email_hook": "Since fibre conversion is new ground for you: a pair of gigabit media converters is $46.8 EXW and an 8-port PoE+ switch with 2 SFP $84.1 — want a one-page starter kit with the SFP modules listed?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2024-07-30「Yea I'm interested Could you send me a quote」→ 价表；2025-11-21「No, but thank you」）",
-   "type": "加拿大小型电信承包（JTS；Hotmail）",
-   "sieve": "2",
-   "stop": "2025-11 明确「No」",
-   "revive": "不动",
-   "lane": "CA",
-   "cadence": "不动",
-   "evidence": "k=a7eeebbc9d6743fe / 3b06b00f028239e2"
-  },
-  "situation": "—",
-  "need": "被动 PoE 24 口。",
-  "breakpoint": "明确拒绝。",
-  "saga_now": {
-   "p1": "—",
-   "tier": 25,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-11-21",
-    "dir": "来",
-    "who": "Joe",
-    "quote": "No, but thank you.",
-    "why": "拒绝",
-    "k": "3b06b00f028239e2"
-   }
+  "code": "SB-799",
+  "name_official": "JTS Telecom（加拿大；联系人 Joe，Hotmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "加拿大小型电信承包/个体 JTS Telecom（Hotmail 邮箱）：用户记录「VC（视频/光纤转换）对他是新领域，想进入」；1 次回复后 15 次跟进无果。身份不可核。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣：VC 新领域想进入；1 次回复、15 次跟进",
+      "quote": "VC is new to him, wanna enter into this new field",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "JTS Telecom（表内；未能核实）",
+    "hq": "加拿大",
+    "size": "微型/个体"
+  },
+  "business_lines": [
+    "电信布线/承包（推断）",
+    "欲进入光纤转换/视频传输领域"
+  ],
+  "channels": {
+    "邮箱": "（表内 Hotmail）"
+  },
+  "signals": [
+    "入门型买家 → 低门槛起步包（光电转换 + 8 口 PoE）"
+  ],
+  "risks": [
+    "身份不可核；15 次跟进无果"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 25,
+    "why": "终端 25% 档：STI-110GE 千兆光电转换（$23.4）+ STC-28DGGPM（$84.1）组成入门包"
+  },
+  "email_hook": "Since fibre conversion is new ground for you: a pair of gigabit media converters is $46.8 EXW and an 8-port PoE+ switch with 2 SFP $84.1 — want a one-page starter kit with the SFP modules listed?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2024-07-30「Yea I'm interested Could you send me a quote」→ 价表；2025-11-21「No, but thank you」）",
+      "type": "加拿大小型电信承包（JTS；Hotmail）",
+      "sieve": "2",
+      "stop": "2025-11 明确「No」",
+      "revive": "不动",
+      "lane": "CA",
+      "cadence": "不动",
+      "evidence": "k=a7eeebbc9d6743fe / 3b06b00f028239e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "被动 PoE 24 口。",
+    "breakpoint": "明确拒绝。",
+    "saga_now": {
+      "p1": "—",
+      "tier": 25,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-07-30",
+        "dir": "来",
+        "who": "joejts@hotmail.com",
+        "quote": "Hi Yea I’m interested Could you send me a quote ________________________________",
+        "why": "来信原文（主题「Re: Passive poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "a7eeebbc9d6743fe"
+      },
+      {
+        "date": "2025-11-21",
+        "dir": "来",
+        "who": "Joe",
+        "quote": "No, but thank you.",
+        "why": "拒绝",
+        "k": "3b06b00f028239e2"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

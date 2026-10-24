@@ -80,7 +80,7 @@
       "revive": "若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表",
       "lane": "RU（点名）",
       "cadence": "一封",
-      "evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69"
+      "evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "—",
     "need": "CENTEC/Microchip 平台交换机（自有产品线对标）。",
@@ -100,6 +100,14 @@
       "one_question": "Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?"
     },
     "facts": [
+      {
+        "date": "2024-06-05",
+        "dir": "来",
+        "who": "afonin@npotelecom.ru",
+        "quote": "Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin",
+        "why": "来信原文（主题「RE: Industrial fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "a8f5e788a70b0a31"
+      },
       {
         "date": "2026-05-12",
         "dir": "来",

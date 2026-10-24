@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-002` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2025-09-17 Robin 问 M12 16 口铁路交换机 → Alan 转介 Inmax；守界：轨交 PASS）** ｜ 类型：台湾网络厂商（AD-NET） ｜ 筛子：1 ｜ 停点：轨交 M12 不做 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=266471f2990a3b25
+- **绑定等级：轻度触达（2025-09-17 Robin 问 M12 16 口铁路交换机 → Alan 转介 Inmax；守界：轨交 PASS）** ｜ 类型：台湾网络厂商（AD-NET） ｜ 筛子：1 ｜ 停点：轨交 M12 不做 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=266471f2990a3b25；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：守界。
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-09-17 | 来 | robin@ad-net.com.tw | Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12 | 来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `266471f2990a3b25` |
 
 ## 基本事实（事实/推断/假设分层）
 

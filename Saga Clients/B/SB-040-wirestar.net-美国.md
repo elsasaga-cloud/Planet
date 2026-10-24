@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-040` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回）** ｜ 类型：德州 WISP/网络运营商（WireStar Networks；Kyle = 创始人兼总裁）——运营商级需求：VXLAN/MPLS/控制器 ｜ 筛子：2（两次技术提问） ｜ 停点：AC5 线不支持 VXLAN/MPLS；Alan 用「not supporting + GPT 结论」关门——而 CENTEC 线（VXLAN/EVPN/MPLS）正是答案，却从未对他提起 ｜ 复活：一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间 ｜ 通路：US 主攻 ｜ 节奏：一封；之后看回复 ｜ 证据：k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）
+- **绑定等级：轻度触达（2 封实质来信：2024-06「Is this PoE?」→ $310；2025-04「Does it have VXLAN support or MPLS support? Any controller?」→ Alan「not supporting」+ GPT 附件；之后 24 封群发无回）** ｜ 类型：德州 WISP/网络运营商（WireStar Networks；Kyle = 创始人兼总裁）——运营商级需求：VXLAN/MPLS/控制器 ｜ 筛子：2（两次技术提问） ｜ 停点：AC5 线不支持 VXLAN/MPLS；Alan 用「not supporting + GPT 结论」关门——而 CENTEC 线（VXLAN/EVPN/MPLS）正是答案，却从未对他提起 ｜ 复活：一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间 ｜ 通路：US 主攻 ｜ 节奏：一封；之后看回复 ｜ 证据：k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。
 - **对方真实需求（有据）**：运营商汇聚：VXLAN/MPLS + 控制器。
 - **断点 / 为什么停在这里**：产品线错配（AC5 vs CENTEC）。
@@ -55,6 +55,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-18 | 来 | kyle@wirestar.net | Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon | 来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `1301f24ebea116b3` |
 | 2025-04-01 | 来 | Kyle Leissner | This is interesting. Does it have VXLAN support or MPLS support? Any controller? | 运营商级需求 | `3217cb91c0855a86` |
 | 2025-04-02 | 去 | Alan | Sorry, it is not supporting XVLAN or MPLS… I feed this question to GPT and conclusion is as attached. | 关门（未提 CENTEC） | `a444eeb97758ba35` |
 

@@ -86,7 +86,7 @@
       "revive": "他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回",
       "lane": "JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担）",
       "cadence": "最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内",
-      "evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+      "evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
     },
     "situation": "UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。",
     "need": "带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。",
@@ -126,12 +126,28 @@
         "k": "gmail_a 2026-04-23"
       },
       {
+        "date": "2026-04-24",
+        "dir": "来",
+        "who": "ryosuke.osako@unea-x.com",
+        "quote": "Hi. Alan I am Osako from UNEAX. Thank you for your email. If possible, could you please provide an overview of your company, describe your current mai",
+        "why": "来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "044e800de1232d47"
+      },
+      {
         "date": "2026-04-30",
         "dir": "来",
         "who": "大迫",
         "quote": "For EMC testing, test results from a VCCI-accredited testing facility are required… JIS C 62368-1… EN 55032/55024 or VCCI Class A/B… RoHS",
         "why": "日本合规清单",
         "k": "b1cd35734a880b12"
+      },
+      {
+        "date": "2026-05-01",
+        "dir": "来",
+        "who": "inoue.mari@unea-x.com",
+        "quote": "Hi.Alan I am Inoue from UNEAX. Please let us know the status of your company’s certification. This is for internal consideration regarding implementat",
+        "why": "来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "567917bc0a22f8a7"
       },
       {
         "date": "2026-05-04",

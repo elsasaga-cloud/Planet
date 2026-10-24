@@ -1,254 +1,318 @@
 {
- "code": "SA-006",
- "name_official": "Resonant Networks Pte. Ltd.（Singapore）",
- "website_status": "在线",
- "summary": "新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。",
- "type": "系统集成/工程商（数据中心·光网络）",
- "size": "11–50 人；约 $3M 营收（LinkedIn / RocketReach）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "第三方（公司注册信息）",
-   "claim": "主营：供应数据中心网络系统与专业服务；从 2013 年起建光网络，海缆项目经验",
-   "quote": "Its principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … Resonant Networks is a Singapore-based network engineering company specializing in optical network solutions for Data Centres, Telecommunications, and Cloud Operators",
-   "url": "https://recordowl.com/company/pat-management-services-pte-ltd",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（LinkedIn）",
-   "claim": "规模 11–50 人，2013 年成立",
-   "quote": "Industry: Telecommunications · Company size: 11-50 employees · Headquarters: Singapore · Founded: 2013",
-   "url": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址电话邮箱与业务",
-   "quote": "Build subsea networks in the Asia Pacific region - Build Optical Networks to connect Data Centres … Fibre Characterisation (OLTS, OTDR, PMD, CD) … Address: 81 Ubi Avenue 4 # 09-28 UB.One Singapore 408830 Telephone: +65 6871 4128 E-mail: 11101110@resonantnetworks.com",
-   "url": "https://resonantnetworks.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "注册",
-   "claim": "UEN / 注册日 / 行业分类变更 / 海缆项目",
-   "quote": "Resonant Networks Pte. Ltd. … Live Company … principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … deploying Submarine Line Terminal Equipment for the ADC subsea cable system across Singapore, Hong Kong, and Japan, and building the AAE-1 subsea cable system linking Penang … 20 Feb 2020 Company founded Registered in Singapore under UEN 202005761Z",
-   "url": "https://recordowl.com/company/pat-management-services-pte-ltd",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "产品清单",
-   "quote": "1-RU 48 channels C-band Mux-Demux - Variable Optical Attenuator in SFP form factor … DWDM Open Line Systems, DWDM with PQC and QKD - Ethernet-over-Copper (2-wire) Extender in SFP form factor",
-   "url": "https://resonantnetworks.com/products/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20240821011（CI，2024-09-06）：Commercial Switch 共 1 台，USD 185.0；采购 HRUI RMB 1040.0；Simon 成本表利润 RMB 336.63",
-   "quote": "",
-   "url": "PI.zip:11 新加坡 Au gg/普通快递发票.xlsx",
-   "date": "2024-09-06"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「新加坡 Au gg」：Simon 标签 gg；单号 1 个，2024-09-06 → 2024-09-06，销售 USD 185.0 / RMB 0，Simon 成本统计利润合计 RMB 336.63",
-   "quote": "",
-   "url": "PI.zip:11 新加坡 Au gg",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "GitHub 组织 Resonant-Networks：2026-08-31 创建；仓库 zpenodegrid（2026-10-09）、containerlab、aiagentsrepo、adtran-alm、rm1dev-proxmox、fntsolution（均 2026-10-06）；提交者 acestraxionweb（Kuala Lumpur，\"nope. im not a coder. just a problem solver\"）",
-   "quote": "feat: initialize ZPE Systems Nodegrid documentation and tool … feat: initialize Adtran ALM fiber monitoring and license ser… feat: initialize FNT documentation repository as source of t…",
-   "url": "https://github.com/Resonant-Networks",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "adtran-alm README：「documents the official Adtran order 31018123 (PO: OID-537157) for Resonant Networks Pte Ltd」；containerlab README 含 access-comparison.md「Singapore vs Malaysia DC」；zpenodegrid = 裸金属数据中心带外管理与 RS-232 控制台",
-   "quote": "This repository documents the official Adtran order **`31018123`** (PO: `OID-537157`) for **Resonant Networks Pte Ltd** … access-comparison.md # Access Architecture: Singapore vs Malaysia DC",
-   "url": "https://github.com/Resonant-Networks/adtran-alm",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "官网联系页：马来西亚办公室 Unit C-1-13 CoPlace 2, Cyberjaya；邮箱 11101110@resonantnetworks.com；+65 6871 4128",
-   "quote": "Malaysia Office Unit C-1-13 CoPlace 2, Block 2260, Jalan Usahawan 1, 63000 Cyberjaya, Selangor",
-   "url": "https://resonantnetworks.com/contact-us/",
-   "date": "2026-10-23"
-  }
- ],
- "kp": [
-  {
-   "name": "—",
-   "role": "销售邮箱（Crunchbase 公开）",
-   "email": "sales@resonantnetworks.com",
-   "phone": "+65 6871 4128",
-   "source": "https://www.crunchbase.com/organization/resonant-networks"
-  },
-  {
-   "name": "Au Wai Choon",
-   "role": "单据联系人",
-   "email": "sales-inf@resonantnetworks.com",
-   "phone": "",
-   "source": "PI.zip 单据"
-  }
- ],
- "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
- "researched_at": "2026-10-22",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + ACRA 注册核对）"
- },
- "company_facts": {
-  "legal_name": "Resonant Networks Pte. Ltd.（UEN 202005761Z，2020-02-20 注册；品牌 R~Nets，前身实体 2013-06-14 起）",
-  "founded": "2013 起运营；现公司 2020 注册",
-  "hq": "81 Ubi Avenue 4 #09-28 UB.One, Singapore 408830（+65 6871 4128）",
-  "staff": "11（2025-03 ACRA 变更：3 → 11）/ 10–50",
-  "revenue": "约 $3M（RocketReach 口径）",
-  "other": "主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」"
- },
- "business_lines": [
-  "数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）",
-  "数据中心网络系统供应与专业服务",
-  "光纤周边（MPO 等，用户表已成单）",
-  "光网络工程（DC 互联、回传、海缆）",
-  "光纤配件 / DWDM / 测试设备销售",
-  "AI-Ready DC（光交叉、OCS、数字孪生）"
- ],
- "products_seen": [
-  {
-   "brand": "（项目采购）",
-   "model": "MPO/光纤周边；数据中心机柜侧交换机",
-   "spec": "用户表：买过光纤周边，也能用到交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STC-448XGGM(L3)"
-  }
- ],
- "channels": {
-  "直邮": "trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com",
-  "LinkedIn": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
-  "网站": "https://resonantnetworks.com/",
-  "电话": "+65 6871 4128（官网公开）",
-  "邮箱（公开）": "11101110@resonantnetworks.com（官网通用）",
-  "公开动态平台（监控中，T29-U18）": "GitHub 组织 Resonant-Networks（2026-08-31 建；6 仓库 2026-10-06/09 推送，唯一提交者 acestraxionweb 吉隆坡）；LinkedIn 公司页 138 followers / 8 员工；官网 resonantnetworks.com（WordPress，2025-03 改版后 RSS 无新文）；SG UEN 202005761Z"
- },
- "signals": [
-  "⬆ 2026-10-23 核查：Simon 标 gg 的 Resonant Networks 其实正处在扩张期——2026-08-31 开 GitHub 组织，10 月初连推 6 个「source of truth」仓库（ZPE Nodegrid 带外管理、Containerlab + Nokia SR Linux 园区拓扑、Adtran/ADVA FSP 3000 ALM 光纤监测、Proxmox 裸金属、FNT Command DCIM、AI 运维 agent），README 写明 Resonant Networks Pte Ltd、「Singapore vs Malaysia DC」、Adtran 订单 31018123；2025-07-08 ACRA 主业改为「数据中心网络系统供应与专业服务」；马来西亚 Cyberjaya 有办公室。建议：从 gg 提回 B（人工定级由 Simon 决定），切入点 = 实验室/testbed 与 DC 带外管理网的接入交换机（STC-4168XGGCM / STC-448XGGPM / 10G 上联款）",
-  "2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）",
-  "用户表：成单（Trevor Loi，solution provider）",
-  "官网产品页有「Ethernet-over-Copper Extender in SFP form factor」等小众 SFP 形态产品——与 Saga 光模块/MC/DWDM 边缘位（Hohunet CENTEC 线）相邻；接入层交换机非其主业",
-  "2025-03 员工 3 → 11、行业分类变更——在扩张"
- ],
- "risks": [
-  "数据中心项目多指定品牌（Cisco/Arista/Juniper），Saga 只能进带外管理网/机柜 TOR 以下的低成本位",
-  "新加坡人工贵、单量小"
- ],
- "saga_fit": {
-  "p1": "STC-448XGGM(L3)",
-  "tier": 25,
-  "why": "DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货"
- },
- "email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.",
- "deal_pi": {
-  "folder": "11 新加坡 Au gg",
-  "simon_label": "gg",
-  "pay": "",
-  "bind": "",
-  "buyer": "Resonant Networks Pte Ltd",
-  "orders": 1,
-  "first": "2024-09-06",
-  "last": "2024-09-06",
-  "usd": 185.0,
-  "rmb": 0.0,
-  "profit_rmb": 336.63,
-  "models": "Commercial Switch"
- },
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [
-   "Resonant-Networks",
-   "acestraxionweb"
+  "code": "SA-006",
+  "name_official": "Resonant Networks Pte. Ltd.（Singapore）",
+  "website_status": "在线",
+  "summary": "新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。",
+  "type": "系统集成/工程商（数据中心·光网络）",
+  "size": "11–50 人；约 $3M 营收（LinkedIn / RocketReach）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "第三方（公司注册信息）",
+      "claim": "主营：供应数据中心网络系统与专业服务；从 2013 年起建光网络，海缆项目经验",
+      "quote": "Its principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … Resonant Networks is a Singapore-based network engineering company specializing in optical network solutions for Data Centres, Telecommunications, and Cloud Operators",
+      "url": "https://recordowl.com/company/pat-management-services-pte-ltd",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（LinkedIn）",
+      "claim": "规模 11–50 人，2013 年成立",
+      "quote": "Industry: Telecommunications · Company size: 11-50 employees · Headquarters: Singapore · Founded: 2013",
+      "url": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址电话邮箱与业务",
+      "quote": "Build subsea networks in the Asia Pacific region - Build Optical Networks to connect Data Centres … Fibre Characterisation (OLTS, OTDR, PMD, CD) … Address: 81 Ubi Avenue 4 # 09-28 UB.One Singapore 408830 Telephone: +65 6871 4128 E-mail: 11101110@resonantnetworks.com",
+      "url": "https://resonantnetworks.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "注册",
+      "claim": "UEN / 注册日 / 行业分类变更 / 海缆项目",
+      "quote": "Resonant Networks Pte. Ltd. … Live Company … principal activity is SUPPLY NETWORK SYSTEMS AND PROFESSIONAL SERVICES FOR DATA CENTRE … deploying Submarine Line Terminal Equipment for the ADC subsea cable system across Singapore, Hong Kong, and Japan, and building the AAE-1 subsea cable system linking Penang … 20 Feb 2020 Company founded Registered in Singapore under UEN 202005761Z",
+      "url": "https://recordowl.com/company/pat-management-services-pte-ltd",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "产品清单",
+      "quote": "1-RU 48 channels C-band Mux-Demux - Variable Optical Attenuator in SFP form factor … DWDM Open Line Systems, DWDM with PQC and QKD - Ethernet-over-Copper (2-wire) Extender in SFP form factor",
+      "url": "https://resonantnetworks.com/products/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20240821011（CI，2024-09-06）：Commercial Switch 共 1 台，USD 185.0；采购 HRUI RMB 1040.0；Simon 成本表利润 RMB 336.63",
+      "quote": "",
+      "url": "PI.zip:11 新加坡 Au gg/普通快递发票.xlsx",
+      "date": "2024-09-06"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「新加坡 Au gg」：Simon 标签 gg；单号 1 个，2024-09-06 → 2024-09-06，销售 USD 185.0 / RMB 0，Simon 成本统计利润合计 RMB 336.63",
+      "quote": "",
+      "url": "PI.zip:11 新加坡 Au gg",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "GitHub 组织 Resonant-Networks：2026-08-31 创建；仓库 zpenodegrid（2026-10-09）、containerlab、aiagentsrepo、adtran-alm、rm1dev-proxmox、fntsolution（均 2026-10-06）；提交者 acestraxionweb（Kuala Lumpur，\"nope. im not a coder. just a problem solver\"）",
+      "quote": "feat: initialize ZPE Systems Nodegrid documentation and tool … feat: initialize Adtran ALM fiber monitoring and license ser… feat: initialize FNT documentation repository as source of t…",
+      "url": "https://github.com/Resonant-Networks",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "adtran-alm README：「documents the official Adtran order 31018123 (PO: OID-537157) for Resonant Networks Pte Ltd」；containerlab README 含 access-comparison.md「Singapore vs Malaysia DC」；zpenodegrid = 裸金属数据中心带外管理与 RS-232 控制台",
+      "quote": "This repository documents the official Adtran order **`31018123`** (PO: `OID-537157`) for **Resonant Networks Pte Ltd** … access-comparison.md # Access Architecture: Singapore vs Malaysia DC",
+      "url": "https://github.com/Resonant-Networks/adtran-alm",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "官网联系页：马来西亚办公室 Unit C-1-13 CoPlace 2, Cyberjaya；邮箱 11101110@resonantnetworks.com；+65 6871 4128",
+      "quote": "Malaysia Office Unit C-1-13 CoPlace 2, Block 2260, Jalan Usahawan 1, 63000 Cyberjaya, Selangor",
+      "url": "https://resonantnetworks.com/contact-us/",
+      "date": "2026-10-23"
+    }
   ],
-  "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- },
- "mail_review": {
-  "binding": {
-   "level": "轻度（ISP 已测试通过 1 台 10G MultiGig；无批量成交）",
-   "type": "新加坡 ISP 渠道集成商（混合：技术验证过，最终败于价格）",
-   "sieve": "3（样机测试、与 ISP 谈到捆绑 IP 摄像头「thousands」）",
-   "stop": "价格——2025-11-11「we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)」；Simon：「about 100usd/pc, we cannot make it」",
-   "revive": "ISP 下一代（10G/2.5G 接入）招标时 Saga 有 Realtek 多千兆低价机（HRUI 线）或 CENTEC 高速机可报；2026-06-22 对方礼貌回复仍在线",
-   "lane": "SG 已通（PayPal/T/T、顺丰/DHL）",
-   "cadence": "最后 2026-09-21 Simon 推 24 口 PoE $180（无回）；对方最后实质来信 2025-11-11；实质往来 2024 → 2025-11，来 36 封",
-   "evidence": "S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423"
-  },
-  "situation": "新加坡 Resonant Networks（Au Wai Choon、Hairomee）2025-03 ISP 测试 10G MultiGig 通过，要捆绑低价 IP 摄像头「thousands together with the switch」；7 月客户评估拖延、嫌贵（附 TP-Link 多千兆零售价）；11-11「lost to TP-Link… about half the buy price from you」；Simon 答 $100/台做不到。2026-02/06/09 Simon 三次推送，6-22 对方仅礼貌回复。**B 级里来信最多的户，走完了验证却败在 Marvell 与 TP-Link 的价差上。**",
-  "need": "ISP 家用/SOHO 10G MultiGig（100M–10G）接入交换机 + 捆绑摄像头，量级千台，目标成本 ≈ TP-Link 零售价的一半以下。",
-  "breakpoint": "C6：Marvell 线做不到 ISP 零售级价格；这是「芯片线 ≠ 市场」而非谈判失误。",
-  "saga_now": {
-   "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
-   "tier": 25,
-   "price": "不报价（当前线做不到 $100）",
-   "why": "C3：ISP 千台级是「拼命单」且价格主导",
-   "repeat": [],
-   "gaps": [
-    "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定"
-   ]
-  },
-  "next_move": {
-   "when": "2027-Q1（ISP 年度预算）",
-   "channel": "S 邮箱",
-   "action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可",
-   "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
-  },
-  "facts": [
-   {
-    "date": "2025-03-14",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "ISP tested ok the switch but they want us to bundle with smart home devices or IP camera",
-    "why": "技术验证通过",
-    "k": "fd9c27052dfa1bd1"
-   },
-   {
-    "date": "2025-03-14",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "The quantity will be thousands together with the switch… Move fast, pls.",
-    "why": "量级",
-    "k": "a28f30c8f3795eea"
-   },
-   {
-    "date": "2025-07-28",
-    "dir": "来",
-    "who": "Hairomee",
-    "quote": "the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch",
-    "why": "竞品锚点",
-    "k": "2c2282af0677f30a"
-   },
-   {
-    "date": "2025-11-11",
-    "dir": "来",
-    "who": "Au Wai Choon",
-    "quote": "Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)",
-    "why": "失单原话",
-    "k": "c277ca62ea0df0da"
-   },
-   {
-    "date": "2025-11-12",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
-    "why": "Saga 底线",
-    "k": "b26aafe834fa3423"
-   }
+  "kp": [
+    {
+      "name": "—",
+      "role": "销售邮箱（Crunchbase 公开）",
+      "email": "sales@resonantnetworks.com",
+      "phone": "+65 6871 4128",
+      "source": "https://www.crunchbase.com/organization/resonant-networks"
+    },
+    {
+      "name": "Au Wai Choon",
+      "role": "单据联系人",
+      "email": "sales-inf@resonantnetworks.com",
+      "phone": "",
+      "source": "PI.zip 单据"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
+  "researched_at": "2026-10-22",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 + ACRA 注册核对）"
+  },
+  "company_facts": {
+    "legal_name": "Resonant Networks Pte. Ltd.（UEN 202005761Z，2020-02-20 注册；品牌 R~Nets，前身实体 2013-06-14 起）",
+    "founded": "2013 起运营；现公司 2020 注册",
+    "hq": "81 Ubi Avenue 4 #09-28 UB.One, Singapore 408830（+65 6871 4128）",
+    "staff": "11（2025-03 ACRA 变更：3 → 11）/ 10–50",
+    "revenue": "约 $3M（RocketReach 口径）",
+    "other": "主业：数据中心/电信/云运营商光网络工程（设计、部署、光纤特性测试 OLTS/OTDR/PMD/CD、运维）；海缆项目（ADC SLTE 新加坡/香港/日本，AAE-1 槟城—新加坡）；AI-Ready 数据中心（机器人光纤交叉连接、OCS、数字孪生）；产品销售：MTP/MPO 跳线、分路器、1RU 48ch C 波段 Mux/Demux、SFP 形态 VOA、SFP 形态 2 线铜缆以太网延长器、DWDM OLS（PQC/QKD）、测试仪、ODF、DC PDU；2025-07 SSIC 改为「数据中心网络系统供应与专业服务」"
+  },
+  "business_lines": [
+    "数据中心/电信/云运营商光网络设计与部署（海缆 SLTE：ADC、AAE-1）",
+    "数据中心网络系统供应与专业服务",
+    "光纤周边（MPO 等，用户表已成单）",
+    "光网络工程（DC 互联、回传、海缆）",
+    "光纤配件 / DWDM / 测试设备销售",
+    "AI-Ready DC（光交叉、OCS、数字孪生）"
+  ],
+  "products_seen": [
+    {
+      "brand": "（项目采购）",
+      "model": "MPO/光纤周边；数据中心机柜侧交换机",
+      "spec": "用户表：买过光纤周边，也能用到交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STC-448XGGM(L3)"
+    }
+  ],
+  "channels": {
+    "直邮": "trevorloijt@resonantnetworks.com（Trevor Loi，成单）/ sales@resonantnetworks.com",
+    "LinkedIn": "https://sg.linkedin.com/company/resonant-networks-pte-ltd",
+    "网站": "https://resonantnetworks.com/",
+    "电话": "+65 6871 4128（官网公开）",
+    "邮箱（公开）": "11101110@resonantnetworks.com（官网通用）",
+    "公开动态平台（监控中，T29-U18）": "GitHub 组织 Resonant-Networks（2026-08-31 建；6 仓库 2026-10-06/09 推送，唯一提交者 acestraxionweb 吉隆坡）；LinkedIn 公司页 138 followers / 8 员工；官网 resonantnetworks.com（WordPress，2025-03 改版后 RSS 无新文）；SG UEN 202005761Z"
+  },
+  "signals": [
+    "⬆ 2026-10-23 核查：Simon 标 gg 的 Resonant Networks 其实正处在扩张期——2026-08-31 开 GitHub 组织，10 月初连推 6 个「source of truth」仓库（ZPE Nodegrid 带外管理、Containerlab + Nokia SR Linux 园区拓扑、Adtran/ADVA FSP 3000 ALM 光纤监测、Proxmox 裸金属、FNT Command DCIM、AI 运维 agent），README 写明 Resonant Networks Pte Ltd、「Singapore vs Malaysia DC」、Adtran 订单 31018123；2025-07-08 ACRA 主业改为「数据中心网络系统供应与专业服务」；马来西亚 Cyberjaya 有办公室。建议：从 gg 提回 B（人工定级由 Simon 决定），切入点 = 实验室/testbed 与 DC 带外管理网的接入交换机（STC-4168XGGCM / STC-448XGGPM / 10G 上联款）",
+    "2025：主营业务代码变更为数据中心网络系统供应——从光网络工程向 DC 设备供应延伸（recordowl 2026-10 快照）",
+    "用户表：成单（Trevor Loi，solution provider）",
+    "官网产品页有「Ethernet-over-Copper Extender in SFP form factor」等小众 SFP 形态产品——与 Saga 光模块/MC/DWDM 边缘位（Hohunet CENTEC 线）相邻；接入层交换机非其主业",
+    "2025-03 员工 3 → 11、行业分类变更——在扩张"
+  ],
+  "risks": [
+    "数据中心项目多指定品牌（Cisco/Arista/Juniper），Saga 只能进带外管理网/机柜 TOR 以下的低成本位",
+    "新加坡人工贵、单量小"
+  ],
+  "saga_fit": {
+    "p1": "STC-448XGGM(L3)",
+    "tier": 25,
+    "why": "DC 项目的管理网/带外网与非关键 TOR：48 口千兆 + 10G 上联 L3（STC-448XGGM(L3)）与 24 口 10G 上联（STC-424XGGPM-280W）；MPO/光纤周边继续配套供货"
+  },
+  "email_hook": "For the out-of-band and management layer on data-centre jobs a 48-port L3 unit with 10G uplinks at EXW pricing is where we are usually slotted in, so I am sending that alongside the MPO assemblies Trevor ordered before.",
+  "deal_pi": {
+    "folder": "11 新加坡 Au gg",
+    "simon_label": "gg",
+    "pay": "",
+    "bind": "",
+    "buyer": "Resonant Networks Pte Ltd",
+    "orders": 1,
+    "first": "2024-09-06",
+    "last": "2024-09-06",
+    "usd": 185.0,
+    "rmb": 0.0,
+    "profit_rmb": 336.63,
+    "models": "Commercial Switch"
+  },
+  "watch": {
+    "as_of": "2026-10-23",
+    "github_watch": [
+      "Resonant-Networks",
+      "acestraxionweb"
+    ],
+    "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
+    "status": "data/customer_watch/当前状态.md",
+    "log": "data/customer_watch/变化日志.md"
+  },
+  "mail_review": {
+    "binding": {
+      "level": "轻度（ISP 已测试通过 1 台 10G MultiGig；无批量成交）",
+      "type": "新加坡 ISP 渠道集成商（混合：技术验证过，最终败于价格）",
+      "sieve": "3（样机测试、与 ISP 谈到捆绑 IP 摄像头「thousands」）",
+      "stop": "价格——2025-11-11「we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)」；Simon：「about 100usd/pc, we cannot make it」",
+      "revive": "ISP 下一代（10G/2.5G 接入）招标时 Saga 有 Realtek 多千兆低价机（HRUI 线）或 CENTEC 高速机可报；2026-06-22 对方礼貌回复仍在线",
+      "lane": "SG 已通（PayPal/T/T、顺丰/DHL）",
+      "cadence": "最后 2026-09-21 Simon 推 24 口 PoE $180（无回）；对方最后实质来信 2025-11-11；实质往来 2024 → 2025-11，来 36 封",
+      "evidence": "S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
+    },
+    "situation": "新加坡 Resonant Networks（Au Wai Choon、Hairomee）2025-03 ISP 测试 10G MultiGig 通过，要捆绑低价 IP 摄像头「thousands together with the switch」；7 月客户评估拖延、嫌贵（附 TP-Link 多千兆零售价）；11-11「lost to TP-Link… about half the buy price from you」；Simon 答 $100/台做不到。2026-02/06/09 Simon 三次推送，6-22 对方仅礼貌回复。**B 级里来信最多的户，走完了验证却败在 Marvell 与 TP-Link 的价差上。**",
+    "need": "ISP 家用/SOHO 10G MultiGig（100M–10G）接入交换机 + 捆绑摄像头，量级千台，目标成本 ≈ TP-Link 零售价的一半以下。",
+    "breakpoint": "C6：Marvell 线做不到 ISP 零售级价格；这是「芯片线 ≠ 市场」而非谈判失误。",
+    "saga_now": {
+      "p1": "不推 Marvell；若 Simon 允许用 HRUI/Realtek 多千兆机或等 CENTEC 低端，再报",
+      "tier": 25,
+      "price": "不报价（当前线做不到 $100）",
+      "why": "C3：ISP 千台级是「拼命单」且价格主导",
+      "repeat": [],
+      "gaps": [
+        "HRUI 线是否有 2.5G/10G MultiGig 低价机型可对 TP-Link——查 `价格主表_HRUI.csv`/规格书后再定"
+      ]
+    },
+    "next_move": {
+      "when": "2027-Q1（ISP 年度预算）",
+      "channel": "S 邮箱",
+      "action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可",
+      "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
+    },
+    "facts": [
+      {
+        "date": "2024-07-02",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Hi Simon, How much is it? Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantne",
+        "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "e14599fb95e788eb"
+      },
+      {
+        "date": "2024-07-03",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Hi Simon, Do you have tests done that it can switch automatically between 1G, 2.5, 5 and 10G when it connects to different type of devices? If yes, pl",
+        "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "0c1c68685677a0aa"
+      },
+      {
+        "date": "2024-07-03",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Hi Simon, Excellent! I’m looking forward to the 5-port Multi-Gig switch. We intend to sell to ISP (Internet Service Providers) in Singapore and Malays",
+        "why": "来信原文（主题「10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "28da2be220e94209"
+      },
+      {
+        "date": "2024-07-03",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Hi Simon, Thank you for your fast response. Kindly confirm the ports can support 5Gbps too. I check your specs, see below (orange highlight say can su",
+        "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "a943a224caffa1ed"
+      },
+      {
+        "date": "2024-07-03",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Hi Simon, 1) Purpose: We are looking for 2x10G Ethernet UTP (Copper) port with 2 x2.5G Ethernet UTP ports switch. See here: https://shopee.sg/OWC-THUN",
+        "why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "ce207bc45a47a708"
+      },
+      {
+        "date": "2024-07-04",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Thank you Simon! Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantnetworks.co",
+        "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "2bdbd0b1a6955e9b"
+      },
+      {
+        "date": "2024-07-04",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Hi Simon, Impressive and comprehensive test doc. Thank you so much. The 5-port 10GE UTP switch, what will be the FOB price? As for the 8-port 10G UTP",
+        "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "ae618b2e793c520d"
+      },
+      {
+        "date": "2024-07-19",
+        "dir": "来",
+        "who": "auwc@resonantnetworks.com",
+        "quote": "Hi Simon, Do you have managed switch for 8 x 10G RJ45? As for STC-08XGE: 8x10G RJ45, downward compatible(100M/1G/2.5G/5G), Non-PoE, unmanaged, AC inpu",
+        "why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "3df6ebcc3c4bfc5f"
+      },
+      {
+        "date": "2025-03-14",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "ISP tested ok the switch but they want us to bundle with smart home devices or IP camera",
+        "why": "技术验证通过",
+        "k": "fd9c27052dfa1bd1"
+      },
+      {
+        "date": "2025-03-14",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "The quantity will be thousands together with the switch… Move fast, pls.",
+        "why": "量级",
+        "k": "a28f30c8f3795eea"
+      },
+      {
+        "date": "2025-07-28",
+        "dir": "来",
+        "who": "Hairomee",
+        "quote": "the customer expressed concerns about our pricing being slightly on the high side. I've attached the retail pricing for the TP-Link Multi-Gig switch",
+        "why": "竞品锚点",
+        "k": "2c2282af0677f30a"
+      },
+      {
+        "date": "2025-11-11",
+        "dir": "来",
+        "who": "Au Wai Choon",
+        "quote": "Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you)",
+        "why": "失单原话",
+        "k": "c277ca62ea0df0da"
+      },
+      {
+        "date": "2025-11-12",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "that will be about 100usd/pc, we cannot make it. Maybe next time.",
+        "why": "Saga 底线",
+        "k": "b26aafe834fa3423"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

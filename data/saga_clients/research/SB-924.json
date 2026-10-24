@@ -99,7 +99,7 @@
       "revive": "不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300；备用具名邮箱：rwtull@versitron.com（自动回复中出现的同司具名邮箱，2026-03-11，k=4ac602505b7d8db3；从未发过）",
       "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
       "cadence": "一封「对表信」现在发；之后每季度只发与堆叠/核心相关的实质更新，不发 PoE 小品",
-      "evidence": "k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）"
+      "evidence": "k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
     },
     "situation": "这是 S 邮箱里最典型的「客户在追、供方在拖」的反例。Greg 在 2024-11-19 主动提出要开发一条带堆叠的交换机产品线「so that we can compete with Cisco in the USA market」，并问 Simon 公司能否做；Simon 答 2~3 个月会有。接下来一年 Greg 追了六次（2025-06-11/18/23、10-15、10-30），Simon 的回答从「ready, what spec?」到「serious issues after 1st release」再到「honestly we do not see a big demand」。2026-03-11 Simon 终于说所有型号都支持堆叠并附 Drive 链接，对方只有自动回复。Greg 给出的规格（10G 铜/光 + 40/80/100G 专用堆叠口 + 单逻辑交换机）实际上是 Catalyst 9300 级别，SmartByte Marvell AC5 线不具备，CENTEC 线才有可能。",
     "need": "可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。",
@@ -119,6 +119,70 @@
       "one_question": "Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?"
     },
     "facts": [
+      {
+        "date": "2023-11-09",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "Hello Simon: I hope all is well, and congratulations & good luck! We'll keep this information on-hand for future reference. Thank you, Greg Massott |",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "85123ce32bd28e55"
+      },
+      {
+        "date": "2023-12-12",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "Hello Simon: Thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gmassott@versitro",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "bf1123a71b98d0a9"
+      },
+      {
+        "date": "2024-01-08",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "Hello Simon: Thank you, and Happy New Year to you as well! Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gma",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "bdc33af7998da6ad"
+      },
+      {
+        "date": "2024-02-20",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "Hello Simon: I hope all is well, and thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "c043a5ceedc13b6e"
+      },
+      {
+        "date": "2024-05-16",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "Hello Simon: It's nice to hear from you, and I hope all is well. Can you send the datasheets for both the industrial and commercial versions along wit",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "362966d662d4b69d"
+      },
+      {
+        "date": "2024-07-17",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "Hello Simon: I am well, I hope the same for you. Thank you for this information, we will keep it on file for future reference. Greg Massott | P: 302.8",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "5b36ad2e37bc3754"
+      },
+      {
+        "date": "2024-08-14",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "I was asking if there are managed versions of the same variants that you provided. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "8da54ed91f1c24e4"
+      },
+      {
+        "date": "2024-08-14",
+        "dir": "来",
+        "who": "gmassott@versitron.com",
+        "quote": "Hello Simon: Thank you for this information. Do you offer managed versions as well? If so, please provide the available models and prices. Greg Massot",
+        "why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "16e894d27961f348"
+      },
       {
         "date": "2024-11-19",
         "dir": "来",

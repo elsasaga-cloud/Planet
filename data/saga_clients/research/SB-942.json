@@ -1,117 +1,126 @@
 {
- "code": "SB-942",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（ilucoltd.com，快照 2026-10-21）",
- "summary": "台湾 iLu Co., Ltd.（贸易公司：SFP+ DAC、以太网测试仪、网络变压器/FPCB、LevelOne、润滑油/塑料/IT 废料等杂项；表内「PoE / SFP / bypass 模块 / 大口 FS，基本都是海思的」「之前联系过，邮件中有详细的联系信息」；KP Angus Tseng（President，angus@））；表内无跟进记录。",
- "type": "台湾贸易公司（多品类，网络产品为其一）",
- "size": "",
- "brands_seen": [
-  "LevelOne"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDP；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap",
-   "url": "https://www.ilucoltd.com/en/",
-   "date": "2026-10-21"
+  "code": "SB-942",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（ilucoltd.com，快照 2026-10-21）",
+  "summary": "台湾 iLu Co., Ltd.（贸易公司：SFP+ DAC、以太网测试仪、网络变压器/FPCB、LevelOne、润滑油/塑料/IT 废料等杂项；表内「PoE / SFP / bypass 模块 / 大口 FS，基本都是海思的」「之前联系过，邮件中有详细的联系信息」；KP Angus Tseng（President，angus@））；表内无跟进记录。",
+  "type": "台湾贸易公司（多品类，网络产品为其一）",
+  "size": "",
+  "brands_seen": [
+    "LevelOne"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDP；品类词 安防监控（CCTV / 门禁） / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap",
+      "url": "https://www.ilucoltd.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "iLu 首页",
+      "quote": "Welcome to iLu CO., LTD. ; Connectivity and Component, Equipment, Plastic and Miscellaneous ; SFP+ DAC Cable Ethernet Tester",
+      "url": "https://www.ilucoltd.com/en/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE SFP bypass 大口 FS；海思的",
+      "quote": "POE SFP Bypass模块 大口FS / 基本都是海思的；之前联系过；邮件中有详细的联系信息",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Angus Tseng",
+      "title": "President",
+      "email": "angus@ilucoltd.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "POE SFP Bypass模块 大口FS；基本都是海思的；邮件中有详细的联系信息",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "台湾",
+    "other": "官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "iLu 首页",
-   "quote": "Welcome to iLu CO., LTD. ; Connectivity and Component, Equipment, Plastic and Miscellaneous ; SFP+ DAC Cable Ethernet Tester",
-   "url": "https://www.ilucoltd.com/en/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "网络连接件 / 设备 / 塑料杂项贸易"
+  ],
+  "channels": {
+    "role": "台湾贸易公司（多品类，网络产品为其一）",
+    "region": "台湾",
+    "contact": "angus@ilucoltd.com、admin@ilucoltd.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "PoE SFP bypass 大口 FS；海思的",
-   "quote": "POE SFP Bypass模块 大口FS / 基本都是海思的；之前联系过；邮件中有详细的联系信息",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap；首页 Connectivity and Component, Equipment, Plastic and Miscellaneous",
+    "表内：POE SFP Bypass 模块 大口 FS / 基本都是海思的；邮件中有详细的联系信息；KP Angus Tseng / President"
+  ],
+  "risks": [
+    "贸易中间商（多品类杂货，偏好海思低价）：Marvell 方案价差难以成交；非主攻区（T5，台湾）",
+    "表内「之前联系过」：往来邮件在 Gmail（待核）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 20,
+    "why": "询大口 FS（偏好海思低价方案）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 Marvell 位；PoE 位 STC-424DGGPM-280W；bypass → SmartByte LT-IS6312GP（注明）；SFP/DAC 不供"
+  },
+  "email_hook": "Angus, following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2024-10-25 Styven 问「flat 8-port PoE web smart or L2?」→ 无此款）",
+      "type": "台湾贸易公司（iLu）",
+      "sieve": "1",
+      "stop": "无此款",
+      "revive": "不动",
+      "lane": "TW",
+      "cadence": "不动",
+      "evidence": "k=b795aff546929794；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-10-25",
+        "dir": "来",
+        "who": "styven@ilucoltd.com",
+        "quote": "Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang",
+        "why": "来信原文（主题「Re: 2.5G Web Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "b795aff546929794"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Angus Tseng",
-   "title": "President",
-   "email": "angus@ilucoltd.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "台湾",
-  "other": "官网 ilucoltd.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "网络连接件 / 设备 / 塑料杂项贸易"
- ],
- "channels": {
-  "role": "台湾贸易公司（多品类，网络产品为其一）",
-  "region": "台湾",
-  "contact": "angus@ilucoltd.com、admin@ilucoltd.com"
- },
- "signals": [
-  "官网：SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap；首页 Connectivity and Component, Equipment, Plastic and Miscellaneous",
-  "表内：POE SFP Bypass 模块 大口 FS / 基本都是海思的；邮件中有详细的联系信息；KP Angus Tseng / President"
- ],
- "risks": [
-  "贸易中间商（多品类杂货，偏好海思低价）：Marvell 方案价差难以成交；非主攻区（T5，台湾）",
-  "表内「之前联系过」：往来邮件在 Gmail（待核）；无跟进记录"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 20,
-  "why": "询大口 FS（偏好海思低价方案）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 Marvell 位；PoE 位 STC-424DGGPM-280W；bypass → SmartByte LT-IS6312GP（注明）；SFP/DAC 不供"
- },
- "email_hook": "Angus, following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2024-10-25 Styven 问「flat 8-port PoE web smart or L2?」→ 无此款）",
-   "type": "台湾贸易公司（iLu）",
-   "sieve": "1",
-   "stop": "无此款",
-   "revive": "不动",
-   "lane": "TW",
-   "cadence": "不动",
-   "evidence": "k=b795aff546929794"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

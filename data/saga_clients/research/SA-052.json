@@ -1,227 +1,283 @@
 {
- "code": "SA-052",
- "name_official": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd., td-fe.ru, St. Petersburg, Russia）",
- "website_status": "在线",
- "summary": "圣彼得堡的 FARADAY 品牌工业电源制造/贸易公司：DIN 导轨开关电源 12–480W（EAC/CE/RoHS，3 年保），面向自动化系统，经 sintsec 等安防分销商销售。用户表：A 优质名单(优质俄罗斯客户)，5 次实质回复，12 次跟进；兴趣工业电源（只要导轨式）、ONV 工业 FS、PoE 配件；联系人 Alexander Rudnev（director）；AI 评 40% B。",
- "type": "品牌商/贸易公司（电源主业，工业交换机为配套）",
- "size": "未见人数（中小）",
- "brands_seen": [
-  "FARADAY",
-  "ONV",
-  "FARADAY F-8xx（自有标交换机）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有品牌 DIN 电源产品线与联系方式",
-   "quote": "240W/48V/DIN. Блок питания FARADAY на DIN рейку разработан ООО \"ТД \"Фарадей Электроникс\" … Сертифицирован (EAC, CE, ROHS) … Гарантия 3 года … +7 (812) 953-13-59 spb@td-fe.ru",
-   "url": "https://td-fe.ru/catalog/ps-on-din-rail/240W_48V_DIN.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "目录含 F-802 / F-812 交换机与 PoE 注入器",
-   "quote": "БП (инжекторы) PoE и сетевое оборудование - Коммутатор F-812 управляемый (L2) - Коммутатор F-802 управляемый … Серия блоков питания на DIN рейку и отдельные другие модели имеют СЕ сертификат",
-   "url": "https://td-fe.ru/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "F-802 规格",
-   "quote": "F-802. Индустриальный управляемый PoE коммутатор на 8 портов РоЕ (100 Мбит/с) + 2 порта Combo (1 Гбит/с)",
-   "url": "https://td-fe.ru/catalog/injector-poe/F-802_ID.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "经销商",
-   "claim": "F-802 PoE 预算与防护",
-   "quote": "Общий бюджет питания PoE — 240 Вт … Поддержка стандартов IEEE 802.3af/at … Крепление на DIN-рейку … Защита IP40 и грозозащита",
-   "url": "https://www.ami-com.ru/catalog/f-802/",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Alexander Rudnev",
-   "role": "Director（用户表）",
-   "email": "air@td-fe.ru",
-   "phone": "+7 812 953 13 59（官网总机）",
-   "source": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx"
-  }
- ],
- "notes": "A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 td-fe.ru 目录核对）"
- },
- "company_facts": {
-  "legal_name": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd.）",
-  "hq": "圣彼得堡（官网 td-fe.ru）",
-  "other": "自有品牌 FARADAY：DIN 开关电源 12–240W（CE）、UPS（UPS45-12-Slim … UPS 300W/48V）、**PoE 注入器与网络设备：F-802 工业管理型 PoE 交换机（8×FE PoE + 2 Combo GE，PoE 预算 240W，IP40，DIN，防雷）、F-812 管理型 L2**；中俄团队、电子模块合同制造；按客户 TЗ 免费定制电源（批量）"
- },
- "business_lines": [
-  "DIN 导轨工业电源（主业）",
-  "配套 ONV 工业 PoE 交换机 / PoE 配件",
-  "FARADAY DIN 电源 / UPS（主业）",
-  "FARADAY PoE 注入器 + 自有标工业 PoE 交换机（F-802 / F-812）",
-  "电子模块合同制造"
- ],
- "products_seen": [
-  {
-   "brand": "FARADAY",
-   "model": "DIN 导轨电源 12–480W",
-   "spec": "EAC/CE/RoHS，3 年保",
-   "url": "https://td-fe.ru/",
-   "date": "2026-10（首轮调研）",
-   "saga": "—"
-  },
-  {
-   "brand": "ONV（现来源）",
-   "model": "工业 PoE 交换机（只要导轨式）",
-   "spec": "PoE 配件比较多",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "用户表",
-   "saga": "STI-288DGGPM / STI-144GP"
-  },
-  {
-   "brand": "FARADAY（自有标）",
-   "model": "F-802",
-   "spec": "工业管理型 PoE：8×100M PoE + 2×Combo 1G，PoE 240W，af/at，IP40，DIN，防雷",
-   "url": "https://td-fe.ru/catalog/injector-poe/F-802_ID.html",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM（千兆升级位）"
-  },
-  {
-   "brand": "FARADAY（自有标）",
-   "model": "F-812",
-   "spec": "管理型 L2 交换机（口型未列）",
-   "url": "https://td-fe.ru/",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（待核口型）"
-  }
- ],
- "channels": {
-  "网站": "https://td-fe.ru/（正式域名；faradayelectronics 为品牌名）",
-  "直邮": "air@td-fe.ru（用户表）",
-  "分销": "sintsec 等安防分销"
- },
- "signals": [
-  "用户表：优质俄罗斯客户，5 次实质回复——高互动；只要导轨式",
-  "已有自有标 F-802（百兆 PoE）——千兆 Marvell 版 = 现成的 F-8xx 升级 SKU；电源 + 交换机同柜配套是其卖点（2026-10-21）"
- ],
- "risks": [
-  "俄罗斯：结算/物流/制裁合规由客户侧安排（Saga 侧无 EAC）；只做 DIN 导轨"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "自有标 FARADAY F-802（8 FE PoE + 2 combo）千兆升级 = STI-288DGGPM，按 F- 命名 OEM；F-812 L2 位待核口型；OEM 30% 档"
- },
- "email_hook": "Your F-802 is fast-Ethernet; the Marvell-based 8-port gigabit PoE+ with 2 SFP managed DIN switch would slot in as the F-8xx gigabit step-up in FARADAY packing, EXW, with CE/RoHS files ready.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（两轮询价全部止于价格；2025-01-03 后 21 个月无来信）",
-   "type": "俄罗斯 DIN 电源品牌商（FARADAY）顺带采购工业交换机——**价格流 + Realtek 用户**；执行董事 Alexander Rudnev 直联（有中国手机、每年 4 月香港展 / 10 月来华）",
-   "sieve": "1–2（回信 16 封、给了精确规格；未付样、未走样品）",
-   "stop": "价格 + 芯片线错位：要「8 口 L3 管理 PoE 工业 DIN、watchdog、30W+/口、SFP+RJ45 上联、1G 够」；Simon 报 STI-488XGGPM 350 USD →「price is really high… We have a supplier with much better prices」「We use Realtek」；2024-12 要 RMB EXW 全价表 → 2025-01-03「your prices are too high」",
-   "revive": "只有 Simon 允许用 HRUI/Realtek 线报 DIN 8 口 PoE 管理型（Simon 2024-05-21 自己写过「maybe Marvell is required someday」）；否则按 C6 不设计让价",
-   "lane": "RU：对方要 RMB EXW（可走 RMB / 中国付款代理，同 iotsistem 做法）；物流走其自有渠道",
-   "cadence": "最后来信 2025-01-03；此后 Saga 单向 5 封（Booster / AC5 / 7.5 群发）",
-   "evidence": "k=f09852fb2618788f / 80bdb8e0e1b5a1a5 / e0da925d78532ec9 / 011f348307d57fc2 / c4b08a47d73f023f / 7cb3dfcf81666a75"
-  },
-  "situation": "圣彼得堡 FARADAY 电源厂执行董事 Alexander 2023-12 起主动来信 16 封（A 级来信第 7 多），需求极其明确：DIN 导轨 8 口 L3 管理 PoE 工业机带 watchdog。Simon 先后推 24 口 L3、10G L3（360 USD）、L2 130 USD、STI-488XGGPM 350 USD；对方三句话定性——「350USD?」「We use Realtek」「we don't looking for hi-end solutions, but for reliable, functional solution with reasonable price」。2024-12 Simon 给全价表（USD×7.2 折 RMB），2025-01-03 回「prices too high」后再无来信。用户表称「已卖 ONV 工业 FS」，邮件里无成交证据。",
-  "need": "DIN 8 口 PoE（30W+/口）+ SFP/RJ45 上联、L2/L3 管理、watchdog、1G；Realtek 价位（他自己说 8×100M+2 combo 的 L2 款「much cheaper」）。",
-  "breakpoint": "C2 第一道筛子在 2024-05-21 已经把他筛出（Realtek 用户 + 价格优先），但 Saga 又追了 8 个月、给了全价表——投入与筛子结论不一致。真正的边界是芯片线，不是沟通。",
-  "saga_now": {
-   "p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
-   "tier": 20,
-   "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价",
-   "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停",
-   "repeat": [],
-   "gaps": [
-    "是否对俄罗斯客户开 Realtek 线——Simon 定",
-    "HRUI 线有无「8 口 PoE 管理 + watchdog」DIN 款——查规格书再说",
-    "用户表「已卖 ONV 工业 FS」出处（邮件无）"
-   ]
-  },
-  "next_move": {
-   "when": "不主动；他 10 月来华季或下次来信时一句话",
-   "channel": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱",
-   "action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给一行 HRUI 对位款",
-   "one_question": "Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?"
-  },
-  "facts": [
-   {
-    "date": "2024-02-27",
-    "dir": "来",
-    "who": "Alexander Rudnev（执行董事）",
-    "quote": "have you 8-port L3 managed PoE industrial switch with Watchdog function?",
-    "why": "需求首次出现",
-    "k": "cc4b73b466fbfdcc"
-   },
-   {
-    "date": "2024-05-21",
-    "dir": "来",
-    "who": "Alexander",
-    "quote": "One more time. We need 8-port L3 managed PoE industrial switch with Watchdog function. 30W+ per port. SFP+RG45 up-links. 1G speed is enough.",
-    "why": "规格定稿",
-    "k": "f09852fb2618788f"
-   },
-   {
-    "date": "2024-05-21",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "Best unit price STI-488XGGPM 350usd/pc… Please do not JUST compare the price with Realtek solution, it is not the same thing.",
-    "why": "Saga 报价与定位",
-    "k": "80bdb8e0e1b5a1a5"
-   },
-   {
-    "date": "2024-05-21",
-    "dir": "来",
-    "who": "Alexander",
-    "quote": "350USD?",
-    "why": "价格震惊",
-    "k": "e0da925d78532ec9"
-   },
-   {
-    "date": "2024-05-21",
-    "dir": "来",
-    "who": "Alexander",
-    "quote": "We use Realtek.",
-    "why": "芯片线=真正边界",
-    "k": "011f348307d57fc2"
-   },
-   {
-    "date": "2024-05-21",
-    "dir": "来",
-    "who": "Alexander",
-    "quote": "we don't looking for hi-end solutions, but for reliable, functioanal solution with reasonable price… it will be interesting for me to visit your factory in the October",
-    "why": "定位差 + 来华习惯",
-    "k": "fa125622a89afa47"
-   },
-   {
-    "date": "2024-12-12",
-    "dir": "来",
-    "who": "Alexander",
-    "quote": "Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB.",
-    "why": "要 RMB 价表",
-    "k": "c4b08a47d73f023f"
-   },
-   {
-    "date": "2025-01-03",
-    "dir": "来",
-    "who": "Alexander",
-    "quote": "Thank you, but your prices are too high.",
-    "why": "最后一封来信",
-    "k": "7cb3dfcf81666a75"
-   }
+  "code": "SA-052",
+  "name_official": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd., td-fe.ru, St. Petersburg, Russia）",
+  "website_status": "在线",
+  "summary": "圣彼得堡的 FARADAY 品牌工业电源制造/贸易公司：DIN 导轨开关电源 12–480W（EAC/CE/RoHS，3 年保），面向自动化系统，经 sintsec 等安防分销商销售。用户表：A 优质名单(优质俄罗斯客户)，5 次实质回复，12 次跟进；兴趣工业电源（只要导轨式）、ONV 工业 FS、PoE 配件；联系人 Alexander Rudnev（director）；AI 评 40% B。",
+  "type": "品牌商/贸易公司（电源主业，工业交换机为配套）",
+  "size": "未见人数（中小）",
+  "brands_seen": [
+    "FARADAY",
+    "ONV",
+    "FARADAY F-8xx（自有标交换机）"
   ],
-  "proof_gaps": [
-   "用户表「已卖 ONV 工业 FS」在 S/A 邮箱无成交痕迹",
-   "Simon 2024-04-19 对其称「My factory is in Huiyang district, Huizhou」——与现口径（Engineering & Supply-Chain-First）不同，后续再联系时注意口径一致"
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌 DIN 电源产品线与联系方式",
+      "quote": "240W/48V/DIN. Блок питания FARADAY на DIN рейку разработан ООО \"ТД \"Фарадей Электроникс\" … Сертифицирован (EAC, CE, ROHS) … Гарантия 3 года … +7 (812) 953-13-59 spb@td-fe.ru",
+      "url": "https://td-fe.ru/catalog/ps-on-din-rail/240W_48V_DIN.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "目录含 F-802 / F-812 交换机与 PoE 注入器",
+      "quote": "БП (инжекторы) PoE и сетевое оборудование - Коммутатор F-812 управляемый (L2) - Коммутатор F-802 управляемый … Серия блоков питания на DIN рейку и отдельные другие модели имеют СЕ сертификат",
+      "url": "https://td-fe.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "F-802 规格",
+      "quote": "F-802. Индустриальный управляемый PoE коммутатор на 8 портов РоЕ (100 Мбит/с) + 2 порта Combo (1 Гбит/с)",
+      "url": "https://td-fe.ru/catalog/injector-poe/F-802_ID.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "经销商",
+      "claim": "F-802 PoE 预算与防护",
+      "quote": "Общий бюджет питания PoE — 240 Вт … Поддержка стандартов IEEE 802.3af/at … Крепление на DIN-рейку … Защита IP40 и грозозащита",
+      "url": "https://www.ami-com.ru/catalog/f-802/",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Alexander Rudnev",
+      "role": "Director（用户表）",
+      "email": "air@td-fe.ru",
+      "phone": "+7 812 953 13 59（官网总机）",
+      "source": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx"
+    }
+  ],
+  "notes": "A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v2（官网 td-fe.ru 目录核对）"
+  },
+  "company_facts": {
+    "legal_name": "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd.）",
+    "hq": "圣彼得堡（官网 td-fe.ru）",
+    "other": "自有品牌 FARADAY：DIN 开关电源 12–240W（CE）、UPS（UPS45-12-Slim … UPS 300W/48V）、**PoE 注入器与网络设备：F-802 工业管理型 PoE 交换机（8×FE PoE + 2 Combo GE，PoE 预算 240W，IP40，DIN，防雷）、F-812 管理型 L2**；中俄团队、电子模块合同制造；按客户 TЗ 免费定制电源（批量）"
+  },
+  "business_lines": [
+    "DIN 导轨工业电源（主业）",
+    "配套 ONV 工业 PoE 交换机 / PoE 配件",
+    "FARADAY DIN 电源 / UPS（主业）",
+    "FARADAY PoE 注入器 + 自有标工业 PoE 交换机（F-802 / F-812）",
+    "电子模块合同制造"
+  ],
+  "products_seen": [
+    {
+      "brand": "FARADAY",
+      "model": "DIN 导轨电源 12–480W",
+      "spec": "EAC/CE/RoHS，3 年保",
+      "url": "https://td-fe.ru/",
+      "date": "2026-10（首轮调研）",
+      "saga": "—"
+    },
+    {
+      "brand": "ONV（现来源）",
+      "model": "工业 PoE 交换机（只要导轨式）",
+      "spec": "PoE 配件比较多",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "用户表",
+      "saga": "STI-288DGGPM / STI-144GP"
+    },
+    {
+      "brand": "FARADAY（自有标）",
+      "model": "F-802",
+      "spec": "工业管理型 PoE：8×100M PoE + 2×Combo 1G，PoE 240W，af/at，IP40，DIN，防雷",
+      "url": "https://td-fe.ru/catalog/injector-poe/F-802_ID.html",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM（千兆升级位）"
+    },
+    {
+      "brand": "FARADAY（自有标）",
+      "model": "F-812",
+      "spec": "管理型 L2 交换机（口型未列）",
+      "url": "https://td-fe.ru/",
+      "date": "2026-10-21",
+      "saga": "STI-21616GP（待核口型）"
+    }
+  ],
+  "channels": {
+    "网站": "https://td-fe.ru/（正式域名；faradayelectronics 为品牌名）",
+    "直邮": "air@td-fe.ru（用户表）",
+    "分销": "sintsec 等安防分销"
+  },
+  "signals": [
+    "用户表：优质俄罗斯客户，5 次实质回复——高互动；只要导轨式",
+    "已有自有标 F-802（百兆 PoE）——千兆 Marvell 版 = 现成的 F-8xx 升级 SKU；电源 + 交换机同柜配套是其卖点（2026-10-21）"
+  ],
+  "risks": [
+    "俄罗斯：结算/物流/制裁合规由客户侧安排（Saga 侧无 EAC）；只做 DIN 导轨"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "自有标 FARADAY F-802（8 FE PoE + 2 combo）千兆升级 = STI-288DGGPM，按 F- 命名 OEM；F-812 L2 位待核口型；OEM 30% 档"
+  },
+  "email_hook": "Your F-802 is fast-Ethernet; the Marvell-based 8-port gigabit PoE+ with 2 SFP managed DIN switch would slot in as the F-8xx gigabit step-up in FARADAY packing, EXW, with CE/RoHS files ready.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（两轮询价全部止于价格；2025-01-03 后 21 个月无来信）",
+      "type": "俄罗斯 DIN 电源品牌商（FARADAY）顺带采购工业交换机——**价格流 + Realtek 用户**；执行董事 Alexander Rudnev 直联（有中国手机、每年 4 月香港展 / 10 月来华）",
+      "sieve": "1–2（回信 16 封、给了精确规格；未付样、未走样品）",
+      "stop": "价格 + 芯片线错位：要「8 口 L3 管理 PoE 工业 DIN、watchdog、30W+/口、SFP+RJ45 上联、1G 够」；Simon 报 STI-488XGGPM 350 USD →「price is really high… We have a supplier with much better prices」「We use Realtek」；2024-12 要 RMB EXW 全价表 → 2025-01-03「your prices are too high」",
+      "revive": "只有 Simon 允许用 HRUI/Realtek 线报 DIN 8 口 PoE 管理型（Simon 2024-05-21 自己写过「maybe Marvell is required someday」）；否则按 C6 不设计让价",
+      "lane": "RU：对方要 RMB EXW（可走 RMB / 中国付款代理，同 iotsistem 做法）；物流走其自有渠道",
+      "cadence": "最后来信 2025-01-03；此后 Saga 单向 5 封（Booster / AC5 / 7.5 群发）",
+      "evidence": "k=f09852fb2618788f / 80bdb8e0e1b5a1a5 / e0da925d78532ec9 / 011f348307d57fc2 / c4b08a47d73f023f / 7cb3dfcf81666a75；第 19 批回补来信原文 7 条（gmail_s/gmail_a）"
+    },
+    "situation": "圣彼得堡 FARADAY 电源厂执行董事 Alexander 2023-12 起主动来信 16 封（A 级来信第 7 多），需求极其明确：DIN 导轨 8 口 L3 管理 PoE 工业机带 watchdog。Simon 先后推 24 口 L3、10G L3（360 USD）、L2 130 USD、STI-488XGGPM 350 USD；对方三句话定性——「350USD?」「We use Realtek」「we don't looking for hi-end solutions, but for reliable, functional solution with reasonable price」。2024-12 Simon 给全价表（USD×7.2 折 RMB），2025-01-03 回「prices too high」后再无来信。用户表称「已卖 ONV 工业 FS」，邮件里无成交证据。",
+    "need": "DIN 8 口 PoE（30W+/口）+ SFP/RJ45 上联、L2/L3 管理、watchdog、1G；Realtek 价位（他自己说 8×100M+2 combo 的 L2 款「much cheaper」）。",
+    "breakpoint": "C2 第一道筛子在 2024-05-21 已经把他筛出（Realtek 用户 + 价格优先），但 Saga 又追了 8 个月、给了全价表——投入与筛子结论不一致。真正的边界是芯片线，不是沟通。",
+    "saga_now": {
+      "p1": "不再推 Marvell 10G；若 Simon 决定对俄开 Realtek 线：HRUI 线 DIN 8 口 PoE 管理款（先查 `data/价格主表_HRUI.csv` / `hrui_STC对照表.csv` 有无 L2 管理 + watchdog 的 DIN 款，无则如实说没有）",
+      "tier": 20,
+      "price": "HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价",
+      "why": "C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停",
+      "repeat": [],
+      "gaps": [
+        "是否对俄罗斯客户开 Realtek 线——Simon 定",
+        "HRUI 线有无「8 口 PoE 管理 + watchdog」DIN 款——查规格书再说",
+        "用户表「已卖 ONV 工业 FS」出处（邮件无）"
+      ]
+    },
+    "next_move": {
+      "when": "不主动；他 10 月来华季或下次来信时一句话",
+      "channel": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱",
+      "action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给一行 HRUI 对位款",
+      "one_question": "Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?"
+    },
+    "facts": [
+      {
+        "date": "2023-12-15",
+        "dir": "来",
+        "who": "air@td-fe.ru",
+        "quote": "Dear, Simon ! Send photos of your power supplies, pls. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. <http:",
+        "why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "a91fa31325dbd854"
+      },
+      {
+        "date": "2024-02-27",
+        "dir": "来",
+        "who": "Alexander Rudnev（执行董事）",
+        "quote": "have you 8-port L3 managed PoE industrial switch with Watchdog function?",
+        "why": "需求首次出现",
+        "k": "cc4b73b466fbfdcc"
+      },
+      {
+        "date": "2024-03-19",
+        "dir": "来",
+        "who": "air@td-fe.ru",
+        "quote": "Dear, Simon! Thank you, but we are not interesting commercial switches. Only industrial. With the best wishes, Alexander Rudnev Executive director of",
+        "why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "56443955cea0b28d"
+      },
+      {
+        "date": "2024-04-18",
+        "dir": "来",
+        "who": "air@td-fe.ru",
+        "quote": "Dear, Simon ! Where is your factory placed? Which city, district? With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics",
+        "why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "655b25407f5a1656"
+      },
+      {
+        "date": "2024-04-18",
+        "dir": "来",
+        "who": "air@td-fe.ru",
+        "quote": "Dear, Simon ! Please send datasheet and price. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. www.td-fe.com",
+        "why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "cc6f8ab332164dc1"
+      },
+      {
+        "date": "2024-04-18",
+        "dir": "来",
+        "who": "air@td-fe.ru",
+        "quote": "Dear, Simon ! Thank you, but still misunderstanding. We need industrial PoE switch for DIN-rail, like this: https://wireless-tek.ru/upload/resize_cach",
+        "why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "db027757ebd31a57"
+      },
+      {
+        "date": "2024-05-19",
+        "dir": "来",
+        "who": "air@td-fe.ru",
+        "quote": "Dear, Simon ! This is close to necessary model. This one is 24 ports. Have you same, but 8 ports + UP-Link? With the best wishes, Alexander Rudnev Exe",
+        "why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "0977814d0c88959c"
+      },
+      {
+        "date": "2024-05-20",
+        "dir": "来",
+        "who": "air@td-fe.ru",
+        "quote": "Dear Simon! What price of this one, and have you similar, but 1G speed only? With the best wishes, Alexander Rudnev Executive director of TH Faraday E",
+        "why": "来信原文（主题「Re: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "13f234fc6fab9e63"
+      },
+      {
+        "date": "2024-05-21",
+        "dir": "来",
+        "who": "Alexander",
+        "quote": "One more time. We need 8-port L3 managed PoE industrial switch with Watchdog function. 30W+ per port. SFP+RG45 up-links. 1G speed is enough.",
+        "why": "规格定稿",
+        "k": "f09852fb2618788f"
+      },
+      {
+        "date": "2024-05-21",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "Best unit price STI-488XGGPM 350usd/pc… Please do not JUST compare the price with Realtek solution, it is not the same thing.",
+        "why": "Saga 报价与定位",
+        "k": "80bdb8e0e1b5a1a5"
+      },
+      {
+        "date": "2024-05-21",
+        "dir": "来",
+        "who": "Alexander",
+        "quote": "350USD?",
+        "why": "价格震惊",
+        "k": "e0da925d78532ec9"
+      },
+      {
+        "date": "2024-05-21",
+        "dir": "来",
+        "who": "Alexander",
+        "quote": "We use Realtek.",
+        "why": "芯片线=真正边界",
+        "k": "011f348307d57fc2"
+      },
+      {
+        "date": "2024-05-21",
+        "dir": "来",
+        "who": "Alexander",
+        "quote": "we don't looking for hi-end solutions, but for reliable, functioanal solution with reasonable price… it will be interesting for me to visit your factory in the October",
+        "why": "定位差 + 来华习惯",
+        "k": "fa125622a89afa47"
+      },
+      {
+        "date": "2024-12-12",
+        "dir": "来",
+        "who": "Alexander",
+        "quote": "Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB.",
+        "why": "要 RMB 价表",
+        "k": "c4b08a47d73f023f"
+      },
+      {
+        "date": "2025-01-03",
+        "dir": "来",
+        "who": "Alexander",
+        "quote": "Thank you, but your prices are too high.",
+        "why": "最后一封来信",
+        "k": "7cb3dfcf81666a75"
+      }
+    ],
+    "proof_gaps": [
+      "用户表「已卖 ONV 工业 FS」在 S/A 邮箱无成交痕迹",
+      "Simon 2024-04-19 对其称「My factory is in Huiyang district, Huizhou」——与现口径（Engineering & Supply-Chain-First）不同，后续再联系时注意口径一致"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

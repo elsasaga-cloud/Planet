@@ -1,114 +1,131 @@
 {
- "code": "SB-325",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（th-it.com，快照 2026-10-21）",
- "summary": "马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。",
- "type": "IT 设备租赁商（马来西亚）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server ；品类词 无线 / WiFi",
-   "quote": "Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.",
-   "url": "https://www.th-it.com/",
-   "date": "2026-10-21"
+  "code": "SB-325",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（th-it.com，快照 2026-10-21）",
+  "summary": "马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。",
+  "type": "IT 设备租赁商（马来西亚）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server ；品类词 无线 / WiFi",
+      "quote": "Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.",
+      "url": "https://www.th-it.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业POE；邮件中有详细的联系信息",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "TH IT 定位",
+      "quote": "Notebook, Laptop & Computer Rental Selangor ; Specializes in providing short- and long-term IT equipment rental",
+      "url": "https://www.th-it.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE",
+      "quote": "商业POE；邮件中有详细的联系信息",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Lee",
+      "title": "（职务待核）",
+      "email": "inquiry@th-it.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业POE；邮件中有详细的联系信息",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "马来西亚",
+    "other": "官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "TH IT 定位",
-   "quote": "Notebook, Laptop & Computer Rental Selangor ; Specializes in providing short- and long-term IT equipment rental",
-   "url": "https://www.th-it.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "IT 设备租赁（马来西亚）"
+  ],
+  "channels": {
+    "role": "IT 设备租赁商（马来西亚）",
+    "region": "马来西亚",
+    "contact": "inquiry@th-it.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE",
-   "quote": "商业POE；邮件中有详细的联系信息",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector…；页面 /photoalbum/id/19545/refurbish-product/",
+    "表内：商业 POE；邮件中有详细的联系信息；KP Lee"
+  ],
+  "risks": [
+    "租赁业务（采购不规律、量小）；非主攻区（T5，马来西亚）；未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
+  },
+  "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达→拒（2024-07-29「sorry, no need」）",
+      "type": "马来西亚 IT 租赁商（TH-IT）",
+      "sieve": "1",
+      "stop": "明确不需要",
+      "revive": "不动",
+      "lane": "MY",
+      "cadence": "不动",
+      "evidence": "k=79b10682153051b0；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-07-29",
+        "dir": "来",
+        "who": "inquiry@th-it.com",
+        "quote": "sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Offic",
+        "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "79b10682153051b0"
+      },
+      {
+        "date": "2024-09-09",
+        "dir": "来",
+        "who": "inquiry@th-it.com",
+        "quote": "Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268",
+        "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "8ceb773d69d13c9f"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Lee",
-   "title": "（职务待核）",
-   "email": "inquiry@th-it.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "马来西亚",
-  "other": "官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "IT 设备租赁（马来西亚）"
- ],
- "channels": {
-  "role": "IT 设备租赁商（马来西亚）",
-  "region": "马来西亚",
-  "contact": "inquiry@th-it.com"
- },
- "signals": [
-  "官网：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector…；页面 /photoalbum/id/19545/refurbish-product/",
-  "表内：商业 POE；邮件中有详细的联系信息；KP Lee"
- ],
- "risks": [
-  "租赁业务（采购不规律、量小）；非主攻区（T5，马来西亚）；未跟进过"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
- },
- "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达→拒（2024-07-29「sorry, no need」）",
-   "type": "马来西亚 IT 租赁商（TH-IT）",
-   "sieve": "1",
-   "stop": "明确不需要",
-   "revive": "不动",
-   "lane": "MY",
-   "cadence": "不动",
-   "evidence": "k=79b10682153051b0"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

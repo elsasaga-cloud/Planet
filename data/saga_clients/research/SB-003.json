@@ -103,7 +103,7 @@
       "revive": "一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品",
       "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
       "cadence": "现在一封 OEM 价表；之后季度",
-      "evidence": "k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）"
+      "evidence": "k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。",
     "need": "OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。",
@@ -149,6 +149,14 @@
         "quote": "We species with video over IP , we must have IGMP protocol, it is mandatory.",
         "why": "硬门槛",
         "k": "dc22cb3479825c92"
+      },
+      {
+        "date": "2025-11-28",
+        "dir": "来",
+        "who": "stan@thorfiber.com",
+        "quote": "Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@g",
+        "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "92ccd99bae9b2cff"
       },
       {
         "date": "2025-12-01",

@@ -793,7 +793,7 @@
 "revive": "不需要复活，需要「问结果」：样品是否通过规格/样品审批；若没中，输给了谁、差在哪（-20~+65℃ 是其规格，Saga 给的是 -40~+75℃，温度不是问题；PSU 要 DIN 导轨——已给 Meanwell）",
 "lane": "AE 非主攻——但这是成单 + 标书户，按 J5 不看地区看证据",
 "cadence": "现在一句话（距付款 11 个月）；之后每季度一次，只谈标书与复购",
-"evidence": "k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）"
+"evidence": "k=4911955d4797da97 / 5ed4454b3d299f1d / f7eeb34e0ebf238b（2024-06 身份与芯片原话）；ca2fc1d1b52d5bb7 / 13c00bbc4cc5b9d8（2025-04 三款询价 → STI-244DGGPM $110 / STI-288DGGPM $125）；3ef374eddbbcccae（2025-10 要 QC/测试实验室照片）；4aabcfb3fec906ec（2025-11-24 标书 1,000 pcs）；ccb8973fe01fa794 / 64602c769ad83ca4 / 602605b78b95b93c（「no proper model, just something close」→ STI-140GE $30 含双纤模块 → HDR-15-24 $10）；05f51c687ba38b88 / 5ec435ffe9b9305e / 0cc642cb3b5505fb（样品 PayPal、发票、付款）；PI STAG20251127018（$166；成本统计：收 1,201.75 RMB / 成本 934 / 利润 267.75）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "Sanjay 是两年里一步一步走完筛子的人：2024-06 问 2.5G SFP 环网 + 120W 电源，Simon 直说「honestly we are a trading company… realtek chip」，他没走；2025-04 一次问三款（4/8/12+ 口 PoE 带 NMS 口）并问质保与测试证书，Simon 报 $110/$125；2025-10 要 QC 实验室照片和 PDF 目录；2025-11-24 拿出一张标书：带 4 口交换的 MC、SC/PC 双纤、-20~+65℃，中标可到 1,000 pcs，流程「规格审批 → 样品审批 → 供货」。Alan 先说没有正好的型号，再给 STI-140GE $30（含双纤模块）与 DIN 导轨 Meanwell 电源 $10；Sanjay 当天要 2+2 台样品、PayPal、发广州货代，并要 WeChat 快速沟通——Alan 把 WeChat 交给 Simon。12-01 付款。之后邮件无一封：标书结果、样品评测、1,000 台——仓库全无。",
 "need": "标书：工业 MC/4 口交换（1 光 SC/PC + 4 电，非 PoE，非管理，-20~+65℃）+ DIN 电源；日常：工业 PoE 整线替代其在售 ONV（研究档）。",
@@ -834,6 +834,14 @@
 "quote": "For approval/certification, honestly we are a trading company. For the switch, there is CE, FCC, RoHS… realtek chip",
 "why": "身份与芯片实话——对方没走",
 "k": "f7eeb34e0ebf238b"
+},
+{
+"date": "2025-01-06",
+"dir": "来",
+"who": "navsim@eim.ae",
+"quote": "Hello MR Simon May we have your website URL or PDF catalogue to see the products in detail. Thanks and best regards Sanjay Singla General Manager ASTE",
+"why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "f18cc2e1fa27d344"
 },
 {
 "date": "2025-04-28",
@@ -900,20 +908,20 @@
 "k": "5ec435ffe9b9305e"
 },
 {
-"date": "2025-12-01",
-"dir": "来",
-"who": "Sanjay",
-"quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
-"why": "付款；邮件到此为止",
-"k": "0cc642cb3b5505fb"
-},
-{
 "date": "2025-11-27",
 "dir": "PI",
 "who": "Simon → Astel",
 "quote": "STI-110GE 2×26.5 + STI-140GE 2×30 + 运费 5 + PayPal 8 = 166 USD；成本统计：总收款 1,201.75 RMB，成本 934，利润 267.75",
 "why": "样品单经济账",
 "k": "PI STAG20251127018"
+},
+{
+"date": "2025-12-01",
+"dir": "来",
+"who": "Sanjay",
+"quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
+"why": "付款；邮件到此为止",
+"k": "0cc642cb3b5505fb"
 }
 ],
 "proof_gaps": [
@@ -1289,7 +1297,7 @@
 "revive": "Saga 交换机能被其 NMS 发现/诊断（SNMP/CLI/OID）——固件侧问题；Simon 2026-07-21 已给 130 USD 的 Marvell 对位款（同 CRS326 档），等 Frank 测",
 "lane": "US；WhatsApp 为主（2024-12-05 起）",
 "cadence": "2024-12 → 2026-09 去信 25 封；最后实质来信 2026-07-20",
-"evidence": "k=95d30a86d792cc0d / d83e2c902092c388 / a5829330c3f7b38f / 5ad38241fd821cfe / 06610cfbde4173c3"
+"evidence": "k=95d30a86d792cc0d / d83e2c902092c388 / a5829330c3f7b38f / 5ad38241fd821cfe / 06610cfbde4173c3；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "Frank Neuperger 2024-12 一周内连问 5 封（管理？OS？每口功率？250 m 怎么跑以太网？56V 行不行？「Do you work for Saga Telecom?」），Simon 答「Saga Telecom is my sister's… 56V OK」后转 WhatsApp；用户表记成单。2026-07-20 Frank 的长信是 A 级里最有信息量的一封：他们私标 Mikrotik、靠 API 做云 NMS 和脚本增值、成本 90–120 美元，问 Saga 交换机能做什么 MT 做不到的。Simon 次日给了 130 USD 的 Marvell 24 口（与 CRS326 同级）。",
 "need": "6/12/24 口加固管理交换机，能进其 NMS（API/SNMP 发现 + 吞吐测试），56V PoE，成本 ≤$120 级。",
@@ -1321,6 +1329,14 @@
 "k": "95d30a86d792cc0d"
 },
 {
+"date": "2024-12-05",
+"dir": "来",
+"who": "frank@simrex.com",
+"quote": "Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fank Frank N",
+"why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "beb1989d2b8314a0"
+},
+{
 "date": "2024-12-06",
 "dir": "来",
 "who": "Frank",
@@ -1335,6 +1351,14 @@
 "quote": "Saga Telecom is my sister's. I deal with foreign trade only… 56V is OK. For PoE models, the max input is 57V",
 "why": "身份口径（历史）",
 "k": "a5829330c3f7b38f"
+},
+{
+"date": "2024-12-12",
+"dir": "来",
+"who": "frank@simrex.com",
+"quote": "Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP etc. Frank Frank Neuperger Simrex Corporat",
+"why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "19b86efa448c3a2c"
 },
 {
 "date": "2026-07-20",
@@ -2930,7 +2954,7 @@
 "revive": "ISP 下一代（10G/2.5G 接入）招标时 Saga 有 Realtek 多千兆低价机（HRUI 线）或 CENTEC 高速机可报；2026-06-22 对方礼貌回复仍在线",
 "lane": "SG 已通（PayPal/T/T、顺丰/DHL）",
 "cadence": "最后 2026-09-21 Simon 推 24 口 PoE $180（无回）；对方最后实质来信 2025-11-11；实质往来 2024 → 2025-11，来 36 封",
-"evidence": "S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423"
+"evidence": "S 邮箱 k=fd9c27052dfa1bd1 / a28f30c8f3795eea / 2c2282af0677f30a / c277ca62ea0df0da / b26aafe834fa3423；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
 "situation": "新加坡 Resonant Networks（Au Wai Choon、Hairomee）2025-03 ISP 测试 10G MultiGig 通过，要捆绑低价 IP 摄像头「thousands together with the switch」；7 月客户评估拖延、嫌贵（附 TP-Link 多千兆零售价）；11-11「lost to TP-Link… about half the buy price from you」；Simon 答 $100/台做不到。2026-02/06/09 Simon 三次推送，6-22 对方仅礼貌回复。**B 级里来信最多的户，走完了验证却败在 Marvell 与 TP-Link 的价差上。**",
 "need": "ISP 家用/SOHO 10G MultiGig（100M–10G）接入交换机 + 捆绑摄像头，量级千台，目标成本 ≈ TP-Link 零售价的一半以下。",
@@ -2952,6 +2976,70 @@
 "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
 },
 "facts": [
+{
+"date": "2024-07-02",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Hi Simon, How much is it? Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantne",
+"why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "e14599fb95e788eb"
+},
+{
+"date": "2024-07-03",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Hi Simon, Do you have tests done that it can switch automatically between 1G, 2.5, 5 and 10G when it connects to different type of devices? If yes, pl",
+"why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "0c1c68685677a0aa"
+},
+{
+"date": "2024-07-03",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Hi Simon, Excellent! I’m looking forward to the 5-port Multi-Gig switch. We intend to sell to ISP (Internet Service Providers) in Singapore and Malays",
+"why": "来信原文（主题「10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "28da2be220e94209"
+},
+{
+"date": "2024-07-03",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Hi Simon, Thank you for your fast response. Kindly confirm the ports can support 5Gbps too. I check your specs, see below (orange highlight say can su",
+"why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "a943a224caffa1ed"
+},
+{
+"date": "2024-07-03",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Hi Simon, 1) Purpose: We are looking for 2x10G Ethernet UTP (Copper) port with 2 x2.5G Ethernet UTP ports switch. See here: https://shopee.sg/OWC-THUN",
+"why": "来信原文（主题「Re: 2.5G switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "ce207bc45a47a708"
+},
+{
+"date": "2024-07-04",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Thank you Simon! Best regards, Wai Choon, Au Resonant Networks Pte Ltd | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantnetworks.co",
+"why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "2bdbd0b1a6955e9b"
+},
+{
+"date": "2024-07-04",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Hi Simon, Impressive and comprehensive test doc. Thank you so much. The 5-port 10GE UTP switch, what will be the FOB price? As for the 8-port 10G UTP",
+"why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "ae618b2e793c520d"
+},
+{
+"date": "2024-07-19",
+"dir": "来",
+"who": "auwc@resonantnetworks.com",
+"quote": "Hi Simon, Do you have managed switch for 8 x 10G RJ45? As for STC-08XGE: 8x10G RJ45, downward compatible(100M/1G/2.5G/5G), Non-PoE, unmanaged, AC inpu",
+"why": "来信原文（主题「Re: 10G MultiGig switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "3df6ebcc3c4bfc5f"
+},
 {
 "date": "2025-03-14",
 "dir": "来",
@@ -5248,7 +5336,7 @@
 "grade_override": "A",
 "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
 "mail_review": {
-"as_of": "2026-10-22",
+"as_of": "2026-10-24",
 "situation": "Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。",
 "need": "① 给自家 Vi-Link 品牌补齐 OEM 产品线：媒体转换器（10/100、千兆、10G）、机架（MC1400 14 槽）、光口交换机；② 终端客户不要 DIP 拨码（2026-09-01：『My customer didn't like the DIP switches』）→ 要**纯净外观 + 全白顶盖可丝印**；③ 刚表达对商用 24 口 PoE 交换机（STC-424XGGPM-280W）的兴趣，问的是「our cost」= 经销成本价。",
 "breakpoint": "09-27 的回复只给了 RMB 单价，没有 USD、没有 MOQ/样品/交期、没有问用途；之后 S 邮箱无来往。另一个隐患：2026-09-08 新批次外壳顶盖带印刷字（『It will look like I use some one products, and it will be off the OEM purposed』）——下次下单前要先确认外壳是否仍为全白。",
@@ -5363,7 +5451,7 @@
 "revive": "补 USD 报价 + 样机（草稿已备）",
 "lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
 "cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
-"evidence": "S 邮箱往来 + PI 包（见下表 facts）"
+"evidence": "S 邮箱往来 + PI 包（见下表 facts）；第 19 批回补来信原文 0 条（gmail_s/gmail_a）"
 }
 },
 "watch": {
@@ -5732,7 +5820,7 @@
 "revive": "对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10）",
 "lane": "UK 已通（T/T $500 2025-08，DHL）",
 "cadence": "最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮",
-"evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+"evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "英国 Go Green IT（Chris，德比 DE22）2025-06 回群发，问 **STI-41616XGGPM-4BT** 能否在 48 V LiFePO4（峰值 56.6 V）系统上跑；8 月改要 L3/24 口版（差 $20 即升级）、问 DI/DO/RS485；8-23 付款 $500 → 9-08 收货「looks in good order」→ 11-23 已接入生产（10 Mbps 老设备正常，胜过原 Linovision）→ 2026-03-13 报 SSH `xterm-256color` 终端类型 bug → 3-19 报 PoE 不出电（电池系统停机数月后）并附 `backup-GreenhouseSwitch2-…-diag.tar.bz2` → 4-27 再发截图 → Alan 5-20「Any update?」无回。**走完全流程的技术型小客户，正处在「问题未闭环」状态。**",
 "need": "① 已买：STI 系列 16 口工业 L2+/L3 PoE（4×BT），DC 48 V 电池供电，SFP 1G/10G；② 要 DI/DO/RS485（当时 16/24 口没有，8 口有）；③ 想要的是**能在离网电池系统稳定工作的 PoE 交换机**——PoE 在低压/重启后的行为是他的核心关切。",
@@ -5757,6 +5845,14 @@
 "one_question": "Did the PoE ports come back after you upgraded to 7.5, or is the issue still reproducible on battery power?"
 },
 "facts": [
+{
+"date": "2025-06-10",
+"dir": "来",
+"who": "info@gogreenit.net",
+"quote": "Hi Alan, Yes, this could be potentially useful. Do you have any more details? I am assuming your website isn't sagatelecom.com, as I couldn't find any",
+"why": "来信原文（主题「Re: 90W PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "4293e7563200b9b8"
+},
 {
 "date": "2025-06-11",
 "dir": "来",
@@ -6329,7 +6425,7 @@
 "revive": "已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？）",
 "lane": "DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术）",
 "cadence": "最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无",
-"evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792"
+"evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
 "situation": "NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。",
 "need": "① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。",
@@ -6356,6 +6452,70 @@
 "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
 },
 "facts": [
+{
+"date": "2024-11-15",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "Hello Simon, thank you for the datasheets. Are these units available with dual AC input too? Can you share on which Marvel Chip + management CPUs with",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "72bbfb66a5dc2115"
+},
+{
+"date": "2024-11-15",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "Hello Simon, do you have a 24/48 x SFP version and a non PoE 24/48 BASE-T version too? We’re also looking for a low cost 10G switches with 100G uplink",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "709eb72c74251c3c"
+},
+{
+"date": "2024-11-19",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "Hello Simon, you’re right about the Switch ICs BDCOM uses. I’m not aware of any marvel switches made by BDCOM. They also develop their OS in house and",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "bb48b4bc9c0ee4fc"
+},
+{
+"date": "2024-11-19",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "Hello Simon, thank you for the offer but with these prices it doesn’t make much sense to try them. We’re currently using BDCOM switches which are chea",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "2c73370ad9f9cefb"
+},
+{
+"date": "2024-11-20",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "4*1G/2.5G/10G+24*1G Ethernet(PoE optional) 150usd/pc for non-PoE model Is there a SFP version available too? Best Regards Frederik Kriewitz NYNEX sate",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "74aac1949ef29187"
+},
+{
+"date": "2024-11-21",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "We can test both: 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo, L2+ managed, Dual AC input 4*1G/2.5G/10G+24*1G Ethernet, L2+ managed, Dual AC input",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "0ff5029dc9b104bb"
+},
+{
+"date": "2024-11-21",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "Ok, please send a quote/invoice for one sample unit for the 24 port BASE-T and SFP switches. Are we the first one asking for the dual AC model? Do you",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "aa2f0df9e1b26eee"
+},
+{
+"date": "2024-11-21",
+"dir": "来",
+"who": "f.kriewitz@nynex.de",
+"quote": "Hello Simon, ok, what would be the extra costs for the 2 AC version? Best Regards Frederik Kriewitz NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Dar",
+"why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "efebdbab211ca5a4"
+},
 {
 "date": "2025-03-26",
 "dir": "来",
@@ -10444,7 +10604,7 @@
 "revive": "其 2.5G 产品线补 SKU；台湾客户非主攻",
 "lane": "TW",
 "cadence": "2024-06 → 2026-09 去信 26 封；最后实质来信 2024-08-15",
-"evidence": "k=a3c986b6ffa372aa / 1d7b74c6c5e4034f / f8c4407a865d3647"
+"evidence": "k=a3c986b6ffa372aa / 1d7b74c6c5e4034f / f8c4407a865d3647；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "Johnson（ALFA）2024-08-15 回：请提供公司资料、非 PoE 与 PoE 的价格。Simon 当天报 2.5G 8 口 +1×10G SFP 非 PoE 50 USD / PoE 65 USD（Realtek 线），并附公司简介；对方静默。2025-07 Sandy Chien 回了一个「Thanks」。",
 "need": "2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。",
@@ -10479,6 +10639,14 @@
 "quote": "non-PoE model, 50Usd/pc STC-18XGDGE… PoE model, 65usd/pc STC-108XGDGP… Company information Please see attached profile",
 "why": "报价",
 "k": "1d7b74c6c5e4034f"
+},
+{
+"date": "2025-07-28",
+"dir": "来",
+"who": "sandy_chien@alfa.com.tw",
+"quote": "Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc01.",
+"why": "来信原文（主题「Re: 16 Port Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "f8c4407a865d3647"
 }
 ],
 "proof_gaps": [],
@@ -18477,7 +18645,7 @@
 "revive": "只有 Mark 接受 CENTEC 全 L3（OSPF/BGP/MPLS/VXLAN）——Alan 2026-01-16 的 CENTEC 推介无回复；Saga 无 Broadcom 货源",
 "lane": "US",
 "cadence": "2024-05 → 2026-02 去信 21 封；最后来信 2025-04-28",
-"evidence": "k=d0066f467b2afcd7 / 185a3765640a0e3f / 5f00be3e081f8769 / 898769c94b9fc197 / eb80eea25e1a3bb5 / e8d9d485eebf828f / 231c410bdb6b62d3"
+"evidence": "k=d0066f467b2afcd7 / 185a3765640a0e3f / 5f00be3e081f8769 / 898769c94b9fc197 / eb80eea25e1a3bb5 / e8d9d485eebf828f / 231c410bdb6b62d3；第 19 批回补来信原文 3 条（gmail_s/gmail_a）"
 },
 "situation": "Mark 是少数主动说「buying in bulk」的美国品牌商：2024-05 要 32 口全 L3 机架（8 光 24 电 + QSFP+），2025-01 看中 12 光 24 电款要规格书、问「all 10 gig fiber 1g/2.5g/10g」，然后连问三次 Broadcom。Simon 先给 CENTEC（「a good domestic brand」）、再临时找了两款 Broadcom 全光报 1,000/4,000 USD，Alan 最后定调「we focus on Marvell」。2026-01 Alan 再推 CENTEC 核心机，无回。",
 "need": "全 L3 10G 光口交换机（批量），芯片 Broadcom；ITS 加固。",
@@ -18508,6 +18676,22 @@
 "k": "d0066f467b2afcd7"
 },
 {
+"date": "2025-01-26",
+"dir": "来",
+"who": "mark@expresssupply.net",
+"quote": "WE would not be interested in this switch . However, we are looking for another vendor to supply us some full layer 3 switches",
+"why": "来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "e17a1b0f28d7f22f"
+},
+{
+"date": "2025-01-27",
+"dir": "来",
+"who": "mark@expresssupply.net",
+"quote": "it appears you have a 12 fiber 24 copper. Can you send me a spec sheet on this one -- With kind regards, Mark Express Supply Inc. 407-497-8614 Hardene",
+"why": "来信原文（主题「Re: 48 Port SFP Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "77637aa387e80868"
+},
+{
 "date": "2025-01-28",
 "dir": "来",
 "who": "Mark",
@@ -18530,6 +18714,14 @@
 "quote": "I got 2 models for you, Broadcom chipset. 1, 1000usd/pc, 2*40G+24*10G… 2, 4000usd/pc, 6*40G+48*10G",
 "why": "破例找货（来源未入库）",
 "k": "eb80eea25e1a3bb5"
+},
+{
+"date": "2025-03-03",
+"dir": "来",
+"who": "mark@expresssupply.net",
+"quote": "We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened Networks / ITS Express Switches and Adv",
+"why": "来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "c7ad8300f3fcf7eb"
 },
 {
 "date": "2025-04-28",
@@ -23842,7 +24034,7 @@
 "revive": "只有 Simon 允许用 HRUI/Realtek 线报 DIN 8 口 PoE 管理型（Simon 2024-05-21 自己写过「maybe Marvell is required someday」）；否则按 C6 不设计让价",
 "lane": "RU：对方要 RMB EXW（可走 RMB / 中国付款代理，同 iotsistem 做法）；物流走其自有渠道",
 "cadence": "最后来信 2025-01-03；此后 Saga 单向 5 封（Booster / AC5 / 7.5 群发）",
-"evidence": "k=f09852fb2618788f / 80bdb8e0e1b5a1a5 / e0da925d78532ec9 / 011f348307d57fc2 / c4b08a47d73f023f / 7cb3dfcf81666a75"
+"evidence": "k=f09852fb2618788f / 80bdb8e0e1b5a1a5 / e0da925d78532ec9 / 011f348307d57fc2 / c4b08a47d73f023f / 7cb3dfcf81666a75；第 19 批回补来信原文 7 条（gmail_s/gmail_a）"
 },
 "situation": "圣彼得堡 FARADAY 电源厂执行董事 Alexander 2023-12 起主动来信 16 封（A 级来信第 7 多），需求极其明确：DIN 导轨 8 口 L3 管理 PoE 工业机带 watchdog。Simon 先后推 24 口 L3、10G L3（360 USD）、L2 130 USD、STI-488XGGPM 350 USD；对方三句话定性——「350USD?」「We use Realtek」「we don't looking for hi-end solutions, but for reliable, functional solution with reasonable price」。2024-12 Simon 给全价表（USD×7.2 折 RMB），2025-01-03 回「prices too high」后再无来信。用户表称「已卖 ONV 工业 FS」，邮件里无成交证据。",
 "need": "DIN 8 口 PoE（30W+/口）+ SFP/RJ45 上联、L2/L3 管理、watchdog、1G；Realtek 价位（他自己说 8×100M+2 combo 的 L2 款「much cheaper」）。",
@@ -23867,12 +24059,68 @@
 },
 "facts": [
 {
+"date": "2023-12-15",
+"dir": "来",
+"who": "air@td-fe.ru",
+"quote": "Dear, Simon ! Send photos of your power supplies, pls. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. <http:",
+"why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "a91fa31325dbd854"
+},
+{
 "date": "2024-02-27",
 "dir": "来",
 "who": "Alexander Rudnev（执行董事）",
 "quote": "have you 8-port L3 managed PoE industrial switch with Watchdog function?",
 "why": "需求首次出现",
 "k": "cc4b73b466fbfdcc"
+},
+{
+"date": "2024-03-19",
+"dir": "来",
+"who": "air@td-fe.ru",
+"quote": "Dear, Simon! Thank you, but we are not interesting commercial switches. Only industrial. With the best wishes, Alexander Rudnev Executive director of",
+"why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "56443955cea0b28d"
+},
+{
+"date": "2024-04-18",
+"dir": "来",
+"who": "air@td-fe.ru",
+"quote": "Dear, Simon ! Where is your factory placed? Which city, district? With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics",
+"why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "655b25407f5a1656"
+},
+{
+"date": "2024-04-18",
+"dir": "来",
+"who": "air@td-fe.ru",
+"quote": "Dear, Simon ! Please send datasheet and price. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. www.td-fe.com",
+"why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "cc6f8ab332164dc1"
+},
+{
+"date": "2024-04-18",
+"dir": "来",
+"who": "air@td-fe.ru",
+"quote": "Dear, Simon ! Thank you, but still misunderstanding. We need industrial PoE switch for DIN-rail, like this: https://wireless-tek.ru/upload/resize_cach",
+"why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "db027757ebd31a57"
+},
+{
+"date": "2024-05-19",
+"dir": "来",
+"who": "air@td-fe.ru",
+"quote": "Dear, Simon ! This is close to necessary model. This one is 24 ports. Have you same, but 8 ports + UP-Link? With the best wishes, Alexander Rudnev Exe",
+"why": "来信原文（主题「RE: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "0977814d0c88959c"
+},
+{
+"date": "2024-05-20",
+"dir": "来",
+"who": "air@td-fe.ru",
+"quote": "Dear Simon! What price of this one, and have you similar, but 1G speed only? With the best wishes, Alexander Rudnev Executive director of TH Faraday E",
+"why": "来信原文（主题「Re: Din power supply」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "13f234fc6fab9e63"
 },
 {
 "date": "2024-05-21",
@@ -29137,7 +29385,7 @@
 "revive": "① 他有非 GSA（商业/州县）项目需要 8 口加固 PoE；② 或他问「TAA 怎么解」——Saga 没有台湾/越南产线，不能承诺，只能老实说",
 "lane": "US 已通（PayPal 5%、DHL/UPS DAP；弗吉尼亚 Woodbridge）",
 "cadence": "最后 2026-08-14 Alan 推 24 口 PoE（无回）；对方最后来信 2025-07-24；实质往来 2025-07-11 → 07-24，14 轮两周内完成",
-"evidence": "A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+"evidence": "A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；第 19 批回补来信原文 6 条（gmail_s/gmail_a）"
 },
 "situation": "美国 52 Networks（John Davis，Director Sales，VA）2025-07-11 回群发问「anything similar to」他附的 1U 非管理机 → 两天内问价、问含电源价 → 7-17 要 2 台样机 + PayPal 链接 → 7-18 付款 → 7-22/23 催货 → 7-24「Thanks」后沉默。**典型美国转售商试样：两周内付钱，之后没有项目就没有声音。**",
 "need": "① 8 口工业 PoE（附 1U 非管理机图样，可能是替代某现有 SKU）；② 含电源整套报价；③ 快（反复问 how soon）。",
@@ -29200,6 +29448,54 @@
 "quote": "I just made the payment",
 "why": "PayPal 成交",
 "k": "41a1bbbe8f213553"
+},
+{
+"date": "2025-07-22",
+"dir": "来",
+"who": "sales@52networks.com",
+"quote": "Any update on this order? On Fri, 18 Jul 2025 at 17:24, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+"why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "1efcd4112e235525"
+},
+{
+"date": "2025-07-22",
+"dir": "来",
+"who": "sales@52networks.com",
+"quote": "Ok, thank you. On Tue, 22 Jul 2025 at 15:11, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+"why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "c8f0a3a982283253"
+},
+{
+"date": "2025-07-23",
+"dir": "来",
+"who": "sales@52networks.com",
+"quote": "some time yes, it depends *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networks.com <leo.marcus@52networks.com>* *Di",
+"why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "3c2e3b190382aab6"
+},
+{
+"date": "2025-07-23",
+"dir": "来",
+"who": "sales@52networks.com",
+"quote": "Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networ",
+"why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "4c795d0602544325"
+},
+{
+"date": "2025-07-23",
+"dir": "来",
+"who": "sales@52networks.com",
+"quote": "Thanks, I will let you know. On Wed, 23 Jul 2025 at 19:00, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+"why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "b54e8de1cb453b98"
+},
+{
+"date": "2025-07-24",
+"dir": "来",
+"who": "sales@52networks.com",
+"quote": "Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+"why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "3e1537243520fa28"
 },
 {
 "date": "2026-08-14",
@@ -30628,7 +30924,7 @@
 "revive": "只发工业温度款并把温度行放在第一句：STI-480XGGM（LT-IS6312XG-4XS8GT，8GE+4×10G SFP+，-40~+75℃）/ STI-448XGGGM（LT-IS6316XG-4XS4GX8GT）；不承诺 TAA/NSA/UL",
 "lane": "US（关税自理；无 UL）",
 "cadence": "2024-07 → 2026-09 去信 29 封（每 1–2 月一封群发）；最后人工来信 2026-06-01",
-"evidence": "k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791"
+"evidence": "k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791；第 19 批回补来信原文 0 条（gmail_s/gmail_a）"
 },
 "situation": "DYMEC 是最符合 Saga「自有品牌工业交换机」画像的美国客户之一，Thom Sherer 两年里回了 4 次，每次都是一句话把 Saga 发去的型号否掉：PoE 预算太低、不是我们的市场、工作温度不够。2026-05-29 他主动问「What is the operating temp?」，Alan 答「0ºC to 40ºC」（那封群发是商用 10G L3）→「does not go high enough」。Saga 工业系列全部 -40~+75℃，但从未把工业 10G 款发给他。",
 "need": "ITS 机柜用工业温度 L2/L3 交换机（10G 上联、PoE bt、DIN/机架），部分 SKU 要 TAA；经济线在用 Vitesse。",
@@ -32872,7 +33168,7 @@
 "revive": "只有当 Saga 愿意用 Realtek/HRUI 线报 DIN 10/100 低价机（偏离 Marvell 口号）或里拉企稳；否则按 C6 不设计让价",
 "lane": "TR 已通（但对方要人民币/中国付款代理，2026-09-18 Alan 已按 RMB 报）",
 "cadence": "最后 2026-09-18 Alan 报 1,100 RMB/台（16 口 DIN PoE）；来信 19 封（A 邮箱最多之一）但零成交",
-"evidence": "A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+"evidence": "A 邮箱 k=19bc7eefb231ce4a / 0a2e19b099bda25c / d88199ef36ad9a1d / faed82fe02dfeb95 / 48f91a073d0f4e97；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
 "situation": "土耳其 iotsistem（Berk）是 A 邮箱来信第二多的客户（19 封）但是典型价格流：2024-05 S 邮箱「price higher than expected」；2026-01 要目录价表；2026-05 要 DIN 版、要改成 10/100 铜口、「special price」、「extremely expensive」；2026-06 明说终端客户永远选便宜的 10/100；2026-08 24 口 PoE 管理型「huge expensive」要回到上次非管理价；Alan 9-03「our offer is almost the best… 120USD/PC for 24 port unmanaged」；9-18 16 口 DIN PoE 报 1,100 RMB。**两年没有一次走到样品。**",
 "need": "DIN 导轨、8–24 口 10/100（最多千兆）+ 2 光口 SC（多模 2 km / 单模 20–80 km）、非管理或轻管理、尽可能便宜；本质是 Realtek 级规格。",
@@ -32904,6 +33200,30 @@
 "k": "19bc7eefb231ce4a"
 },
 {
+"date": "2026-01-29",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi I’m fine, Could you send to catalouge pdf and price list too?= We can check to device deeply, Thank you, Berk Very Best Regards…",
+"why": "来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "de3f311cbf2fca6c"
+},
+{
+"date": "2026-05-20",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi Alan, We only need to Copper port no need to Sfp port? Just 1 -2 sfp is enough other’s must be copper port 10/100Mbps. Do you understand what are n",
+"why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "e5e0bef6d09c7cca"
+},
+{
+"date": "2026-05-20",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi Alan, Goodday, Could it possible to change Only 10/100 or 10/100 /1000 not SFP.? Possbile to make it this device? If yes pls let us. Thank you, Ber",
+"why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "084d04e5ec702dc9"
+},
+{
 "date": "2026-05-28",
 "dir": "来",
 "who": "Berk",
@@ -32912,12 +33232,52 @@
 "k": "0a2e19b099bda25c"
 },
 {
+"date": "2026-06-04",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi Friend, Good day, Sorry we are Religional holiday so some gap’s. So We receive to 24 port giga series ,very well item, Just only one diffuculties p",
+"why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "6b84cc5fa165d326"
+},
+{
 "date": "2026-06-08",
 "dir": "来",
 "who": "Berk",
 "quote": "8-16-24 port 10/100Mbps Ethernet port (minimum 8 port) + 2 Port Fiber Optical SC (Multi-mode: 2KM Single-mode: 20/40/60/80KM)",
 "why": "真实规格 = Realtek 级",
 "k": "62ef6eb2735e86ae"
+},
+{
+"date": "2026-06-09",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi Alan, Good day, 1- We keep on 24 port giga still is huge esxpensive anyway thanks, 2- Left Picture only 4 Fiber port SC look’s fit pls tell to pric",
+"why": "来信原文（主题「RE: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "3567ff28d4ac5917"
+},
+{
+"date": "2026-07-14",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi Friend, Good day ,ı’m fine and you, We prefer din rail industrail portfolio ,rather than rack type switch. So ıf you have catalouge and price list",
+"why": "来信原文（主题「RE: Saga Q3 Product Links」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "bdc994b4368dfec0"
+},
+{
+"date": "2026-08-13",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi Alan, Good day,How are you hopewully you are fine, Very pretty, But as you know our business allow only din rail? Do you have this one Din rail for",
+"why": "来信原文（主题「RE: 24 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "3e4eb87e78c9adb1"
+},
+{
+"date": "2026-08-17",
+"dir": "来",
+"who": "info@iotsistem.com",
+"quote": "Hi Friend, Good day Devices looks pretty, Could you tell me special price for me? Thank you Berk B.R Alan from Saga Telecom <a.sagatelecom@gmail.com>",
+"why": "来信原文（主题「Re: 24 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "ca8eab6eec73a6fe"
 },
 {
 "date": "2026-08-18",
@@ -40353,7 +40713,7 @@
 "revive": "仓库里有 8×10G 电口非管理款 STC-08XGE（HRUI/Realtek 线，Saga 对外价 $181.5 USD EXW）；SmartByte 白牌 LT-S8532XS-8XS24GT（24GE + 8×10G SFP+）——若他的项目只要 10G 接入，可一次报清",
 "lane": "US",
 "cadence": "2024-08 → 2026-09 去信 21 封；最后来信 2025-09-26",
-"evidence": "k=6350a98e7dcd08eb / 380c4a1eabea9946 / 765a46afe5b24ace / 1a6a105db1142c5f / 75205f906d867c11"
+"evidence": "k=6350a98e7dcd08eb / 380c4a1eabea9946 / 765a46afe5b24ace / 1a6a105db1142c5f / 75205f906d867c11；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "Nate 三次主动：2024-08 要 10G MC 价表并问大单折扣；2025-04「I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP」（Alan：现无，可开发但要量）；2025-09「How much do they cost?」→ 280 USD STC-4168XGGCM → 无回。他要的 8×10GBASE-T 其实在 HRUI 线有非管理款。",
 "need": "8×10G 电口（+2/4 SFP+）小型交换机；10G MC；项目型小批量。",
@@ -40391,6 +40751,14 @@
 "quote": "I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP.",
 "why": "精确需求",
 "k": "380c4a1eabea9946"
+},
+{
+"date": "2025-04-07",
+"dir": "来",
+"who": "nate.cline@alphanetcom.com",
+"quote": "Yes that is correct. Do you have any product like this? Thanks",
+"why": "来信原文（主题「Re: 48 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "3208bf73880d5486"
 },
 {
 "date": "2025-04-08",
@@ -53237,7 +53605,7 @@
 "revive": "仅当他们接受「硬件 OEM + 不开源固件」的国家项目子集，或项目改为采购成品（2025-11 对 Booster PoE 明确不感兴趣）",
 "lane": "UZ 未通（无收款/物流先例）",
 "cadence": "最后 2026-10-07 Alan 群发式推送（无回）；对方最后实质来信 2025-10-10（要 Joey 联系方式）",
-"evidence": "A 邮箱 k=14d996fdc995a2b9 / 65ea0d5cb4a671d8 / 510e36cd41433a95 / 67798dac43496efa"
+"evidence": "A 邮箱 k=14d996fdc995a2b9 / 65ea0d5cb4a671d8 / 510e36cd41433a95 / 67798dac43496efa；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "Latmedia Group（Vladimir Xe，联合创始人；经「Simon from Olycom」介绍）2025-07-21 来信要找「硬件制造商而非经销商」，为乌兹别克斯坦国家 IT 硬件方案集成固件——要 SDK、源码、API（政府强制）；Alan 答不提供后 7-24 请其推荐伙伴；9-14 Alan 「We got a solution for you」→ 10-10 对方已与伙伴签备忘录、要 Joey 的联系方式（转介完成）；11-24 对 Booster PoE「not interesting」。**边界户，已体面转出。**",
 "need": "可拿到 SDK/源码的交换机硬件平台，用于国家级自主品牌 + 本地认证。",
@@ -53272,6 +53640,22 @@
 "quote": "these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be able to…",
 "why": "硬边界",
 "k": "65ea0d5cb4a671d8"
+},
+{
+"date": "2025-09-14",
+"dir": "来",
+"who": "vladimir.xe@latmedia.uz",
+"quote": "Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe Latmedia Group LLC 14 сент. 2025 г.,",
+"why": "来信原文（主题「Re: OEM and SDK for National produc」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "f494577cfa227b40"
+},
+{
+"date": "2025-09-16",
+"dir": "来",
+"who": "vladimir.xe@latmedia.uz",
+"quote": "Dear Alan, I sent it to my CTO. We will back soon with response. ---------------------------- Best Regards Vladimir Xe Co-founder Latmedia Group, LLC",
+"why": "来信原文（主题「Re: OEM and SDK for National produc」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "4c0f3bf7e1566ac4"
 },
 {
 "date": "2025-10-10",
@@ -72081,7 +72465,7 @@
 "revive": "不动",
 "lane": "TW",
 "cadence": "不动",
-"evidence": "k=ed575542f470023e"
+"evidence": "k=ed575542f470023e；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -72100,7 +72484,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-02-20",
+"dir": "来",
+"who": "ginahsu@meritlilin.com.tw",
+"quote": "Hi, May I ask which country you are from? I will forward this to the responsible sales representative. Alan from Saga Telecom 於 2025.02.20 14:30 寫到：",
+"why": "来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "ed575542f470023e"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -72552,7 +72945,7 @@
 "revive": "不动",
 "lane": "TW",
 "cadence": "不动",
-"evidence": "k=266471f2990a3b25"
+"evidence": "k=266471f2990a3b25；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -72571,7 +72964,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-09-17",
+"dir": "来",
+"who": "robin@ad-net.com.tw",
+"quote": "Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12",
+"why": "来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "266471f2990a3b25"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -73047,7 +73449,7 @@
 "revive": "一张「OEM 价格表」直接给（管理型 + IGMP Snooping/Querier 标注），不要再等样品",
 "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
 "cadence": "现在一封 OEM 价表；之后季度",
-"evidence": "k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）"
+"evidence": "k=809f837f36d8ac93（OEM 意向 + IGMP 问）；785f5e7be824e94b（OEM 价推后）；dc22cb3479825c92（IGMP mandatory）；2603220c608ffb88（IGMP 仅管理型）；92ccd99bae9b2cff（问 Booster 价）；822038afc07c951e（$215）；8806668f9e0f8399（CENTEC OEM 信）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。",
 "need": "OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。",
@@ -73093,6 +73495,14 @@
 "quote": "We species with video over IP , we must have IGMP protocol, it is mandatory.",
 "why": "硬门槛",
 "k": "dc22cb3479825c92"
+},
+{
+"date": "2025-11-28",
+"dir": "来",
+"who": "stan@thorfiber.com",
+"quote": "Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@g",
+"why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "92ccd99bae9b2cff"
 },
 {
 "date": "2025-12-01",
@@ -73462,7 +73872,7 @@
 "revive": "不动；年度一次",
 "lane": "TW 非主攻",
 "cadence": "年度",
-"evidence": "k=dde2fa9ba8c3c6b8 / ddab5b933723562b / 8f58c5f5654aaa52"
+"evidence": "k=dde2fa9ba8c3c6b8 / ddab5b933723562b / 8f58c5f5654aaa52；第 19 批回补来信原文 3 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -73482,6 +73892,30 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2025-07-10",
+"dir": "来",
+"who": "garychen@tailyn.com.tw",
+"quote": "Thans Alan. Best regards, Gary [cid:ii_197f35afd4e4cff311] T +886-3-3222201 # 6501 F +886-3-3222563 E garychen@tailyn.com.tw<mailto:garychen@tailyn.co",
+"why": "来信原文（主题「FW: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "0d09f0573445aee7"
+},
+{
+"date": "2025-07-10",
+"dir": "来",
+"who": "garychen@tailyn.com.tw",
+"quote": "Hi Alan, Could you mail us the details of Marvell Industrial Alert System? Best regards, Gary [cid:image001.png@01DBF1A3.E0233A90] T +886-3-3222201 #",
+"why": "来信原文（主题「RE: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "dde2fa9ba8c3c6b8"
+},
+{
+"date": "2026-04-02",
+"dir": "来",
+"who": "garychen@tailyn.com.tw",
+"quote": "Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC2A7.356B3E60] T +886-3-3222201 # 6501 F +886-",
+"why": "来信原文（主题「RE: FW: [External]Marvell Industria」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "ddab5b933723562b"
+},
 {
 "date": "2026-08-11",
 "dir": "来",
@@ -73826,7 +74260,7 @@
 "revive": "不动",
 "lane": "TW",
 "cadence": "不动",
-"evidence": "k=841a7692319b168b"
+"evidence": "k=841a7692319b168b；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -73845,7 +74279,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-12-15",
+"dir": "来",
+"who": "kent.wang@assmann.com.tw",
+"quote": "Dear Alan, Do you offer Input and Output devices also? Or only Industrial switch Please send me more product information. i.A. Kent Wang Team Manager",
+"why": "来信原文（主题「RE: Marvell Industrial Alert System」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "841a7692319b168b"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -74171,7 +74614,7 @@
 "revive": "年度一次",
 "lane": "TW",
 "cadence": "年度",
-"evidence": "k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c"
+"evidence": "k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -74190,7 +74633,24 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-07-09",
+"dir": "来",
+"who": "jessechen@edimax.com.tw",
+"quote": "Hi Alan, Thanks for your information. We will study your list and feedback to you soon. Regards, Jesse Chen",
+"why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "07bd3a88e1d5f61c"
+},
+{
+"date": "2025-07-09",
+"dir": "来",
+"who": "jessechen@edimax.com.tw",
+"quote": "Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen",
+"why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "b21df8d3abb40eb6"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -74527,7 +74987,7 @@
 "revive": "一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无",
 "lane": "TW",
 "cadence": "一封",
-"evidence": "k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf"
+"evidence": "k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "Booster PoE 管理型 + 多芯片平台。",
@@ -74547,6 +75007,14 @@
 "one_question": "Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no."
 },
 "facts": [
+{
+"date": "2025-03-19",
+"dir": "来",
+"who": "rex.lin@ewinsonic.com",
+"quote": "Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, M",
+"why": "来信原文（主题「轉寄: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "6a176ba292b92e65"
+},
 {
 "date": "2025-11-24",
 "dir": "来",
@@ -75825,7 +76293,7 @@
 "revive": "不动",
 "lane": "TR 主攻但 Q-33",
 "cadence": "不动",
-"evidence": "k=f2187e6f5c356bda / 8c1d7c507bf9d631"
+"evidence": "k=f2187e6f5c356bda / 8c1d7c507bf9d631；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "AT-FS750-28 同类。",
@@ -75844,7 +76312,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-06-26",
+"dir": "来",
+"who": "satis@konakguvenlik.com.tr",
+"quote": "Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir",
+"why": "来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "f2187e6f5c356bda"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -86208,7 +86685,7 @@
 "revive": "不动",
 "lane": "UK",
 "cadence": "不动",
-"evidence": "k=291792730fb79f70"
+"evidence": "k=291792730fb79f70；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "4 口工业 PoE。",
@@ -86227,7 +86704,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-06-16",
+"dir": "来",
+"who": "mike@genrov.com",
+"quote": "Hi Simon You could email the data sheet/manual Regards Mike",
+"why": "来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "291792730fb79f70"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -86450,7 +86936,7 @@
 "revive": "一封只讲 CENTEC 的信：VXLAN/EVPN/MPLS 支持矩阵 + 一款 10G/25G 汇聚的价格区间",
 "lane": "US 主攻",
 "cadence": "一封；之后看回复",
-"evidence": "k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）"
+"evidence": "k=1301f24ebea116b3（Is this PoE?）；deda136173372ce7（$310）；3217cb91c0855a86（VXLAN/MPLS/controller）；a444eeb97758ba35（not supporting）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "创始人亲自回了两次，第二次问的是运营商级问题（VXLAN/MPLS/控制器），Alan 回「不支持」。仓库里 CENTEC 线正是 VXLAN/EVPN/MPLS，2026-01 对别的客户发过「OEM Core Switching Solution」，对 Kyle 没发。",
 "need": "运营商汇聚：VXLAN/MPLS + 控制器。",
@@ -86470,6 +86956,14 @@
 "one_question": "Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/NETCONF); which role would you test first, a 10G/25G aggregation or a 100G spine?"
 },
 "facts": [
+{
+"date": "2024-06-18",
+"dir": "来",
+"who": "kyle@wirestar.net",
+"quote": "Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon",
+"why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "1301f24ebea116b3"
+},
 {
 "date": "2025-04-01",
 "dir": "来",
@@ -95587,7 +96081,7 @@
 "revive": "一句话问他在投的项目用什么交换机",
 "lane": "CA 主攻",
 "cadence": "一封",
-"evidence": "k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）"
+"evidence": "k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "如实回答身份是对的（Saga.md：不称贸易商，但也不冒充工厂）；缺的是回问项目。",
 "need": "承包项目用的接入/PoE。",
@@ -95624,6 +96118,14 @@
 "quote": "Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side.",
 "why": "如实",
 "k": "d63854cffb76b6d5"
+},
+{
+"date": "2026-05-26",
+"dir": "来",
+"who": "robert@bsdnetworks.com",
+"quote": "Hello, BSD Networks is pleased to extend a formal Invitation to Bid for the construction of a new twelve-storey, approximately 285,000 sq. ft. mixed-u",
+"why": "来信原文（主题「You have a Bid Invitation from BSD 」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "96db4511c0c030f3"
 }
 ],
 "proof_gaps": [],
@@ -104473,7 +104975,7 @@
 "revive": "他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回",
 "lane": "JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担）",
 "cadence": "最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内",
-"evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+"evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。",
 "need": "带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。",
@@ -104513,12 +105015,28 @@
 "k": "gmail_a 2026-04-23"
 },
 {
+"date": "2026-04-24",
+"dir": "来",
+"who": "ryosuke.osako@unea-x.com",
+"quote": "Hi. Alan I am Osako from UNEAX. Thank you for your email. If possible, could you please provide an overview of your company, describe your current mai",
+"why": "来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "044e800de1232d47"
+},
+{
 "date": "2026-04-30",
 "dir": "来",
 "who": "大迫",
 "quote": "For EMC testing, test results from a VCCI-accredited testing facility are required… JIS C 62368-1… EN 55032/55024 or VCCI Class A/B… RoHS",
 "why": "日本合规清单",
 "k": "b1cd35734a880b12"
+},
+{
+"date": "2026-05-01",
+"dir": "来",
+"who": "inoue.mari@unea-x.com",
+"quote": "Hi.Alan I am Inoue from UNEAX. Please let us know the status of your company’s certification. This is for internal consideration regarding implementat",
+"why": "来信原文（主题「Re: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "567917bc0a22f8a7"
 },
 {
 "date": "2026-05-04",
@@ -113480,7 +113998,7 @@
 "revive": "把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信",
 "lane": "UK 主攻",
 "cadence": "季度一封项目型信",
-"evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+"evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。",
 "need": "项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。",
@@ -113520,6 +114038,14 @@
 "k": "9709506348c74b1f"
 },
 {
+"date": "2025-07-06",
+"dir": "来",
+"who": "wadii@teltronix.net",
+"quote": "Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:im",
+"why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "193727c946660628"
+},
+{
 "date": "2025-07-07",
 "dir": "来",
 "who": "Wadii",
@@ -113542,6 +114068,14 @@
 "quote": "HDR-30-24: 15usd/pc… NDR-120-48: 25usd/pc… NDR-240-48: 40usd/pc",
 "why": "电源价",
 "k": "79fecf111ba8f0f3"
+},
+{
+"date": "2025-10-31",
+"dir": "来",
+"who": "wadii@teltronix.net",
+"quote": "It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C",
+"why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "f22fe1c8ed3e3766"
 }
 ],
 "proof_gaps": [],
@@ -122354,7 +122888,7 @@
 "revive": "一句话问当时的无线回传项目",
 "lane": "AE 非主攻（但 Intracom 体量大）",
 "cadence": "一封",
-"evidence": "k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824"
+"evidence": "k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "工业 PoE 小型款（无线回传站点）。",
@@ -122374,6 +122908,14 @@
 "one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?"
 },
 "facts": [
+{
+"date": "2024-08-07",
+"dir": "来",
+"who": "myaacoub@intracom-telecom.com",
+"quote": "Dear Sender, I am on annual leave with limited access to my emails, for any urgent matters contact me on my mobile. Best Regards, Mohammad Yaacoub +97",
+"why": "来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "7ae3b3c443b92c6f"
+},
 {
 "date": "2024-10-09",
 "dir": "来",
@@ -125364,7 +125906,7 @@
 "revive": "不动",
 "lane": "SA",
 "cadence": "不动",
-"evidence": "k=2ff1477327f64427"
+"evidence": "k=2ff1477327f64427；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -125383,7 +125925,24 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2023-06-19",
+"dir": "来",
+"who": "ei-telcomlead@aamindustrial.com",
+"quote": "Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&I- Telecom Lead AAM Industria",
+"why": "来信原文（主题「RFQ FOR ELECTRICAL ITEMS MCB」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "2ff1477327f64427"
+},
+{
+"date": "2023-06-19",
+"dir": "来",
+"who": "ei-telcomlead@aamindustrial.com",
+"quote": "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes.",
+"why": "来信原文（主题「RFQ for telecom items」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "0c993be0c8b28c1b"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -127145,7 +127704,7 @@
 "revive": "不动",
 "lane": "TW",
 "cadence": "不动",
-"evidence": "k=455bebcee9e0b0b7"
+"evidence": "k=455bebcee9e0b0b7；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -127164,7 +127723,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-01-02",
+"dir": "来",
+"who": "john.lai@airlive.com",
+"quote": "Whats you company url Is those ce certificate? J",
+"why": "来信原文（主题「RE: Industrial power adapter」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "455bebcee9e0b0b7"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -128517,7 +129085,7 @@
 "revive": "年度",
 "lane": "AU",
 "cadence": "年度",
-"evidence": "k=f6879c7d612d62b5"
+"evidence": "k=f6879c7d612d62b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -128536,7 +129104,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2026-04-20",
+"dir": "来",
+"who": "dean.stephens@altronics.com.au",
+"quote": "Hi Alan, Thank you, not at this time. Regards Dean",
+"why": "来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "f6879c7d612d62b5"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -195580,7 +196157,7 @@
 "revive": "不动",
 "lane": "PK",
 "cadence": "不动",
-"evidence": "k=53639b11bc8d96b5"
+"evidence": "k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -195599,7 +196176,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-05-24",
+"dir": "来",
+"who": "powerlogic1965@gmail.com",
+"quote": "hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar",
+"why": "来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "53639b11bc8d96b5"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -195867,7 +196453,7 @@
 "revive": "不动",
 "lane": "VN",
 "cadence": "不动",
-"evidence": "k=cd4b791c86455683"
+"evidence": "k=cd4b791c86455683；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -195886,7 +196472,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-11-03",
+"dir": "来",
+"who": "vienthonggiatotvn@gmail.com",
+"quote": "What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:",
+"why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "cd4b791c86455683"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -205677,7 +206272,7 @@
 "revive": "只有找到 Barox 产品/采购负责人才值得再发",
 "lane": "DE 主攻",
 "cadence": "不动（换联系人再说）",
-"evidence": "k=ae372c96fe2917af / 15383b63e796c734 / c3a6ce39d1213582；f68b73f1522697d3（$25）"
+"evidence": "k=ae372c96fe2917af / 15383b63e796c734 / c3a6ce39d1213582；f68b73f1522697d3（$25）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "三封热情的一句话回复后，问「要几台样品」得到「None whatsoever!」。对方是卖 Barox 的人，不是买交换机的人。",
 "need": "OEM 工业 FS（PC-PIGE500-GBTE 同类）。",
@@ -205699,6 +206294,22 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-05-02",
+"dir": "来",
+"who": "luis.coello@barox.de",
+"quote": "Ooohh that’s sounds great Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device",
+"why": "来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "15383b63e796c734"
+},
+{
+"date": "2024-05-02",
+"dir": "来",
+"who": "luis.coello@barox.de",
+"quote": "Amazing Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device",
+"why": "来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "ae372c96fe2917af"
+},
 {
 "date": "2024-05-03",
 "dir": "来",
@@ -211080,7 +211691,7 @@
 "revive": "若做俄罗斯：找 SNR 产品经理",
 "lane": "RU（点名）",
 "cadence": "不动",
-"evidence": "k=79823d7c4b89ed10"
+"evidence": "k=79823d7c4b89ed10；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -211101,7 +211712,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-10-01",
+"dir": "来",
+"who": "sales@nag.ru",
+"quote": "? ? ---------- Forwarded message --------- From: a.sagatelecom@gmail.com Date: 1 октября 2025 г. 9:20:00 Subject: 10G Enterprise SFP Switch To: sales@",
+"why": "来信原文（主题「Re: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "79823d7c4b89ed10"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -214653,7 +215273,7 @@
 "revive": "补发 Q2 价表",
 "lane": "KR 次级（点名）",
 "cadence": "一封",
-"evidence": "k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46"
+"evidence": "k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "CENTEC 核心/汇聚 + 商用 FS 贴标。",
@@ -214673,6 +215293,14 @@
 "one_question": "Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 list; is the first project 10G/25G aggregation or 100G core?"
 },
 "facts": [
+{
+"date": "2025-02-04",
+"dir": "来",
+"who": "jryoun74@hcin4.com",
+"quote": "﻿thank you for infromations... please attach datasheet and website... thank you! ---------- Original message ---------- From: \"Alan from Saga Telecom\"",
+"why": "来信原文（主题「RE: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "8b775668d592d1fe"
+},
 {
 "date": "2026-01-16",
 "dir": "来",
@@ -214966,7 +215594,7 @@
 "revive": "不动",
 "lane": "PH",
 "cadence": "不动",
-"evidence": "k=fd2e05c62942799c / 05b51bd103cc66ea"
+"evidence": "k=fd2e05c62942799c / 05b51bd103cc66ea；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -214985,7 +215613,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-01-15",
+"dir": "来",
+"who": "joemar.baquiran@gmail.com",
+"quote": "sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks",
+"why": "来信原文（主题「Re: Mini Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "fd2e05c62942799c"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -223492,7 +224129,7 @@
 "revive": "不动",
 "lane": "TW",
 "cadence": "不动",
-"evidence": "k=4db5b4b28bbd3946 / b2fdeceac0796384"
+"evidence": "k=4db5b4b28bbd3946 / b2fdeceac0796384；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -223511,7 +224148,24 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-05-20",
+"dir": "来",
+"who": "au@netbergtw.com",
+"quote": "Hi Alan, We have great cooperation potential! We are making Broadcom Trident3 and Trident4-based switches. All systems support SONiC, Ubuntu, and cust",
+"why": "来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "4db5b4b28bbd3946"
+},
+{
+"date": "2025-05-20",
+"dir": "来",
+"who": "au@netbergtw.com",
+"quote": "And you are limited to Marvell. You definitely should explore Broadcom-based switches. Broadcom has a way better SW support.",
+"why": "来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "b2fdeceac0796384"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -269405,22 +270059,22 @@
 ],
 "mail_review": {
 "binding": {
-"level": "未绑定（无成交；对方是 NOS/软件服务商兼渠道）",
-"type": "以色列/国际 SONiC 软件与网络服务商（技术流，但角色更像合作方/竞品而非买家）",
-"sieve": "2（读过全部 Drive 链接、能点名 AC3→AC5、DX1518/1548）",
-"stop": "Saga 边界 + 国内冲突——8,000 台 Campus L2（24×1G+4×10G，目标 $250）2026-03-31 Alan「conflict with one of our clients… a domestic client… internal decision」停；SONiC 合作被 Alan 以「高速线用 CENTEC、Marvell 高速不做激进研发」婉拒；2026-07 要 10 颗 DX1518/1548 芯片被拒",
-"revive": "仅当 Simon 改判国内冲突规则（Q-49）或 Larch 以**买家**身份提出 AC5 L2+/L3 的具体订单；SONiC 合作按边界不做",
+"level": "轻度触达→边界户（A 邮箱 2025-05 → 2026-07 来 14 去 24，三位 KP：Alexander Cheskis / Andrey Zarudniy（Sales）/ Oksana Loi；四轮实质：① 2025-05 光旁路交换机技术问答（98DX2515 口径）② 2025-12 旁路 PoE STI-488XGGPM2B-2BT 报 $295，对方要样机与批量价后无单 ③ 2026-03-30 其客户 8,000 台校园 L2（24×1G + 4×10G SFP+，目标 $250）→ Alan 03-31「与我们一个国内客户冲突，内部决定，到此为止」（Q-49）④ 2026-05/06 Larch 推销 SONiC 商业支持并邀 6-10/11 线上会 → Alan 06-05 婉拒（Saga 高速线用 CENTEC，Marvell 线只做 SMB L2+/L3）；07-02 求购 DX1518/DX1548 芯片 10 颗 → 无货)",
+"type": "以色列 SONiC/NOS 软件服务商 + 渠道（Larch Networks；既是潜在客户也是潜在供应商）",
+"sieve": "2（技术问答 + 询价 + 项目需求；未付样）",
+"stop": "两头都停：Saga 拒了 8,000 台项目（国内客户冲突）、拒了 SONiC 合作与芯片；对方对 $295 旁路机没有下文",
+"revive": "只在 Larch 来信时回（Q-49 边界）；若 Simon 判定 8,000 台项目不构成冲突，Andrey 03-31 的追问「client = 买家还是中国工厂？」还没被正面回答",
 "lane": "IL 部分（收款/物流无先例）",
-"cadence": "最后 2026-07-02 Alan 拒芯片请求；实质往来 2025-05-22 → 2026-07-02 约 14 轮",
-"evidence": "A 邮箱 k=c3ec0dc5b8622bbb / 827e3f81f687bb3b / f0fca5051f786b75 / 48f6b22ac0e2c199 / f77f97cdc39f10a5"
+"cadence": "最后来信 2026-07-02（芯片求购）；Alan 最后回 2026-07-02",
+"evidence": "A 邮箱 k=c3ec0dc5b8622bbb / 827e3f81f687bb3b / f0fca5051f786b75 / 48f6b22ac0e2c199 / f77f97cdc39f10a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
-"situation": "Larch Networks（Alexander / Andrey / Oksana）2025-05 起对光旁路机、Booster PoE 都问芯片/内存细节；2026-03-30 提 **8,000 台校园 L2 交换机**（24×1G + 4×10G SFP+、可换 PSU、冗余风扇、USB + Console 管理），Alan 次日先问细节、再以「与一个国内客户冲突，内部决定」+「$250 目标价难」停止；5 月 Larch 反过来推销「商业支持的 SONiC」并约 COMPUTEX 后会议，Alan 以 CENTEC 高速路线婉拒；7 月 Larch 急要 10 颗 DX1518/DX1548 芯片，Alan 以 Marvell 采购审查严拒绝。**A 邮箱里最大的量，也是 C11「供应商关系 > 客户机会」的教科书案例。**",
-"need": "① 8,000 台校园 L2（规格见上，目标 $250/台）；② SONiC NOS 合作（他们卖服务）；③ Marvell AC5 现货型号/价格/交期清单（5-26 列了 8/24/48 口、1G/SFP+/SFP28 组合）；④ 零星芯片采购。",
-"breakpoint": "不是对方停，是 Saga 主动停：国内客户冲突（E23/Q-49）+ 不做高速 Marvell 研发 + 不卖芯片。三条都是边界，不是谈判空间。",
+"situation": "Larch Networks（以色列，SONiC/NOS 商业支持 + 硬件渠道）是少数会追着 Saga 问芯片型号、RAM/Flash、样机与批量价的对手盘。2025-12 对旁路 PoE 机问到 $295 单价即止；2026-03-30 带来 8,000 台校园 L2 项目（24×1G + 4×10G、可换 PSU、冗余风扇、USB 管理、目标 $250），Alan 次日以「国内客户冲突」停掉；2026-05 起对方转为推销 SONiC 方案并要 AC5 现货清单、约线上会，Alan 给了 AC5 过渡全貌（商用 8/24/48 口已量产、工业全系列 AC5 样机）但拒绝会议；07-02 求购 DX1518/DX1548 芯片被拒。",
+"need": "① 旁路 PoE 工业管理机（已报 $295）② 8,000 台校园 L2 交换机（已拒）③ 把 Saga 的 Marvell 线作为 SONiC 落地硬件（Saga 不要）④ Marvell 芯片现货（无）",
+"breakpoint": "不是对方不买，而是 Saga 两次说不（项目冲突、SONiC 方向）。剩下的唯一商业线是旁路/Booster PoE 机的样机——对方 2025-12-09 明确要「sample and bulk price」，Alan 给了单价 $295 但没推样机付款流程，线就冷了。",
 "saga_now": {
-"p1": "不推；若对方以买家身份回来，只给 AC5 商业 L2+/L3 现货清单（8/24/48 口）",
+"p1": "STI-488XGGPM2B-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295）",
 "tier": 25,
-"price": "不报价（边界户）",
+"price": "$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚",
 "why": "C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单",
 "repeat": [],
 "gaps": [
@@ -269428,12 +270082,44 @@
 ]
 },
 "next_move": {
-"when": "不主动触达；只在 Larch 来信时回",
-"channel": "A 邮箱",
-"action": "被动；若 Q-49 改判，再由 Simon 决定是否回到 8,000 台项目",
-"one_question": "（无——边界户不设问）"
+"when": "被动（Q-49）；若对方再来信，先把旁路机样机这条线接上",
+"channel": "A 邮箱（alexander@ / azarudniy@ / oksana@larch-networks.com）",
+"action": "不主动发；来信时只谈旁路/Booster PoE 样机，不碰校园项目与 SONiC",
+"one_question": "Andrey — the 2-channel bypass PoE unit you priced in December ($295): is a paid evaluation sample still useful for your customer, or has that requirement closed?"
 },
 "facts": [
+{
+"date": "2025-05-22",
+"dir": "来",
+"who": "alexander@larch-networks.com",
+"quote": "Hi Alan, Thank you for sharing this — the Optical Bypass Switch is definitely of interest to us. To evaluate further, could you kindly share more tech",
+"why": "来信原文（主题「Re: Managed Optical Bypass Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "6029bd8a3ce4a534"
+},
+{
+"date": "2025-11-28",
+"dir": "来",
+"who": "alexander@larch-networks.com",
+"quote": "Hi Alan, That’s very interesting — especially the Marvell-based design and the 12–54V PoE booster concept. Let’s discuss more details — which Marvell",
+"why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "21ed9f8ba13a5507"
+},
+{
+"date": "2025-12-08",
+"dir": "来",
+"who": "azarudniy@larch-networks.com",
+"quote": "Hello Alan! Alex told me that you have some Baypass devices. Could you please share the deteils. Thanks Best regards, Andrey Sales manager. https://la",
+"why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "22c03a7535263d1a"
+},
+{
+"date": "2025-12-09",
+"dir": "来",
+"who": "azarudniy@larch-networks.com",
+"quote": "Alan, Greate! Please also provide the sample and bulk price with some HW Specification (what the chipset, PHY, flash, memory ?) Best regards, Andrey S",
+"why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "fd4f4163ed089c3f"
+},
 {
 "date": "2026-03-30",
 "dir": "来",
@@ -269467,12 +270153,44 @@
 "k": "48f6b22ac0e2c199"
 },
 {
+"date": "2026-05-25",
+"dir": "来",
+"who": "alexander@larch-networks.com",
+"quote": "Hi Alan, Thanks for the candid reply — fully understood on the CENTEC track for high-speed. Let me flip the question. On the Marvell side, we're activ",
+"why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "231732b0e66a97ce"
+},
+{
+"date": "2026-05-26",
+"dir": "来",
+"who": "alexander@larch-networks.com",
+"quote": "Hi Alan, Thanks — this is very useful context on the AC3 to AC5 transition and the L2+/L3, 1G/10G positioning. To size this properly on our side, coul",
+"why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "4722032cae2191bd"
+},
+{
 "date": "2026-05-27",
 "dir": "去",
 "who": "Alan",
 "quote": "AC3 to AC5 transition is almost done for ALL models… commercial models, 8 / 24 / 48 Port L2+/L3 models, AC5 is fully ready and in normal production… industrial models, ALL models got AC5-ready samples",
 "why": "Saga 产品线状态的权威书面版本（2026-05）",
 "k": "ddbe426f9e94bdd4"
+},
+{
+"date": "2026-06-02",
+"dir": "来",
+"who": "oksana@larch-networks.com",
+"quote": "Hi Alan, Would you be available to meet with us on June 10 or 11? What time would be convenient for you? Thanks in advance, BR, Oksana Loi. On Wed, Ma",
+"why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "76c0582f1181f61b"
+},
+{
+"date": "2026-06-03",
+"dir": "来",
+"who": "oksana@larch-networks.com",
+"quote": "Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short online meeting",
+"why": "来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "ce5ef79be8ca9c8c"
 },
 {
 "date": "2026-07-02",
@@ -269484,7 +270202,8 @@
 }
 ],
 "proof_gaps": [
-"A 邮箱 2025-05 分片在重跑范围：5-22 之前的光旁路机往来待补"
+"Q-49：「国内客户冲突」的边界待 Simon 判",
+"06-10/11 线上会最终是否发生：A 邮箱无记录（Alan 06-05 婉拒后无会议邮件）"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -272586,7 +273305,7 @@
 "revive": "不动",
 "lane": "MY",
 "cadence": "不动",
-"evidence": "k=79b10682153051b0"
+"evidence": "k=79b10682153051b0；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -272605,7 +273324,24 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-07-29",
+"dir": "来",
+"who": "inquiry@th-it.com",
+"quote": "sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Offic",
+"why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "79b10682153051b0"
+},
+{
+"date": "2024-09-09",
+"dir": "来",
+"who": "inquiry@th-it.com",
+"quote": "Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268",
+"why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "8ceb773d69d13c9f"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -272932,7 +273668,7 @@
 "revive": "不动",
 "lane": "VN",
 "cadence": "不动",
-"evidence": "k=6940cc80c3d991e2"
+"evidence": "k=6940cc80c3d991e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "8 口光纤工业。",
@@ -272951,7 +273687,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-06-21",
+"dir": "来",
+"who": "chuyengiathuykhi@gmail.com",
+"quote": "Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri Di",
+"why": "来信原文（主题「Re: 8 port fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "6940cc80c3d991e2"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -302843,7 +303588,7 @@
 "revive": "不动",
 "lane": "TW",
 "cadence": "不动",
-"evidence": "k=e7feae9cbe6f3541 / 622d9c1213433077"
+"evidence": "k=e7feae9cbe6f3541 / 622d9c1213433077；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -302862,7 +303607,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2026-01-13",
+"dir": "来",
+"who": "micro-chang@ctcu.com.tw",
+"quote": "Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* market",
+"why": "来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "622d9c1213433077"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -308751,7 +309505,7 @@
 "revive": "不再群发；半年一句话问「团队评审结果」",
 "lane": "SA 非主攻",
 "cadence": "半年",
-"evidence": "k=9b62c7cda364bb0f（webinar 提议）；fbc33e72bf02d4b3（Tofino RFQ）；bad9a4f3d0798ce2（need sample）；600c9221602d0b9d（$50 not free）；5f589ba4397ac9aa（List price）"
+"evidence": "k=9b62c7cda364bb0f（webinar 提议）；fbc33e72bf02d4b3（Tofino RFQ）；bad9a4f3d0798ce2（need sample）；600c9221602d0b9d（$50 not free）；5f589ba4397ac9aa（List price）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
 "situation": "十封回信没有一封是决定。",
 "need": "不明确（CCTV PoE / 工业路由替代）。",
@@ -308772,6 +309526,62 @@
 },
 "facts": [
 {
+"date": "2024-02-25",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Dear Simon, I would love that, in addition if we can schedule for a webinar at your convenient time to have a depth knowledge of your range of product",
+"why": "来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "9b62c7cda364bb0f"
+},
+{
+"date": "2024-02-26",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Thank you Simon. I fully understand that, I am looking forward to working with you. Regards, Saeed Mohammed",
+"why": "来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "ef7c580e09a399f6"
+},
+{
+"date": "2024-05-16",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Hi Simon, Thank you for your email. Kindly allow me few days to check and reply you. Regards, Saeed Mohammed Commercial Business Development and Opera",
+"why": "来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "31d92aca47a504fd"
+},
+{
+"date": "2024-06-23",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Hi Simon, I am doing well, thank you. My apology for the delay in responding, we were on Eid Holiday almost for 10 days. We just resumed office today.",
+"why": "来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "ca353d1422a0b717"
+},
+{
+"date": "2024-07-17",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Dear Simon, I am sharing this info with our engineering department. Let me check and revert back to you. Regards, Saeed Mohammed Commercial Business D",
+"why": "来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "ed5413691bf7d78b"
+},
+{
+"date": "2024-07-23",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Dear Simon, Thank you for your quick reply. I highly appreciate that. Regards, Saeed Mohammed Commercial Business Development and Operation Manager El",
+"why": "来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "9e1dbbaecd18c1a4"
+},
+{
+"date": "2024-07-23",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Hi Simon, Hope my email finds you in the best health. I have this request from one of our existing customers, they are looking for an alternative, I w",
+"why": "来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "fbc33e72bf02d4b3"
+},
+{
 "date": "2024-10-15",
 "dir": "来",
 "who": "Saeed",
@@ -308786,6 +309596,14 @@
 "quote": "The sample is NOT free. 50usd/pc",
 "why": "付样筛",
 "k": "600c9221602d0b9d"
+},
+{
+"date": "2025-04-28",
+"dir": "来",
+"who": "saeed@e-saudi.net",
+"quote": "Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime, to better understand the scenario it w",
+"why": "来信原文（主题「RE: Commercial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "5f589ba4397ac9aa"
 }
 ],
 "proof_gaps": [],
@@ -317263,7 +318081,7 @@
 "revive": "只在有新品类时发：CENTEC 汇聚或 10G 工业（它没有的），不再推 PoE",
 "lane": "UK 主攻",
 "cadence": "半年一封新品类信",
-"evidence": "k=d7d86e7b1d5cba30（already have）；f76d37aef2dff400（问价 + MOQ）；aee9616b96315f19（$500）；83a6a36c850cb83b（a lot less）；注意 4e64486e83ba3f88：Simon 2024-05 自称「This is my sister's company」"
+"evidence": "k=d7d86e7b1d5cba30（already have）；f76d37aef2dff400（问价 + MOQ）；aee9616b96315f19（$500）；83a6a36c850cb83b（a lot less）；注意 4e64486e83ba3f88：Simon 2024-05 自称「This is my sister's company」；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "Andy 两次回复都在说同一件事：你们的东西我有，而且更便宜。Saga 的回应是强调 Marvell 高端定位——对品牌商这不是论点。52 封群发中 5 封得到回复，全部是 2024-05 与 2025-02 的两个瞬间。",
 "need": "L3 工业 PoE（已有更便宜来源）；潜在：10G 工业汇聚 / CENTEC。",
@@ -317285,6 +318103,14 @@
 "one_question": "Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have?"
 },
 "facts": [
+{
+"date": "2024-05-09",
+"dir": "来",
+"who": "andys@case.uk.com",
+"quote": "Hi Simon Thank you for your mail but we already have such a switch Best regards Andy",
+"why": "来信原文（主题「RE: 24 port switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "d7d86e7b1d5cba30"
+},
 {
 "date": "2025-02-07",
 "dir": "来",
@@ -321253,7 +322079,7 @@
 "revive": "固件 7.5（AC5）已支持 PIM-SM（仅 CLI）；若客户能接受「PIM-SM 无 PIM-DM」或出现新的 L2 需求即可重开；车载容器网络另需宽温 L3 接入机",
 "lane": "TR 已通（USD T/T、DHL；Netaş 自有报关与合规流程）",
 "cadence": "最后 2026-07-17 Alan 发 AC5 特性表（无回）；实质往来 2025-10-13 → 2026-03-02，约 9 轮；Netaş 合规部季度群发仍在抄 Saga",
-"evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5"
+"evidence": "A 邮箱 k=221f4293f7917453 / 575f6cc1f5d1c75d / 10e6fdf62c477b46 / bbdc059bf34b2fbc / 2b615482de0608a5；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
 "situation": "土耳其 Netaş（国防/运营商系统集成商，KAP 上市）采购专家 Ender Bulut 2025-10 经 Simon 转给 Alan；2025-12-01 决定以 **STI-488DGGPM-2BT** 作 L2 方案，走完 NDA/ECCN 供应商开户 → 12-23 PO → 12-24 PI 批准 → 2026-01-13 付款（3 台，$545）→ 1 月发货报关；2026-02-26/27 终端客户（车载容器网络）转向 **L3 组播**，Alan 明示 PIM-SM/DM、RIPng/PBR、IP SLA「NOT available with the current chipset」、CENTEC 温度不够，3-02 Ender 留 1 台样机在客户处并「等新 L2 机会」；此后只有 Alan 7-17 单向更新。",
 "need": "① 已买：工业 L2+ 8 口 PoE（2×BT）3 台做实验室 + POC；② 真正的项目需求（2026-02-27 原话）：车载容器内多网络整合，2–4 台交换机/车，非核心汇聚，但**必须 L3 + PIM-SM/PIM-DM**，工作温度 **-40~+71 °C**，Netaş 自己做加固外壳；③ 2025-10-17 曾要 Marvell 模组 PCBA 的年量阶梯价（1–10 / 11–25 / 26–…）——说明他们考虑自制整机。",
@@ -321280,12 +322106,76 @@
 },
 "facts": [
 {
+"date": "2025-10-13",
+"dir": "来",
+"who": "ebulut@netas.com.tr",
+"quote": "Thank you, Alan. I will review the documents and return you. May be Simon has already told you, but I want to make sure you got the specification that",
+"why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "2eb80e0c4181c468"
+},
+{
+"date": "2025-10-14",
+"dir": "来",
+"who": "ebulut@netas.com.tr",
+"quote": "Thanks Alan. It’s great to hear this information from you, everything looks good on our side. We’ll now proceed with our internal and client-side eval",
+"why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "15eb128dc8f7b999"
+},
+{
+"date": "2025-10-14",
+"dir": "来",
+"who": "ebulut@netas.com.tr",
+"quote": "Hi Alan, Your shared directories includes L2 and L3 Switch Solutions. Do you have Router Solutions that you can advise me? And we can also chat from w",
+"why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "f917cf82272856d3"
+},
+{
+"date": "2025-10-15",
+"dir": "来",
+"who": "ebulut@netas.com.tr",
+"quote": "It is understandable that not support to Cisco private protocols. But you are able to support VRRP, aren’t you? l “Layer 3 features: Supports static a",
+"why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "f64748099f1ca29a"
+},
+{
+"date": "2025-10-17",
+"dir": "来",
+"who": "ebulut@netas.com.tr",
+"quote": "Hi Alan, We are interested in your solutions and have already shared some initial information with our clients. We are currently awaiting their feedba",
+"why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "37d0a18adaf6e108"
+},
+{
+"date": "2025-11-04",
+"dir": "来",
+"who": "ebulut@netas.com.tr",
+"quote": "Hi Alan, I’d like to start as soon as possible, but our internal processes are still ongoing. We’re also in contact with our clients and waiting for t",
+"why": "来信原文（主题「RE: Industrial L2/L3 Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "3f142194cba5d187"
+},
+{
 "date": "2025-12-01",
 "dir": "来",
 "who": "Ender Bulut（Netaş）",
 "quote": "We have decided to move forward with your STI-488DGGPM-2BT as our L2 switch solution… colleagues… will assist with the NDA and compliance process",
 "why": "正式选型 + 进入供应商开户流程（筛子第 3 道）",
 "k": "221f4293f7917453"
+},
+{
+"date": "2025-12-02",
+"dir": "来",
+"who": "buozdemir@netas.com.tr",
+"quote": "Hello Alan, We are currently proceeding with the creation of your supplier account in our system. For this purpose, could you please review and sign t",
+"why": "来信原文（主题「Request for NDA and ECCN form Compl」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "ff3d41beaad53936"
+},
+{
+"date": "2025-12-03",
+"dir": "来",
+"who": "buozdemir@netas.com.tr",
+"quote": "Hello Alan, Thanks for information, I am sharing the documents. I will inform you if there are any missing items. Could you also send me the dimension",
+"why": "来信原文（主题「RE: Request for NDA and ECCN form C」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "ec7219c7266d38b6"
 },
 {
 "date": "2025-12-23",
@@ -322072,7 +322962,7 @@
 "revive": "若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表",
 "lane": "RU（点名）",
 "cadence": "一封",
-"evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69"
+"evidence": "k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "CENTEC/Microchip 平台交换机（自有产品线对标）。",
@@ -322092,6 +322982,14 @@
 "one_question": "Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?"
 },
 "facts": [
+{
+"date": "2024-06-05",
+"dir": "来",
+"who": "afonin@npotelecom.ru",
+"quote": "Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin",
+"why": "来信原文（主题「RE: Industrial fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "a8f5e788a70b0a31"
+},
 {
 "date": "2026-05-12",
 "dir": "来",
@@ -383529,7 +384427,7 @@
 "revive": "改发 cs@ubwh.com.au",
 "lane": "AU",
 "cadence": "2026-12",
-"evidence": "k=38270940dcccfc56"
+"evidence": "k=38270940dcccfc56；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "来信全部为机器回复；无人读信或无人回信。",
 "need": "—",
@@ -383550,7 +384448,16 @@
 "action": "换地址",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-06-20",
+"dir": "来",
+"who": "store@ubwh.com.au",
+"quote": "The email address 'store@ubwh.com.au' is obsolete and no longer monitored. Please re-send your email to: cs@ubwh.com.au",
+"why": "来信原文（主题「Delivery failed: Un-monitored email」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "38270940dcccfc56"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -391072,7 +391979,7 @@
 "revive": "补一句规格实话（Console RJ45 + Web/CLI/SNMP 带内管理；无独立 OOB 管理口）；不推进",
 "lane": "IN 非主攻",
 "cadence": "不动",
-"evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+"evidence": "k=87e3b8ad670eab84 / e3fdaaebc77d14ee / f38de7254a2ba19a / 48e1b99fa850f527 / 79e45ea6c45d68d9；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "24V/48V 混供 PoE 管理型。",
@@ -391093,12 +392000,44 @@
 },
 "facts": [
 {
+"date": "2024-09-16",
+"dir": "来",
+"who": "ravi@apolloinfoways.in",
+"quote": "Is this managed or unmanaged. Regards Ravi ________________________________",
+"why": "来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "87e3b8ad670eab84"
+},
+{
 "date": "2024-09-18",
 "dir": "来",
 "who": "Ravi",
 "quote": "I need manage switch for 24V/48V POE.",
 "why": "需求",
 "k": "e3fdaaebc77d14ee"
+},
+{
+"date": "2024-09-19",
+"dir": "来",
+"who": "ravi@apolloinfoways.in",
+"quote": "Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​",
+"why": "来信原文（主题「Re: 24V/48V PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "48e1b99fa850f527"
+},
+{
+"date": "2024-11-03",
+"dir": "来",
+"who": "ravi@apolloinfoways.in",
+"quote": "Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​",
+"why": "来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "fa79557f8a8ef2a4"
+},
+{
+"date": "2025-01-06",
+"dir": "来",
+"who": "ravi@apolloinfoways.in",
+"quote": "Pls share the Datasheet for this. Ravi ________________________________",
+"why": "来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "79e45ea6c45d68d9"
 },
 {
 "date": "2025-12-08",
@@ -401091,7 +402030,7 @@
 "revive": "一句话",
 "lane": "ZA",
 "cadence": "一封",
-"evidence": "k=e0c4b6cd7947d58e"
+"evidence": "k=e0c4b6cd7947d58e；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -401110,7 +402049,16 @@
 "action": "一句话",
 "one_question": "Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?"
 },
-"facts": [],
+"facts": [
+{
+"date": "2026-03-23",
+"dir": "来",
+"who": "inus@netshieldsa.com",
+"quote": "Hi, Please give me indication of pricing on all your switches? Regards Inus",
+"why": "来信原文（主题「RE: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "e0c4b6cd7947d58e"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -406298,7 +407246,7 @@
 "revive": "不动",
 "lane": "AE",
 "cadence": "不动",
-"evidence": "k=a0ca6fa7bfe03f08"
+"evidence": "k=a0ca6fa7bfe03f08；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -406317,7 +407265,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-09-08",
+"dir": "来",
+"who": "info@techsouq.com",
+"quote": "Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirate",
+"why": "来信原文（主题「Re: Power Converter」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "a0ca6fa7bfe03f08"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -409043,7 +410000,7 @@
 "revive": "若发，只发 CENTEC 半宽 10G/25G",
 "lane": "CA",
 "cadence": "一封",
-"evidence": "k=2974def9d7ffbd3f / 75e864d4417eab48"
+"evidence": "k=2974def9d7ffbd3f / 75e864d4417eab48；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "需求是数据中心 ToR 口径。",
 "need": "全 SFP+，前后风道。",
@@ -409063,6 +410020,14 @@
 "one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
 },
 "facts": [
+{
+"date": "2024-06-17",
+"dir": "来",
+"who": "francois.burton0@gmail.com",
+"quote": "No thanks... any SFP/SFP+ switches only? No need for copper...",
+"why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "2974def9d7ffbd3f"
+},
 {
 "date": "2024-06-24",
 "dir": "来",
@@ -424576,7 +425541,7 @@
 "revive": "不动",
 "lane": "CA",
 "cadence": "不动",
-"evidence": "k=a7eeebbc9d6743fe / 3b06b00f028239e2"
+"evidence": "k=a7eeebbc9d6743fe / 3b06b00f028239e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "被动 PoE 24 口。",
@@ -424596,6 +425561,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2024-07-30",
+"dir": "来",
+"who": "joejts@hotmail.com",
+"quote": "Hi Yea I’m interested Could you send me a quote ________________________________",
+"why": "来信原文（主题「Re: Passive poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "a7eeebbc9d6743fe"
+},
 {
 "date": "2025-11-21",
 "dir": "来",
@@ -440148,7 +441121,7 @@
 "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
 "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
 "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
-"evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+"evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
 "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
 "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
@@ -440181,12 +441154,44 @@
 "k": "8a0346334ec9c3de"
 },
 {
+"date": "2025-11-12",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Dear Alan, We use L2, L2 + POE, L3, L3+ POE, Industrial and commercial switches. I am talking to our Engineering Team to see if we can put our cyber s",
+"why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "996986a756e7754a"
+},
+{
 "date": "2025-11-25",
 "dir": "来",
 "who": "Steve",
 "quote": "Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API…",
 "why": "SDK/API 需求 = 边界信号",
 "k": "68cb354a84c7aa86"
+},
+{
+"date": "2025-12-01",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Dear Alan, Thank you for the prompt and very detailed response. The information you provided is excellent and confirms that our companies share a simi",
+"why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "bd914113e63ac880"
+},
+{
+"date": "2026-01-23",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Dear Alan, Happy New Year !! We wish you an amazing 2026!! We have been talking about your company with our Senior Management and our cooperation and",
+"why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "61994389b31eed18"
+},
+{
+"date": "2026-02-03",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Dear Alan, We would like to take this opportunity to wish you a wonderful Spring Chinese Holiday 2026 to you, your family and your colleagues! Kind re",
+"why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "e1c21321a0b20243"
 },
 {
 "date": "2026-02-05",
@@ -440205,6 +441210,14 @@
 "k": "gmail_a att 2026-02-16"
 },
 {
+"date": "2026-02-27",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Dear Alan, we had an outlook issue that was affecting our emails. Would be kind to give us the following answers We are not looking to get Juniper MX2",
+"why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "f9e69dea9b5d2ded"
+},
+{
 "date": "2026-03-20",
 "dir": "来",
 "who": "Steve",
@@ -440221,6 +441234,22 @@
 "k": "gmail_a att 2026-03-20/23"
 },
 {
+"date": "2026-03-23",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Hi Alan, See the answer to your question Do you mean QSFP112 400Gb module and 6 pieces in EACH unit(total",
+"why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "f05ed71fa67e24bc"
+},
+{
+"date": "2026-04-23",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Hi Steve, We just corrected their design and it is up to them to validate the solution and send us the PI to buy the units for them. Kind regards Stan",
+"why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "47febb7202087218"
+},
+{
 "date": "2026-05-11",
 "dir": "来",
 "who": "Steve",
@@ -440235,6 +441264,14 @@
 "quote": "In the 50 switches is there a plan for 800GB or just the one you quoted us?",
 "why": "50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做",
 "k": "77fc79297576e203"
+},
+{
+"date": "2026-07-02",
+"dir": "来",
+"who": "info@itmsystems.net",
+"quote": "Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve",
+"why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "49a17ee1feaa5e14"
 },
 {
 "date": "2026-08-03",
@@ -444721,7 +445758,7 @@
 "revive": "不动",
 "lane": "US",
 "cadence": "不动",
-"evidence": "k=366a3daa8f45f640"
+"evidence": "k=366a3daa8f45f640；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "来信全部为机器回复；无人读信或无人回信。",
 "need": "—",
@@ -444740,7 +445777,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-02-03",
+"dir": "来",
+"who": "domsales@patton.com",
+"quote": "Hello Alan, I was able to review with our support team on your needs for a switch. The closest model we have is the FP2024E however it does not suppor",
+"why": "来信原文（主题「[DomSales #397845]: L3 Managed Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+"k": "366a3daa8f45f640"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -465195,7 +466241,7 @@
 "revive": "不要再发群发。按 Greg 2025-01-31 写下的硬规格逐条对表回一封：10/100/1G/10G 铜 + SFP；专用高速堆叠口（40/80/100G）；多台识别为一台逻辑交换机的虚拟化管理——CENTEC 线（STH 系列 VXLAN/EVPN/Stacking）才对得上，Marvell AC5 的「stacking」对不上 Catalyst 9300；备用具名邮箱：rwtull@versitron.com（自动回复中出现的同司具名邮箱，2026-03-11，k=4ac602505b7d8db3；从未发过）",
 "lane": "US 主攻；品牌商 OEM = 目标顺位第一",
 "cadence": "一封「对表信」现在发；之后每季度只发与堆叠/核心相关的实质更新，不发 PoE 小品",
-"evidence": "k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）"
+"evidence": "k=1025007cd6875d3e（2024-11-19 堆叠需求原话）；1c4ec9e7a2e3b881（Simon「2~3 months」）；f8ad0f8ce32688ea（2025-01-31 硬规格）；0a50926da6770aea / 517fb73517e3920c / e1fd8f4094de16bc / 08fe828b2a31d85b / e97d49af1e93423b（5 次追问）；973470596a08bd2e（2025-10-31「serious issues after 1st release」）；401b90aaadcce218（「alternative to Cisco」）；3cab7e50e48fea36（2026-03-11 宣布可用）；4ac602505b7d8db3（只收到 OOO）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
 },
 "situation": "这是 S 邮箱里最典型的「客户在追、供方在拖」的反例。Greg 在 2024-11-19 主动提出要开发一条带堆叠的交换机产品线「so that we can compete with Cisco in the USA market」，并问 Simon 公司能否做；Simon 答 2~3 个月会有。接下来一年 Greg 追了六次（2025-06-11/18/23、10-15、10-30），Simon 的回答从「ready, what spec?」到「serious issues after 1st release」再到「honestly we do not see a big demand」。2026-03-11 Simon 终于说所有型号都支持堆叠并附 Drive 链接，对方只有自动回复。Greg 给出的规格（10G 铜/光 + 40/80/100G 专用堆叠口 + 单逻辑交换机）实际上是 Catalyst 9300 级别，SmartByte Marvell AC5 线不具备，CENTEC 线才有可能。",
 "need": "可堆叠的企业接入/汇聚整线（1G/10G 接入 + 40/80/100G 堆叠口 + 单逻辑管理），用 Versitron 品牌替代 Cisco。",
@@ -465215,6 +466261,70 @@
 "one_question": "Greg — AC5 is not Catalyst-9300-class stacking; CENTEC 25G/100G aggregation is what we can brand for you (8C48DX $4,800 / 2C6QX $1,200 EXW); which tier needs stacking first, access or aggregation?"
 },
 "facts": [
+{
+"date": "2023-11-09",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "Hello Simon: I hope all is well, and congratulations & good luck! We'll keep this information on-hand for future reference. Thank you, Greg Massott |",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "85123ce32bd28e55"
+},
+{
+"date": "2023-12-12",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "Hello Simon: Thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gmassott@versitro",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "bf1123a71b98d0a9"
+},
+{
+"date": "2024-01-08",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "Hello Simon: Thank you, and Happy New Year to you as well! Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gma",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "bdc33af7998da6ad"
+},
+{
+"date": "2024-02-20",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "Hello Simon: I hope all is well, and thank you for this information. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "c043a5ceedc13b6e"
+},
+{
+"date": "2024-05-16",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "Hello Simon: It's nice to hear from you, and I hope all is well. Can you send the datasheets for both the industrial and commercial versions along wit",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "362966d662d4b69d"
+},
+{
+"date": "2024-07-17",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "Hello Simon: I am well, I hope the same for you. Thank you for this information, we will keep it on file for future reference. Greg Massott | P: 302.8",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "5b36ad2e37bc3754"
+},
+{
+"date": "2024-08-14",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "I was asking if there are managed versions of the same variants that you provided. Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "8da54ed91f1c24e4"
+},
+{
+"date": "2024-08-14",
+"dir": "来",
+"who": "gmassott@versitron.com",
+"quote": "Hello Simon: Thank you for this information. Do you offer managed versions as well? If so, please provide the available models and prices. Greg Massot",
+"why": "来信原文（主题「Re: POE switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "16e894d27961f348"
+},
 {
 "date": "2024-11-19",
 "dir": "来",
@@ -468150,7 +469260,7 @@
 "revive": "一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由",
 "lane": "US 主攻；品牌商",
 "cadence": "季度一封只含实质进展的信；不发 PoE 小品",
-"evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）"
+"evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）"
 },
 "situation": "Casey 每隔几个月回一句，从「Maybe」到「How much」到「spec sheet and user manual」——七次回信没有一个「不」，但也没有一次 Saga 追问评审结果。Actelis 的产品是宽带接入（铜/光 + 工业），Saga 的 24 口 SFP 汇聚和工业 L3 PoE 对它是补线而非主线。",
 "need": "补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。",
@@ -468171,12 +469281,28 @@
 },
 "facts": [
 {
+"date": "2024-09-26",
+"dir": "来",
+"who": "pchurley@actelis.com",
+"quote": "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2",
+"why": "来信原文（主题「RE: [External]8 Port 2.5G Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "421dd559ac7a7b63"
+},
+{
 "date": "2025-01-03",
 "dir": "来",
 "who": "Michal Winkler",
 "quote": "Thank you for approaching us. Can you please share a data sheet of the switch ?",
 "why": "产品侧介入",
 "k": "b591a174013b884b"
+},
+{
+"date": "2025-01-04",
+"dir": "来",
+"who": "pchurley@actelis.com",
+"quote": "Simon, Thank you for the information. Let us review. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732",
+"why": "来信原文（主题「RE: [External]24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "4b1f19886629af5d"
 },
 {
 "date": "2025-04-28",
@@ -468187,12 +469313,28 @@
 "k": "5f74509fff9d6018"
 },
 {
+"date": "2025-08-27",
+"dir": "来",
+"who": "pchurley@actelis.com",
+"quote": "Simon, Thank you. We will keep you in mind for future projects. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7",
+"why": "来信原文（主题「RE: [External]90W PoE Managed Switc」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "ad286e0945b31160"
+},
+{
 "date": "2025-10-29",
 "dir": "来",
 "who": "Casey",
 "quote": "Do you have a spec sheet on this unit and a user manual?",
 "why": "三次索资料",
 "k": "2818350b0dbd1e1a"
+},
+{
+"date": "2026-03-02",
+"dir": "来",
+"who": "pchurley@actelis.com",
+"quote": "Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-63",
+"why": "来信原文（主题「RE: [External]Updated Ethernet Swit」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "840ce51782b3829d"
 }
 ],
 "proof_gaps": [],
@@ -471446,7 +472588,7 @@
 "revive": "不动",
 "lane": "TW",
 "cadence": "不动",
-"evidence": "k=b795aff546929794"
+"evidence": "k=b795aff546929794；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
 },
 "situation": "—",
 "need": "—",
@@ -471465,7 +472607,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2024-10-25",
+"dir": "来",
+"who": "styven@ilucoltd.com",
+"quote": "Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang",
+"why": "来信原文（主题「Re: 2.5G Web Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+"k": "b795aff546929794"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"

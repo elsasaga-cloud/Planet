@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-067` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2026-03-30 Robert 问「do you manufacture your own products or OEM them from another factory?」→ Alan 如实答「we OEM from a manufacturer」+ 产品组合；之后只收到一封群发式「Bid Invitation」（发件人与收件人同为 robert@，疑似邮箱外发/钓鱼），无实质回复）** ｜ 类型：加拿大网络/布线承包商（BSD Networks；Robert = 老板）——集成商，先问身份 ｜ 筛子：2（身份尽调） ｜ 停点：「OEM from a manufacturer」的回答对承包商不是问题，但 Alan 没有接着问他的项目；5-26 的「Bid Invitation」不是对 Saga 的回复（群发/可疑） ｜ 复活：一句话问他在投的项目用什么交换机 ｜ 通路：CA 主攻 ｜ 节奏：一封 ｜ 证据：k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）
+- **绑定等级：轻度触达（2026-03-30 Robert 问「do you manufacture your own products or OEM them from another factory?」→ Alan 如实答「we OEM from a manufacturer」+ 产品组合；之后只收到一封群发式「Bid Invitation」（发件人与收件人同为 robert@，疑似邮箱外发/钓鱼），无实质回复）** ｜ 类型：加拿大网络/布线承包商（BSD Networks；Robert = 老板）——集成商，先问身份 ｜ 筛子：2（身份尽调） ｜ 停点：「OEM from a manufacturer」的回答对承包商不是问题，但 Alan 没有接着问他的项目；5-26 的「Bid Invitation」不是对 Saga 的回复（群发/可疑） ｜ 复活：一句话问他在投的项目用什么交换机 ｜ 通路：CA 主攻 ｜ 节奏：一封 ｜ 证据：k=4cb6b53615aaeed7（身份问）；d63854cffb76b6d5（如实答）；96db4511c0c030f3（Bid Invitation，robert→robert）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：如实回答身份是对的（Saga.md：不称贸易商，但也不冒充工厂）；缺的是回问项目。
 - **对方真实需求（有据）**：承包项目用的接入/PoE。
 - **断点 / 为什么停在这里**：无闭环。
@@ -57,6 +57,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2026-03-30 | 来 | Robert | do you manufacture your own products or OEM them from another factory? I visited your website, but I could not find details regarding your specific products. | 身份尽调 + 官网信息不足 | `4cb6b53615aaeed7` |
 | 2026-03-31 | 去 | Alan | Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side. | 如实 | `d63854cffb76b6d5` |
+| 2026-05-26 | 来 | robert@bsdnetworks.com | Hello, BSD Networks is pleased to extend a formal Invitation to Bid for the construction of a new twelve-storey, approximately 285,000 sq. ft. mixed-u | 来信原文（主题「You have a Bid Invitation from BSD 」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `96db4511c0c030f3` |
 
 ## 基本事实（事实/推断/假设分层）
 

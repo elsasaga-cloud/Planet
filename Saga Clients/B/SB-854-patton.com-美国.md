@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-854` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（2 封 = 订阅确认 + DomSales 工单「我们最接近的型号是 FP2024E，不支持 DI/DO…」= 把 Saga 当成客户在推销）** ｜ 类型：美国工业网络品牌商（Patton） ｜ 筛子：0 ｜ 停点：对方销售把推销信当询价处理；无采购侧回复 ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=366a3daa8f45f640
+- **绑定等级：未触达（2 封 = 订阅确认 + DomSales 工单「我们最接近的型号是 FP2024E，不支持 DI/DO…」= 把 Saga 当成客户在推销）** ｜ 类型：美国工业网络品牌商（Patton） ｜ 筛子：0 ｜ 停点：对方销售把推销信当询价处理；无采购侧回复 ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=366a3daa8f45f640；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-02-03 | 来 | domsales@patton.com | Hello Alan, I was able to review with our support team on your needs for a switch. The closest model we have is the FP2024E however it does not suppor | 来信原文（主题「[DomSales #397845]: L3 Managed Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `366a3daa8f45f640` |
 
 ## 基本事实（事实/推断/假设分层）
 

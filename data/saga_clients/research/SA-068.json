@@ -140,7 +140,7 @@
       "revive": "只发工业温度款并把温度行放在第一句：STI-480XGGM（LT-IS6312XG-4XS8GT，8GE+4×10G SFP+，-40~+75℃）/ STI-448XGGGM（LT-IS6316XG-4XS4GX8GT）；不承诺 TAA/NSA/UL",
       "lane": "US（关税自理；无 UL）",
       "cadence": "2024-07 → 2026-09 去信 29 封（每 1–2 月一封群发）；最后人工来信 2026-06-01",
-      "evidence": "k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791"
+      "evidence": "k=9963340096ada5bb / 444cc4b308af1ab6 / 1568af8ab7b7c8ba / cf8437996c751467 / 2454f781f4a01510 / 372ede3d101a3791；第 19 批回补来信原文 0 条（gmail_s/gmail_a）"
     },
     "situation": "DYMEC 是最符合 Saga「自有品牌工业交换机」画像的美国客户之一，Thom Sherer 两年里回了 4 次，每次都是一句话把 Saga 发去的型号否掉：PoE 预算太低、不是我们的市场、工作温度不够。2026-05-29 他主动问「What is the operating temp?」，Alan 答「0ºC to 40ºC」（那封群发是商用 10G L3）→「does not go high enough」。Saga 工业系列全部 -40~+75℃，但从未把工业 10G 款发给他。",
     "need": "ITS 机柜用工业温度 L2/L3 交换机（10G 上联、PoE bt、DIN/机架），部分 SKU 要 TAA；经济线在用 Vitesse。",

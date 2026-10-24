@@ -1,124 +1,133 @@
 {
- "code": "SB-739",
- "name_official": "Techsouq Computers L.L.C.（Dubai）",
- "researched_at": "2026-10-21",
- "website_status": "在线（techsouq.com；快照 HTTP 错误，web 可达）",
- "summary": "迪拜老牌 IT 电商（1999 年起，约 8 人，营收约 $1M），服务政府 / 企业 / 消费者，专长「难找的 IT 产品」采购，Garmin 等经销；MD Ahmad Pervez（+971 4 355 0600），沙特热线；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器群发回复 interesting。表内国家沙特 → 实为阿联酋（沙特为分站），待核不改。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "名录",
-   "claim": "迪拜 IT 网店，1999 年，8 人，$948K；MD Ahmad Pervez",
-   "quote": "Techsouq Computers is an online IT store based in Dubai, UAE… Revenue $948 K… Employees 8… Founded 1999… Ahmad Pervez Managing Director",
-   "url": "https://www.datanyze.com/companies/techsouq/355182071",
-   "date": "2026-10-21"
+  "code": "SB-739",
+  "name_official": "Techsouq Computers L.L.C.（Dubai）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（techsouq.com；快照 HTTP 错误，web 可达）",
+  "summary": "迪拜老牌 IT 电商（1999 年起，约 8 人，营收约 $1M），服务政府 / 企业 / 消费者，专长「难找的 IT 产品」采购，Garmin 等经销；MD Ahmad Pervez（+971 4 355 0600），沙特热线；表内兴趣 MC / 机架 / 周边，2024-09 对电源转换器群发回复 interesting。表内国家沙特 → 实为阿联酋（沙特为分站），待核不改。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "名录",
+      "claim": "迪拜 IT 网店，1999 年，8 人，$948K；MD Ahmad Pervez",
+      "quote": "Techsouq Computers is an online IT store based in Dubai, UAE… Revenue $948 K… Employees 8… Founded 1999… Ahmad Pervez Managing Director",
+      "url": "https://www.datanyze.com/companies/techsouq/355182071",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系：+971 4 3550 600 / +966 800 850 1559 / info@techsouq.com；Bayan Business Center, DIP",
+      "quote": "Contact +971 4 3550600 (+966) 800 850 1559… Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First",
+      "url": "https://techsouq.com/contact-us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "LinkedIn",
+      "claim": "MD 自述：中东最早的在线技术商店之一，专长难找 IT 产品，B2C + B2B",
+      "quote": "Techsouq.com is one of the first & foremost on-line technology stores in the Middle East. We specialize in sourcing hard to find IT products & accessories",
+      "url": "https://aeroleads.com/in/ahmadpervez",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 机架 周边产品；2024-09 群发 power converter→interesting",
+      "quote": "兴趣：MC 机架 周边产品；回复：interesting",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Ahmad Pervez",
+      "title": "Managing Director",
+      "email": "ahmad@techsouq.com",
+      "phone": "+971 50 653 4953",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Shifan Shivani",
+      "title": "Co-Founder",
+      "email": "info@techsouq.com",
+      "phone": "+971 4 355 0600",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（名录 + 官网核对）"
   },
-  {
-   "kind": "官网",
-   "claim": "联系：+971 4 3550 600 / +966 800 850 1559 / info@techsouq.com；Bayan Business Center, DIP",
-   "quote": "Contact +971 4 3550600 (+966) 800 850 1559… Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First",
-   "url": "https://techsouq.com/contact-us/",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "Techsouq Computers L.L.C.",
+    "founded": "1999",
+    "hq": "Bayan Business Center, Dubai Investments Park 1, Dubai, UAE（PO Box 27570）",
+    "size": "约 8 人，营收约 $1M",
+    "other": "WooCommerce 电商；沙特免费热线"
   },
-  {
-   "kind": "LinkedIn",
-   "claim": "MD 自述：中东最早的在线技术商店之一，专长难找 IT 产品，B2C + B2B",
-   "quote": "Techsouq.com is one of the first & foremost on-line technology stores in the Middle East. We specialize in sourcing hard to find IT products & accessories",
-   "url": "https://aeroleads.com/in/ahmadpervez",
-   "date": "2026-10-21"
+  "business_lines": [
+    "IT 产品电商（服务器、网络、外设）",
+    "B2B 采购 / AMC"
+  ],
+  "channels": {
+    "role": "电商 / 经销",
+    "region": "阿联酋 + 沙特"
   },
-  {
-   "kind": "用户表",
-   "claim": "MC 机架 周边产品；2024-09 群发 power converter→interesting",
-   "quote": "兴趣：MC 机架 周边产品；回复：interesting",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "对 MC 机架（周边）有兴趣"
+  ],
+  "risks": [
+    "电商小单、价格透明",
+    "MC 机架 Saga 价目无（按 SmartByte 另询）"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 20,
+    "why": "MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。"
+  },
+  "email_hook": "Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2024-09-08 Ahmad「Looks good」→ $33.5 + 问样；无后续）",
+      "type": "迪拜 IT 分销（Techsouq）",
+      "sieve": "2",
+      "stop": "问样后无回",
+      "revive": "不动",
+      "lane": "AE",
+      "cadence": "不动",
+      "evidence": "k=a0ca6fa7bfe03f08；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-09-08",
+        "dir": "来",
+        "who": "info@techsouq.com",
+        "quote": "Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirate",
+        "why": "来信原文（主题「Re: Power Converter」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "a0ca6fa7bfe03f08"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Ahmad Pervez",
-   "title": "Managing Director",
-   "email": "ahmad@techsouq.com",
-   "phone": "+971 50 653 4953",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Shifan Shivani",
-   "title": "Co-Founder",
-   "email": "info@techsouq.com",
-   "phone": "+971 4 355 0600",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（名录 + 官网核对）"
- },
- "company_facts": {
-  "legal_name": "Techsouq Computers L.L.C.",
-  "founded": "1999",
-  "hq": "Bayan Business Center, Dubai Investments Park 1, Dubai, UAE（PO Box 27570）",
-  "size": "约 8 人，营收约 $1M",
-  "other": "WooCommerce 电商；沙特免费热线"
- },
- "business_lines": [
-  "IT 产品电商（服务器、网络、外设）",
-  "B2B 采购 / AMC"
- ],
- "channels": {
-  "role": "电商 / 经销",
-  "region": "阿联酋 + 沙特"
- },
- "signals": [
-  "对 MC 机架（周边）有兴趣"
- ],
- "risks": [
-  "电商小单、价格透明",
-  "MC 机架 Saga 价目无（按 SmartByte 另询）"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 20,
-  "why": "MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。"
- },
- "email_hook": "Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set.",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2024-09-08 Ahmad「Looks good」→ $33.5 + 问样；无后续）",
-   "type": "迪拜 IT 分销（Techsouq）",
-   "sieve": "2",
-   "stop": "问样后无回",
-   "revive": "不动",
-   "lane": "AE",
-   "cadence": "不动",
-   "evidence": "k=a0ca6fa7bfe03f08"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

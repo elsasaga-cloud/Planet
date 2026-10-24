@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-005` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2025-12-15 Kent Wang（Product Management）问「Input and Output devices also?」→ Alan：无 I/O 模块，转介）** ｜ 类型：台湾/德国布线品牌（ASSMANN / DIGITUS） ｜ 筛子：1 ｜ 停点：需求是 I/O 模块 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=841a7692319b168b
+- **绑定等级：轻度触达（2025-12-15 Kent Wang（Product Management）问「Input and Output devices also?」→ Alan：无 I/O 模块，转介）** ｜ 类型：台湾/德国布线品牌（ASSMANN / DIGITUS） ｜ 筛子：1 ｜ 停点：需求是 I/O 模块 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=841a7692319b168b；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-12-15 | 来 | kent.wang@assmann.com.tw | Dear Alan, Do you offer Input and Output devices also? Or only Industrial switch Please send me more product information. i.A. Kent Wang Team Manager | 来信原文（主题「RE: Marvell Industrial Alert System」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `841a7692319b168b` |
 
 ## 基本事实（事实/推断/假设分层）
 

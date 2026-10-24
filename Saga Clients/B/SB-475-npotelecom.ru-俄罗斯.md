@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-475` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）** ｜ 类型：俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档 ｜ 筛子：2（芯片/产地尽调） ｜ 停点：两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了 ｜ 复活：若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表 ｜ 通路：RU（点名） ｜ 节奏：一封 ｜ 证据：k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69
+- **绑定等级：轻度触达（2 封技术尽调：2024-06「What manufacturer is the chip?」；2026-05「What city is your factory located in? Do you produce switches based on Microchip and Centec chips?」→ Alan：China；Marvell + CENTEC）** ｜ 类型：俄罗斯电信设备企业（НПО Телеком；Mikhail Afonin = 技术/采购；用户标重要）——第一档 ｜ 筛子：2（芯片/产地尽调） ｜ 停点：两年两问都是尽调，没有需求；「工厂在哪个城市」问的是制造商身份——Alan 答「based on China」回避了 ｜ 复活：若发：直接说明 Saga 模式（工程 + 供应链，SmartByte 制造）+ CENTEC 型号表 ｜ 通路：RU（点名） ｜ 节奏：一封 ｜ 证据：k=a8f5e788a70b0a31 / f954ab2b523be0e6 / 3c59867d902a0b69；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：CENTEC/Microchip 平台交换机（自有产品线对标）。
 - **断点 / 为什么停在这里**：身份回答。
@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-05 | 来 | afonin@npotelecom.ru | Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin | 来信原文（主题「RE: Industrial fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `a8f5e788a70b0a31` |
 | 2026-05-12 | 来 | Mikhail Afonin | What city is your factory located in? Do you produce switches based on Microchip and Centec chips? | 尽调 | `f954ab2b523be0e6` |
 
 ## 基本事实（事实/推断/假设分层）

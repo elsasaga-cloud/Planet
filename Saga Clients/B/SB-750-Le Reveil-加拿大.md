@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-750` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-06 两封：「any SFP/SFP+ switches only? No need for copper」→「looking for SFP+ ports with ventilation front to back」；Saga 无前后风道全 SFP+ 款；之后 18 封群发无回）** ｜ 类型：加拿大小型网络/托管（Gmail 个人） ｜ 筛子：2 ｜ 停点：规格：全 SFP+ + 前后风道（数据中心口径）——AC5 线没有；CENTEC STH-2C12XF12XE 类有 ｜ 复活：若发，只发 CENTEC 半宽 10G/25G ｜ 通路：CA ｜ 节奏：一封 ｜ 证据：k=2974def9d7ffbd3f / 75e864d4417eab48
+- **绑定等级：轻度触达（2024-06 两封：「any SFP/SFP+ switches only? No need for copper」→「looking for SFP+ ports with ventilation front to back」；Saga 无前后风道全 SFP+ 款；之后 18 封群发无回）** ｜ 类型：加拿大小型网络/托管（Gmail 个人） ｜ 筛子：2 ｜ 停点：规格：全 SFP+ + 前后风道（数据中心口径）——AC5 线没有；CENTEC STH-2C12XF12XE 类有 ｜ 复活：若发，只发 CENTEC 半宽 10G/25G ｜ 通路：CA ｜ 节奏：一封 ｜ 证据：k=2974def9d7ffbd3f / 75e864d4417eab48；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：需求是数据中心 ToR 口径。
 - **对方真实需求（有据）**：全 SFP+，前后风道。
 - **断点 / 为什么停在这里**：产品线。
@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-06-17 | 来 | francois.burton0@gmail.com | No thanks... any SFP/SFP+ switches only? No need for copper... | 来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `2974def9d7ffbd3f` |
 | 2024-06-24 | 来 | François Burton | Not really, looking for SFP+ ports with ventilation front to back. | 规格 | `75e864d4417eab48` |
 
 ## 基本事实（事实/推断/假设分层）

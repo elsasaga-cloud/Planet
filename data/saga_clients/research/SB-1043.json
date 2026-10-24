@@ -112,7 +112,7 @@
       "revive": "一句话问当时的无线回传项目",
       "lane": "AE 非主攻（但 Intracom 体量大）",
       "cadence": "一封",
-      "evidence": "k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824"
+      "evidence": "k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "—",
     "need": "工业 PoE 小型款（无线回传站点）。",
@@ -132,6 +132,14 @@
       "one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027?"
     },
     "facts": [
+      {
+        "date": "2024-08-07",
+        "dir": "来",
+        "who": "myaacoub@intracom-telecom.com",
+        "quote": "Dear Sender, I am on annual leave with limited access to my emails, for any urgent matters contact me on my mobile. Best Regards, Mohammad Yaacoub +97",
+        "why": "来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "7ae3b3c443b92c6f"
+      },
       {
         "date": "2024-10-09",
         "dir": "来",

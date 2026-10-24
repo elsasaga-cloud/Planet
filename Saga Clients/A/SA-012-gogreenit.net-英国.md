@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-012` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度偏中（1 台在生产环境运行 + 固件 bug 反馈 + 博客/配置经验回传）** ｜ 类型：英国小型 IT 服务商 / 自用 + 技术博客（技术流） ｜ 筛子：3（付样 $500、PI、标签确认、收货验收、固件 bug 报告） ｜ 停点：对方不需要更多（单站点温室项目 1 台够用）+ PoE 异常未闭环（2026-03-19 电池供电场景 PoE 不出电，4-27 发截图后 Alan 5-20 追问无回） ｜ 复活：对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10） ｜ 通路：UK 已通（T/T $500 2025-08，DHL） ｜ 节奏：最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮 ｜ 证据：A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
+- **绑定等级：轻度偏中（1 台在生产环境运行 + 固件 bug 反馈 + 博客/配置经验回传）** ｜ 类型：英国小型 IT 服务商 / 自用 + 技术博客（技术流） ｜ 筛子：3（付样 $500、PI、标签确认、收货验收、固件 bug 报告） ｜ 停点：对方不需要更多（单站点温室项目 1 台够用）+ PoE 异常未闭环（2026-03-19 电池供电场景 PoE 不出电，4-27 发截图后 Alan 5-20 追问无回） ｜ 复活：对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10） ｜ 通路：UK 已通（T/T $500 2025-08，DHL） ｜ 节奏：最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮 ｜ 证据：A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：英国 Go Green IT（Chris，德比 DE22）2025-06 回群发，问 **STI-41616XGGPM-4BT** 能否在 48 V LiFePO4（峰值 56.6 V）系统上跑；8 月改要 L3/24 口版（差 $20 即升级）、问 DI/DO/RS485；8-23 付款 $500 → 9-08 收货「looks in good order」→ 11-23 已接入生产（10 Mbps 老设备正常，胜过原 Linovision）→ 2026-03-13 报 SSH `xterm-256color` 终端类型 bug → 3-19 报 PoE 不出电（电池系统停机数月后）并附 `backup-GreenhouseSwitch2-…-diag.tar.bz2` → 4-27 再发截图 → Alan 5-20「Any update?」无回。**走完全流程的技术型小客户，正处在「问题未闭环」状态。**
 - **对方真实需求（有据）**：① 已买：STI 系列 16 口工业 L2+/L3 PoE（4×BT），DC 48 V 电池供电，SFP 1G/10G；② 要 DI/DO/RS485（当时 16/24 口没有，8 口有）；③ 想要的是**能在离网电池系统稳定工作的 PoE 交换机**——PoE 在低压/重启后的行为是他的核心关切。
 - **断点 / 为什么停在这里**：技术支持没闭环：3-13 的 SSH 终端类型问题 Alan 答复后 Chris 回「Ah, that's a shame」（= 不能改），紧接着 3-19 报 PoE 不出电并附诊断包，A 邮箱里没有看到 Saga 给出结论；4-27 截图后沉默，Alan 5-20「Any update?」无回。对一个会写 bug 报告、会回传诊断包的客户，这是最便宜的绑定机会被放掉。
@@ -57,6 +57,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-06-10 | 来 | info@gogreenit.net | Hi Alan, Yes, this could be potentially useful. Do you have any more details? I am assuming your website isn't sagatelecom.com, as I couldn't find any | 来信原文（主题「Re: 90W PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `4293e7563200b9b8` |
 | 2025-06-11 | 来 | Chris（Go Green IT） | I am interested in something like a STI-41616XGGPM-4BT. Can you confirm that it will work up to at least 57V DC? your manual says 57V, but the Mechanical/CAD drawing says 75V… 48V LiFePO4 system… 56.6V | 技术流 + 读过 Drive 规格（筛子第 2 道） | `7aa281fa9f0de7b7` |
 | 2025-06-11 | 去 | Alan（Quotation.pdf，Buyer GOGREENIT / Chris，DAP UK） | STI-41616XGGPM-4BT 4×10G SFP+ + 16×GE PoE(12 af/at + 4 bt) L2+ 240W/370W，With Mounting Hanger，Without DI/DO/RS485 ×1 $400.0 + FedEx air door-to-door $60.00 = TOTAL $460.00；-40~+70℃@240W / -40~+60℃@370W | 首单型号与价格锚（$400 EXW 级 + $60 运费）；PI STAG20250823017（2025-08-23）随后成交 | `gmail_a att 2025-06-11` |
 | 2025-08-22 | 来 | Chris | If it's only $20 difference, then yes, I might as well go for the 24port version. You mentioned the "DI/DO/RS485" function | 价格不敏感，功能导向 | `06796ffea23adddd` |

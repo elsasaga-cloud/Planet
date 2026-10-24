@@ -44,12 +44,17 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-006` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2025-07-09 Jesse Chen（EDIMAX）要目录与价表 → 链接 → 「We will study your list and feedback soon」；无后续）** ｜ 类型：台湾网络品牌商（EDIMAX 讯舟）——台湾厂商口径 OEM/ODM 二供 ｜ 筛子：2 ｜ 停点：资料后无回 ｜ 复活：年度一次 ｜ 通路：TW ｜ 节奏：年度 ｜ 证据：k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c
+- **绑定等级：轻度触达（2025-07-09 Jesse Chen（EDIMAX）要目录与价表 → 链接 → 「We will study your list and feedback soon」；无后续）** ｜ 类型：台湾网络品牌商（EDIMAX 讯舟）——台湾厂商口径 OEM/ODM 二供 ｜ 筛子：2 ｜ 停点：资料后无回 ｜ 复活：年度一次 ｜ 通路：TW ｜ 节奏：年度 ｜ 证据：k=b21df8d3abb40eb6 / 07bd3a88e1d5f61c；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）———
 - **下一步（具体）**：2027　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-07-09 | 来 | jessechen@edimax.com.tw | Hi Alan, Thanks for your information. We will study your list and feedback to you soon. Regards, Jesse Chen | 来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `07bd3a88e1d5f61c` |
+| 2025-07-09 | 来 | jessechen@edimax.com.tw | Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen | 来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `b21df8d3abb40eb6` |
 
 ## 基本事实（事实/推断/假设分层）
 

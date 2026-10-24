@@ -287,7 +287,7 @@
       "revive": "已在复购中（2026-10-15 第 6 单 20×STC-4168XGGCM EUR 付款、10-17 投产）；下一级 = 交期承诺 + 媒体转换器方案（Realtek 线可否？）",
       "lane": "DE 已通（USD/EUR T/T 到同一账户、DHL；Peter 直接处理技术）",
       "cadence": "最后 2026-10-17 Simon「got the payment and are producing」；实质往来 2024 → 2026-10 持续；S 邮箱 45 来 / A 邮箱无",
-      "evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792"
+      "evidence": "S 邮箱 k=c921dc47fd9370bb / 8f79a607c3cc831e / 3c32c9ad46e6235d / 61065505a331e5fd / c24584352bd15931 / 60ac95de9259a792；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
     },
     "situation": "NYNEX（Frederik Kriewitz）是全库唯一「较深」绑定：2025-03 测试反馈即要求 SmartByte 申请 IANA PEN 并把私有 OID 挂到自己树下（后以 SmartByte PEN 56166 落地，LibreNMS 26.1 按 sysObjectID 识别「SmartByte」）；2025-09 为 230 台项目问 AC5 新机（风扇/双电源监控）→ 样机 1 台 → 11–12 月 MIB/固件三轮迭代到「working as expected」；2026-01-20 告知 230 台因 Saga 最初交期长而用了现有供应；2026-09-29 第 6 单 20×STC-4168XGGCM（双 AC，同上单），要 EUR 付款、因涨价需另取 3 家比价，10-15 付款并坚持 **SmartByte 原名 + SNMP 厂商 OID**，10-17 投产。",
     "need": "① 1G SFP 下联 + 10G 上联接入机（STC-4168XGGCM 双 AC）——持续；② 风扇/双 PSU 状态、温度、CPU/内存全部可 SNMP 读（ENTITY-SENSOR-MIB 标准化建议）；③ **低成本 2×10G + 4×2.5G 轻管理媒体转换器/ONT，首单 1,000、之后 2,000/年**（FTTH 1G→10G 升级，老路由器只支持 1G）；④ 交期短（230 台项目因交期丢）。",
@@ -314,6 +314,70 @@
       "one_question": "Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?"
     },
     "facts": [
+      {
+        "date": "2024-11-15",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "Hello Simon, thank you for the datasheets. Are these units available with dual AC input too? Can you share on which Marvel Chip + management CPUs with",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "72bbfb66a5dc2115"
+      },
+      {
+        "date": "2024-11-15",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "Hello Simon, do you have a 24/48 x SFP version and a non PoE 24/48 BASE-T version too? We’re also looking for a low cost 10G switches with 100G uplink",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "709eb72c74251c3c"
+      },
+      {
+        "date": "2024-11-19",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "Hello Simon, you’re right about the Switch ICs BDCOM uses. I’m not aware of any marvel switches made by BDCOM. They also develop their OS in house and",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "bb48b4bc9c0ee4fc"
+      },
+      {
+        "date": "2024-11-19",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "Hello Simon, thank you for the offer but with these prices it doesn’t make much sense to try them. We’re currently using BDCOM switches which are chea",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "2c73370ad9f9cefb"
+      },
+      {
+        "date": "2024-11-20",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "4*1G/2.5G/10G+24*1G Ethernet(PoE optional) 150usd/pc for non-PoE model Is there a SFP version available too? Best Regards Frederik Kriewitz NYNEX sate",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "74aac1949ef29187"
+      },
+      {
+        "date": "2024-11-21",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "We can test both: 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo, L2+ managed, Dual AC input 4*1G/2.5G/10G+24*1G Ethernet, L2+ managed, Dual AC input",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "0ff5029dc9b104bb"
+      },
+      {
+        "date": "2024-11-21",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "Ok, please send a quote/invoice for one sample unit for the 24 port BASE-T and SFP switches. Are we the first one asking for the dual AC model? Do you",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "aa2f0df9e1b26eee"
+      },
+      {
+        "date": "2024-11-21",
+        "dir": "来",
+        "who": "f.kriewitz@nynex.de",
+        "quote": "Hello Simon, ok, what would be the extra costs for the 2 AC version? Best Regards Frederik Kriewitz NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Dar",
+        "why": "来信原文（主题「RE: 48 Port PoE Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "efebdbab211ca5a4"
+      },
       {
         "date": "2025-03-26",
         "dir": "来",

@@ -90,7 +90,7 @@
       "revive": "补发 Q2 价表",
       "lane": "KR 次级（点名）",
       "cadence": "一封",
-      "evidence": "k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46"
+      "evidence": "k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "—",
     "need": "CENTEC 核心/汇聚 + 商用 FS 贴标。",
@@ -110,6 +110,14 @@
       "one_question": "Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 list; is the first project 10G/25G aggregation or 100G core?"
     },
     "facts": [
+      {
+        "date": "2025-02-04",
+        "dir": "来",
+        "who": "jryoun74@hcin4.com",
+        "quote": "﻿thank you for infromations... please attach datasheet and website... thank you! ---------- Original message ---------- From: \"Alan from Saga Telecom\"",
+        "why": "来信原文（主题「RE: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "8b775668d592d1fe"
+      },
       {
         "date": "2026-01-16",
         "dir": "来",

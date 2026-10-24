@@ -107,7 +107,7 @@
       "revive": "把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信",
       "lane": "UK 主攻",
       "cadence": "季度一封项目型信",
-      "evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+      "evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
     },
     "situation": "Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。",
     "need": "项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。",
@@ -147,6 +147,14 @@
         "k": "9709506348c74b1f"
       },
       {
+        "date": "2025-07-06",
+        "dir": "来",
+        "who": "wadii@teltronix.net",
+        "quote": "Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:im",
+        "why": "来信原文（主题「RE: 16 Port Ethernet Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "193727c946660628"
+      },
+      {
         "date": "2025-07-07",
         "dir": "来",
         "who": "Wadii",
@@ -169,6 +177,14 @@
         "quote": "HDR-30-24: 15usd/pc… NDR-120-48: 25usd/pc… NDR-240-48: 40usd/pc",
         "why": "电源价",
         "k": "79fecf111ba8f0f3"
+      },
+      {
+        "date": "2025-10-31",
+        "dir": "来",
+        "who": "wadii@teltronix.net",
+        "quote": "It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C",
+        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "f22fe1c8ed3e3766"
       }
     ],
     "proof_gaps": [],

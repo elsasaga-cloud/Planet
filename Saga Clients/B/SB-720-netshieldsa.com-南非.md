@@ -42,13 +42,17 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-720` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2026-03-23 Inus「indication of pricing on all your switches」→ 价表已发；无后续）** ｜ 类型：南非自有品牌网络/电源商（Netshield） ｜ 筛子：2 ｜ 停点：价表后无回 ｜ 复活：一句话 ｜ 通路：ZA ｜ 节奏：一封 ｜ 证据：k=e0c4b6cd7947d58e
+- **绑定等级：轻度触达（2026-03-23 Inus「indication of pricing on all your switches」→ 价表已发；无后续）** ｜ 类型：南非自有品牌网络/电源商（Netshield） ｜ 筛子：2 ｜ 停点：价表后无回 ｜ 复活：一句话 ｜ 通路：ZA ｜ 节奏：一封 ｜ 证据：k=e0c4b6cd7947d58e；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）———
 - **下一步（具体）**：2026-12　A 邮箱 → inus@netshieldsa.com　一句话
   - 第一问（只问一个）：Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-03-23 | 来 | inus@netshieldsa.com | Hi, Please give me indication of pricing on all your switches? Regards Inus | 来信原文（主题「RE: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `e0c4b6cd7947d58e` |
 
 ## 基本事实（事实/推断/假设分层）
 

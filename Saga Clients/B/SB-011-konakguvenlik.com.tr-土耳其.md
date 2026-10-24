@@ -42,12 +42,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-011` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-06-26 Erkut 贴了一张 Allied Telesis AT-FS750-28 的图问「有没有这个规格的」→ Simon 给了 24 口 PoE 近似款；无后续；HRUI/丰润达在售 → Q-33 口径）** ｜ 类型：土耳其安防电商（Konak Güvenlik） ｜ 筛子：2 ｜ 停点：Q-33 + 需求是 24 口百兆非 PoE 入门款 ｜ 复活：不动 ｜ 通路：TR 主攻但 Q-33 ｜ 节奏：不动 ｜ 证据：k=f2187e6f5c356bda / 8c1d7c507bf9d631
+- **绑定等级：轻度触达（2024-06-26 Erkut 贴了一张 Allied Telesis AT-FS750-28 的图问「有没有这个规格的」→ Simon 给了 24 口 PoE 近似款；无后续；HRUI/丰润达在售 → Q-33 口径）** ｜ 类型：土耳其安防电商（Konak Güvenlik） ｜ 筛子：2 ｜ 停点：Q-33 + 需求是 24 口百兆非 PoE 入门款 ｜ 复活：不动 ｜ 通路：TR 主攻但 Q-33 ｜ 节奏：不动 ｜ 证据：k=f2187e6f5c356bda / 8c1d7c507bf9d631；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：AT-FS750-28 同类。
 - **断点 / 为什么停在这里**：Q-33。
 - **Saga 现在该推什么**：P1 **—**（20% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-26 | 来 | satis@konakguvenlik.com.tr | Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir | 来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `f2187e6f5c356bda` |
 
 ## 基本事实（事实/推断/假设分层）
 

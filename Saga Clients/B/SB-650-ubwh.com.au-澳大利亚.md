@@ -42,13 +42,17 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-650` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（1 封退信：store@ 已废弃 → cs@ubwh.com.au）** ｜ 类型：澳大利亚多品牌网店（UBWH） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：改发 cs@ubwh.com.au ｜ 通路：AU ｜ 节奏：2026-12 ｜ 证据：k=38270940dcccfc56
+- **绑定等级：未触达（1 封退信：store@ 已废弃 → cs@ubwh.com.au）** ｜ 类型：澳大利亚多品牌网店（UBWH） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：改发 cs@ubwh.com.au ｜ 通路：AU ｜ 节奏：2026-12 ｜ 证据：k=38270940dcccfc56；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—）———
   - 做不了 / 要先核的：具名联系人
 - **下一步（具体）**：2026-12　A 邮箱 → cs@ubwh.com.au　换地址
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-20 | 来 | store@ubwh.com.au | The email address 'store@ubwh.com.au' is obsolete and no longer monitored. Please re-send your email to: cs@ubwh.com.au | 来信原文（主题「Delivery failed: Un-monitored email」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `38270940dcccfc56` |
 
 ## 基本事实（事实/推断/假设分层）
 

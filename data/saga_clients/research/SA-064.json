@@ -171,7 +171,7 @@
       "revive": "① 他有非 GSA（商业/州县）项目需要 8 口加固 PoE；② 或他问「TAA 怎么解」——Saga 没有台湾/越南产线，不能承诺，只能老实说",
       "lane": "US 已通（PayPal 5%、DHL/UPS DAP；弗吉尼亚 Woodbridge）",
       "cadence": "最后 2026-08-14 Alan 推 24 口 PoE（无回）；对方最后来信 2025-07-24；实质往来 2025-07-11 → 07-24，14 轮两周内完成",
-      "evidence": "A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+      "evidence": "A 邮箱 k=3cce90c065ca8ce5 / 34e665593ab1c50f / 41a1bbbe8f213553 / 9fc5dd871aabe856；S 邮箱早期接触见研究档；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；第 19 批回补来信原文 6 条（gmail_s/gmail_a）"
     },
     "situation": "美国 52 Networks（John Davis，Director Sales，VA）2025-07-11 回群发问「anything similar to」他附的 1U 非管理机 → 两天内问价、问含电源价 → 7-17 要 2 台样机 + PayPal 链接 → 7-18 付款 → 7-22/23 催货 → 7-24「Thanks」后沉默。**典型美国转售商试样：两周内付钱，之后没有项目就没有声音。**",
     "need": "① 8 口工业 PoE（附 1U 非管理机图样，可能是替代某现有 SKU）；② 含电源整套报价；③ 快（反复问 how soon）。",
@@ -234,6 +234,54 @@
         "quote": "I just made the payment",
         "why": "PayPal 成交",
         "k": "41a1bbbe8f213553"
+      },
+      {
+        "date": "2025-07-22",
+        "dir": "来",
+        "who": "sales@52networks.com",
+        "quote": "Any update on this order? On Fri, 18 Jul 2025 at 17:24, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+        "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "1efcd4112e235525"
+      },
+      {
+        "date": "2025-07-22",
+        "dir": "来",
+        "who": "sales@52networks.com",
+        "quote": "Ok, thank you. On Tue, 22 Jul 2025 at 15:11, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+        "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "c8f0a3a982283253"
+      },
+      {
+        "date": "2025-07-23",
+        "dir": "来",
+        "who": "sales@52networks.com",
+        "quote": "some time yes, it depends *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networks.com <leo.marcus@52networks.com>* *Di",
+        "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "3c2e3b190382aab6"
+      },
+      {
+        "date": "2025-07-23",
+        "dir": "来",
+        "who": "sales@52networks.com",
+        "quote": "Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networ",
+        "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "4c795d0602544325"
+      },
+      {
+        "date": "2025-07-23",
+        "dir": "来",
+        "who": "sales@52networks.com",
+        "quote": "Thanks, I will let you know. On Wed, 23 Jul 2025 at 19:00, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+        "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "b54e8de1cb453b98"
+      },
+      {
+        "date": "2025-07-24",
+        "dir": "来",
+        "who": "sales@52networks.com",
+        "quote": "Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+        "why": "来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "3e1537243520fa28"
       },
       {
         "date": "2026-08-14",

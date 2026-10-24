@@ -1,103 +1,112 @@
 {
- "code": "SB-001",
- "name_official": "Merit LILIN Ent. Co., Ltd.（利凌，台湾）",
- "researched_at": "2026-10-21",
- "website_status": "在线（meritlilin.com，快照 2026-10-21）",
- "summary": "台湾 IP 摄像机 / NVR / 边缘 AI 品牌（智慧交通、零售、工业），产品线含 PoE 配套；表内 Gina Hsu 要 MC / PoE / 工业 FS 等周边产品**贴自己 logo**，2025-02 对 24 光 combo 回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "定位：AI 监控摄像机、NVR、边缘计算；关键词 camera 175 / poe 9 / distributor 20",
-   "quote": "LILIN AI surveillance cameras, NVR systems, and edge computing solutions for smart transportation, retail, and industrial applications",
-   "url": "https://meritlilin.com/en",
-   "date": "2026-10-21"
+  "code": "SB-001",
+  "name_official": "Merit LILIN Ent. Co., Ltd.（利凌，台湾）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（meritlilin.com，快照 2026-10-21）",
+  "summary": "台湾 IP 摄像机 / NVR / 边缘 AI 品牌（智慧交通、零售、工业），产品线含 PoE 配套；表内 Gina Hsu 要 MC / PoE / 工业 FS 等周边产品**贴自己 logo**，2025-02 对 24 光 combo 回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "定位：AI 监控摄像机、NVR、边缘计算；关键词 camera 175 / poe 9 / distributor 20",
+      "quote": "LILIN AI surveillance cameras, NVR systems, and edge computing solutions for smart transportation, retail, and industrial applications",
+      "url": "https://meritlilin.com/en",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "兴趣 MC POE 工业 FS，比较多周边产品，自己的 logo；2025-02 商业 24 光 combo→INFO",
+      "quote": "兴趣：MC POE 工业FS 比较多周边产品 自己的logo；回复：INFO",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Gina Hsu",
+      "title": "（采购 / 产品，表内联系人）",
+      "email": "ginahsu@meritlilin.com.tw",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
   },
-  {
-   "kind": "用户表",
-   "claim": "兴趣 MC POE 工业 FS，比较多周边产品，自己的 logo；2025-02 商业 24 光 combo→INFO",
-   "quote": "兴趣：MC POE 工业FS 比较多周边产品 自己的logo；回复：INFO",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "Merit LILIN Ent. Co., Ltd.",
+    "founded": "1980（待核）",
+    "hq": "台北",
+    "size": "中型品牌商",
+    "other": "sales@meritlilin.com.tw"
+  },
+  "business_lines": [
+    "IP 摄像机 / NVR / 边缘 AI",
+    "配套 PoE 交换机 / 周边（贴牌采购）"
+  ],
+  "channels": {
+    "role": "品牌商（OEM 采购周边）",
+    "region": "全球（台湾总部）"
+  },
+  "signals": [
+    "明确要贴 LILIN logo 的 PoE / MC / 工业 FS → OEM 30%"
+  ],
+  "risks": [
+    "台系品牌商：按继承规则非渠道客户，仅作 OEM 买方",
+    "量取决于其项目，付款条件需 T/T"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "摄像机配套 8 PoE + 2 SFP 管理机贴 LILIN 标（OEM 30%）；工业款 STI-288GP、MC STI-110GE 同步贴牌。"
+  },
+  "email_hook": "Gina, for LILIN-branded PoE switches and media converters to ship with your cameras — which two SKUs would you start with (e.g. 8-PoE + 2-SFP managed and a 4-PoE industrial)? I'll send neutral samples with your logo mock-up.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2025-02-20 Gina「which country are you from? I will forward to the responsible sales」—— 把 Saga 当客户）",
+      "type": "台湾安防品牌商（Merit LILIN）",
+      "sieve": "1",
+      "stop": "错位",
+      "revive": "不动",
+      "lane": "TW",
+      "cadence": "不动",
+      "evidence": "k=ed575542f470023e；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-20",
+        "dir": "来",
+        "who": "ginahsu@meritlilin.com.tw",
+        "quote": "Hi, May I ask which country you are from? I will forward this to the responsible sales representative. Alan from Saga Telecom 於 2025.02.20 14:30 寫到：",
+        "why": "来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "ed575542f470023e"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Gina Hsu",
-   "title": "（采购 / 产品，表内联系人）",
-   "email": "ginahsu@meritlilin.com.tw",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
- },
- "company_facts": {
-  "legal_name": "Merit LILIN Ent. Co., Ltd.",
-  "founded": "1980（待核）",
-  "hq": "台北",
-  "size": "中型品牌商",
-  "other": "sales@meritlilin.com.tw"
- },
- "business_lines": [
-  "IP 摄像机 / NVR / 边缘 AI",
-  "配套 PoE 交换机 / 周边（贴牌采购）"
- ],
- "channels": {
-  "role": "品牌商（OEM 采购周边）",
-  "region": "全球（台湾总部）"
- },
- "signals": [
-  "明确要贴 LILIN logo 的 PoE / MC / 工业 FS → OEM 30%"
- ],
- "risks": [
-  "台系品牌商：按继承规则非渠道客户，仅作 OEM 买方",
-  "量取决于其项目，付款条件需 T/T"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "摄像机配套 8 PoE + 2 SFP 管理机贴 LILIN 标（OEM 30%）；工业款 STI-288GP、MC STI-110GE 同步贴牌。"
- },
- "email_hook": "Gina, for LILIN-branded PoE switches and media converters to ship with your cameras — which two SKUs would you start with (e.g. 8-PoE + 2-SFP managed and a 4-PoE industrial)? I'll send neutral samples with your logo mock-up.",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2025-02-20 Gina「which country are you from? I will forward to the responsible sales」—— 把 Saga 当客户）",
-   "type": "台湾安防品牌商（Merit LILIN）",
-   "sieve": "1",
-   "stop": "错位",
-   "revive": "不动",
-   "lane": "TW",
-   "cadence": "不动",
-   "evidence": "k=ed575542f470023e"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

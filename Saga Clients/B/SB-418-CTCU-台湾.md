@@ -42,12 +42,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-418` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2 封均为 CTC Union 内部转发（micro-chang → eddy-kao「FYI」），非对 Saga 的回复）** ｜ 类型：台湾工业网络制造商（CTC Union） ｜ 筛子：1 ｜ 停点：内部转发 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=e7feae9cbe6f3541 / 622d9c1213433077
+- **绑定等级：轻度触达（2 封均为 CTC Union 内部转发（micro-chang → eddy-kao「FYI」），非对 Saga 的回复）** ｜ 类型：台湾工业网络制造商（CTC Union） ｜ 筛子：1 ｜ 停点：内部转发 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=e7feae9cbe6f3541 / 622d9c1213433077；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-01-13 | 来 | micro-chang@ctcu.com.tw | Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* market | 来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `622d9c1213433077` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-002` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度（用户表「已成单 switch」；邮件无 PI——2024-12-05 起转 WhatsApp，成交细节不在邮箱）** ｜ 类型：美国工业无线品牌商（DataMover），自有品牌加固交换机 = 目前贴 Mikrotik（6/12 口，成本 $90–120 含加固外壳，自建云 NMS 调 Mikrotik API） ｜ 筛子：2–3 ｜ 停点：Mikrotik 锁定：2026-07-20 Frank「We have built a cloud NMS using the API… custom scripting and product validity certificate… Is there something that your switch does that MT does not do?」；Saga 1,500 USD CENTEC 10G 被拿去比 CRS326 $209/$289 ｜ 复活：Saga 交换机能被其 NMS 发现/诊断（SNMP/CLI/OID）——固件侧问题；Simon 2026-07-21 已给 130 USD 的 Marvell 对位款（同 CRS326 档），等 Frank 测 ｜ 通路：US；WhatsApp 为主（2024-12-05 起） ｜ 节奏：2024-12 → 2026-09 去信 25 封；最后实质来信 2026-07-20 ｜ 证据：k=95d30a86d792cc0d / d83e2c902092c388 / a5829330c3f7b38f / 5ad38241fd821cfe / 06610cfbde4173c3
+- **绑定等级：轻度（用户表「已成单 switch」；邮件无 PI——2024-12-05 起转 WhatsApp，成交细节不在邮箱）** ｜ 类型：美国工业无线品牌商（DataMover），自有品牌加固交换机 = 目前贴 Mikrotik（6/12 口，成本 $90–120 含加固外壳，自建云 NMS 调 Mikrotik API） ｜ 筛子：2–3 ｜ 停点：Mikrotik 锁定：2026-07-20 Frank「We have built a cloud NMS using the API… custom scripting and product validity certificate… Is there something that your switch does that MT does not do?」；Saga 1,500 USD CENTEC 10G 被拿去比 CRS326 $209/$289 ｜ 复活：Saga 交换机能被其 NMS 发现/诊断（SNMP/CLI/OID）——固件侧问题；Simon 2026-07-21 已给 130 USD 的 Marvell 对位款（同 CRS326 档），等 Frank 测 ｜ 通路：US；WhatsApp 为主（2024-12-05 起） ｜ 节奏：2024-12 → 2026-09 去信 25 封；最后实质来信 2026-07-20 ｜ 证据：k=95d30a86d792cc0d / d83e2c902092c388 / a5829330c3f7b38f / 5ad38241fd821cfe / 06610cfbde4173c3；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
 - **现状一句话**：Frank Neuperger 2024-12 一周内连问 5 封（管理？OS？每口功率？250 m 怎么跑以太网？56V 行不行？「Do you work for Saga Telecom?」），Simon 答「Saga Telecom is my sister's… 56V OK」后转 WhatsApp；用户表记成单。2026-07-20 Frank 的长信是 A 级里最有信息量的一封：他们私标 Mikrotik、靠 API 做云 NMS 和脚本增值、成本 90–120 美元，问 Saga 交换机能做什么 MT 做不到的。Simon 次日给了 130 USD 的 Marvell 24 口（与 CRS326 同级）。
 - **对方真实需求（有据）**：6/12/24 口加固管理交换机，能进其 NMS（API/SNMP 发现 + 吞吐测试），56V PoE，成本 ≤$120 级。
 - **断点 / 为什么停在这里**：客户系统依赖的是 Mikrotik 固件（J 系列「客户系统依赖固件」反向案例）；Saga 想替代就得在固件侧给出等价接口，不是价格。
@@ -56,8 +56,10 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-04 | 来 | Frank Neuperger | Is this a managed switch? If so, what operating system? What is max power per port?… With the specified 250 m POE distance, how do you get ETH connectivity? | 工程师式追问 | `95d30a86d792cc0d` |
+| 2024-12-05 | 来 | frank@simrex.com | Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fank Frank N | 来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `beb1989d2b8314a0` |
 | 2024-12-06 | 来 | Frank | Do you work for Saga Telecom? Can we use 56V with any of the products… Most of our POE is 56V. | 身份 + 56V | `d83e2c902092c388` |
 | 2024-12-07 | 去 | Simon | Saga Telecom is my sister's. I deal with foreign trade only… 56V is OK. For PoE models, the max input is 57V | 身份口径（历史） | `a5829330c3f7b38f` |
+| 2024-12-12 | 来 | frank@simrex.com | Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP etc. Frank Frank Neuperger Simrex Corporat | 来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `19b86efa448c3a2c` |
 | 2026-07-20 | 来 | Frank | we currently use Mikrotik… We have built a cloud NMS using the API… Our cost $90 to $120 including hardened metal packaging… your $1500 pricing is at least 5x… Is there something that your switch does that MT does not do? | 锁定与成本基准 | `5ad38241fd821cfe` |
 | 2026-07-21 | 去 | Simon | We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input. | Saga 对位 | `06610cfbde4173c3` |
 

@@ -103,7 +103,7 @@
       "revive": "一句话问 2025-10 要走的 24 口 SFP 汇聚规格书/手册评审结果；并把 2026-09 新固件 7.5 的 L2+/IPv6 变化作为「有实质进展」的理由",
       "lane": "US 主攻；品牌商",
       "cadence": "季度一封只含实质进展的信；不发 PoE 小品",
-      "evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）"
+      "evidence": "k=421dd559ac7a7b63（Maybe）；b591a174013b884b（Michal 要 datasheet）；4b1f19886629af5d（Let us review）；5f74509fff9d6018（How much）；d6394cf0f807b767（$500 STI-42424XGGPM-4BT）；ad286e0945b31160（keep in mind）；2818350b0dbd1e1a（spec sheet + manual）；840ce51782b3829d（Thank you…）；第 19 批回补来信原文 4 条（gmail_s/gmail_a）"
     },
     "situation": "Casey 每隔几个月回一句，从「Maybe」到「How much」到「spec sheet and user manual」——七次回信没有一个「不」，但也没有一次 Saga 追问评审结果。Actelis 的产品是宽带接入（铜/光 + 工业），Saga 的 24 口 SFP 汇聚和工业 L3 PoE 对它是补线而非主线。",
     "need": "补线：24 口 SFP 汇聚（10G 上联）、工业 L3 PoE。",
@@ -124,12 +124,28 @@
     },
     "facts": [
       {
+        "date": "2024-09-26",
+        "dir": "来",
+        "who": "pchurley@actelis.com",
+        "quote": "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2",
+        "why": "来信原文（主题「RE: [External]8 Port 2.5G Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "421dd559ac7a7b63"
+      },
+      {
         "date": "2025-01-03",
         "dir": "来",
         "who": "Michal Winkler",
         "quote": "Thank you for approaching us. Can you please share a data sheet of the switch ?",
         "why": "产品侧介入",
         "k": "b591a174013b884b"
+      },
+      {
+        "date": "2025-01-04",
+        "dir": "来",
+        "who": "pchurley@actelis.com",
+        "quote": "Simon, Thank you for the information. Let us review. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732",
+        "why": "来信原文（主题「RE: [External]24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "4b1f19886629af5d"
       },
       {
         "date": "2025-04-28",
@@ -140,12 +156,28 @@
         "k": "5f74509fff9d6018"
       },
       {
+        "date": "2025-08-27",
+        "dir": "来",
+        "who": "pchurley@actelis.com",
+        "quote": "Simon, Thank you. We will keep you in mind for future projects. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7",
+        "why": "来信原文（主题「RE: [External]90W PoE Managed Switc」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "ad286e0945b31160"
+      },
+      {
         "date": "2025-10-29",
         "dir": "来",
         "who": "Casey",
         "quote": "Do you have a spec sheet on this unit and a user manual?",
         "why": "三次索资料",
         "k": "2818350b0dbd1e1a"
+      },
+      {
+        "date": "2026-03-02",
+        "dir": "来",
+        "who": "pchurley@actelis.com",
+        "quote": "Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-63",
+        "why": "来信原文（主题「RE: [External]Updated Ethernet Swit」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "840ce51782b3829d"
       }
     ],
     "proof_gaps": [],

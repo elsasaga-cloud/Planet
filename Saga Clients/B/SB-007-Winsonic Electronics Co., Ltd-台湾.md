@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-007` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（Rex Lin 2 封：2025-03「interested in the Marvell solution… could you do Qualcomm, MTK or Realtek?」；2025-11 要 Booster 详细规格与价表 → 链接）** ｜ 类型：台湾网络设备制造商（Winsonic；Rex = 采购/产品）——同行制造商，二供口径 ｜ 筛子：2 ｜ 停点：要价表给链接；多平台问题未答 ｜ 复活：一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无 ｜ 通路：TW ｜ 节奏：一封 ｜ 证据：k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf
+- **绑定等级：轻度触达（Rex Lin 2 封：2025-03「interested in the Marvell solution… could you do Qualcomm, MTK or Realtek?」；2025-11 要 Booster 详细规格与价表 → 链接）** ｜ 类型：台湾网络设备制造商（Winsonic；Rex = 采购/产品）——同行制造商，二供口径 ｜ 筛子：2 ｜ 停点：要价表给链接；多平台问题未答 ｜ 复活：一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无 ｜ 通路：TW ｜ 节奏：一封 ｜ 证据：k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：Booster PoE 管理型 + 多芯片平台。
 - **断点 / 为什么停在这里**：回法。
@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-19 | 来 | rex.lin@ewinsonic.com | Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, M | 来信原文（主题「轉寄: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `6a176ba292b92e65` |
 | 2025-11-24 | 来 | Rex Lin | Coule you provide detial spec and price list? | 要价表 | `a1d6d7a7e1d0a1f5` |
 
 ## 基本事实（事实/推断/假设分层）

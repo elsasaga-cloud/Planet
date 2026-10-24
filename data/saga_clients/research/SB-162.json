@@ -1,94 +1,103 @@
 {
- "code": "SB-162",
- "name_official": "NKF Wireless Internet and Services（菲律宾；Joemar Baquiran）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（gmail）",
- "summary": "菲律宾小型 WISP（Joemar Baquiran），兴趣 PON 产品（Saga 无），2026-01 对 2 光 2 电 mini 工业机群发回复「sample?」。表内曾被误归「欧洲」名单。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣 Pon 产品；2026-01 群发 22mini→sample?",
-   "quote": "兴趣：Pon产品；回复：sample?",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-162",
+  "name_official": "NKF Wireless Internet and Services（菲律宾；Joemar Baquiran）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail）",
+  "summary": "菲律宾小型 WISP（Joemar Baquiran），兴趣 PON 产品（Saga 无），2026-01 对 2 光 2 电 mini 工业机群发回复「sample?」。表内曾被误归「欧洲」名单。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 Pon 产品；2026-01 群发 22mini→sample?",
+      "quote": "兴趣：Pon产品；回复：sample?",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Joemar Baquiran",
+      "title": "（经营者）",
+      "email": "joemar.baquiran@gmail.com",
+      "phone": "+63 927 933 1910",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "NKF Wireless Internet and Services",
+    "founded": "",
+    "hq": "菲律宾",
+    "size": "小型 WISP",
+    "other": "gmail"
+  },
+  "business_lines": [
+    "无线 / 光纤宽带接入（WISP）"
+  ],
+  "channels": {
+    "role": "小型 ISP（终端 / 自用）",
+    "region": "菲律宾"
+  },
+  "signals": [
+    "索样 2 光 2 电 mini（2026-01）"
+  ],
+  "risks": [
+    "PON/ONU 需求 Saga 无；小 ISP 量小、样品付费"
+  ],
+  "saga_fit": {
+    "p1": "STI-220GE",
+    "tier": 25,
+    "why": "2 光 2 电 mini 工业机 = Saga STI-220GE（$27.8/29.0/30.1）；PoE 版 STI-222GP。"
+  },
+  "email_hook": "Joemar, the 2-SFP + 2-port mini you asked a sample for is $29 EXW at 1 pc (sample = unit price + courier); do you want the PoE version for the tower CPEs or the plain one?",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2025-01-15 Joemar「send me an item for testing?」→ Simon：付样 $33 STI-222GP；无付款）",
+      "type": "菲律宾 WISP（NKF；Gmail）",
+      "sieve": "3（要样，未付）",
+      "stop": "免费样品期望",
+      "revive": "不动",
+      "lane": "PH",
+      "cadence": "不动",
+      "evidence": "k=fd2e05c62942799c / 05b51bd103cc66ea；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-01-15",
+        "dir": "来",
+        "who": "joemar.baquiran@gmail.com",
+        "quote": "sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks",
+        "why": "来信原文（主题「Re: Mini Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "fd2e05c62942799c"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [
-  {
-   "name": "Joemar Baquiran",
-   "title": "（经营者）",
-   "email": "joemar.baquiran@gmail.com",
-   "phone": "+63 927 933 1910",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "NKF Wireless Internet and Services",
-  "founded": "",
-  "hq": "菲律宾",
-  "size": "小型 WISP",
-  "other": "gmail"
- },
- "business_lines": [
-  "无线 / 光纤宽带接入（WISP）"
- ],
- "channels": {
-  "role": "小型 ISP（终端 / 自用）",
-  "region": "菲律宾"
- },
- "signals": [
-  "索样 2 光 2 电 mini（2026-01）"
- ],
- "risks": [
-  "PON/ONU 需求 Saga 无；小 ISP 量小、样品付费"
- ],
- "saga_fit": {
-  "p1": "STI-220GE",
-  "tier": 25,
-  "why": "2 光 2 电 mini 工业机 = Saga STI-220GE（$27.8/29.0/30.1）；PoE 版 STI-222GP。"
- },
- "email_hook": "Joemar, the 2-SFP + 2-port mini you asked a sample for is $29 EXW at 1 pc (sample = unit price + courier); do you want the PoE version for the tower CPEs or the plain one?",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2025-01-15 Joemar「send me an item for testing?」→ Simon：付样 $33 STI-222GP；无付款）",
-   "type": "菲律宾 WISP（NKF；Gmail）",
-   "sieve": "3（要样，未付）",
-   "stop": "免费样品期望",
-   "revive": "不动",
-   "lane": "PH",
-   "cadence": "不动",
-   "evidence": "k=fd2e05c62942799c / 05b51bd103cc66ea"
-  },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

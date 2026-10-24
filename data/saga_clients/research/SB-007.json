@@ -79,7 +79,7 @@
       "revive": "一封：Realtek 线有（STC 商用）、Qualcomm/MTK 无",
       "lane": "TW",
       "cadence": "一封",
-      "evidence": "k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf"
+      "evidence": "k=6a176ba292b92e65 / a1d6d7a7e1d0a1f5 / 26e3057cfa079fbf；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "—",
     "need": "Booster PoE 管理型 + 多芯片平台。",
@@ -99,6 +99,14 @@
       "one_question": "Rex — Booster PoE managed (STI-488XGGBPM) is $215 EXW in OEM lots; on platforms: Marvell AC5 and Realtek yes, Qualcomm/MTK no."
     },
     "facts": [
+      {
+        "date": "2025-03-19",
+        "dir": "来",
+        "who": "rex.lin@ewinsonic.com",
+        "quote": "Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, M",
+        "why": "来信原文（主题「轉寄: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "6a176ba292b92e65"
+      },
       {
         "date": "2025-11-24",
         "dir": "来",

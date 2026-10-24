@@ -1,323 +1,323 @@
 {
- "code": "SA-011",
- "name_official": "Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）",
- "website_status": "在线",
- "summary": "美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。",
- "type": "品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌",
- "size": "1–10 人（Crunchbase）/ 11–50（LinkedIn）；营收 $11.2M（ZoomInfo 口径，待核）",
- "brands_seen": [
-  "Vi-Link"
- ],
- "evidence": [
-  {
-   "kind": "第三方（ZoomInfo）",
-   "claim": "产品线含工业以太网交换机与工业光纤收发器——与 Saga STI 线直接对位",
-   "quote": "Their offerings include Optical Multiplexers … and Unmanaged Industrial Fast Ethernet switches for Traffic Control appli… Vi-Link also produces Industrial Fiber Optic Media Converters and robust Industrial Ethernet network switches",
-   "url": "https://www.zoominfo.com/c/vilink-communications-inc/40928131",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（Crunchbase）",
-   "claim": "成立 1993，Irvine CA，1–10 人，sales@vi-link.net",
-   "quote": "Vilink Communications is a manufacturer of fiber optic digital transmission products. Founded Jan 1, 1993 · Irvine, California · 1-10 · sales@vi-link.net",
-   "url": "https://www.crunchbase.com/organization/vilink-communications",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "vilinknet.com 已跳转到 vilink.us，产品类目含工业以太网交换机、MC、SFP、AOC/DAC",
-   "quote": "AI Video · Broadcast Video Fiber Extension · Air Fiber · … · Media Converter · Industrial Ethernet Network Switches · Optical Transponder · ITS Data Transceiver · Telephone Extension · SFP module · AOC/DOC",
-   "url": "https://vilink.us/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "工业非管理交换机系列型号 IE5…IE216、IEN10…IEN84，定位智能交通控制",
-   "quote": "Central to these systems are industrial Ethernet switches like the Vi-Link Industrial Unmanaged Ethernet Switches … IE5 IE8 IE10 IE12 IE14 IE18 IE24 IE28 IE216 IEN10 IEN21 IEN41 IEN42 IEN81 IEN82 IEN84",
-   "url": "https://vilink.us/industrial-ethernet-switch/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20240418006（CI，2024-04-18）：STC-4168XGGCM 共 1 台，USD 452.0；采购 SmartByte RMB 2100.0；Simon 成本表利润 RMB 120.16",
-   "quote": "",
-   "url": "PI.zip:6 美国 Thu 可发展/CI.xls",
-   "date": "2024-04-18"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20241119006（PI，2024-11-19）：STC-110XGE、STC-14DUR 共 5 台，USD 530.0；采购 SmartByte RMB 1750.0；Simon 成本表利润 RMB 437.12",
-   "quote": "",
-   "url": "PI.zip:6 美国 Thu 可发展/STSC20241119006.xls",
-   "date": "2024-11-19"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC-20260821-001（Quotation，2026-08-21）：STC-110FE 共 10 台，USD 325.0",
-   "quote": "",
-   "url": "PI.zip:6 美国 Thu 可发展/STSC-20260821-001.xlsx",
-   "date": "2026-08-21"
-  },
-  {
-   "kind": "PI",
-   "claim": "成交单据 STSC20260903006（CI，2026-09-24）：Fiber Media Converter 共 10 台，USD 165.0；采购 SmartByte RMB 0；Simon 成本表利润 RMB 192.61",
-   "quote": "",
-   "url": "PI.zip:6 美国 Thu 可发展/普通快递发票_STSC20260903006.xlsx",
-   "date": "2026-09-24"
-  },
-  {
-   "kind": "PI",
-   "claim": "PI 包文件夹「美国 Thu 可发展」：Simon 标签 可发展；单号 4 个，2024-04-18 → 2026-09-24，销售 USD 1147.0 / RMB 0，Simon 成本统计利润合计 RMB 749.89",
-   "quote": "",
-   "url": "PI.zip:6 美国 Thu 可发展",
-   "date": "2026-10-22"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "vilink.us 产品 sitemap：/shop lastmod 2026-08-06；产品含 IE5/IE8/IE10/IE12/IE14/IE18/IE24/IE28/IE216（工业非网管）、ME12…ME216（网管）、EN12…EN48、MC10/12/13/14/15/100/10G 媒体转换器、VL/HL/DL 系列视频光端机、10G–100G AOC/DAC",
-   "quote": "https://vilink.us/shop/ 2026-08-06T03:32:25+00:00 … /product/ie28/ … /product/me28/ … /product/mc10g/",
-   "url": "https://vilink.us/product-sitemap.xml",
-   "date": "2026-10-23"
-  },
-  {
-   "kind": "公开平台核查（T29-U18）",
-   "claim": "IM28 工业网管千兆交换机 8×RJ45 + 2×SFP，DIN 导轨 10~47 VDC，-40~85°C，4KV 浪涌，SW-Ring 环网 <20ms，标价 $395.00",
-   "quote": "IM28 $395.00 Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC … SW-Ring ring network patent technology (Fault recovery time<20ms)",
-   "url": "https://vilink.us/product/im28/",
-   "date": "2026-10-23"
-  }
- ],
- "kp": [
-  {
-   "name": "Robin Sun",
-   "role": "联系人（ProcessRegister 名录口径）",
-   "email": "sales@vilinknet.com（产品 PDF 页脚公开）",
-   "phone": "+1 714-312-0654",
-   "source": "https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf"
-  },
-  {
-   "name": "Thu Pham",
-   "role": "单据联系人",
-   "email": "thupvilink16@gmail.com",
-   "phone": "",
-   "source": "PI.zip 单据"
-  }
- ],
- "notes": "A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
- "researched_at": "2026-10-22",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "Vilink Communications, Inc.（品牌 Vi-Link）",
-  "founded": "1993（Crunchbase/ZoomInfo 口径）",
-  "hq": "Irvine/Brea, California, USA",
-  "staff": "1–10 / 11–50（口径不一）",
-  "revenue": "约 $11–12M（ZoomInfo 口径，待核）",
-  "other": "2024 年起新站 vilink.us（WooCommerce 直销），vilinknet.com 跳转至此"
- },
- "business_lines": [
-  "AI 视频",
-  "广播级视频光纤延长",
-  "Air Fiber",
-  "Mini/Compact/Daisy-chain 视频光端机",
-  "HD 模拟视频（TVI/CVI/AHD）",
-  "音频光纤延长",
-  "媒体转换器",
-  "工业以太网交换机（非管理，ITS 交通控制）",
-  "光转发器",
-  "ITS 数据收发器",
-  "电话延长",
-  "SFP 模块",
-  "AOC/DAC 有源光缆"
- ],
- "products_seen": [
-  {
-   "brand": "Vi-Link",
-   "model": "IE5 / IE8 / IE10 / IE12 / IE14 / IE18 / IE24 / IE28 / IE216",
-   "spec": "工业非管理以太网交换机系列（5–16 口，部分带 SFP），面向智能交通控制 ITCS",
-   "url": "https://vilink.us/industrial-ethernet-switch/",
-   "date": "2026-10-21",
-   "saga": "STI-144GP"
-  },
-  {
-   "brand": "Vi-Link",
-   "model": "IEN10 / IEN21 / IEN41 / IEN42 / IEN81 / IEN82 / IEN84",
-   "spec": "工业以太网交换机（IEN 系列，口数/光口组合不同）",
-   "url": "https://vilink.us/industrial-ethernet-switch/",
-   "date": "2026-10-21",
-   "saga": "STI-288DGGPM"
-  },
-  {
-   "brand": "Vi-Link",
-   "model": "Media Converter 类目 + SFP 模块类目",
-   "spec": "MC 与 SFP 为独立类目，与其光端机配套销售",
-   "url": "https://vilink.us/media-converter/",
-   "date": "2026-10-21",
-   "saga": "STI-110GE"
-  }
- ],
- "channels": {
-  "网站/网店": "https://vilink.us/（直销 + 购物车）",
-  "直邮": "sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）",
-  "公开动态平台（监控中，T29-U18）": "新站 vilink.us（WooCommerce 网店，2024-07 建；product-sitemap /shop lastmod 2026-08-06；80+ SKU：IE/ME/EN 工业交换机、MC 媒体转换器、VL/HL/DL 视频光端机、AOC/DAC、IL10 OEO）；老站 vilinknet.com；ZoomInfo 11-50 人"
- },
- "signals": [
-  "2026-10-23 核查：Vi-Link 2024-07 上线 vilink.us 网店并持续维护（/shop 2026-08-06 更新），标价 IM28 工业网管 8T+2SFP $395、IL10 OEO $445——Saga STI-288DGGPM 报 139.9/145.7/151.6 USD 有 2.5 倍空间；其产品线（交通路口→TOC 工业环网、SW-Ring <20ms）正是 Saga 工业系列的贴牌对象",
-  "2026-09：工业交换机页面图片全部更新（上传日期 2026/09）——仍在维护该产品线（https://vilink.us/industrial-ethernet-switch/ 2026-10-21）",
-  "用户表：S 重点名单，已成单（Thu Pham），兴趣 光猫/3G-SDI/VC/SFP/DAC/MC"
- ],
- "risks": [
-  "ITS/交通控制项目在美国常要求 NEMA TS2 与 Buy America/TAA——Saga 不做 UL/NEMA 认证，只能供非政府/商业项目",
-  "其交换机为自有品牌贴牌 → 30% OEM 档，且要求中性包装"
- ],
- "saga_fit": {
-  "p1": "STI-288DGGPM",
-  "tier": 30,
-  "why": "自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价"
- },
- "email_hook": "Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.",
- "deal_pi": {
-  "folder": "6 美国 Thu 可发展",
-  "simon_label": "可发展",
-  "pay": "",
-  "bind": "",
-  "buyer": "Vi-Link, Inc.",
-  "orders": 4,
-  "first": "2024-04-18",
-  "last": "2026-09-24",
-  "usd": 1147.0,
-  "rmb": 0.0,
-  "profit_rmb": 749.89,
-  "models": "Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM"
- },
- "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
- "mail_review": {
-  "as_of": "2026-10-22",
-  "situation": "Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。",
-  "need": "① 给自家 Vi-Link 品牌补齐 OEM 产品线：媒体转换器（10/100、千兆、10G）、机架（MC1400 14 槽）、光口交换机；② 终端客户不要 DIP 拨码（2026-09-01：『My customer didn't like the DIP switches』）→ 要**纯净外观 + 全白顶盖可丝印**；③ 刚表达对商用 24 口 PoE 交换机（STC-424XGGPM-280W）的兴趣，问的是「our cost」= 经销成本价。",
-  "breakpoint": "09-27 的回复只给了 RMB 单价，没有 USD、没有 MOQ/样品/交期、没有问用途；之后 S 邮箱无来往。另一个隐患：2026-09-08 新批次外壳顶盖带印刷字（『It will look like I use some one products, and it will be off the OEM purposed』）——下次下单前要先确认外壳是否仍为全白。",
-  "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "tier": 20,
-   "price": "Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效",
-   "why": "对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏",
-   "repeat": [
-    "STC-110GE（纯净版千兆 MC，Vi-Link 型号 MC1000SC03）：已成交 10 台，确认顶盖全白后可随时复购",
-    "STC-110XGE 10G MC + STC-14DUR 14 槽机架（Vi-Link MC10G / MC1400）：2024-11 成交 5 台",
-    "STC-110FE（MC100SC03，带 DIP）：2026-08 报过 $32.5/台，终端客户拒绝 DIP 版 → 只在客户明确接受 DIP 时再推"
-   ],
-   "gaps": [
-    "外壳顶盖是否恢复全白（SmartByte 2026 新批次有印刷字）——下次 PI 前先向 SmartByte 确认",
-    "Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注"
-   ]
-  },
-  "next_move": {
-   "when": "立即（距 09-27 已 25 天）",
-   "channel": "S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题",
-   "action": "补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈",
-   "one_question": "Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?"
-  },
-  "facts": [
-   {
-    "date": "2024-04-18",
-    "dir": "去",
-    "who": "Simon → Thu",
-    "quote": "PI STSC20240418006：1× STC-4168XGGCM $452，Vi-Link logo 丝印（Visio 源文件往返 6 轮）",
-    "why": "首单即 OEM，证明对方接受贴牌与中国货源",
-    "k": "c99c94abd0c7eed6"
-   },
-   {
-    "date": "2024-11-19",
-    "dir": "去",
-    "who": "Simon → Thu",
-    "quote": "PI STSC20241119006：5 台 MC10G（STC-110XGE）+ MC1400 机架（STC-14DUR），$530",
-    "why": "第二单，品类从交换机扩到 MC + 机架",
-    "k": "5421b6cec88fe6fc"
-   },
-   {
-    "date": "2026-08-20",
-    "dir": "来",
-    "who": "Thu Pham",
-    "quote": "Yes, it is [a confirmed order]. Can you let me know the cost and time?",
-    "why": "2026 年第三单起点：10 台 10/100M SM SC MC（MC100SC03）",
-    "k": "ef4bc37cb17aebbf"
-   },
-   {
-    "date": "2026-09-01",
-    "dir": "来",
-    "who": "Thu Pham",
-    "quote": "My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03.",
-    "why": "终端客户偏好：纯净无拨码 → 以后 MC 一律先推无 DIP 版",
-    "k": "8422e68589333f40"
-   },
-   {
-    "date": "2026-09-03",
-    "dir": "来",
-    "who": "Thu Pham",
-    "quote": "Here is the T/T payment. Can you send me the user manual?",
-    "why": "PI STSC20260903006 当天付款，信用极好",
-    "k": "32504609055f4294"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "来",
-    "who": "Thu Pham",
-    "quote": "This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters.",
-    "why": "OEM 红线：外壳不能带第三方印字；Simon 09-12 改为整面重新丝印解决",
-    "k": "2b79994c6f5315f7"
-   },
-   {
-    "date": "2026-09-24",
-    "dir": "去",
-    "who": "Simon → Thu",
-    "quote": "Are you interested in commercial Ethernet switches? I am recommending a popular model. 1200 RMB/PC（附 STC-424XGGPM-280W.docx）",
-    "why": "交叉销售起点",
-    "k": "6d28c798fba082a8"
-   },
-   {
-    "date": "2026-09-25",
-    "dir": "来",
-    "who": "Thu Pham",
-    "quote": "Thank you - It looks good. I will take a look at the switch. What would be our cost?",
-    "why": "明确的购买意向问句",
-    "k": "0ff9007ca6a811e5"
-   },
-   {
-    "date": "2026-09-27",
-    "dir": "去",
-    "who": "Simon → Thu",
-    "quote": "DHL / 8604097423  1300RMB/PC",
-    "why": "最后一封：只给了 RMB 价（且比三天前高 100 RMB），无 USD / 条件 / 问题 → 断点",
-    "k": "1da8981202e67e90"
-   }
+  "code": "SA-011",
+  "name_official": "Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）",
+  "website_status": "在线",
+  "summary": "美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。",
+  "type": "品牌商/贴牌需求（OEM/ODM）——光传输+工业以太网自有品牌",
+  "size": "1–10 人（Crunchbase）/ 11–50（LinkedIn）；营收 $11.2M（ZoomInfo 口径，待核）",
+  "brands_seen": [
+    "Vi-Link"
   ],
-  "proof_gaps": [
-   "A 邮箱是否也在联系 Vi-Link（PI 包标签在 Simon 名下，推测没有）",
-   "MC1000SC03 到货后的使用反馈（10 月后无邮件）"
+  "evidence": [
+    {
+      "kind": "第三方（ZoomInfo）",
+      "claim": "产品线含工业以太网交换机与工业光纤收发器——与 Saga STI 线直接对位",
+      "quote": "Their offerings include Optical Multiplexers … and Unmanaged Industrial Fast Ethernet switches for Traffic Control appli… Vi-Link also produces Industrial Fiber Optic Media Converters and robust Industrial Ethernet network switches",
+      "url": "https://www.zoominfo.com/c/vilink-communications-inc/40928131",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（Crunchbase）",
+      "claim": "成立 1993，Irvine CA，1–10 人，sales@vi-link.net",
+      "quote": "Vilink Communications is a manufacturer of fiber optic digital transmission products. Founded Jan 1, 1993 · Irvine, California · 1-10 · sales@vi-link.net",
+      "url": "https://www.crunchbase.com/organization/vilink-communications",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "vilinknet.com 已跳转到 vilink.us，产品类目含工业以太网交换机、MC、SFP、AOC/DAC",
+      "quote": "AI Video · Broadcast Video Fiber Extension · Air Fiber · … · Media Converter · Industrial Ethernet Network Switches · Optical Transponder · ITS Data Transceiver · Telephone Extension · SFP module · AOC/DOC",
+      "url": "https://vilink.us/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "工业非管理交换机系列型号 IE5…IE216、IEN10…IEN84，定位智能交通控制",
+      "quote": "Central to these systems are industrial Ethernet switches like the Vi-Link Industrial Unmanaged Ethernet Switches … IE5 IE8 IE10 IE12 IE14 IE18 IE24 IE28 IE216 IEN10 IEN21 IEN41 IEN42 IEN81 IEN82 IEN84",
+      "url": "https://vilink.us/industrial-ethernet-switch/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20240418006（CI，2024-04-18）：STC-4168XGGCM 共 1 台，USD 452.0；采购 SmartByte RMB 2100.0；Simon 成本表利润 RMB 120.16",
+      "quote": "",
+      "url": "PI.zip:6 美国 Thu 可发展/CI.xls",
+      "date": "2024-04-18"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20241119006（PI，2024-11-19）：STC-110XGE、STC-14DUR 共 5 台，USD 530.0；采购 SmartByte RMB 1750.0；Simon 成本表利润 RMB 437.12",
+      "quote": "",
+      "url": "PI.zip:6 美国 Thu 可发展/STSC20241119006.xls",
+      "date": "2024-11-19"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC-20260821-001（Quotation，2026-08-21）：STC-110FE 共 10 台，USD 325.0",
+      "quote": "",
+      "url": "PI.zip:6 美国 Thu 可发展/STSC-20260821-001.xlsx",
+      "date": "2026-08-21"
+    },
+    {
+      "kind": "PI",
+      "claim": "成交单据 STSC20260903006（CI，2026-09-24）：Fiber Media Converter 共 10 台，USD 165.0；采购 SmartByte RMB 0；Simon 成本表利润 RMB 192.61",
+      "quote": "",
+      "url": "PI.zip:6 美国 Thu 可发展/普通快递发票_STSC20260903006.xlsx",
+      "date": "2026-09-24"
+    },
+    {
+      "kind": "PI",
+      "claim": "PI 包文件夹「美国 Thu 可发展」：Simon 标签 可发展；单号 4 个，2024-04-18 → 2026-09-24，销售 USD 1147.0 / RMB 0，Simon 成本统计利润合计 RMB 749.89",
+      "quote": "",
+      "url": "PI.zip:6 美国 Thu 可发展",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "vilink.us 产品 sitemap：/shop lastmod 2026-08-06；产品含 IE5/IE8/IE10/IE12/IE14/IE18/IE24/IE28/IE216（工业非网管）、ME12…ME216（网管）、EN12…EN48、MC10/12/13/14/15/100/10G 媒体转换器、VL/HL/DL 系列视频光端机、10G–100G AOC/DAC",
+      "quote": "https://vilink.us/shop/ 2026-08-06T03:32:25+00:00 … /product/ie28/ … /product/me28/ … /product/mc10g/",
+      "url": "https://vilink.us/product-sitemap.xml",
+      "date": "2026-10-23"
+    },
+    {
+      "kind": "公开平台核查（T29-U18）",
+      "claim": "IM28 工业网管千兆交换机 8×RJ45 + 2×SFP，DIN 导轨 10~47 VDC，-40~85°C，4KV 浪涌，SW-Ring 环网 <20ms，标价 $395.00",
+      "quote": "IM28 $395.00 Industrial Gigabits Managed Ethernet Switch, 8* 10/100/1000M TX RJ45, 2* 1000M SX SFP, DIN Rail 10~47 VDC … SW-Ring ring network patent technology (Fault recovery time<20ms)",
+      "url": "https://vilink.us/product/im28/",
+      "date": "2026-10-23"
+    }
   ],
-  "draft_en": {
-   "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
-   "body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+  "kp": [
+    {
+      "name": "Robin Sun",
+      "role": "联系人（ProcessRegister 名录口径）",
+      "email": "sales@vilinknet.com（产品 PDF 页脚公开）",
+      "phone": "+1 714-312-0654",
+      "source": "https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf"
+    },
+    {
+      "name": "Thu Pham",
+      "role": "单据联系人",
+      "email": "thupvilink16@gmail.com",
+      "phone": "",
+      "source": "PI.zip 单据"
+    }
+  ],
+  "notes": "A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
+  "researched_at": "2026-10-22",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
   },
-  "binding": {
-   "level": "中度（三单 OEM 复购、以 Vi-Link 品牌出货）",
-   "type": "美国 OEM 品牌商 / 转售（技术 + 价格混合）",
-   "sieve": "3（多次 PI、品牌定制）",
-   "stop": "2025-09-25 问 24 口 PoE「our cost」，Simon 只回 RMB 价后停 25 天（T29-U11 复盘）",
-   "revive": "补 USD 报价 + 样机（草稿已备）",
-   "lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
-   "cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
-   "evidence": "S 邮箱往来 + PI 包（见下表 facts）"
+  "company_facts": {
+    "legal_name": "Vilink Communications, Inc.（品牌 Vi-Link）",
+    "founded": "1993（Crunchbase/ZoomInfo 口径）",
+    "hq": "Irvine/Brea, California, USA",
+    "staff": "1–10 / 11–50（口径不一）",
+    "revenue": "约 $11–12M（ZoomInfo 口径，待核）",
+    "other": "2024 年起新站 vilink.us（WooCommerce 直销），vilinknet.com 跳转至此"
+  },
+  "business_lines": [
+    "AI 视频",
+    "广播级视频光纤延长",
+    "Air Fiber",
+    "Mini/Compact/Daisy-chain 视频光端机",
+    "HD 模拟视频（TVI/CVI/AHD）",
+    "音频光纤延长",
+    "媒体转换器",
+    "工业以太网交换机（非管理，ITS 交通控制）",
+    "光转发器",
+    "ITS 数据收发器",
+    "电话延长",
+    "SFP 模块",
+    "AOC/DAC 有源光缆"
+  ],
+  "products_seen": [
+    {
+      "brand": "Vi-Link",
+      "model": "IE5 / IE8 / IE10 / IE12 / IE14 / IE18 / IE24 / IE28 / IE216",
+      "spec": "工业非管理以太网交换机系列（5–16 口，部分带 SFP），面向智能交通控制 ITCS",
+      "url": "https://vilink.us/industrial-ethernet-switch/",
+      "date": "2026-10-21",
+      "saga": "STI-144GP"
+    },
+    {
+      "brand": "Vi-Link",
+      "model": "IEN10 / IEN21 / IEN41 / IEN42 / IEN81 / IEN82 / IEN84",
+      "spec": "工业以太网交换机（IEN 系列，口数/光口组合不同）",
+      "url": "https://vilink.us/industrial-ethernet-switch/",
+      "date": "2026-10-21",
+      "saga": "STI-288DGGPM"
+    },
+    {
+      "brand": "Vi-Link",
+      "model": "Media Converter 类目 + SFP 模块类目",
+      "spec": "MC 与 SFP 为独立类目，与其光端机配套销售",
+      "url": "https://vilink.us/media-converter/",
+      "date": "2026-10-21",
+      "saga": "STI-110GE"
+    }
+  ],
+  "channels": {
+    "网站/网店": "https://vilink.us/（直销 + 购物车）",
+    "直邮": "sales@vilinknet.com / thup@vilinknet.com（用户表，成单联系人 Thu Pham）",
+    "公开动态平台（监控中，T29-U18）": "新站 vilink.us（WooCommerce 网店，2024-07 建；product-sitemap /shop lastmod 2026-08-06；80+ SKU：IE/ME/EN 工业交换机、MC 媒体转换器、VL/HL/DL 视频光端机、AOC/DAC、IL10 OEO）；老站 vilinknet.com；ZoomInfo 11-50 人"
+  },
+  "signals": [
+    "2026-10-23 核查：Vi-Link 2024-07 上线 vilink.us 网店并持续维护（/shop 2026-08-06 更新），标价 IM28 工业网管 8T+2SFP $395、IL10 OEO $445——Saga STI-288DGGPM 报 139.9/145.7/151.6 USD 有 2.5 倍空间；其产品线（交通路口→TOC 工业环网、SW-Ring <20ms）正是 Saga 工业系列的贴牌对象",
+    "2026-09：工业交换机页面图片全部更新（上传日期 2026/09）——仍在维护该产品线（https://vilink.us/industrial-ethernet-switch/ 2026-10-21）",
+    "用户表：S 重点名单，已成单（Thu Pham），兴趣 光猫/3G-SDI/VC/SFP/DAC/MC"
+  ],
+  "risks": [
+    "ITS/交通控制项目在美国常要求 NEMA TS2 与 Buy America/TAA——Saga 不做 UL/NEMA 认证，只能供非政府/商业项目",
+    "其交换机为自有品牌贴牌 → 30% OEM 档，且要求中性包装"
+  ],
+  "saga_fit": {
+    "p1": "STI-288DGGPM",
+    "tier": 30,
+    "why": "自有品牌 IE/IEN 工业交换机系列（5–16 口）与 Saga STI 工业线一一对应：IE5→STI-144GP（4+1 PoE）/ IE8·IEN82·IEN84→STI-288DGGPM（8 PoE + 2 SFP 管理型）；MC 类目→STI-110GE；按 OEM 贴牌 30% 档报价"
+  },
+  "email_hook": "Your IE/IEN industrial series sits exactly on the port counts we build as OEM (4+1, 8+2 SFP, 16+2), so I can quote the 8-port DIN managed unit in Vi-Link neutral packing alongside the media converters Thu already ordered.",
+  "deal_pi": {
+    "folder": "6 美国 Thu 可发展",
+    "simon_label": "可发展",
+    "pay": "",
+    "bind": "",
+    "buyer": "Vi-Link, Inc.",
+    "orders": 4,
+    "first": "2024-04-18",
+    "last": "2026-09-24",
+    "usd": 1147.0,
+    "rmb": 0.0,
+    "profit_rmb": 749.89,
+    "models": "Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM"
+  },
+  "grade_override": "A",
+  "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+  "mail_review": {
+    "as_of": "2026-10-24",
+    "situation": "Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。",
+    "need": "① 给自家 Vi-Link 品牌补齐 OEM 产品线：媒体转换器（10/100、千兆、10G）、机架（MC1400 14 槽）、光口交换机；② 终端客户不要 DIP 拨码（2026-09-01：『My customer didn't like the DIP switches』）→ 要**纯净外观 + 全白顶盖可丝印**；③ 刚表达对商用 24 口 PoE 交换机（STC-424XGGPM-280W）的兴趣，问的是「our cost」= 经销成本价。",
+    "breakpoint": "09-27 的回复只给了 RMB 单价，没有 USD、没有 MOQ/样品/交期、没有问用途；之后 S 邮箱无来往。另一个隐患：2026-09-08 新批次外壳顶盖带印刷字（『It will look like I use some one products, and it will be off the OEM purposed』）——下次下单前要先确认外壳是否仍为全白。",
+    "saga_now": {
+      "p1": "STC-424XGGPM-280W",
+      "tier": 20,
+      "price": "Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效",
+      "why": "对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏",
+      "repeat": [
+        "STC-110GE（纯净版千兆 MC，Vi-Link 型号 MC1000SC03）：已成交 10 台，确认顶盖全白后可随时复购",
+        "STC-110XGE 10G MC + STC-14DUR 14 槽机架（Vi-Link MC10G / MC1400）：2024-11 成交 5 台",
+        "STC-110FE（MC100SC03，带 DIP）：2026-08 报过 $32.5/台，终端客户拒绝 DIP 版 → 只在客户明确接受 DIP 时再推"
+      ],
+      "gaps": [
+        "外壳顶盖是否恢复全白（SmartByte 2026 新批次有印刷字）——下次 PI 前先向 SmartByte 确认",
+        "Vi-Link 要的『no DIP』纯净 MC 在 Saga 价格主表里没有商用 MC 条目 → 继续用 SmartByte LT-MC80G 系列报价并在 MD 标注"
+      ]
+    },
+    "next_move": {
+      "when": "立即（距 09-27 已 25 天）",
+      "channel": "S 邮箱回复同一线程「Re: Fw: T/T Payment」或新主题",
+      "action": "补一封完整的 STC-424XGGPM-280W 报价：USD $194 EXW、OEM 丝印免费、1 台样机即可、交期 7–10 天；顺带确认 MC1000SC03 到货反馈",
+      "one_question": "Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?"
+    },
+    "facts": [
+      {
+        "date": "2024-04-18",
+        "dir": "去",
+        "who": "Simon → Thu",
+        "quote": "PI STSC20240418006：1× STC-4168XGGCM $452，Vi-Link logo 丝印（Visio 源文件往返 6 轮）",
+        "why": "首单即 OEM，证明对方接受贴牌与中国货源",
+        "k": "c99c94abd0c7eed6"
+      },
+      {
+        "date": "2024-11-19",
+        "dir": "去",
+        "who": "Simon → Thu",
+        "quote": "PI STSC20241119006：5 台 MC10G（STC-110XGE）+ MC1400 机架（STC-14DUR），$530",
+        "why": "第二单，品类从交换机扩到 MC + 机架",
+        "k": "5421b6cec88fe6fc"
+      },
+      {
+        "date": "2026-08-20",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "Yes, it is [a confirmed order]. Can you let me know the cost and time?",
+        "why": "2026 年第三单起点：10 台 10/100M SM SC MC（MC100SC03）",
+        "k": "ef4bc37cb17aebbf"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03.",
+        "why": "终端客户偏好：纯净无拨码 → 以后 MC 一律先推无 DIP 版",
+        "k": "8422e68589333f40"
+      },
+      {
+        "date": "2026-09-03",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "Here is the T/T payment. Can you send me the user manual?",
+        "why": "PI STSC20260903006 当天付款，信用极好",
+        "k": "32504609055f4294"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters.",
+        "why": "OEM 红线：外壳不能带第三方印字；Simon 09-12 改为整面重新丝印解决",
+        "k": "2b79994c6f5315f7"
+      },
+      {
+        "date": "2026-09-24",
+        "dir": "去",
+        "who": "Simon → Thu",
+        "quote": "Are you interested in commercial Ethernet switches? I am recommending a popular model. 1200 RMB/PC（附 STC-424XGGPM-280W.docx）",
+        "why": "交叉销售起点",
+        "k": "6d28c798fba082a8"
+      },
+      {
+        "date": "2026-09-25",
+        "dir": "来",
+        "who": "Thu Pham",
+        "quote": "Thank you - It looks good. I will take a look at the switch. What would be our cost?",
+        "why": "明确的购买意向问句",
+        "k": "0ff9007ca6a811e5"
+      },
+      {
+        "date": "2026-09-27",
+        "dir": "去",
+        "who": "Simon → Thu",
+        "quote": "DHL / 8604097423  1300RMB/PC",
+        "why": "最后一封：只给了 RMB 价（且比三天前高 100 RMB），无 USD / 条件 / 问题 → 断点",
+        "k": "1da8981202e67e90"
+      }
+    ],
+    "proof_gaps": [
+      "A 邮箱是否也在联系 Vi-Link（PI 包标签在 Simon 名下，推测没有）",
+      "MC1000SC03 到货后的使用反馈（10 月后无邮件）"
+    ],
+    "draft_en": {
+      "subject": "STC-424XGGPM-280W for Vi-Link - price and sample option",
+      "body": "Hi Thu,\n\nFollowing up on the 24-port PoE switch I mentioned when the MC1000SC03 converters shipped (DHL 8604097423 - please let me know they arrived in good shape).\n\nSTC-424XGGPM-280W: 24 x 10/100/1000 PoE+ (802.3af/at, 280 W budget) + 4 x 1G/2.5G/10G SFP+, L2+ managed (Web/CLI/SNMP), Marvell AC5. Price: $194 USD EXW per unit (snapshot 2026-10-22, valid 15 days). Vi-Link logo and front-panel printing are free, same as the converters, and a single sample unit is fine to start - sample cost is credited to your first order.\n\nOne question: is this switch for your own Vi-Link label, or for a specific end-customer project?\n\nBest regards,\nSimon\nSaga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)\nhttps://sagatele.com/"
+    },
+    "binding": {
+      "level": "中度（三单 OEM 复购、以 Vi-Link 品牌出货）",
+      "type": "美国 OEM 品牌商 / 转售（技术 + 价格混合）",
+      "sieve": "3（多次 PI、品牌定制）",
+      "stop": "2025-09-25 问 24 口 PoE「our cost」，Simon 只回 RMB 价后停 25 天（T29-U11 复盘）",
+      "revive": "补 USD 报价 + 样机（草稿已备）",
+      "lane": "US 已通（PayPal/T/T、DHL/UPS DAP）",
+      "cadence": "最后 2025-09-25 来信；复盘 2026-10-22",
+      "evidence": "S 邮箱往来 + PI 包（见下表 facts）；第 19 批回补来信原文 0 条（gmail_s/gmail_a）"
+    }
+  },
+  "watch": {
+    "as_of": "2026-10-23",
+    "github_watch": [],
+    "web_watch_targets": "scripts/web_watch/targets.json#SA-011",
+    "status": "data/customer_watch/当前状态.md",
+    "log": "data/customer_watch/变化日志.md"
   }
- },
- "watch": {
-  "as_of": "2026-10-23",
-  "github_watch": [],
-  "web_watch_targets": "scripts/web_watch/targets.json#SA-011",
-  "status": "data/customer_watch/当前状态.md",
-  "log": "data/customer_watch/变化日志.md"
- }
 }

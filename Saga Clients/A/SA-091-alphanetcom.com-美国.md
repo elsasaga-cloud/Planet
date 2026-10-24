@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-091` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（询问阶段 3 轮：10G MC 价表、8 口 10G 管理型、24 口 SFP 价格）** ｜ 类型：美国得州布线承包商/小集成商（1–10 人）；Nate Cline——第四档小项目集成商 ｜ 筛子：2 ｜ 停点：产品缺口：2025-04 要「8 口 10G 电 + 2/4×10G SFP 管理型」，Alan 答需量产开发；2025-09-27 STC-4168XGGCM 280 USD 报价后无回音 ｜ 复活：仓库里有 8×10G 电口非管理款 STC-08XGE（HRUI/Realtek 线，Saga 对外价 $181.5 USD EXW）；SmartByte 白牌 LT-S8532XS-8XS24GT（24GE + 8×10G SFP+）——若他的项目只要 10G 接入，可一次报清 ｜ 通路：US ｜ 节奏：2024-08 → 2026-09 去信 21 封；最后来信 2025-09-26 ｜ 证据：k=6350a98e7dcd08eb / 380c4a1eabea9946 / 765a46afe5b24ace / 1a6a105db1142c5f / 75205f906d867c11
+- **绑定等级：未绑定（询问阶段 3 轮：10G MC 价表、8 口 10G 管理型、24 口 SFP 价格）** ｜ 类型：美国得州布线承包商/小集成商（1–10 人）；Nate Cline——第四档小项目集成商 ｜ 筛子：2 ｜ 停点：产品缺口：2025-04 要「8 口 10G 电 + 2/4×10G SFP 管理型」，Alan 答需量产开发；2025-09-27 STC-4168XGGCM 280 USD 报价后无回音 ｜ 复活：仓库里有 8×10G 电口非管理款 STC-08XGE（HRUI/Realtek 线，Saga 对外价 $181.5 USD EXW）；SmartByte 白牌 LT-S8532XS-8XS24GT（24GE + 8×10G SFP+）——若他的项目只要 10G 接入，可一次报清 ｜ 通路：US ｜ 节奏：2024-08 → 2026-09 去信 21 封；最后来信 2025-09-26 ｜ 证据：k=6350a98e7dcd08eb / 380c4a1eabea9946 / 765a46afe5b24ace / 1a6a105db1142c5f / 75205f906d867c11；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：Nate 三次主动：2024-08 要 10G MC 价表并问大单折扣；2025-04「I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP」（Alan：现无，可开发但要量）；2025-09「How much do they cost?」→ 280 USD STC-4168XGGCM → 无回。他要的 8×10GBASE-T 其实在 HRUI 线有非管理款。
 - **对方真实需求（有据）**：8×10G 电口（+2/4 SFP+）小型交换机；10G MC；项目型小批量。
 - **断点 / 为什么停在这里**：群发推的是 Marvell 24 口光聚合，他要的是 8 口 10G 电——仓库有对位品（Realtek 线）但没人查。
@@ -57,6 +57,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-08-24 | 来 | Nate Cline | Can you send me a price list and I want to ask if I can buy from you in Large Order and would you provide a discount on Large Orders? | 第一轮 | `6350a98e7dcd08eb` |
 | 2025-04-04 | 来 | Nate | I'm looking for a 10 Gig Ethernet Switch with about 8 ports and about 2 or 4 Ports of 10 Gig SFP. | 精确需求 | `380c4a1eabea9946` |
+| 2025-04-07 | 来 | nate.cline@alphanetcom.com | Yes that is correct. Do you have any product like this? Thanks | 来信原文（主题「Re: 48 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `3208bf73880d5486` |
 | 2025-04-08 | 去 | Alan | it is not available on our list now… OK to do 4*10G+8*10G Ethernet But this requires a decent quantity to develop | 缺口答复 | `765a46afe5b24ace` |
 | 2025-09-26 | 来 | Nate | How much do they cost? | 第三轮 | `1a6a105db1142c5f` |
 | 2025-09-27 | 去 | Alan | 280usd/pc. STC-4168XGGCM 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo | 报价后无回 | `75205f906d867c11` |

@@ -57,7 +57,7 @@
       "revive": "若发，只发 CENTEC 半宽 10G/25G",
       "lane": "CA",
       "cadence": "一封",
-      "evidence": "k=2974def9d7ffbd3f / 75e864d4417eab48"
+      "evidence": "k=2974def9d7ffbd3f / 75e864d4417eab48；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
     },
     "situation": "需求是数据中心 ToR 口径。",
     "need": "全 SFP+，前后风道。",
@@ -77,6 +77,14 @@
       "one_question": "François — a half-width 12×10G SFP+ / 12×25G, front-to-back airflow, L3 (VXLAN/EVPN): still relevant?"
     },
     "facts": [
+      {
+        "date": "2024-06-17",
+        "dir": "来",
+        "who": "francois.burton0@gmail.com",
+        "quote": "No thanks... any SFP/SFP+ switches only? No need for copper...",
+        "why": "来信原文（主题「Re: 48 port managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "2974def9d7ffbd3f"
+      },
       {
         "date": "2024-06-24",
         "dir": "来",

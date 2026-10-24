@@ -1,88 +1,97 @@
 {
- "code": "SB-1275",
- "name_official": "Power Logic（巴基斯坦；Waseem Shah，gmail）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（gmail）",
- "summary": "巴基斯坦联系人 Waseem Shah（powerlogic1965@gmail），要目录，2025-02 对 2 光 2 电 mini 回复「need info to promote」= 想代推；身份不明。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣 catalog；2025-02 22 迷你→need info to promote...",
-   "quote": "回复：need info to promote...",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Waseem Shah",
-   "title": "（表内联系人）",
-   "email": "powerlogic1965@gmail.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（待核，Power Logic？）",
-  "founded": "",
-  "hq": "巴基斯坦",
+  "code": "SB-1275",
+  "name_official": "Power Logic（巴基斯坦；Waseem Shah，gmail）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail）",
+  "summary": "巴基斯坦联系人 Waseem Shah（powerlogic1965@gmail），要目录，2025-02 对 2 光 2 电 mini 回复「need info to promote」= 想代推；身份不明。",
+  "type": "",
   "size": "",
-  "other": "gmail"
- },
- "channels": {
-  "role": "（疑经销 / 代推）",
-  "region": "巴基斯坦"
- },
- "risks": [
-  "身份不明；只要资料推广"
- ],
- "saga_fit": {
-  "p1": "STI-220GE",
-  "tier": 25,
-  "why": "其回应的 2 光 2 电 mini → STI-220GE。"
- },
- "email_hook": "Waseem, to promote the mini industrial switch you'll need the datasheet and dealer price — which customers would you pitch it to (CCTV installers, ISPs, factories)? I'll send the matching pack.",
- "mail_review": {
-  "binding": {
-   "level": "轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接）",
-   "type": "巴基斯坦电源/工程（Power Logic；Gmail）",
-   "sieve": "1",
-   "stop": "—",
-   "revive": "不动",
-   "lane": "PK",
-   "cadence": "不动",
-   "evidence": "k=53639b11bc8d96b5"
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 catalog；2025-02 22 迷你→need info to promote...",
+      "quote": "回复：need info to promote...",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Waseem Shah",
+      "title": "（表内联系人）",
+      "email": "powerlogic1965@gmail.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
   },
-  "situation": "—",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
+  "company_facts": {
+    "legal_name": "（待核，Power Logic？）",
+    "founded": "",
+    "hq": "巴基斯坦",
+    "size": "",
+    "other": "gmail"
   },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
+  "channels": {
+    "role": "（疑经销 / 代推）",
+    "region": "巴基斯坦"
   },
-  "facts": [],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "risks": [
+    "身份不明；只要资料推广"
+  ],
+  "saga_fit": {
+    "p1": "STI-220GE",
+    "tier": 25,
+    "why": "其回应的 2 光 2 电 mini → STI-220GE。"
+  },
+  "email_hook": "Waseem, to promote the mini industrial switch you'll need the datasheet and dealer price — which customers would you pitch it to (CCTV installers, ISPs, factories)? I'll send the matching pack.",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接）",
+      "type": "巴基斯坦电源/工程（Power Logic；Gmail）",
+      "sieve": "1",
+      "stop": "—",
+      "revive": "不动",
+      "lane": "PK",
+      "cadence": "不动",
+      "evidence": "k=53639b11bc8d96b5；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "—",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-05-24",
+        "dir": "来",
+        "who": "powerlogic1965@gmail.com",
+        "quote": "hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar",
+        "why": "来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "53639b11bc8d96b5"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

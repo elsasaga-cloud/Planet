@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-120` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（对方要 SDK/源码/API = 政府强制要求，Saga 不提供；已转介）** ｜ 类型：乌兹别克斯坦国家级 IT 硬件项目方（技术流，但要的是「制造商 + 源码」） ｜ 筛子：2（读资料、明确需求） ｜ 停点：Saga 边界：SDK/源码/API 为其政府认证所必需；Alan 2025-09/10 转介「Joey」给他们 ｜ 复活：仅当他们接受「硬件 OEM + 不开源固件」的国家项目子集，或项目改为采购成品（2025-11 对 Booster PoE 明确不感兴趣） ｜ 通路：UZ 未通（无收款/物流先例） ｜ 节奏：最后 2026-10-07 Alan 群发式推送（无回）；对方最后实质来信 2025-10-10（要 Joey 联系方式） ｜ 证据：A 邮箱 k=14d996fdc995a2b9 / 65ea0d5cb4a671d8 / 510e36cd41433a95 / 67798dac43496efa
+- **绑定等级：未绑定（对方要 SDK/源码/API = 政府强制要求，Saga 不提供；已转介）** ｜ 类型：乌兹别克斯坦国家级 IT 硬件项目方（技术流，但要的是「制造商 + 源码」） ｜ 筛子：2（读资料、明确需求） ｜ 停点：Saga 边界：SDK/源码/API 为其政府认证所必需；Alan 2025-09/10 转介「Joey」给他们 ｜ 复活：仅当他们接受「硬件 OEM + 不开源固件」的国家项目子集，或项目改为采购成品（2025-11 对 Booster PoE 明确不感兴趣） ｜ 通路：UZ 未通（无收款/物流先例） ｜ 节奏：最后 2026-10-07 Alan 群发式推送（无回）；对方最后实质来信 2025-10-10（要 Joey 联系方式） ｜ 证据：A 邮箱 k=14d996fdc995a2b9 / 65ea0d5cb4a671d8 / 510e36cd41433a95 / 67798dac43496efa；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
 - **现状一句话**：Latmedia Group（Vladimir Xe，联合创始人；经「Simon from Olycom」介绍）2025-07-21 来信要找「硬件制造商而非经销商」，为乌兹别克斯坦国家 IT 硬件方案集成固件——要 SDK、源码、API（政府强制）；Alan 答不提供后 7-24 请其推荐伙伴；9-14 Alan 「We got a solution for you」→ 10-10 对方已与伙伴签备忘录、要 Joey 的联系方式（转介完成）；11-24 对 Booster PoE「not interesting」。**边界户，已体面转出。**
 - **对方真实需求（有据）**：可拿到 SDK/源码的交换机硬件平台，用于国家级自主品牌 + 本地认证。
 - **断点 / 为什么停在这里**：C10 边界（E2：不做 SDK/源码）。
@@ -56,6 +56,8 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2025-07-21 | 来 | Vladimir Xe | looking to establish a partnership with a hardware manufacturer, not a reseller or distributor… national IT hardware solution for Uzbekistan | 需求定义 | `14d996fdc995a2b9` |
 | 2025-07-24 | 来 | Vladimir Xe | these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be able to… | 硬边界 | `65ea0d5cb4a671d8` |
+| 2025-09-14 | 来 | vladimir.xe@latmedia.uz | Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe Latmedia Group LLC 14 сент. 2025 г., | 来信原文（主题「Re: OEM and SDK for National produc」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `f494577cfa227b40` |
+| 2025-09-16 | 来 | vladimir.xe@latmedia.uz | Dear Alan, I sent it to my CTO. We will back soon with response. ---------------------------- Best Regards Vladimir Xe Co-founder Latmedia Group, LLC | 来信原文（主题「Re: OEM and SDK for National produc」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `4c0f3bf7e1566ac4` |
 | 2025-10-10 | 来 | Vladimir Xe | we signed a memorandum with our partner… Could you please share Joey's contact | 转介落地 | `510e36cd41433a95` |
 | 2025-11-24 | 来 | Vladimir Xe | No, this is not interesting for us. | 成品不感兴趣 | `67798dac43496efa` |
 

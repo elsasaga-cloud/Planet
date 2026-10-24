@@ -1,161 +1,169 @@
 {
- "code": "SA-021",
- "name_official": "ALFA Network Inc.（Taipei）",
- "website_status": "在线",
- "summary": "台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。",
- "type": "品牌商（台系无线网络品牌，PoE 交换机外采贴牌）",
- "size": "11–50 人（LinkedIn）",
- "brands_seen": [
-  "ALFA"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "自有品牌 PoE 交换机产品线（16 口 PoE+2G、PoE 延长交换机等）",
-   "quote": "APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … APS104G-EX_PoE 60W Ultra PoE to 4-Port 802.3af/at Gigabit PoE Extender Switch",
-   "url": "https://www.alfa.com.tw/collections/power-over-ethernet-poe-switch",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "第三方（LinkedIn）",
-   "claim": "规模与定位",
-   "quote": "ALFA Network Inc. designs and manufacturers high-performance wireless network equipment … Company size: 11-50 employees · Headquarters: Taipei City · Founded: 2002 · Specialties: Wireless Routers, Wireless AP, Outdoor Wireless, USB Wireless Adapters, Antennas, PoE",
-   "url": "https://www.linkedin.com/company/alfanetwork",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "APS1602E 规格",
-   "quote": "APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … 16x 10/100 Mbps Ethernet ports 2x 10/100/1000 Mbps Gigabit ports … Total PoE Power Budget · 250 W … Operating Temperature · 0 °C to 45 °C",
-   "url": "https://www.alfa.com.tw/products/aps1602e",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "APS08G 规格",
-   "quote": "APS08G … 802.3af/at Power over Ethernet compliant, Max. 30W per port … Fanless … Fit on Desktop or Bring It to Rackmount",
-   "url": "https://www.alfa.com.tw/products/aps08g",
-   "date": "2026-10-21"
-  }
- ],
- "notes": "A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "深挖 v1"
- },
- "company_facts": {
-  "legal_name": "ALFA Network Inc.",
-  "founded": "2002",
-  "hq": "Taipei, Taiwan",
-  "staff": "11–50",
-  "other": "无线网络品牌，PoE 交换机线为外采：APS08G（8 GE PoE 150W）、APS1602E（16 FE PoE + 2 GE 250W，VLAN/CCTV 250 m）、APS104G-EX（bt 入 4 口 PoE 延长）、APOE08G 注入器；欧洲二级渠道（Alfa Distribution、EVX、wifi-highpower.it）"
- },
- "business_lines": [
-  "无线路由/AP/USB 网卡/天线",
-  "PoE 交换机 APS 系列与 PoE 注入/延长器（外采贴牌）"
- ],
- "products_seen": [
-  {
-   "brand": "ALFA",
-   "model": "APS08G",
-   "spec": "8×GE PoE at 30W/150W，无风扇，桌面/机架",
-   "url": "https://www.alfa.com.tw/products/aps08g",
-   "date": "2026-10-21",
-   "saga": "STC-28DGGPM（管理型升级）"
-  },
-  {
-   "brand": "ALFA",
-   "model": "APS1602E",
-   "spec": "16×FE PoE at + 2 GE，250W/270W PSU，VLAN/CCTV 模式 250 m，0–45℃",
-   "url": "https://www.alfa.com.tw/products/aps1602e",
-   "date": "2026-10-21",
-   "saga": "STI-21616GP（千兆升级）"
-  },
-  {
-   "brand": "ALFA",
-   "model": "APS104G-EX",
-   "spec": "60W bt 入 → 4 口 af/at GE PoE 延长交换机",
-   "url": "https://www.alfa.com.tw/collections/all?page=17",
-   "date": "2026-10-21",
-   "saga": "—"
-  },
-  {
-   "brand": "ALFA",
-   "model": "APOE08G",
-   "spec": "8 口无源 PoE 注入器 12–48VDC",
-   "url": "https://www.alfa.com.tw/products/apoe08g",
-   "date": "2026-10-21",
-   "saga": "—"
-  }
- ],
- "channels": {
-  "网站": "https://www.alfa.com.tw/（Shopify 目录）",
-  "直邮": "johnson@alfa.com.tw（用户表）",
-  "二级渠道": "alfadistribution.com、evxab.com（SE）、wifi-highpower.it（IT）、instantbyte.com"
- },
- "signals": [
-  "APS 线仅非管理且 16 口仍为百兆——管理型 8 口与千兆 16 口是空位（2026-10-21）",
-  "用户表：S 重点；商业 PoE，自己 logo，PoE 配件；「有人在卖他们的」"
- ],
- "risks": [
-  "台系品牌商：TW 规则下上限 B，本条靠 S 重点 + 实质互动留 A；采购决策看成本，货源可能在台/大陆已有 ODM",
-  "欧洲渠道要求 CE/RoHS 文件齐全（Saga 具备）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档"
- },
- "email_hook": "Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（2024-08 要公司资料与 2.5G 机型报价 → 50 / 65 USD → 无下文；2025-07 一句「Thanks」）",
-   "type": "台系无线网络品牌（PoE/2.5G 交换机外采）——OEM 买家而非同业（INH 台湾厂商条款的例外说明已在档）",
-   "sieve": "2",
-   "stop": "2024-08-15 报 STC-18XGDGE 50 USD / STC-108XGDGP 65 USD（HRUI/Realtek 线 2.5G）后无回；Johnson 要「company information」—— 身份核验",
-   "revive": "其 2.5G 产品线补 SKU；台湾客户非主攻",
-   "lane": "TW",
-   "cadence": "2024-06 → 2026-09 去信 26 封；最后实质来信 2024-08-15",
-   "evidence": "k=a3c986b6ffa372aa / 1d7b74c6c5e4034f / f8c4407a865d3647"
-  },
-  "situation": "Johnson（ALFA）2024-08-15 回：请提供公司资料、非 PoE 与 PoE 的价格。Simon 当天报 2.5G 8 口 +1×10G SFP 非 PoE 50 USD / PoE 65 USD（Realtek 线），并附公司简介；对方静默。2025-07 Sandy Chien 回了一个「Thanks」。",
-  "need": "2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。",
-  "breakpoint": "身份核验 + 价格两件事同时发生后停；台系品牌对大陆供应商的尽调门槛高。",
-  "saga_now": {
-   "p1": "STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP",
-   "tier": 30,
-   "price": "按 30% 自有标档复核对外价",
-   "why": "只保活",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "S 邮箱 → johnson@",
-   "action": "一句话问 2.5G 线是否仍外采",
-   "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample?"
-  },
-  "facts": [
-   {
-    "date": "2024-08-15",
-    "dir": "来",
-    "who": "Johnson（ALFA Network）",
-    "quote": "Please provide your company information. And what's the price for non-PoE and PoE model.",
-    "why": "核验 + 询价",
-    "k": "a3c986b6ffa372aa"
-   },
-   {
-    "date": "2024-08-15",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "non-PoE model, 50Usd/pc STC-18XGDGE… PoE model, 65usd/pc STC-108XGDGP… Company information Please see attached profile",
-    "why": "报价",
-    "k": "1d7b74c6c5e4034f"
-   }
+  "code": "SA-021",
+  "name_official": "ALFA Network Inc.（Taipei）",
+  "website_status": "在线",
+  "summary": "台湾无线网络设备厂商（2002 年成立，11–50 人），产品：无线路由/AP/USB 网卡/天线、PoE 模块与 PoE 交换机（APS08G、APS1602E、APS104G-EX 等）、PoE 注入器。用户表：S 重点，商业 PoE 想用自己的 logo，有人在卖他们的产品，1 次实质回复。",
+  "type": "品牌商（台系无线网络品牌，PoE 交换机外采贴牌）",
+  "size": "11–50 人（LinkedIn）",
+  "brands_seen": [
+    "ALFA"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "自有品牌 PoE 交换机产品线（16 口 PoE+2G、PoE 延长交换机等）",
+      "quote": "APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … APS104G-EX_PoE 60W Ultra PoE to 4-Port 802.3af/at Gigabit PoE Extender Switch",
+      "url": "https://www.alfa.com.tw/collections/power-over-ethernet-poe-switch",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "第三方（LinkedIn）",
+      "claim": "规模与定位",
+      "quote": "ALFA Network Inc. designs and manufacturers high-performance wireless network equipment … Company size: 11-50 employees · Headquarters: Taipei City · Founded: 2002 · Specialties: Wireless Routers, Wireless AP, Outdoor Wireless, USB Wireless Adapters, Antennas, PoE",
+      "url": "https://www.linkedin.com/company/alfanetwork",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "APS1602E 规格",
+      "quote": "APS1602E is a high-performance 16-ports Ethernet with 2-ports Gigabit unmanaged PoE switch … 16x 10/100 Mbps Ethernet ports 2x 10/100/1000 Mbps Gigabit ports … Total PoE Power Budget · 250 W … Operating Temperature · 0 °C to 45 °C",
+      "url": "https://www.alfa.com.tw/products/aps1602e",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "APS08G 规格",
+      "quote": "APS08G … 802.3af/at Power over Ethernet compliant, Max. 30W per port … Fanless … Fit on Desktop or Bring It to Rackmount",
+      "url": "https://www.alfa.com.tw/products/aps08g",
+      "date": "2026-10-21"
+    }
+  ],
+  "notes": "A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "深挖 v1"
+  },
+  "company_facts": {
+    "legal_name": "ALFA Network Inc.",
+    "founded": "2002",
+    "hq": "Taipei, Taiwan",
+    "staff": "11–50",
+    "other": "无线网络品牌，PoE 交换机线为外采：APS08G（8 GE PoE 150W）、APS1602E（16 FE PoE + 2 GE 250W，VLAN/CCTV 250 m）、APS104G-EX（bt 入 4 口 PoE 延长）、APOE08G 注入器；欧洲二级渠道（Alfa Distribution、EVX、wifi-highpower.it）"
+  },
+  "business_lines": [
+    "无线路由/AP/USB 网卡/天线",
+    "PoE 交换机 APS 系列与 PoE 注入/延长器（外采贴牌）"
+  ],
+  "products_seen": [
+    {
+      "brand": "ALFA",
+      "model": "APS08G",
+      "spec": "8×GE PoE at 30W/150W，无风扇，桌面/机架",
+      "url": "https://www.alfa.com.tw/products/aps08g",
+      "date": "2026-10-21",
+      "saga": "STC-28DGGPM（管理型升级）"
+    },
+    {
+      "brand": "ALFA",
+      "model": "APS1602E",
+      "spec": "16×FE PoE at + 2 GE，250W/270W PSU，VLAN/CCTV 模式 250 m，0–45℃",
+      "url": "https://www.alfa.com.tw/products/aps1602e",
+      "date": "2026-10-21",
+      "saga": "STI-21616GP（千兆升级）"
+    },
+    {
+      "brand": "ALFA",
+      "model": "APS104G-EX",
+      "spec": "60W bt 入 → 4 口 af/at GE PoE 延长交换机",
+      "url": "https://www.alfa.com.tw/collections/all?page=17",
+      "date": "2026-10-21",
+      "saga": "—"
+    },
+    {
+      "brand": "ALFA",
+      "model": "APOE08G",
+      "spec": "8 口无源 PoE 注入器 12–48VDC",
+      "url": "https://www.alfa.com.tw/products/apoe08g",
+      "date": "2026-10-21",
+      "saga": "—"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.alfa.com.tw/（Shopify 目录）",
+    "直邮": "johnson@alfa.com.tw（用户表）",
+    "二级渠道": "alfadistribution.com、evxab.com（SE）、wifi-highpower.it（IT）、instantbyte.com"
+  },
+  "signals": [
+    "APS 线仅非管理且 16 口仍为百兆——管理型 8 口与千兆 16 口是空位（2026-10-21）",
+    "用户表：S 重点；商业 PoE，自己 logo，PoE 配件；「有人在卖他们的」"
+  ],
+  "risks": [
+    "台系品牌商：TW 规则下上限 B，本条靠 S 重点 + 实质互动留 A；采购决策看成本，货源可能在台/大陆已有 ODM",
+    "欧洲渠道要求 CE/RoHS 文件齐全（Saga 具备）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "APS08G 的管理型升级位 STC-28DGGPM（8 PoE + 2 SFP）与 APS1602E 的千兆升级位 STI-21616GP；ALFA 贴牌 30% 档"
+  },
+  "email_hook": "Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（2024-08 要公司资料与 2.5G 机型报价 → 50 / 65 USD → 无下文；2025-07 一句「Thanks」）",
+      "type": "台系无线网络品牌（PoE/2.5G 交换机外采）——OEM 买家而非同业（INH 台湾厂商条款的例外说明已在档）",
+      "sieve": "2",
+      "stop": "2024-08-15 报 STC-18XGDGE 50 USD / STC-108XGDGP 65 USD（HRUI/Realtek 线 2.5G）后无回；Johnson 要「company information」—— 身份核验",
+      "revive": "其 2.5G 产品线补 SKU；台湾客户非主攻",
+      "lane": "TW",
+      "cadence": "2024-06 → 2026-09 去信 26 封；最后实质来信 2024-08-15",
+      "evidence": "k=a3c986b6ffa372aa / 1d7b74c6c5e4034f / f8c4407a865d3647；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+    },
+    "situation": "Johnson（ALFA）2024-08-15 回：请提供公司资料、非 PoE 与 PoE 的价格。Simon 当天报 2.5G 8 口 +1×10G SFP 非 PoE 50 USD / PoE 65 USD（Realtek 线），并附公司简介；对方静默。2025-07 Sandy Chien 回了一个「Thanks」。",
+    "need": "2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。",
+    "breakpoint": "身份核验 + 价格两件事同时发生后停；台系品牌对大陆供应商的尽调门槛高。",
+    "saga_now": {
+      "p1": "STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP",
+      "tier": 30,
+      "price": "按 30% 自有标档复核对外价",
+      "why": "只保活",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "S 邮箱 → johnson@",
+      "action": "一句话问 2.5G 线是否仍外采",
+      "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample?"
+    },
+    "facts": [
+      {
+        "date": "2024-08-15",
+        "dir": "来",
+        "who": "Johnson（ALFA Network）",
+        "quote": "Please provide your company information. And what's the price for non-PoE and PoE model.",
+        "why": "核验 + 询价",
+        "k": "a3c986b6ffa372aa"
+      },
+      {
+        "date": "2024-08-15",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "non-PoE model, 50Usd/pc STC-18XGDGE… PoE model, 65usd/pc STC-108XGDGP… Company information Please see attached profile",
+        "why": "报价",
+        "k": "1d7b74c6c5e4034f"
+      },
+      {
+        "date": "2025-07-28",
+        "dir": "来",
+        "who": "sandy_chien@alfa.com.tw",
+        "quote": "Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc01.",
+        "why": "来信原文（主题「Re: 16 Port Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+        "k": "f8c4407a865d3647"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

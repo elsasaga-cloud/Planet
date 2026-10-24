@@ -89,7 +89,7 @@
       "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
       "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
       "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
-      "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+      "evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）"
     },
     "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
     "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
@@ -122,12 +122,44 @@
         "k": "8a0346334ec9c3de"
       },
       {
+        "date": "2025-11-12",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Dear Alan, We use L2, L2 + POE, L3, L3+ POE, Industrial and commercial switches. I am talking to our Engineering Team to see if we can put our cyber s",
+        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "996986a756e7754a"
+      },
+      {
         "date": "2025-11-25",
         "dir": "来",
         "who": "Steve",
         "quote": "Does your company carry out OEM/ODM for other companies? Is your company ready to provide SDK/API…",
         "why": "SDK/API 需求 = 边界信号",
         "k": "68cb354a84c7aa86"
+      },
+      {
+        "date": "2025-12-01",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Dear Alan, Thank you for the prompt and very detailed response. The information you provided is excellent and confirms that our companies share a simi",
+        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "bd914113e63ac880"
+      },
+      {
+        "date": "2026-01-23",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Dear Alan, Happy New Year !! We wish you an amazing 2026!! We have been talking about your company with our Senior Management and our cooperation and",
+        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "61994389b31eed18"
+      },
+      {
+        "date": "2026-02-03",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Dear Alan, We would like to take this opportunity to wish you a wonderful Spring Chinese Holiday 2026 to you, your family and your colleagues! Kind re",
+        "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "e1c21321a0b20243"
       },
       {
         "date": "2026-02-05",
@@ -146,6 +178,14 @@
         "k": "gmail_a att 2026-02-16"
       },
       {
+        "date": "2026-02-27",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Dear Alan, we had an outlook issue that was affecting our emails. Would be kind to give us the following answers We are not looking to get Juniper MX2",
+        "why": "来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "f9e69dea9b5d2ded"
+      },
+      {
         "date": "2026-03-20",
         "dir": "来",
         "who": "Steve",
@@ -162,6 +202,22 @@
         "k": "gmail_a att 2026-03-20/23"
       },
       {
+        "date": "2026-03-23",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Hi Alan, See the answer to your question Do you mean QSFP112 400Gb module and 6 pieces in EACH unit(total",
+        "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "f05ed71fa67e24bc"
+      },
+      {
+        "date": "2026-04-23",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Hi Steve, We just corrected their design and it is up to them to validate the solution and send us the PI to buy the units for them. Kind regards Stan",
+        "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "47febb7202087218"
+      },
+      {
         "date": "2026-05-11",
         "dir": "来",
         "who": "Steve",
@@ -176,6 +232,14 @@
         "quote": "In the 50 switches is there a plan for 800GB or just the one you quoted us?",
         "why": "50 台批次 = Hohunet 国内批次搭车（A 总览）；800G 不做",
         "k": "77fc79297576e203"
+      },
+      {
+        "date": "2026-07-02",
+        "dir": "来",
+        "who": "info@itmsystems.net",
+        "quote": "Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve",
+        "why": "来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+        "k": "49a17ee1feaa5e14"
       },
       {
         "date": "2026-08-03",

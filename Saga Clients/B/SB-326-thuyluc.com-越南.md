@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-326` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-06-21 Ly Thanh Ha「Please quote me 10pcs」→ 报价已发；无后续）** ｜ 类型：越南液压/自动化公司（MTS JSC） ｜ 筛子：3（10 台询价） ｜ 停点：报价后无回 ｜ 复活：不动 ｜ 通路：VN ｜ 节奏：不动 ｜ 证据：k=6940cc80c3d991e2
+- **绑定等级：轻度触达（2024-06-21 Ly Thanh Ha「Please quote me 10pcs」→ 报价已发；无后续）** ｜ 类型：越南液压/自动化公司（MTS JSC） ｜ 筛子：3（10 台询价） ｜ 停点：报价后无回 ｜ 复活：不动 ｜ 通路：VN ｜ 节奏：不动 ｜ 证据：k=6940cc80c3d991e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：8 口光纤工业。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（25% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-21 | 来 | chuyengiathuykhi@gmail.com | Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri Di | 来信原文（主题「Re: 8 port fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `6940cc80c3d991e2` |
 
 ## 基本事实（事实/推断/假设分层）
 

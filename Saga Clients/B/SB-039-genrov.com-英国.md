@@ -44,12 +44,16 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-039` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-06-16 Mike「You could email the data sheet/manual」→ 已发；无后续；之后 22 封群发无回）** ｜ 类型：英国工程/安防承包（Genrov Ltd） ｜ 筛子：2 ｜ 停点：资料后无回 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=291792730fb79f70
+- **绑定等级：轻度触达（2024-06-16 Mike「You could email the data sheet/manual」→ 已发；无后续；之后 22 封群发无回）** ｜ 类型：英国工程/安防承包（Genrov Ltd） ｜ 筛子：2 ｜ 停点：资料后无回 ｜ 复活：不动 ｜ 通路：UK ｜ 节奏：不动 ｜ 证据：k=291792730fb79f70；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：4 口工业 PoE。
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（25% 档，—）———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2024-06-16 | 来 | mike@genrov.com | Hi Simon You could email the data sheet/manual Regards Mike | 来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `291792730fb79f70` |
 
 ## 基本事实（事实/推断/假设分层）
 

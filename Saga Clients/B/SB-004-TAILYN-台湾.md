@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-004` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（Gary Chen 4 封：2025-07 要 Alert System 资料 → 2026-04「will let you know if any model useful」→ 2026-08「don't have requirement so far」）** ｜ 类型：台湾工业电脑/网络厂商（Tailyn 台林；Gary = 采购/产品）——台湾厂商口径：只谈 OEM/ODM 二供 ｜ 筛子：2 ｜ 停点：明确「暂无需求」 ｜ 复活：不动；年度一次 ｜ 通路：TW 非主攻 ｜ 节奏：年度 ｜ 证据：k=dde2fa9ba8c3c6b8 / ddab5b933723562b / 8f58c5f5654aaa52
+- **绑定等级：轻度触达（Gary Chen 4 封：2025-07 要 Alert System 资料 → 2026-04「will let you know if any model useful」→ 2026-08「don't have requirement so far」）** ｜ 类型：台湾工业电脑/网络厂商（Tailyn 台林；Gary = 采购/产品）——台湾厂商口径：只谈 OEM/ODM 二供 ｜ 筛子：2 ｜ 停点：明确「暂无需求」 ｜ 复活：不动；年度一次 ｜ 通路：TW 非主攻 ｜ 节奏：年度 ｜ 证据：k=dde2fa9ba8c3c6b8 / ddab5b933723562b / 8f58c5f5654aaa52；第 19 批回补来信原文 3 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：无需求。
@@ -53,6 +53,9 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-07-10 | 来 | garychen@tailyn.com.tw | Thans Alan. Best regards, Gary [cid:ii_197f35afd4e4cff311] T +886-3-3222201 # 6501 F +886-3-3222563 E garychen@tailyn.com.tw<mailto:garychen@tailyn.co | 来信原文（主题「FW: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `0d09f0573445aee7` |
+| 2025-07-10 | 来 | garychen@tailyn.com.tw | Hi Alan, Could you mail us the details of Marvell Industrial Alert System? Best regards, Gary [cid:image001.png@01DBF1A3.E0233A90] T +886-3-3222201 # | 来信原文（主题「RE: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `dde2fa9ba8c3c6b8` |
+| 2026-04-02 | 来 | garychen@tailyn.com.tw | Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC2A7.356B3E60] T +886-3-3222201 # 6501 F +886- | 来信原文（主题「RE: FW: [External]Marvell Industria」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `ddab5b933723562b` |
 | 2026-08-11 | 来 | Gary Chen | Thanks Alan and I don't have requirement so far. | 无需求 | `8f58c5f5654aaa52` |
 
 ## 基本事实（事实/推断/假设分层）

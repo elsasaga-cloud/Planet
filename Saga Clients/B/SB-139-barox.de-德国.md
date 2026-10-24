@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-139` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）** ｜ 类型：德国视频网络交换机品牌商（Barox；Luis = META 区销售总监，西班牙号码）——第一档品牌商，但回信者是销售不是采购 ｜ 筛子：2（问价后拒样） ｜ 停点：销售总监对供应商没有采购权；「None whatsoever」是礼貌的拒绝 ｜ 复活：只有找到 Barox 产品/采购负责人才值得再发 ｜ 通路：DE 主攻 ｜ 节奏：不动（换联系人再说） ｜ 证据：k=ae372c96fe2917af / 15383b63e796c734 / c3a6ce39d1213582；f68b73f1522697d3（$25）
+- **绑定等级：无绑定（2024-05-02/03 Luis 三封一句话回复「Amazing」「that's sounds great」→ 报 STI-050GE $25 → 「None whatsoever!」= 不要样品；之后 26 封群发无回）** ｜ 类型：德国视频网络交换机品牌商（Barox；Luis = META 区销售总监，西班牙号码）——第一档品牌商，但回信者是销售不是采购 ｜ 筛子：2（问价后拒样） ｜ 停点：销售总监对供应商没有采购权；「None whatsoever」是礼貌的拒绝 ｜ 复活：只有找到 Barox 产品/采购负责人才值得再发 ｜ 通路：DE 主攻 ｜ 节奏：不动（换联系人再说） ｜ 证据：k=ae372c96fe2917af / 15383b63e796c734 / c3a6ce39d1213582；f68b73f1522697d3（$25）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
 - **现状一句话**：三封热情的一句话回复后，问「要几台样品」得到「None whatsoever!」。对方是卖 Barox 的人，不是买交换机的人。
 - **对方真实需求（有据）**：OEM 工业 FS（PC-PIGE500-GBTE 同类）。
 - **断点 / 为什么停在这里**：联系人错位。
@@ -52,6 +52,8 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-05-02 | 来 | luis.coello@barox.de | Ooohh that’s sounds great Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `15383b63e796c734` |
+| 2024-05-02 | 来 | luis.coello@barox.de | Amazing Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device | 来信原文（主题「Re: Industrial Ethernet Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `ae372c96fe2917af` |
 | 2024-05-03 | 来 | Luis Coello | None whatsoever! | 拒样 | `c3a6ce39d1213582` |
 
 ## 基本事实（事实/推断/假设分层）

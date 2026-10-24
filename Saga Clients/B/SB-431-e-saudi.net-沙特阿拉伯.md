@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-431` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（10 封来信、2024-02 → 2025-04，全是 Saeed 的「分享给团队/工程部，稍后回复」；2024-07 反向 RFQ Tofino 工业路由器替代（Saga 无）；2024-10「we need a sample and datasheet」→ Simon「sample NOT free $50」后无付款；2025-04 要 List price → 已给）** ｜ 类型：沙特 IT/网络贸易商（e-Saudi；Saeed = 商务/运营经理）——第三档贸易商，礼貌型回复者 ｜ 筛子：3（要样 + 要价表，均未成交） ｜ 停点：付费样品 $50 这道筛没过；每次都是「分享给团队」——无决策权或无真实项目 ｜ 复活：不再群发；半年一句话问「团队评审结果」 ｜ 通路：SA 非主攻 ｜ 节奏：半年 ｜ 证据：k=9b62c7cda364bb0f（webinar 提议）；fbc33e72bf02d4b3（Tofino RFQ）；bad9a4f3d0798ce2（need sample）；600c9221602d0b9d（$50 not free）；5f589ba4397ac9aa（List price）
+- **绑定等级：轻度触达（10 封来信、2024-02 → 2025-04，全是 Saeed 的「分享给团队/工程部，稍后回复」；2024-07 反向 RFQ Tofino 工业路由器替代（Saga 无）；2024-10「we need a sample and datasheet」→ Simon「sample NOT free $50」后无付款；2025-04 要 List price → 已给）** ｜ 类型：沙特 IT/网络贸易商（e-Saudi；Saeed = 商务/运营经理）——第三档贸易商，礼貌型回复者 ｜ 筛子：3（要样 + 要价表，均未成交） ｜ 停点：付费样品 $50 这道筛没过；每次都是「分享给团队」——无决策权或无真实项目 ｜ 复活：不再群发；半年一句话问「团队评审结果」 ｜ 通路：SA 非主攻 ｜ 节奏：半年 ｜ 证据：k=9b62c7cda364bb0f（webinar 提议）；fbc33e72bf02d4b3（Tofino RFQ）；bad9a4f3d0798ce2（need sample）；600c9221602d0b9d（$50 not free）；5f589ba4397ac9aa（List price）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
 - **现状一句话**：十封回信没有一封是决定。
 - **对方真实需求（有据）**：不明确（CCTV PoE / 工业路由替代）。
 - **断点 / 为什么停在这里**：付费样品。
@@ -52,8 +52,16 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2024-02-25 | 来 | saeed@e-saudi.net | Dear Simon, I would love that, in addition if we can schedule for a webinar at your convenient time to have a depth knowledge of your range of product | 来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `9b62c7cda364bb0f` |
+| 2024-02-26 | 来 | saeed@e-saudi.net | Thank you Simon. I fully understand that, I am looking forward to working with you. Regards, Saeed Mohammed | 来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `ef7c580e09a399f6` |
+| 2024-05-16 | 来 | saeed@e-saudi.net | Hi Simon, Thank you for your email. Kindly allow me few days to check and reply you. Regards, Saeed Mohammed Commercial Business Development and Opera | 来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `31d92aca47a504fd` |
+| 2024-06-23 | 来 | saeed@e-saudi.net | Hi Simon, I am doing well, thank you. My apology for the delay in responding, we were on Eid Holiday almost for 10 days. We just resumed office today. | 来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `ca353d1422a0b717` |
+| 2024-07-17 | 来 | saeed@e-saudi.net | Dear Simon, I am sharing this info with our engineering department. Let me check and revert back to you. Regards, Saeed Mohammed Commercial Business D | 来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `ed5413691bf7d78b` |
+| 2024-07-23 | 来 | saeed@e-saudi.net | Dear Simon, Thank you for your quick reply. I highly appreciate that. Regards, Saeed Mohammed Commercial Business Development and Operation Manager El | 来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `9e1dbbaecd18c1a4` |
+| 2024-07-23 | 来 | saeed@e-saudi.net | Hi Simon, Hope my email finds you in the best health. I have this request from one of our existing customers, they are looking for an alternative, I w | 来信原文（主题「RE: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `fbc33e72bf02d4b3` |
 | 2024-10-15 | 来 | Saeed | Yes indeed we need a sample and datasheet if you can provide us. | 要样 | `bad9a4f3d0798ce2` |
 | 2024-10-15 | 去 | Simon | The sample is NOT free. 50usd/pc | 付样筛 | `600c9221602d0b9d` |
+| 2025-04-28 | 来 | saeed@e-saudi.net | Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime, to better understand the scenario it w | 来信原文（主题「RE: Commercial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `5f589ba4397ac9aa` |
 
 ## 基本事实（事实/推断/假设分层）
 
