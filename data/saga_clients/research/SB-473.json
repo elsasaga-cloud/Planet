@@ -286,6 +286,22 @@
         "k": "ec7219c7266d38b6"
       },
       {
+        "date": "2025-12-03",
+        "dir": "内",
+        "who": "Saga 填回 Netaş 的出口分类表（PI 包「Netas Info Filled 2025.12.03」）",
+        "quote": "Product Classification Table：STI-488DGGPM-2BT · Industrial Ethernet Switch · Export Classification **EAR99** · License Exception **NLR (No License Required), per EAR §734** · CCATS Not applied · HTS 8517622990 · Country of Origin China。证明句仍是模板原文「I hereby certify that on behalf of (Company Name) JERA ELEKTRONİK TİC. SAN. LTD. ŞTİ.…」，签名 Zhengzhou Saga",
+        "why": "Saga 对 Netaş 的出口管制口径已落字：EAR99 / NLR / 原产中国——以后任何土耳其国防相关客户问 ECCN 就照这个答。瑕疵：certify 句里留着模板上别家供应商 JERA ELEKTRONİK 的名字（邮箱里查无此公司），下次 Netaş 要更新表时把公司名改成 Zhengzhou Saga Telecom",
+        "k": "data/pi_2026-10/text/…20_土耳其_Burak…Netas_-_DRAFT_Supplier_Export_Classification_Request_Form"
+      },
+      {
+        "date": "2025-12-03",
+        "dir": "内",
+        "who": "Netaş《Annex 1 – Additional Protocol on the Protection of Personal Data》（PI 包，8,048 字）",
+        "quote": "executed by NETAŞ TELEKOMÜNİKASYON A.Ş. and Zhengzhou Saga Telecom Co., Ltd. … obligations of the COMPANY regarding personal data in accordance with The Personal Data Protection Law no. 6698 (KVKK) … may not transfer this data to any third parties … or transfer to abroad",
+        "why": "Netaş 供应商包里的 KVKK 个人数据附加协议——Saga 作为境外供应商签了「不得把 Netaş 个人数据转第三方/出境」的义务；意味着 Netaş 项目联系人信息不能进群发名单、不能转给 SmartByte/HRUI（CENTEC 工程对接只给型号与技术问题，不给人名邮箱）",
+        "k": "data/pi_2026-10/text/…20_土耳其_Burak…Annex_1_-_Protection_of_Personal_Data"
+      },
+      {
         "date": "2025-12-09",
         "dir": "去",
         "who": "Saga Quotation_2025.12.09（Alan → Ender Bulut）",
