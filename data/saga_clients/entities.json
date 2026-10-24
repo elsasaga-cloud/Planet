@@ -5762,6 +5762,14 @@
 "k": "c42b730eadf0bfa6"
 },
 {
+"date": "2024-11-22",
+"dir": "去",
+"who": "Simon→Thu《Option_Explanation.docx》（与 2024-11-22 丝印需求同批）",
+"quote": "Option 1: Print logo and model name on the front chassis… all will be white color… Option 2: a customized PVC mask covering the whole front panel… fonts and colors exactly copied… I know you are printing the logo and models on the case like MC100. We can do this but this will be costly for a sample unit. Our advice: take option 2 for testing and demonstration. If all is OK, in next order, we can customize a batch of chassis",
+"why": "Vi-Link 的品牌化路径 Saga 早就给过两条（丝印 vs PVC 面膜）；2026-09 他仍选丝印小批（10 台 MC，丝印 500 RMB）——下次直接按「PVC 面膜一次开版、后续免费」报，省掉每单丝印费",
+"k": "pi_doc"
+},
+{
 "date": "2025-05-09",
 "dir": "来",
 "who": "Thu Pham",
@@ -73483,6 +73491,14 @@
 "quote": "STC-424XGGPM-280W → Netstream-42410G280W ×8 @¥1,100；STC-4168XGGCM → BNSC-4168XGGCM ×1 @¥2,250（L3 managed）；STH-2C24XF-SFI → Netstream-24X100G-SFI ×2 @¥7,500（2×100G QSFP28 + 24×10G SFP, 0.5U, VXLAN/EVPN/BGP/OSPF/MPLS/MLAG）；TOTAL 11 件 ¥26,050；T/T in advance, EXW；Warranty 1 year",
 "why": "Mbata 有两个品牌：BNSC（接入 PoE/L3 汇聚）和 **Netstream**（10G 上联 PoE + CENTEC 100G 核心）——第 9 单把 CENTEC STH-2C24XF-SFI 以 Netstream 牌卖进拉各斯 = 全库唯一一个「WhatsApp 小客户买 CENTEC 核心机」的成交；采购侧 Hohunet（CENTEC）+ SmartByte ¥17,770。下次复购问 Netstream 线的 100G/25G 扩容，而不只问 BNSC-28GPM",
 "k": "Drive PI 文件夹 12_Mbata 9th_order STEC20251123012.xls"
+},
+{
+"date": "2025-12-01",
+"dir": "内",
+"who": "Hohunet 黄玉芳 → 仨戛（发货相关图片.docx）",
+"quote": "型号：Netstream-24X100G-SFI；SN H241226N00075 / H241226N00024；出货：快递到客户指定的国内位置；收货人 Anna/安娜 18373360223，惠州市惠阳区镇隆镇力合优科创新基地 1 栋 8 楼 凌特华盛科技有限公司",
+"why": "Mbata 的两台 CENTEC（STH-2C24XF-SFI = Hohunet Netstream-24X100G-SFI）先寄到惠州凌特华盛（SmartByte/HRUI 所在园区）与 Smartbyte 线的货合箱再走货代——CENTEC 单的物流默认走「惠州合箱」，不是从 Hohunet 直发；另一台 S5648X-4Z-SI 同批",
+"k": "pi_doc"
 },
 {
 "date": "2026-08-30",
@@ -204630,6 +204646,22 @@
 "quote": "印度名单：secureye「很多找到的邮箱都试了 fail」、kabirinfotech「买来刷logo」、mahalasaent「requested samples before, but now company distributor Surabhi Info is on it. SILENT follow-up」、sundartechno Manoj Kumar…",
 "why": "Saga 自己做的印度 MC/旁路/工业交换机线索表放在 Fastball 文件夹里 = 当时设想 Fastball 当印度分销去跟这些线索（与给 Angora 土耳其名单同一套路）。Fastball 没成为分销商，名单也没交出去；这些印度户多数已在客户库 C/B",
 "k": "Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi"
+},
+{
+"date": "2024-01-15",
+"dir": "去",
+"who": "Saga 代采记录《Information.docx》《Customs_Information.docx》（Rishi 配件）",
+"quote": "Supplier Lenon（宁波）… Cleaner Pen, HS 8517799000… 40 pc 1.25mm (LC) + 40 pc 2.5mm (SC)… Cost 2.7×80 + 46 ship = 262 USD；采购成本 2.7×80 + 2.5 = 218.5 USD",
+"why": "Saga 为 Rishi 代采过 80 支光纤清洁笔（毛利约 $43）——Fastball 的 FTTH 配件清单（跳线/尾纤/分光器/LIU/VFL/光功率计/PoE 延长器…）Saga 都能代采，但利润薄，只作为交换机单的搭售",
+"k": "pi_doc"
+},
+{
+"date": "2024-01-15",
+"dir": "去",
+"who": "Saga→Rishi《Model_List.docx》《Title_Reference.docx》",
+"quote": "Commercial Rack: STC-4168XGGCM / STC-4816XGCGM / STC-4816XGCGPM / STC-424XGGM / STC-424XGGPM / STC-448XGGM / STC-448XGGPM / STC-448XGGM-AF… Industrial Rack: STI-448XGGM / STI-4168XGGCM…；Title_Reference：「5 port unmanaged Ethernet switch / 8 port 10/100M lan switch / … / 27 port hybrid rate poe switch…」共 30+ 条电商式标题",
+"why": "Saga 给 Rishi 的是「机架型号清单 + 电商标题参考」——Fastball 在印度做线上/分销铺货，要的是可直接上架的标题与型号树；这份清单也是 Saga 现成的 IndiaMART/Amazon 文案底稿",
+"k": "pi_doc"
 }
 ],
 "proof_gaps": [],

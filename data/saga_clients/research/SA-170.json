@@ -208,6 +208,14 @@
         "k": "Drive PI 文件夹 12_Mbata 9th_order STEC20251123012.xls"
       },
       {
+        "date": "2025-12-01",
+        "dir": "内",
+        "who": "Hohunet 黄玉芳 → 仨戛（发货相关图片.docx）",
+        "quote": "型号：Netstream-24X100G-SFI；SN H241226N00075 / H241226N00024；出货：快递到客户指定的国内位置；收货人 Anna/安娜 18373360223，惠州市惠阳区镇隆镇力合优科创新基地 1 栋 8 楼 凌特华盛科技有限公司",
+        "why": "Mbata 的两台 CENTEC（STH-2C24XF-SFI = Hohunet Netstream-24X100G-SFI）先寄到惠州凌特华盛（SmartByte/HRUI 所在园区）与 Smartbyte 线的货合箱再走货代——CENTEC 单的物流默认走「惠州合箱」，不是从 Hohunet 直发；另一台 S5648X-4Z-SI 同批",
+        "k": "pi_doc"
+      },
+      {
         "date": "2026-08-30",
         "dir": "去",
         "who": "Saga PI STEC20260830012（第 12 单）",

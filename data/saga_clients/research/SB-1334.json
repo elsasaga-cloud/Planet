@@ -168,6 +168,22 @@
         "quote": "印度名单：secureye「很多找到的邮箱都试了 fail」、kabirinfotech「买来刷logo」、mahalasaent「requested samples before, but now company distributor Surabhi Info is on it. SILENT follow-up」、sundartechno Manoj Kumar…",
         "why": "Saga 自己做的印度 MC/旁路/工业交换机线索表放在 Fastball 文件夹里 = 当时设想 Fastball 当印度分销去跟这些线索（与给 Angora 土耳其名单同一套路）。Fastball 没成为分销商，名单也没交出去；这些印度户多数已在客户库 C/B",
         "k": "Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi"
+      },
+      {
+        "date": "2024-01-15",
+        "dir": "去",
+        "who": "Saga 代采记录《Information.docx》《Customs_Information.docx》（Rishi 配件）",
+        "quote": "Supplier Lenon（宁波）… Cleaner Pen, HS 8517799000… 40 pc 1.25mm (LC) + 40 pc 2.5mm (SC)… Cost 2.7×80 + 46 ship = 262 USD；采购成本 2.7×80 + 2.5 = 218.5 USD",
+        "why": "Saga 为 Rishi 代采过 80 支光纤清洁笔（毛利约 $43）——Fastball 的 FTTH 配件清单（跳线/尾纤/分光器/LIU/VFL/光功率计/PoE 延长器…）Saga 都能代采，但利润薄，只作为交换机单的搭售",
+        "k": "pi_doc"
+      },
+      {
+        "date": "2024-01-15",
+        "dir": "去",
+        "who": "Saga→Rishi《Model_List.docx》《Title_Reference.docx》",
+        "quote": "Commercial Rack: STC-4168XGGCM / STC-4816XGCGM / STC-4816XGCGPM / STC-424XGGM / STC-424XGGPM / STC-448XGGM / STC-448XGGPM / STC-448XGGM-AF… Industrial Rack: STI-448XGGM / STI-4168XGGCM…；Title_Reference：「5 port unmanaged Ethernet switch / 8 port 10/100M lan switch / … / 27 port hybrid rate poe switch…」共 30+ 条电商式标题",
+        "why": "Saga 给 Rishi 的是「机架型号清单 + 电商标题参考」——Fastball 在印度做线上/分销铺货，要的是可直接上架的标题与型号树；这份清单也是 Saga 现成的 IndiaMART/Amazon 文案底稿",
+        "k": "pi_doc"
       }
     ],
     "proof_gaps": [],
