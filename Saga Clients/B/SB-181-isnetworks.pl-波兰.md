@@ -115,7 +115,7 @@ updated: 2026-10-24
   - 官网：professional services in the field of design, assembly … computer networks；kw sfp 44 / fiber 41 / cctv 43
 - **风险/边界**：集成商项目型采购：量随项目波动；8 次无回复 → 改向 Marek 具名首触
 - **Saga 对位结论**：P1 STI-288GPM（25% 档）——项目用工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE；SFP Saga 不供（Q-32）
-- **邮件切入句（英文）**：Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?
+- **邮件切入句（英文）**：Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

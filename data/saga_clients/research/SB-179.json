@@ -75,7 +75,7 @@
     "tier": 30,
     "why": "自有 Innowatt 标工业 FS（现中科德能）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴标；商用位 STC-28DGGPM"
   },
-  "email_hook": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?",
+  "email_hook": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 commerciale@innowatt.it；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
@@ -102,7 +102,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?"
+      "one_question": "For the Innowatt-branded industrial PoE switches, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP unmanaged/managed, −40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do you reorder most often?"
     },
     "facts": [
       {

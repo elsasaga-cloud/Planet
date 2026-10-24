@@ -111,7 +111,7 @@ updated: 2026-10-24
   - KP：Matteo Tirapelle / Operations Manager；Flavio Zordan / IT Manager（表内）
 - **风险/边界**：现货源 Maiwe（武汉）价格基准低：需以 Marvell 平台/交期切入；群发 12 次无回复：改向 Operations Manager 具名首触
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——在售 Maiwe 工业交换机 → 同口型替换：工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、PoE 版 STI-288GP（$57.4）、管理型 STI-288GPM
-- **邮件切入句（英文）**：Matteo, next to the Maiwe industrial switches you stock, we supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?
+- **邮件切入句（英文）**：Matteo, next to the Maiwe industrial switches you stock, we supply DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -274,7 +274,7 @@ updated: 2026-10-24
 ```text
 Hi Matteo,
 
-Picking up our earlier exchange about PoE / industrial switches. Matteo, next to the Maiwe industrial switches you stock, we supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?
+Picking up our earlier exchange about PoE / industrial switches. Matteo, next to the Maiwe industrial switches you stock, we supply DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

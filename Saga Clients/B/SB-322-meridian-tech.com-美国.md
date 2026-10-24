@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：美国 Meridian Technologies（光纤传输系统公司：视频/数据/音频光端机、分路器/交换机/复用器配件；表内「工业 FS / MC / VC（较多）自己的牌子，很多公司卖他们的产品」；KP Denise Shay（dshay@））；群发 20 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC VC(较多)自己的牌子 很多公司卖他们的产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-05-02 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做。已打开的主题（2/31 封有打开记录）：「90W PoE Managed Switch」(2025-01-02)、「OEM Core Switching Solution」(2026-01-07) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-01-31 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做。已打开的主题（2/31 封有打开记录）：「90W PoE Managed Switch」(2025-01-02)、「OEM Core Switching Solution」(2026-01-07) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-01-31 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → dshay@meridian-tech.com 短信一问（email_hook）
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：美国 Meridian Technologies（光纤传输系统公司：视频/数据/音频光端机、分路器/交换机/复用器配件；表内「工业 FS / MC / VC（较多）自己的牌子，很多公司卖他们的产品」；KP Denise Shay（dshay@））；群发 20 次无回复。
 - **对方真实需求（有据）**：自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做
 - **断点 / 为什么停在这里**：主业 VC 光端机（Saga 不做）：交换机/MC 为副线
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-01-31 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做。已打开的主题（2/31 封有打开记录）：「90W PoE Managed Switch」(2025-01-02)、「OEM Core Switching Solution」(2026-01-07) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-01-31 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做。已打开的主题（2/31 封有打开记录）：「90W PoE Managed Switch」(2025-01-02)、「OEM Core Switching Solution」(2026-01-07) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → dshay@meridian-tech.com　短信一问（email_hook）
-  - 第一问（只问一个）：Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?
+  - 第一问（只问一个）：Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@ updated: 2026-10-24
   - 表内：工业 FS MC VC（较多）自己的牌子 很多公司卖他们的产品
 - **风险/边界**：主业 VC 光端机（Saga 不做）：交换机/MC 为副线；20 次无回复 → 改向 Denise Shay 具名首触（职务待核）
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有 Meridian 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 贴标；MC 位 STI-110GE（$24.3）；VC（光端机）Saga 不做
-- **邮件切入句（英文）**：Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?
+- **邮件切入句（英文）**：Denise, for the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -283,7 +283,9 @@ Hi Denise,
 
 You opened our mail on "Marvell Industrial Alert System" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 
-For the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?
+For the industrial switches and media converters you offer under the Meridian label alongside your video-over-fibre range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, gigabit MC) from small lots in your housing, FCC/CE/RoHS — which model do your dealers reorder most?
+
+Reference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 
 If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 

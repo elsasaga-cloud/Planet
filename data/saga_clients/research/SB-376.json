@@ -76,7 +76,7 @@
     "tier": 20,
     "why": "Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP"
   },
-  "email_hook": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?",
+  "email_hook": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 narathon@winnerintertech.com, office@winnerintertech.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
@@ -103,7 +103,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?"
+      "one_question": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?"
     },
     "facts": [
       {

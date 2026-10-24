@@ -83,7 +83,7 @@
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）",
+      "price": "首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）",
       "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -92,7 +92,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → info@smartsystems.jo",
       "action": "短信一问（email_hook）",
-      "one_question": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?"
+      "one_question": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote? Reference: STC-424XGGM at $132.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -123,7 +123,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hi Motaz,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Booster PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Motaz,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"Booster PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?\n\nReference price: 24-GE + 4 × 10G SFP+ L2+ managed switch (Marvell AC5) (STC-424XGGM) $132.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

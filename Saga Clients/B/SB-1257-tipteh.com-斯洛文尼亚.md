@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/欧洲（国别未填）
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
+- **第一问（只问一个）**：For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
+  - 第一问（只问一个）：For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@ updated: 2026-10-24
   - 产品页 /industrial-computers-networking/powerful-industrial-pc-with-poe-ports/
 - **风险/边界**：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低；集团多国子公司：决策在卢布尔雅那总部还是各国分公司需核；斯洛文尼亚为小国（不主动挖掘名单），但为表内既有线索故保留 B
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」
-- **邮件切入句（英文）**：For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
+- **邮件切入句（英文）**：For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -249,7 +249,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
+Picking up our earlier exchange about PoE / industrial switches. For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

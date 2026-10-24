@@ -75,7 +75,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-17 $300（48 Port PoE Managed Switch）",
+      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-17 $300（48 Port PoE Managed Switch）",
       "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 Utepo 二供。已打开的主题（3/7 封有打开记录）：「Mini industrial switch」(2024-08-18)、「Power Converter」(2024-09-14)、「16 Port PoE Managed Switch」(2025-01-27) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -84,7 +84,7 @@
       "when": "2026-11",
       "channel": "S 邮箱 → sales@cmd-sec.ru",
       "action": "短信一问（email_hook）",
-      "one_question": "For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?"
+      "one_question": "For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -115,7 +115,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Passive PoE Switch",
-      "body": "Hello,\n\nYou opened our mail on \"Passive PoE Switch\" (and \"Mini industrial switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nYou opened our mail on \"Passive PoE Switch\" (and \"Mini industrial switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

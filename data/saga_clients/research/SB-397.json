@@ -72,7 +72,7 @@
     "tier": 20,
     "why": "在售 ORing 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）作预算线"
   },
-  "email_hook": "Alongside the ORing industrial switches in your Réseaux department, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?",
+  "email_hook": "Alongside the ORing industrial switches in your Réseaux department, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?",
   "products_seen": [
     {
       "brand": "ORing",
@@ -109,7 +109,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Alongside the ORing industrial switches in your Réseaux department, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?"
+      "one_question": "Alongside the ORing industrial switches in your Réseaux department, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line — which ORing port count do your customers order most?"
     },
     "facts": [
       {

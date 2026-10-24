@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-08-26 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
+- **第一问（只问一个）**：Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：非主攻区（T5），RCM 由客户申报；Maiwe/Advantech 既定线
 - **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
+  - 第一问（只问一个）：Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@ updated: 2026-10-24
   - 官网：An experienced automation product and services provider in Australia；KP Zifei Li / Automation Products Manager
 - **风险/边界**：非主攻区（T5），RCM 由客户申报；Maiwe/Advantech 既定线；4 次跟进无回复 → 改向 Automation Products Manager 具名首触（中文姓名，可中文跟进）
 - **Saga 对位结论**：P1 STI-050GE（25% 档）——在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做
-- **邮件切入句（英文）**：Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
+- **邮件切入句（英文）**：Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -274,7 +274,7 @@ updated: 2026-10-24
 ```text
 Hi Zifei,
 
-Picking up our earlier exchange about PoE / industrial switches. Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
+Picking up our earlier exchange about PoE / industrial switches. Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

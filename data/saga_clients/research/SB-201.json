@@ -77,7 +77,7 @@
     "tier": 25,
     "why": "RFQ 品类 BiDi 光模块（Saga 不供，Q-32）→ 顺带推生产线用工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）"
   },
-  "email_hook": "Viktor, following your enquiry for gigabit BiDi modules: we do not carry optics, but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?",
+  "email_hook": "Viktor, following your enquiry for gigabit BiDi modules: we do not carry optics, but we supply DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 fojt@rectec.cz；主题多为「Booster PoE Switch、OEM Core Switching Solution」）",
@@ -104,7 +104,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not run a standalone optics line at the moment (modules are quoted and shipped together with our switches), but we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
+      "one_question": "Viktor, following your enquiry for gigabit BiDi modules: we do not run a standalone optics line at the moment (modules are quoted and shipped together with our switches), but we supply DIN-rail 8-GE + 2 SFP managed and 5-GE unmanaged industrial switches (−40~75 °C, CE/RoHS) for machine and line networks from single units, EXW USD — do your recycling lines use fibre links between cabinets?"
     },
     "facts": [
       {

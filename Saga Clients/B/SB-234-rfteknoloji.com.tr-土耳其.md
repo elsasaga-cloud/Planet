@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
+- **第一问（只问一个）**：For the industrial switch category next to your RF modems and 4G routers, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：现货源 3onedata（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（48 port managed switch）、2025-09-26 $280（10G Enterprise SFP Switch））——在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
+  - 第一问（只问一个）：For the industrial switch category next to your RF modems and 4G routers, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@ updated: 2026-10-24
   - 站内 kw：switch 379 / ethernet 337 / poe 142 / fiber 66
 - **风险/边界**：现货源 3onedata（深圳）价格基准低；SCADA/数传客户多为公用事业：守界按单核；无具名 KP（info@）
 - **Saga 对位结论**：P1 STI-288GPM（25% 档）——在售 3onedata 工业交换机 → 同口型替换：工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-280GE / STI-288GP
-- **邮件切入句（英文）**：For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
+- **邮件切入句（英文）**：For the industrial switch category next to your RF modems and 4G routers, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -271,7 +271,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial switch category next to your RF modems and 4G routers, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
+Picking up our earlier exchange about PoE / industrial switches. For the industrial switch category next to your RF modems and 4G routers, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C) in neutral packing from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

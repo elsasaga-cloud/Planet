@@ -117,7 +117,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-27 $300（48 Port PoE Managed Switch）、2025-02-05 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-27 $300（48 Port PoE Managed Switch）、2025-02-05 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
       "why": "PoE 全线现 Itoonertech（深圳）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 Marvell 升级位；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（2/28 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-27)、「24 Port Fiber Switch」(2025-02-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -126,7 +126,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → dexter@petawise.com",
       "action": "短信一问（email_hook）",
-      "one_question": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?"
+      "one_question": "Stephane, alongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -149,7 +149,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Mini Industrial PoE Switch",
-      "body": "Hi Stephane,\n\nYou opened our mail on \"Mini Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Stephane,\n\nYou opened our mail on \"Mini Industrial PoE Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the PoE switches you bundle with Uniview cameras, we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models plus budget 8/16-port PoE units from small lots, FCC/CE/RoHS, EXW USD — which port count do your Ontario dealers order most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $80.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

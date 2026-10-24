@@ -117,7 +117,7 @@ updated: 2026-10-24
   - 表内：massov@ 地推；koe@s-avt.ru 回复回执
 - **风险/边界**：俄罗斯：结算/物流受限，非主攻区（T5）；「俄罗斯制造」口径（本地化）：可能只接受 SKD/板级；18 次无回复，回执邮箱 koe@s-avt.ru
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有 logo 工业 PoE（SWMP-82GC = 8 PoE + 2 SFP）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 作二供；光开关版 Saga 无；MC 位 STI-110GE
-- **邮件切入句（英文）**：For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?
+- **邮件切入句（英文）**：For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

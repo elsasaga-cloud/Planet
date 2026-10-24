@@ -112,7 +112,7 @@
     "saga_now": {
       "p1": "STI-488DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-08 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
+      "price": "首触锚价 STI-488DGGPM $148.5 EXW（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-08 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
       "why": "产品页「工业 L3 管理 4 光 8 电 PoE」（ONV 货源）→ Saga 工业 L2+ 4×2.5G SFP + 8 PoE STI-488DGGPM（$147.1 @20%，L3 待核）；Web-smart 4 PoE + 2 SFP → STI-244GPM（$64.6）；MC 位 STI-110GE。已打开的主题（2/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-03)、「Marvell Managed Commercial Switches」(2026-03-20) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -121,7 +121,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → info@focomm-cabling.com",
       "action": "短信一问（email_hook）",
-      "one_question": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?"
+      "one_question": "For the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -144,7 +144,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"24 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"24 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?\n\nReference price: DIN-rail 8-PoE + 4 × 2.5G SFP L2+ managed industrial switch (Marvell AC5) (STI-488DGGPM) $148.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

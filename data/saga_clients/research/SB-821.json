@@ -90,7 +90,7 @@
     "tier": 20,
     "why": "主业为 SONiC/光模块（Saga 无）；副线 Utepo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）同口型替换；SFP/DAC Q-32"
   },
-  "email_hook": "Wassim, alongside the Utepo industrial switches in your edge range, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing) from small lots — is the industrial edge line something ECIN still stocks actively?",
+  "email_hook": "Wassim, alongside the Utepo industrial switches in your edge range, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots — is the industrial edge line something ECIN still stocks actively?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 26 封 2024→2026，无记录打开，0 回；收件 hassan.khanafer@ecin.ca, sales@ecin.ca；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
@@ -117,7 +117,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Wassim, alongside the Utepo industrial switches in your edge range, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing) from small lots — is the industrial edge line something ECIN still stocks actively?"
+      "one_question": "Wassim, alongside the Utepo industrial switches in your edge range, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots — is the industrial edge line something ECIN still stocks actively?"
     },
     "facts": [
       {

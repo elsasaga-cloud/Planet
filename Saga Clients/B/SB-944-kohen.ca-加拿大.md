@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：加拿大 Ko-Hen Electronics Supply（独立电子元件供应商 40 年以上：油气、自动化控制、计算机网络；表内「主要是 Wago 的」「可以多跟进一下」）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：主要是Wago的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-15 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）。已打开的主题（2/26 封有打开记录）：「8 port ethernet switch」(2024-08-16)、「Industrial PoE Switch」(2024-12-10) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）。已打开的主题（2/26 封有打开记录）：「8 port ethernet switch」(2024-08-16)、「Industrial PoE Switch」(2024-12-10) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → sales@kohen.ca 短信一问（email_hook）
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：加拿大 Ko-Hen Electronics Supply（独立电子元件供应商 40 年以上：油气、自动化控制、计算机网络；表内「主要是 Wago 的」「可以多跟进一下」）；群发 8 次无回复。
 - **对方真实需求（有据）**：在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）
 - **断点 / 为什么停在这里**：Wago（德国）为主的元件分销：白牌仅价格补充
-- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）。已打开的主题（2/26 封有打开记录）：「8 port ethernet switch」(2024-08-16)、「Industrial PoE Switch」(2024-12-10) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——在售 Wago 工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）、5 GE STI-050GE（$17.0）作价格补充；油气应用按单守界（非关键节点）。已打开的主题（2/26 封有打开记录）：「8 port ethernet switch」(2024-08-16)、「Industrial PoE Switch」(2024-12-10) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → sales@kohen.ca　短信一问（email_hook）
-  - 第一问（只问一个）：Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?
+  - 第一问（只问一个）：Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -265,6 +265,8 @@ Hello,
 You opened our mail on "Industrial PoE Switch" (and "16 Port Ethernet Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 
 Alongside the Wago industrial switches you supply to automation and oil-and-gas customers, we offer Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful?
+
+Reference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 
 If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 

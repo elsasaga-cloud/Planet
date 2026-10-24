@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/立陶宛；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-06-20 → 2025-09-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Andrius, for the Utepo-type industrial PoE positions in your projects, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
+- **第一问（只问一个）**：Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：小国（立陶宛，非主动开拓区）；官网 http_error；现供 Utepo 价格基准低；4 次无回复
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Andrius, for the Utepo-type industrial PoE positions in your projects, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
+  - 第一问（只问一个）：Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@ updated: 2026-10-24
   - 快照：http_error
 - **风险/边界**：小国（立陶宛，非主动开拓区）；官网 http_error；现供 Utepo 价格基准低；4 次无回复
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）
-- **邮件切入句（英文）**：Andrius, for the Utepo-type industrial PoE positions in your projects, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
+- **邮件切入句（英文）**：Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -252,7 +252,7 @@ updated: 2026-10-24
 ```text
 Hi Andrius,
 
-Picking up our earlier exchange about PoE / industrial switches. Andrius, for the Utepo-type industrial PoE positions in your projects, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
+Picking up our earlier exchange about PoE / industrial switches. Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

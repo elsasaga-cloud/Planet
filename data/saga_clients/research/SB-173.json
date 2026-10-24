@@ -91,7 +91,7 @@
     "tier": 20,
     "why": "在售 Maiwe 工业交换机 → 同口型替换：工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、PoE 版 STI-288GP（$57.4）、管理型 STI-288GPM"
   },
-  "email_hook": "Matteo, next to the Maiwe industrial switches you stock, we supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?",
+  "email_hook": "Matteo, next to the Maiwe industrial switches you stock, we supply DIN-rail 8-GE + 2 SFP unmanaged and PoE models (−40~75 °C, 12–58 VDC) in neutral packing from small lots — which Maiwe model turns fastest for you, so we quote its equivalent first?",
   "mail_review": {
     "binding": {
       "level": "未触达（1 封自动回复）",

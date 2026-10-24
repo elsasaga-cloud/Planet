@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 HTVision（CCTV 品牌商：自有型号商用 PoE，工业 FS 有 ONV / Utepo / Ewind；表内「有很多国内的外壳」「发不过去」（邮箱退信）；官网 http_error；备注 lyvi.ru 商品链接）；群发 8 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 自己的型号 有ONV Utepo Ewind的工业FS）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-28 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → info@htvision.ru（2024-12-27 曾退「Delivery incomplete」（临时），之后 9 封未见退信；发前看上一封有没有退回） 短信一问（email_hook）
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 HTVision（CCTV 品牌商：自有型号商用 PoE，工业 FS 有 ONV / Utepo / Ewind；表内「有很多国内的外壳」「发不过去」（邮箱退信）；官网 http_error；备注 lyvi.ru 商品链接）；群发 8 次无回复。
 - **对方真实需求（有据）**：自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供
 - **断点 / 为什么停在这里**：邮箱发不过去（info@ 退信）——邮箱待补；俄罗斯：结算/物流/合规风险；现供 ONV/Utepo/Ewind 价格基准低；官网 http_error
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　A 邮箱 → info@htvision.ru（2024-12-27 曾退「Delivery incomplete」（临时），之后 9 封未见退信；发前看上一封有没有退回）　短信一问（email_hook）
-  - 第一问（只问一个）：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?
+  - 第一问（只问一个）：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -264,6 +264,8 @@ Hello,
 You opened our mail on "48 Port PoE Managed Switch" (and "Mini Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?
+
+Reference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.
 
 If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 

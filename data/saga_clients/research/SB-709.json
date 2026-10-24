@@ -76,7 +76,7 @@
     "tier": 20,
     "why": "在售 ICP DAS NS-208PSE / InHand 工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换；M12/IP67 版不做"
   },
-  "email_hook": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?",
+  "email_hook": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?",
   "products_seen": [
     {
       "brand": "ICP DAS",
@@ -113,7 +113,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?"
+      "one_question": "Alongside the ICP DAS and InHand industrial switches on your linecard, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units (RJ45, −40~75 °C, neutral packing, CE/RoHS) from small lots — which model do your industrial-IT customers order most, so we quote its equivalent?"
     },
     "facts": [
       {

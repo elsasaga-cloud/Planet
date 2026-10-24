@@ -115,7 +115,7 @@ updated: 2026-10-24
   - 首页：TRUSTED BY MORE THAN 3,000 INTEGRATION PROS；KP Eric Bodley / CEO；Lawrence Davis / VP BD
 - **风险/边界**：PLANET / ROBOfiber 既定货源：白牌需靠价差；18 次无回复 → 改向 CEO 具名首触
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——硬化交换机栏目在售 PLANET → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；MC 位 STI-110GE；2.5G/10G 口型待核（Q-32）
-- **邮件切入句（英文）**：Eric, alongside the PLANET hardened switches in your industrial category, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?
+- **邮件切入句（英文）**：Eric, alongside the PLANET hardened switches in your industrial category, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -288,7 +288,7 @@ updated: 2026-10-24
 ```text
 Hi Eric,
 
-Picking up our earlier exchange about PoE / industrial switches. Eric, alongside the PLANET hardened switches in your industrial category, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?
+Picking up our earlier exchange about PoE / industrial switches. Eric, alongside the PLANET hardened switches in your industrial category, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units plus gigabit media converters (−40~75 °C, FCC/CE/RoHS, neutral packing) from small lots — which hardened model do your integrators order most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

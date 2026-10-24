@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-05-31 → 2025-10-17）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现从国内供应商采购工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AIXONTEC 标作替代；非管理 STI-288GP（$62.2）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-02-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $240（24 Port Fiber Switch）、2025-10-17 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
+- **第一问（只问一个）**：Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：现供国内厂商（表内「常总的」）：需以 Marvell 平台/管理功能差异化
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-02-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $240（24 Port Fiber Switch）、2025-10-17 $280（10G Enterprise SFP Switch））——现从国内供应商采购工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AIXONTEC 标作替代；非管理 STI-288GP（$62.2）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
+  - 第一问（只问一个）：Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@ updated: 2026-10-24
   - 表内：工业 FS 常总的；可以着重跟一下；KP Ashkan Ghaznavi / Managing Director
 - **风险/边界**：现供国内厂商（表内「常总的」）：需以 Marvell 平台/管理功能差异化；14 次无回复 → 改向 MD 具名首触
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——现从国内供应商采购工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AIXONTEC 标作替代；非管理 STI-288GP（$62.2）
-- **邮件切入句（英文）**：Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
+- **邮件切入句（英文）**：Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -280,7 +280,7 @@ updated: 2026-10-24
 ```text
 Hi Ashkan,
 
-Picking up our earlier exchange about PoE / industrial switches. Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
+Picking up our earlier exchange about PoE / industrial switches. Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

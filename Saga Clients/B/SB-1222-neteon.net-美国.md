@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
+- **第一问（只问一个）**：For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：Moxa 正规渠道：引入白牌意愿低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
+  - 第一问（只问一个）：For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@ updated: 2026-10-24
   - 站内品牌 Moxa / Cincoze / ASUS；kw industrial 188
 - **风险/边界**：Moxa 正规渠道：引入白牌意愿低；串口类需求 Saga 不做；无具名 KP（sales@）
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做
-- **邮件切入句（英文）**：For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
+- **邮件切入句（英文）**：For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -227,7 +227,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the OT networking projects where a Moxa switch is over-budget, we supply Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
+Picking up our earlier exchange about PoE / industrial switches. For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

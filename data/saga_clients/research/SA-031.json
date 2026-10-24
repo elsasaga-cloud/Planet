@@ -152,7 +152,7 @@
       "when": "2027-Q1",
       "channel": "A 邮箱 → tjargielo@ / ahyz@",
       "action": "一句话问其外采的非核心 SKU",
-      "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?"
+      "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered?"
     },
     "facts": [
       {

@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Alongside the Advantech EKI industrial switches in your catalogue, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
+- **第一问（只问一个）**：Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：白俄罗斯：结算/物流受限，非主攻区
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Alongside the Advantech EKI industrial switches in your catalogue, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
+  - 第一问（只问一个）：Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -100,7 +100,7 @@ updated: 2026-10-24
   - 栏目 /communications/switches/poe/managed/、/unmanaged/；站内型号 EKI-9502G / EKI-7454G-6X / UNO-2372G
 - **风险/边界**：白俄罗斯：结算/物流受限，非主攻区；站内 EN50155 / EN50121-4（轨道）：Saga 不做轨道，只报工厂自动化；无具名 KP（info@）
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报
-- **邮件切入句（英文）**：Alongside the Advantech EKI industrial switches in your catalogue, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
+- **邮件切入句（英文）**：Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -225,7 +225,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Alongside the Advantech EKI industrial switches in your catalogue, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

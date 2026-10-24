@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-06 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
+- **第一问（只问一个）**：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-06 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
+  - 第一问（只问一个）：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@ updated: 2026-10-24
   - KP：Steve Kuntz / President；Craig Kennedy / Technical Solutions Architect；David Schulman / VP, BD（表内）
 - **风险/边界**：成熟品牌（移动监控/ITS/公用事业客户多）：导入需工程验证；公用事业/交通项目按单守界；机架 / SFP / VC 为其需求一部分：Saga 价目无（Q-32）；10 次无回复 → 改向 VP BD 具名首触
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有标加固工业交换机线靠 ODM → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-288GP 作二供；MC 位 STI-110GE；机架/SFP/VC Saga 不供（Q-32）
-- **邮件切入句（英文）**：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
+- **邮件切入句（英文）**：David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -281,7 +281,7 @@ updated: 2026-10-24
 ```text
 Hi David,
 
-Picking up our earlier exchange about PoE / industrial switches. David, for the rugged industrial switch line in the KBC range, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
+Picking up our earlier exchange about PoE / industrial switches. David, for the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

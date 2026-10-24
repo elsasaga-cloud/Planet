@@ -100,7 +100,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
       "why": "Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE。已打开的主题（2/27 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18)、「24 Port Fiber Switch」(2025-07-07) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-26)、Product Link_2026Q2(2026-02-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -109,7 +109,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → sales@comtrol.co.uk",
       "action": "短信一问（email_hook）",
-      "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?"
+      "one_question": "Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -132,7 +132,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hi Tim,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Tim,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

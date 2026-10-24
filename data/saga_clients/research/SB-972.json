@@ -96,7 +96,7 @@
     "tier": 25,
     "why": "项目用工业 FS（现 Hirschmann）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE（$48.6）作预算线；消防/生命安全回路不涉（守界）"
   },
-  "email_hook": "Ibrahim, for the industrial Ethernet switches in your CCTV and automation projects where Hirschmann is over budget, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your projects use most?",
+  "email_hook": "Ibrahim, for the industrial Ethernet switches in your CCTV and automation projects where Hirschmann is over budget, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your projects use most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 aricoz@dacel.com.tr, ecirit@dacel.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
@@ -123,7 +123,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Ibrahim, for the industrial Ethernet switches in your CCTV and automation projects where Hirschmann is over budget, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your projects use most?"
+      "one_question": "Ibrahim, for the industrial Ethernet switches in your CCTV and automation projects where Hirschmann is over budget, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE + 2 SFP unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your projects use most?"
     },
     "facts": [
       {

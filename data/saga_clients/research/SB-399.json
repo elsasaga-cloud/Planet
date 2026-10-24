@@ -88,7 +88,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $300（48 Port PoE Managed Switch）、2024-12-03 $65（10G Media Converter）、2025-10-02 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $300（48 Port PoE Managed Switch）、2024-12-03 $65（10G Media Converter）、2025-10-02 $280（10G Enterprise SFP Switch）",
       "why": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Golmar 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）。已打开的主题（2/13 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-06)、「10G Media Converter」(2024-12-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -97,7 +97,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → golmar@golmar.es",
       "action": "短信一问（email_hook）",
-      "one_question": "For the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?"
+      "one_question": "For the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -120,7 +120,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Golmar,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"48 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Golmar,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"48 Port PoE Managed Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches that power your IP G+ door panels and CCTV kits, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Golmar packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with IP kits?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

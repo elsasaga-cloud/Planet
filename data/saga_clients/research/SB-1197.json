@@ -108,7 +108,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
       "why": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）。已打开的主题（2/2 封有打开记录）：「Industrial PoE Switch」(2025-01-09)、「Industrial PoE Switch」(2025-02-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -117,7 +117,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → icecom@icecom.is",
       "action": "短信一问（email_hook）",
-      "one_question": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?"
+      "one_question": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -148,7 +148,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hi Icecom,\n\nYou opened our mail on \"Industrial PoE Switch\" but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Icecom,\n\nYou opened our mail on \"Industrial PoE Switch\" but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $82.2 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

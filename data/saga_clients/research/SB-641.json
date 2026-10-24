@@ -91,7 +91,7 @@
     "tier": 20,
     "why": "在售 ORing IDGPS-C1042GP（工业 PoE 管理）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换"
   },
-  "email_hook": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?",
+  "email_hook": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?",
   "products_seen": [
     {
       "brand": "ORing",
@@ -128,7 +128,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?"
+      "one_question": "Craig, alongside the ORing industrial PoE switches you carry with your Teltonika and Milesight routers, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, neutral packing) from small lots, EXW — which ORing model moves most for you, so we quote its equivalent?"
     },
     "facts": [
       {

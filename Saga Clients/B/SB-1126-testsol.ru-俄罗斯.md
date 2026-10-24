@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-11-03 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
+- **第一问（只问一个）**：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-11-03 $280（10G Enterprise SFP Switch））——在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
+  - 第一问（只问一个）：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@ updated: 2026-10-24
   - 首页：ООО «ТЕСТ СОЛЮШН» ; Направления деятельности ; Наши бренды；站内品牌 EtherWAN / Advantech / Maiwe
 - **风险/边界**：俄罗斯：结算/物流受限，非主攻区（T5）；站点信息少（快照仅品牌页）；1 次跟进无回复，仅 info@
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——在售 Maiwe/EtherWAN 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-080GE（$31.4）
-- **邮件切入句（英文）**：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
+- **邮件切入句（英文）**：Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -230,7 +230,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Maiwe, EtherWAN and Advantech industrial switches you represent, we supply DIN-rail 8-PoE + 2 SFP managed and 5/8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your customers order most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

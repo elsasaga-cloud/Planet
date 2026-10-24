@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
+- **第一问（只问一个）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11（先找地址） A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效） 核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2026-11（先找地址）　A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）　核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发
-  - 第一问（只问一个）：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
+  - 第一问（只问一个）：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@ updated: 2026-10-24
   - 快照：标题/描述/栏目均为空（avizio.pl）
 - **风险/边界**：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低；未跟进过，仅 inquiries@
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代
-- **邮件切入句（英文）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
+- **邮件切入句（英文）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -222,7 +222,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
+Picking up our earlier exchange about PoE / industrial switches. For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

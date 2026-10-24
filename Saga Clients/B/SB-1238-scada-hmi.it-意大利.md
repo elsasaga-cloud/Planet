@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
+- **第一问（只问一个）**：For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：交换机为商店配套品类：量小；表内「质量一般」
 - **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit））——商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
+  - 第一问（只问一个）：For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@ updated: 2026-10-24
   - 站内 Teltonika RUT500 / UL508；表内：switch 工业电源
 - **风险/边界**：交换机为商店配套品类：量小；表内「质量一般」；无具名 KP（info@）；无跟进记录
 - **Saga 对位结论**：P1 STI-080GE（20% 档）——商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做
-- **邮件切入句（英文）**：For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
+- **邮件切入句（英文）**：For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -224,7 +224,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial switches you list next to your Modbus I/O modules, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
+Picking up our earlier exchange about PoE / industrial switches. For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

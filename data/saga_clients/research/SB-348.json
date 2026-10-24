@@ -83,7 +83,7 @@
     "tier": 25,
     "why": "在售 Maiwe 5 口 10/100 DIN → 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；串口服务器 Saga 不做"
   },
-  "email_hook": "Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?",
+  "email_hook": "Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?",
   "products_seen": [
     {
       "brand": "Maiwe",
@@ -120,7 +120,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply Marvell-based DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?"
+      "one_question": "Zifei, alongside the Maiwe 5-port DIN-rail switch you list, we supply DIN-rail 5/8-port gigabit unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your automation customers order most?"
     },
     "facts": [
       {

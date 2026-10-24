@@ -103,7 +103,7 @@ updated: 2026-10-24
   - 站内型号 ESW8G-M-SFP4P；kw poe 99 / sfp 56 / 10g 51 / moxa 1
 - **风险/边界**：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入；无具名 KP（info@）；表内无跟进
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
-- **邮件切入句（英文）**：Alongside the Antaira and Planet industrial switches you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing, CE/RoHS) from small lots — which industrial model turns fastest for you, so we quote its equivalent first?
+- **邮件切入句（英文）**：Alongside the Antaira and Planet industrial switches you carry, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, neutral packing, CE/RoHS) from small lots — which industrial model turns fastest for you, so we quote its equivalent first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -225,7 +225,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. Alongside the Antaira and Planet industrial switches you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, neutral packing, CE/RoHS) from small lots — which industrial model turns fastest for you, so we quote its equivalent first?
+Picking up our earlier exchange about PoE / industrial switches. Alongside the Antaira and Planet industrial switches you carry, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, neutral packing, CE/RoHS) from small lots — which industrial model turns fastest for you, so we quote its equivalent first?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

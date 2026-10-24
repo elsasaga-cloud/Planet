@@ -80,7 +80,7 @@
     "tier": 30,
     "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）"
   },
-  "email_hook": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?",
+  "email_hook": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial unmanaged units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?",
   "mail_review": {
     "binding": {
       "level": "读而不回（A/S 邮箱 22 封 2024→2026，其中 3 封被打开，0 回；收件 carsten.bokholt@helmholz.de, info@helmholz.de；被打开主题「10G Enterprise SFP Switch、16 Port Ethernet Switch」）",
@@ -98,7 +98,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）、2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-14 $65（10G Media Converter）、2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）",
       "why": "PROFINET 场景非 PoE 为主 → 工业非管理 8 GE + 2 SFP STI-280GE（$50.5 @30%）/ 全电 STI-080GE（$34.0）作入门位贴 Helmholz 标；管理型需 PROFINET 一致性（Saga 待核）。已打开的主题（3/22 封有打开记录）：「10G media converter」(2024-08-14)、「Power Booster」(2024-09-09)、「10G Ethernet Web Managed Switch」(2024-11-14) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-09)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -107,7 +107,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → carsten.bokholt@helmholz.de",
       "action": "短信一问（email_hook）",
-      "one_question": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?"
+      "one_question": "Carsten, for the entry unmanaged switches below your PROFINET-managed line, we build DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial unmanaged units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -130,7 +130,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — 10G Enterprise SFP Switch",
-      "body": "Hi Carsten,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"16 Port Ethernet Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the entry unmanaged switches below your PROFINET-managed line, we build Marvell-based DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Carsten,\n\nYou opened our mail on \"10G Enterprise SFP Switch\" (and \"16 Port Ethernet Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the entry unmanaged switches below your PROFINET-managed line, we build DIN-rail 8-port gigabit (and 8 + 2 SFP) industrial unmanaged units under your label from small lots, −40~75 °C, CE/RoHS — would an entry unmanaged tier sourced externally fit your range?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

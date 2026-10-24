@@ -79,7 +79,7 @@
     "tier": 25,
     "why": "项目用工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE；SFP Saga 不供（Q-32）"
   },
-  "email_hook": "Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?",
+  "email_hook": "Marek, for the industrial switches and converters you install in your network and CCTV projects, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots — which port count do your projects use most?",
   "mail_review": {
     "binding": {
       "level": "轻度绑定→Saga 欠一张价表（2026-02-09 Marek 对 CENTEC 核心信回「Interesting item… technical par. & prices」；Alan 答「CENTEC prices still finalizing for 2026, memory prices rise」后再未给价，改发 Marvell 群发 4 封无回）",

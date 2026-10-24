@@ -81,7 +81,7 @@
     "tier": 25,
     "why": "询盘 Atop EHG6408（8 口千兆工业）→ 工业 8 GE 非管理 STI-080GE（$32.7 @25%）；管理版 8 GE + 2 SFP STI-280GE（$48.6）；BIS 由客户侧办理"
   },
-  "email_hook": "Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply Marvell-based DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?",
+  "email_hook": "Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 7 封 2025→2026，无记录打开，0 回；收件 info@ngapl.com；主题多为「8 Port Industrial PoE Switch、Mini Industrial PoE Switch」）",
@@ -108,7 +108,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply Marvell-based DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?"
+      "one_question": "Rajendra, following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?"
     },
     "facts": [
       {

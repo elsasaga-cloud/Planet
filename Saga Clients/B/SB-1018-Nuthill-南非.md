@@ -104,7 +104,7 @@ updated: 2026-10-24
   - 表内：7 台 Moxa 工业 8 电口轻管理 / from: 自建站；KP Ivanka
 - **风险/边界**：非主攻区（T5，南非）；询盘联系人为 accounts@（需找技术/采购）；Moxa 替代需现场认可；矿山环境（IP67 Saga 不做）
 - **Saga 对位结论**：P1 STI-280GE（25% 档）——询盘 7 台 Moxa 8 电口轻管理 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）/ 8 GE 非管理 STI-080GE（$32.7）；PoE 版 STI-288GPM（$82.2）
-- **邮件切入句（英文）**：Ivanka, following your enquiry for seven 8-port industrial switches (Moxa light-managed class): we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — is VLAN/web management required, or plug-and-play?
+- **邮件切入句（英文）**：Ivanka, following your enquiry for seven 8-port industrial switches (Moxa light-managed class): we supply DIN-rail 8-GE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — is VLAN/web management required, or plug-and-play?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -222,7 +222,7 @@ updated: 2026-10-24
 ```text
 Hi Ivanka,
 
-Picking up our earlier exchange about PoE / industrial switches. Ivanka, following your enquiry for seven 8-port industrial switches (Moxa light-managed class): we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — is VLAN/web management required, or plug-and-play?
+Picking up our earlier exchange about PoE / industrial switches. Ivanka, following your enquiry for seven 8-port industrial switches (Moxa light-managed class): we supply DIN-rail 8-GE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — is VLAN/web management required, or plug-and-play?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

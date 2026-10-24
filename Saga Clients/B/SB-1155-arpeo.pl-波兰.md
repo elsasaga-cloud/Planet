@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）
-- **第一问（只问一个）**：For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
+- **第一问（只问一个）**：For the ESN industrial Ethernet switch line in your catalogue, we supply DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：主业电工附件（Saga 不做），交换机为副线；16 口非 PoE 工业型号与工业电源 Saga 不供；表内「质量一般」；仅通用邮箱
 - **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch））——工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
+  - 第一问（只问一个）：For the ESN industrial Ethernet switch line in your catalogue, we supply DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@ updated: 2026-10-24
   - 表内：工业电源 5 8 16 电口；质量一般
 - **风险/边界**：主业电工附件（Saga 不做），交换机为副线；16 口非 PoE 工业型号与工业电源 Saga 不供；表内「质量一般」；仅通用邮箱
 - **Saga 对位结论**：P1 STI-080GE（20% 档）——工业 5/8/16 电口 → 工业 5 GE STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；16 电口非 PoE 工业型号 Saga 列表无（可报 16 PoE 版 STI-21616GP $170.4，注明）；工业电源 Saga 不供
-- **邮件切入句（英文）**：For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
+- **邮件切入句（英文）**：For the ESN industrial Ethernet switch line in your catalogue, we supply DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -239,7 +239,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the ESN industrial Ethernet switch line in your catalogue, we supply Marvell-based DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
+Picking up our earlier exchange about PoE / industrial switches. For the ESN industrial Ethernet switch line in your catalogue, we supply DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

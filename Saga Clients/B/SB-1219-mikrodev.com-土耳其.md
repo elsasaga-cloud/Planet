@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
+- **第一问（只问一个）**：For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目
 - **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
+  - 第一问（只问一个）：For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@ updated: 2026-10-24
   - kw automation 83 / scada 74 / industrial 66；站内 XIO110 / XIO211 / DM500
 - **风险/边界**：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目；土耳其：汇率敏感；无具名 KP（info@）；无跟进记录
 - **Saga 对位结论**：P1 STI-280GE（30% 档）——补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做
-- **邮件切入句（英文）**：For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
+- **邮件切入句（英文）**：For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -227,7 +227,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
+Picking up our earlier exchange about PoE / industrial switches. For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

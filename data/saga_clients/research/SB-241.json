@@ -86,7 +86,7 @@
     "tier": 20,
     "why": "现售 ORing 工业系列 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）作预算线；4 PoE STI-154GP（$37.7）"
   },
-  "email_hook": "Ashwin, alongside the ORing industrial switches you supply with your antennas and WAPs, we offer Marvell-based DIN-rail 4-PoE, 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a budget industrial position your customers ask for below ORing?",
+  "email_hook": "Ashwin, alongside the ORing industrial switches you supply with your antennas and WAPs, we offer DIN-rail 4-PoE, 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a budget industrial position your customers ask for below ORing?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 18 封 2025→2026，无记录打开，0 回；收件 ashwin@teslanetworks.com, bart@teslanetworks.com；主题多为「Industrial PoE Switch、24 Port PoE Managed Switch」）",
@@ -113,7 +113,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Ashwin, alongside the ORing industrial switches you supply with your antennas and WAPs, we offer Marvell-based DIN-rail 4-PoE, 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a budget industrial position your customers ask for below ORing?"
+      "one_question": "Ashwin, alongside the ORing industrial switches you supply with your antennas and WAPs, we offer DIN-rail 4-PoE, 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a budget industrial position your customers ask for below ORing?"
     },
     "facts": [
       {

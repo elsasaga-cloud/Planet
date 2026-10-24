@@ -98,7 +98,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-02 $280（10G Enterprise SFP Switch）",
       "why": "LanPro 标有源线 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；MC 位 STI-110GE（$24.3）；SFP/PoE 配件 Saga 不供（Q-32）。已打开的主题（2/23 封有打开记录）：「90W PoE Managed Switch」(2025-01-22)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-12)、Saga Feature List_7.5.x_L2+(2026-06-25)、Product Link_2026Q3(2026-07-17)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
       "repeat": [],
       "gaps": []
@@ -107,7 +107,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → asktolanpro@gmail.com",
       "action": "短信一问（email_hook）",
-      "one_question": "For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?"
+      "one_question": "For the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -146,7 +146,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hi Trinidad,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Trinidad,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the active products in the LanPro range (PoE switches and media converters) alongside your cabling systems, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP, gigabit MC) in your packaging from small lots, FCC/CE/RoHS — which active SKU do your integrator customers order most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

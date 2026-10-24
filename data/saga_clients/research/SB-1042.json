@@ -88,7 +88,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-27 $300（48 Port PoE Managed Switch）、2025-08-22 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）",
+      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-27 $300（48 Port PoE Managed Switch）、2025-08-22 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）",
       "why": "Bypass 需求 → Saga 列表无 bypass 款，以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1 @30%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$50.5）、工业千兆 MC STI-110GE（$24.3）贴标。已打开的主题（2/38 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-10)、「Marvell Industrial Alert System」(2025-12-30) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -97,7 +97,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → insuner@hanmail.net",
       "action": "短信一问（email_hook）",
-      "one_question": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?"
+      "one_question": "Mr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -120,7 +120,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Insuner,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Insuner,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"Marvell Industrial Alert System\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kang, following your interest in bypass Ethernet switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass plus DIN-rail 8-GE + 2 SFP managed units and gigabit MCs in your packaging from small lots, CE/RoHS; KC by your side — which bypass port configuration does your application need?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

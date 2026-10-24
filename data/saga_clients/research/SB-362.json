@@ -82,7 +82,7 @@
     "tier": 20,
     "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）"
   },
-  "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?",
+  "email_hook": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 23 封 2024→2026，1 次记录打开，0 回；收件 e.slavev@maxtel.bg, info@maxtel.bg；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
@@ -109,7 +109,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?"
+      "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?"
     },
     "facts": [
       {

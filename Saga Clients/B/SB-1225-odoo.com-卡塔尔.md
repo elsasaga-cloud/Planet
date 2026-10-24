@@ -95,7 +95,7 @@ updated: 2026-10-24
   - 快照：Open Source ERP and CRM | Odoo（与实体不符）
 - **风险/边界**：快照域名误判（Odoo 官网）——tamyeezsecurity.com 待重抓；非主攻区（T5，卡塔尔）；现供 Utepo 价格基准低；4 次无回复，仅 info@
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）
-- **邮件切入句（英文）**：For the Utepo-type PoE switch positions in your security installations, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?
+- **邮件切入句（英文）**：For the Utepo-type PoE switch positions in your security installations, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -250,7 +250,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the Utepo-type PoE switch positions in your security installations, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?
+Picking up our earlier exchange about PoE / industrial switches. For the Utepo-type PoE switch positions in your security installations, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

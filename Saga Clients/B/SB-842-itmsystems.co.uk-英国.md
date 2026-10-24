@@ -144,7 +144,7 @@ updated: 2026-10-24
   - 表内：Utepo 的工业 FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的
 - **风险/边界**：有回复/深度沟通中——沟通内容在 Gmail 待核，续谈勿重复首触；现供 Utepo 价格基准低
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——工业 FS（现 Utepo）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 STC-28DGGPM（$84.1）
-- **邮件切入句（英文）**：Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed/unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?
+- **邮件切入句（英文）**：Steve, following our ongoing exchange on industrial PoE: for the Utepo positions in your surveillance projects we can supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — shall I quote one evaluation unit of the 8-PoE managed model?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 

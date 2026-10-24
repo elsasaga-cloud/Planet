@@ -69,7 +69,7 @@
     "tier": 25,
     "why": "工业 PoE 栏目（现 Korenix）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-288GP（$59.8）；IEC 61850-3 Saga 无（注明）"
   },
-  "email_hook": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?",
+  "email_hook": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 hakan.ozturk@basarimuhendislik.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
@@ -96,7 +96,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?"
+      "one_question": "Hakan, alongside the Korenix industrial PoE switches you list for energy and IIoT cabinets, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, redundant input, CE/RoHS, neutral packing) from single units, EXW USD — which configuration do your SCADA and RTU sites use most?"
     },
     "facts": [
       {

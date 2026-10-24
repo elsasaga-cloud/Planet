@@ -79,7 +79,7 @@
     "tier": 30,
     "why": "现从国内供应商采购工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AIXONTEC 标作替代；非管理 STI-288GP（$62.2）"
   },
-  "email_hook": "Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?",
+  "email_hook": "Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 23 封 2024→2026，无记录打开，0 回；收件 ashkan.ghaznavi@aixontec.com, info@aixontec.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
@@ -106,7 +106,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?"
+      "one_question": "Ashkan, for the industrial switches you sell under the AIXONTEC label next to your cabling and RFID asset-management range, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) from small lots in your packaging, EXW USD — which model do your industrial customers reorder most?"
     },
     "facts": [
       {

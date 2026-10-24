@@ -98,7 +98,7 @@
     "saga_now": {
       "p1": "STI-111GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-12 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-12 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
       "why": "自有 Advance 标 PoE MC → 工业 PoE MC STI-111GP（$30.1 @30%）/ 千兆 MC STI-110GE（$24.3）；PoE 交换机位 STC-28DGGPM；SFP 为其主品类，Saga 不供（Q-32）。已打开的主题（2/21 封有打开记录）：「L3 Managed Switch」(2025-01-20)、「10G Enterprise SFP Switch」(2025-10-09) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-06-26)、Product Link_2026Q3(2026-07-02)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
       "repeat": [],
       "gaps": []
@@ -107,7 +107,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → info@advance.technology",
       "action": "短信一问（email_hook）",
-      "one_question": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?"
+      "one_question": "For the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -130,7 +130,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Advance-branded PoE media converters and PoE switches, we can be a second ODM source on a Marvell/Realtek platform (gigabit and PoE MC, 8-PoE + 2 SFP L2+) from small lots in your packaging, CE/RoHS/UKCA — which MC variant do you reorder most?\n\nReference price: DIN-rail 1-PoE + 1-SFP industrial PoE media converter (STI-111GP) $30.1 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

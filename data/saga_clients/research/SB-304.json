@@ -80,7 +80,7 @@
     "tier": 30,
     "why": "自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP"
   },
-  "email_hook": "Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?",
+  "email_hook": "Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 31 封 2024→2026，无记录打开，0 回；收件 info@avcomm.us, kang.yu@avcomm.us；主题多为「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
@@ -107,7 +107,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?"
+      "one_question": "Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?"
     },
     "facts": [
       {

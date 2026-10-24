@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。（调研 2026-10-21；表内兴趣：工业FS  自己的牌子  质量还行 主要是工业电缆；自己的牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-22 推送 27 次无任何回复（聋名单）
 - **历史互动**：推送 27 次（2024-05-08 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → dimitrios.koutrouvis@luetze.de 短信一问（email_hook）
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。
 - **对方真实需求（有据）**：自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观
 - **断点 / 为什么停在这里**：体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → dimitrios.koutrouvis@luetze.de　短信一问（email_hook）
-  - 第一问（只问一个）：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
+  - 第一问（只问一个）：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@ updated: 2026-10-24
   - 快照：luetze.com http_error（目录页未抓到）
 - **风险/边界**：体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@；用户标「比较重要」「着重跟」→ 优先换渠道（LinkedIn 采购/产品经理）
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观
-- **邮件切入句（英文）**：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
+- **邮件切入句（英文）**：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
 
@@ -283,7 +283,9 @@ Hi Dimitrios,
 
 You opened our mail on "Mini Industrial PoE Switch" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 
-For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed/unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
+For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
+
+Reference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 
 If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 

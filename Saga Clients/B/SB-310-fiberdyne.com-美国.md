@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：美国 Fiberdyne（官网快照 HTTP 错误；表内「光路的 10G MC、SFP、商业 FS，少部分工业 FS 自己的 logo」；KP Jeremy Nulty（International Sales Director）、Ken Misterka（VP Purchasing）、Peter Polus）；群发 18 次无回复。（调研 2026-10-21；表内兴趣：光路的10GMC SFP 商业FS 少部分工业FS 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）。已打开的主题（2/29 封有打开记录）：「10G Media Converter」(2024-09-26)、「Industrial PoE Switch」(2024-12-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-26 $220（48 port managed switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-26 $65（10G Media Converter）、2025-10-07 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）。已打开的主题（2/29 封有打开记录）：「10G Media Converter」(2024-09-26)、「Industrial PoE Switch」(2024-12-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-26 $220（48 port managed switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-26 $65（10G Media Converter）、2025-10-07 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → jnulty@fiberdyne.com 短信一问（email_hook）
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：美国 Fiberdyne（官网快照 HTTP 错误；表内「光路的 10G MC、SFP、商业 FS，少部分工业 FS 自己的 logo」；KP Jeremy Nulty（International Sales Director）、Ken Misterka（VP Purchasing）、Peter Polus）；群发 18 次无回复。
 - **对方真实需求（有据）**：自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：官网快照 HTTP 错误（站点待核）；核心需求 10G MC/SFP Saga 不供
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-26 $220（48 port managed switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-26 $65（10G Media Converter）、2025-10-07 $280（10G Enterprise SFP Switch））——自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）。已打开的主题（2/29 封有打开记录）：「10G Media Converter」(2024-09-26)、「Industrial PoE Switch」(2024-12-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-26 $220（48 port managed switch）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-26 $65（10G Media Converter）、2025-10-07 $280（10G Enterprise SFP Switch））——自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）。已打开的主题（2/29 封有打开记录）：「10G Media Converter」(2024-09-26)、「Industrial PoE Switch」(2024-12-26) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → jnulty@fiberdyne.com　短信一问（email_hook）
-  - 第一问（只问一个）：Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?
+  - 第一问（只问一个）：Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -276,6 +276,8 @@ Hi Ken,
 You opened our mail on "Marvell Industrial Alert System" (and "8 Port Industrial PoE Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 
 For the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?
+
+Reference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.
 
 If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 

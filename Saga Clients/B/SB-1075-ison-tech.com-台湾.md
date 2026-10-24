@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+0 台湾名单（台系品牌商，按 INH 规则最高 B）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-04-29 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-10 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：For the IS-series industrial switches, we can act as a second source for Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
+- **第一问（只问一个）**：For the IS-series industrial switches, we can act as a second source for DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-10 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-23 $280（10G Enterprise SFP Switch））——自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE。已打开的主题（1/22 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-17) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：For the IS-series industrial switches, we can act as a second source for Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
+  - 第一问（只问一个）：For the IS-series industrial switches, we can act as a second source for DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@ updated: 2026-10-24
   - 官网：Industrial Solution Over Network，自动化应用系统规划
 - **风险/边界**：台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺；群发 19 次无回复；非主攻区（T5）
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE
-- **邮件切入句（英文）**：For the IS-series industrial switches, we can act as a second source for Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
+- **邮件切入句（英文）**：For the IS-series industrial switches, we can act as a second source for DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -275,7 +275,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the IS-series industrial switches, we can act as a second source for Marvell-based DIN-rail 8-port managed PoE and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
+Picking up our earlier exchange about PoE / industrial switches. For the IS-series industrial switches, we can act as a second source for DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit models built to your spec from small lots — is there a gap model (PoE budget or port count) you currently cannot source?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

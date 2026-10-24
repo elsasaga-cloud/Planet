@@ -34,7 +34,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
+- **第一问（只问一个）**：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **断点 / 为什么停在这里**：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch））——自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
+  - 第一问（只问一个）：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@ updated: 2026-10-24
   - KP：Vidur Batra / VP System Engineering；Abhijit Potdar / Corporate VP（表内）
 - **风险/边界**：云管理生态：Saga 不做云管理，仅能供硬件，需其自有管理层适配；印度 BIS / 整机关税 → SKD 可谈；现用中国 ODM 价格基准低；非主攻区（T5）
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件
-- **邮件切入句（英文）**：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
+- **邮件切入句（英文）**：Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -268,7 +268,7 @@ updated: 2026-10-24
 ```text
 Hi Vidur,
 
-Picking up our earlier exchange about PoE / industrial switches. Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
+Picking up our earlier exchange about PoE / industrial switches. Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

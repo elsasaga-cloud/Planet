@@ -84,7 +84,7 @@
     "tier": 20,
     "why": "在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目"
   },
-  "email_hook": "Arthur, next to the Maiwe industrial switches in your automation range, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?",
+  "email_hook": "Arthur, next to the Maiwe industrial switches in your automation range, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 12 封 2025→2026，无记录打开，0 回；收件 barasch@ipc2u.de, sales@ipc2u.com；主题多为「10G Enterprise SFP Switch、24 Port PoE Managed Switch」）",
@@ -111,7 +111,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Arthur, next to the Maiwe industrial switches in your automation range, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?"
+      "one_question": "Arthur, next to the Maiwe industrial switches in your automation range, we supply DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots — which Maiwe model do your IPC projects use most, so we quote its equivalent?"
     },
     "facts": [
       {

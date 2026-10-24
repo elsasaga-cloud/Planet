@@ -62,7 +62,7 @@
     "tier": 30,
     "why": "自有 logo 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）贴 CET 标"
   },
-  "email_hook": "For the industrial switches you sell under the CET label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) in your packaging from small lots — which configuration do your Singapore projects use most?",
+  "email_hook": "For the industrial switches you sell under the CET label, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) in your packaging from small lots — which configuration do your Singapore projects use most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 contact@cetsingapore.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
@@ -89,7 +89,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "For the industrial switches you sell under the CET label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units (−40~75 °C, CE/RoHS) in your packaging from small lots — which configuration do your Singapore projects use most?"
+      "one_question": "For the industrial switches you sell under the CET label, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units (−40~75 °C, CE/RoHS) in your packaging from small lots — which configuration do your Singapore projects use most?"
     },
     "facts": [
       {

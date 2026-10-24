@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STI-288DGGPM-2BT",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-07 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-07 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
       "why": "Silvernet 标 bt 工业 FS（现光路 73208MP-BT）→ 8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$171.0 @30%）、常规 STI-288GPM（$85.5）贴标作二供；SFP Saga 不供。已打开的主题（2/25 封有打开记录）：「16 Port PoE Managed Switch」(2025-02-28)、「Optional Marvell Chipset Solutions」(2025-11-27) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-12)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -106,7 +106,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → cdiprima@silvernet.com",
       "action": "短信一问（email_hook）",
-      "one_question": "For the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?"
+      "one_question": "For the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit? Reference: STI-288DGGPM-2BT at $154 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -129,7 +129,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hello,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nYou opened our mail on \"Marvell Industrial Alert System\" (and \"10G Enterprise SFP Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?\n\nReference price: DIN-rail 8-PoE (2 × bt 90 W) + 2 × 2.5G SFP L2+ managed industrial switch (STI-288DGGPM-2BT) $154 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

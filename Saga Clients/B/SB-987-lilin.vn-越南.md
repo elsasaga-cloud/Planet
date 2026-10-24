@@ -99,7 +99,7 @@ updated: 2026-10-24
   - 快照：内容为空
 - **风险/边界**：非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空
 - **Saga 对位结论**：P1 STI-288GP（30% 档）——自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标
-- **邮件切入句（英文）**：For the industrial PoE switches you sell under your own logo alongside LILIN cameras, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ units in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most?
+- **邮件切入句（英文）**：For the industrial PoE switches you sell under your own logo alongside LILIN cameras, we can supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ units in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -207,7 +207,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For the industrial PoE switches you sell under your own logo alongside LILIN cameras, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ units in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most?
+Picking up our earlier exchange about PoE / industrial switches. For the industrial PoE switches you sell under your own logo alongside LILIN cameras, we can supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ units in your packaging from small lots, CE/RoHS — which PoE SKU do your dealers reorder most?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

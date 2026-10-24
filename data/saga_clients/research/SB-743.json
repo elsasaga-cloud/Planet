@@ -78,7 +78,7 @@
     "tier": 25,
     "why": "询盘明确为导轨式 PoE 管理/非管理 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）+ 非管理 STI-288GP（$59.8）配对报价，配套其总线/门禁面板"
   },
-  "email_hook": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply Marvell-based 8-PoE + 2 SFP units in both managed and unmanaged versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?",
+  "email_hook": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply 8-PoE + 2 SFP units in both managed and unmanaged (managed on Marvell L2+) versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 7 封 2025，无记录打开，0 回；收件 mamun@mkseoman.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）",
@@ -105,7 +105,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply Marvell-based 8-PoE + 2 SFP units in both managed and unmanaged versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?"
+      "one_question": "Mr. Rashid, following your enquiry on DIN-rail PoE switches: we supply 8-PoE + 2 SFP units in both managed and unmanaged (managed on Marvell L2+) versions (−40~75 °C, 12–58 VDC, CE/RoHS, neutral or TIS label) from small lots — roughly how many units per project do your hotel installations need?"
     },
     "facts": [
       {

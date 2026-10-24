@@ -96,7 +96,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
       "why": "Schrack 标网络产品（现台湾 ODM）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（3/12 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08)、「Booster PoE Switch」(2025-11-13)、「Managed Optical Bypass Switch」(2026-02-09) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -105,7 +105,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → j.drbohlav@schrack.cz",
       "action": "短信一问（email_hook）",
-      "one_question": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?"
+      "one_question": "Jakub, for the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -128,7 +128,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Jakub,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"8 Port Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hi Jakub,\n\nYou opened our mail on \"Managed Optical Bypass Switch\" (and \"8 Port Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Schrack-branded network switches sourced from Taiwanese ODMs, we can offer a Marvell-based alternative (8-PoE + 2 SFP L2+, 24-PoE 280 W, DIN-rail 8-GE + 2 SFP) in your packaging from small lots, CE/RoHS — who in the group evaluates new network-hardware suppliers?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

@@ -79,7 +79,7 @@
     "tier": 20,
     "why": "代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」"
   },
-  "email_hook": "For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?",
+  "email_hook": "For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?",
   "products_seen": [
     {
       "brand": "Hirschmann",
@@ -125,7 +125,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "For the automation sites where a Hirschmann-class switch is over-specified, we supply Marvell-based DIN-rail 8-port managed and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?"
+      "one_question": "For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?"
     },
     "facts": [
       {

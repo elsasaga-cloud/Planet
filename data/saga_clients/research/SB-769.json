@@ -88,7 +88,7 @@
     "tier": 20,
     "why": "Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报"
   },
-  "email_hook": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?",
+  "email_hook": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?",
   "products_seen": [
     {
       "brand": "Moxa",
@@ -133,7 +133,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply Marvell-based DIN-rail 5/8-port gigabit units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?"
+      "one_question": "Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?"
     },
     "facts": [
       {

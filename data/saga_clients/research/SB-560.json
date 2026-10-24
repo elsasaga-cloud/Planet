@@ -79,7 +79,7 @@
     "tier": 25,
     "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
   },
-  "email_hook": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?",
+  "email_hook": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 ussales@sequrinet.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
@@ -106,7 +106,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?"
+      "one_question": "Eva, for the industrial PoE positions you currently fill with Utepo in your VMS deployments, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, FCC/CE/RoHS, EXW USD — which configuration do your NX and Genetec projects use most?"
     },
     "facts": [
       {

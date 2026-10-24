@@ -79,7 +79,7 @@
     "tier": 25,
     "why": "工业以太网 → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、5 GE STI-050GE（$17.8）、8 PoE + 2 SFP STI-288GPM（$82.2）"
   },
-  "email_hook": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply Marvell-based DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?",
+  "email_hook": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?",
   "mail_review": {
     "binding": {
       "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@mfd.com.tr；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
@@ -106,7 +106,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply Marvell-based DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?"
+      "one_question": "Mustafa, for the industrial Ethernet layer in your factory-digitalization and SCADA projects, we supply DIN-rail 5-GE unmanaged and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which switch position do your SmartCNC installations use most?"
     },
     "facts": [
       {

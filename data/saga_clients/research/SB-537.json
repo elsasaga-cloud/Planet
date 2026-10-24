@@ -77,7 +77,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
       "why": "自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -86,7 +86,7 @@
       "when": "2026-11",
       "channel": "A 邮箱 → info@htvision.ru（2024-12-27 曾退「Delivery incomplete」（临时），之后 9 封未见退信；发前看上一封有没有退回）",
       "action": "短信一问（email_hook）",
-      "one_question": "For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?"
+      "one_question": "For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -109,7 +109,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — 48 Port PoE Managed Switch",
-      "body": "Hello,\n\nYou opened our mail on \"48 Port PoE Managed Switch\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nYou opened our mail on \"48 Port PoE Managed Switch\" (and \"Mini Industrial PoE Switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

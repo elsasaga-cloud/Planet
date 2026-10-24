@@ -64,7 +64,7 @@
     "tier": 25,
     "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）"
   },
-  "email_hook": "For the Utepo-type PoE switch positions in your security installations, we supply Marvell-based DIN-rail 8-PoE + 2 SFP (managed/unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?",
+  "email_hook": "For the Utepo-type PoE switch positions in your security installations, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?",
   "site_mismatch": true,
   "mail_review": {
     "binding": {

@@ -65,7 +65,7 @@
     "tier": 25,
     "why": "Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）"
   },
-  "email_hook": "Andrius, for the Utepo-type industrial PoE positions in your projects, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?",
+  "email_hook": "Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 andrius@bkgrupe.lt；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
@@ -92,7 +92,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Andrius, for the Utepo-type industrial PoE positions in your projects, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed/unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?"
+      "one_question": "Andrius, for the Utepo-type industrial PoE positions in your projects, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which configuration does your next project need?"
     },
     "facts": [
       {

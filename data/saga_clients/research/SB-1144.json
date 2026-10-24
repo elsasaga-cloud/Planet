@@ -88,7 +88,7 @@
     "saga_now": {
       "p1": "STI-080GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter）",
+      "price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter）",
       "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做。已打开的主题（2/7 封有打开记录）：「Industrial PoE Switch」(2024-06-20)、「90W PoE Managed Switch」(2024-11-27) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -97,7 +97,7 @@
       "when": "2026-11",
       "channel": "S 邮箱 → sales@accuratetechnologies.com",
       "action": "短信一问（email_hook）",
-      "one_question": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?"
+      "one_question": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {
@@ -120,7 +120,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"48 port managed switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nYou opened our mail on \"Industrial PoE Switch\" (and \"48 port managed switch\") but had no reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

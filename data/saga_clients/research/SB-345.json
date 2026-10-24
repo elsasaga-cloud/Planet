@@ -60,7 +60,7 @@
     "tier": 25,
     "why": "在用 MaiWe MIEN2205/2208（5/8 口 L2）→ 工业 5 GE STI-050GE（$17.8 @25%）/ 8 GE STI-080GE（$32.7）；管理位 STI-288GPM；工业路由 Saga 不做"
   },
-  "email_hook": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply Marvell-based DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?",
+  "email_hook": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?",
   "products_seen": [
     {
       "brand": "MaiWe",
@@ -105,7 +105,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply Marvell-based DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?"
+      "one_question": "Alongside the MaiWe MIEN2205 / MIEN2208 switches in your energy-monitoring cabinets, we supply DIN-rail 5/8-GE unmanaged and 8-PoE + 2 SFP managed units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your sites use most?"
     },
     "facts": [
       {

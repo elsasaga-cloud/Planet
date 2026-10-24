@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：阿联酋 Alston Systems Inc.（铜缆/光纤布线系统、机柜、电源方案品牌；站内 PoE MC、工业 PDU、Cat 7/7A 系统；表内「FS SFP 模块 MC」；KP Kennedy / Ross）；群发 16 次无回复。（调研 2026-10-21；表内兴趣：FS SFP模块 MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-06-16 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供。已打开的主题（3/19 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-26)、「Commercial PoE Switch」(2025-04-25)、「Managed Optical Bypass Switch」(2025-05-27) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $300（48 Port PoE Managed Switch）、2025-10-22 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供。已打开的主题（3/19 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-26)、「Commercial PoE Switch」(2025-04-25)、「Managed Optical Bypass Switch」(2025-05-27) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $300（48 Port PoE Managed Switch）、2025-10-22 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → kennedy@alston-systems.com 短信一问（email_hook）
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：阿联酋 Alston Systems Inc.（铜缆/光纤布线系统、机柜、电源方案品牌；站内 PoE MC、工业 PDU、Cat 7/7A 系统；表内「FS SFP 模块 MC」；KP Kennedy / Ross）；群发 16 次无回复。
 - **对方真实需求（有据）**：自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供
 - **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；主业布线（Saga 不做），有源为配套
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $300（48 Port PoE Managed Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供。已打开的主题（3/19 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-26)、「Commercial PoE Switch」(2025-04-25)、「Managed Optical Bypass Switch」(2025-05-27) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $300（48 Port PoE Managed Switch）、2025-10-22 $280（10G Enterprise SFP Switch））——自有 Alston 标 PoE MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；8 PoE + 2 SFP 位 STC-28DGGPM（$87.4）；SFP Saga 不供。已打开的主题（3/19 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-26)、「Commercial PoE Switch」(2025-04-25)、「Managed Optical Bypass Switch」(2025-05-27) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → kennedy@alston-systems.com　短信一问（email_hook）
-  - 第一问（只问一个）：Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?
+  - 第一问（只问一个）：Kennedy, for the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -286,6 +286,8 @@ Hi Kennedy,
 You opened our mail on "Industrial PoE Switch" (and "10G Enterprise SFP Switch") but had no reason to answer — fair enough. No brochure this time, just one question:
 
 For the PoE media converters and switches carried under the Alston label with your cabling systems, we can supply gigabit/PoE MCs and 8-PoE + 2 SFP L2+ switches in your packaging from small lots, CE/RoHS — which active SKU do your Gulf distributors order most?
+
+Reference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.
 
 If it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.
 

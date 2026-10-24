@@ -86,7 +86,7 @@
     "tier": 20,
     "why": "面向集成商的工业网络品类 → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）、管理型 STI-288GPM 作补充线；站内交换机词仅 14，预期低"
   },
-  "email_hook": "Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?",
+  "email_hook": "Daniel, for the Networking Industrial line you supply to integrators, we offer DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?",
   "mail_review": {
     "binding": {
       "level": "未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 info@matrix.es；主题多为「24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update」）",
@@ -113,7 +113,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Daniel, for the Networking Industrial line you supply to integrators, we offer Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?"
+      "one_question": "Daniel, for the Networking Industrial line you supply to integrators, we offer DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE managed switches (−40~75 °C, CE/RoHS, neutral packing) from small lots — is an industrial switch SKU something your integrator customers ask for?"
     },
     "facts": [
       {

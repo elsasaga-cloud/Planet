@@ -1,118 +1,118 @@
 {
- "code": "SB-1219",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（mikrodev.com，快照 2026-10-21）",
- "summary": "土耳其 Mikrodev（2006 年伊斯坦布尔成立：工业控制与通信产品制造商——PLC/RTU、SCADA（词频 74）、XIO 远程 I/O、MQTT/OPC UA 网关；表内「工业以太网 / 串口」）；表内无跟进记录。",
- "type": "工业控制与通信产品制造商（土耳其，可补工业交换机品类）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Mikrodev；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Mikrodev has been founded in 2006 in İstanbul. After completing turnkey product or system development projects, Mikrodev has started comme...",
-   "url": "https://www.mikrodev.com/",
-   "date": "2026-10-21"
+  "code": "SB-1219",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（mikrodev.com，快照 2026-10-21）",
+  "summary": "土耳其 Mikrodev（2006 年伊斯坦布尔成立：工业控制与通信产品制造商——PLC/RTU、SCADA（词频 74）、XIO 远程 I/O、MQTT/OPC UA 网关；表内「工业以太网 / 串口」）；表内无跟进记录。",
+  "type": "工业控制与通信产品制造商（土耳其，可补工业交换机品类）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Mikrodev；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+      "quote": "Mikrodev has been founded in 2006 in İstanbul. After completing turnkey product or system development projects, Mikrodev has started comme...",
+      "url": "https://www.mikrodev.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业以太网 串口",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Mikrodev 公司简介",
+      "quote": "Mikrodev has been founded in 2006 in İstanbul. After completing turnkey product or system development projects … We are manufacturing industrial control & communication products since 2006.",
+      "url": "https://www.mikrodev.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业以太网 串口",
+      "quote": "工业以太网 串口",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业以太网 串口",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 mikrodev.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Mikrodev 公司简介",
-   "quote": "Mikrodev has been founded in 2006 in İstanbul. After completing turnkey product or system development projects … We are manufacturing industrial control & communication products since 2006.",
-   "url": "https://www.mikrodev.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "PLC / RTU / 远程 I/O / 工业网关制造（自有品牌 Mikrodev）"
+  ],
+  "channels": {
+    "role": "工业控制与通信产品制造商（土耳其，可补工业交换机品类）",
+    "region": "土耳其",
+    "contact": "info@mikrodev.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "工业以太网 串口",
-   "quote": "工业以太网 串口",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：We are manufacturing industrial control & communication products since 2006；Mikrodev has been founded in 2006 in İstanbul",
+    "kw automation 83 / scada 74 / industrial 66；站内 XIO110 / XIO211 / DM500"
+  ],
+  "risks": [
+    "守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目",
+    "土耳其：汇率敏感；无具名 KP（info@）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 30,
+    "why": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做"
+  },
+  "email_hook": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业以太网 串口」）",
+      "type": "工业控制与通信产品制造商（土耳其，可补工业交换机品类）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「工业以太网 串口」；研究档 risks：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目"
+    },
+    "situation": "土耳其 Mikrodev（2006 年伊斯坦布尔成立：工业控制与通信产品制造商——PLC/RTU、SCADA（词频 74）、XIO 远程 I/O、MQTT/OPC UA 网关；表内「工业以太网 / 串口」）；表内无跟进记录。",
+    "need": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做",
+    "breakpoint": "守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?"
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业以太网 串口",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 mikrodev.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "PLC / RTU / 远程 I/O / 工业网关制造（自有品牌 Mikrodev）"
- ],
- "channels": {
-  "role": "工业控制与通信产品制造商（土耳其，可补工业交换机品类）",
-  "region": "土耳其",
-  "contact": "info@mikrodev.com"
- },
- "signals": [
-  "官网：We are manufacturing industrial control & communication products since 2006；Mikrodev has been founded in 2006 in İstanbul",
-  "kw automation 83 / scada 74 / industrial 66；站内 XIO110 / XIO211 / DM500"
- ],
- "risks": [
-  "守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目",
-  "土耳其：汇率敏感；无具名 KP（info@）；无跟进记录"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做"
- },
- "email_hook": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业以太网 串口」）",
-   "type": "工业控制与通信产品制造商（土耳其，可补工业交换机品类）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「工业以太网 串口」；研究档 risks：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目"
-  },
-  "situation": "土耳其 Mikrodev（2006 年伊斯坦布尔成立：工业控制与通信产品制造商——PLC/RTU、SCADA（词频 74）、XIO 远程 I/O、MQTT/OPC UA 网关；表内「工业以太网 / 串口」）；表内无跟进记录。",
-  "need": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做",
-  "breakpoint": "守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply Marvell-based DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业以太网 串口",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

@@ -89,7 +89,7 @@
     "tier": 20,
     "why": "在售 NNET 工业非管理 PoE → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；MC 位 STI-110GE；SFP 不供（Q-32）"
   },
-  "email_hook": "Lukáš, alongside the NNET industrial PoE switches you list, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which NNET port count do your integrators order most?",
+  "email_hook": "Lukáš, alongside the NNET industrial PoE switches you list, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which NNET port count do your integrators order most?",
   "products_seen": [
     {
       "brand": "NNET",
@@ -126,7 +126,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Lukáš, alongside the NNET industrial PoE switches you list, we supply Marvell-based DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which NNET port count do your integrators order most?"
+      "one_question": "Lukáš, alongside the NNET industrial PoE switches you list, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which NNET port count do your integrators order most?"
     },
     "facts": [
       {

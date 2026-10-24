@@ -80,7 +80,7 @@
     "tier": 30,
     "why": "自有 logo 工业 PoE（SWMP-82GC = 8 PoE + 2 SFP）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP 作二供；光开关版 Saga 无；MC 位 STI-110GE"
   },
-  "email_hook": "For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed/unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?",
+  "email_hook": "For the SWMP-82GC-class industrial PoE switches under the SYMANITRON label, we can supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) or unmanaged units and gigabit media converters from small lots in your housing — which model do you ship most, so we quote its equivalent first?",
   "products_seen": [
     {
       "brand": "SYMANITRON（自有）",

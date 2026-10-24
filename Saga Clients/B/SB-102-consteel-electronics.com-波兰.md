@@ -109,7 +109,7 @@ updated: 2026-10-24
   - 表内：3 旺的工业 FS 比较多；KP Bartosz Marciszewski / CEO
 - **风险/边界**：现货源 3onedata（深圳）价格基准低；站内交换机词少（switch 8）：品类占比小；1 次跟进无回复
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——在售 3onedata 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换；MC 位 STI-110GE
-- **邮件切入句（英文）**：Bartosz, alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
+- **邮件切入句（英文）**：Bartosz, alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -258,7 +258,7 @@ updated: 2026-10-24
 ```text
 Hi Bartosz,
 
-Picking up our earlier exchange about PoE / industrial switches. Bartosz, alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
+Picking up our earlier exchange about PoE / industrial switches. Bartosz, alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 
 One question: is the port mix fixed by the design, or can we propose an equivalent layout?
 

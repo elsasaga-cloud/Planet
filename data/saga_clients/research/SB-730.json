@@ -92,7 +92,7 @@
     "tier": 30,
     "why": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件"
   },
-  "email_hook": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?",
+  "email_hook": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?",
   "products_seen": [
     {
       "brand": "Quantum Networks（自有）",
@@ -137,7 +137,7 @@
       "when": "群发节奏",
       "channel": "A 邮箱",
       "action": "观察打开",
-      "one_question": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source on a Marvell platform (DIN-rail, −40~75 °C, L2 managed or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?"
+      "one_question": "Vidur, for the QN-IS industrial PoE 4- and 8-port models, we can be a second ODM source (DIN-rail, −40~75 °C, L2 managed on Marvell or unmanaged, CE/RoHS/FCC reports for BIS) from small lots — would you consider dual-sourcing the 8-port first?"
     },
     "facts": [
       {
