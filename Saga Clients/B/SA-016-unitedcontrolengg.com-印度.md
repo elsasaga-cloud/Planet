@@ -48,6 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：5/8 口非管理工业 FS（百兆/千兆）。
 - **断点 / 为什么停在这里**：价格段 + 无跟进。
 - **Saga 现在该推什么**：P1 **STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯**（20% 档，按主表 20% 分销档）——样机在手｜毛利复盘：一单 39.6%（STI-050FE/080FE，PayPal）——高毛利一单客
+  - 复购/在买项：2024-04-22 唯一一单：Industrial Switch $120 样品级（Simon 利润 RMB 482；PI 复盘 #5，Simon 标 gg）
   - 做不了 / 要先核的：样机测试反馈
 - **下一步（具体）**：2027-Q1　WhatsApp（Simon）　一句话
   - 第一问（只问一个）：Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?

@@ -49,6 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：2023：百兆 PoE 样机；潜在：企业/政府项目汇聚核心。
 - **断点 / 为什么停在这里**：价格（新桥）。
 - **Saga 现在该推什么**：P1 **STH 系列 CENTEC 汇聚（10G/25G）**（25% 档，按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch））——J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常
+  - 复购/在买项：2023-07-24 唯一一单：STC-028GFP + STC-128GFP $100（Simon 利润 RMB 177；PI 复盘 #1，Simon 标 gg）
 - **下一步（具体）**：2027-Q1　A 邮箱 → george@dc.ge　一封只讲 CENTEC 汇聚替代 Cisco 的信
   - 第一问（只问一个）：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
 

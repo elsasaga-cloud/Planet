@@ -50,6 +50,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：24 口被动 PoE 24V（项目配套）。
 - **断点 / 为什么停在这里**：一次性项目配套；不是 Saga 的复利客户。
 - **Saga 现在该推什么**：P1 **无主动动作**（25% 档，历史报价（邮件原话，老汇率）：2024-06-17 90usd）——B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常
+  - 复购/在买项：2024-06-27 / 07-17 两单 Commercial Switch 合计 $1,146（Simon 利润 RMB 3,179；间隔 20 天）；2024-07 之后无 PI（PI 复盘 #9，Simon 标 gg）
 - **下一步（具体）**：跟 PI 节奏；不主动　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）
   - 第一问（只问一个）：Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?
 

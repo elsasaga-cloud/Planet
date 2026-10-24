@@ -50,6 +50,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：项目型：ICT 工程配套（汇聚 + 工业 PoE + 光模块）。
 - **断点 / 为什么停在这里**：项目型客户没有项目；群发对私人 Gmail 无效。
 - **Saga 现在该推什么**：P1 **不推；若其 ICT 项目再来，按 2024 清单复购**（25% 档，按主表）——已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购
+  - 复购/在买项：2024-01-17 唯一一单：265 台 $9,350（STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC；Simon 利润 RMB 23,118；PI 复盘 #3——金额最大的单次 C 档客户，Simon 标 gg）
   - 做不了 / 要先核的：2024 设备运行反馈（从未问）
 - **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
   - 第一问（只问一个）：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?

@@ -48,6 +48,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：工业 DIN 非管理小口数（自动化分销）。
 - **断点 / 为什么停在这里**：样品后无反馈；俄罗斯付款/物流摩擦。
 - **Saga 现在该推什么**：P1 **STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型**（20% 档，按现价表）——样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价
+  - 复购/在买项：2024-05-23 唯一一单：STI-050GE + STI-080GE $1,140（Simon 利润 RMB 514；PI 复盘 #8，Simon 标 gg）
   - 做不了 / 要先核的：样品测试反馈从未记录
 - **下一步（具体）**：2027-Q1　Simon 原通道　一句话问样机下落
   - 第一问（只问一个）：The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?

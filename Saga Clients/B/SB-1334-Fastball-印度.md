@@ -49,6 +49,7 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：授权分销身份（而非产品）。
 - **断点 / 为什么停在这里**：授权诉求 vs Saga 不做区域授权。
 - **Saga 现在该推什么**：P1 **无**（20% 档，STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—）———｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常
+  - 复购/在买项：2023-10-09 唯一一单：$260（Simon 利润 RMB 553；PI 复盘 #2，Simon 标 gg）；IndiaMART 仍挂 FBC-204GP（= STC-204GP）
 - **下一步（具体）**：2027-Q1（非主攻区，顺带一问；不投入）　A 邮箱 → office@fastball.in（Rishi Kumar Bansal）　一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）
   - 第一问（只问一个）：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
 
