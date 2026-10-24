@@ -159115,21 +159115,21 @@
 "evidence": "k=4d792eebebf6a404 / 497037e504e55533"
 },
 "situation": "—",
-"need": "OEM/白标清单。",
-"breakpoint": "Q-33。",
+"need": "OEM/白标清单（2026-01-16 原话：「list of products and related materials that support your OEM / white-label services (such as branding and model name customization)」）——要的是「哪些能贴牌、怎么贴、起订量」，不是链接。",
+"breakpoint": "Alan 02-05 迟回 20 天且只给链接 + 「还会再更新」，没回答贴牌规则本身（规则 ㉙ 要一段话）；Q-33 口径（PLANET/UniFi 在售）标记但不妨碍答一次具体问题。",
 "saga_now": {
-"p1": "—",
-"tier": 25,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）",
+"p1": "STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5）",
+"tier": 30,
+"price": "OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）",
 "why": "已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
 "next_move": {
-"when": "不动",
-"channel": "—",
-"action": "—",
-"one_question": ""
+"when": "2026-11（一封具体答复，距 02-05 链接包已 9 个月）",
+"channel": "A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串）",
+"action": "一段话答贴牌规则 + 三款价 + 一问（㉙）",
+"one_question": "Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?"
 },
 "facts": [
 {
@@ -159166,7 +159166,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Re: Fw: OEM Core Switching Solution — white-label terms and three prices",
+"body": "Hi Eugene,\n\nIn January you asked which of our products support OEM / white-label and how it works; my February reply only gave links, so here is the actual answer.\n\n- White-label is available on every switch we ship: your logo, model name, MAC range, login IP and SNMP OID, at no charge, from 1 unit.\n- Front-panel PVC overlay is tooled per batch (MOQ 300); a colour box with your artwork is $2.5/set from 200 sets.\n- KC certification stays on your side; we supply CE / FCC / RoHS files and test reports.\n\nReference prices (USD EXW, 15-day validity, MOQ 1):\n- STC-28DGGPM — 8 × PoE+ + 2 × 1G/2.5G SFP, L2+ managed (Marvell AC5): $87.4\n- STC-424XGGPM-280W — 24 × PoE+ + 4 × 10G SFP+, L2+ managed, 280 W: $180 (our August mail said $170 — that round closed in September)\n- STI-288GPM — DIN-rail 8 × PoE + 2 × SFP, managed, −40~75 °C: $85.5\n\nOne question: which model would you white-label first, and for which customer type (SI projects or your online shop)?\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }

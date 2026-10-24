@@ -33,10 +33,10 @@ updated: 2026-10-24
 - **是谁**：韩国 ICT 集成商 MCS Solution（엠씨에스솔루션：网络集成 / 云 / IoT / IT 外包；站内商城在售 PLANET IGS-6325-8UP2S2X 工业 L3 PoE、PLANET GS-4210-8P2S、UniFi USW-16/24/48-PoE、Teltonika RUT976；表内「基本都是 UniFi 的 switch」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：基本都是unifi的switch）
 - **为什么是 B 级**：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5） — 已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续；OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）
+- **第一问（只问一个）**：Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：2026-11（一封具体答复，距 02-05 链接包已 9 个月） A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串） 一段话答贴牌规则 + 三款价 + 一问（㉙）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -44,10 +44,11 @@ updated: 2026-10-24
 
 - **绑定等级：轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）；退信：svc@mcss.co.kr 2025-08-11** ｜ 类型：韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售） ｜ 筛子：2 ｜ 停点：Q-33 + 迟回 ｜ 复活：不动（Q-33） ｜ 通路：KR ｜ 节奏：不动 ｜ 证据：k=4d792eebebf6a404 / 497037e504e55533
 - **现状一句话**：—
-- **对方真实需求（有据）**：OEM/白标清单。
-- **断点 / 为什么停在这里**：Q-33。
-- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter））——已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **对方真实需求（有据）**：OEM/白标清单（2026-01-16 原话：「list of products and related materials that support your OEM / white-label services (such as branding and model name customization)」）——要的是「哪些能贴牌、怎么贴、起订量」，不是链接。
+- **断点 / 为什么停在这里**：Alan 02-05 迟回 20 天且只给链接 + 「还会再更新」，没回答贴牌规则本身（规则 ㉙ 要一段话）；Q-33 口径（PLANET/UniFi 在售）标记但不妨碍答一次具体问题。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5）**（30% 档，OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter））——已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **下一步（具体）**：2026-11（一封具体答复，距 02-05 链接包已 9 个月）　A 邮箱 → support@mcss.co.kr（노현진 Eugene；回到 Re: Fw: OEM Core Switching Solution 串）　一段话答贴牌规则 + 三款价 + 一问（㉙）
+  - 第一问（只问一个）：Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -254,25 +255,30 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Re: Fw: OEM Core Switching Solution — white-label terms and three prices
 
 ```text
-Hello,
+Hi Eugene,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the sites you build on UniFi USW and PLANET GS-4210 PoE switches, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE L2+ models (neutral packing, small lots) as a cost line under the same topology — which one do you deploy more, the 8-port or the 24-port?
+In January you asked which of our products support OEM / white-label and how it works; my February reply only gave links, so here is the actual answer.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your PLANET GS-4210-8P2S at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+- White-label is available on every switch we ship: your logo, model name, MAC range, login IP and SNMP OID, at no charge, from 1 unit.
+- Front-panel PVC overlay is tooled per batch (MOQ 300); a colour box with your artwork is $2.5/set from 200 sets.
+- KC certification stays on your side; we supply CE / FCC / RoHS files and test reports.
 
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
+Reference prices (USD EXW, 15-day validity, MOQ 1):
+- STC-28DGGPM — 8 × PoE+ + 2 × 1G/2.5G SFP, L2+ managed (Marvell AC5): $87.4
+- STC-424XGGPM-280W — 24 × PoE+ + 4 × 10G SFP+, L2+ managed, 280 W: $180 (our August mail said $170 — that round closed in September)
+- STI-288GPM — DIN-rail 8 × PoE + 2 × SFP, managed, −40~75 °C: $85.5
 
-If useful, I can send one unit for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which model would you white-label first, and for which customer type (SI projects or your online shop)?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alan
+Saga Telecom · sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
