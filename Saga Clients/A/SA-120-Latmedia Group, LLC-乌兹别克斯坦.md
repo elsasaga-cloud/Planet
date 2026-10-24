@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：乌兹别克斯坦 IT 公司，2025 年通过自建站询盘 L2+/L3 商业级交换机，留有手机号；至今 0 次跟进（尚未回复过该询盘）。（调研 2026-10-21；表内兴趣：L2+/L3商业级）
 - **为什么是 A 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/乌兹别克斯坦；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 — 需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）；不报价
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 — 需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）｜对外统一口径（#2/#14）：2025-07～10 Alan 先说源码「almost impossible」再转介第三方 Joey 做 CKD/SKD/源码——转介可以，但 Saga 不背书、不参与；档案保持「停止群发」；不报价
 - **第一问（只问一个）**：（无）
 - **最大未知**：年走量与现供应商
 - **下一步**：停止对其群发（从 A 邮箱发送名单移除） — 若其成品采购需求出现再回
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Latmedia Group（Vladimir Xe，联合创始人；经「Simon from Olycom」介绍）2025-07-21 来信要找「硬件制造商而非经销商」，为乌兹别克斯坦国家 IT 硬件方案集成固件——要 SDK、源码、API（政府强制）；Alan 答不提供后 7-24 请其推荐伙伴；9-14 Alan 「We got a solution for you」→ 10-10 对方已与伙伴签备忘录、要 Joey 的联系方式（转介完成）；11-24 对 Booster PoE「not interesting」。**边界户，已体面转出。**
 - **对方真实需求（有据）**：可拿到 SDK/源码的交换机硬件平台，用于国家级自主品牌 + 本地认证。
 - **断点 / 为什么停在这里**：C10 边界（E2：不做 SDK/源码）。
-- **Saga 现在该推什么**：P1 **不推**（25% 档，不报价）——需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **不推**（25% 档，不报价）——需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）｜对外统一口径（#2/#14）：2025-07～10 Alan 先说源码「almost impossible」再转介第三方 Joey 做 CKD/SKD/源码——转介可以，但 Saga 不背书、不参与；档案保持「停止群发」
 - **下一步（具体）**：停止对其群发（从 A 邮箱发送名单移除）　—　若其成品采购需求出现再回
   - 第一问（只问一个）：（无）
 
