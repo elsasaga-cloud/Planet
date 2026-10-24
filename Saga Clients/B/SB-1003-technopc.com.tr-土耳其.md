@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Technopc（本土安防/网络品牌：NVR（站内 83 处）、IPC、网络产品栏目 TPN14AW / TM-T10EA；表内「工业 PoE，买的 Ewind 的」；KP Mithat Yücel（General Manager）、Murat Yücel（Managing Partner））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：工业POE；工业POE 买的ewind的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-10 $65（10G media converter）、2024-09-06 $300（48 port switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）、2024-09-06 $300（48 port switch）
 - **第一问（只问一个）**：Mithat, for the industrial PoE switches you sell under the Technopc label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C; 8/24-PoE L2+ commercial for NVR kits; CE/RoHS) in your packaging from small lots — which model do your dealers reorder most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Technopc（本土安防/网络品牌：NVR（站内 83 处）、IPC、网络产品栏目 TPN14AW / TM-T10EA；表内「工业 PoE，买的 Ewind 的」；KP Mithat Yücel（General Manager）、Murat Yücel（Managing Partner））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）
 - **断点 / 为什么停在这里**：现供 Ewind（深圳）价格基准低；土耳其汇率敏感；2 次跟进无回复 → 改向 GM 具名首触
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-10 $65（10G media converter）、2024-09-06 $300（48 port switch））——工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）、2024-09-06 $300（48 port switch））——工业 PoE 现 Ewind（深圳）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 Technopc 标作二供；商用 NVR 配套 STC-28DGGPM（$87.4）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Mithat, for the industrial PoE switches you sell under the Technopc label, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, −40~75 °C; 8/24-PoE L2+ commercial for NVR kits; CE/RoHS) in your packaging from small lots — which model do your dealers reorder most?
 

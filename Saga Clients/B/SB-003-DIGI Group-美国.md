@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国加州 Torrance 的光纤传输/广播设备品牌商（2006 年起，LinkedIn 51–200 人），自有品牌销售光端机、以太网光纤延长器（F-GET-TRS-POE+ 千兆单纤 PoE+ 30W）、IP 二线延长器（H-IP-TP-TX/RX 500 m PoE）、机箱等——产品形态为 OEM 贴牌型。用户表：S 重点，2 次实质回复 + WhatsApp + 样品记录，22 次跟进。（调研 2026-10-21；表内兴趣：Polish, buy from PLANET, interested in VC with Audio + 10bit video, quoted $90 but want to buy samples at $20-1v1d）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+10 谈到样品/测样；+25 在 Simon 的 S 重点名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：需求品类不在 Saga 主线
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 22 次（2024-01-25 → 2025-11-27）；最近一次客户回复：2025-06-25：想OEM
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表 — 品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表 — 品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：修掉「$137 EXW.5」「$423 EXW.5」排版错；三价均为列表价封顶（30% 档 $151.6 / $427.5 / $524.7 更高）
 - **第一问（只问一个）**：Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?
 - **最大未知**：年走量与现供应商
 - **下一步**：现在 S 邮箱 → stan@thorfiber.com 发整表 + 问首批型号
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Stan 两次开口都是「OEM 价格表」，Saga 两次都没有给整表：第一次推到样品后，第二次只报了一款。对一个做 video over IP 的品牌商，IGMP 是门槛而不是加分项，所以整表应只列管理型并标注 IGMP v2/v3 Snooping + Querier。
 - **对方真实需求（有据）**：OEM 品牌化的管理型工业 PoE（IGMP 必备）+ 光传输配套。
 - **断点 / 为什么停在这里**：OEM 价格表未给全。
-- **Saga 现在该推什么**：P1 **STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表**（30% 档，按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch））——品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表**（30% 档，按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：修掉「$137 EXW.5」「$423 EXW.5」排版错；三价均为列表价封顶（30% 档 $151.6 / $427.5 / $524.7 更高））——品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：Thor 目标量；品牌化范围（logo/固件 GUI/包装）
 - **下一步（具体）**：现在　S 邮箱 → stan@thorfiber.com　发整表 + 问首批型号
   - 第一问（只问一个）：Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?
@@ -290,8 +290,8 @@ Hi, Stan,
 You asked in June 2025 for OEM prices on the managed industrial PoE models (IGMP mandatory for your video-over-IP work). Here is the table, attached, for the models we discussed:
 
 - STI-488XGGBPM — 8x GbE PoE + 4x 1G/2.5G/10G SFP+, internal booster PSU — $215 USD EXW/pc (quoted 1 Dec 2025, re-confirmed today, valid 15 days)
-- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — list $137 EXW.5 USD, OEM tier on the sheet
-- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — list $423 EXW.5 / $517 USD EXW, OEM tier on the sheet
+- STI-288DGGPM — 8x GbE PoE + 2x SFP, L2+ — $137.5 USD EXW (OEM tier on the sheet)
+- STI-42424XGGPM — 24x GbE PoE + 4x 10G SFP+, L2+/L3 — $423.5 (L2+) / $517 (L3) USD EXW (OEM tier on the sheet)
 
 All three: IGMP v2/v3 snooping + querier, OEM logo/model name/web GUI, neutral packaging, MOQ 50 for branded units.
 

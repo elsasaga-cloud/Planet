@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 Eltech（1995 年起电气批发：配电（KIKBLOX 模块化配电柜）、自动化、线缆；表内「少量 switch，自己的 logo」；KP Todd Cuneo（Product Manager，todd.cuneo@）、Jolyn Soo（Engineering Manager））；群发 21 次无回复。（调研 2026-10-21；表内兴趣：少量switch 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 21 次无任何回复（聋名单）
 - **历史互动**：推送 21 次（2024-05-30 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-22 $65（10G media converter）、2024-12-30 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-30 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply Marvell-based DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：澳大利亚 Eltech（1995 年起电气批发：配电（KIKBLOX 模块化配电柜）、自动化、线缆；表内「少量 switch，自己的 logo」；KP Todd Cuneo（Product Manager，todd.cuneo@）、Jolyn Soo（Engineering Manager））；群发 21 次无回复。
 - **对方真实需求（有据）**：自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标
 - **断点 / 为什么停在这里**：非主攻区（T5）；RCM 由客户申报
-- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-22 $65（10G media converter）、2024-12-30 $300（48 Port PoE Managed Switch））——自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标
+- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-30 $300（48 Port PoE Managed Switch））——自有 logo 少量交换机（配电柜/自动化配套）→ 工业 8 GE 非管理 STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Eltech 标
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Todd, for the Eltech-branded switches you offer with your automation and switchboard range, we can supply Marvell-based DIN-rail 5/8-port gigabit units under your label from small lots (−40~75 °C, 12–58 VDC, CE/RoHS) — which port count do your electrical customers pick most?
 

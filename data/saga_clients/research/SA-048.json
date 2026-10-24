@@ -163,7 +163,7 @@
     "saga_now": {
       "p1": "STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD）",
       "tier": 25,
-      "price": "按 CENTEC ≥35% 底线复核；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-13 $300（48 Port PoE Managed Switch）",
+      "price": "按 CENTEC ≥35% 底线复核；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-13 $300（48 Port PoE Managed Switch）",
       "why": "J5：只问项目，不发 PoE。已打开的主题（5/29 封有打开记录）：「Re: Marvell Industrial Alert System」(2025-12-19)、「Updated Ethernet Switches Links」(2026-02-16)、「Re: Saga Q3 Product Links」(2026-07-15)、「Saga Q3 Product Links」(2026-07-15) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：DIN Power Adapter(2024-08-06)、Download Link_Alan(2025-12-19)、Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-24)、Product Link_2026Q3(2026-07-15)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
       "repeat": [],
       "gaps": [

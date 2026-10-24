@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch）",
       "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
       "repeat": [],
       "gaps": []

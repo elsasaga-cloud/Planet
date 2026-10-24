@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业PoE 自己的型号）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-28 → 2025-08-28）；最近一次客户回复：2025-08-28：Price List
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI 同源 8 口 PoE（`hrui_STC对照表`） — 一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1；—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI 同源 8 口 PoE（`hrui_STC对照表`） — 一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2027-Q1 A 邮箱 → zakaz@ 问付款通道 + 首批 SKU
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：2026-01-04 网店销售部要 PoE 交换机与配件价表，Alan 给价表并问「配件指光模块和电源？」，无回。
 - **对方真实需求（有据）**：PoE 交换机 + 光模块/电源（网店 SKU）。
 - **断点 / 为什么停在这里**：价表式回复无后续问题；RU 收款通道未谈。
-- **Saga 现在该推什么**：P1 **HRUI 同源 8 口 PoE（`hrui_STC对照表`）**（20% 档，—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch））——一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1
+- **Saga 现在该推什么**：P1 **HRUI 同源 8 口 PoE（`hrui_STC对照表`）**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch））——一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1
 - **下一步（具体）**：2027-Q1　A 邮箱 → zakaz@　问付款通道 + 首批 SKU
   - 第一问（只问一个）：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
 

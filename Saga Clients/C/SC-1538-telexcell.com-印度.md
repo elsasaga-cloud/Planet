@@ -47,7 +47,7 @@ updated: 2026-10-24
 - **现状一句话**：印度孟买 Telexcell（Tarun Jain Lalwani，Director Sales）2026-05 回 24 口 SFP 群发后先问 ERPS 清单，07-29 发正式 RFP：8 口 L2+ PoE（-48V DC 电信电源）×100、24 口 L2+ PoE（AC+DC）×20、16 口工业 L2+ PoE ×100，附两张合规表（含「Chipset Model & Part Code」栏）。Alan 当天回 6 份规格书、指出电源形态差异，但不报价。此后无任何来信；09-16 同司另一人要 Cisco IP 话机。
 - **对方真实需求（有据）**：8 口 2×10G SFP+ L2+ PoE 120W（DC -32~-78V 输入、无风扇）×100；24 口 4×10G L2+ PoE 400W（AC+DC）×20；16 口 4×SFP 工业 L2+ PoE ×100；要合规表逐项 Yes/No + 芯片型号 + 转售价。
 - **断点 / 为什么停在这里**：没有数字。220 台的 RFP 要的是「Transfer Pricing」，Alan 以元器件涨价为由不报 → 对方无法填标，线断。电源形态差异（-48V DC / AC+DC）是真缺口但可以写「DC 版按项目定制」而不是沉默。
-- **Saga 现在该推什么**：P1 **8 口 → STC-28DGGPM（2.5G 上联，$99 列表；10G 上联版另询）；24 口 → STC-424XGGPM-280W（$198 列表，PoE 280W 低于其 400W 要求 → 可报 STC-424DGGPM-440W $220）；16 口工业 → STI-21616XGGPM（$324.5 列表，L2+）或 STI-41616XGGPM（$495，L3）**（% 档，按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STC-28DGGPM $99 / STC-424DGGPM-440W $220 / STI-21616XGGPM $324.5；集成商 25% 档；-48V DC 版加价待 HRUI 确认后另报）——已发资料（勿重发）：Product Link_2026Q2(2026-05-17)、STC-28DGGPM(2026-07-29)、Saga Feature List_7.5.x_L2+(2026-07-29)、STC-424XGGPM-280W(2026-07-29)、STI-42424XGGPM-U(2026-07-29)、STI-41616XGGPM(2026-07-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **8 口 → STC-28DGGPM（2.5G 上联，$99 列表；10G 上联版另询）；24 口 → STC-424XGGPM-280W（$198 列表，PoE 280W 低于其 400W 要求 → 可报 STC-424DGGPM-440W $220）；16 口工业 → STI-21616XGGPM（$324.5 列表，L2+）或 STI-41616XGGPM（$495，L3）**（% 档，按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STC-28DGGPM $99 / STC-424DGGPM-440W $220 / STI-21616XGGPM $324.5；集成商 25% 档；-48V DC 版加价待 HRUI 确认后另报；**第 63 批基准统一（规则 ㉕）**：按 25% 档：STC-28DGGPM $99 → $84.1、STI-21616XGGPM $324.5 → $310.2；STC-424DGGPM-440W $220 = 列表价封顶（25% 档 $224.2 更高））——已发资料（勿重发）：Product Link_2026Q2(2026-05-17)、STC-28DGGPM(2026-07-29)、Saga Feature List_7.5.x_L2+(2026-07-29)、STC-424XGGPM-280W(2026-07-29)、STI-42424XGGPM-U(2026-07-29)、STI-41616XGGPM(2026-07-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11（印度 Q3 财年前）；若 Simon 不想做印度价格战则「不动」　A 邮箱（Tarun 直邮 tarun@telexcell.com；WhatsApp +91-8828269065 已加）　只补上当时没给的三行预算价 + 一句「DC 输入版可按项目定制」，问项目是否还在
   - 第一问（只问一个）：Tarun — is the July RFP (100 × 8-port, 20 × 24-port, 100 × 16-port industrial PoE) still open? Budget prices: 8-port L2+ PoE $99, 24-port 4×10G PoE 440W $220, 16-port industrial 4×10G PoE $324.5 USD EXW; the −48V DC input version is a project build — which site is this for?
 
@@ -178,9 +178,9 @@ Hi Tarun,
 
 In July you sent a clear RFP (100 × 8-port, 20 × 24-port, 100 × 16-port industrial L2+ PoE) and we answered with datasheets but no numbers. That was our mistake. Budget prices, USD EXW (2026-10-17 snapshot, valid 15 days):
 
-- 8-port L2+ PoE 120W + 2× 2.5G SFP: STC-28DGGPM $99 (10G-uplink version on request)
+- 8-port L2+ PoE 120W + 2× 2.5G SFP: STC-28DGGPM $84.1 (10G-uplink version on request)
 - 24-port L2+ PoE 440W + 4× 10G SFP+: STC-424DGGPM-440W $220
-- 16-port industrial L2+ PoE + 4× 10G SFP+, -40 to +75 °C: STI-21616XGGPM $324.5
+- 16-port industrial L2+ PoE + 4× 10G SFP+, -40 to +75 °C: STI-21616XGGPM $310.2
 
 The −48 V DC input (−32 to −78 V) on the 8-port is a project build, not a stock item.
 

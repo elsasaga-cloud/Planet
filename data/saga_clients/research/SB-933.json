@@ -111,7 +111,7 @@
     "saga_now": {
       "p1": "STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书）",
       "tier": 30,
-      "price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-19 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-12 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）｜2025-04 报过 $500（STI-42424XGGPM-4BT L3）；2026-10 主表 $550 EXW——信里按主表更新并解释",
+      "price": "$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-12 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）｜2025-04 报过 $500（STI-42424XGGPM-4BT L3）；2026-10 主表 $550 EXW——信里按主表更新并解释",
       "why": "上市品牌商 + VP 直联 + 七次回复｜已发资料（勿重发）：STC-4168XGGCM(2025-01-04)、Marvell Based CLI Manual(2025-01-04)、Marvell Based Web Manual(2025-01-04)、Saga Software Function List-release 7.(2025-03-28)、STI-42424XGGPM-4BT(2025-04-29)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": "UL/NEBS 仓库明确无 → 若对方要求则直接回「无」"

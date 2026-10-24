@@ -120,7 +120,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W",
       "tier": 20,
-      "price": "—",
+      "price": "—；**第 63 批基准统一（规则 ㉕）**：列表价 $220 → 20% 档 $215.2",
       "why": "已打开的主题（3/18 封有打开记录）：「Industrial PoE Switch」(2025-05-27)、「Booster PoE Switch」(2025-11-21)、「10G L3 Managed Switch」(2026-06-12) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-06)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -162,7 +162,7 @@
     ],
     "draft_en": {
       "subject": "One question — 24-port PoE / 10G L3",
-      "body": "Hello,\n\nSomeone at NSI opened our June note on the 10G L3 managed switch (and earlier the industrial and booster PoE ones) but never had a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $220 USD EXW list, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+      "body": "Hello,\n\nSomeone at NSI opened our June note on the 10G L3 managed switch (and earlier the industrial and booster PoE ones) but never had a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }

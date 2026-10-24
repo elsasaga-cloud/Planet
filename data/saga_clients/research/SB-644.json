@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-24 $220（48 port managed switch）、2024-12-19 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $220（48 port managed switch）、2024-12-19 $240（24 Port Fiber Switch）",
       "why": "对位 E-wind 工业 MC → STI-110GE（$22.4 @20%）；工业 FS STI-288GP。",
       "repeat": [],
       "gaps": []

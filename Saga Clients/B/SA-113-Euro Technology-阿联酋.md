@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。（调研 2026-10-21；表内兴趣：资料）
 - **为什么是 B 级**：**调研后定级 B**（41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。）；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 41 次（2024-01-24 → 2025-12-30）；最近一次客户回复：2024-08-14：interested
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（按现价重算） — WA 季度一句话即可。已打开的主题（4/36 封有打开记录）：「10G fiber media converter」(2024-07-07)、「Re: 10G fiber media converter」(2024-07-08)、「Re: 10G fiber media converter」(2024-08-14)、「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按 25% 集成档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-20 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（按现价重算） — WA 季度一句话即可。已打开的主题（4/36 封有打开记录）：「10G fiber media converter」(2024-07-07)、「Re: 10G fiber media converter」(2024-07-08)、「Re: 10G fiber media converter」(2024-08-14)、「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
 - **最大未知**：年走量与现供应商
 - **下一步**：季度 WhatsApp 一句话问是否有在手项目
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Chandra 2024-07 对 10G MC 回「Yes, interested」，2024-08 对工业 PoE 回「Whats the pricing」，Simon 报 STI-154GP 38 USD（-40~75℃，DIN，不含光模块/电源）后再无来信；此后 Saga 群发 30+ 封。
 - **对方真实需求（有据）**：10G MC、4 口工业 PoE（CCTV 项目配套）。
 - **断点 / 为什么停在这里**：两次都在价格/规格书之后停——项目型客户没有项目就没有下文；中东非主攻，不追。
-- **Saga 现在该推什么**：P1 **STI-154GP（按现价重算）**（25% 档，按 25% 集成档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-20 $300（48 Port PoE Managed Switch））——WA 季度一句话即可。已打开的主题（4/36 封有打开记录）：「10G fiber media converter」(2024-07-07)、「Re: 10G fiber media converter」(2024-07-08)、「Re: 10G fiber media converter」(2024-08-14)、「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-154GP（按现价重算）**（25% 档，按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch））——WA 季度一句话即可。已打开的主题（4/36 封有打开记录）：「10G fiber media converter」(2024-07-07)、「Re: 10G fiber media converter」(2024-07-08)、「Re: 10G fiber media converter」(2024-08-14)、「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：季度　WhatsApp　一句话问是否有在手项目
   - 第一问（只问一个）：Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
 

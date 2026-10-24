@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国加州 TC Communications（光纤通信与工业以太网产品设计制造商：复用器、DIN 工业交换机、JumboSwitch；行业：公用事业 / 公共安全 / 政府 / 轨道 / 航空；表内「工业 FS / MC / 光猫，Switch 协议类产品」；KP Steve Cragg（stevec@）、Larry（novaca.com）、Fredrick Chow）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC 光猫；Switch 协议类产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2025-02-20 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-06-19 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-06-19 $220（48 port managed switch））——已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch））——已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）

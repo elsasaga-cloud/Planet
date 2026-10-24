@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。（调研 2026-10-21；表内兴趣：MC 似乎是自己的牌子 switch 电源等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-05 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望。已打开的主题（1/18 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-15) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-26 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望。已打开的主题（1/18 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-15) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-26 $65（10G Media Converter）
 - **第一问（只问一个）**：For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：俄罗斯 ССД Связьстройдеталь（通信线路建设与维修材料研发制造商（光缆接头盒、管道、钢筋混凝土制品等），电信网络方案市场领导者；表内「MC 似乎是自己的牌子；switch 电源等」）；群发 17 次无回复。
 - **对方真实需求（有据）**：MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望
 - **断点 / 为什么停在这里**：主业无源通信建设材料（Saga 不做），有源为边缘品类；俄罗斯：结算/物流/合规风险
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-26 $65（10G Media Converter））——MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望。已打开的主题（1/18 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-15) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-26 $65（10G Media Converter））——MC（自有标可能）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；低期望。已打开的主题（1/18 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-15) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the media converters and small switches carried under your label alongside your fibre closures and line-construction products, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS; EAC by your side — which active SKU do your telecom customers order most?
 

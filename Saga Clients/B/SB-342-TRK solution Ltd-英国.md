@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：英国 TRK Solutions Ltd（CCTV、门禁、火灾报警、ANPR 安装商；Hikvision/Dahua；表内「主要用工业 PoE 比较懂」；KP Sahil Karwat（Director））；群发 17 次无回复。（调研 2026-10-21；表内兴趣：主要用工业PoE 比较懂）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/27 封有打开记录）：「2.5G web managed switch」(2024-09-03) → 读者兴趣偏「2.5G」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/27 封有打开记录）：「2.5G web managed switch」(2024-09-03) → 读者兴趣偏「2.5G」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA) from single units, EXW USD — which port count do your outdoor cabinets use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：英国 TRK Solutions Ltd（CCTV、门禁、火灾报警、ANPR 安装商；Hikvision/Dahua；表内「主要用工业 PoE 比较懂」；KP Sahil Karwat（Director））；群发 17 次无回复。
 - **对方真实需求（有据）**：工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）
 - **断点 / 为什么停在这里**：安装商（单项目量小）；Hikvision/Dahua 自带 PoE 价格基准低；17 次无回复 → 改向 Director 具名首触
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch））——工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/27 封有打开记录）：「2.5G web managed switch」(2024-09-03) → 读者兴趣偏「2.5G」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch））——工业 PoE 用户 → 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）。已打开的主题（1/27 封有打开记录）：「2.5G web managed switch」(2024-09-03) → 读者兴趣偏「2.5G」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Sahil, for the industrial PoE switches in your CCTV and ANPR installations, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (−40~75 °C, 802.3at/bt options, CE/RoHS/UKCA) from single units, EXW USD — which port count do your outdoor cabinets use most?
 

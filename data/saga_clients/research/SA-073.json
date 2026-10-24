@@ -158,7 +158,7 @@
     "saga_now": {
       "p1": "STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报",
       "tier": 25,
-      "price": "按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-24 $65（10G media converter）、2024-12-12 $300（48 Port PoE Managed Switch）",
+      "price": "按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G media converter）、2024-12-12 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）",
       "why": "一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加。已打开的主题（1/26 封有打开记录）：「Industrial PoE Switch」(2024-10-22) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": [
@@ -203,7 +203,7 @@
     ],
     "draft_en": {
       "subject": "Re: 4-port industrial PoE sample — still relevant?",
-      "body": "Hi, Inam,\n\nIn October 2024 you asked for a sample of the 4-port industrial PoE (STI-154GP) and we answered with the 36 USD price and the paid-sample rule. Nothing since, and our later mails went to a general mailbox, so this is the first one addressed to you.\n\nCurrent price: STI-154GP — $51.7 USD EXW list (2026-10 price table, valid 15 days from this mail); samples are paid, credited against the first order.\n\nOne question: is a 4-port industrial PoE still relevant for a current site, or has the need moved to 8/16 ports?\n\nThank you.\nAlan"
+      "body": "Hi, Inam,\n\nIn October 2024 you asked for a sample of the 4-port industrial PoE (STI-154GP) and we answered with the 36 USD price and the paid-sample rule. Nothing since, and our later mails went to a general mailbox, so this is the first one addressed to you.\n\nCurrent price: STI-154GP — $47 USD EXW (2026-10 price table, valid 15 days from this mail); samples are paid, credited against the first order.\n\nOne question: is a 4-port industrial PoE still relevant for a current site, or has the need moved to 8/16 ports?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"
   }

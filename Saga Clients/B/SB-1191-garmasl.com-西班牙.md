@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。（调研 2026-10-21；表内兴趣：redlion Switch I/O module）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。已打开的主题（1/7 封有打开记录）：「Power booster」(2024-09-06) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-09 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。已打开的主题（1/7 封有打开记录）：「Power booster」(2024-09-06) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-09 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：西班牙 20+ 年工业方案供应商（仪表与过程控制；industrial 123 / switch 127；+34 943 291 102），info@；表内「Red Lion Switch、I/O module」；无跟进。
 - **对方真实需求（有据）**：Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。
 - **断点 / 为什么停在这里**：I/O 模块不供；无具名
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-09 $300（48 Port PoE Managed Switch））——Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。已打开的主题（1/7 封有打开记录）：「Power booster」(2024-09-06) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-09 $300（48 Port PoE Managed Switch））——Red Lion N-Tron 之下 → STI-288GPM（$78.9 @20%）。已打开的主题（1/7 封有打开记录）：「Power booster」(2024-09-06) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?
 

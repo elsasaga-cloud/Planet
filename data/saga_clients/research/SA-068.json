@@ -148,7 +148,7 @@
     "saga_now": {
       "p1": "STI-480XGGM（LT-IS6312XG-4XS8GT，CNY 840 → $163.2 USD @30% OEM，汇率 6.69 快照 2026-10-17）；备选 STI-448XGGGM（LT-IS6316XG-4XS4GX8GT，CNY 1,400 → $272.0 @30%）",
       "tier": 30,
-      "price": "$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-30 $65（10G Media Converter）、2025-01-06 $240（24 Port Fiber Switch）；**与列表价的差**：STI-480XGGM 2026-06-22 列表价 $253（老表 $230），主表 30% 档 $163.2 低 35%（SmartByte 2026-09 表 10G 款降价、Saga 列表未跟）——信稿按 Simon 的档位规则写 $163.2，发前 Simon 可改回列表价（Q-59）；24 口 L3 $517 = 列表价，两条基准混在一封里，Simon 定一个",
+      "price": "$163.2 / $272.0 USD EXW（2026-10-17 快照，15 天有效）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-30 $65（10G Media Converter）、2025-01-06 $240（24 Port Fiber Switch）；**与列表价的差**：STI-480XGGM 2026-06-22 列表价 $253（老表 $230），主表 30% 档 $163.2 低 35%（SmartByte 2026-09 表 10G 款降价、Saga 列表未跟）——信稿按 Simon 的档位规则写 $163.2，发前 Simon 可改回列表价（Q-59）；24 口 L3 $517 = 列表价，两条基准混在一封里，Simon 定一个",
       "why": "J4：一封信只放温度 + 端口 + 价格三行，回答他 2026-06-01 的那句话。已打开的主题（12/29 封有打开记录）：「10G Enterprise SFP Switch」(2025-09-22)、「Re: 10G Enterprise SFP Switch」(2025-09-23)、「Re: 10G L3 Managed Switch」(2026-06-01)、「Re: 10G L3 Managed Switch」(2026-06-03) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Passive PoE(2024-07-31)、STI-488XGGPM2B-2BT(2025-05-29)、Product Link_2026Q2(2026-03-30)、Saga Software Function List_EN_V2.4(2026-06-01)、Performance of VastLakes Platform_EN_3(2026-06-01)、XLite Series(2026-06-01)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": [

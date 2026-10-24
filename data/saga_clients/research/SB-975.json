@@ -119,7 +119,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-06 $220（48 port managed switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $220（48 port managed switch）",
       "why": "在售 EtherWAN EX7xxxx 工业管理型 → 对位工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）；工业 MC 位 STI-110GE / STI-111GP；Open Networking 位 24 GE + 4×10G STC-424XGGM。已打开的主题（1/18 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

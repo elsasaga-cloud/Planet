@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 AVCOMM Technologies（工业以太网交换机 / IIoT / 边缘计算，自有 AP200/AP300/AP400 PoE 系列与 4000/6000 PoE 系列商城分类；表内「工业 FS / SFP，自己的 logo」；KP Kang Yu（Chief Operating Officer，kang.yu@））；群发 20 次无回复。（调研 2026-10-21；表内兴趣：工业FS SFP 自己的logo）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-04-30 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-14 $65（10G media converter）、2025-01-02 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2025-01-02 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 AVCOMM Technologies（工业以太网交换机 / IIoT / 边缘计算，自有 AP200/AP300/AP400 PoE 系列与 4000/6000 PoE 系列商城分类；表内「工业 FS / SFP，自己的 logo」；KP Kang Yu（Chief Operating Officer，kang.yu@））；群发 20 次无回复。
 - **对方真实需求（有据）**：自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
 - **断点 / 为什么停在这里**：自有品牌已有代工来源：以 Marvell 平台 + 小批量切入
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-14 $65（10G media converter）、2025-01-02 $240（24 Port Fiber Switch））——自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-14 $65（10G media converter）、2025-01-02 $240（24 Port Fiber Switch））——自有工业 PoE 系列（400/4000/6000 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）贴 AVCOMM 标；L2+ 位 STI-288DGGPM；非管理 STI-288GP
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Kang, for the AVCOMM 400/4000-series industrial PoE switches, we build Marvell-based DIN-rail 8-PoE + 2 SFP managed and unmanaged units under your label from small lots (−40~75 °C, CE/RoHS/FCC) — which series would you want a second-source quotation on first?
 

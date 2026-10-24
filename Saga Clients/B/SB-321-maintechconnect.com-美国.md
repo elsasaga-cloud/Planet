@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国网络配件网店 Main Tech Connect（Shopify 站：电脑/网络配件、AV、机柜、光缆、工业以太网、大量 PoE；在售 Intellinet 与自有型号 IPS-16GM02-518W / IPS-24GM02-518W（深圳式工业 PoE 管理型命名）；表内「看着像是深圳公司的外壳，自己的 logo/型号，产品较少」；站内邮箱 aschlieck@icintracom.com（IC Intracom = Intellinet 母公司）→ 疑为 IC Intracom 关联渠道）；群发 23 次无回复。（调研 2026-10-21；表内兴趣：看着像是深圳公司的外壳 自己的logo/型号 产品较少）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：推送 23 次（2024-02-08 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-12 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国网络配件网店 Main Tech Connect（Shopify 站：电脑/网络配件、AV、机柜、光缆、工业以太网、大量 PoE；在售 Intellinet 与自有型号 IPS-16GM02-518W / IPS-24GM02-518W（深圳式工业 PoE 管理型命名）；表内「看着像是深圳公司的外壳，自己的 logo/型号，产品较少」；站内邮箱 aschlieck@icintracom.com（IC Intracom = Intellinet 母公司）→ 疑为 IC Intracom 关联渠道）；群发 23 次无回复。
 - **对方真实需求（有据）**：自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM
 - **断点 / 为什么停在这里**：疑为 IC Intracom（Intellinet 母公司）关联网店：若由母公司统一采购，决策不在此站
-- **Saga 现在该推什么**：P1 **STI-21616GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-12 $300（48 Port PoE Managed Switch））——自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM
+- **Saga 现在该推什么**：P1 **STI-21616GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $300（48 Port PoE Managed Switch））——自有型号 IPS-16GM02-518W = 16 口千兆工业 PoE 管理型（518W）→ Saga 对位 STI-21616GP（工业 16 PoE + 2 SFP，$184.6 @30%，L2 管理为 STI-21616XGGPM 待核）；8 口位 STI-288GPM
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For your IPS-series industrial PoE switches (16/24-port), we build Marvell-based DIN/rack industrial 16-PoE + 2 SFP units under your label from small lots, CE/RoHS/FCC, neutral packing — which of the two, the 16-port or the 24-port, do you reorder more often?
 

@@ -78,7 +78,7 @@
     "saga_now": {
       "p1": "工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99）",
       "tier": "经销 25%",
-      "price": "STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）",
+      "price": "STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 列表价 $99 → 25% 档 $84.1；STI-054GP 列表价 $42.9 → 老表 $39（非管理工业线 SmartByte 成本表是 2024 的，档位价 $32.5 不可靠；Simon 2026-04 给 SB-093 报 $33）",
       "why": "已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)",
       "repeat": "小量起步",
       "gaps": "他要的「some pieces of equipment」是什么"
@@ -128,7 +128,7 @@
     ],
     "draft_en": {
       "subject": "Re: Industrial PoE Switch — prices in the mail this time",
-      "body": "Hi, Aleksandar,\n\nIn May 2024 you asked for a catalog, prices and MOQ, and I sent you links instead. Here are the numbers:\n\n- 8 x GbE PoE + 2 x 1G/2.5G SFP, industrial DIN, -40 to +75 C, L2+ managed — $137.5 USD EXW\n- 8 x GbE PoE + 4 x 1G/2.5G SFP, desktop, L2+ managed, 120 W — $99 USD EXW\n- 4 x GbE PoE + 1 x GE uplink, industrial DIN, unmanaged — $42.9 USD EXW\n(2026-10 list, valid 15 days; single units are fine for testing; CE/RoHS.)\n\nOne question: which one would you test first, and for what kind of site?\n\nThank you.\nSimon"
+      "body": "Hi, Aleksandar,\n\nIn May 2024 you asked for a catalog, prices and MOQ, and I sent you links instead. Here are the numbers:\n\n- 8 x GbE PoE + 2 x 1G/2.5G SFP, industrial DIN, -40 to +75 C, L2+ managed — $137.5 USD EXW\n- 8 x GbE PoE + 4 x 1G/2.5G SFP, desktop, L2+ managed, 120 W — $84.1 USD EXW\n- 4 x GbE PoE + 1 x GE uplink, industrial DIN, unmanaged — $39 USD EXW\n(2026-10 list, valid 15 days; single units are fine for testing; CE/RoHS.)\n\nOne question: which one would you test first, and for what kind of site?\n\nThank you.\nSimon"
     }
   }
 }

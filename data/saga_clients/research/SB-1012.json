@@ -84,7 +84,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-15 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-15 $240（24 Port Fiber Switch）",
       "why": "4/8 口商用 PoE → STC-28DGGPM（8 PoE + 2 SFP）；非管理 8 口 HRUI STC-028GP（$24.2）备选。已打开的主题（5/10 封有打开记录）：「8 port poe switch」(2024-08-20)、「Industrial PoE Switch」(2024-09-15)、「Mini Industrial PoE Switch」(2024-11-19)、「L3 Managed Switch」(2025-01-29) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q3(2026-07-08)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。（调研 2026-10-21；表内兴趣：工业FS POE 有好几个牌子  也有他们自己的牌子  有小壳）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-03 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-18 $65（10G media converter）、2024-11-21 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-18 $65（10G media converter）、2024-11-21 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：德国变电站计算与网络方案商（IEC 61850-3 认证服务器 / 交换机 / 路由，保护、自动化、SCADA、vPAC；Westermo；industrial 183 / automation 49 / switch 57），Managing Director / CTO Jos Zenner（表内「可着重跟」）；表内「工业 FS PoE 好几个牌子，也有自己的牌子，有小壳」；群发 15 次无回复。电力变电站 = 关键基础设施（民用公用事业，守界按单核）。
 - **对方真实需求（有据）**：自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。
 - **断点 / 为什么停在这里**：IEC 61850-3 / 电力守界：仅供非关键节点
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-18 $65（10G media converter）、2024-11-21 $300（48 Port PoE Managed Switch））——自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-18 $65（10G media converter）、2024-11-21 $300（48 Port PoE Managed Switch））——自有品牌工业管理 PoE（非 61850 场景）→ STI-288GPM（$85.5 @30%）贴 Welotec 标；mini STI-050GE。已打开的主题（1/23 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Jos, for the Welotec-branded compact industrial switches outside the IEC 61850-3 line — Marvell DIN managed 8-PoE + 2-SFP and 5-port minis under your label from small lots (CE/RoHS, −40~75 ℃); which housing size do you want to standardise?
 

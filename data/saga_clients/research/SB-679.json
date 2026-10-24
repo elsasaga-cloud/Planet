@@ -102,7 +102,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 30,
-      "price": "$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-22 $65（10G media converter）",
+      "price": "$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）",
       "why": "已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Passive PoE(2024-09-17)、L2 Web Manual(2024-09-18)、STC-208GPM-AUTO(2024-09-18)、STI-154GP(2024-11-04)、STC-4168XGGCM(2025-01-06)、Marvell Based CLI Manual(2025-01-06)、Marvell Based Web Manual(2025-01-06)；已发单据：Quotation(2024-11-04)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

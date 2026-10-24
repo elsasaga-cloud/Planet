@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：MC Switch等；工业MC Repotec的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-05 $65（10G media converter）、2024-11-27 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）、2024-11-27 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-403，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
 - **对方真实需求（有据）**：其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：
 - **断点 / 为什么停在这里**：年台数；是否经 FEN/ACTION 进货
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-05 $65（10G media converter）、2024-11-27 $300（48 Port PoE Managed Switch））——其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-05 $65（10G media converter）、2024-11-27 $300（48 Port PoE Managed Switch））——其工业线以 4/8 口 DIN 为主；8×GE PoE+ + 2 SFP 走量；电商走量 → 20%（沿用 Planet 档案 PB-017）；需求：
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

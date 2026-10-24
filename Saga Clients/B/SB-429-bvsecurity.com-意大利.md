@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：Utepo 有Amazon店铺）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-04-23 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）。已打开的主题（1/26 封有打开记录）：「OEM Core Switching Solution」(2026-01-24) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-15 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）。已打开的主题（1/26 封有打开记录）：「OEM Core Switching Solution」(2026-01-24) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：BV Security（安防电商：监控硬盘 / PoE 交换机与注入器 / 摄像机，批发 28；自有 SW 系列 PoE 交换机 SW501G-PLUS / SW502G / SW802G / SW811G-DIN，博客「best NDAA-compliant PoE switches」；表内「Utepo，有 Amazon 店铺」；KP Zehua W（Product Manager，support@）；表内国别「意大利」存疑——站点为英文美元 Shopify 站，疑为美国公司，待核）；群发 13 次无回复。
 - **对方真实需求（有据）**：自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）
 - **断点 / 为什么停在这里**：国别待核：表内「意大利」，站点为英文/美元/Amazon 美国店，疑为美国公司
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-15 $300（48 Port PoE Managed Switch））——自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）。已打开的主题（1/26 封有打开记录）：「OEM Core Switching Solution」(2026-01-24) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch））——自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）。已打开的主题（1/26 封有打开记录）：「OEM Core Switching Solution」(2026-01-24) → 读者兴趣偏「DC 核心/CENTEC」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the SW-series PoE switches under your label (SW802G, SW811G-DIN), we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units to your spec from small lots, with a component-origin statement for your NDAA guide — which model is due for a second source first?
 

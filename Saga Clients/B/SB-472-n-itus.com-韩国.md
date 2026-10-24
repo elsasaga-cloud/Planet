@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：韩国网络设备公司 N-ITUS（Director Peter 邮箱退信，另一联系人 yhahn@），兴趣商用以太网交换机，表内「质量一般」，2025-11 对升压 PoE 群发回复「Price and ODM」→ 有 ODM 意向（升压款 Saga 价目无，Q-32）。（调研 2026-10-21；表内兴趣：Ethernet Switch；商业switch）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-13 → 2025-11-13）；最近一次客户回复：2025-11-13：Price and ODM
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM / STC-424XGGPM + ODM 一页 — 韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-06 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM / STC-424XGGPM + ODM 一页 — 韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限
 - **第一问（只问一个）**：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：现在 A 邮箱 → peter01@n-itus.com 给区间表 + ODM 一页
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：对方开口要的是两样具体东西，Saga 给的是链接。
 - **对方真实需求（有据）**：ISP 用接入 PoE/非 PoE + ODM。
 - **断点 / 为什么停在这里**：回法。
-- **Saga 现在该推什么**：P1 **STC-28GPM / STC-424XGGPM + ODM 一页**（30% 档，按主表 OEM 30% 档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-06 $300（48 Port PoE Managed Switch））——韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STC-28GPM / STC-424XGGPM + ODM 一页**（30% 档，按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限）——韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：8； ；口； ；P；o；E； ；商；用； ；=； ；S；T；C；-；2；8；D；G；G；P；M； ；S；a；g；a； ；列；表；价； ；$；9；9；（；主；表；；；S；a；g；a； ；标； ；2；4；0；W；、；S；m；a；r；t；B；y；t；e； ；标； ；1；2；0；W； ；电；源；—；—；报；价；前；核；对；电；源；规；格；）
 - **下一步（具体）**：现在　A 邮箱 → peter01@n-itus.com　给区间表 + ODM 一页
   - 第一问（只问一个）：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
@@ -242,9 +242,9 @@ Hi, Peter,
 
 Thank you for your note in November — price ranges for PoE / non-PoE access switches and an ODM proposal for the Korean ISP market. Attached: price bands and a one-page ODM scope.
 
-- 8-port GbE PoE + 2x SFP, L2+ (STC-28DGGPM) — $99 USD list (2026-10 table)
-- 24-port GbE PoE 280W + 4x 10G SFP+, L2+ — $198 USD list
-- 24-port GbE non-PoE + 4x 2.5G SFP, L2+ — $110 USD list
+- 8-port GbE PoE + 2x SFP, L2+ (STC-28DGGPM) — $87.4 USD EXW (2026-10 snapshot)
+- 24-port GbE PoE 280W + 4x 10G SFP+, L2+ — $180 USD EXW
+- 24-port GbE non-PoE + 4x 2.5G SFP, L2+ — $89.4 USD EXW
 - ODM: your logo, model name, web GUI, packaging; MOQ 50 pcs per model; firmware OEM string changes included.
 (All EXW Shenzhen, valid 15 days from this mail.)
 

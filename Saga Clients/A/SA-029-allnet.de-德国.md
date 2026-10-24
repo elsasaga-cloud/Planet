@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：德国增值分销商 + 自有品牌厂商（1991 年成立，Wolfgang Marcus Bauer），分销网络/无线/UCC/视频监控/安全/测量产品，并以 ALLNET 品牌自产网络、电信、WLAN、视频监控产品；2013 年营收 €5,800 万（德国分销商第 27 位）。用户表：A 已回复，自己的 logo、工业 FS/MC/SFP/周边，有 E-link 的产品。（调研 2026-10-21；表内兴趣：自己的logo 工业FS MC SFP  周边产品 有E-link的产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-09 → 2025-07-09）；最近一次客户回复：2025-07-09：自己有型号了
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（若其 E-link 线出现缺口） — 保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）；按 30% 自有标档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（若其 E-link 线出现缺口） — 保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）
 - **第一问（只问一个）**：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面 S 邮箱 → zerwes@allnet.de 一句话问其工业线最难采购的 SKU
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：ALLNET 的产品经理 Gerhard Zerwes 是真人回复：2025-07-10 对 16 口 DIN 群发回「我们已有带 SFP 槽和管理型的方案」。他每年 5–6 月去 Computex 并在亚洲停留一个月（2024 自动回复）。Saga 之后继续每月一封群发到 sales@/zerwes@，无回。
 - **对方真实需求（有据）**：自有品牌 ALLNET 工业/商用交换机货源——目前已满足。
 - **断点 / 为什么停在这里**：对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM（若其 E-link 线出现缺口）**（30% 档，按 30% 自有标档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch））——保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM（若其 E-link 线出现缺口）**（30% 档，按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch））——保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面　S 邮箱 → zerwes@allnet.de　一句话问其工业线最难采购的 SKU
   - 第一问（只问一个）：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price?
 
