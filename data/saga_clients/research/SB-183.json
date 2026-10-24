@@ -114,16 +114,16 @@
     "saga_now": {
       "p1": "—",
       "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+      "price": "锚价：STI-288GPM $78.9（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
       "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "—",
-      "channel": "—",
-      "action": "不主动",
-      "one_question": ""
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → info@kyma.it（Davide Zisios）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Kyma has imported PLANET since 1994 and now also carries 3onedata, so direct sourcing from Asia is already part of how you run the business. Which industrial PoE configuration do your customers ask for most: 8-port PoE+ with 2 SFP, or the 4 SFP version? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [],
     "proof_gaps": [

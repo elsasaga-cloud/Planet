@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：俄罗斯圣彼得堡网络产品贸易商（用户记录：销售多品牌 MC/SFP/VC/FS，含多家国内品牌），长期互动：39 次跟进中 5 次实质回复，最近 2025 年。（调研 2026-10-21；表内兴趣：有很多牌子的产品 卖别人的MC SFP VC FS；国内好几个牌子的）
 - **为什么是 A 级**：+30 实质回复 5 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 5 次；WhatsApp 已加；推送 39 次（2023-12-09 → 2025-11-03）；最近一次客户回复：2025-06-21：用switches
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：— — 不主动
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） S 邮箱（Born SPb；用户表 5 次回复渠道不明） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：18 封被打开 1 次。
 - **对方真实需求（有据）**：MC / 工业 FS。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch））——已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
-- **下一步（具体）**：—　—　不主动
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，锚价：STI-110GE $26.5 / STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port poe managed switch）、2024-09-24 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-10 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch））——已打开的主题（1/18 封有打开记录）：「90W PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　S 邮箱（Born SPb；用户表 5 次回复渠道不明）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：For the media converter and 8-port PoE lines you trade, the gigabit SFP media converter and the Marvell-based 8-port PoE+ 2 SFP managed switch are the two EXW prices I am sending for your next comparison. Shall I send both for your next comparison? Reference: STI-110GE at $26.5 / STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

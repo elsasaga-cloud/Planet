@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：德国安防客户（用户表：买了 5 电口样品，需要一起买工业电源，问了 2 款 2.5G 价格，对机架式工业管理交换机有兴趣，需要支持…）。网页搜索未找到该域名的公开页面，公司规模/类型待用户侧确认。（调研 2026-10-21；表内兴趣：买了5电口样品，需要一起买工业电源，也问了拿的2款2.5G网的价格，对机架式工业管理有兴趣，需要能支持CLI管理，知道Aliexpress, 比较在意运费和进口税，展会结束时一直在扫货）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：— — 核实 boecek@ 是否有效
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → boecek@（先核地址是否有效；无具名 KP） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：触达无效 + 证据缺失。
-- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））———
-- **下一步（具体）**：—　—　核实 boecek@ 是否有效
+- **Saga 现在该推什么**：P1 **—**（25% 档，锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））———
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → boecek@（先核地址是否有效；无具名 KP）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「样品购买」无 PI；邮件 0 打开
 

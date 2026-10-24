@@ -109,16 +109,16 @@
     "saga_now": {
       "p1": "无",
       "tier": 20,
-      "price": "—",
+      "price": "STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—",
       "why": "—｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
+      "when": "2027-Q1（非主攻区，顺带一问；不投入）",
+      "channel": "A 邮箱 → office@fastball.in（Rishi Kumar Bansal）",
+      "action": "一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）",
+      "one_question": "Rishi — your IndiaMART page lists a \"4 Port Industrial Ethernet Switch FBC-204GP\", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone."
     },
     "facts": [
       {

@@ -36,10 +36,10 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔 Sancaktepe 的安防电子制造商与分销商 EDS Elektronik（1990-02 成立；产品线 CCTV、控制系统、火灾探测、入侵报警、门禁、自动化、环境监测、电力电子；研发-生产-进出口-分销-售后一体；100% 本土；出口 35+ 国；60+ 员工、10+ 工程师，5,000 m² 工厂；LinkedIn 51–200；RocketReach 63 人、$22.5M；2019 年 Ar-Ge 中心；总经理/联合创始人 Osman Yıldız（ITÜ 电子，1991 年起）；进出口经理 Gülnihal Özdemir Yılmaz；Meclis Mah. Teraziler Cad. Hayran Sok. No:4 Sancaktepe；+90 216 528 45 00；eds@eds.com.tr）。ISAF 记录：以前的客户，坐了一下、拿了 catalogue 就走；联系人 Osman Yıldız（GM）/ Münevver Acarer（import）；WhatsApp 加不上；2 次跟进。制造商自有品牌 → OEM 30%；复购导向。（调研 2026-10-21；表内兴趣：以前的客户，坐了一下，拿了catalogue就走）
 - **为什么是 A 级**：**调研后定级 A**（B→A：用户表注明「以前的客户」（有成交史，复购优先）；本土安防电子制造商 + 分销商（1990 年成立，Sancaktepe 5,000 m² 工厂，60+ 员工/10+ 工程师，营收口径 $22.5M，出口 35 国，2019 年起 Ar-Ge 中心资质）；总经理 Osman Yıldız 直接可达——值得长期跟进）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-29 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；锚价：STI-288DGGPM 137,5（PDF 上限；原 hook 151,6 超上限已改）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?
 - **最大未知**：年走量与现供应商
-- **下一步**：— — 不主动
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → eds@eds.com.tr（Osman Yıldız；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,8 +49,9 @@ updated: 2026-10-24
 - **现状一句话**：12 封 0 打开。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch））———
-- **下一步（具体）**：—　—　不主动
+- **Saga 现在该推什么**：P1 **—**（25% 档，锚价：STI-288DGGPM 137,5（PDF 上限；原 hook 151,6 超上限已改）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch））———
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → eds@eds.com.tr（Osman Yıldız；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -117,7 +118,7 @@ updated: 2026-10-24
   - WhatsApp 加不上 → 走邮件 + 电话（进出口经理为采购入口）
 - **风险/边界**：ISAF 态度平淡（拿目录即走）；火灾探测线守界；大客户采购比价
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——OEM 30% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$151.6）配其门禁/环境监测/CCTV 柜（EDS 标）；商用 STC-424DGGPM-280W（$145.7）；历史采购型号待 Simon 从邮箱补
-- **邮件切入句（英文）**：Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?
+- **邮件切入句（英文）**：Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -269,7 +270,7 @@ updated: 2026-10-24
 ```text
 Hi Osman,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the usual Taiwan-grade units at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $151.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

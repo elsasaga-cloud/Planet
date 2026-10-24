@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：印度加尔各答 IP 视频监控/消防/楼宇管理/OFC 网络交钥匙项目公司（1995 年，自有 VICOM 品牌摄像机，30,000+ 项目安装，约 120 人，FY2024 营收 ₹27.1 Cr ≈ 330 万美元）；WA 在线、已开视频会，2 次回复、13 次跟进；需求 4 光 4 PoE 管理型 / 4 光 24 电。（调研 2026-10-21；表内兴趣：CCTV；4光4POE管理/4光24电 开了视频会/Retailer）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-06-21）；最近一次客户回复：2024-05-19：在和他们合作/https://www.benchu-group.net/
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — —；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — —；锚价：STI-288GPM $85.5 / STC-424DGGPM-280W $145.7（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）
+- **第一问（只问一个）**：Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout. Which of the two footprints would VICOM second-source first? Reference: STI-288GPM at $85.5 / STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：— — Simon 决定
+- **下一步**：2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回） A 邮箱 / Simon 原通道（Vicom） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：视频会在邮件之外。
 - **对方真实需求（有据）**：4 光 24 电管理 PoE 贴牌。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch））———
-- **下一步（具体）**：—　—　Simon 决定
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，锚价：STI-288GPM $85.5 / STC-424DGGPM-280W $145.7（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch））———
+- **下一步（具体）**：2027-Q1（Simon 决定是否重启；视频会后 7 封 0 回）　A 邮箱 / Simon 原通道（Vicom）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：Your VIES7511-8PGE2GF-DC and the 24GP4GC-L2M are the two footprints we build on a Marvell core, so I am quoting both in VICOM packing as a second source, with the 16-port PoE model following the same datasheet layout. Which of the two footprints would VICOM second-source first? Reference: STI-288GPM at $85.5 / STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

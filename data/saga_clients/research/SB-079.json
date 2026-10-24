@@ -116,16 +116,16 @@
     "saga_now": {
       "p1": "—",
       "tier": 25,
-      "price": "—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180",
+      "price": "锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180",
       "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "—",
-      "channel": "—",
-      "action": "不主动",
-      "one_question": ""
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → r.hannemann@isimko.de（德语）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
     },
     "facts": [],
     "proof_gaps": [

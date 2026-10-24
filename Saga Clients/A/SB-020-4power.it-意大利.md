@@ -36,10 +36,10 @@ updated: 2026-10-24
 - **是谁**：那不勒斯的 B2B 专业分销商，PLANET 意大利官方分销 + 自有网络品牌 4Net，11–50 人。类型：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销。信号：PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B。Planet 渠道档案 PA-001 评级 A（需求面：PLANET 官方分销 + 自有品牌 4Net（OEM/ODM 需求 = 用户最优先客户类型）；触达：公开邮箱 info@/commerciale1@ + 第三方名录具名管理层 Pasquale Pirozzi；体量 11–50 人可拿下；区域意大利）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-020，意大利，Saga 群发已推送 6 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工商业FS 很多国内的产品 分销商 主要是3个品牌）
 - **为什么是 A 级**：**调研后定级 A**（Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025
 - **历史互动**：推送 6 次（2025-01-29 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：— — 不主动
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,8 +49,9 @@ updated: 2026-10-24
 - **现状一句话**：17 封 0 打开。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch））———
-- **下一步（具体）**：—　—　不主动
+- **Saga 现在该推什么**：P1 **—**（20% 档，锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch））———
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

@@ -107,7 +107,7 @@
     "tier": 30,
     "why": "OEM 30% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，$151.6）配其门禁/环境监测/CCTV 柜（EDS 标）；商用 STC-424DGGPM-280W（$145.7）；历史采购型号待 Simon 从邮箱补"
   },
-  "email_hook": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (151,6 USD EXW, OEM kademesi) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?",
+  "email_hook": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?",
   "mail_review": {
     "binding": {
       "level": "未绑定（邮件 12 封 0 回、Opened 0；2026-03 后停发）",
@@ -125,16 +125,16 @@
     "saga_now": {
       "p1": "—",
       "tier": 25,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
+      "price": "锚价：STI-288DGGPM 137,5（PDF 上限；原 hook 151,6 超上限已改）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
       "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "—",
-      "channel": "—",
-      "action": "不主动",
-      "one_question": ""
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → eds@eds.com.tr（Osman Yıldız；土耳其语）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?"
     },
     "facts": [
       {

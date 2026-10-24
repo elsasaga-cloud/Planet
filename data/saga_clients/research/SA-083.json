@@ -182,16 +182,16 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-29 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+      "price": "锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-29 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
       "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "—",
-      "channel": "—",
-      "action": "换联系人",
-      "one_question": ""
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → imports@bselectronics.gr（Vasilis Stavridis）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Your BS-SWP series is fast-Ethernet today, so the Marvell-based gigabit managed 8-port PoE+ with 2 SFP in BS packing is the natural step up, and the 24-port version with four 10G SFP+ uplinks answers the 2.5G question from ISAF. Shall I quote the 8-port in BS packing first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [],
     "proof_gaps": [

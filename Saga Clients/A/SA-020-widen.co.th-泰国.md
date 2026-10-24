@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。（调研 2026-10-21；表内兴趣：FS MC VC 都是自己的标 无源产品）
 - **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 18 次（2024-04-30 → 2025-10-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — —；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — —；锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）
+- **第一问（只问一个）**：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：— — 移出群发或换联系人
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → WIDEN 具名 KP 待找（27 封 0 回，建议换联系人） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：两年 27 封邮件 0 打开：地址 info@/thawat@ 很可能不看外部邮件。
 - **对方真实需求（有据）**：MC/光口交换机贴牌（用户表）。
 - **断点 / 为什么停在这里**：触达无效。
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch））———
-- **下一步（具体）**：—　—　移出群发或换联系人
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch））———
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → WIDEN 具名 KP 待找（27 封 0 回，建议换联系人）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

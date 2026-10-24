@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：喀拉拉邦的光纤产品制造/方案商（2011 年），自有 DNC 品牌：跳线/尾纤/连接器/分路器、数据 MC（MC-10100G 等）、视频/电话光端机、SFP、MPO。用户表：WhatsApp 跟进，2 次实质回复，18 次跟进；兴趣 MC / FS / HDMI / SFP / VC，要求质量较高，用自己的 logo。（调研 2026-10-21；表内兴趣：MC FS HDMI SFP VC 质量较高  自己的logo）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-06-21）；最近一次客户回复：2024-12-09：1211: 22迷你
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — —；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — —；锚价：STI-154GP $40.8（30% 档）/ STI-110GE $26.5（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch）
+- **第一问（只问一个）**：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：— — 不主动
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → DNC 具名 KP 待找 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：3 封无互动。
 - **对方真实需求（有据）**：MC 贴牌。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch））———
-- **下一步（具体）**：—　—　不主动
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，锚价：STI-154GP $40.8（30% 档）/ STI-110GE $26.5（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-19 $220（48 port managed switch））———
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → DNC 具名 KP 待找　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files. Which one first — the 4-PoE + SFP switch or the gigabit converter? Reference: STI-154GP at $40.8 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -121,7 +122,7 @@ updated: 2026-10-24
   - DNC 自有标已有 4 PoE + 1 FX 机——STI-144GP 为同口型 Marvell 替代，可按 DNC 命名贴牌；MC 位 STI-110GE（2026-10-21）
 - **风险/边界**：MC 单价低、印度价格敏感；VC/HDMI 不在 Saga 型谱
 - **Saga 对位结论**：P1 STI-144GP（30% 档）——自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档
-- **邮件切入句（英文）**：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files.
+- **邮件切入句（英文）**：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
 
@@ -268,7 +269,7 @@ updated: 2026-10-24
 ```text
 Hello,
 
-Picking up our earlier exchange about PoE / industrial switches. For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the Marvell-based 4-port gigabit PoE+ with SFP and the gigabit media converter in DNC packing, EXW, with CE/RoHS files.
+Picking up our earlier exchange about PoE / industrial switches. For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files.
 
 We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your DNC MC-10100G 等 MC at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

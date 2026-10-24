@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：HCS Kablolama Sistemleri（HES Cabling Systems）：土耳其最大电缆制造商 HES Hacılar Elektrik 为本地 LAN 市场创立的结构化布线品牌（2000-11-22 成立；51–200 人；铜缆/光缆布线系统、CPR 认证；İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a Başakşehir；+90 212 438 25 75；info@hescs.com）。ISAF 记录：Cihat Tunçbilek（Product & Product Development Manager，2015 年起在 HCS）——找商业级 PoE 交换机，问是否带 L2/L3；无后续跟进。品牌方补有源产品 → OEM 30%。（调研 2026-10-21；表内兴趣：找商业级POE交换机 问是否带L2/L3）
 - **为什么是 A 级**：**调研后定级 A**（B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进）；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；锚价：STC-424DGGPM-280W 145,7（OEM 30% 档）/ STC-424XGGM(L3) 291,5（25% 档，≤ PDF 295）（第 72 批 2026-10-24）；—
+- **第一问（只问一个）**：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 - **最大未知**：年走量与现供应商
-- **下一步**：— — 不主动
+- **下一步**：待 Simon 排期（首封；ISAF 续） A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：仓库无邮件。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（25% 档，—）———
-- **下一步（具体）**：—　—　不主动
+- **Saga 现在该推什么**：P1 **—**（25% 档，锚价：STC-424DGGPM-280W 145,7（OEM 30% 档）/ STC-424XGGM(L3) 291,5（25% 档，≤ PDF 295）（第 72 批 2026-10-24）；—）———
+- **下一步（具体）**：待 Simon 排期（首封；ISAF 续）　A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

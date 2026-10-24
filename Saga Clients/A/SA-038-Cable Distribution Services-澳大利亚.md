@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：西澳珀斯的电缆与电缆附件库存分销商（1999 年成立，11–50 人，营收口径 $4.7M–$39M），服务矿业、油气、通信、泵送排水等行业，有光纤与数据线缆类目。用户表：2 次实质回复，WhatsApp 已加，兴趣 1 光 4 电工业 PoE，比较过中科德能和 Ewind，问了价格。（调研 2026-10-21；表内兴趣：1光4电POE工业级 看了中科德能和Ewind的 有意向，问了价格 2015年使用国际站）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 21 次（2024-04-29 → 2025-10-29）；最近一次客户回复：2024-11-19：1121email发了8电口
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；锚价：STI-144GP $34.1（20% 档；无实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：— — 不主动
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：首日打开两次之后 27 封无动静。
 - **对方真实需求（有据）**：1 光 4 电工业 PoE。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：—　—　不主动
+- **Saga 现在该推什么**：P1 **STI-144GP**（20% 档，锚价：STI-144GP $34.1（20% 档；无实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——已打开的主题（2/28 封有打开记录）：「CCTV poe switch」(2024-06-21)、「Optional Marvell Chipset Solutions」(2025-11-19) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱（用户表称实质回复在 WhatsApp → 由 Simon 决定走 WA）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+  - 第一问（只问一个）：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have. Is that project still open? Reference: STI-144GP at $34.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -132,7 +133,7 @@ updated: 2026-10-24
   - 光纤端接自有工厂 + 矿业客户——1 光 4 电工业 PoE 是其光纤方案的自然配套（2026-10-21）
 - **风险/边界**：澳洲 RCM 合规（Saga 无 RCM，需说明 CE 等效或客户自认）；矿业场景可能要求更高防护
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——明确需求 1 光 4 电工业 PoE → STI-144GP（EXW $35.5 @25%，分销 20% 档更低）；比价对象为同行低价品，用 Marvell 平台 + 一致性说话
-- **邮件切入句（英文）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.
+- **邮件切入句（英文）**：For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have.
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -306,7 +307,7 @@ updated: 2026-10-24
 ```text
 Hi Ross,
 
-Picking up our earlier exchange about PoE / industrial switches. For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the Marvell-based 4-port gigabit PoE + 1 SFP DIN switch at EXW, with the datasheet so you can line it up against the two quotes you already have.
+Picking up our earlier exchange about PoE / industrial switches. For the 1-fibre 4-copper industrial PoE unit you were pricing, here is the 4-port gigabit PoE + 1 SFP DIN switch (STI-144GP) at EXW, with the datasheet so you can line it up against the two quotes you already have.
 
 We supply a Marvell-based compact industrial switch, 4x Gigabit PoE+ plus 1 SFP - model STI-144GP - that fits the same slot as your 中科德能 / Ewind（比价中） 1 光 4 电 PoE 工业交换机 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

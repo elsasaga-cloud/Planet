@@ -136,16 +136,16 @@
     "saga_now": {
       "p1": "—",
       "tier": 20,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
+      "price": "锚价：STC-28DGGPM $80.7（20% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）",
       "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "—",
-      "channel": "—",
-      "action": "不主动",
-      "one_question": ""
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "LinkedIn Pasquale Pirozzi / 4power.it 表单（无邮箱）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "You are PLANET's official Italian distributor and you also run your own 4Net networking brand, so you already know what Taiwan-grade PoE switches cost and what Italian installers accept. For the 4Net brand, do you source PoE switches as finished goods under your label today, or only resell PLANET as-is? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [],
     "proof_gaps": [

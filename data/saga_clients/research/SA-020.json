@@ -130,16 +130,16 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
+      "price": "锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）",
       "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "—",
-      "channel": "—",
-      "action": "移出群发或换联系人",
-      "one_question": ""
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → WIDEN 具名 KP 待找（27 封 0 回，建议换联系人）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [],
     "proof_gaps": [

@@ -151,16 +151,16 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "—",
+      "price": "锚价：STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—",
       "why": "—",
       "repeat": [],
       "gaps": []
     },
     "next_move": {
-      "when": "—",
-      "channel": "—",
-      "action": "不主动",
-      "one_question": ""
+      "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
+      "channel": "A 邮箱 → AE Connect 具名 KP 待找（用户表 3 次回复渠道不明）",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "one_question": "Your AE-PS8082SFT-M and AE-PS242SFT-M are the two footprints where a Marvell-based second source in AE Connect packing drops in without datasheet changes, so I am quoting both EXW with the industrial 8-port PoE + SFP model as the third line. Which of the two footprints would you second-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

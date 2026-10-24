@@ -35,10 +35,10 @@ updated: 2026-10-24
 - **是谁**：已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1334.json（调研 2026-10-22；表内兴趣：商用 PoE 交换机（2023-10 一单 80 台，USD 260 样品级））
 - **为什么是 B 级**：**调研后定级 B**（PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常；—
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常；STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—
+- **第一问（只问一个）**：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：2027-Q1（非主攻区，顺带一问；不投入） A 邮箱 → office@fastball.in（Rishi Kumar Bansal） 一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：Rishi 2023-09 写来一封「正式确认拿下印度市场，请出具授权分销证书」的信；Saga 没有签。10 月他买了 80 支光纤清洁笔。此后两年无往来。
 - **对方真实需求（有据）**：授权分销身份（而非产品）。
 - **断点 / 为什么停在这里**：授权诉求 vs Saga 不做区域授权。
-- **Saga 现在该推什么**：P1 **无**（20% 档，—）———｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常
-- **下一步（具体）**：不动　—　—
+- **Saga 现在该推什么**：P1 **无**（20% 档，STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—）———｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常
+- **下一步（具体）**：2027-Q1（非主攻区，顺带一问；不投入）　A 邮箱 → office@fastball.in（Rishi Kumar Bansal）　一问：IndiaMART 上的 FBC-204GP 列表是不是在卖我方 STC-204GP（有则给现价，无则不再发）
+  - 第一问（只问一个）：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
