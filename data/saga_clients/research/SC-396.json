@@ -84,7 +84,7 @@
     "need": "光纤接入侧的交换/汇聚：10G SFP+ 口能否 2.5G、SFP+ 供电、程序化管理接口（REST/JSON）、快速样机；更早的问题是「能否定制设计」。",
     "breakpoint": "2026-01-22 的答复：一个 NO + 一个未兑现的 Q2 承诺；之后 9 个月没人交代。",
     "saga_now": {
-      "p1": "2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；全线无 2.5G 铜口",
+      "p1": "2.5G 问题的正确答案：Marvell AC5 线的 SFP+ 笼子本来就是 1G/2.5G/10G（STC-424XGGM、STI-480XGGM 等），DG 型号的 SFP 是 1G/2.5G——他问的「10G SFP+ 能否跑 2.5G」在 AC5 线上是 YES，Alan 的「NO」只对 CENTEC STH10G 成立；AC5 线无 2.5G 铜口；CENTEC VastLakes 表有 24/48 口 2.5G/5G/10G Multi-Gig 铜口（含 PoE++，无价）——收尾信第 2 点可带一句",
       "tier": "OEM 30%（品牌商定制）",
       "price": "STC-424XGGM $143 / STI-480XGGM $253 EXW（主表 @6.69）；2026-08-10 推过 24 口 PoE $170",
       "why": "对外统一口径（#2/#15/#12）：2026-01-22 的「1, NO」只对 CENTEC STH10G 对；AC5 线 SFP+ = 1G/2.5G/10G（主表规格栏），这一点要补上。STOS V2.4 只有「RPC-API management」，无 REST/JSON——2026-01-22 的 Q2 承诺要主动收尾，写法「the programmable interface shipped as an RPC-based API, not REST/JSON; I will not dress it up」；巨头规则 C 不动（Q-55 默认），只发一封｜已发资料（勿重发）：Saga Software Function List-release 7.3.0(2025-03-24)、STI-488XGGPM.pdf(2025-04-23)、BigFlow V2.1 / STH10G Series / Function List V2.4(2026-01-22)",
@@ -154,7 +154,7 @@
     ],
     "draft_en": {
       "subject": "Re: OEM Core Switching Solution — closing two loops from January",
-      "body": "Hello Mark,\n\nTwo things from my January reply that I owe you a straight update on.\n\n1. The management interface: I wrote that a RESTful API with JSON would be available in Q2. What shipped in the 2026/Q2 software is an RPC-based management API plus SNMP v3 and CLI — not REST/JSON. Please do not plan on REST from our side; I would rather say so than let the Q2 line stand.\n\n2. 2.5G on SFP+: my \"NO\" was correct only for the CENTEC STH10G. On our Marvell AC5 line the SFP+ cages run at 1G/2.5G/10G (for example 24 x GbE + 4 x SFP+, or the industrial 8 x GbE + 4 x SFP+ at -40 to +75 C), and the DG models carry 1G/2.5G SFP. I should have said that in January. Copper ports on that line are 1G.\n\nOne question: what is the application behind the 2.5G requirement — ONT/CPE uplinks, or something else? That tells me whether a sample (3-5 working days) is worth your time.\n\nThank you.\nAlan"
+      "body": "Hello Mark,\n\nTwo things from my January reply that I owe you a straight update on.\n\n1. The management interface: I wrote that a RESTful API with JSON would be available in Q2. What shipped in the 2026/Q2 software is an RPC-based management API plus SNMP v3 and CLI — not REST/JSON. Please do not plan on REST from our side; I would rather say so than let the Q2 line stand.\n\n2. 2.5G on SFP+: my \"NO\" was correct only for the CENTEC STH10G. On our Marvell AC5 line the SFP+ cages run at 1G/2.5G/10G (for example 24 x GbE + 4 x SFP+, or the industrial 8 x GbE + 4 x SFP+ at -40 to +75 C), and the DG models carry 1G/2.5G SFP. I should have said that in January. Copper ports on that line are 1G; if the requirement is multi-gig copper, that sits on the CENTEC line (24/48 x 2.5G/5G/10G Base-T, with or without PoE++, commercial temperature).\n\nOne question: what is the application behind the 2.5G requirement — ONT/CPE uplinks, or something else? That tells me whether a sample (3-5 working days) is worth your time.\n\nThank you.\nAlan"
     }
   }
 }

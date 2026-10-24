@@ -96,7 +96,7 @@
       "p1": "STC-28DGGPM",
       "tier": 25,
       "price": "按主表（研究档 saga_fit）",
-      "why": "RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：全主表无 2.5G 铜口（DG = 2.5G 光口）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口",
+      "why": "RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：全主表无 2.5G 铜口（DG = 2.5G 光口）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口｜第 53 批：CENTEC 表最小多千兆铜口 PoE++ 机型是 STH-8DX8XP16DP-HSI（16×2.5G PoE++ + 8×10G mGig PoE++ + 8×25G），没有 8 口小机——他的 8 口需求两条线都没有，直说",
       "repeat": [],
       "gaps": []
     },
@@ -104,7 +104,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱",
       "action": "首封：按 email_hook 一问",
-      "one_question": "Giovanni, regarding your 8 × 2.5G + 4 × 10G SFP+ requirement for AV installations: a straight answer — our Marvell line has 2.5G only on SFP/SFP+ cages (e.g. 8-GE PoE + 4 × 1G/2.5G SFP; 24-GE + 4 × 1G/2.5G/10G SFP+), no 2.5G copper ports, with IGMP for AV-over-IP from single units, CE/RoHS, EXW USD — would 1G copper access with 2.5G/10G fiber uplinks still fit, or is 2.5G copper mandatory?"
+      "one_question": "Giovanni, regarding your 8 x 2.5G + 4 x 10G SFP+ requirement for AV installations, a straight answer: our Marvell line has 2.5G only on the SFP/SFP+ cages (e.g. 8-GE PoE + 4 x 1G/2.5G SFP; 24-GE + 4 x 1G/2.5G/10G SFP+), copper access is 1G; multi-gig copper exists only on our CENTEC rack line and starts at 16 x 2.5G PoE++ + 8 x 10G multi-gig (no 8-port unit). IGMP for AV-over-IP on both, CE/RoHS, EXW USD — would 1G copper access with 2.5G/10G fiber uplinks still fit, or is 2.5G copper at 8 ports mandatory?"
     },
     "facts": [
       {

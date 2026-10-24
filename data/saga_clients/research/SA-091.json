@@ -133,7 +133,7 @@
     "need": "8×10G 电口（+2/4 SFP+）小型交换机；10G MC；项目型小批量。",
     "breakpoint": "群发推的是 Marvell 24 口光聚合，他要的是 8 口 10G 电——仓库有对位品（Realtek 线）但没人查。",
     "saga_now": {
-      "p1": "STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定）",
+      "p1": "STC-08XGE（8×10G RJ45 非管理，Saga 对外价 $181.5 USD EXW，`data/hrui_STC对照表.csv`；Realtek 线是否对美国客户开 → Simon 定）｜管理型最小 10G 铜：CENTEC STH-2C24XE-HSI（24×10G mGig + 2×100G，2026-07 现货锚 $1,700）",
       "tier": 25,
       "price": "$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）",
       "why": "U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
@@ -202,7 +202,7 @@
     "proof_gaps": [],
     "draft_en": {
       "subject": "Re: 8-port 10G copper — unmanaged unit available",
-      "body": "Hi, Nate,\n\nIn April 2025 you asked for a small 8x 10GBASE-T switch and we said \"not on the list\"; in September we quoted the 24-SFP unit instead, which was not what you asked for.\n\nWe do have an unmanaged 8x 10GBASE-T rack unit (AC input, backward compatible to 1G/2.5G/5G): $181.5 USD EXW (2026-10 price table, valid 15 days from this mail).\n\nOne question: for your San Antonio projects, does an unmanaged 8x 10GBASE-T solve the 10G need, or must it be managed with SFP+ uplinks?\n\nThank you.\nAlan"
+      "body": "Hi, Nate,\n\nIn April 2025 you asked for a small 8x 10GBASE-T switch and we said \"not on the list\"; in September we quoted the 24-SFP unit instead, which was not what you asked for.\n\nWe do have an unmanaged 8x 10GBASE-T rack unit (AC input, backward compatible to 1G/2.5G/5G): $181.5 USD EXW (2026-10 price table, valid 15 days from this mail).\n\nIf it must be managed: the smallest managed 10GBASE-T unit we have is 24 x 10G multi-gig copper + 2 x 100G on the CENTEC line (quoted ex-stock at $1,700 USD in July 2026 to another customer; price re-confirmed on order).\n\nOne question: for your San Antonio projects, does an unmanaged 8x 10GBASE-T solve the 10G need, or must it be managed with SFP+ uplinks?\n\nThank you.\nAlan"
     },
     "as_of": "2026-10-24"
   }
