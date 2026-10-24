@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.net（官网，经 Mikrotik A-462 记录），无具名；体量中小（伊斯坦布尔），可赢；区域土耳其（T05 入池）；Mikrotik A-462 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：Saga 表内本条 SC-329（土耳其）自动评 C（原因：；Saga 群发已推送 2 次无回复）。（调研 2026-10-21；表内兴趣：主要是CCTV类产品 有源无源）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-041 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-10-05 $180（24 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2026-10-05 $180（24 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.n
 - **对方真实需求（有据）**：对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：
 - **断点 / 为什么停在这里**：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-10-05 $180（24 Port PoE Managed Switch））——对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2026-10-05 $180（24 Port PoE Managed Switch））——对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

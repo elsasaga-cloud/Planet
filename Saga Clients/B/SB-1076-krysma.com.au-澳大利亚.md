@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：澳大利亚 Krysma（工业 FS、工业 MC 产品较少，多为 AOA 周边产品；「可以多跟进一下」；官网 http_error）；群发 24 次无回复。（调研 2026-10-21；表内兴趣：工业FS 工业MC 产品比较少 很多是周边产品 AOA的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 24 次无任何回复（聋名单）
 - **历史互动**：推送 24 次（2024-02-15 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-03 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-03 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Alongside the AOA industrial products you carry, we supply neutral-brand DIN-rail gigabit/Fast Ethernet MCs and 8-GE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which MC configuration do your customers order most?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：澳大利亚 Krysma（工业 FS、工业 MC 产品较少，多为 AOA 周边产品；「可以多跟进一下」；官网 http_error）；群发 24 次无回复。
 - **对方真实需求（有据）**：工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚；RCM 由客户侧）；产品少、周边为主；官网 http_error；24 次无回复，仅 sales@
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-03 $300（48 Port PoE Managed Switch））——工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-03 $300（48 Port PoE Managed Switch））——工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Alongside the AOA industrial products you carry, we supply neutral-brand DIN-rail gigabit/Fast Ethernet MCs and 8-GE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which MC configuration do your customers order most?
 

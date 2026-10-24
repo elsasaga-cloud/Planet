@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：伊斯坦布尔 Sancaktepe 的安防电子制造商与分销商 EDS Elektronik（1990-02 成立；产品线 CCTV、控制系统、火灾探测、入侵报警、门禁、自动化、环境监测、电力电子；研发-生产-进出口-分销-售后一体；100% 本土；出口 35+ 国；60+ 员工、10+ 工程师，5,000 m² 工厂；LinkedIn 51–200；RocketReach 63 人、$22.5M；2019 年 Ar-Ge 中心；总经理/联合创始人 Osman Yıldız（ITÜ 电子，1991 年起）；进出口经理 Gülnihal Özdemir Yılmaz；Meclis Mah. Teraziler Cad. Hayran Sok. No:4 Sancaktepe；+90 216 528 45 00；eds@eds.com.tr）。ISAF 记录：以前的客户，坐了一下、拿了 catalogue 就走；联系人 Osman Yıldız（GM）/ Münevver Acarer（import）；WhatsApp 加不上；2 次跟进。制造商自有品牌 → OEM 30%；复购导向。（调研 2026-10-21；表内兴趣：以前的客户，坐了一下，拿了catalogue就走）
 - **为什么是 A 级**：**调研后定级 A**（B→A：用户表注明「以前的客户」（有成交史，复购优先）；本土安防电子制造商 + 分销商（1990 年成立，Sancaktepe 5,000 m² 工厂，60+ 员工/10+ 工程师，营收口径 $22.5M，出口 35 国，2019 年起 Ar-Ge 中心资质）；总经理 Osman Yıldız 直接可达——值得长期跟进）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-29 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：— — 不主动
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：12 封 0 打开。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch））———
+- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-08 $65（10G media converter）、2024-11-13 $300（48 Port PoE Managed Switch））———
 - **下一步（具体）**：—　—　不主动
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

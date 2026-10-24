@@ -125,7 +125,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-01 $65（10G fiber media converter）、2024-07-26 $220（48 port managed switch）、2024-08-15 $220（48 port managed switch）、2024-09-10 $65（10G Media Converter）、2025-01-02 $240（24 Port Fiber Switch）、2025-01-16 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-01 $65（10G fiber media converter）、2024-07-26 $220（48 port managed switch）、2024-08-15 $220（48 port managed switch）、2024-09-10 $65（10G Media Converter）、2025-01-02 $240（24 Port Fiber Switch）、2025-01-16 $240（24 Port Fiber Switch）",
       "why": "自有 AN-SXGM12P8S（8 PoE + 2 SFP + 2 GE 管理）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Amatek 标；AN-SXGM6P4 ↔ STI-144GP/STC-204GP 位；云管理 AN-SW10P8 = Saga 不做云。已打开的主题（1/46 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []

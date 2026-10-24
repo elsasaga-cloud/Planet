@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。（调研 2026-10-21；表内兴趣：ONV的工业FS 带了自己的标）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-13 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-10-08 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-10-08 $65（10G Media Converter）
 - **第一问（只问一个）**：For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：美国网络方案 / 品牌 Nexxus（switch 157 / industrial 80），info@；表内「ONV 的工业 FS 带了自己的标」；群发 18 次无回复。自有标（ONV 代工）→ OEM 30%。
 - **对方真实需求（有据）**：替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。
 - **断点 / 为什么停在这里**：美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明
-- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-10-08 $65（10G Media Converter））——替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-10-08 $65（10G Media Converter））——替换 ONV 工业 2 光 8 PoE → STI-288GP（$62.2 @30%）贴 Nexxus 标。已打开的主题（1/31 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-18) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：For the Nexxus-labelled industrial switches (ONV-built today) — like-for-like 2-SFP + 8-PoE DIN units, plus a Marvell managed version, under your label from small lots; send me the ONV part number and I'll quote it directly.
 

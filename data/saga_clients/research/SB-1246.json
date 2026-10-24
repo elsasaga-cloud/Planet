@@ -176,7 +176,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2026-10-05 $180（24 Port PoE Managed Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2026-10-05 $180（24 Port PoE Managed Switch）",
       "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需。已打开的主题（1/3 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-20) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

@@ -90,7 +90,7 @@
     "saga_now": {
       "p1": "STI-050GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-10-11 $65（10G Media Converter）、2024-11-06 $300（48 Port PoE Managed Switch）",
       "why": "批发 20% 档：STI-050GE（DIN 迷你 5 GE，DC 12–36 V，$17.0）与 STI-144GP（4 PoE + 1 SFP，$34.1）作电气批发白牌 SKU；管理型 STI-280DGGM（$125.6）供光伏/智慧城市柜。已打开的主题（2/17 封有打开记录）：「24 Port Fiber Switch」(2025-03-17)、「Industrial PoE Switch」(2025-07-30) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

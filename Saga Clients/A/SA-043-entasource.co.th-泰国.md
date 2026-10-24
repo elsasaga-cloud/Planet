@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。（调研 2026-10-21；表内兴趣：工业FS SFP MC 机架 光猫 自己的标   中科德能的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-06-16 → 2025-06-16）；最近一次客户回复：2025-06-16：2+24非管理
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无（缺口） — 有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无（缺口） — 有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Janejira 问 24×GE + 2 SFP 非管理机架、48 VDC 输入；Alan 答只有 AC 版（PoE / 非 PoE 各一）。无回。
 - **对方真实需求（有据）**：48 VDC 商用 24 口非管理。
 - **断点 / 为什么停在这里**：电源规格缺口（DC 输入商用机）。
-- **Saga 现在该推什么**：P1 **无（缺口）**（20% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch））——有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **无（缺口）**（20% 档，—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-23 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch））——有货再说。已打开的主题（2/21 封有打开记录）：「Commercial PoE Switch」(2025-06-16)、「Re: Commercial PoE Switch」(2025-06-16) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
   - 做不了 / 要先核的：HRUI 是否有 DC48V 输入 24 口商用非管理——查索引
 - **下一步（具体）**：不动　—　—
 

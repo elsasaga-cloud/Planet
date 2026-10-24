@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。（调研 2026-10-21；表内兴趣：VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标  合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-14 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-14 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Telkolink Kurumsal Bilgi Teknolojileri（IT 产品供应商：PoE 交换机 / 网络设备 / 光纤系统 / RF 线缆 / 结构化布线 / 工业自动化产品，站内 Katalog PDF；表内「VC 刷了自己的标，合作很密切：FS、机架、MC、SFP 模块；还有三旺、TG-NET、一家台湾公司；在用 CLR（深圳）的 VC；整体外观一般」；KP Yusuf Olcer（Sales Manager））；群发 2 次无回复。
 - **对方真实需求（有据）**：已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）
 - **断点 / 为什么停在这里**：现有多源（CLR / 3onedata / TG-NET / 台湾厂）价格基准低
-- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-14 $300（48 Port PoE Managed Switch））——已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-14 $300（48 Port PoE Managed Switch））——已给 VC 贴自有标、FS 走 3onedata/TG-NET → 自有标工业 PoE 管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、商用位 STC-28DGGPM（$87.4）；MC 位 STI-110GE；SFP/机架 Saga 价目无（Q-32）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Yusuf, since Telkolink already carries its own label on converters, we can add Marvell-based industrial 8-PoE + 2 SFP managed and commercial 8-PoE + 2 SFP L2+ switches under the same label from small lots — which of the two lines would you want a sample quote on first?
 

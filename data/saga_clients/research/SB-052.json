@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STC-028GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-08 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）、2025-01-31 $240（24 Port Fiber Switch）",
       "why": "OEM 30% 档：STC-028GP（Saga Realtek 线，2 GE 上联 + 8 GE PoE 非管理 120W，列表 $24.2）与 STC-08GE（$10.5）贴 ADDON 标；管理型 STC-28DGGPM 作高端 SKU。已打开的主题（1/27 封有打开记录）：「Web managed switch」(2024-09-03) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []

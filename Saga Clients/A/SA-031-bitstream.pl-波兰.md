@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。（调研 2026-10-21；表内兴趣：自己的牌子 工业FS SFP MC 一些其他产品 有人卖他们的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-01-30 → 2025-01-30）；最近一次客户回复：2025-01-30：INFO
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-110GE（非管理工业 / MC） — 换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；按 30%；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-22 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-110GE（非管理工业 / MC） — 换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；按 30%；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-22 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 A 邮箱 → tjargielo@ / ahyz@ 一句话问其外采的非核心 SKU
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：Katarzyna（管理层助理）2025-01-30 问「What is the price?」，Alan 报 STI-288DGGPM-2BT 140 USD 并说明 Marvell、有 L3 版；无回。2026-08 发给生产技术员 Aleksander Hyz 得到休假回复（备用联系人 Tomasz Jargieło）。
 - **对方真实需求（有据）**：工业 L2+ PoE（bt）——但 BitStream 自研线覆盖此段。
 - **断点 / 为什么停在这里**：同业型品牌商：Saga 的管理型正是其自研段；只有非核心 SKU 有空间。
-- **Saga 现在该推什么**：P1 **STI-244GP / STI-110GE（非管理工业 / MC）**（30% 档，按 30%；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-22 $300（48 Port PoE Managed Switch））——换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
+- **Saga 现在该推什么**：P1 **STI-244GP / STI-110GE（非管理工业 / MC）**（30% 档，按 30%；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-22 $300（48 Port PoE Managed Switch））——换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
 - **下一步（具体）**：2027-Q1　A 邮箱 → tjargielo@ / ahyz@　一句话问其外采的非核心 SKU
   - 第一问（只问一个）：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would a Marvell-based unmanaged line be considered?
 

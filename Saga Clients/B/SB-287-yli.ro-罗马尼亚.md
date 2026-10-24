@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：罗马尼亚门禁系统分销商（控制器、读卡器、电磁锁、电源、酒店锁；Dahua、ZKTeco；poe 350 / switch 192 / sfp 116），安防系统工程师 Andreea Toderici；表内「基本都是 UTEPO 的」；群发 18 次无回复。小国名单但表内已有。（调研 2026-10-21；表内兴趣：基本都是Utepo的；有Utepo的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-02-14 → 2025-10-08）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-12 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-12 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Andreea, beside the UTEPO switches you carry — Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW; a 1+1 sample to compare on your access-control sites?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：罗马尼亚门禁系统分销商（控制器、读卡器、电磁锁、电源、酒店锁；Dahua、ZKTeco；poe 350 / switch 192 / sfp 116），安防系统工程师 Andreea Toderici；表内「基本都是 UTEPO 的」；群发 18 次无回复。小国名单但表内已有。
 - **对方真实需求（有据）**：对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。
 - **断点 / 为什么停在这里**：小国；18 次群发无回复
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-12 $300（48 Port PoE Managed Switch））——对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-12 $300（48 Port PoE Managed Switch））——对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）；工业 STI-288GP。
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Andreea, beside the UTEPO switches you carry — Marvell L2+ 8-PoE + 2-SFP at $81 and DIN industrial 8-PoE at $57 EXW; a 1+1 sample to compare on your access-control sites?
 

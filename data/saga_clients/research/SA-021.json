@@ -125,7 +125,7 @@
     "saga_now": {
       "p1": "STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP",
       "tier": 30,
-      "price": "按 30% 自有标档复核对外价；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）",
+      "price": "按 30% 自有标档复核对外价；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）",
       "why": "只保活。已打开的主题（8/26 封有打开记录）：「8 Port Ethernet Switch」(2024-10-24)、「90W PoE Managed Switch」(2025-02-20)、「16 Port Ethernet Switch」(2025-07-28)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「2.5G」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []

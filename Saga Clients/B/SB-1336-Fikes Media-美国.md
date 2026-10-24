@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。（调研 2026-10-22；表内兴趣：24 口 PoE L2+（STC-424XGGPM-280W）的 OEM 定制 + 控制器 API 集成（REST/SNMP/CLI 待明确））
 - **为什么是 B 级**：**调研后定级 B**（具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B）；自动分级 B：+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 美国 + 主动；$180（2026-10 对同类客户报价）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 美国 + 主动；$180（2026-10 对同类客户报价）；**价表版本**：STC-424XGGPM-280W 2026-06-22 新表 $198，2026-09 对 Fikes 报的 $180 是老价——后续报价沿用 $180 还是回到 $198 由 Simon 定，别无解释地涨（口径 #20）
 - **第一问（只问一个）**：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI + MQTT status publish (firmware 7.5) today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发） S 邮箱 → cfikes@fikesmedia.com（同一线程） 一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：新线索（3 周前），技术诉求明确。
 - **对方真实需求（有据）**：24 口 PoE + 10G 上联，可 API 集成。
 - **断点 / 为什么停在这里**：API 期望。
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，$180（2026-10 对同类客户报价））——美国 + 主动
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（25% 档，$180（2026-10 对同类客户报价）；**价表版本**：STC-424XGGPM-280W 2026-06-22 新表 $198，2026-09 对 Fikes 报的 $180 是老价——后续报价沿用 $180 还是回到 $198 由 Simon 定，别无解释地涨（口径 #20））——美国 + 主动
   - 做不了 / 要先核的：他的控制器是什么
 - **下一步（具体）**：2026-11 上旬（距 10-19 催信 ≥2 周后；本周不发）　S 邮箱 → cfikes@fikesmedia.com（同一线程）　一句话补上 10-04 没说死的边界：集成 = SNMP v2/v3 + SSH/CLI 脚本，无 REST/云控制器；问他的控制器是哪个，再决定要不要寄 2 台样
   - 第一问（只问一个）：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI + MQTT status publish (firmware 7.5) today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.

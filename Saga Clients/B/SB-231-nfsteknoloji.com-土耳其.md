@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 NFS Teknoloji（安防系统集成商与项目公司的方案伙伴：Hanwha Techwin / Pelco / ONIONE IP CCTV / SURENIX（SRX-4GS24PP 24 口 PoE 交换机）；8/16 口 PoE、SFP 模块产品页；表内「PoE 配件，Utepo 的」；KP Hasan Başarır（Teknik Sorumlu，hasan.basarir@））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：POE配件 Utepo的）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-27）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-19 $300（48 port poe managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-19 $300（48 port poe managed switch）
 - **第一问（只问一个）**：Hasan, for the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 NFS Teknoloji（安防系统集成商与项目公司的方案伙伴：Hanwha Techwin / Pelco / ONIONE IP CCTV / SURENIX（SRX-4GS24PP 24 口 PoE 交换机）；8/16 口 PoE、SFP 模块产品页；表内「PoE 配件，Utepo 的」；KP Hasan Başarır（Teknik Sorumlu，hasan.basarir@））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）
 - **断点 / 为什么停在这里**：土耳其：汇率敏感；现 Utepo/深圳代工价格基准低
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-19 $300（48 port poe managed switch））——SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-19 $300（48 port poe managed switch））——SURENIX 标 24 口 PoE（SRX-4GS24PP）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴标；8/16 口位 STC-28DGGPM / STC-2216GPM（HRUI 列表价）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Hasan, for the SURENIX-labelled PoE switches (SRX-4GS24PP and the 8/16-port models), we can be a second source on a Marvell L2+ platform (24-PoE + 4 SFP, 8-PoE + 2 SFP) from small lots in your packaging, CE/RoHS, EXW USD — which port count do your Hanwha projects use most?
 

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。（调研 2026-10-21；表内兴趣：Switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-06-05：芯片是啥
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 — 用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按 CENTEC 价表；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-19 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 — 用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按 CENTEC 价表；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-19 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → afonin@npotelecom.ru CENTEC 表 + 身份说明
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：CENTEC/Microchip 平台交换机（自有产品线对标）。
 - **断点 / 为什么停在这里**：身份回答。
-- **Saga 现在该推什么**：P1 **STH 系列**（30% 档，按 CENTEC 价表；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-19 $300（48 Port PoE Managed Switch））——用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STH 系列**（30% 档，按 CENTEC 价表；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-19 $300（48 Port PoE Managed Switch））——用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → afonin@npotelecom.ru　CENTEC 表 + 身份说明
   - 第一问（只问一个）：Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?
 

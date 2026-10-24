@@ -92,7 +92,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-11-06 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-11-06 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）",
       "why": "工业 2 光 8 管理 PoE = STI-288GPM（$82.2 @25%，L2）；商用 2 光 24 电 → STC-424DGGPM-280W（L2+）/ L3 版 STC-424XGGM(L3)。",
       "repeat": [],
       "gaps": []

@@ -129,7 +129,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-13 $220（48 port managed switch）、2025-01-21 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-13 $220（48 port managed switch）、2025-01-21 $240（24 Port Fiber Switch）",
       "why": "自有 Lysora 云管理 PoE（8/16/24 口，Itoonertech 代工迹象）→ Saga 对位非云 L2+：STC-424DGGPM-280W（$145.7 @30%）/ STC-28DGGPM；Saga 无云管理 = 只能做本地管理版",
       "repeat": [],
       "gaps": []

@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：格鲁吉亚第比利斯分销商 Intellcom Group（官网格鲁吉亚语：供电 / 安防系统 / LAN & WAN / 光网络 / 音视频 / 存储；站内 MikroTik CSS610-8P-2S、Ubiquiti、Uniview；PoE 词频 816；表内「MC、Switch 等」，KP Ekvtime Kheredinashvili（Head of Product Management）+ Samson Khaduri（Head of Procurement），有 1 次回复）。（调研 2026-10-21；表内兴趣：MC Switch等）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-06-12 → 2025-06-12）；最近一次客户回复：2025-06-12：有啥事?
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/22 封有打开记录）：「Re: Managed Optical Bypass Switch [#29」(2025-06-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-24 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2024-12-17 $240（24 Port Fiber Switch）、2026-10-09 $180（24 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/22 封有打开记录）：「Re: Managed Optical Bypass Switch [#29」(2025-06-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-24 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2024-12-17 $240（24 Port Fiber Switch）、2026-10-09 $180（24 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-24 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2024-12-17 $240（24 Port Fiber Switch）、2026-10-09 $180（24 Port PoE Managed Switch））——已打开的主题（1/22 封有打开记录）：「Re: Managed Optical Bypass Switch [#29」(2025-06-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-24 $65（10G Media Converter）、2024-11-01 $300（48 Port PoE Managed Switch）、2024-12-17 $240（24 Port Fiber Switch）、2026-10-09 $180（24 Port PoE Managed Switch））——已打开的主题（1/22 封有打开记录）：「Re: Managed Optical Bypass Switch [#29」(2025-06-12) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）

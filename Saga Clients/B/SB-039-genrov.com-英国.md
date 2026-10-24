@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：英国东北部的一人 ROV（水下遥控机器人）技术服务公司（2009-05 成立，公司号 06899120，董事/唯一股东 Michael Dickinson）：ROV 监督/技师派遣、定制工装、系统排故与审计、翻新升级、培训。交换机需求源于 ROV 系统（甲板/水下电子舱的工业以太网/光纤链路），属项目型一次性采购。用户表：1 次实质回复，16 次跟进。（调研 2026-10-21；表内兴趣：SFP）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 16 次（2024-06-16 → 2025-10-29）；最近一次客户回复：2024-06-16：DS  24号问feedback无回复
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：—
 - **对方真实需求（有据）**：4 口工业 PoE。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch））——已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（25% 档，—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-14 $65（10G fiber media converter）、2024-11-20 $300（48 Port PoE Managed Switch））——已打开的主题（4/23 封有打开记录）：「Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-16)、「Re: Industrial PoE Switch」(2024-06-24)、「24 Port Fiber Switch」(2025-09-15) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

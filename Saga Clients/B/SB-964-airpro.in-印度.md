@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：印度 AirPro（自有品牌有线/无线网络产品，自称有内部研发：WLAN AP / 控制器 / PoE 交换机 AP-ES108P-2GE、AP-ES106P、工业 AP-IGS9014P、注入器 AP-PX411；表内「PoE / MC / SFP 自己的标，没啥工业品」「比较重要 Deepak」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：其他；POE MC SFP 自己的标 没啥工业品）
 - **为什么是 B 级**：+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/22 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-17 $220（48 port managed switch）、2024-12-13 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/22 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-17 $220（48 port managed switch）、2024-12-13 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-17 $220（48 port managed switch）、2024-12-13 $240（24 Port Fiber Switch））——已打开的主题（2/22 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-17 $220（48 port managed switch）、2024-12-13 $240（24 Port Fiber Switch））——已打开的主题（2/22 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-04)、「8 Port Industrial PoE Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 ## 基本事实（事实/推断/假设分层）

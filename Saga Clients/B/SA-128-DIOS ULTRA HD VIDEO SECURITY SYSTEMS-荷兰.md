@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：荷兰超高清视频安防公司，WA 在线，1 次回复、16 次跟进。（调研 2026-10-21；表内兴趣：公司业务：Ultra HD Video）
 - **为什么是 B 级**：**调研后定级 B**（欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 16 次（2024-05-10 → 2025-10-06）；最近一次客户回复：2025-03-05：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STI-288DGGPM — 一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25% 集成档；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-04 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STI-288DGGPM — 一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25% 集成档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-04 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → j.slob@ 问价表里哪一款进过选型、输在哪
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：Jacco（CEO）2025-03-05 上午要价表，Alan 给了两个 Google Drive 链接并强调「we are focusing on Marvell」，Jacco 下午问「where can i find prices?」，Alan 再发两份价表附件。此后无回。
 - **对方真实需求（有据）**：8 口工业 PoE（户外摄像机）价格。
 - **断点 / 为什么停在这里**：价表给了就结束——价表式回复没有带一个问题；A 邮箱 2026-10-24 新增线程里 DIOS 也只出现这一次。
-- **Saga 现在该推什么**：P1 **STC-28DGGPM / STI-288DGGPM**（25% 档，按 25% 集成档；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-04 $300（48 Port PoE Managed Switch））——一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM / STI-288DGGPM**（25% 档，按 25% 集成档；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-04 $300（48 Port PoE Managed Switch））——一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
 - **下一步（具体）**：2026-11　A 邮箱 → j.slob@　问价表里哪一款进过选型、输在哪
   - 第一问（只问一个）：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
 

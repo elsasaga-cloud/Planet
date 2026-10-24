@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：伦敦西部 Hanwell 的安防/消防系统安装与维护商（Tel-Cam Security System Ltd 2000-09 注册，SIC 47429 电信设备零售 + 61900；Telcam Fire & Security Ltd 2020-01 注册，SIC 80200）：入侵报警（Texecom）、门禁、专项 CCTV、火灾报警、保险柜、安防闸门，自述 2,500+ 客户、英格兰与威尔士全境、LinkedIn 11–50 人、Trustpilot 134 评（3.9）。用户记录展会交流：懂一点 WDM、对交换机有兴趣、希望 OEM 并问能否技术培训；之后 17 次推送 0 回复。（调研 2026-10-21；表内兴趣：懂一点WDM 对switch有兴趣 在UK做分销的 希望OEM 如果他们分销我们的产品能提供技术培训嘛？ 也去了旁边的展位（不是本行业的，做智能门禁的））
 - **为什么是 B 级**：**调研后定级 B**（英国主攻区 + OEM 意向本应 A，但展后 17 次推送 0 回复（耳聋）→ 降 B 慢跟；若恢复回复立即升回 A。）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-06-12 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册。已打开的主题（1/27 封有打开记录）：「Power Converter」(2024-09-03) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-23 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册。已打开的主题（1/27 封有打开记录）：「Power Converter」(2024-09-03) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-23 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：伦敦西部 Hanwell 的安防/消防系统安装与维护商（Tel-Cam Security System Ltd 2000-09 注册，SIC 47429 电信设备零售 + 61900；Telcam Fire & Security Ltd 2020-01 注册，SIC 80200）：入侵报警（Texecom）、门禁、专项 CCTV、火灾报警、保险柜、安防闸门，自述 2,500+ 客户、英格兰与威尔士全境、LinkedIn 11–50 人、Trustpilot 134 评（3.9）。用户记录展会交流：懂一点 WDM、对交换机有兴趣、希望 OEM 并问能否技术培训；之后 17 次推送 0 回复。
 - **对方真实需求（有据）**：OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册
 - **断点 / 为什么停在这里**：安装商而非分销，OEM 量有限；17 次推送 0 回复；UK 需 UKCA（Saga 有）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-23 $300（48 Port PoE Managed Switch））——OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册。已打开的主题（1/27 封有打开记录）：「Power Converter」(2024-09-03) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-23 $300（48 Port PoE Managed Switch））——OEM 30% 档（用户记录「希望 OEM」）：STC-28DGGPM 8 PoE+ 2 SFP 管理机；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；技术培训：远程 Web/CLI 演示 + 英文手册。已打开的主题（1/27 封有打开记录）：「Power Converter」(2024-09-03) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：You asked at the show about OEM switches with technical training: we label the 8-port PoE+ managed unit (2 SFP, $87.4 EXW at the OEM tier) under your name and run a one-hour remote Web/CLI session for your engineers; shall I book one for next week?
 

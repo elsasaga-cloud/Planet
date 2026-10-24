@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：意大利 Elettronica e Sicurezza（安防系统分销：PoE 延长器 BD_POE40（1 进 4 出 60W）、IP 可视对讲套件、NVR、Tenda；表内「找 extender / EoC，会说中文」；KP Fortunato Riccardo；电话 +39 0445 344591）；群发 14 次无回复。（调研 2026-10-21；表内兴趣：找extender EOC 会说中文）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-06-12 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-03 $65（10G media converter）、2024-11-11 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-03 $65（10G media converter）、2024-11-11 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Riccardo, on the PoE extender you were looking for: we can quote a 1-in/4-out 60 W extender from our partner line, and alongside it a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — how many extenders does the project need?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：意大利 Elettronica e Sicurezza（安防系统分销：PoE 延长器 BD_POE40（1 进 4 出 60W）、IP 可视对讲套件、NVR、Tenda；表内「找 extender / EoC，会说中文」；KP Fortunato Riccardo；电话 +39 0445 344591）；群发 14 次无回复。
 - **对方真实需求（有据）**：询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP
 - **断点 / 为什么停在这里**：询盘品类（PoE extender / EoC）Saga 列表无 → 代报需注明（Q-32）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-03 $65（10G media converter）、2024-11-11 $300（48 Port PoE Managed Switch））——询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-03 $65（10G media converter）、2024-11-11 $300（48 Port PoE Managed Switch））——询 PoE extender/EoC——Saga 列表无（Q-32 缺口，SmartByte/HRUI 代报注明）；可供主线 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Riccardo, on the PoE extender you were looking for: we can quote a 1-in/4-out 60 W extender from our partner line, and alongside it a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port PoE units from small lots, CE/RoHS, EXW USD — how many extenders does the project need?
 

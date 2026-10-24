@@ -98,7 +98,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-09-02 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）、2024-12-27 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-09-02 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）、2024-12-27 $240（24 Port Fiber Switch）",
       "why": "自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。",
       "repeat": [],
       "gaps": []

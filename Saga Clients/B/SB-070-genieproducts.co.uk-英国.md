@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：英国 Genie Products（Genie CCTV：摄像机（GHD/GAHD 系列）、门禁与生物识别、软件；博客「network switches and how to set up a camera network」；表内「商业 PoE 外壳看着很熟悉，CCTV 为主，自己的 logo；Ewind 的商业 switch」「可以多跟进一下」；KP Tek Onbashi（Tech Director，tek@））；群发 17 次无回复。（调研 2026-10-21；表内兴趣：商业PoE 外壳看着很熟悉 CCTV为主 自己的logo；商业PoE 外壳看着很熟悉 CCTV为主 自己的logo Ewind的商业switch）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-04-29 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 Genie 标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口位 STC-424DGGPM-280W；非管理位 HRUI STC-028GP。已打开的主题（1/31 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-28) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-06-24 $65（Media converter）、2024-07-10 $220（10G managed switch）、2024-08-16 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 Genie 标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口位 STC-424DGGPM-280W；非管理位 HRUI STC-028GP。已打开的主题（1/31 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-28) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-06-24 $65（Media converter）、2024-07-10 $220（10G managed switch）、2024-08-16 $220（48 port managed switch）
 - **第一问（只问一个）**：Tek, for the Genie-branded PoE switches that ship with your GHD camera range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS/UKCA — which size do your installers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：英国 Genie Products（Genie CCTV：摄像机（GHD/GAHD 系列）、门禁与生物识别、软件；博客「network switches and how to set up a camera network」；表内「商业 PoE 外壳看着很熟悉，CCTV 为主，自己的 logo；Ewind 的商业 switch」「可以多跟进一下」；KP Tek Onbashi（Tech Director，tek@））；群发 17 次无回复。
 - **对方真实需求（有据）**：自有 Genie 标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口位 STC-424DGGPM-280W；非管理位 HRUI STC-028GP
 - **断点 / 为什么停在这里**：现代工 Ewind（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-06-24 $65（Media converter）、2024-07-10 $220（10G managed switch）、2024-08-16 $220（48 port managed switch））——自有 Genie 标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口位 STC-424DGGPM-280W；非管理位 HRUI STC-028GP。已打开的主题（1/31 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-28) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-06-24 $65（Media converter）、2024-07-10 $220（10G managed switch）、2024-08-16 $220（48 port managed switch））——自有 Genie 标商用 PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；16/24 口位 STC-424DGGPM-280W；非管理位 HRUI STC-028GP。已打开的主题（1/31 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-28) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
   - 第一问（只问一个）：Tek, for the Genie-branded PoE switches that ship with your GHD camera range, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, CE/RoHS/UKCA — which size do your installers order most?
 

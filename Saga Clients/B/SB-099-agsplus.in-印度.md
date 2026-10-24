@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。（调研 2026-10-21；表内兴趣：主要是CCTV 新桥的商业PoE；工业FS 周边产品）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-04 → 2025-10-02）；最近一次客户回复：2025-06-04：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-09 $65（10G media converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-09 $65（10G media converter）
 - **第一问（只问一个）**：Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：待 Simon 定 Q-33 WhatsApp（Simon） 一句话
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。
 - **对方真实需求（有据）**：24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。
 - **断点 / 为什么停在这里**：新桥价格基准低；官网占位
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-09 $65（10G media converter））——24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-09 $65（10G media converter））——24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：待 Simon 定 Q-33　WhatsApp（Simon）　一句话
   - 第一问（只问一个）：Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW list; is the requirement still there?
 

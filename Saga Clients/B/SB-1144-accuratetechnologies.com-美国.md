@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。（调研 2026-10-21；表内兴趣：poe network switch 产品较少 周边产品）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做。已打开的主题（2/7 封有打开记录）：「Industrial PoE Switch」(2024-06-20)、「90W PoE Managed Switch」(2024-11-27) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做。已打开的主题（2/7 封有打开记录）：「Industrial PoE Switch」(2024-06-20)、「90W PoE Managed Switch」(2024-11-27) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter）
 - **第一问（只问一个）**：For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11 S 邮箱 → sales@accuratetechnologies.com 短信一问（email_hook）
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。
 - **对方真实需求（有据）**：测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做
 - **断点 / 为什么停在这里**：品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过
-- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter））——测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做。已打开的主题（2/7 封有打开记录）：「Industrial PoE Switch」(2024-06-20)、「90W PoE Managed Switch」(2024-11-27) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-080GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter））——测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做。已打开的主题（2/7 封有打开记录）：「Industrial PoE Switch」(2024-06-20)、「90W PoE Managed Switch」(2024-11-27) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　S 邮箱 → sales@accuratetechnologies.com　短信一问（email_hook）
   - 第一问（只问一个）：For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?
 

@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。（调研 2026-10-21；表内兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/1）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,7 +48,7 @@ updated: 2026-10-24
 - **现状一句话**：马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。
 - **对方真实需求（有据）**：IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。
 - **断点 / 为什么停在这里**：Cisco/Aruba 主导项目；无跟进
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch））——IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch））——IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?
 

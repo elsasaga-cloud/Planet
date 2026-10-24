@@ -33,7 +33,7 @@ updated: 2026-10-24
 - **是谁**：土耳其 Eretekne（分销商：工业 FS/MC 为 XPS/ONV，Voscom 视频光端机与周边；官网 http_error）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS MC  XPS的/ONV voscom的VC 周边产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-22 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-22 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP units and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Eretekne（分销商：工业 FS/MC 为 XPS/ONV，Voscom 视频光端机与周边；官网 http_error）；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供
 - **断点 / 为什么停在这里**：现供 XPS/ONV 价格基准低；官网 http_error；土耳其汇率敏感；2 次无回复，仅 info@
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-22 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch））——工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-22 $65（10G media converter）、2024-11-22 $300（48 Port PoE Managed Switch））——工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP units and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?
 

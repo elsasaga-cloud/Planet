@@ -114,7 +114,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-07-31 $220（48 port managed switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-07-31 $220（48 port managed switch）",
       "why": "自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）。已打开的主题（2/34 封有打开记录）：「24 Port Fiber Switch」(2025-03-07)、「32 Port 400GB DC Switch」(2026-06-22) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []

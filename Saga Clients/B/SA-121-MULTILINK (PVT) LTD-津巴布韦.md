@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **是谁**：津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。（调研 2026-10-21；表内兴趣：8V1D 16V1D 18机架  11 13年 13年买了FS 很多种类的）
 - **为什么是 B 级**：**调研后定级 B**（老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/津巴布韦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-07 → 2025-10-07）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-20 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-20 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-24
 - **现状一句话**：津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。
 - **对方真实需求（有据）**：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：非洲非主攻区；津巴布韦外汇管制/付款；联系人可能已变动
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（老汇率，报新价前对表，别出现同款更贵且无解释）：2024-12-20 $240（24 Port Fiber Switch））——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（2026-06-22 价表整体上调 10% 之前的老价；报新价若高出 10%，一句话说明「list revised 22 June 2026, USD/CNY moved from ~7.2 to ~6.7」）：2024-12-20 $240（24 Port Fiber Switch））——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 
