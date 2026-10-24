@@ -38,7 +38,25 @@ updated: 2026-10-24
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-10 → 2025-07-10）；最近一次客户回复：2025-07-10：MOQ  8/24口的
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：不推进；若其电商想增网络品类，按电商 20% 档报 STC-28DGGPM）
 - **最大未知**：年走量与现供应商
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：不动（C）；Simon 复核后再定 A 邮箱 —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-126` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达（2025-06-10 Alan 出全铜口工业系列报价单：STI-050FE $22.5 / STI-054FP $30 / STI-050GE $25 / STI-054GP $32.5 / STI-080FE $25.5 / STI-088FP $36.5；用户表「有回复·跟进中」；C 级人工定级不改）** ｜ 类型：德国分销商 Dema Vertriebs GmbH（Markus Geck） ｜ 筛子：2（要报价、已收报价单） ｜ 停点：报价后无记录（S/A 邮箱）；C 级 ｜ 复活：德国 = 四主之一；若 Simon 复核愿升 B，则按 2026-11 一句话回访 ｜ 通路：DE 未通 ｜ 节奏：最后 2025-06-10 报价单 ｜ 证据：A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
+- **现状一句话**：德国 Dema Vertriebs（Markus Geck）2025-06 要全铜口工业交换机报价，Alan 06-10 出整表报价单（EXW Germany）；之后无来信。
+- **对方真实需求（有据）**：5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格
+- **断点 / 为什么停在这里**：报价后无回；C 级未再跟
+- **Saga 现在该推什么**：P1 **STI-054GP / STI-088GP 级（HRUI 对照表列表价）**（20% 档，历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`）——分销商 20% 档
+- **下一步（具体）**：不动（C）；Simon 复核后再定　A 邮箱　—
+  - 第一问（只问一个）：Markus — did the June-2025 copper industrial switch quotation go anywhere, or was it only for a price check?
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-06-10 | 去 | Alan（Quotation_Copper Switch.pdf，Buyer Dema Vertriebs GmbH / Markus Geck，EXW Germany） | STI-050FE $22.5；STI-054FP $30；STI-050GE $25；STI-054GP $32.5；STI-080FE $25.5；STI-088FP $36.5（全铜口非管理工业系列，validity 15 days） | 德国分销商拿到的整表价（2025-06，老汇率） | `gmail_a att 2025-06-10` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：C 级定级与「有回复·跟进中」状态矛盾，待 Simon 复核
 
 ## 基本事实（事实/推断/假设分层）
 

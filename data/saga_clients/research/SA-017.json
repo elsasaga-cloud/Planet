@@ -165,7 +165,7 @@
       "revive": "370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面",
       "lane": "KR（Simon 2026-08-02：韩国客户「一些」）",
       "cadence": "2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26",
-      "evidence": "k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef"
+      "evidence": "k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
     },
     "situation": "Kim 2025-02/03 为 16 口工业机讨价（要 300–380W、Marvell、2 SFP、非管理且便宜），Alan 的回信是 A 邮箱里对 C2 筛子最直白的书面表述：「Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go」，并报 16 口铜 95 USD / 16 口 PoE+2 SFP 170 USD、PoE 预算 240W（-40~+70℃）或 370W（-40~+60℃）。2025-05 Kim 又问 bypass 4×4 / 2×2 / 独立 bypass 盒，Alan 报 280 USD、独立盒暂无。此后静默。",
     "need": "16 口工业 PoE ≥300W（2 SFP）、bypass 4×4 / 2×2 管理型、独立 bypass 盒；贴 NEXTU 标。",
@@ -173,7 +173,7 @@
     "saga_now": {
       "p1": "Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）",
       "tier": 30,
-      "price": "$225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）",
+      "price": "历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）",
       "why": "J4：只追 bypass 一条线（差异品），16 口价格战不追",
       "repeat": [],
       "gaps": [
@@ -188,6 +188,14 @@
       "one_question": "Did the 2×2 bypass requirement from May 2025 turn into a project, and is Marvell still acceptable on the NEXTU industrial line?"
     },
     "facts": [
+      {
+        "date": "2025-02-21",
+        "dir": "去",
+        "who": "Alan（Quotation.pdf，Buyer EZ-NET Ubiquitous / Roadman Kim，EXW，Destination Korea）",
+        "quote": "STI-0160GE 16×GE 非管理工业 $105 ×1；STI-21616GP 16×GE PoE + 2×SFP 240W 非管理 $185 ×1；TOTAL 2 pcs $290.00；Price validity 15 days；Warranty 3 years, lifetime technical support；Production time 4~7 working days",
+        "why": "正式报价单上的两个锚（2025-02，老汇率）；对方三次到访后仍未付样",
+        "k": "gmail_a att 2025-02-21"
+      },
       {
         "date": "2025-03-04",
         "dir": "来",

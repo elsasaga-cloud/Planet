@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-100` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停）** ｜ 类型：泰国小经销（Peter）——第四档；TH 非主攻 ｜ 筛子：2 ｜ 停点：2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回 ｜ 复活：不主动 ｜ 通路：TH ｜ 节奏：2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14 ｜ 证据：k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816
+- **绑定等级：未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停）** ｜ 类型：泰国小经销（Peter）——第四档；TH 非主攻 ｜ 筛子：2 ｜ 停点：2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回 ｜ 复活：不主动 ｜ 通路：TH ｜ 节奏：2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14 ｜ 证据：k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
 - **现状一句话**：Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。
 - **对方真实需求（有据）**：8 口工业 PoE；bypass。
 - **断点 / 为什么停在这里**：泰国小经销的价格段与 Marvell 不匹配。
@@ -54,6 +54,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-18 | 去 | Alan（Quotation.pdf，Buyer TJ Computer / Peter Ponganan Ruenboon，EXW，Destination Thailand） | STI-288GP 2×SFP + 8×GE PoE af/at 240W 非管理 ×1 $60.00 | 泰国 1 台样机报价（未付）；与 52 Networks 同款 $58 同期 | `gmail_a att 2025-03-18` |
 | 2025-05-14 | 来 | Peter（TJ Computer） | ราคาเท่าไหร่?（多少钱？） | bypass 询价 | `02da3feea2aac332` |
 | 2025-05-15 | 去 | Alan | 300usd/pc STI-488XGGPM2B-2BT… 2 channels single fiber Bypass ports… L2+ managed, Marvell chip | 报价后停 | `60215e5a3bb8a816` |
 

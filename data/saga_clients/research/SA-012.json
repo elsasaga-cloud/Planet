@@ -158,7 +158,7 @@
       "revive": "对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10）",
       "lane": "UK 已通（T/T $500 2025-08，DHL）",
       "cadence": "最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮",
-      "evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0"
+      "evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
     },
     "situation": "英国 Go Green IT（Chris，德比 DE22）2025-06 回群发，问 **STI-41616XGGPM-4BT** 能否在 48 V LiFePO4（峰值 56.6 V）系统上跑；8 月改要 L3/24 口版（差 $20 即升级）、问 DI/DO/RS485；8-23 付款 $500 → 9-08 收货「looks in good order」→ 11-23 已接入生产（10 Mbps 老设备正常，胜过原 Linovision）→ 2026-03-13 报 SSH `xterm-256color` 终端类型 bug → 3-19 报 PoE 不出电（电池系统停机数月后）并附 `backup-GreenhouseSwitch2-…-diag.tar.bz2` → 4-27 再发截图 → Alan 5-20「Any update?」无回。**走完全流程的技术型小客户，正处在「问题未闭环」状态。**",
     "need": "① 已买：STI 系列 16 口工业 L2+/L3 PoE（4×BT），DC 48 V 电池供电，SFP 1G/10G；② 要 DI/DO/RS485（当时 16/24 口没有，8 口有）；③ 想要的是**能在离网电池系统稳定工作的 PoE 交换机**——PoE 在低压/重启后的行为是他的核心关切。",
@@ -166,7 +166,7 @@
     "saga_now": {
       "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
       "tier": 25,
-      "price": "首单 $500（2025-08）；复购同款按 CNY ×1.25 ÷ 6.69 快照另写",
+      "price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定",
       "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）",
       "repeat": [
         "STI-41616XGGPM-4BT ×1（2025-08）"
@@ -190,6 +190,14 @@
         "quote": "I am interested in something like a STI-41616XGGPM-4BT. Can you confirm that it will work up to at least 57V DC? your manual says 57V, but the Mechanical/CAD drawing says 75V… 48V LiFePO4 system… 56.6V",
         "why": "技术流 + 读过 Drive 规格（筛子第 2 道）",
         "k": "7aa281fa9f0de7b7"
+      },
+      {
+        "date": "2025-06-11",
+        "dir": "去",
+        "who": "Alan（Quotation.pdf，Buyer GOGREENIT / Chris，DAP UK）",
+        "quote": "STI-41616XGGPM-4BT 4×10G SFP+ + 16×GE PoE(12 af/at + 4 bt) L2+ 240W/370W，With Mounting Hanger，Without DI/DO/RS485 ×1 $400.0 + FedEx air door-to-door $60.00 = TOTAL $460.00；-40~+70℃@240W / -40~+60℃@370W",
+        "why": "首单型号与价格锚（$400 EXW 级 + $60 运费）；PI STAG20250823017（2025-08-23）随后成交",
+        "k": "gmail_a att 2025-06-11"
       },
       {
         "date": "2025-08-22",

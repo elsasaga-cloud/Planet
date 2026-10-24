@@ -5732,7 +5732,7 @@
 "revive": "对方新项目 / Saga 给出 PoE 问题结论或新固件；7.5 固件已发给他（7-10）",
 "lane": "UK 已通（T/T $500 2025-08，DHL）",
 "cadence": "最后 2026-08-26 Alan 通知 AC5（无回）；对方最后来信 2026-04-27；实质往来 2025-06-10 → 2026-04-27 约 17 轮",
-"evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0"
+"evidence": "A 邮箱 k=7aa281fa9f0de7b7 / 960340fdd0ad3d96 / 9ac926d31f10e0be / 20cf814dcb5e8197 / 81bc7f06346f18b0；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "英国 Go Green IT（Chris，德比 DE22）2025-06 回群发，问 **STI-41616XGGPM-4BT** 能否在 48 V LiFePO4（峰值 56.6 V）系统上跑；8 月改要 L3/24 口版（差 $20 即升级）、问 DI/DO/RS485；8-23 付款 $500 → 9-08 收货「looks in good order」→ 11-23 已接入生产（10 Mbps 老设备正常，胜过原 Linovision）→ 2026-03-13 报 SSH `xterm-256color` 终端类型 bug → 3-19 报 PoE 不出电（电池系统停机数月后）并附 `backup-GreenhouseSwitch2-…-diag.tar.bz2` → 4-27 再发截图 → Alan 5-20「Any update?」无回。**走完全流程的技术型小客户，正处在「问题未闭环」状态。**",
 "need": "① 已买：STI 系列 16 口工业 L2+/L3 PoE（4×BT），DC 48 V 电池供电，SFP 1G/10G；② 要 DI/DO/RS485（当时 16/24 口没有，8 口有）；③ 想要的是**能在离网电池系统稳定工作的 PoE 交换机**——PoE 在低压/重启后的行为是他的核心关切。",
@@ -5740,7 +5740,7 @@
 "saga_now": {
 "p1": "STI-41616XGGPM-4BT 同款（在用）+ 固件 7.5",
 "tier": 25,
-"price": "首单 $500（2025-08）；复购同款按 CNY ×1.25 ÷ 6.69 快照另写",
+"price": "首单 STI-41616XGGPM-4BT $400 + 运费 $60 = $460 DAP（2025-06-11 报价单 → 2025-08-23 PI STAG20250823017）；复购同款按列表 $528 USD EXW（2026-10-17 快照，15 天有效）或 Simon 对老客户另定",
 "why": "技术流小客户，不以量计；价值在于**真实生产环境的反馈 + 公开配置经验**（C4 轻度→中度的最短路径）",
 "repeat": [
 "STI-41616XGGPM-4BT ×1（2025-08）"
@@ -5764,6 +5764,14 @@
 "quote": "I am interested in something like a STI-41616XGGPM-4BT. Can you confirm that it will work up to at least 57V DC? your manual says 57V, but the Mechanical/CAD drawing says 75V… 48V LiFePO4 system… 56.6V",
 "why": "技术流 + 读过 Drive 规格（筛子第 2 道）",
 "k": "7aa281fa9f0de7b7"
+},
+{
+"date": "2025-06-11",
+"dir": "去",
+"who": "Alan（Quotation.pdf，Buyer GOGREENIT / Chris，DAP UK）",
+"quote": "STI-41616XGGPM-4BT 4×10G SFP+ + 16×GE PoE(12 af/at + 4 bt) L2+ 240W/370W，With Mounting Hanger，Without DI/DO/RS485 ×1 $400.0 + FedEx air door-to-door $60.00 = TOTAL $460.00；-40~+70℃@240W / -40~+60℃@370W",
+"why": "首单型号与价格锚（$400 EXW 级 + $60 运费）；PI STAG20250823017（2025-08-23）随后成交",
+"k": "gmail_a att 2025-06-11"
 },
 {
 "date": "2025-08-22",
@@ -8359,7 +8367,7 @@
 "revive": "370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面",
 "lane": "KR（Simon 2026-08-02：韩国客户「一些」）",
 "cadence": "2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26",
-"evidence": "k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef"
+"evidence": "k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "Kim 2025-02/03 为 16 口工业机讨价（要 300–380W、Marvell、2 SFP、非管理且便宜），Alan 的回信是 A 邮箱里对 C2 筛子最直白的书面表述：「Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go」，并报 16 口铜 95 USD / 16 口 PoE+2 SFP 170 USD、PoE 预算 240W（-40~+70℃）或 370W（-40~+60℃）。2025-05 Kim 又问 bypass 4×4 / 2×2 / 独立 bypass 盒，Alan 报 280 USD、独立盒暂无。此后静默。",
 "need": "16 口工业 PoE ≥300W（2 SFP）、bypass 4×4 / 2×2 管理型、独立 bypass 盒；贴 NEXTU 标。",
@@ -8367,7 +8375,7 @@
 "saga_now": {
 "p1": "Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）",
 "tier": 30,
-"price": "$225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）",
+"price": "历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）",
 "why": "J4：只追 bypass 一条线（差异品），16 口价格战不追",
 "repeat": [],
 "gaps": [
@@ -8382,6 +8390,14 @@
 "one_question": "Did the 2×2 bypass requirement from May 2025 turn into a project, and is Marvell still acceptable on the NEXTU industrial line?"
 },
 "facts": [
+{
+"date": "2025-02-21",
+"dir": "去",
+"who": "Alan（Quotation.pdf，Buyer EZ-NET Ubiquitous / Roadman Kim，EXW，Destination Korea）",
+"quote": "STI-0160GE 16×GE 非管理工业 $105 ×1；STI-21616GP 16×GE PoE + 2×SFP 240W 非管理 $185 ×1；TOTAL 2 pcs $290.00；Price validity 15 days；Warranty 3 years, lifetime technical support；Production time 4~7 working days",
+"why": "正式报价单上的两个锚（2025-02，老汇率）；对方三次到访后仍未付样",
+"k": "gmail_a att 2025-02-21"
+},
 {
 "date": "2025-03-04",
 "dir": "来",
@@ -44273,7 +44289,7 @@
 "revive": "不主动",
 "lane": "TH",
 "cadence": "2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14",
-"evidence": "k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816"
+"evidence": "k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。",
 "need": "8 口工业 PoE；bypass。",
@@ -44293,6 +44309,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2025-03-18",
+"dir": "去",
+"who": "Alan（Quotation.pdf，Buyer TJ Computer / Peter Ponganan Ruenboon，EXW，Destination Thailand）",
+"quote": "STI-288GP 2×SFP + 8×GE PoE af/at 240W 非管理 ×1 $60.00",
+"why": "泰国 1 台样机报价（未付）；与 52 Networks 同款 $58 同期",
+"k": "gmail_a att 2025-03-18"
+},
 {
 "date": "2025-05-14",
 "dir": "来",
@@ -102947,7 +102971,7 @@
 "revive": "一封只做两件事的信：① 问 MOH-TA 标书最终结果（中了谁、什么价位）；② 给 400+100 台这一量级的重算价（SmartByte 2026-09 价 + 20%，与 2025-03 相比应有明显下降空间）",
 "lane": "UK 主攻 + 中东项目",
 "cadence": "一封结果信；之后半年一次项目询问，不群发",
-"evidence": "k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+"evidence": "k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "2025-03 Linxcom 拿着一张 500 台的项目清单来询价（100 台 8 口 2BT 管理 PoE + 400 台 24 口 10G 上联 L3 工业 PoE，按装箱单合计 760 kg），Alan 当天出报价并说 25~30 个工作日交期。对方次日说贵；Alan 没有谈价，而是讲 Marvell 高端定位并附 ChatGPT 对比。4 月对方还在跟：要 Saga 型号与他们手里数据表的差异说明、要户外版；5 月 15 日说项目还没消息。之后 Alan 转为每月一封群发，再无回复。这是 A 邮箱里体量最大的一张 RFQ（500 台）之一，败因是价格谈判没有展开。",
 "need": "项目级：24 口 L3 工业 PoE（10G 上联）×400 + 8 口 2BT 管理工业 PoE ×100，可能要户外箱体方案。",
@@ -102955,7 +102979,7 @@
 "saga_now": {
 "p1": "STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算",
 "tier": 20,
-"price": "按主表 20% 分销档重算；对 500 台量级在信里明确「volume tier」",
+"price": "历史锚：STI-288DGGPM-2BT $130 ×400 / STI-42424XGGPM(L3) $430 ×100（2025-03-17 报价单，$95,000 合计，老汇率）；现列表 $154 / $517 → 500 台量级 Simon 自定 volume tier，但别低于 Marvell ≥25% 底线",
 "why": "英国分销 + 500 台 RFQ + 采购经理直联",
 "repeat": [],
 "gaps": [
@@ -102977,6 +103001,14 @@
 "quote": "Please see attached our datasheets and quotation about 2 models you need. 1, our models are Marvell chip based, its for high-end market. 2, production time: 25~30 working days",
 "why": "报价；PL.xls：STI-288DGGPM-2BT 400 pcs / STI-42424XGGPM 100 pcs，42 CTNS，G.W 760 kg",
 "k": "c9837fd061da8de5"
+},
+{
+"date": "2025-03-17",
+"dir": "去",
+"who": "Alan（Quotation.pdf，Buyer Linxcom / Hussain Alqahtani，EXW，Destination UK）",
+"quote": "STI-288DGGPM-2BT 8×GE PoE(6 af/at + 2 bt) + 2×1G/2.5G SFP L2+ 240W ×400 @ $130 = $52,000.00；STI-42424XGGPM 4×10G SFP+ + 24×GE PoE L3 240W/370W 双 DC ×100 @ $430 = $43,000.00；TOTAL 500 pcs $95,000.00；validity 15 days",
+"why": "Saga 历史最大单笔报价之一（$95k）；次日「too expensive」→ 对手 N-net 规格书（04-22）→ 05-15「no news yet」",
+"k": "gmail_a att 2025-03-17"
 },
 {
 "date": "2025-03-18",
@@ -104408,7 +104440,7 @@
 "revive": "他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回",
 "lane": "JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担）",
 "cadence": "最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内",
-"evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+"evidence": "A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。",
 "need": "带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。",
@@ -104469,6 +104501,14 @@
 "who": "UNEAX Inoue（附件 Requirements.xlsx，17 问）",
 "quote": "1 Certification FCC, RoHS · 2 Can we obtain the necessary certifications for sale in Japan under our company name? · 3 label translated into Japanese? · 5–7 logo on sample/packaging/product? · 8 PSE-certified power supply mandatory · 9–12 RMA / warranty years / post-warranty policy / tech support duration · 13–14 Sales track record in Japan & to date · 15 failure rate · 16 how to verify AI WATCH DOG · 17 transmission speed at 250 m",
 "why": "日本商社的尽调清单：合规自担 + 日文标签 + PSE 电源 + 故障率/保修制度 —— Saga 能答的是 8/9/10/16/17，答不了的是 2/13/15（无日本先例、无故障率统计）",
+"k": "gmail_a att 2026-05-05"
+},
+{
+"date": "2026-05-05",
+"dir": "去",
+"who": "Alan（Requirements_2026.05.05.xlsx 逐条作答）",
+"quote": "2 日本认证可以以贵司名义办但费用自担 · 3 日文标签由贵司提供译文 · 5/6 样品与包装中性无 logo · 7 正式订单 logo 只印标签（印机身/包装另加费）· 8 PSE 电源 GST120A48-P1M / GST240A48-P1M（MEAN WELL）· 10 Warranty 3 years, lifetime technical support · 11 过保只提供技术支持 · 13 「Have you sold in Japan before? — No. our focus is on EU market」· 15 故障率「Never… not received any negative feedback yet」· 16 看门狗验证「Turn on DIP 4… power off the camera, it will automatically restart it」· 17 250 m 速率 10Mb/s",
+"why": "Saga 对日本商社的承诺边界已成文：认证自担、3 年保、日本零先例、250 m 降到 10M",
 "k": "gmail_a att 2026-05-05"
 },
 {
@@ -113401,7 +113441,7 @@
 "revive": "把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信",
 "lane": "UK 主攻",
 "cadence": "季度一封项目型信",
-"evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）"
+"evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。",
 "need": "项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。",
@@ -113447,6 +113487,14 @@
 "quote": "Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table?",
 "why": "做预算",
 "k": "8fa533b181f1ab4b"
+},
+{
+"date": "2025-07-07",
+"dir": "去",
+"who": "Alan（Quotation_Copper Switch.pdf，Buyer TELTRONIX / Wadii Kherfani，EXW UK）",
+"quote": "STI-050FE 5×FE $22.5；STI-054FP 1 FE 上联 + 4 FE PoE 120W $30；STI-050GE 5×GE $25；STI-054GP $32.5；STI-080FE 8×FE $25.5；STI-088FP 8×FE PoE 240W $36.5…（全铜口非管理工业系列整表）",
+"why": "对方要的「全铜口 + 每行 AC/DC」报价 Saga 已给整表；此后无回",
+"k": "gmail_a att 2025-07-07"
 },
 {
 "date": "2025-07-08",
@@ -191351,7 +191399,50 @@
 "tier": 20,
 "why": "不推进；若其电商想增网络品类，按电商 20% 档报 STC-28DGGPM"
 },
-"email_hook": "（不发送：行业外 + 大集团）"
+"email_hook": "（不发送：行业外 + 大集团）",
+"mail_review": {
+"binding": {
+"level": "轻度触达（2025-06-10 Alan 出全铜口工业系列报价单：STI-050FE $22.5 / STI-054FP $30 / STI-050GE $25 / STI-054GP $32.5 / STI-080FE $25.5 / STI-088FP $36.5；用户表「有回复·跟进中」；C 级人工定级不改）",
+"type": "德国分销商 Dema Vertriebs GmbH（Markus Geck）",
+"sieve": "2（要报价、已收报价单）",
+"stop": "报价后无记录（S/A 邮箱）；C 级",
+"revive": "德国 = 四主之一；若 Simon 复核愿升 B，则按 2026-11 一句话回访",
+"lane": "DE 未通",
+"cadence": "最后 2025-06-10 报价单",
+"evidence": "A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+},
+"situation": "德国 Dema Vertriebs（Markus Geck）2025-06 要全铜口工业交换机报价，Alan 06-10 出整表报价单（EXW Germany）；之后无来信。",
+"need": "5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格",
+"breakpoint": "报价后无回；C 级未再跟",
+"saga_now": {
+"p1": "STI-054GP / STI-088GP 级（HRUI 对照表列表价）",
+"tier": 20,
+"price": "历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`",
+"why": "分销商 20% 档",
+"repeat": [],
+"gaps": []
+},
+"next_move": {
+"when": "不动（C）；Simon 复核后再定",
+"channel": "A 邮箱",
+"action": "—",
+"one_question": "Markus — did the June-2025 copper industrial switch quotation go anywhere, or was it only for a price check?"
+},
+"facts": [
+{
+"date": "2025-06-10",
+"dir": "去",
+"who": "Alan（Quotation_Copper Switch.pdf，Buyer Dema Vertriebs GmbH / Markus Geck，EXW Germany）",
+"quote": "STI-050FE $22.5；STI-054FP $30；STI-050GE $25；STI-054GP $32.5；STI-080FE $25.5；STI-088FP $36.5（全铜口非管理工业系列，validity 15 days）",
+"why": "德国分销商拿到的整表价（2025-06，老汇率）",
+"k": "gmail_a att 2025-06-10"
+}
+],
+"proof_gaps": [
+"C 级定级与「有回复·跟进中」状态矛盾，待 Simon 复核"
+],
+"as_of": "2026-10-24"
+}
 }
 },
 {
@@ -231807,7 +231898,7 @@
 "revive": "一句话",
 "lane": "SG 非主攻",
 "cadence": "一封",
-"evidence": "k=1341fd835e388fae / c50c979afd340a2c / 2cd8f7648aaf3ba2"
+"evidence": "k=1341fd835e388fae / c50c979afd340a2c / 2cd8f7648aaf3ba2；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "—",
 "need": "4/8 口千兆 PoE + 1 上联（门禁/CCTV）。",
@@ -231815,7 +231906,7 @@
 "saga_now": {
 "p1": "STC-228GP / STC-28GP",
 "tier": 25,
-"price": "按主表",
+"price": "历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报",
 "why": "—",
 "repeat": [],
 "gaps": []
@@ -231834,6 +231925,14 @@
 "quote": "Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?",
 "why": "询价",
 "k": "1341fd835e388fae"
+},
+{
+"date": "2025-07-07",
+"dir": "去",
+"who": "Alan（Quotation.pdf，Buyer Bio-Cognitive Solutions Pte Ltd / Amy Hoi，EXW Singapore）",
+"quote": "STC-024GP 2 GE 上联 + 4 GE PoE 60W $19.0；STC-204GP 2 SFP + 4 PoE $21.0；STC-028GP 2 GE + 8 PoE 120W $24.5；STC-228GP 2 SFP + 2 GE + 8 PoE 120W Watchdog $36.5；validity 15 days",
+"why": "当天报了四款商用小 PoE；$19–36.5 是 Realtek 商用线的真实锚；无回",
+"k": "gmail_a att 2025-07-07"
 }
 ],
 "proof_gaps": [],
@@ -439720,7 +439819,7 @@
 "revive": "ITM 终端客户项目重启 / Senior Manager 回复；或 Saga 有 800G 可测（对方 5-19 问过）",
 "lane": "UK 已通（Go Green IT 已成交；DHL/UPS DAP）",
 "cadence": "最后 2026-09-07 Alan 问进展（无回）；2026-08-15 Steve「will get back to you」；实质往来 2025-11-11 → 2026-08-15 约 25 轮",
-"evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+"evidence": "A 邮箱 k=4093fbb543ef9f90 / d4ad954f1fff2bea / c59e4367bd0deb77 / 87738057b3f134de；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
 },
 "situation": "英国 ITM Systems（Steve / Stan，info@itmsystems.net）2025-11 回群发后一路升级：要目录 → 「recommend… OEM agreement with Saga」→ 问 SDK/API、合作伙伴数 → 2026-01 要核心汇聚机规格 → 2026-02-05「secured the approval of all Senior Management… waiting for CEO approval」→ 2026-03-20 正式要 **6 台 400G L3 OEM + 每台 6×QSFP112** 报价（A 总览：$107,675）→ 4–5 月「project still alive」「customer will pay within 30 days」→ Saga 侧 7–8 月才备齐货 → 8-15 Steve 汇报高层后再无回音。**A 邮箱里金额最大的在谈单，卡在对方。**",
 "need": "① 400G L3 数据中心交换机 6 台（OEM 贴牌）+ 6×QSFP112/台，交付英国；② 2026-02 曾问 BGP/OSPFv2/IS-IS 支持、能否对标 Juniper MX204 功能（「not looking to get MX204… a device from Saga that has similar functionalities」）；③ 长期：想在 Saga 交换机上叠加自家网络安全工具（2025-11-12），要 OEM/ODM + SDK/API。",
@@ -439783,6 +439882,14 @@
 "quote": "Could you send us a quote for 6 OEM units of 400GB L3 switches and the delivery time of these units to UK?",
 "why": "正式 RFQ（$107,675）",
 "k": "4093fbb543ef9f90"
+},
+{
+"date": "2026-03-20",
+"dir": "去",
+"who": "Alan（Quotation_2026.03.20.pdf → 03-23 修订版，Buyer iTM Systems / Steve，DAP Peterborough PE1 1RP）",
+"quote": "400GB Data Center Core Switch 32×400G QSFP112 L3，VXLAN/EVPN/BGP/OSPF/MLAG/IPv6，2×CRPS 1300W AC，6 热插拔风扇，Front-to-Back，License Pre-installed，Platform SerdesX，STH-32QC-HSI（CENTEC）×6 @ $16,000 = $96,000.0",
+"why": "主机 6 台 $96,000；连同模块合计 $107,675（已记）；03-23 版仅排版修订",
+"k": "gmail_a att 2026-03-20/23"
 },
 {
 "date": "2026-05-11",

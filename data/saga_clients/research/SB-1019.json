@@ -107,7 +107,7 @@
       "revive": "把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信",
       "lane": "UK 主攻",
       "cadence": "季度一封项目型信",
-      "evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）"
+      "evidence": "k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
     },
     "situation": "Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。",
     "need": "项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。",
@@ -153,6 +153,14 @@
         "quote": "Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table?",
         "why": "做预算",
         "k": "8fa533b181f1ab4b"
+      },
+      {
+        "date": "2025-07-07",
+        "dir": "去",
+        "who": "Alan（Quotation_Copper Switch.pdf，Buyer TELTRONIX / Wadii Kherfani，EXW UK）",
+        "quote": "STI-050FE 5×FE $22.5；STI-054FP 1 FE 上联 + 4 FE PoE 120W $30；STI-050GE 5×GE $25；STI-054GP $32.5；STI-080FE 8×FE $25.5；STI-088FP 8×FE PoE 240W $36.5…（全铜口非管理工业系列整表）",
+        "why": "对方要的「全铜口 + 每行 AC/DC」报价 Saga 已给整表；此后无回",
+        "k": "gmail_a att 2025-07-07"
       },
       {
         "date": "2025-07-08",

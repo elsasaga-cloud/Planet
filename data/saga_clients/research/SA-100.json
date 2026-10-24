@@ -1,132 +1,140 @@
 {
- "code": "SA-100",
- "name_official": "TJ Computer（泰国；Peter Ponganan Ruenboon）",
- "website_status": "域名不可达（tj2003.net）",
- "summary": "泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。",
- "type": "小型经销商",
- "size": "微型（待补证）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "5 电口需求，需要具体产品信息；WA 加不上",
-   "quote": "5电口 需要具体的产品信息；0622179229 加不上（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "tj2003.net 不可达",
-   "quote": "status unreachable",
-   "url": "http://tj2003.net/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "5 电口 需要具体的产品信息；2025-03 28PoE→Interested",
-   "quote": "兴趣：5电口 需要具体的产品信息；回复：Interested",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "+66 62 217 9229（WA 未加上）",
-   "source": "用户 Clients 表"
-  },
-  {
-   "name": "Peter (Ponganan Ruenboon)",
-   "title": "（经营者）",
-   "email": "tjcomputer2003@gmail.com",
-   "phone": "+66 62 217 9229",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": "B",
- "override_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
- "notes": "邮件一次性给 STI-244GP/5 口型号资料即可。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照不可达 + 表内）"
- },
- "company_facts": {
-  "legal_name": "TJ Computer（2003）",
-  "founded": "2003（域名推断）",
-  "hq": "泰国",
-  "size": "小型零售 / 安装",
-  "other": "CCTV 业务"
- },
- "business_lines": [
-  "电脑 / CCTV 零售安装"
- ],
- "channels": {
-  "role": "零售 / 安装商",
-  "region": "泰国"
- },
- "signals": [
-  "对 2 光 8 PoE Interested；5 口需求"
- ],
- "risks": [
-  "小店小量；域名失效"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "2 光 8 PoE Interested → STC-28DGGPM；5 口 → STI-050GE / 商用 5 口按 HRUI 另询。"
- },
- "email_hook": "Peter, you were interested in the 8-PoE + 2-SFP unit — $84 EXW at 1 pc; for the 5-port need, do you want PoE or plain gigabit? I'll send both sheets.",
- "mail_review": {
-  "binding": {
-   "level": "未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停）",
-   "type": "泰国小经销（Peter）——第四档；TH 非主攻",
-   "sieve": "2",
-   "stop": "2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回",
-   "revive": "不主动",
-   "lane": "TH",
-   "cadence": "2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14",
-   "evidence": "k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816"
-  },
-  "situation": "Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。",
-  "need": "8 口工业 PoE；bypass。",
-  "breakpoint": "泰国小经销的价格段与 Marvell 不匹配。",
-  "saga_now": {
-   "p1": "STI-244GP / 5 口非管理（一次给齐）",
-   "tier": 25,
-   "price": "—",
-   "why": "不主动",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "A 邮箱",
-   "action": "来信时一次给 STI-244GP 资料",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-05-14",
-    "dir": "来",
-    "who": "Peter（TJ Computer）",
-    "quote": "ราคาเท่าไหร่?（多少钱？）",
-    "why": "bypass 询价",
-    "k": "02da3feea2aac332"
-   },
-   {
-    "date": "2025-05-15",
-    "dir": "去",
-    "who": "Alan",
-    "quote": "300usd/pc STI-488XGGPM2B-2BT… 2 channels single fiber Bypass ports… L2+ managed, Marvell chip",
-    "why": "报价后停",
-    "k": "60215e5a3bb8a816"
-   }
+  "code": "SA-100",
+  "name_official": "TJ Computer（泰国；Peter Ponganan Ruenboon）",
+  "website_status": "域名不可达（tj2003.net）",
+  "summary": "泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。",
+  "type": "小型经销商",
+  "size": "微型（待补证）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "5 电口需求，需要具体产品信息；WA 加不上",
+      "quote": "5电口 需要具体的产品信息；0622179229 加不上（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "tj2003.net 不可达",
+      "quote": "status unreachable",
+      "url": "http://tj2003.net/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "5 电口 需要具体的产品信息；2025-03 28PoE→Interested",
+      "quote": "兴趣：5电口 需要具体的产品信息；回复：Interested",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "+66 62 217 9229（WA 未加上）",
+      "source": "用户 Clients 表"
+    },
+    {
+      "name": "Peter (Ponganan Ruenboon)",
+      "title": "（经营者）",
+      "email": "tjcomputer2003@gmail.com",
+      "phone": "+66 62 217 9229",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
+  "notes": "邮件一次性给 STI-244GP/5 口型号资料即可。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（快照不可达 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "TJ Computer（2003）",
+    "founded": "2003（域名推断）",
+    "hq": "泰国",
+    "size": "小型零售 / 安装",
+    "other": "CCTV 业务"
+  },
+  "business_lines": [
+    "电脑 / CCTV 零售安装"
+  ],
+  "channels": {
+    "role": "零售 / 安装商",
+    "region": "泰国"
+  },
+  "signals": [
+    "对 2 光 8 PoE Interested；5 口需求"
+  ],
+  "risks": [
+    "小店小量；域名失效"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "2 光 8 PoE Interested → STC-28DGGPM；5 口 → STI-050GE / 商用 5 口按 HRUI 另询。"
+  },
+  "email_hook": "Peter, you were interested in the 8-PoE + 2-SFP unit — $84 EXW at 1 pc; for the 5-port need, do you want PoE or plain gigabit? I'll send both sheets.",
+  "mail_review": {
+    "binding": {
+      "level": "未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停）",
+      "type": "泰国小经销（Peter）——第四档；TH 非主攻",
+      "sieve": "2",
+      "stop": "2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回",
+      "revive": "不主动",
+      "lane": "TH",
+      "cadence": "2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14",
+      "evidence": "k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+    },
+    "situation": "Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。",
+    "need": "8 口工业 PoE；bypass。",
+    "breakpoint": "泰国小经销的价格段与 Marvell 不匹配。",
+    "saga_now": {
+      "p1": "STI-244GP / 5 口非管理（一次给齐）",
+      "tier": 25,
+      "price": "—",
+      "why": "不主动",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "A 邮箱",
+      "action": "来信时一次给 STI-244GP 资料",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-03-18",
+        "dir": "去",
+        "who": "Alan（Quotation.pdf，Buyer TJ Computer / Peter Ponganan Ruenboon，EXW，Destination Thailand）",
+        "quote": "STI-288GP 2×SFP + 8×GE PoE af/at 240W 非管理 ×1 $60.00",
+        "why": "泰国 1 台样机报价（未付）；与 52 Networks 同款 $58 同期",
+        "k": "gmail_a att 2025-03-18"
+      },
+      {
+        "date": "2025-05-14",
+        "dir": "来",
+        "who": "Peter（TJ Computer）",
+        "quote": "ราคาเท่าไหร่?（多少钱？）",
+        "why": "bypass 询价",
+        "k": "02da3feea2aac332"
+      },
+      {
+        "date": "2025-05-15",
+        "dir": "去",
+        "who": "Alan",
+        "quote": "300usd/pc STI-488XGGPM2B-2BT… 2 channels single fiber Bypass ports… L2+ managed, Marvell chip",
+        "why": "报价后停",
+        "k": "60215e5a3bb8a816"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1019` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单）** ｜ 类型：英国电信/网络经销（Teltronix | Briticom；Wadii = 采购/项目）——第三档分销，项目驱动 ｜ 筛子：3（两次报价、一次项目 RFQ） ｜ 停点：2024-09-03 的 20 台项目要「24 口 PoE + 4 千兆 + 双冗余电源 + 4 SFP LH + 堆叠线」——Simon 回「not available」直接放弃，没有给近似型号；2025-07 要电源价后无下文；2025-10-31 Alan 的 Booster 资料是否发出未见 ｜ 复活：把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信 ｜ 通路：UK 主攻 ｜ 节奏：季度一封项目型信 ｜ 证据：k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）
+- **绑定等级：轻度绑定（6 封实质来信、两年：2024-09 问 STI-288GP 价 → 20 台项目 RFQ（Saga 无此规格）→ 2025-07 要全铜口报价 + 每行加 AC/DC 电源价 → 2025-10-31 要 Booster 交换机资料；无样品无订单）** ｜ 类型：英国电信/网络经销（Teltronix | Briticom；Wadii = 采购/项目）——第三档分销，项目驱动 ｜ 筛子：3（两次报价、一次项目 RFQ） ｜ 停点：2024-09-03 的 20 台项目要「24 口 PoE + 4 千兆 + 双冗余电源 + 4 SFP LH + 堆叠线」——Simon 回「not available」直接放弃，没有给近似型号；2025-07 要电源价后无下文；2025-10-31 Alan 的 Booster 资料是否发出未见 ｜ 复活：把 2024-09 那张项目清单用 2026 的产品线重新对一遍（STC-424XGGPM 双电源版 + SFP 模块 + 无堆叠说明），一封信 ｜ 通路：UK 主攻 ｜ 节奏：季度一封项目型信 ｜ 证据：k=8d78b38b731525a7 / a0d8cc99242d354d（STI-288GP $60）；47d30031bff4bebe / 9709506348c74b1f（20 台 RFQ → not available）；193727c946660628 / 91be42ffcd4eb096 / 8fa533b181f1ab4b / 79fecf111ba8f0f3（铜口报价 + 电源 HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40）；f22fe1c8ed3e3766（Booster）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
 - **现状一句话**：Wadii 是会回信的采购：每次群发命中他的项目就回一句「价格？」。2024-09 的 20 台项目是实打实的 RFQ，Simon 因为规格里有冗余电源和堆叠线就回了「不可用」；其实 24 口 PoE + 4 SFP 的机架款有，差的只是双电源和堆叠。2025-07 他要了整张铜口报价还追问电源价，说明在做预算；之后没下文。
 - **对方真实需求（有据）**：项目型机架 PoE（24 口 + 4 SFP + 冗余电源）；工业铜口 FS；Booster PoE。
 - **断点 / 为什么停在这里**：Saga 对「不完全匹配」的 RFQ 一句话放弃（2024-09）。
@@ -58,6 +58,7 @@ updated: 2026-10-24
 | 2024-09-03 | 来 | Wadii | I'm looking for 20 switches for a project… 24 port… POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module… stack wise cable | 20 台 RFQ | `47d30031bff4bebe` |
 | 2024-09-03 | 去 | Simon | sorry to tell you that this specification is not available on our product list. | 一句放弃 | `9709506348c74b1f` |
 | 2025-07-07 | 来 | Wadii | Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? | 做预算 | `8fa533b181f1ab4b` |
+| 2025-07-07 | 去 | Alan（Quotation_Copper Switch.pdf，Buyer TELTRONIX / Wadii Kherfani，EXW UK） | STI-050FE 5×FE $22.5；STI-054FP 1 FE 上联 + 4 FE PoE 120W $30；STI-050GE 5×GE $25；STI-054GP $32.5；STI-080FE 8×FE $25.5；STI-088FP 8×FE PoE 240W $36.5…（全铜口非管理工业系列整表） | 对方要的「全铜口 + 每行 AC/DC」报价 Saga 已给整表；此后无回 | `gmail_a att 2025-07-07` |
 | 2025-07-08 | 去 | Alan | HDR-30-24: 15usd/pc… NDR-120-48: 25usd/pc… NDR-240-48: 40usd/pc | 电源价 | `79fecf111ba8f0f3` |
 
 ## 基本事实（事实/推断/假设分层）

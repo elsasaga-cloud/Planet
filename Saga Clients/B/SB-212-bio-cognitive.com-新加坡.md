@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。（调研 2026-10-21；表内兴趣：16电 VC 安防   网站：CCTV）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-07-07 → 2025-07-07）；最近一次客户回复：2025-07-07：问了一个型号
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP / STC-28GP — —；按主表
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP / STC-28GP — —；历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报
 - **第一问（只问一个）**：Amy — did the 4/8-port PoE quote from July fit the access-control job, or did the count change?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → amyhoi@bio-cognitive.com 一句话
@@ -44,17 +44,18 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-212` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2025-07-07 Amy Hoi 问 4 口 PoE+1 上联 / 8 口 PoE+1 上联 价格 → 当天确认千兆 → 报价已发；无后续）** ｜ 类型：新加坡安防/生物识别集成商（Bio-Cognitive；Amy = 采购） ｜ 筛子：3（报价） ｜ 停点：报价后无回 ｜ 复活：一句话 ｜ 通路：SG 非主攻 ｜ 节奏：一封 ｜ 证据：k=1341fd835e388fae / c50c979afd340a2c / 2cd8f7648aaf3ba2
+- **绑定等级：轻度触达（2025-07-07 Amy Hoi 问 4 口 PoE+1 上联 / 8 口 PoE+1 上联 价格 → 当天确认千兆 → 报价已发；无后续）** ｜ 类型：新加坡安防/生物识别集成商（Bio-Cognitive；Amy = 采购） ｜ 筛子：3（报价） ｜ 停点：报价后无回 ｜ 复活：一句话 ｜ 通路：SG 非主攻 ｜ 节奏：一封 ｜ 证据：k=1341fd835e388fae / c50c979afd340a2c / 2cd8f7648aaf3ba2；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
 - **现状一句话**：—
 - **对方真实需求（有据）**：4/8 口千兆 PoE + 1 上联（门禁/CCTV）。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-228GP / STC-28GP**（25% 档，按主表）———
+- **Saga 现在该推什么**：P1 **STC-228GP / STC-28GP**（25% 档，历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报）———
 - **下一步（具体）**：2026-11　A 邮箱 → amyhoi@bio-cognitive.com　一句话
   - 第一问（只问一个）：Amy — did the 4/8-port PoE quote from July fit the access-control job, or did the count change?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-07-07 | 来 | Amy Hoi | Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? | 询价 | `1341fd835e388fae` |
+| 2025-07-07 | 去 | Alan（Quotation.pdf，Buyer Bio-Cognitive Solutions Pte Ltd / Amy Hoi，EXW Singapore） | STC-024GP 2 GE 上联 + 4 GE PoE 60W $19.0；STC-204GP 2 SFP + 4 PoE $21.0；STC-028GP 2 GE + 8 PoE 120W $24.5；STC-228GP 2 SFP + 2 GE + 8 PoE 120W Watchdog $36.5；validity 15 days | 当天报了四款商用小 PoE；$19–36.5 是 Realtek 商用线的真实锚；无回 | `gmail_a att 2025-07-07` |
 
 ## 基本事实（事实/推断/假设分层）
 

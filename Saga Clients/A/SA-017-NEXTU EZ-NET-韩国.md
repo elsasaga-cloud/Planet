@@ -35,7 +35,7 @@ updated: 2026-10-24
 - **是谁**：韩国首尔网络/数码周边分销商（2004 年成立），自有品牌 NEXTU / NEXTLINK 约 1,000 个 SKU，网络产品线齐全：L2/L3/安防/90W/网管/非网管 PoE 交换机、工业 PoE、10G 工业 S-RING、政府采购业务；代表 김우경。用户表：Secon 2023 参展商，去过深圳，三次到访谈 bypass/2.5G/10G/波分，MC 与工业 FS 想用自己牌子，联系人 Roadman Kim。（调研 2026-10-21；表内兴趣：知道bypass，后面又来了一次，2.5G/10G带bypass，最后一天再来了一次，问了波分传输设备，bypass；MC 工业FS 用自己的牌子 光模块 商业POE 产品介绍做的很棒）
 - **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 25 次（2024-05-09 → 2025-10-24）；最近一次客户回复：2025-05-20：问了价格
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%） — J4：只追 bypass 一条线（差异品），16 口价格战不追；$225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%） — J4：只追 bypass 一条线（差异品），16 口价格战不追；历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效）
 - **第一问（只问一个）**：Did the 2×2 bypass requirement from May 2025 turn into a project, and is Marvell still acceptable on the NEXTU industrial line?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → eznet66@naver.com（Kim 本人，不发 sales@） 一句话问 bypass 2×2 项目；附 FBP 规格书
@@ -44,17 +44,18 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-017` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（三轮询价：16 口工业 PoE、bypass 4×4/2×2；无付样）——线下三次到访（用户表）** ｜ 类型：韩国自有品牌 NEXTU（≈1,000 SKU）分销商；Roadman Kim——第一档 OEM 类型 ｜ 筛子：2 ｜ 停点：价格 vs 规格：2025-03-04「yr price is higher but yr spec is lower… should support over 300~380w… should be much cheaper」；Alan 2025-03-05 书面说明筛选逻辑并报 95 / 170 USD；2025-05-26 bypass 4×4/2×2 报 280 USD 后无回音 ｜ 复活：370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面 ｜ 通路：KR（Simon 2026-08-02：韩国客户「一些」） ｜ 节奏：2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26 ｜ 证据：k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef
+- **绑定等级：未绑定（三轮询价：16 口工业 PoE、bypass 4×4/2×2；无付样）——线下三次到访（用户表）** ｜ 类型：韩国自有品牌 NEXTU（≈1,000 SKU）分销商；Roadman Kim——第一档 OEM 类型 ｜ 筛子：2 ｜ 停点：价格 vs 规格：2025-03-04「yr price is higher but yr spec is lower… should support over 300~380w… should be much cheaper」；Alan 2025-03-05 书面说明筛选逻辑并报 95 / 170 USD；2025-05-26 bypass 4×4/2×2 报 280 USD 后无回音 ｜ 复活：370W 外壳款（-40~+60℃）存在（Alan 已提）；bypass 2×2 项目落地；Kim 来深圳时见面 ｜ 通路：KR（Simon 2026-08-02：韩国客户「一些」） ｜ 节奏：2024-07 → 2026-09 去信 35 封；最后来信 2025-05-26 ｜ 证据：k=350843fae7f7201b / a073d6411a2a52db / 7a23a71b55abbff5 / b5cbfcb83f46328a / 6b7ea5b03a91b1ef；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
 - **现状一句话**：Kim 2025-02/03 为 16 口工业机讨价（要 300–380W、Marvell、2 SFP、非管理且便宜），Alan 的回信是 A 邮箱里对 C2 筛子最直白的书面表述：「Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go」，并报 16 口铜 95 USD / 16 口 PoE+2 SFP 170 USD、PoE 预算 240W（-40~+70℃）或 370W（-40~+60℃）。2025-05 Kim 又问 bypass 4×4 / 2×2 / 独立 bypass 盒，Alan 报 280 USD、独立盒暂无。此后静默。
 - **对方真实需求（有据）**：16 口工业 PoE ≥300W（2 SFP）、bypass 4×4 / 2×2 管理型、独立 bypass 盒；贴 NEXTU 标。
 - **断点 / 为什么停在这里**：价格筛子生效（对方要 Realtek 价位的 Marvell 机）；但 bypass 是 Saga 少有人问的差异品，停在 280 USD 后没人再问一句。
-- **Saga 现在该推什么**：P1 **Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）**（30% 档，$225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效））——J4：只追 bypass 一条线（差异品），16 口价格战不追
+- **Saga 现在该推什么**：P1 **Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%）**（30% 档，历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $260.4 USD EXW（2026-10-17 快照，15 天有效））——J4：只追 bypass 一条线（差异品），16 口价格战不追
   - 做不了 / 要先核的：370W 外壳款的 SmartByte 型号与价格未在 `价格主表` 标出；Kim 三次到访的内容（用户表）无邮件痕迹
 - **下一步（具体）**：2026-11　A 邮箱 → eznet66@naver.com（Kim 本人，不发 sales@）　一句话问 bypass 2×2 项目；附 FBP 规格书
   - 第一问（只问一个）：Did the 2×2 bypass requirement from May 2025 turn into a project, and is Marvell still acceptable on the NEXTU industrial line?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-21 | 去 | Alan（Quotation.pdf，Buyer EZ-NET Ubiquitous / Roadman Kim，EXW，Destination Korea） | STI-0160GE 16×GE 非管理工业 $105 ×1；STI-21616GP 16×GE PoE + 2×SFP 240W 非管理 $185 ×1；TOTAL 2 pcs $290.00；Price validity 15 days；Warranty 3 years, lifetime technical support；Production time 4~7 working days | 正式报价单上的两个锚（2025-02，老汇率）；对方三次到访后仍未付样 | `gmail_a att 2025-02-21` |
 | 2025-03-04 | 来 | Roadman Kim | yr price is higher but yr spec is lower. 1. we think 16 port industrial poe switch is better to support over 300~380w… based on this spec, a price should be much cheaper. | 价格 vs 规格 | `a073d6411a2a52db` |
 | 2025-03-05 | 去 | Alan | Yes, the prices are high, we can actually reduce it. The purpose for this is, we are filtering our clients… For clients who do not accept or use Marvell solutions, we let it go… 16-port copper, non-PoE: 95usd/pc 16-port PoE+2*1G SFP: 170usd/pc | C2 筛子的书面原话 + 报价 | `7a23a71b55abbff5` |
 | 2025-05-26 | 来 | Kim | pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have unmanaged bypass switch hub? | bypass 需求 | `b5cbfcb83f46328a` |

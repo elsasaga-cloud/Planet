@@ -1,76 +1,119 @@
 {
- "code": "SB-126",
- "name_official": "DEMA Vertriebs-GmbH（dema-vertrieb.com / dema-handel.net，Untermünkheim-Übrigshausen, DE）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "德国巴符州 Untermünkheim 的**五金/园艺/农用/车间用品**进口与电商集团公司（HRB 571318 Stuttgart；1963 年登记；注册资本 €800k；德国 100–249 人，集团含 Stabilo Fachmärkte 连锁 >1,200 人、>€300M 营收；自有品牌 DEMA / Fix Aktiv / Denner Edition；CEO Ulrich Abendschein）。品类与 PoE/工业交换机无关，且属大型集团——行业外 + 规模大。用户表：1 次实质回复，1 次跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "DEMA / Fix Aktiv / Denner Edition（自有品牌，非网络）"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "业务与自有品牌",
-   "quote": "Mit über 10 Jahren Erfahrung im Bereich des eCommerce vertreiben wir erfolgreich Produkte unter den Eigenmarken Dema, Fix Aktiv und Denner Edition. Unser hochwertiges Angebot können Sie in jedem Stabilo Baumarkt oder online in einem unserer eShops erwerben. Wir bieten alles für Handwerker, Monteure, Mechaniker und Heimwerker",
-   "url": "http://dema-vertrieb.com/",
-   "date": "2026-10-21"
+  "code": "SB-126",
+  "name_official": "DEMA Vertriebs-GmbH（dema-vertrieb.com / dema-handel.net，Untermünkheim-Übrigshausen, DE）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "德国巴符州 Untermünkheim 的**五金/园艺/农用/车间用品**进口与电商集团公司（HRB 571318 Stuttgart；1963 年登记；注册资本 €800k；德国 100–249 人，集团含 Stabilo Fachmärkte 连锁 >1,200 人、>€300M 营收；自有品牌 DEMA / Fix Aktiv / Denner Edition；CEO Ulrich Abendschein）。品类与 PoE/工业交换机无关，且属大型集团——行业外 + 规模大。用户表：1 次实质回复，1 次跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "DEMA / Fix Aktiv / Denner Edition（自有品牌，非网络）"
+  ],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "业务与自有品牌",
+      "quote": "Mit über 10 Jahren Erfahrung im Bereich des eCommerce vertreiben wir erfolgreich Produkte unter den Eigenmarken Dema, Fix Aktiv und Denner Edition. Unser hochwertiges Angebot können Sie in jedem Stabilo Baumarkt oder online in einem unserer eShops erwerben. Wir bieten alles für Handwerker, Monteure, Mechaniker und Heimwerker",
+      "url": "http://dema-vertrieb.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "公司档案",
+      "claim": "注册信息与规模",
+      "quote": "DEMA Vertriebs-GmbH Adresse: Im Tobel 4 74547 Untermünkheim … HR-Nummer: HRB 571318 … Gründung: 17.01.1963 … Kapital: 800.000,00 EUR … Mitarbeiter: 100-249",
+      "url": "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/2364036",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "集团站",
+      "claim": "集团规模",
+      "quote": "Sie erwirtschaftet in Deutschland mit den Stabilo Fachmärkten über 300 Millionen Umsatz und beschäftigt im ganzen Konzern mehr als 1200 Angestellte. Dema Deutschland alleine beschäftigt 125 Personen.",
+      "url": "https://dema-handel.ch/ueber-uns/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "1 次实质回复；1 次跟进",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": "C",
+  "override_reason": "2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（公司档案核对）"
   },
-  {
-   "kind": "公司档案",
-   "claim": "注册信息与规模",
-   "quote": "DEMA Vertriebs-GmbH Adresse: Im Tobel 4 74547 Untermünkheim … HR-Nummer: HRB 571318 … Gründung: 17.01.1963 … Kapital: 800.000,00 EUR … Mitarbeiter: 100-249",
-   "url": "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/2364036",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "DEMA Vertriebs-GmbH",
+    "registry": "HRB 571318（Amtsgericht Stuttgart）· USt-ID DE146279485 · LEI 529900NC79L6B29H5354",
+    "hq": "Im Tobel 4, 74547 Untermünkheim (Übrigshausen), Deutschland（+49 7944 98101-0；info@fixversand.de）",
+    "size": "100–249（德国）；集团 >1,200 人 / >€300M（Stabilo 连锁）",
+    "other": "电商 10+ 年；自有品牌 DEMA、Fix Aktiv、Denner Edition；产品进 Stabilo 建材市场与多家网店"
   },
-  {
-   "kind": "集团站",
-   "claim": "集团规模",
-   "quote": "Sie erwirtschaftet in Deutschland mit den Stabilo Fachmärkten über 300 Millionen Umsatz und beschäftigt im ganzen Konzern mehr als 1200 Angestellte. Dema Deutschland alleine beschäftigt 125 Personen.",
-   "url": "https://dema-handel.ch/ueber-uns/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "五金/工具、园艺、农用、车间设备进口与自有品牌",
+    "Stabilo Fachmärkte 连锁与电商"
+  ],
+  "channels": {
+    "网站": "http://dema-vertrieb.com/ · https://dema-handel.net/"
   },
-  {
-   "kind": "用户表",
-   "claim": "1 次实质回复；1 次跟进",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "无网络设备品类；1 次回复可能为礼貌性"
+  ],
+  "risks": [
+    "行业外（DIY/园艺）+ 大集团采购流程——不符合 Saga 小单长期跟进模式"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "不推进；若其电商想增网络品类，按电商 20% 档报 STC-28DGGPM"
+  },
+  "email_hook": "（不发送：行业外 + 大集团）",
+  "mail_review": {
+    "binding": {
+      "level": "轻度触达（2025-06-10 Alan 出全铜口工业系列报价单：STI-050FE $22.5 / STI-054FP $30 / STI-050GE $25 / STI-054GP $32.5 / STI-080FE $25.5 / STI-088FP $36.5；用户表「有回复·跟进中」；C 级人工定级不改）",
+      "type": "德国分销商 Dema Vertriebs GmbH（Markus Geck）",
+      "sieve": "2（要报价、已收报价单）",
+      "stop": "报价后无记录（S/A 邮箱）；C 级",
+      "revive": "德国 = 四主之一；若 Simon 复核愿升 B，则按 2026-11 一句话回访",
+      "lane": "DE 未通",
+      "cadence": "最后 2025-06-10 报价单",
+      "evidence": "A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
+    },
+    "situation": "德国 Dema Vertriebs（Markus Geck）2025-06 要全铜口工业交换机报价，Alan 06-10 出整表报价单（EXW Germany）；之后无来信。",
+    "need": "5/8 口百兆与千兆工业非管理（PoE/非 PoE）整系列价格",
+    "breakpoint": "报价后无回；C 级未再跟",
+    "saga_now": {
+      "p1": "STI-054GP / STI-088GP 级（HRUI 对照表列表价）",
+      "tier": 20,
+      "price": "历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`",
+      "why": "分销商 20% 档",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动（C）；Simon 复核后再定",
+      "channel": "A 邮箱",
+      "action": "—",
+      "one_question": "Markus — did the June-2025 copper industrial switch quotation go anywhere, or was it only for a price check?"
+    },
+    "facts": [
+      {
+        "date": "2025-06-10",
+        "dir": "去",
+        "who": "Alan（Quotation_Copper Switch.pdf，Buyer Dema Vertriebs GmbH / Markus Geck，EXW Germany）",
+        "quote": "STI-050FE $22.5；STI-054FP $30；STI-050GE $25；STI-054GP $32.5；STI-080FE $25.5；STI-088FP $36.5（全铜口非管理工业系列，validity 15 days）",
+        "why": "德国分销商拿到的整表价（2025-06，老汇率）",
+        "k": "gmail_a att 2025-06-10"
+      }
+    ],
+    "proof_gaps": [
+      "C 级定级与「有回复·跟进中」状态矛盾，待 Simon 复核"
+    ],
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": "C",
- "override_reason": "2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（公司档案核对）"
- },
- "company_facts": {
-  "legal_name": "DEMA Vertriebs-GmbH",
-  "registry": "HRB 571318（Amtsgericht Stuttgart）· USt-ID DE146279485 · LEI 529900NC79L6B29H5354",
-  "hq": "Im Tobel 4, 74547 Untermünkheim (Übrigshausen), Deutschland（+49 7944 98101-0；info@fixversand.de）",
-  "size": "100–249（德国）；集团 >1,200 人 / >€300M（Stabilo 连锁）",
-  "other": "电商 10+ 年；自有品牌 DEMA、Fix Aktiv、Denner Edition；产品进 Stabilo 建材市场与多家网店"
- },
- "business_lines": [
-  "五金/工具、园艺、农用、车间设备进口与自有品牌",
-  "Stabilo Fachmärkte 连锁与电商"
- ],
- "channels": {
-  "网站": "http://dema-vertrieb.com/ · https://dema-handel.net/"
- },
- "signals": [
-  "无网络设备品类；1 次回复可能为礼貌性"
- ],
- "risks": [
-  "行业外（DIY/园艺）+ 大集团采购流程——不符合 Saga 小单长期跟进模式"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "不推进；若其电商想增网络品类，按电商 20% 档报 STC-28DGGPM"
- },
- "email_hook": "（不发送：行业外 + 大集团）"
 }

@@ -92,7 +92,7 @@
       "revive": "一封只做两件事的信：① 问 MOH-TA 标书最终结果（中了谁、什么价位）；② 给 400+100 台这一量级的重算价（SmartByte 2026-09 价 + 20%，与 2025-03 相比应有明显下降空间）",
       "lane": "UK 主攻 + 中东项目",
       "cadence": "一封结果信；之后半年一次项目询问，不群发",
-      "evidence": "k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）"
+      "evidence": "k=c9837fd061da8de5（报价 + PL.xls：400/100 台、42 箱、660/760 kg）；5d5ae90a6d294cbd（顺序质疑）；bcfbcbc7aff20e51（too expensive）；2f38e52e0a8ab212（Alan 回法）；d91fcb4809f3db04（要差异说明）；365aa3e5b9a0605e（Q3 版数据表 + 问预算）；7b0d91fec35aaa9c（户外版）；1f18c82924a11d1e（IP 等级解释）；d385ca588de7d060（no news yet）；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）"
     },
     "situation": "2025-03 Linxcom 拿着一张 500 台的项目清单来询价（100 台 8 口 2BT 管理 PoE + 400 台 24 口 10G 上联 L3 工业 PoE，按装箱单合计 760 kg），Alan 当天出报价并说 25~30 个工作日交期。对方次日说贵；Alan 没有谈价，而是讲 Marvell 高端定位并附 ChatGPT 对比。4 月对方还在跟：要 Saga 型号与他们手里数据表的差异说明、要户外版；5 月 15 日说项目还没消息。之后 Alan 转为每月一封群发，再无回复。这是 A 邮箱里体量最大的一张 RFQ（500 台）之一，败因是价格谈判没有展开。",
     "need": "项目级：24 口 L3 工业 PoE（10G 上联）×400 + 8 口 2BT 管理工业 PoE ×100，可能要户外箱体方案。",
@@ -100,7 +100,7 @@
     "saga_now": {
       "p1": "STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算",
       "tier": 20,
-      "price": "按主表 20% 分销档重算；对 500 台量级在信里明确「volume tier」",
+      "price": "历史锚：STI-288DGGPM-2BT $130 ×400 / STI-42424XGGPM(L3) $430 ×100（2025-03-17 报价单，$95,000 合计，老汇率）；现列表 $154 / $517 → 500 台量级 Simon 自定 volume tier，但别低于 Marvell ≥25% 底线",
       "why": "英国分销 + 500 台 RFQ + 采购经理直联",
       "repeat": [],
       "gaps": [
@@ -122,6 +122,14 @@
         "quote": "Please see attached our datasheets and quotation about 2 models you need. 1, our models are Marvell chip based, its for high-end market. 2, production time: 25~30 working days",
         "why": "报价；PL.xls：STI-288DGGPM-2BT 400 pcs / STI-42424XGGPM 100 pcs，42 CTNS，G.W 760 kg",
         "k": "c9837fd061da8de5"
+      },
+      {
+        "date": "2025-03-17",
+        "dir": "去",
+        "who": "Alan（Quotation.pdf，Buyer Linxcom / Hussain Alqahtani，EXW，Destination UK）",
+        "quote": "STI-288DGGPM-2BT 8×GE PoE(6 af/at + 2 bt) + 2×1G/2.5G SFP L2+ 240W ×400 @ $130 = $52,000.00；STI-42424XGGPM 4×10G SFP+ + 24×GE PoE L3 240W/370W 双 DC ×100 @ $430 = $43,000.00；TOTAL 500 pcs $95,000.00；validity 15 days",
+        "why": "Saga 历史最大单笔报价之一（$95k）；次日「too expensive」→ 对手 N-net 规格书（04-22）→ 05-15「no news yet」",
+        "k": "gmail_a att 2025-03-17"
       },
       {
         "date": "2025-03-18",
