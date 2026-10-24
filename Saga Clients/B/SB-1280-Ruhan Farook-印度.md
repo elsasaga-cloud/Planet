@@ -35,9 +35,9 @@ updated: 2026-10-24
 - **为什么是 B 级**：+22 实质回复 1 次；+6 WhatsApp 仅电话名单；-4 只有电话没有邮箱；-8 无邮箱，仅电话/WhatsApp；-6 区域 南亚/印度；+2 最近活动 2024；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 16 次（2023-08-17 → 2024-10-21）；最近一次客户回复：2024-02-29：catalog
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无明确需求，入门 8 口 PoE 管理型作目录钩子。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **第一问（只问一个）**：Catalogue is updated for 2026 — which switch size do you actually quote most, 8-port or 24-port? 8-PoE + 2 SFP L2+ is $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：按 Simon WA 节奏（无邮箱） WhatsApp（Simon） 一句话；不进邮件首封队列
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,8 @@ updated: 2026-10-24
 - **对方真实需求（有据）**：无明确需求，入门 8 口 PoE 管理型作目录钩子。
 - **断点 / 为什么停在这里**：身份不明、无邮箱、仅一次「catalog」
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——无明确需求，入门 8 口 PoE 管理型作目录钩子。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **下一步（具体）**：按 Simon WA 节奏（无邮箱）　WhatsApp（Simon）　一句话；不进邮件首封队列
+  - 第一问（只问一个）：Catalogue is updated for 2026 — which switch size do you actually quote most, 8-port or 24-port? 8-PoE + 2 SFP L2+ is $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

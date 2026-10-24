@@ -1,105 +1,105 @@
 {
- "code": "SB-1224",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
- "summary": "波兰 Obserwuj.pl（CCTV 网店：FS、VC、MC、SFP，「大华产品比较多」；表内「质量一般」；官网 timeout）；表内未跟进。",
- "type": "CCTV 网店（波兰，Dahua 为主）",
- "size": "",
- "brands_seen": [
-  "Dahua"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "FS VC MC SFP 大华产品比较多",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-1224",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（timeout）",
+  "summary": "波兰 Obserwuj.pl（CCTV 网店：FS、VC、MC、SFP，「大华产品比较多」；表内「质量一般」；官网 timeout）；表内未跟进。",
+  "type": "CCTV 网店（波兰，Dahua 为主）",
+  "size": "",
+  "brands_seen": [
+    "Dahua"
+  ],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "FS VC MC SFP 大华产品比较多",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "大华产品比较多",
+      "quote": "FS VC MC SFP 大华产品比较多",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "大华产品比较多",
-   "quote": "FS VC MC SFP 大华产品比较多",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 obserwuj.pl，语言 ?，快照状态 timeout；角色判定来源：待核"
+  },
+  "business_lines": [
+    "CCTV 网店（波兰）"
+  ],
+  "channels": {
+    "role": "CCTV 网店（波兰，Dahua 为主）",
+    "region": "波兰",
+    "contact": "info@obserwuj.pl"
+  },
+  "signals": [
+    "表内：FS VC MC SFP 大华产品比较多；质量一般",
+    "快照：timeout"
+  ],
+  "risks": [
+    "Dahua 自带 PoE 价格基准低；官网 timeout；表内「质量一般」；未跟进过，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  },
+  "email_hook": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「FS VC MC SFP 大华产品比较多」）",
+      "type": "CCTV 网店（波兰，Dahua 为主）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "PL 次级重点",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「FS VC MC SFP 大华产品比较多」；研究档 risks：Dahua 自带 PoE 价格基准低；官网 timeout；表内「质量一般」；未跟进过，仅 info@"
+    },
+    "situation": "波兰 Obserwuj.pl（CCTV 网店：FS、VC、MC、SFP，「大华产品比较多」；表内「质量一般」；官网 timeout）；表内未跟进。",
+    "need": "CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+    "breakpoint": "Dahua 自带 PoE 价格基准低；官网 timeout；表内「质量一般」；未跟进过，仅 info@",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "FS VC MC SFP 大华产品比较多",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "波兰",
-  "other": "官网 obserwuj.pl，语言 ?，快照状态 timeout；角色判定来源：待核"
- },
- "business_lines": [
-  "CCTV 网店（波兰）"
- ],
- "channels": {
-  "role": "CCTV 网店（波兰，Dahua 为主）",
-  "region": "波兰",
-  "contact": "info@obserwuj.pl"
- },
- "signals": [
-  "表内：FS VC MC SFP 大华产品比较多；质量一般",
-  "快照：timeout"
- ],
- "risks": [
-  "Dahua 自带 PoE 价格基准低；官网 timeout；表内「质量一般」；未跟进过，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
- },
- "email_hook": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「FS VC MC SFP 大华产品比较多」）",
-   "type": "CCTV 网店（波兰，Dahua 为主）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "PL 次级重点",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「FS VC MC SFP 大华产品比较多」；研究档 risks：Dahua 自带 PoE 价格基准低；官网 timeout；表内「质量一般」；未跟进过，仅 info@"
-  },
-  "situation": "波兰 Obserwuj.pl（CCTV 网店：FS、VC、MC、SFP，「大华产品比较多」；表内「质量一般」；官网 timeout）；表内未跟进。",
-  "need": "CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-  "breakpoint": "Dahua 自带 PoE 价格基准低；官网 timeout；表内「质量一般」；未跟进过，仅 info@",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "FS VC MC SFP 大华产品比较多",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

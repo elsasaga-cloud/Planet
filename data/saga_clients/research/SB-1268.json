@@ -1,117 +1,117 @@
 {
- "code": "SB-1268",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（westpennwire.com，快照 2026-10-21）",
- "summary": "美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。",
- "type": "线缆制造商（美国，MC/交换机为有源副线）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Low-Voltage wire and cable specialists-West Penn Wire；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换",
-   "quote": "Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications.",
-   "url": "https://westpennwire.com/",
-   "date": "2026-10-21"
+  "code": "SB-1268",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（westpennwire.com，快照 2026-10-21）",
+  "summary": "美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。",
+  "type": "线缆制造商（美国，MC/交换机为有源副线）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Low-Voltage wire and cable specialists-West Penn Wire；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换",
+      "quote": "Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications.",
+      "url": "https://westpennwire.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "无源器件为主 MC switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "West Penn Wire 定位",
+      "quote": "Low-Voltage wire and cable specialists-West Penn Wire ; Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications",
+      "url": "https://westpennwire.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "无源为主 MC switch",
+      "quote": "无源器件为主 MC switch；sigmax的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "无源器件为主 MC switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 westpennwire.com，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "West Penn Wire 定位",
-   "quote": "Low-Voltage wire and cable specialists-West Penn Wire ; Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications",
-   "url": "https://westpennwire.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "光纤 / 低压线缆制造（美国）"
+  ],
+  "channels": {
+    "role": "线缆制造商（美国，MC/交换机为有源副线）",
+    "region": "美国",
+    "contact": "info@westpennwire.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "无源为主 MC switch",
-   "quote": "无源器件为主 MC switch；sigmax的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications；页面 /pdf/brochures/NetworkCableProductsBrochure(8).pdf；kw cable 52",
+    "表内：无源器件为主 MC switch；sigmax 的"
+  ],
+  "risks": [
+    "主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 25,
+    "why": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套"
+  },
+  "email_hook": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「无源器件为主 MC switch」）",
+      "type": "线缆制造商（美国，MC/交换机为有源副线）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "US 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「无源器件为主 MC switch」；研究档 risks：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过"
+    },
+    "situation": "美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。",
+    "need": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套",
+    "breakpoint": "主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 25,
+      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "无源器件为主 MC switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 westpennwire.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "光纤 / 低压线缆制造（美国）"
- ],
- "channels": {
-  "role": "线缆制造商（美国，MC/交换机为有源副线）",
-  "region": "美国",
-  "contact": "info@westpennwire.com"
- },
- "signals": [
-  "官网：Since 1971 West Penn Wire has been the leading US manufacturer of Fiber Optics and Low Voltage Wire and Cable for AV, Security and Networking applications；页面 /pdf/brochures/NetworkCableProductsBrochure(8).pdf；kw cable 52",
-  "表内：无源器件为主 MC switch；sigmax 的"
- ],
- "risks": [
-  "主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 25,
-  "why": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套"
- },
- "email_hook": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「无源器件为主 MC switch」）",
-   "type": "线缆制造商（美国，MC/交换机为有源副线）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "US 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「无源器件为主 MC switch」；研究档 risks：主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过"
-  },
-  "situation": "美国 West Penn Wire（1971 年起的美国光纤与低压线缆制造商（AV、安防、网络）；表内「无源器件为主 MC switch」「sigmax 的」）；表内未跟进。",
-  "need": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套",
-  "breakpoint": "主业无源线缆（Saga 不做），有源为副线且现有来源（表内 sigmax）；仅 info@，未跟进过",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "无源器件为主 MC switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

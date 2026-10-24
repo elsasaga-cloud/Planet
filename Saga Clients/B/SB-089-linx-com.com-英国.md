@@ -282,7 +282,8 @@ Two things from our side:
 One question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.
 
 Thank you.
-Simon
+Alan
+Saga Telecom · sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

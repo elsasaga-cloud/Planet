@@ -35,8 +35,8 @@ updated: 2026-10-24
 - **是谁**：印度古吉拉特（+91 94260）经销商 Subodh，2024 年起多轮索要光产品价格与资料（2 光 4、电口、mini 工业、10G MC），回复多为「有用 暂时没需求」；域名已成占位页，公司活跃度存疑。（调研 2026-10-21；表内兴趣：send price of optical product）
 - **为什么是 B 级**：**调研后定级 B**（需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。）；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 2 次；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；回复暂无需求 2 次；WhatsApp 已加；推送 15 次（2024-01-29 → 2025-06-21）；最近一次客户回复：2024-09-09：thanks
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -48,9 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：印度古吉拉特（+91 94260）经销商 Subodh，2024 年起多轮索要光产品价格与资料（2 光 4、电口、mini 工业、10G MC），回复多为「有用 暂时没需求」；域名已成占位页，公司活跃度存疑。
 - **对方真实需求（有据）**：光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。
 - **断点 / 为什么停在这里**：网站占位 → 活跃度存疑；邮箱可能失效
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit））——光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?
+  - 第一问（只问一个）：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

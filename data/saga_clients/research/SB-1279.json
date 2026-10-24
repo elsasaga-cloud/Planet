@@ -76,7 +76,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
       "why": "单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）",
       "repeat": [],
       "gaps": []
@@ -85,7 +85,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱",
       "action": "首封：按 email_hook 一问",
-      "one_question": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price?"
+      "one_question": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

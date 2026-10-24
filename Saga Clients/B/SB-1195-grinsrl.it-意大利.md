@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：意大利 Grin Srl（「Energia versatile」电气仪表安装商：4 个行业领域、Siemens 合作伙伴、工业/SCADA；表内「switch」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：意大利 Grin Srl（「Energia versatile」电气仪表安装商：4 个行业领域、Siemens 合作伙伴、工业/SCADA；表内「switch」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：电气安装为主（交换机为边缘品类，量小）；表内「质量一般」；仅 info@，未跟进过
-- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit））——工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most?
+  - 第一问（只问一个）：For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

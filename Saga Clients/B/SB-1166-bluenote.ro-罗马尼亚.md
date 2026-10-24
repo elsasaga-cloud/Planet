@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：罗马尼亚 BlueNote Communications（2003 年起 IT 方案：SCADA / IoT / IIoT 集成、电话录音系统、远程抄表、能效监测；SCADA 网店；表内「8K bidi 1 对；2020 年使用国际站」，备注「用的宇航的工业 FS」；KP Petru Pislariu）；表内未跟进。（调研 2026-10-21；表内兴趣：8K bidi  1对 2020年使用国际站）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）；首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：罗马尼亚 BlueNote Communications（2003 年起 IT 方案：SCADA / IoT / IIoT 集成、电话录音系统、远程抄表、能效监测；SCADA 网店；表内「8K bidi 1 对；2020 年使用国际站」，备注「用的宇航的工业 FS」；KP Petru Pislariu）；表内未跟进。
 - **对方真实需求（有据）**：现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：小国（罗马尼亚，非主动挖掘范围）；2020 年国际站来源，未跟进过，联系人职务待核
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on?
+  - 第一问（只问一个）：Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

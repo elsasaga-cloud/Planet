@@ -1,117 +1,117 @@
 {
- "code": "SB-1148",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（akistechnologies.com，快照 2026-10-21）",
- "summary": "立陶宛 AKIS Technologies（排队管理系统与交通管理系统开发商：数字标牌与互动自助机、LAN-RS485 控制器、云平台；表内「工业 FS」）；表内未跟进。",
- "type": "排队/交通管理系统开发商（立陶宛，工业 FS 为配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：The Best Queue Management System - AKIS Technologies；品类词 无线 / WiFi",
-   "quote": "Our company is specializing in queue management systems and transport management systems. We have developed a way to easily manage all aspects of queuing management at the same time. While any business processes require end-to-end human int",
-   "url": "https://www.akistechnologies.com/",
-   "date": "2026-10-21"
+  "code": "SB-1148",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（akistechnologies.com，快照 2026-10-21）",
+  "summary": "立陶宛 AKIS Technologies（排队管理系统与交通管理系统开发商：数字标牌与互动自助机、LAN-RS485 控制器、云平台；表内「工业 FS」）；表内未跟进。",
+  "type": "排队/交通管理系统开发商（立陶宛，工业 FS 为配套）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：The Best Queue Management System - AKIS Technologies；品类词 无线 / WiFi",
+      "quote": "Our company is specializing in queue management systems and transport management systems. We have developed a way to easily manage all aspects of queuing management at the same time. While any business processes require end-to-end human int",
+      "url": "https://www.akistechnologies.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "AKIS 定位",
+      "quote": "The Best Queue Management System - AKIS Technologies ; Our company is specializing in queue management systems and transport management systems ; Transport and Traffic Management",
+      "url": "https://www.akistechnologies.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业 FS",
+      "quote": "工业FS",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "立陶宛",
+    "other": "官网 akistechnologies.com，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "AKIS 定位",
-   "quote": "The Best Queue Management System - AKIS Technologies ; Our company is specializing in queue management systems and transport management systems ; Transport and Traffic Management",
-   "url": "https://www.akistechnologies.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "排队管理 / 交通管理系统（立陶宛）"
+  ],
+  "channels": {
+    "role": "排队/交通管理系统开发商（立陶宛，工业 FS 为配套）",
+    "region": "立陶宛",
+    "contact": "info@akistechnologies.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "工业 FS",
-   "quote": "工业FS",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Our company is specializing in queue management systems and transport management systems；首页 Queue Management System ; Digital Signage and Interactive Kiosks ; Transport and Traffic Management ; Cloud；站内 LAN-RS485 / LT-03100",
+    "表内：工业 FS"
+  ],
+  "risks": [
+    "小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 25,
+    "why": "自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）"
+  },
+  "email_hook": "For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业FS」）",
+      "type": "排队/交通管理系统开发商（立陶宛，工业 FS 为配套）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "立陶宛（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「工业FS」；研究档 risks：小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号"
+    },
+    "situation": "立陶宛 AKIS Technologies（排队管理系统与交通管理系统开发商：数字标牌与互动自助机、LAN-RS485 控制器、云平台；表内「工业 FS」）；表内未跟进。",
+    "need": "自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）",
+    "breakpoint": "小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 25,
+      "price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "立陶宛",
-  "other": "官网 akistechnologies.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "排队管理 / 交通管理系统（立陶宛）"
- ],
- "channels": {
-  "role": "排队/交通管理系统开发商（立陶宛，工业 FS 为配套）",
-  "region": "立陶宛",
-  "contact": "info@akistechnologies.com"
- },
- "signals": [
-  "官网：Our company is specializing in queue management systems and transport management systems；首页 Queue Management System ; Digital Signage and Interactive Kiosks ; Transport and Traffic Management ; Cloud；站内 LAN-RS485 / LT-03100",
-  "表内：工业 FS"
- ],
- "risks": [
-  "小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 25,
-  "why": "自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）"
- },
- "email_hook": "For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业FS」）",
-   "type": "排队/交通管理系统开发商（立陶宛，工业 FS 为配套）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「工业FS」；研究档 risks：小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号"
-  },
-  "situation": "立陶宛 AKIS Technologies（排队管理系统与交通管理系统开发商：数字标牌与互动自助机、LAN-RS485 控制器、云平台；表内「工业 FS」）；表内未跟进。",
-  "need": "自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）",
-  "breakpoint": "小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

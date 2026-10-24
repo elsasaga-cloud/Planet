@@ -1,119 +1,119 @@
 {
- "code": "SB-993",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（nexlar.com，快照 2026-10-21）",
- "summary": "美国 Nexlar Security（休斯顿商用安防与门禁安装商：摄像机、门禁、周界、工业场所项目，已服务 1000+ 企业；ZKTeco；表内「很多牌子的 有自己的 logo」）；表内未跟进。",
- "type": "商用安防集成商（美国休斯顿）",
- "size": "",
- "brands_seen": [
-  "ZKTeco"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Commercial Security & Access Control System Installation；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "#1 Commercial Security, Access Control system & Security Camera installation company. Get the latest new technology for your business. Free Site Survey",
-   "url": "https://www.nexlar.com/",
-   "date": "2026-10-21"
+  "code": "SB-993",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（nexlar.com，快照 2026-10-21）",
+  "summary": "美国 Nexlar Security（休斯顿商用安防与门禁安装商：摄像机、门禁、周界、工业场所项目，已服务 1000+ 企业；ZKTeco；表内「很多牌子的 有自己的 logo」）；表内未跟进。",
+  "type": "商用安防集成商（美国休斯顿）",
+  "size": "",
+  "brands_seen": [
+    "ZKTeco"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Commercial Security & Access Control System Installation；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "#1 Commercial Security, Access Control system & Security Camera installation company. Get the latest new technology for your business. Free Site Survey",
+      "url": "https://www.nexlar.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "很多牌子的 有自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Nexlar 定位",
+      "quote": "Commercial Security & Access Control System Installation ; #1 Commercial Security, Access Control system & Security Camera installation company ; We Have Secured Over 1000 Businesses",
+      "url": "https://www.nexlar.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "很多牌子 有自己的 logo",
+      "quote": "很多牌子的 有自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "很多牌子的 有自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Nexlar 定位",
-   "quote": "Commercial Security & Access Control System Installation ; #1 Commercial Security, Access Control system & Security Camera installation company ; We Have Secured Over 1000 Businesses",
-   "url": "https://www.nexlar.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "商用安防 / 门禁 / 摄像机安装（休斯顿）"
+  ],
+  "channels": {
+    "role": "商用安防集成商（美国休斯顿）",
+    "region": "美国",
+    "contact": "info@nexlar.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "很多牌子 有自己的 logo",
-   "quote": "很多牌子的 有自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：#1 Commercial Security, Access Control system & Security Camera installation company；首页 We Have Secured Over 1000 Businesses；页面 /blogs/industrial-gate-access-control-houston/；kw camera 148 / access control 145 / fiber 11",
+    "表内：很多牌子的 有自己的 logo"
+  ],
+  "risks": [
+    "仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 25,
+    "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）"
+  },
+  "email_hook": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「很多牌子的 有自己的logo」）",
+      "type": "商用安防集成商（美国休斯顿）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "US 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「很多牌子的 有自己的logo」；研究档 risks：仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）"
+    },
+    "situation": "美国 Nexlar Security（休斯顿商用安防与门禁安装商：摄像机、门禁、周界、工业场所项目，已服务 1000+ 企业；ZKTeco；表内「很多牌子的 有自己的 logo」）；表内未跟进。",
+    "need": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
+    "breakpoint": "仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 25,
+      "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "很多牌子的 有自己的logo",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 nexlar.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "商用安防 / 门禁 / 摄像机安装（休斯顿）"
- ],
- "channels": {
-  "role": "商用安防集成商（美国休斯顿）",
-  "region": "美国",
-  "contact": "info@nexlar.com"
- },
- "signals": [
-  "官网：#1 Commercial Security, Access Control system & Security Camera installation company；首页 We Have Secured Over 1000 Businesses；页面 /blogs/industrial-gate-access-control-houston/；kw camera 148 / access control 145 / fiber 11",
-  "表内：很多牌子的 有自己的 logo"
- ],
- "risks": [
-  "仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 25,
-  "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）"
- },
- "email_hook": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「很多牌子的 有自己的logo」）",
-   "type": "商用安防集成商（美国休斯顿）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "US 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「很多牌子的 有自己的logo」；研究档 risks：仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）"
-  },
-  "situation": "美国 Nexlar Security（休斯顿商用安防与门禁安装商：摄像机、门禁、周界、工业场所项目，已服务 1000+ 企业；ZKTeco；表内「很多牌子的 有自己的 logo」）；表内未跟进。",
-  "need": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
-  "breakpoint": "仅 info@，无具名 KP；未跟进过；多品牌采购（Hikvision/Uniview 自带 PoE）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "很多牌子的 有自己的logo",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

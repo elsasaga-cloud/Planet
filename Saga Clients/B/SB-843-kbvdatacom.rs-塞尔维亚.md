@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：塞尔维亚 KBV Datacom（区域电信网络设计、咨询与建设工程领先企业：光纤基础设施、设计、安防系统、电力系统；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（gmail））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：塞尔维亚 KBV Datacom（区域电信网络设计、咨询与建设工程领先企业：光纤基础设施、设计、安防系统、电力系统；阿里巴巴 RTS 订单「Bypass 模块」；KP Dušan Ponjavić（gmail））；表内未跟进。
 - **对方真实需求（有据）**：bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：小国（塞尔维亚，非主动开拓区）；联系邮箱为 gmail 免费邮箱（实体待核）；bypass 模块品类 Saga 不供
-- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，按主表（研究档 saga_fit））——bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
+- **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?
+  - 第一问（只问一个）：Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

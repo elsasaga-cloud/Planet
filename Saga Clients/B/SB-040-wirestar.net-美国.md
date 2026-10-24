@@ -255,7 +255,8 @@ Our CENTEC-based line does: VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6, managed by s
 One question: which role would you test first — a 10G/25G aggregation box or a 100G spine?
 
 Thank you.
-Simon
+Alan
+Saga Telecom · sagatele.com
 ```
 
 > 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。

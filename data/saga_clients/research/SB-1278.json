@@ -76,7 +76,7 @@
     "saga_now": {
       "p1": "LT-IS6312GP-4GX8GT-FBP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
       "why": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。",
       "repeat": [],
       "gaps": []
@@ -85,7 +85,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱",
       "action": "首封：按 email_hook 一问",
-      "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes?"
+      "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

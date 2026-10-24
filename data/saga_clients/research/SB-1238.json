@@ -91,7 +91,7 @@
     "saga_now": {
       "p1": "STI-080GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
       "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
       "repeat": [],
       "gaps": []
@@ -100,7 +100,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱",
       "action": "首封：按 email_hook 一问",
-      "one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?"
+      "one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

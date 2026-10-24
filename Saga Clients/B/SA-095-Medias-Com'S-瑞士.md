@@ -35,8 +35,8 @@ updated: 2026-10-24
 - **是谁**：瑞士小型经销/集成商，2020 年通过群发成一笔样品单（IM-MC110FE、IM-FP144FE 各 2 台），之后无任何跟进记录。（调研 2026-10-21；表内兴趣：IM-MC110FE  IM-FP144FE 各2个 成样品单）
 - **为什么是 B 级**：**调研后定级 B**（有历史样品成交但停滞 5 年（2020 后 0 跟进），瑞士欧洲区可重启一次；信息不足以判断长期价值 → B 慢跟。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞士；-10 最近活动 2020（陈旧）
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜；首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -48,9 +48,9 @@ updated: 2026-10-24
 - **现状一句话**：瑞士小型经销/集成商，2020 年通过群发成一笔样品单（IM-MC110FE、IM-FP144FE 各 2 台），之后无任何跟进记录。
 - **对方真实需求（有据）**：终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
 - **断点 / 为什么停在这里**：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装
-- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，按主表（研究档 saga_fit））——终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
+- **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?
+  - 第一问（只问一个）：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity).
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

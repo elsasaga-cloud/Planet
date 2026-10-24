@@ -68,10 +68,10 @@
       "gaps": []
     },
     "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
-      "action": "首封：按 email_hook 一问",
-      "one_question": ""
+      "when": "按 Simon WA 节奏（无邮箱）",
+      "channel": "WhatsApp（Simon）",
+      "action": "一句话；不进邮件首封队列",
+      "one_question": "Catalogue is updated for 2026 — which switch size do you actually quote most, 8-port or 24-port? 8-PoE + 2 SFP L2+ is $84.1 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

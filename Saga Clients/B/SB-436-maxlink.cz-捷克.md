@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：捷克 MaxLink（网络元件与配件制造商品牌：WiFi 天线、尾纤、PoE 注入器、PoE 面板、SFP/SFP+ 模块（含 H3C/Cisco 兼容）、PoE 交换机品类；where-to-buy 分销网络；表内「商业 PoE、PoE 配件、自己的 logo、SFP/DAC」「质量高；后边分销商都可以单独跟」；表内无邮箱）；表内无跟进记录。（调研 2026-10-21；表内兴趣：商业POE POE配件 自己的logo SFP DAC等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：捷克 MaxLink（网络元件与配件制造商品牌：WiFi 天线、尾纤、PoE 注入器、PoE 面板、SFP/SFP+ 模块（含 H3C/Cisco 兼容）、PoE 交换机品类；where-to-buy 分销网络；表内「商业 PoE、PoE 配件、自己的 logo、SFP/DAC」「质量高；后边分销商都可以单独跟」；表内无邮箱）；表内无跟进记录。
 - **对方真实需求（有据）**：自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）
 - **断点 / 为什么停在这里**：表内无邮箱：首触前需核实官网联系邮箱（不猜测）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners?
+  - 第一问（只问一个）：For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

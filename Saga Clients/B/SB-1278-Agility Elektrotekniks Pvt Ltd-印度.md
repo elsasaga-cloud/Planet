@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。（调研 2026-10-21；表内兴趣：1/catalogue）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；-6 群发批次名单；+0 仅免费邮箱；-6 区域 南亚/印度；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 2 次；推送 8 次（2023-03-02 → 2023-09-11）；最近一次客户回复：2023-08-15：有用
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。；首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。
 - **对方真实需求（有据）**：bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。
 - **断点 / 为什么停在这里**：印度 BIS 认证要求；gmail
-- **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（25% 档，按主表（研究档 saga_fit））——bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。
+- **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（25% 档，首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes?
+  - 第一问（只问一个）：Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

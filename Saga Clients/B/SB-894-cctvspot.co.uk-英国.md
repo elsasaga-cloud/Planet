@@ -34,10 +34,10 @@ updated: 2026-10-24
 - **是谁**：英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。（调研 2026-10-21；表内兴趣：主要是CCTV 商业PoE Utepo的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。；首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） 网站表单（cctvspot.co.uk，无邮箱） 表单一问（短）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,8 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。
 - **对方真实需求（有据）**：对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
 - **断点 / 为什么停在这里**：无邮箱（需网站表单）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit））——对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。
+- **下一步（具体）**：待 Simon 排期（首封）　网站表单（cctvspot.co.uk，无邮箱）　表单一问（短）
+  - 第一问（只问一个）：Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

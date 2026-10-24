@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：波兰 Delta Poznań（delta.poznan.pl / shopdelta.eu：安防与网络产品分销商兼网店（SFP、VC、MC、PoE、工业品，很多周边产品；oferty@ 报价邮箱）；表内国别波兰；表内「质量一般」「销售平台」；快照抓到的是 poznan.pl 市政府官网（域名误判，待重抓））；表内未跟进。（调研 2026-10-21；表内兴趣：SFP VC MC 很多周边产品；MC  PoE  工业品 VC）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：波兰 Delta Poznań（delta.poznan.pl / shopdelta.eu：安防与网络产品分销商兼网店（SFP、VC、MC、PoE、工业品，很多周边产品；oferty@ 报价邮箱）；表内国别波兰；表内「质量一般」「销售平台」；快照抓到的是 poznan.pl 市政府官网（域名误判，待重抓））；表内未跟进。
 - **对方真实需求（有据）**：MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供
 - **断点 / 为什么停在这里**：快照域名误判（poznan.pl 为市政府站，实际应为 delta.poznan.pl / shopdelta.eu）——待重抓；表内「质量一般」；平台型卖家（低粘性）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most?
+  - 第一问（只问一个）：For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

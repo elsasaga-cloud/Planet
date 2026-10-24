@@ -1,122 +1,122 @@
 {
- "code": "SB-1247",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（spesaelettrica.it，快照 2026-10-21）",
- "summary": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
- "type": "电气材料分销商（意大利，多仓）",
- "size": "",
- "brands_seen": [
-  "Siemens",
-  "Schneider"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Spesa Elettrica；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini presenti su tutto il territorio italiano. Credia",
-   "url": "https://spesaelettrica.it/",
-   "date": "2026-10-21"
+  "code": "SB-1247",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（spesaelettrica.it，快照 2026-10-21）",
+  "summary": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
+  "type": "电气材料分销商（意大利，多仓）",
+  "size": "",
+  "brands_seen": [
+    "Siemens",
+    "Schneider"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Spesa Elettrica；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini presenti su tutto il territorio italiano. Credia",
+      "url": "https://spesaelettrica.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "电气材料专业分销，多仓库分销网络",
+      "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini",
+      "url": "https://spesaelettrica.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch（语境待核）",
+      "quote": "switch；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "电气材料专业分销，多仓库分销网络",
-   "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini",
-   "url": "https://spesaelettrica.it/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "电气材料分销（多品牌、多仓库）"
+  ],
+  "channels": {
+    "role": "电气材料分销商（意大利，多仓）",
+    "region": "意大利",
+    "contact": "info@spesaelettrica.it"
   },
-  {
-   "kind": "用户表",
-   "claim": "switch（语境待核）",
-   "quote": "switch；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：prodotti professionali … delle principali marche di materiale elettrico；fitta rete distributiva con numerosi magazzini",
+    "站内品牌 Siemens / Schneider；kw industrial 279 / telecom 166 / distributor 113"
+  ],
+  "risks": [
+    "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
+    "电气材料分销：网络设备非主业，量小",
+    "无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP"
+  },
+  "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch」）",
+      "type": "电气材料分销商（意大利，多仓）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「switch」；研究档 risks：表内「switch」在电气分销语境可能是开关/断路器，需求待核"
+    },
+    "situation": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
+    "need": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
+    "breakpoint": "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电气材料分销（多品牌、多仓库）"
- ],
- "channels": {
-  "role": "电气材料分销商（意大利，多仓）",
-  "region": "意大利",
-  "contact": "info@spesaelettrica.it"
- },
- "signals": [
-  "官网：prodotti professionali … delle principali marche di materiale elettrico；fitta rete distributiva con numerosi magazzini",
-  "站内品牌 Siemens / Schneider；kw industrial 279 / telecom 166 / distributor 113"
- ],
- "risks": [
-  "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
-  "电气材料分销：网络设备非主业，量小",
-  "无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP"
- },
- "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「switch」）",
-   "type": "电气材料分销商（意大利，多仓）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「switch」；研究档 risks：表内「switch」在电气分销语境可能是开关/断路器，需求待核"
-  },
-  "situation": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
-  "need": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
-  "breakpoint": "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

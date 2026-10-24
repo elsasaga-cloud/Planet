@@ -1,121 +1,121 @@
 {
- "code": "SB-1232",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（raytelsecurity.com，快照 2026-10-21）",
- "summary": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
- "type": "门禁/CCTV 分销商（英国）",
- "size": "",
- "brands_seen": [
-  "Elvox",
-  "Soyal"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel | R；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads, audio and video door entry handsets and audio and video entrance panels. We are Vimar Elvox, Soyal and Raytel ",
-   "url": "https://www.raytelsecurity.com/",
-   "date": "2026-10-21"
+  "code": "SB-1232",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（raytelsecurity.com，快照 2026-10-21）",
+  "summary": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
+  "type": "门禁/CCTV 分销商（英国）",
+  "size": "",
+  "brands_seen": [
+    "Elvox",
+    "Soyal"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel | R；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads, audio and video door entry handsets and audio and video entrance panels. We are Vimar Elvox, Soyal and Raytel ",
+      "url": "https://www.raytelsecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是CCTV 少量商业POE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Raytel 定位",
+      "quote": "Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel ; manufacturers and stockists including proximity readers, biometric readers, access keypads",
+      "url": "https://www.raytelsecurity.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是 CCTV 少量商业 PoE",
+      "quote": "主要是CCTV 少量商业POE；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV 少量商业POE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 raytelsecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Raytel 定位",
-   "quote": "Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - Raytel ; manufacturers and stockists including proximity readers, biometric readers, access keypads",
-   "url": "https://www.raytelsecurity.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "门禁 / 门口机（Elvox / Soyal / 自有 AR 系列）",
+    "CCTV 与配套"
+  ],
+  "channels": {
+    "role": "门禁/CCTV 分销商（英国）",
+    "region": "英国",
+    "contact": "info@raytelsecurity.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "主要是 CCTV 少量商业 PoE",
-   "quote": "主要是CCTV 少量商业POE；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads；站内 AR-888 / AR-TAGK73 / IP-MW7；kw access control 76 / switch 21",
+    "表内：主要是 CCTV 少量商业 PoE；质量一般"
+  ],
+  "risks": [
+    "PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）"
+  },
+  "email_hook": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）",
+      "type": "门禁/CCTV 分销商（英国）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过"
+    },
+    "situation": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
+    "need": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
+    "breakpoint": "PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是CCTV 少量商业POE",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 raytelsecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "门禁 / 门口机（Elvox / Soyal / 自有 AR 系列）",
-  "CCTV 与配套"
- ],
- "channels": {
-  "role": "门禁/CCTV 分销商（英国）",
-  "region": "英国",
-  "contact": "info@raytelsecurity.com"
- },
- "signals": [
-  "官网：Access Control and Door Entry systems manufacturers and stockists including proximity readers, biometric readers, access keypads；站内 AR-888 / AR-TAGK73 / IP-MW7；kw access control 76 / switch 21",
-  "表内：主要是 CCTV 少量商业 PoE；质量一般"
- ],
- "risks": [
-  "PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）"
- },
- "email_hook": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）",
-   "type": "门禁/CCTV 分销商（英国）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 少量商业POE」；研究档 risks：PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过"
-  },
-  "situation": "英国 Raytel Security Systems（门禁与门口机厂商/库存商：Elvox、Soyal、自有 AR- 系列读卡器，CCTV 与配套 PoE；表内「主要是 CCTV 少量商业 PoE」「质量一般」）；表内未跟进。",
-  "need": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
-  "breakpoint": "PoE 为副线（少量商业 PoE）；表内「质量一般」；仅 info@，未跟进过",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "主要是CCTV 少量商业POE",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

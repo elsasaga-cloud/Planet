@@ -1,125 +1,125 @@
 {
- "code": "SB-229",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（multiguide.com，快照 2026-10-21）",
- "summary": "德国 multiGuide GmbH（传感器式停车引导系统制造商，数百个项目；阿里巴巴 RFQ「1 光 2 电 商业 switch」；KP Javier Ferre）；表内未跟进。",
- "type": "停车引导系统制造商（德国，交换机为系统配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Parkleitsysteme von multiGuide",
-   "quote": "Parkleitsysteme von multiGuide fÃ¼hren Sie sicher zum Ziel",
-   "url": "https://multiguide.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "multiGuide 定位",
-   "quote": "Parkleitsysteme von multiGuide ; Sensorbasierte Parkleitsysteme ; Unsere Technologie hat sich in hunderten von Projekten bewährt",
-   "url": "https://multiguide.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "1 光 2 电商业 switch RFQ",
-   "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Javier Ferre",
-   "title": "（职务待核）",
-   "email": "javier.ferre@multiguide.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 multiguide.com，语言 de，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "停车引导系统（自有品牌 multiGuide）"
- ],
- "channels": {
-  "role": "停车引导系统制造商（德国，交换机为系统配套）",
-  "region": "德国",
-  "contact": "javier.ferre@multiguide.com"
- },
- "signals": [
-  "官网：Parkleitsysteme von multiGuide führen Sie sicher zum Ziel ; Sensorbasierte Parkleitsysteme ; Unsere Technologie hat sich in hunderten von Projekten bewährt",
-  "表内：1 光 2 商业 switch / from: 阿里巴巴 RFQ；KP Javier Ferre"
- ],
- "risks": [
-  "交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过"
- ],
- "saga_fit": {
-  "p1": "STI-110GE",
-  "tier": 30,
-  "why": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）"
- },
- "email_hook": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「1光2 商业switch / from: 阿里巴巴RFQ」）",
-   "type": "停车引导系统制造商（德国，交换机为系统配套）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "DE 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「1光2 商业switch / from: 阿里巴巴RFQ」；研究档 risks：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过"
-  },
-  "situation": "德国 multiGuide GmbH（传感器式停车引导系统制造商，数百个项目；阿里巴巴 RFQ「1 光 2 电 商业 switch」；KP Javier Ferre）；表内未跟进。",
-  "need": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）",
-  "breakpoint": "交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过",
-  "saga_now": {
-   "p1": "STI-110GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-229",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（multiguide.com，快照 2026-10-21）",
+  "summary": "德国 multiGuide GmbH（传感器式停车引导系统制造商，数百个项目；阿里巴巴 RFQ「1 光 2 电 商业 switch」；KP Javier Ferre）；表内未跟进。",
+  "type": "停车引导系统制造商（德国，交换机为系统配套）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Parkleitsysteme von multiGuide",
+      "quote": "Parkleitsysteme von multiGuide fÃ¼hren Sie sicher zum Ziel",
+      "url": "https://multiguide.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "multiGuide 定位",
+      "quote": "Parkleitsysteme von multiGuide ; Sensorbasierte Parkleitsysteme ; Unsere Technologie hat sich in hunderten von Projekten bewährt",
+      "url": "https://multiguide.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "1 光 2 电商业 switch RFQ",
+      "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Javier Ferre",
+      "title": "（职务待核）",
+      "email": "javier.ferre@multiguide.com",
+      "phone": "",
+      "source": "用户表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 multiguide.com，语言 de，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "停车引导系统（自有品牌 multiGuide）"
+  ],
+  "channels": {
+    "role": "停车引导系统制造商（德国，交换机为系统配套）",
+    "region": "德国",
+    "contact": "javier.ferre@multiguide.com"
+  },
+  "signals": [
+    "官网：Parkleitsysteme von multiGuide führen Sie sicher zum Ziel ; Sensorbasierte Parkleitsysteme ; Unsere Technologie hat sich in hunderten von Projekten bewährt",
+    "表内：1 光 2 商业 switch / from: 阿里巴巴 RFQ；KP Javier Ferre"
+  ],
+  "risks": [
+    "交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-110GE",
+    "tier": 30,
+    "why": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）"
+  },
+  "email_hook": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「1光2 商业switch / from: 阿里巴巴RFQ」）",
+      "type": "停车引导系统制造商（德国，交换机为系统配套）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "DE 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「1光2 商业switch / from: 阿里巴巴RFQ」；研究档 risks：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过"
+    },
+    "situation": "德国 multiGuide GmbH（传感器式停车引导系统制造商，数百个项目；阿里巴巴 RFQ「1 光 2 电 商业 switch」；KP Javier Ferre）；表内未跟进。",
+    "need": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）",
+    "breakpoint": "交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过",
+    "saga_now": {
+      "p1": "STI-110GE",
+      "tier": 30,
+      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

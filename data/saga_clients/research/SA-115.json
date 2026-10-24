@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
       "why": "光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。",
       "repeat": [],
       "gaps": []
@@ -106,7 +106,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱",
       "action": "首封：按 email_hook 一问",
-      "one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?"
+      "one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

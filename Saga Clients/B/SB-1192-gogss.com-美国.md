@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：美国 GOGSS（gogss.com：销售平台型网店，交换机「比较多的外壳 有国内的」；KP tina@；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：比较多的外壳 有国内的 switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 平台网店 switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 平台网店 switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：美国 GOGSS（gogss.com：销售平台型网店，交换机「比较多的外壳 有国内的」；KP tina@；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：平台网店 switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **断点 / 为什么停在这里**：平台型卖家（低粘性，已有国内货源）；官网 http_error；未跟进过
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——平台网店 switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——平台网店 switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform?
+  - 第一问（只问一个）：Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

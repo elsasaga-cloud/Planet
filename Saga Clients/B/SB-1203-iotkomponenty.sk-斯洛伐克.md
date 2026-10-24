@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：斯洛伐克 IOT Components（iotkomponenty.sk；USR IoT（PUSR）蜂窝路由/串口服务器网店 USR-G781 / G806 / SDR 系列；表内「工业 FS、光猫一小部分，多数还是其他的」「产品不是很多」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS 光猫  一小部分 多数还是其他的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/斯洛伐克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做；首触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：斯洛伐克 IOT Components（iotkomponenty.sk；USR IoT（PUSR）蜂窝路由/串口服务器网店 USR-G781 / G806 / SDR 系列；表内「工业 FS、光猫一小部分，多数还是其他的」「产品不是很多」）；表内无跟进记录。
 - **对方真实需求（有据）**：USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做
 - **断点 / 为什么停在这里**：小网店，产品少，量小
-- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，按主表（研究档 saga_fit））——USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做
+- **Saga 现在该推什么**：P1 **STI-050GE**（20% 档，首触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?
+  - 第一问（只问一个）：Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

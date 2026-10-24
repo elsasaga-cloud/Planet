@@ -44925,7 +44925,7 @@
 "saga_now": {
 "p1": "STI-144GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜",
 "repeat": [],
 "gaps": []
@@ -44934,7 +44934,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?"
+"one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [],
 "proof_gaps": [
@@ -54661,7 +54661,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。",
 "repeat": [],
 "gaps": []
@@ -54670,7 +54670,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?"
+"one_question": "Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -88005,7 +88005,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。",
 "repeat": [],
 "gaps": []
@@ -88014,7 +88014,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km?"
+"one_question": "Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -91057,7 +91057,7 @@
 "proof_gaps": [],
 "draft_en": {
 "subject": "Re: VXLAN / MPLS — CENTEC-based line",
-"body": "Hi, Kyle,\n\nIn April 2025 you asked whether our switches support VXLAN or MPLS, and Alan said no — that was true for the Marvell AC5 access line.\n\nOur CENTEC-based line does: VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6, managed by standard CLI/SNMP (no proprietary controller, so it fits whatever automation you run). Priced SKUs today:\n- STH-8C48DX-HSI — 48x25G + 8x100G — $4,800 USD EXW\n- STH-2C6QX-HSI — 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-32C-HSI — 32x100G — $6,000 USD EXW\n(2026 Q2 list, MA license pre-installed, hot-swap PSU; valid 15 days.)\n\nOne question: which role would you test first — a 10G/25G aggregation box or a 100G spine?\n\nThank you.\nSimon"
+"body": "Hi, Kyle,\n\nIn April 2025 you asked whether our switches support VXLAN or MPLS, and Alan said no — that was true for the Marvell AC5 access line.\n\nOur CENTEC-based line does: VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6, managed by standard CLI/SNMP (no proprietary controller, so it fits whatever automation you run). Priced SKUs today:\n- STH-8C48DX-HSI — 48x25G + 8x100G — $4,800 USD EXW\n- STH-2C6QX-HSI — 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-32C-HSI — 32x100G — $6,000 USD EXW\n(2026 Q2 list, MA license pre-installed, hot-swap PSU; valid 15 days.)\n\nOne question: which role would you test first — a 10G/25G aggregation box or a 100G spine?\n\nThank you.\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -107776,7 +107776,7 @@
 ],
 "draft_en": {
 "subject": "Re: MOH-TA-170325 — 24-port industrial PoE x400",
-"body": "Hi, Hussain,\n\nLast year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.\n\nTwo things from our side:\n1. Volume: at 400 + 100 pcs we quote a volume tier, not the list price you saw in March 2025.\n2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.\n\nOne question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.\n\nThank you.\nSimon"
+"body": "Hi, Hussain,\n\nLast year you asked us to re-price the 24-port industrial L3 PoE (10G uplinks) x400 and the 8-port 2BT x100 for MOH-TA-170325, and later about outdoor-rated versions.\n\nTwo things from our side:\n1. Volume: at 400 + 100 pcs we quote a volume tier, not the list price you saw in March 2025.\n2. Outdoor: the switches stay -40 to +75 C rated; the outdoor part is an IP-rated cabinet with heater/fan, which we can supply with the switch pre-mounted.\n\nOne question: was the MOH tender awarded, and at roughly what unit price did the 24-port industrial PoE close? That tells me whether a volume tier would have won, and how to prepare the next one.\n\nThank you.\nAlan\nSaga Telecom · sagatele.com"
 },
 "as_of": "2026-10-24"
 }
@@ -113780,7 +113780,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 TRASSIR 标；24 口位 STC-424DGGPM-280W",
 "repeat": [],
 "gaps": []
@@ -113789,7 +113789,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first?"
+"one_question": "For the TRASSIR-branded PoE switches in your network catalogue, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your housing — which model do your distributors order most, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -114484,7 +114484,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）",
 "repeat": [],
 "gaps": []
@@ -114493,7 +114493,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?"
+"one_question": "For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -115883,7 +115883,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有 SWP1508（8 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 XVI 标；16 口管理 SWP1016M → HRUI STC-2216GPM（列表价 $137.5）；多外壳需求 = ODM 外观选择",
 "repeat": [],
 "gaps": []
@@ -115892,7 +115892,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the SWP-series PoE switches under the XVI label (SWP1508 / SWP1016M / SWP1024), we can supply the same port layouts on a Marvell platform with a choice of housings from small lots — which SWP model do you reorder most often, so we quote its equivalent first?"
+"one_question": "For the SWP-series PoE switches under the XVI label (SWP1508 / SWP1016M / SWP1024), we can supply the same port layouts on a Marvell platform with a choice of housings from small lots — which SWP model do you reorder most often, so we quote its equivalent first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -119948,7 +119948,7 @@
 "saga_now": {
 "p1": "STH-2C24XF-SFI",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）",
 "repeat": [],
 "gaps": []
@@ -119957,7 +119957,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most?"
+"one_question": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order."
 },
 "facts": [
 {
@@ -139165,7 +139165,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标",
 "repeat": [],
 "gaps": []
@@ -139174,7 +139174,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most?"
+"one_question": "For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -143634,7 +143634,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）",
 "repeat": [],
 "gaps": []
@@ -143643,7 +143643,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first?"
+"one_question": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -144984,7 +144984,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "商用 PoE 补 SKU → STC-28DGGPM（$80.7 @20%，可贴 NS- 标则 30%）；反向 PoE 不供。",
 "repeat": [],
 "gaps": []
@@ -144993,7 +144993,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers?"
+"one_question": "For the NS- range — we can't do reverse-PoE, but the 8-PoE + 2-SFP managed (Marvell) and 16/24-PoE units can carry the Netstar label from small lots; which PoE size sells most to your WISP customers? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -146970,7 +146970,7 @@
 "saga_now": {
 "p1": "STC-424DGGPM-280W",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有品牌含 NDAA 合规交换机 → 24 口 PoE L2+ STC-424DGGPM-280W（$145.7 @30%）贴 Silarius 标；工业位 STI-288GP；需随附元器件来源声明（NDAA 889 不含 Marvell 方案，但需书面确认）",
 "repeat": [],
 "gaps": []
@@ -146979,7 +146979,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE?"
+"one_question": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -166239,7 +166239,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位",
 "repeat": [],
 "gaps": []
@@ -166248,7 +166248,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?"
+"one_question": "Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -167028,7 +167028,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -167037,7 +167037,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel?"
+"one_question": "For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -167246,7 +167246,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "AV/数字标牌项目配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）",
 "repeat": [],
 "gaps": []
@@ -167255,7 +167255,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the switches behind your digital-signage and visitor-attraction installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/IGMP for AV-over-IP) from single units, CE/RoHS, EXW USD — which port count do your AV projects use most?"
+"one_question": "For the switches behind your digital-signage and visitor-attraction installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/IGMP for AV-over-IP) from single units, CE/RoHS, EXW USD — which port count do your AV projects use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -167460,7 +167460,7 @@
 "saga_now": {
 "p1": "STI-080GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）",
 "repeat": [],
 "gaps": []
@@ -167469,7 +167469,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most?"
+"one_question": "For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -167678,7 +167678,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "终端厂商（PoE 受电设备），交换机仅为配套可能 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）作捆绑备选；需求待核",
 "repeat": [],
 "gaps": []
@@ -167687,7 +167687,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list?"
+"one_question": "For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -169056,7 +169056,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供",
 "repeat": [],
 "gaps": []
@@ -169065,7 +169065,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for?"
+"one_question": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -169985,7 +169985,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -169994,7 +169994,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits?"
+"one_question": "For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -170204,7 +170204,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "在售 Wi-Tek PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型替换；非管理位 HRUI STC-028GP（$24.2）",
 "repeat": [],
 "gaps": []
@@ -170213,7 +170213,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the Wi-Tek switches you wholesale with Uniview and Milesight, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS — which Wi-Tek model turns fastest for your installers, so we quote its equivalent first?"
+"one_question": "Alongside the Wi-Tek switches you wholesale with Uniview and Milesight, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS — which Wi-Tek model turns fastest for your installers, so we quote its equivalent first? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -170959,7 +170959,7 @@
 "saga_now": {
 "p1": "STI-288GP",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Extralink 工业 PoE 线补 SKU → STI-288GP（$62.2 @30%）贴牌；商用 STC-28DGGPM。",
 "repeat": [],
 "gaps": []
@@ -170968,7 +170968,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk?"
+"one_question": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -171198,7 +171198,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）",
 "repeat": [],
 "gaps": []
@@ -171207,7 +171207,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?"
+"one_question": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -172125,7 +172125,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "现用宇航（深圳）工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非 PoE STI-280GE（$48.6）作替代；bidi SFP Saga 不供（Q-32）",
 "repeat": [],
 "gaps": []
@@ -172134,7 +172134,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on?"
+"one_question": "Petru, for the industrial switches in your SCADA and metering sites, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units, EXW USD — which uplink and port count do your sites standardise on? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -172713,7 +172713,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM",
 "repeat": [],
 "gaps": []
@@ -172722,7 +172722,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most?"
+"one_question": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -173577,7 +173577,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；配套 8 GE + 2 SFP STI-280GE（$46.6）；SFP/CWDM/跳线 Saga 不供",
 "repeat": [],
 "gaps": []
@@ -173586,7 +173586,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most?"
+"one_question": "Tomasz, for the media converters you carry alongside your fibre cabling and CWDM ranges, we supply gigabit and PoE media converters plus 8-GE + 2 SFP switches (industrial grade, CE/RoHS) neutral-brand from small lots, EXW USD — which MC type do your FTTH and enterprise customers buy most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -174395,7 +174395,7 @@
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位",
 "repeat": [],
 "gaps": [
@@ -174406,7 +174406,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?"
+"one_question": "Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -175569,7 +175569,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "在售 Luxul 8 PoE 管理 / Intellinet 8 PoE / UniFi → 集成商走量位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；AV-over-IP 位 24 GE + 4×10G STC-424XGGM",
 "repeat": [],
 "gaps": []
@@ -175578,7 +175578,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24?"
+"one_question": "For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -177207,7 +177207,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）",
 "repeat": [],
 "gaps": []
@@ -177216,7 +177216,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs?"
+"one_question": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -177485,7 +177485,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有品牌光纤传输线中 MC / 以太网交换机外采 → 工业 MC STI-110GE（$24.3 @30%）、工业 8 GE STI-080GE（$34.0）贴 Fibersystem 标；数据二极管/TEMPEST（政府/国防）线不碰",
 "repeat": [],
 "gaps": []
@@ -177494,7 +177494,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers?"
+"one_question": "Oscar, following our earlier contact: for the gigabit media converters and compact Ethernet switches in your commercial fiber range, we can supply Marvell-based DIN-rail units under the Fibersystem label from small lots (CE/RoHS) — is the converter or the switch the more frequent request from your customers? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -179057,7 +179057,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "平台网店 switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）",
 "repeat": [],
 "gaps": []
@@ -179066,7 +179066,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform?"
+"one_question": "Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -179840,7 +179840,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）",
 "repeat": [],
 "gaps": []
@@ -179849,7 +179849,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most?"
+"one_question": "For the Ethernet switches in your electrical and instrumentation panels, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -180069,7 +180069,7 @@
 "saga_now": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -180078,7 +180078,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?"
+"one_question": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -180746,21 +180746,21 @@
 "evidence": "gmail_digest：out 0；用户表：「兴趣：工业通信 工业FS 周边产品」；研究档 risks：小国；无具名"
 },
 "situation": "罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。",
-"need": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+"need": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP：按最近实报 $60（㉕ 非管理工业线不用档位价；旧写法 $57.4 @20% 作废）。",
 "breakpoint": "小国；无具名",
 "saga_now": {
 "p1": "STI-288GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288GP $60 EXW（最近实报 SA-100 2025-03-18；第 72 批）；按主表（研究档 saga_fit）",
 "why": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
 "repeat": [],
 "gaps": []
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
+"channel": "A 邮箱 → office@icpdas.ro（无具名 KP）",
+"action": "首封一问（EtherWAN 之下的入门工业档）",
+"one_question": "Alongside the EtherWAN and ICP DAS industrial lines you carry, we supply DIN-rail 2-SFP + 8-PoE industrial unmanaged (STI-288GP) and 8-PoE + 2 SFP managed (Marvell L2+) units from small lots, −40~75 °C, CE/RoHS, neutral or your label — is an entry-price industrial tier below EtherWAN of interest to your integrator customers? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -181958,7 +181958,7 @@
 "saga_now": {
 "p1": "STI-050GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-050GE $25 EXW（最近实报 $25（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "USR 工业路由配套 → 工业 5 GE 非管理 STI-050GE（$17.0 @20%）、8 GE STI-080GE（$31.4）；光猫 Saga 不做",
 "repeat": [],
 "gaps": []
@@ -181967,7 +181967,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?"
+"one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -182174,7 +182174,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "摄像机配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -182183,7 +182183,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches you list with IP cameras, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your camera-kit buyers choose most?"
+"one_question": "For the PoE switches you list with IP cameras, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ (and budget 4/8-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your camera-kit buyers choose most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -182391,7 +182391,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "CCTV 方案配套 PoE（含 ePoE 长距需求）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；工业位 STI-288GP；ePoE 250m 长距模式需核 SmartByte 是否支持（待核）",
 "repeat": [],
 "gaps": []
@@ -182400,7 +182400,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE?"
+"one_question": "For the PoE switches behind your IP and HD-CVI installations, we supply a Marvell-based 8-PoE + 2 SFP L2+ switch and DIN-rail industrial PoE models in neutral packing from small lots, CE/RoHS — do your projects more often need standard PoE+ or extended-distance PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -183133,7 +183133,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -183142,7 +183142,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the Utepo PoE switches in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?"
+"one_question": "Alongside the Utepo PoE switches in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -184204,7 +184204,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Dahua 配套 PoE（现 Dahua PFS 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM；非管理位 HRUI STC-028GP",
 "repeat": [],
 "gaps": []
@@ -184213,7 +184213,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most?"
+"one_question": "For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -184784,7 +184784,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标",
 "repeat": [],
 "gaps": []
@@ -184793,7 +184793,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?"
+"one_question": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -186111,7 +186111,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做",
 "repeat": [],
 "gaps": []
@@ -186120,7 +186120,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for?"
+"one_question": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -186798,7 +186798,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
 "repeat": [],
 "gaps": []
@@ -186807,7 +186807,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch?"
+"one_question": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -187280,7 +187280,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Moxa 渠道 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；串口服务器 Saga 不做",
 "repeat": [],
 "gaps": []
@@ -187289,7 +187289,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?"
+"one_question": "For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -187502,7 +187502,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）",
 "repeat": [],
 "gaps": []
@@ -187511,7 +187511,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?"
+"one_question": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -187710,7 +187710,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -187719,7 +187719,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most?"
+"one_question": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -189508,7 +189508,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供",
 "repeat": [],
 "gaps": []
@@ -189517,7 +189517,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most?"
+"one_question": "For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -189957,7 +189957,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "门禁/对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-114GP（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -189966,7 +189966,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?"
+"one_question": "Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -190422,7 +190422,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle",
 "repeat": [],
 "gaps": []
@@ -190431,7 +190431,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most?"
+"one_question": "Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -191193,7 +191193,7 @@
 "saga_now": {
 "p1": "STI-080GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
 "repeat": [],
 "gaps": []
@@ -191202,7 +191202,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?"
+"one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -192361,7 +192361,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -192370,7 +192370,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches?"
+"one_question": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -193545,7 +193545,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
 "repeat": [],
 "gaps": []
@@ -193554,7 +193554,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?"
+"one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -193797,7 +193797,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。",
 "repeat": [],
 "gaps": []
@@ -194678,7 +194678,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）",
 "repeat": [],
 "gaps": []
@@ -194687,7 +194687,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms?"
+"one_question": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -195096,7 +195096,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）",
 "repeat": [],
 "gaps": []
@@ -195105,7 +195105,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most?"
+"one_question": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -195308,7 +195308,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "CCTV 配套商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -195317,7 +195317,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers order most?"
+"one_question": "For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -195730,7 +195730,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；PoE 注入器 Saga 不供（Q-32）",
 "repeat": [],
 "gaps": []
@@ -195739,7 +195739,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE products you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE switch SKU sells most in your shop?"
+"one_question": "For the PoE products you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE switch SKU sells most in your shop? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -198086,7 +198086,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "IP 对讲/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；公寓项目 24 口 STC-424DGGPM-280W（$140.1）",
 "repeat": [],
 "gaps": []
@@ -198095,7 +198095,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches behind your iPlus IP intercom monitors and CCTV kits, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your apartment-block projects typically use?"
+"one_question": "For the PoE switches behind your iPlus IP intercom monitors and CCTV kits, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your apartment-block projects typically use? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -198455,7 +198455,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "MC/switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；SFP Saga 不供",
 "repeat": [],
 "gaps": []
@@ -198464,7 +198464,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the switches and media converters you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS/UKCA, EXW USD — which of these do your customers order most?"
+"one_question": "For the switches and media converters you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS/UKCA, EXW USD — which of these do your customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -198673,7 +198673,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "配套 PoE（现国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；预期低",
 "repeat": [],
 "gaps": []
@@ -198682,7 +198682,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches in your smart-home and CCTV category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installers order most?"
+"one_question": "For the PoE switches in your smart-home and CCTV category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -198893,7 +198893,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "有源副线 → 工业千兆 MC STI-110GE（$23.4 @25%）、8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）作线缆配套",
 "repeat": [],
 "gaps": []
@@ -198902,7 +198902,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?"
+"one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -200113,7 +200113,7 @@
 "saga_now": {
 "p1": "STC-204GP",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-204GP $26.2 EXW（洪瑞 2026-09-30 进价 +档（Q-47 默认；Drive 旧表 $20.4 不用）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有标 6 口百兆 4 PoE 小交换机 → 千兆升级位 HRUI STC-204GP（4 PoE + 2 GE，列表价 $20.4，非 SmartByte）；8 口套装位 STC-28DGGPM（$87.4 @30%）",
 "repeat": [],
 "gaps": []
@@ -200122,7 +200122,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the Zxtech-branded 4-PoE desktop switch sold with your camera kits, we can supply a gigabit 4-PoE + 2-uplink unit (or an 8-PoE + 2 SFP L2+ model for larger kits) under your label from small lots, CE/RoHS/UKCA — which kit size ships most?"
+"one_question": "For the Zxtech-branded 4-PoE desktop switch sold with your camera kits, we can supply a gigabit 4-PoE + 2-uplink unit (or an 8-PoE + 2 SFP L2+ model for larger kits) under your label from small lots, CE/RoHS/UKCA — which kit size ships most? Reference: STC-204GP at $26.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -201937,7 +201937,7 @@
 "saga_now": {
 "p1": "LT-IS6312GP-4GX8GT-FBP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。",
 "repeat": [],
 "gaps": []
@@ -201946,7 +201946,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes?"
+"one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -202374,7 +202374,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）",
 "repeat": [],
 "gaps": []
@@ -202383,7 +202383,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price?"
+"one_question": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -203056,10 +203056,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
+"when": "按 Simon WA 节奏（无邮箱）",
+"channel": "WhatsApp（Simon）",
+"action": "一句话；不进邮件首封队列",
+"one_question": "Catalogue is updated for 2026 — which switch size do you actually quote most, 8-port or 24-port? 8-PoE + 2 SFP L2+ is $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -203425,10 +203425,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
+"when": "不动（无邮箱；待其再询）",
+"channel": "—",
+"action": "不主动；若再问「印度货币价格」，答 USD EXW + 印度 FedEx KYC 口径",
+"one_question": "—"
 },
 "facts": [
 {
@@ -206639,10 +206639,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
+"when": "不动（无任何联系方式；身份待 Simon 在原表 / WhatsApp 对话里核）",
+"channel": "—",
+"action": "身份核实前不发",
+"one_question": "—"
 },
 "facts": [
 {
@@ -225614,7 +225614,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）",
 "repeat": [],
 "gaps": []
@@ -225623,7 +225623,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?"
+"one_question": "Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -235395,7 +235395,7 @@
 "saga_now": {
 "p1": "STI-488DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-488DGGPM $148.5 EXW（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料",
 "repeat": [],
 "gaps": []
@@ -235404,7 +235404,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with?"
+"one_question": "Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -235867,7 +235867,7 @@
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低",
 "repeat": [],
 "gaps": []
@@ -235876,7 +235876,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes?"
+"one_question": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -242741,7 +242741,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -242750,7 +242750,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?"
+"one_question": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -246856,7 +246856,7 @@
 "saga_now": {
 "p1": "STI-154GP",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）",
 "repeat": [],
 "gaps": []
@@ -246865,7 +246865,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough?"
+"one_question": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -251977,7 +251977,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "进口 MC 的经销商 → Saga 工业千兆 MC STI-110GE（$22.4/23.4/24.3）起步；10G MC Saga 价目无，按 SmartByte 型号报并注明。",
 "repeat": [],
 "gaps": []
@@ -251986,7 +251986,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you?"
+"one_question": "Jayesh, you mentioned moving from local-market media converters to direct import — for a first mixed carton (gigabit + 10G MC), what quantity per model would make the freight worthwhile for you? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -256744,7 +256744,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效",
 "repeat": [],
 "gaps": []
@@ -256753,7 +256753,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units?"
+"one_question": "Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -290265,7 +290265,7 @@
 "saga_now": {
 "p1": "STI-288DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$145.7 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期",
 "repeat": [],
 "gaps": []
@@ -290274,7 +290274,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor?"
+"one_question": "Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli)."
 },
 "facts": [
 {
@@ -316609,7 +316609,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有 logo PoE 交换机品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 MaxLink 标；PoE 配件/SFP/DAC Saga 价目无（Q-32）；**邮箱待补**（表内无，需从官网联系页核实后再触达）",
 "repeat": [],
 "gaps": []
@@ -316618,7 +316618,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners?"
+"one_question": "For the PoE switch category under the MaxLink label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and 4/8-port unmanaged PoE units from small lots in your housing and packaging — which port count sells most through your where-to-buy partners? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -318178,7 +318178,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）",
 "repeat": [],
 "gaps": []
@@ -318187,7 +318187,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote?"
+"one_question": "Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -320597,7 +320597,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）",
 "repeat": [],
 "gaps": []
@@ -320606,7 +320606,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?"
+"one_question": "Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -321323,7 +321323,7 @@
 "saga_now": {
 "p1": "STI-110GE",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "VC（MC）RFQ → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；桌面 MC 用 HRUI（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -321332,7 +321332,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need?"
+"one_question": "Miloš, following your media-converter enquiry: we supply gigabit and PoE media converters (industrial DIN-rail; desktop versions available) neutral-brand from small lots, CE/RoHS, EXW USD — what quantity and fibre type (single-mode distance) does your end customer need? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -325803,7 +325803,7 @@
 "saga_now": {
 "p1": "STI-111GP",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供",
 "repeat": [],
 "gaps": []
@@ -325812,7 +325812,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most?"
+"one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -334067,7 +334067,7 @@
 "saga_now": {
 "p1": "STC-424DGGPM-280W",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有 DTK-SW24PL（24 口 PoE）/ SW16PL → 24 口 PoE+ 4×2.5G SFP L2+ STC-424DGGPM-280W（$145.7 @30%）贴 DITEK 标（浪涌模块由其集成）；16 口位 HRUI STC-2016GP（$88.0）；**邮箱待补**（表内无，需从官网联系页核实）",
 "repeat": [],
 "gaps": []
@@ -334076,7 +334076,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the DTK-SW16PL / SW24PL PoE switches sold under the DITEK label, we can be a second ODM source on a Marvell L2+ platform (16/24-PoE + SFP uplinks) from small lots, leaving your surge stage to your own design — which of the two would you dual-source first?"
+"one_question": "For the DTK-SW16PL / SW24PL PoE switches sold under the DITEK label, we can be a second ODM source on a Marvell L2+ platform (16/24-PoE + SFP uplinks) from small lots, leaving your surge stage to your own design — which of the two would you dual-source first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -369331,7 +369331,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有品牌 BeMatik 覆盖 MC / SFP / PoE 交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BeMatik 标；工业位 STI-280GE；MC 位 STI-110GE",
 "repeat": [],
 "gaps": []
@@ -369340,7 +369340,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the BeMatik-branded PoE switches and media converters, we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail gigabit models under your label from small lots, CE/RoHS, neutral packing — which BeMatik SKU is due for a refresh first, the PoE switch or the media converter?"
+"one_question": "For the BeMatik-branded PoE switches and media converters, we build Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail gigabit models under your label from small lots, CE/RoHS, neutral packing — which BeMatik SKU is due for a refresh first, the PoE switch or the media converter? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -374844,7 +374844,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -374853,7 +374853,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits?"
+"one_question": "For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -378581,21 +378581,21 @@
 "evidence": "gmail_digest：out 0；用户表：「买了商业POE / 发不过去 / chetan@mpcl.in / 富通天下」；研究档 risks：邮箱不可达；印度 BIS 要求；南亚非主攻区"
 },
 "situation": "印度公司 MPCL（mpcl.in；chetan@mpcl.in，群发退信「发不过去」）。用户表（富通天下外贸数据）：买了商业 PoE 交换机（从同行进口），非 Saga 成交。邮箱不可达 → 需从官网重新找联系方式；主体待核。",
-"need": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）",
+"need": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP $34.6（洪瑞 2026-09-30 进价 +25%，Q-47 默认；Drive 旧表 $30.8 不用）；24 口 STC-424DGGPM-280W（$140.1）",
 "breakpoint": "邮箱不可达；印度 BIS 要求；南亚非主攻区",
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）",
 "why": "默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）",
 "repeat": [],
 "gaps": []
 },
 "next_move": {
-"when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
+"when": "待新地址（chetan@mpcl.in 退信「发不过去」；官网找到新地址后首封）",
+"channel": "A 邮箱 → 待定（mpcl.in 官网联系页）",
+"action": "先找活地址，再首封一问",
+"one_question": "Hello MPCL team, for the commercial PoE switches you import: 2× SFP + 8× PoE unmanaged at $34.6 USD EXW, 8-PoE + 2 SFP L2+ managed at $84.1, 24-port PoE 280 W L2+ at $140.1 (MOQ 1, 15-day validity) — which configuration do you buy most?"
 },
 "facts": [
 {
@@ -392999,7 +392999,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、24 GE + 4×10G STC-424XGGM（$132.7）",
 "repeat": [],
 "gaps": []
@@ -393008,7 +393008,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need?"
+"one_question": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -393750,10 +393750,10 @@
 "gaps": []
 },
 "next_move": {
-"when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
+"when": "不动（域名不可达；WhatsApp 已加但无实质回复）",
+"channel": "WhatsApp（Simon）/ sales@radiantgroup.org（不可达）",
+"action": "不主动；对方 WA 来问时一句话答",
+"one_question": "—"
 },
 "facts": [
 {
@@ -395226,7 +395226,7 @@
 "saga_now": {
 "p1": "LT-IS6312GP-4GX8GT-FBP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 LT-IS6312GP-4GX8GT-FBP $186.5 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "阿里巴巴询盘为 Bypass → 唯一可直接报价的 bypass 机为 SmartByte 型号 LT-IS6312GP-4GX8GT-FBP（工业 4 SFP + 8 GE PoE 带 bypass，$186.5 @20%；**SmartByte 型号，Saga 暂无对应名**）；非 PoE 版 LT-IS6312G-4GX8GT-FBP（$172.2）",
 "repeat": [],
 "gaps": []
@@ -395235,7 +395235,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design?"
+"one_question": "Igor, following your enquiry on bypass switches: we supply an industrial managed 4-SFP + 8-GE model with hardware bypass (PoE and non-PoE versions, −40~75 °C) from small lots — is the bypass needed on the copper ports or on the fiber uplinks in your design? Reference: the bypass unit at $186.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -447726,7 +447726,7 @@
 "saga_now": {
 "p1": "STI-280GE",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "bypass 模块 Saga 不供（整机 bypass 仅 SmartByte LT-IS6312GP-4GX8GT-FBP $194.3 @25%，注明）→ 常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）、8 PoE STI-288GPM（$82.2）",
 "repeat": [],
 "gaps": []
@@ -447735,7 +447735,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need?"
+"one_question": "Dušan, following your bypass-module order: for the fibre and security networks you build, we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches (and an industrial switch with hardware bypass) from single units, CE/RoHS, EXW USD — which configuration does your next project need? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -465023,16 +465023,16 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit）",
 "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。",
 "repeat": [],
 "gaps": []
 },
 "next_move": {
 "when": "待 Simon 排期（首封）",
-"channel": "A 邮箱",
-"action": "首封：按 email_hook 一问",
-"one_question": ""
+"channel": "网站表单（cctvspot.co.uk，无邮箱）",
+"action": "表单一问（短）",
+"one_question": "Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -465674,7 +465674,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "分销商 PoE 品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
 "repeat": [],
 "gaps": []
@@ -465683,7 +465683,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE?"
+"one_question": "For the PoE switch section of your Minsk catalogue, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your partners order most, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [],
 "proof_gaps": [
@@ -465867,7 +465867,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE",
 "repeat": [],
 "gaps": []
@@ -465876,7 +465876,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most?"
+"one_question": "Alongside the Ruijie, Maipu and Allied Telesis switches you distribute, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-GE + 4×10G units from small lots, CE/RoHS, EXW USD — which PoE size do your resellers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [],
 "proof_gaps": [
@@ -468470,7 +468470,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "CCTV 配套 PoE（现 DK100 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；4 口位 HRUI STC-204GP（$20.4 列表价）",
 "repeat": [],
 "gaps": []
@@ -468479,7 +468479,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches you install with your camera and intercom systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installations use most?"
+"one_question": "For the PoE switches you install with your camera and intercom systems, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [],
 "proof_gaps": [
@@ -470075,7 +470075,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "Hikvision 套装配套 PoE（现 DS-3E0518P-E 类）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）",
 "repeat": [],
 "gaps": []
@@ -470084,7 +470084,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most?"
+"one_question": "For the PoE switches you install with Hikvision kits, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, EXW — which band do your installations use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [],
 "proof_gaps": [
@@ -471159,7 +471159,7 @@
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）",
 "repeat": [],
 "gaps": []
@@ -471168,7 +471168,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?"
+"one_question": "For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [],
 "proof_gaps": [
@@ -472189,7 +472189,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "在售 Advantech EKI 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；EN50155 轨道线不报",
 "repeat": [],
 "gaps": []
@@ -472198,7 +472198,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent?"
+"one_question": "Alongside the Advantech EKI industrial switches in your catalogue, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged units (−40~75 °C, neutral packing, CE/RoHS) from small lots, EXW — which EKI model do your automation customers order most, so we quote its equivalent? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [],
 "proof_gaps": [
@@ -494068,7 +494068,7 @@
 "saga_now": {
 "p1": "STI-288GPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "LTV 标工业 FS（现 Hasvio）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 LTV 标；SFP Saga 不供",
 "repeat": [],
 "gaps": []
@@ -494077,7 +494077,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the industrial PoE switches in the LTV range, we can be a second ODM source (DIN-rail 4/8-PoE + SFP, managed on Marvell L2+ or unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most?"
+"one_question": "For the industrial PoE switches in the LTV range, we can be a second ODM source (DIN-rail 4/8-PoE + SFP, managed on Marvell L2+ or unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -495508,7 +495508,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）",
 "repeat": [],
 "gaps": []
@@ -495517,7 +495517,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most?"
+"one_question": "For the PoE switches in your camera and access-control installs, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (DIN-rail industrial option for gate and yard cabinets; your label available) from single units, FCC/CE/RoHS, EXW USD — which port count do your Houston projects use most? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -496822,7 +496822,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE",
 "repeat": [],
 "gaps": []
@@ -496831,7 +496831,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the Polyvision-branded PoE switches (4-port up to the 50-port unmanaged), we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 24/48-PoE + 4×10G) from small lots in your packaging, CE/RoHS, EXW USD — which size do your dealers reorder most?"
+"one_question": "For the Polyvision-branded PoE switches (4-port up to the 50-port unmanaged), we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 24/48-PoE + 4×10G) from small lots in your packaging, CE/RoHS, EXW USD — which size do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {
@@ -497442,7 +497442,7 @@
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
 "why": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
 "repeat": [],
 "gaps": []
@@ -497451,7 +497451,7 @@
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱",
 "action": "首封：按 email_hook 一问",
-"one_question": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?"
+"one_question": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
 {

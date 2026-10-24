@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：印度个人买家 Suraj Katte（仅 WA 电话，无邮箱）。在单纤 MC 帖下留言，2023-08 问价格册和路由器；20 次推送 1 次实质回复，2024-10 后无跟进。→ B 低优先 25%。（调研 2026-10-21；表内兴趣：单纤MC下留言）
 - **为什么是 B 级**：+22 实质回复 1 次；+6 WhatsApp 仅电话名单；-4 只有电话没有邮箱；+2 兴趣仅 MC/SFP/配件（边缘品类）；-8 无邮箱，仅电话/WhatsApp；-6 区域 南亚/印度；+2 最近活动 2024；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 20 次（2023-03-29 → 2024-10-21）；最近一次客户回复：2023-08-17：问了价格册 还有router
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：印度个人买家 Suraj Katte（仅 WA 电话，无邮箱）。在单纤 MC 帖下留言，2023-08 问价格册和路由器；20 次推送 1 次实质回复，2024-10 后无跟进。→ B 低优先 25%。
 - **对方真实需求（有据）**：单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）
 - **断点 / 为什么停在这里**：无邮箱，只能 WA
-- **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit））——单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）
+- **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——单纤 MC 留言 → 千兆工业收发器起手（单纤需 BiDi SFP，Saga 价目无，Q-32）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price?
+  - 第一问（只问一个）：You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

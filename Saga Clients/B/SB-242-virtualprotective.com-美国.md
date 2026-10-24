@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）；首触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：美国 Virtual Protective（德州建筑工地安防摄像机与监控服务（SPP-2S 系列移动监控设备）；Shopify 订单「90W PoE Injector（外购品）」；KP Jonathan Byrd（Technical Manager））；表内未跟进。
 - **对方真实需求（有据）**：移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：PoE 注入器需求 Saga 不供（Q-32）；自建设备（量随业务）；90 W bt 口型在 Saga 工业 4 口列表中待核
-- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，按主表（研究档 saga_fit））——移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）
+- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，首触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——移动监控塔/拖车配套 → 工业 4 PoE + 1 SFP STI-154GP（$39.2 @25%）/ 4 PoE + 1 GE STI-054GP（$32.5，90 W bt 口型待核）；PoE 注入器 Saga 不供（Q-32）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough?
+  - 第一问（只问一个）：Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

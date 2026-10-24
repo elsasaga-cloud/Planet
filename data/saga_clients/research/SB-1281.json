@@ -67,10 +67,10 @@
       "gaps": []
     },
     "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
-      "action": "首封：按 email_hook 一问",
-      "one_question": ""
+      "when": "不动（无邮箱；待其再询）",
+      "channel": "—",
+      "action": "不主动；若再问「印度货币价格」，答 USD EXW + 印度 FedEx KYC 口径",
+      "one_question": "—"
     },
     "facts": [
       {

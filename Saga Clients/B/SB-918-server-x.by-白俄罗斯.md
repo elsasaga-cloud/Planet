@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：白俄罗斯 Server-X（server-x.by：IT/服务器经销（待核）；表内国别误记保加利亚；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）；首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：白俄罗斯 Server-X（server-x.by：IT/服务器经销（待核）；表内国别误记保加利亚；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：业务范围待核（官网 http_error、表内无兴趣备注）；白俄罗斯结算/合规风险；国别已改白俄罗斯（表内保加利亚为误记）
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，按主表（研究档 saga_fit））——服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——服务器/IT 经销配套 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
+  - 第一问（只问一个）：For the access switches you supply with servers, we offer neutral-brand Marvell-based 24-GE + 4×10G and 8-PoE + 2 SFP L2+ models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

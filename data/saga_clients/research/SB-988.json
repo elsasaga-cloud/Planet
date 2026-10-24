@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
       "why": "LTV 标工业 FS（现 Hasvio）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）、工业 4 PoE + 1 SFP STI-154GP（$40.8）贴 LTV 标；SFP Saga 不供",
       "repeat": [],
       "gaps": []
@@ -106,7 +106,7 @@
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱",
       "action": "首封：按 email_hook 一问",
-      "one_question": "For the industrial PoE switches in the LTV range, we can be a second ODM source (DIN-rail 4/8-PoE + SFP, managed on Marvell L2+ or unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most?"
+      "one_question": "For the industrial PoE switches in the LTV range, we can be a second ODM source (DIN-rail 4/8-PoE + SFP, managed on Marvell L2+ or unmanaged, −40~75 °C, CE/RoHS) in LTV packaging from small lots; EAC by your side — which industrial SKU do your installers order most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

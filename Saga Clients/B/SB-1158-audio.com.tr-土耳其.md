@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：土耳其 Audio Elektronik A.Ş.（40 年楼宇可视对讲与智能家居制造商，「yüzde yüz yerli üretim」100% 本土生产；IP 系统产品线、别墅/小区方案；表内「买的 Hisource 的 PoE」）；表内未跟进。（调研 2026-10-21；表内兴趣：买的hisource的POE）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Audio Elektronik A.Ş.（40 年楼宇可视对讲与智能家居制造商，「yüzde yüz yerli üretim」100% 本土生产；IP 系统产品线、别墅/小区方案；表内「买的 Hisource 的 PoE」）；表内未跟进。
 - **对方真实需求（有据）**：IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：现供 Hisource（价格基准低）；土耳其汇率敏感；仅 info@，未跟进过
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——IP 对讲配套 PoE（现 Hisource）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Audio 标；24 口 STC-424DGGPM-280W（$145.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits?
+  - 第一问（只问一个）：For the PoE switches that power your IP intercom systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; 24-PoE 280 W; budget 4/8-PoE unmanaged) in Audio packaging from small lots, CE/RoHS — which PoE SKU ships most with your site and villa kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

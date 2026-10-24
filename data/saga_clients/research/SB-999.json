@@ -1,118 +1,118 @@
 {
- "code": "SB-999",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（sarmatt.ru，快照 2026-10-21）",
- "summary": "俄罗斯 Sarmatt（专业视频监控设备品牌：DVR、IP 摄像机、配件目录；表内「主要是 CCTV 有一些商业 PoE 自己的 logo」）；表内未跟进。",
- "type": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Sarmatt: профессиональное оборудование для видеонаблюдения；品类词 网络交换 / PoE",
-   "quote": "Профессиональное оборудование для видеонаблюдения",
-   "url": "https://sarmatt.ru/",
-   "date": "2026-10-21"
+  "code": "SB-999",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（sarmatt.ru，快照 2026-10-21）",
+  "summary": "俄罗斯 Sarmatt（专业视频监控设备品牌：DVR、IP 摄像机、配件目录；表内「主要是 CCTV 有一些商业 PoE 自己的 logo」）；表内未跟进。",
+  "type": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Sarmatt: профессиональное оборудование для видеонаблюдения；品类词 网络交换 / PoE",
+      "quote": "Профессиональное оборудование для видеонаблюдения",
+      "url": "https://sarmatt.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "主要是CCTV 有一些商业POE 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Sarmatt 定位",
+      "quote": "Sarmatt: профессиональное оборудование для видеонаблюдения ; /catalog/dvrs/ ; /catalog/ip-cameras/",
+      "url": "https://sarmatt.ru/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "CCTV 有一些商业 PoE 自己的 logo",
+      "quote": "主要是CCTV 有一些商业POE 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "主要是CCTV 有一些商业POE 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "俄罗斯",
+    "other": "官网 sarmatt.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Sarmatt 定位",
-   "quote": "Sarmatt: профессиональное оборудование для видеонаблюдения ; /catalog/dvrs/ ; /catalog/ip-cameras/",
-   "url": "https://sarmatt.ru/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "视频监控设备（自有品牌 Sarmatt）"
+  ],
+  "channels": {
+    "role": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
+    "region": "俄罗斯",
+    "contact": "info@sarmatt.ru"
   },
-  {
-   "kind": "用户表",
-   "claim": "CCTV 有一些商业 PoE 自己的 logo",
-   "quote": "主要是CCTV 有一些商业POE 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：Sarmatt: профессиональное оборудование для видеонаблюдения；页面 /catalog/dvrs/、/catalog/ip-cameras/、/catalog/accessories/；kw poe 6",
+    "表内：主要是 CCTV 有一些商业 PoE 自己的 logo"
+  ],
+  "risks": [
+    "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量",
+    "未跟进过，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
+  },
+  "email_hook": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 有一些商业POE 自己的logo」）",
+      "type": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "RU 次级（Simon 2026-08 点名）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 有一些商业POE 自己的logo」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量"
+    },
+    "situation": "俄罗斯 Sarmatt（专业视频监控设备品牌：DVR、IP 摄像机、配件目录；表内「主要是 CCTV 有一些商业 PoE 自己的 logo」）；表内未跟进。",
+    "need": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
+    "breakpoint": "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 30,
+      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "主要是CCTV 有一些商业POE 自己的logo",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "俄罗斯",
-  "other": "官网 sarmatt.ru，语言 ru，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "视频监控设备（自有品牌 Sarmatt）"
- ],
- "channels": {
-  "role": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
-  "region": "俄罗斯",
-  "contact": "info@sarmatt.ru"
- },
- "signals": [
-  "官网：Sarmatt: профессиональное оборудование для видеонаблюдения；页面 /catalog/dvrs/、/catalog/ip-cameras/、/catalog/accessories/；kw poe 6",
-  "表内：主要是 CCTV 有一些商业 PoE 自己的 logo"
- ],
- "risks": [
-  "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量",
-  "未跟进过，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）"
- },
- "email_hook": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「主要是CCTV 有一些商业POE 自己的logo」）",
-   "type": "俄罗斯 CCTV 品牌商（自有标 PoE 少量）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "RU 次级（Simon 2026-08 点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「主要是CCTV 有一些商业POE 自己的logo」；研究档 risks：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量"
-  },
-  "situation": "俄罗斯 Sarmatt（专业视频监控设备品牌：DVR、IP 摄像机、配件目录；表内「主要是 CCTV 有一些商业 PoE 自己的 logo」）；表内未跟进。",
-  "need": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-  "breakpoint": "俄罗斯：结算/物流/合规风险（EAC 由客户申报）；PoE 为 CCTV 配套少量",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 Sarmatt 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the PoE switches offered under the Sarmatt label with your DVRs and IP cameras, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units in your packaging from small lots, CE/RoHS; EAC by your side — which port count do your dealers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "主要是CCTV 有一些商业POE 自己的logo",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

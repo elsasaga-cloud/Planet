@@ -1,125 +1,125 @@
 {
- "code": "SB-466",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（hanyotele.com，快照 2026-10-21）",
- "summary": "韩国 Hanyo Tele（hanyotele.com 快照 403；ec21 上架 PoE Media Converter 10/100；表内「MC 工业 FS 自己的 logo；多功能 VC 一些无源产品」；KP Nam Sang Jun(Mr.)；表内无邮箱）；表内未跟进。",
- "type": "韩国 MC/工业 FS 品牌商（自有 logo）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：403Error ¿äÃ»ÇÏ½Å ÆäÀÌÁö¿¡ Á¢±Ù ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.",
-   "quote": "",
-   "url": "https://error.blueweb.co.kr/403.html",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "MC 工业 FS 自己的 logo",
-   "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ec21 产品页",
-   "quote": "POE Media Converter 10/100",
-   "url": "https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Nam Sang Jun",
-   "title": "（职务待核）",
-   "email": "",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "韩国",
-  "other": "官网 hanyotele.com，语言 ?，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "MC / 工业 FS / 无源产品（自有品牌，韩国）"
- ],
- "channels": {
-  "role": "韩国 MC/工业 FS 品牌商（自有 logo）",
-  "region": "韩国",
-  "contact": "（表内无邮箱）"
- },
- "signals": [
-  "表内：MC 工业 FS 自己的 logo 多功能 VC 一些无源产品；备注 https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html；KP Nam Sang Jun(Mr.)；可以尝试多跟进一下",
-  "快照：hanyotele.com 403Error"
- ],
- "risks": [
-  "邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供"
- ],
- "saga_fit": {
-  "p1": "STI-111GP",
-  "tier": 30,
-  "why": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供"
- },
- "email_hook": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-de」）",
-   "type": "韩国 MC/工业 FS 品牌商（自有 logo）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "KR 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Conv」；研究档 risks：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供"
-  },
-  "situation": "韩国 Hanyo Tele（hanyotele.com 快照 403；ec21 上架 PoE Media Converter 10/100；表内「MC 工业 FS 自己的 logo；多功能 VC 一些无源产品」；KP Nam Sang Jun(Mr.)；表内无邮箱）；表内未跟进。",
-  "need": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供",
-  "breakpoint": "邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供",
-  "saga_now": {
-   "p1": "STI-111GP",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-466",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（hanyotele.com，快照 2026-10-21）",
+  "summary": "韩国 Hanyo Tele（hanyotele.com 快照 403；ec21 上架 PoE Media Converter 10/100；表内「MC 工业 FS 自己的 logo；多功能 VC 一些无源产品」；KP Nam Sang Jun(Mr.)；表内无邮箱）；表内未跟进。",
+  "type": "韩国 MC/工业 FS 品牌商（自有 logo）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：403Error ¿äÃ»ÇÏ½Å ÆäÀÌÁö¿¡ Á¢±Ù ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.",
+      "quote": "",
+      "url": "https://error.blueweb.co.kr/403.html",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC 工业 FS 自己的 logo",
+      "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ec21 产品页",
+      "quote": "POE Media Converter 10/100",
+      "url": "https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Nam Sang Jun",
+      "title": "（职务待核）",
+      "email": "",
+      "phone": "",
+      "source": "用户表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "韩国",
+    "other": "官网 hanyotele.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "MC / 工业 FS / 无源产品（自有品牌，韩国）"
+  ],
+  "channels": {
+    "role": "韩国 MC/工业 FS 品牌商（自有 logo）",
+    "region": "韩国",
+    "contact": "（表内无邮箱）"
+  },
+  "signals": [
+    "表内：MC 工业 FS 自己的 logo 多功能 VC 一些无源产品；备注 https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html；KP Nam Sang Jun(Mr.)；可以尝试多跟进一下",
+    "快照：hanyotele.com 403Error"
+  ],
+  "risks": [
+    "邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供"
+  ],
+  "saga_fit": {
+    "p1": "STI-111GP",
+    "tier": 30,
+    "why": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供"
+  },
+  "email_hook": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-de」）",
+      "type": "韩国 MC/工业 FS 品牌商（自有 logo）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "KR 次级（点名）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Conv」；研究档 risks：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供"
+    },
+    "situation": "韩国 Hanyo Tele（hanyotele.com 快照 403；ec21 上架 PoE Media Converter 10/100；表内「MC 工业 FS 自己的 logo；多功能 VC 一些无源产品」；KP Nam Sang Jun(Mr.)；表内无邮箱）；表内未跟进。",
+    "need": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供",
+    "breakpoint": "邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供",
+    "saga_now": {
+      "p1": "STI-111GP",
+      "tier": 30,
+      "price": "首触锚价 STI-111GP $30.1 EXW（主表档位（无实报；PDF 上限 $36.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Mr. Nam, for the media converters and industrial switches sold under the Hanyo label, we can be a second ODM source (PoE/gigabit MCs, DIN-rail 5/8-GE + SFP, −40~75 °C, CE/RoHS; KC by your side) from small lots — which MC or switch SKU do you reorder most? Reference: STI-111GP at $30.1 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

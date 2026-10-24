@@ -1,108 +1,108 @@
 {
- "code": "SB-894",
- "name_official": "CCTVSpot（英国）",
- "researched_at": "2026-10-21",
- "website_status": "在线（cctvspot.co.uk，快照 2026-10-21）",
- "summary": "英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "UTEPO",
-  "Hikvision",
-  "Dahua"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "Hikvision / Dahua CCTV 摄像机、系统与 DVR 套件电商",
-   "quote": "CCTV cameras, security systems and dvr kits from Hikvision & Dahua at top prices from cctvspot.co.uk",
-   "url": "https://cctvspot.co.uk/",
-   "date": "2026-10-21"
+  "code": "SB-894",
+  "name_official": "CCTVSpot（英国）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cctvspot.co.uk，快照 2026-10-21）",
+  "summary": "英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "UTEPO",
+    "Hikvision",
+    "Dahua"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "Hikvision / Dahua CCTV 摄像机、系统与 DVR 套件电商",
+      "quote": "CCTV cameras, security systems and dvr kits from Hikvision & Dahua at top prices from cctvspot.co.uk",
+      "url": "https://cctvspot.co.uk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "主要是 CCTV 商业 PoE Utepo 的；销售平台",
+      "quote": "兴趣：主要是CCTV 商业PoE Utepo的",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
   },
-  {
-   "kind": "用户表",
-   "claim": "主要是 CCTV 商业 PoE Utepo 的；销售平台",
-   "quote": "兴趣：主要是CCTV 商业PoE Utepo的",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "legal_name": "CCTVSpot（待核）",
+    "founded": "",
+    "hq": "UK",
+    "size": "小型安防电商",
+    "other": "无公开邮箱"
+  },
+  "business_lines": [
+    "CCTV 电商"
+  ],
+  "channels": {
+    "role": "电商（已售 UTEPO）",
+    "region": "英国"
+  },
+  "signals": [
+    "已售 UTEPO → 同类上架"
+  ],
+  "risks": [
+    "无邮箱（需网站表单）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。"
+  },
+  "email_hook": "（无邮箱；网站表单联系）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要是CCTV 商业PoE Utepo的」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：主要是CCTV 商业PoE Utepo的」；研究档 risks：无邮箱（需网站表单）"
+    },
+    "situation": "英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。",
+    "need": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。",
+    "breakpoint": "无邮箱（需网站表单）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表 20% 档；第 72 批）；按主表（研究档 saga_fit）",
+      "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "网站表单（cctvspot.co.uk，无邮箱）",
+      "action": "表单一问（短）",
+      "one_question": "Alongside the Hikvision / Dahua kits you sell, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch (UTEPO class) and budget 4/8-PoE desktop units from small lots, CE/RoHS/UKCA — would an own-label PoE switch for your kits be worth a 2-unit sample? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：主要是CCTV 商业PoE Utepo的",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "CCTVSpot（待核）",
-  "founded": "",
-  "hq": "UK",
-  "size": "小型安防电商",
-  "other": "无公开邮箱"
- },
- "business_lines": [
-  "CCTV 电商"
- ],
- "channels": {
-  "role": "电商（已售 UTEPO）",
-  "region": "英国"
- },
- "signals": [
-  "已售 UTEPO → 同类上架"
- ],
- "risks": [
-  "无邮箱（需网站表单）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。"
- },
- "email_hook": "（无邮箱；网站表单联系）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要是CCTV 商业PoE Utepo的」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：主要是CCTV 商业PoE Utepo的」；研究档 risks：无邮箱（需网站表单）"
-  },
-  "situation": "英国 Hikvision / Dahua CCTV 套件电商（camera 389 / poe 130 / switch 114），无邮箱（表内销售平台）；表内「主要是 CCTV，商用 PoE UTEPO 的」；无跟进。",
-  "need": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。",
-  "breakpoint": "无邮箱（需网站表单）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "对位 UTEPO 商用 8 PoE → STC-28DGGPM（$80.7 @20%）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：主要是CCTV 商业PoE Utepo的",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

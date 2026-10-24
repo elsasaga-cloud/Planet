@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：从VOLKTEK 买工业交换机）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标
 - **断点 / 为什么停在这里**：体量：出口型制造商（供应商准入流程）；现供 Volktek（台湾）品牌粘性；官网 http_error；未跟进过，仅 info@
-- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit））——自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?
+  - 第一问（只问一个）：For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

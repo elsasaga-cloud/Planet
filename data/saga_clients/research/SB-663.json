@@ -82,10 +82,10 @@
       "gaps": []
     },
     "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
-      "action": "首封：按 email_hook 一问",
-      "one_question": ""
+      "when": "不动（域名不可达；WhatsApp 已加但无实质回复）",
+      "channel": "WhatsApp（Simon）/ sales@radiantgroup.org（不可达）",
+      "action": "不主动；对方 WA 来问时一句话答",
+      "one_question": "—"
     },
     "facts": [
       {

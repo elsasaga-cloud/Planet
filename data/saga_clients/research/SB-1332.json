@@ -71,10 +71,10 @@
       "gaps": []
     },
     "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱",
-      "action": "首封：按 email_hook 一问",
-      "one_question": ""
+      "when": "不动（无任何联系方式；身份待 Simon 在原表 / WhatsApp 对话里核）",
+      "channel": "—",
+      "action": "身份核实前不发",
+      "one_question": "—"
     },
     "facts": [
       {

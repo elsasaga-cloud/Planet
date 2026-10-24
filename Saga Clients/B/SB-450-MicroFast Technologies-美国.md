@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：美国 MicroFast Technologies / MRDS Distributers（面向酒店、办公与企业的技术方案：CCTV 监控、PBX、综合布线、IT 基础设施；阿里巴巴询盘「同轴转网（EoC）」；KP Manishkumar Patel）；表内未跟进。
 - **对方真实需求（有据）**：询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：询盘品类 EoC Saga 不供（Q-32）；小型集成商（量小）；未跟进过
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote?
+  - 第一问（只问一个）：Manish, following your Ethernet-over-coax enquiry: we do not carry EoC adapters, but we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches for CCTV and PBX installs from single units, FCC/CE/RoHS, EXW USD — is there a PoE switch position in the same hotel or office project we could quote? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

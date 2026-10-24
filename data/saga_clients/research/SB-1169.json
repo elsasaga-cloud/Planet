@@ -1,118 +1,118 @@
 {
- "code": "SB-1169",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（cae-groupe.com，快照 2026-10-21）",
- "summary": "法国 Adaltra（原 CAE Groupe：线缆与连接方案设计分销，14 个市场，数据网络产品线（switch 35 / ethernet 43 / fibre 36）；表内「cable / switch 周边产品」）；表内无跟进记录。",
- "type": "线缆与连接方案分销商（法国，数据网络线含交换机）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Adaltra (ex CAE GROUPE) - We-make-the-connection；品类词 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "ADALTRA (ex-CAE GROUPE) conçoit et distribue des solutions intégrées câbles & connectivité pour relier Hommes & infrastructures.",
-   "url": "https://www.cae-groupe.com/",
-   "date": "2026-10-21"
+  "code": "SB-1169",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cae-groupe.com，快照 2026-10-21）",
+  "summary": "法国 Adaltra（原 CAE Groupe：线缆与连接方案设计分销，14 个市场，数据网络产品线（switch 35 / ethernet 43 / fibre 36）；表内「cable / switch 周边产品」）；表内无跟进记录。",
+  "type": "线缆与连接方案分销商（法国，数据网络线含交换机）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Adaltra (ex CAE GROUPE) - We-make-the-connection；品类词 无线 / WiFi / 数据中心 / 企业 IT / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "ADALTRA (ex-CAE GROUPE) conçoit et distribue des solutions intégrées câbles & connectivité pour relier Hommes & infrastructures.",
+      "url": "https://www.cae-groupe.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "cable switch 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Adaltra 定位",
+      "quote": "Adaltra (ex CAE GROUPE) - We-make-the-connection ; ADALTRA (ex-CAE GROUPE) conçoit et distribue des solutions intégrées câbles & connectivité pour relier Hommes & infrastructures.",
+      "url": "https://www.cae-groupe.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "cable switch 周边产品",
+      "quote": "cable switch 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "cable switch 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "法国",
+    "other": "官网 cae-groupe.com，语言 fr，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Adaltra 定位",
-   "quote": "Adaltra (ex CAE GROUPE) - We-make-the-connection ; ADALTRA (ex-CAE GROUPE) conçoit et distribue des solutions intégrées câbles & connectivité pour relier Hommes & infrastructures.",
-   "url": "https://www.cae-groupe.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "线缆与连接方案设计分销（数据网络 / 工业 / 楼宇）"
+  ],
+  "channels": {
+    "role": "线缆与连接方案分销商（法国，数据网络线含交换机）",
+    "region": "法国",
+    "contact": "contact@cae-groupe.fr"
   },
-  {
-   "kind": "用户表",
-   "claim": "cable switch 周边产品",
-   "quote": "cable switch 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：ADALTRA (ex-CAE GROUPE) conçoit et distribue des solutions intégrées câbles & connectivité pour relier Hommes & infrastructures ; Un partenaire de référence sur 14 marchés",
+    "首页：Découvrez notre gamme Réseaux de données；kw ethernet 43 / fibre 36 / switch 35 / gigabit 28"
+  ],
+  "risks": [
+    "主业线缆（EN50575）：交换机为配套品类",
+    "无具名 KP（contact@）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM"
+  },
+  "email_hook": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「cable switch 周边产品」）",
+      "type": "线缆与连接方案分销商（法国，数据网络线含交换机）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "法国（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「cable switch 周边产品」；研究档 risks：主业线缆（EN50575）：交换机为配套品类"
+    },
+    "situation": "法国 Adaltra（原 CAE Groupe：线缆与连接方案设计分销，14 个市场，数据网络产品线（switch 35 / ethernet 43 / fibre 36）；表内「cable / switch 周边产品」）；表内无跟进记录。",
+    "need": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM",
+    "breakpoint": "主业线缆（EN50575）：交换机为配套品类",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "cable switch 周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "法国",
-  "other": "官网 cae-groupe.com，语言 fr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "线缆与连接方案设计分销（数据网络 / 工业 / 楼宇）"
- ],
- "channels": {
-  "role": "线缆与连接方案分销商（法国，数据网络线含交换机）",
-  "region": "法国",
-  "contact": "contact@cae-groupe.fr"
- },
- "signals": [
-  "官网：ADALTRA (ex-CAE GROUPE) conçoit et distribue des solutions intégrées câbles & connectivité pour relier Hommes & infrastructures ; Un partenaire de référence sur 14 marchés",
-  "首页：Découvrez notre gamme Réseaux de données；kw ethernet 43 / fibre 36 / switch 35 / gigabit 28"
- ],
- "risks": [
-  "主业线缆（EN50575）：交换机为配套品类",
-  "无具名 KP（contact@）；无跟进记录"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM"
- },
- "email_hook": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「cable switch 周边产品」）",
-   "type": "线缆与连接方案分销商（法国，数据网络线含交换机）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "法国（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「cable switch 周边产品」；研究档 risks：主业线缆（EN50575）：交换机为配套品类"
-  },
-  "situation": "法国 Adaltra（原 CAE Groupe：线缆与连接方案设计分销，14 个市场，数据网络产品线（switch 35 / ethernet 43 / fibre 36）；表内「cable / switch 周边产品」）；表内无跟进记录。",
-  "need": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM",
-  "breakpoint": "主业线缆（EN50575）：交换机为配套品类",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "数据网络产品线配套交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；24 口位 STC-424DGGPM-280W / STC-424XGGM",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the switches in your Réseaux de données range next to your cabling systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-port (PoE+ / 4×10G) units from small lots, CE/RoHS, EXW USD — which port count do your cabling installers order most?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "cable switch 周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }

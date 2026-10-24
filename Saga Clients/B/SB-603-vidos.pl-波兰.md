@@ -32,8 +32,8 @@ updated: 2026-10-24
 - **是谁**：波兰 VIDOS（可视对讲、密码锁、门禁自动化与 CCTV 生产商/品牌：VIDOS DUO 两线制、VIDOS ONE、IP 可视对讲、M13-XT 监视器；表内「PoE switch 自己的 logo」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：PoE switch 自己的logo）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -45,9 +45,9 @@ updated: 2026-10-24
 - **现状一句话**：波兰 VIDOS（可视对讲、密码锁、门禁自动化与 CCTV 生产商/品牌：VIDOS DUO 两线制、VIDOS ONE、IP 可视对讲、M13-XT 监视器；表内「PoE switch 自己的 logo」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）
 - **断点 / 为什么停在这里**：PoE 为对讲配套（量取决于 IP 系列占比）；表内「质量一般」；仅 biuro@，未跟进过
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——IP 对讲配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；4 口位 HRUI STC-114GP（列表价，注明）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits?
+  - 第一问（只问一个）：For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

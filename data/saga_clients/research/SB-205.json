@@ -1,139 +1,139 @@
 {
- "code": "SB-205",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（tier1ds.com，快照 2026-10-21）",
- "summary": "英国 Tier1 Data Systems Ltd（IT 方案/备件经销：网络、硬件、数据中心，刀片服务器、配置服务，品牌页 Cisco / Juniper / Fortinet / Huawei 等；阿里巴巴 RFQ「Cisco Switch」；KP Sameer JamJam）；表内无跟进记录。",
- "type": "IT 硬件/备件经销商（英国，品牌货为主）",
- "size": "",
- "brands_seen": [
-  "Cisco",
-  "Ubiquiti",
-  "Juniper",
-  "Fortinet",
-  "D-Link",
-  "Huawei",
-  "Extreme",
-  "TP-Link",
-  "Netgear",
-  "Lantech",
-  "Teltonika",
-  "Siemens"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Tier1 Data Systems | Your Own IT Solutions Hub；品类词 数据中心 / 企业 IT / 网络交换 / PoE",
-   "quote": "NETWORKING, HARDWARE AND DATA CENTER；YOUR PARTNER IN SPARE PARTS；CONFIGURATIONS；Top Brands；About Us；Sales Process",
-   "url": "https://tier1ds.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "Cisco Switch / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Tier1 Data Systems",
-   "quote": "Tier1 Data Systems | Your Own IT Solutions Hub ; NETWORKING, HARDWARE AND DATA CENTER ; YOUR PARTNER IN SPARE PARTS",
-   "url": "https://tier1ds.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Cisco Switch RFQ",
-   "quote": "Cisco Switch / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Sameer JamJam",
-   "title": "（阿里巴巴 RFQ 联系人）",
-   "email": "sales@tier1ds.com",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "英国",
-  "other": "官网 tier1ds.com，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "IT 硬件 / 备件 / 数据中心经销"
- ],
- "channels": {
-  "role": "IT 硬件/备件经销商（英国，品牌货为主）",
-  "region": "英国",
-  "contact": "sales@tier1ds.com"
- },
- "signals": [
-  "首页：NETWORKING, HARDWARE AND DATA CENTER / YOUR PARTNER IN SPARE PARTS / CONFIGURATIONS / Blade Servers",
-  "表内：Cisco Switch / from: 阿里巴巴 RFQ；KP Sameer JamJam"
- ],
- "risks": [
-  "RFQ 指定 Cisco：品牌货需求，白牌契合低",
-  "备件/翻新经销：量不稳定；仅 sales@"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 20,
-  "why": "RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低"
- },
- "email_hook": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Cisco Switch / from: 阿里巴巴RFQ」）",
-   "type": "IT 硬件/备件经销商（英国，品牌货为主）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "UK 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「Cisco Switch / from: 阿里巴巴RFQ」；研究档 risks：RFQ 指定 Cisco：品牌货需求，白牌契合低"
-  },
-  "situation": "英国 Tier1 Data Systems Ltd（IT 方案/备件经销：网络、硬件、数据中心，刀片服务器、配置服务，品牌页 Cisco / Juniper / Fortinet / Huawei 等；阿里巴巴 RFQ「Cisco Switch」；KP Sameer JamJam）；表内无跟进记录。",
-  "need": "RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低",
-  "breakpoint": "RFQ 指定 Cisco：品牌货需求，白牌契合低",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "Cisco Switch / from: 阿里巴巴RFQ",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-205",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（tier1ds.com，快照 2026-10-21）",
+  "summary": "英国 Tier1 Data Systems Ltd（IT 方案/备件经销：网络、硬件、数据中心，刀片服务器、配置服务，品牌页 Cisco / Juniper / Fortinet / Huawei 等；阿里巴巴 RFQ「Cisco Switch」；KP Sameer JamJam）；表内无跟进记录。",
+  "type": "IT 硬件/备件经销商（英国，品牌货为主）",
+  "size": "",
+  "brands_seen": [
+    "Cisco",
+    "Ubiquiti",
+    "Juniper",
+    "Fortinet",
+    "D-Link",
+    "Huawei",
+    "Extreme",
+    "TP-Link",
+    "Netgear",
+    "Lantech",
+    "Teltonika",
+    "Siemens"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Tier1 Data Systems | Your Own IT Solutions Hub；品类词 数据中心 / 企业 IT / 网络交换 / PoE",
+      "quote": "NETWORKING, HARDWARE AND DATA CENTER；YOUR PARTNER IN SPARE PARTS；CONFIGURATIONS；Top Brands；About Us；Sales Process",
+      "url": "https://tier1ds.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "Cisco Switch / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Tier1 Data Systems",
+      "quote": "Tier1 Data Systems | Your Own IT Solutions Hub ; NETWORKING, HARDWARE AND DATA CENTER ; YOUR PARTNER IN SPARE PARTS",
+      "url": "https://tier1ds.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Cisco Switch RFQ",
+      "quote": "Cisco Switch / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "kp": [
+    {
+      "name": "Sameer JamJam",
+      "title": "（阿里巴巴 RFQ 联系人）",
+      "email": "sales@tier1ds.com",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "英国",
+    "other": "官网 tier1ds.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "IT 硬件 / 备件 / 数据中心经销"
+  ],
+  "channels": {
+    "role": "IT 硬件/备件经销商（英国，品牌货为主）",
+    "region": "英国",
+    "contact": "sales@tier1ds.com"
+  },
+  "signals": [
+    "首页：NETWORKING, HARDWARE AND DATA CENTER / YOUR PARTNER IN SPARE PARTS / CONFIGURATIONS / Blade Servers",
+    "表内：Cisco Switch / from: 阿里巴巴 RFQ；KP Sameer JamJam"
+  ],
+  "risks": [
+    "RFQ 指定 Cisco：品牌货需求，白牌契合低",
+    "备件/翻新经销：量不稳定；仅 sales@"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 20,
+    "why": "RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低"
+  },
+  "email_hook": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「Cisco Switch / from: 阿里巴巴RFQ」）",
+      "type": "IT 硬件/备件经销商（英国，品牌货为主）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "UK 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「Cisco Switch / from: 阿里巴巴RFQ」；研究档 risks：RFQ 指定 Cisco：品牌货需求，白牌契合低"
+    },
+    "situation": "英国 Tier1 Data Systems Ltd（IT 方案/备件经销：网络、硬件、数据中心，刀片服务器、配置服务，品牌页 Cisco / Juniper / Fortinet / Huawei 等；阿里巴巴 RFQ「Cisco Switch」；KP Sameer JamJam）；表内无跟进记录。",
+    "need": "RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低",
+    "breakpoint": "RFQ 指定 Cisco：品牌货需求，白牌契合低",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 20,
+      "price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "RFQ 为 Cisco 交换机（品牌货）→ 白牌仅作预算替代位：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）；预期低",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "Sameer, following your Cisco switch RFQ: where a project allows a non-Cisco access layer, we supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch (PoE+ option) from small lots, CE/RoHS/UKCA — would a budget alternative be useful for any of your current quotes? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "Cisco Switch / from: 阿里巴巴RFQ",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

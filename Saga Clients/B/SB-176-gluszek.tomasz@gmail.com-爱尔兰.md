@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：爱尔兰的波兰裔安装商/个体 Tomasz Głuszek（Gmail）：购买 2 个工业 90W PoE 注入器样品（成样品单）；2010 年起使用阿里国际站；WhatsApp 已加，3 次实质回复、5 次跟进。已成交小客户。（调研 2026-10-21；表内兴趣：2个工业90W PoE injector样品 2010年使用国际站）
 - **为什么是 B 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/爱尔兰；+2 最近活动 2024
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 5 次（2024-04-28 → 2024-12-13）；最近一次客户回复：2024-12-13：just need : outdoor 48v poe switch or DC POE injectors. Nothing else
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）；首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：待 Simon 排期（首封） A 邮箱 首封：按 email_hook 一问
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：爱尔兰的波兰裔安装商/个体 Tomasz Głuszek（Gmail）：购买 2 个工业 90W PoE 注入器样品（成样品单）；2010 年起使用阿里国际站；WhatsApp 已加，3 次实质回复、5 次跟进。已成交小客户。
 - **对方真实需求（有据）**：终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）
 - **断点 / 为什么停在这里**：个体、单量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱　首封：按 email_hook 一问
-  - 第一问（只问一个）：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet?
+  - 第一问（只问一个）：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

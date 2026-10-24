@@ -1,106 +1,106 @@
 {
- "code": "SB-1213",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。",
- "type": "电气元件制造商（土耳其，自有标工业交换机现 Volktek）",
- "size": "",
- "brands_seen": [
-  "Volktek"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "从VOLKTEK 买工业交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-1213",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。",
+  "type": "电气元件制造商（土耳其，自有标工业交换机现 Volktek）",
+  "size": "",
+  "brands_seen": [
+    "Volktek"
+  ],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "从VOLKTEK 买工业交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "从 Volktek 买工业交换机",
+      "quote": "从VOLKTEK 买工业交换机",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "从 Volktek 买工业交换机",
-   "quote": "从VOLKTEK 买工业交换机",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 klemsan.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核"
+  },
+  "business_lines": [
+    "接线端子 / 电气元件制造（自有品牌 Klemsan）",
+    "工业交换机（贴牌线）"
+  ],
+  "channels": {
+    "role": "电气元件制造商（土耳其，自有标工业交换机现 Volktek）",
+    "region": "土耳其",
+    "contact": "info@klemsan.com.tr"
+  },
+  "signals": [
+    "表内：从 VOLKTEK 买工业交换机",
+    "快照：http_error"
+  ],
+  "risks": [
+    "体量：出口型制造商（供应商准入流程）；现供 Volktek（台湾）品牌粘性；官网 http_error；未跟进过，仅 info@"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 30,
+    "why": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标"
+  },
+  "email_hook": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「从VOLKTEK 买工业交换机」）",
+      "type": "电气元件制造商（土耳其，自有标工业交换机现 Volktek）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「从VOLKTEK 买工业交换机」；研究档 risks：体量：出口型制造商（供应商准入流程）；现供 Volktek（台湾）品牌粘性；官网 http_error；未跟进过，仅 info@"
+    },
+    "situation": "土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。",
+    "need": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标",
+    "breakpoint": "体量：出口型制造商（供应商准入流程）；现供 Volktek（台湾）品牌粘性；官网 http_error；未跟进过，仅 info@",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 30,
+      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "why": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱",
+      "action": "首封：按 email_hook 一问",
+      "one_question": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "从VOLKTEK 买工业交换机",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 klemsan.com.tr，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "接线端子 / 电气元件制造（自有品牌 Klemsan）",
-  "工业交换机（贴牌线）"
- ],
- "channels": {
-  "role": "电气元件制造商（土耳其，自有标工业交换机现 Volktek）",
-  "region": "土耳其",
-  "contact": "info@klemsan.com.tr"
- },
- "signals": [
-  "表内：从 VOLKTEK 买工业交换机",
-  "快照：http_error"
- ],
- "risks": [
-  "体量：出口型制造商（供应商准入流程）；现供 Volktek（台湾）品牌粘性；官网 http_error；未跟进过，仅 info@"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 30,
-  "why": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标"
- },
- "email_hook": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「从VOLKTEK 买工业交换机」）",
-   "type": "电气元件制造商（土耳其，自有标工业交换机现 Volktek）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「从VOLKTEK 买工业交换机」；研究档 risks：体量：出口型制造商（供应商准入流程）；现供 Volktek（台湾）品牌粘性；官网 http_error；未跟进过，仅 info@"
-  },
-  "situation": "土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。",
-  "need": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标",
-  "breakpoint": "体量：出口型制造商（供应商准入流程）；现供 Volktek（台湾）品牌粘性；官网 http_error；未跟进过，仅 info@",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "自有标工业交换机（现 Volktek）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、8 PoE + 2 SFP STI-288GPM（$85.5）贴 Klemsan 标",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱",
-   "action": "首封：按 email_hook 一问",
-   "one_question": "For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source on a Marvell platform (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?"
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "从VOLKTEK 买工业交换机",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
 }
