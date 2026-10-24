@@ -83,7 +83,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch）",
       "why": "自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）。已打开的主题（1/23 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -92,7 +92,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most?"
+      "one_question": "Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

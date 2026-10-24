@@ -95,7 +95,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-25 $300（48 Port PoE Managed Switch）、2025-01-08 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-25 $300（48 Port PoE Managed Switch）、2025-01-08 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）",
       "why": "自有标工业 FS/MC（标价高）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ MC STI-110GE（$24.3）贴标，留足其毛利空间；光猫（ONU）Saga 不供。已打开的主题（1/27 封有打开记录）：「Industrial PoE Switch」(2025-08-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -104,7 +104,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Cesar, for the industrial switches and media converters sold under the Fiber Optic Link label, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit/PoE MC; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which model do your dealers reorder most?"
+      "one_question": "Cesar, for the industrial switches and media converters sold under the Fiber Optic Link label, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit/PoE MC; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which model do your dealers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

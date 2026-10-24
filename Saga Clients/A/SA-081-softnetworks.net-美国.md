@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。（调研 2026-10-21；表内兴趣：工业FS Cisco产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）；最近一次客户回复：2025-04-30：不用非管理的
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT（90W 款） — —；—
-- **第一问（只问一个）**：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT（90W 款） — —；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—
+- **第一问（只问一个）**：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would? Reference: STI-288DGGPM-2BT at $154 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 E 邮箱 → nealc@softnetworks.net 一句话问 5 月报价的反馈
 
@@ -47,9 +47,9 @@ updated: 2026-10-24
 - **现状一句话**：Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。
 - **对方真实需求（有据）**：管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。
 - **断点 / 为什么停在这里**：价格基准（翻新 Cisco）vs 新品。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT（90W 款）**（25% 档，—）———
+- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT（90W 款）**（25% 档，换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—）———
 - **下一步（具体）**：2027-Q1　E 邮箱 → nealc@softnetworks.net　一句话问 5 月报价的反馈
-  - 第一问（只问一个）：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would?
+  - 第一问（只问一个）：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would? Reference: STI-288DGGPM-2BT at $154 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

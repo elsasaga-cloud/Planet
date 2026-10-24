@@ -110,7 +110,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
       "why": "品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -119,7 +119,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?"
+      "one_question": "Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

@@ -137,7 +137,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位",
       "tier": 25,
-      "price": "按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）",
       "why": "一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1",
       "repeat": [],
       "gaps": [
@@ -148,7 +148,7 @@
       "when": "2027-Q1",
       "channel": "A 邮箱 → ets@",
       "action": "问现供价位段",
-      "one_question": "What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits?"
+      "one_question": "What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

@@ -91,7 +91,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
+      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
       "why": "IP PBX/话机部署配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 8 PoE 位 HRUI STC-028GP（列表价，注明）",
       "repeat": [],
       "gaps": []
@@ -100,7 +100,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Alongside the LVswitch PBXs and Grandstream phones you deploy, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE switches for phone rollouts from small lots, CE/RoHS, EXW USD — which port count do your VoIP installs use most?"
+      "one_question": "Alongside the LVswitch PBXs and Grandstream phones you deploy, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE switches for phone rollouts from small lots, CE/RoHS, EXW USD — which port count do your VoIP installs use most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

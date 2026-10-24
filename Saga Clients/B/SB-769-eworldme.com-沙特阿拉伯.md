@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：沙特/阿联酋 Easy World Automation（eWorld；中东工业自动化与数据通信分销：IIoT、Moxa（EDS-205/208、EDS-G205A、EDS-P500、TN-G6500、UPort）等全球品牌；表内「分销商，工业以太网」；KP Mohsen Nejadi（Chief Operating Officer，m.nejadi@）、Akram Jafari（Sales Manager））；群发 10 次无回复。（调研 2026-10-21；表内兴趣：分销商 工业以太网）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-27 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报；换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
+- **第一问（只问一个）**：Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：沙特/阿联酋 Easy World Automation（eWorld；中东工业自动化与数据通信分销：IIoT、Moxa（EDS-205/208、EDS-G205A、EDS-P500、TN-G6500、UPort）等全球品牌；表内「分销商，工业以太网」；KP Mohsen Nejadi（Chief Operating Officer，m.nejadi@）、Akram Jafari（Sales Manager））；群发 10 次无回复。
 - **对方真实需求（有据）**：Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报
 - **断点 / 为什么停在这里**：非主攻区（T5，沙特/阿联酋）
-- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报
+- **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?
+  - 第一问（只问一个）：Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|

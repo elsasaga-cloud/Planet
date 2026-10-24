@@ -100,7 +100,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-22 $65（10G Media Converter）、2025-07-30 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-10-22 $65（10G Media Converter）、2025-07-30 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
       "why": "工业 PoE（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）/ 管理 STI-288GPM（$78.9）；室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）。已打开的主题（1/23 封有打开记录）：「10G Media Converter」(2024-10-22) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -109,7 +109,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most?"
+      "one_question": "Evelin, alongside the ONV industrial PoE switches you carry, we supply neutral-brand DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and 8-PoE + 2 SFP L2+ commercial switches from small lots, CE/RoHS, EXW USD — which industrial PoE SKU do your installers order most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

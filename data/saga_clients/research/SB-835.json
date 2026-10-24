@@ -117,7 +117,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-30 $65（10G Media Converter）、2024-12-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-04 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-30 $65（10G Media Converter）、2024-12-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-04 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
       "why": "自有 SCW 标 4/8/24 口 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；24 口长距 STC-424DGGPM-280W（$145.7）；4 口位 HRUI STC-114GP（列表价，注明）",
       "repeat": [],
       "gaps": []
@@ -126,7 +126,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Benjamin, for the SCW-branded 8-port smart and 24-port extended-transmission PoE switches, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP, 250 m extend mode) in your packaging from small lots, FCC/CE/RoHS — which model do your installers order most with NVR kits?"
+      "one_question": "Benjamin, for the SCW-branded 8-port smart and 24-port extended-transmission PoE switches, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP, 250 m extend mode) in your packaging from small lots, FCC/CE/RoHS — which model do your installers order most with NVR kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

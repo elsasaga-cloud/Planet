@@ -96,7 +96,7 @@
     "saga_now": {
       "p1": "STI-488XGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（10G managed switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-07 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STI-488XGGPM $178.8 EXW（主表档位（Q-59 默认；PDF $269.5 远高于档位，档案注差价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $220（10G managed switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-07 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
       "why": "10G 大口工业 PoE → STI-488XGGPM（4×10G SFP+ + 8 PoE，$178.7 @30%）贴 Inscape 标；入门 STI-288GP。已打开的主题（1/31 封有打开记录）：「24 Port Fiber Switch」(2025-01-07) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -105,7 +105,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one?"
+      "one_question": "Sergio, for the Inscape / PoEsuperstore industrial line — DIN 8-PoE with 4×10G SFP+ uplinks (L2+, −40~75 ℃) under your label from small lots, FCC/CE; is the 10G-uplink SKU the gap you mentioned, or the plain 2-SFP one? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

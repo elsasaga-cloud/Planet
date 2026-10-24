@@ -101,7 +101,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-01 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（Media Converter）、2024-07-31 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-01 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（Media Converter）、2024-07-31 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch）",
       "why": "在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）",
       "repeat": [],
       "gaps": []
@@ -110,7 +110,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?"
+      "one_question": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

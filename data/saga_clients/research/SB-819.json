@@ -80,7 +80,7 @@
     "saga_now": {
       "p1": "STI-280GE",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $220（48 port managed switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
       "why": "工业 FS 位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、商用 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）",
       "repeat": [],
       "gaps": []
@@ -89,7 +89,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most?"
+      "one_question": "For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

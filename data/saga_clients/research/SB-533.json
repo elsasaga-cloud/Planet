@@ -102,7 +102,7 @@
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-16 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）",
+      "price": "换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-16 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）",
       "why": "自有品牌 + 10G/SFP 品类强 → 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$138.0 @30%）贴 Elfcam 标；PoE 位 STC-28DGGPM（$87.4）；2.5G 小交换机位 Saga 无标准型",
       "repeat": [],
       "gaps": []
@@ -111,7 +111,7 @@
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
       "action": "换收件人再发一封",
-      "one_question": "Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?"
+      "one_question": "Franck, for the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
       {

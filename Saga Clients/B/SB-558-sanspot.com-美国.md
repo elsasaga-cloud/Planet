@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：美国 SANspot（官网快照 HTTP 错误；表内「工业 MC MC 自己的 logo；网站上都是 cable 等无源产品」（备注搜索页 media converter）；KP Deepali、vanil@）；群发 20 次无回复。（调研 2026-10-21；表内兴趣：工业MC MC  自己的logo 网站上都是cable等无源产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
 - **历史互动**：推送 20 次（2024-04-29 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）。已打开的主题（1/23 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）。已打开的主题（1/23 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
 
@@ -46,9 +46,9 @@ updated: 2026-10-24
 - **现状一句话**：美国 SANspot（官网快照 HTTP 错误；表内「工业 MC MC 自己的 logo；网站上都是 cable 等无源产品」（备注搜索页 media converter）；KP Deepali、vanil@）；群发 20 次无回复。
 - **对方真实需求（有据）**：自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：官网快照 HTTP 错误（站点待核）；主业无源布线，MC 为副线
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch））——自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）。已打开的主题（1/23 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（Media Converter）、2025-10-08 $280（10G Enterprise SFP Switch））——自有 logo MC（网站以无源为主）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）。已打开的主题（1/23 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
 - **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
-  - 第一问（只问一个）：Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most?
+  - 第一问（只问一个）：Deepali, for the media converters listed under the SANspot label next to your cabling range, we can supply gigabit MCs (desktop or industrial DIN/wall) in your packaging from small lots, FCC/CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
