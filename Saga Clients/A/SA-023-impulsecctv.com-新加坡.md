@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-023` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）** ｜ 类型：新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：可信度核验（网站/地址）后停；当时 sagatele.com 未上线 ｜ 复活：用 sagatele.com + 公司地址重发一次 ｜ 通路：SG 非主攻 ｜ 节奏：一次 ｜ 证据：邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com
+- **绑定等级：未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII** ｜ 类型：新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：可信度核验（网站/地址）后停；当时 sagatele.com 未上线 ｜ 复活：用 sagatele.com + 公司地址重发一次 ｜ 通路：SG 非主攻 ｜ 节奏：一次 ｜ 证据：邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com
 - **现状一句话**：唯一的人工回复在 Elsa 邮箱：对 CENTEC 核心交换机群发问「公司网站和地址」。这是身份核验，不是需求。
 - **对方真实需求（有据）**：自有品牌 PoE 交换机（对位其在用 ONV——用户表）。
 - **断点 / 为什么停在这里**：可信度门槛；现有网站可补。
@@ -54,9 +54,10 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-01-07 | 来（Elsa 箱） | Amol Kumar（Impulse CCTV） | pls share your company website and your address | 核验 | `E 19b9767e81c6fe96` |
-| 2025-02-21 | 去 | Saga（群发） | 「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `f408faefdae4dd88` |
 | 2024-07-08 | 去 | Saga（群发） | 「2.5G Ethernet Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `bbfc5a22d14032ff` |
+| 2025-02-21 | 去 | Saga（群发） | 「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `f408faefdae4dd88` |
+| 2026-01-07 | 来（Elsa 箱） | Amol Kumar（Impulse CCTV） | pls share your company website and your address | 核验 | `E 19b9767e81c6fe96` |
+| 2026-01-08 | 去 | Elsa | For detailed CENTEC-based product information(specifications and datasheets), we usually provide them directly to partners via email… 1. Are you working on a project or developing your own brand? 2. Is this regarding MII compliance, or just a regular import?（附 8C48XF.png） | Amol 01-07 要网站 + 地址，Elsa 01-08 没给（当时无官网），反问项目/品牌 + MII → 无下文；现在 sagatele.com 上线，信稿补这一笔是对的 | `gmail_e 19b9ccd03f17ff1c` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

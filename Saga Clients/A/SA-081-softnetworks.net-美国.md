@@ -34,8 +34,8 @@ updated: 2026-10-24
 - **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。（调研 2026-10-21；表内兴趣：工业FS Cisco产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）；最近一次客户回复：2025-04-30：不用非管理的
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT（90W 款） — 翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—
-- **第一问（只问一个）**：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would? Reference: STI-288DGGPM-2BT at $154 USD EXW (MOQ 1, 15-day validity).
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT（90W 款） — 翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报；自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—
+- **第一问（只问一个）**：Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 E 邮箱 → nealc@softnetworks.net 一句话问 5 月报价的反馈
 
@@ -47,16 +47,18 @@ updated: 2026-10-24
 - **现状一句话**：Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。
 - **对方真实需求（有据）**：管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。
 - **断点 / 为什么停在这里**：价格基准（翻新 Cisco）vs 新品。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT（90W 款）**（25% 档，换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—）——翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报
+- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT（90W 款）**（25% 档，自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—）——翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报
 - **下一步（具体）**：2027-Q1　E 邮箱 → nealc@softnetworks.net　一句话问 5 月报价的反馈
-  - 第一问（只问一个）：Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would? Reference: STI-288DGGPM-2BT at $154 USD EXW (MOQ 1, 15-day validity).
+  - 第一问（只问一个）：Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-29 | 来（Elsa 箱） | Neal Cennamo | I never buy Unmanaged. | 筛选标准 | `E 19682eba2d4de4b4` |
+| 2025-04-30 | 去 | Elsa | We got managed series. Please see attached a typical model, it is a lengthy datasheet with plenty of information, take your time.（附 STI-288DGGPM.pdf；Elsa 给这封加了星标） | 回应「I never buy Unmanaged」→ 给管理型规格书 | `gmail_e 19684d7bc9571faf` |
 | 2025-05-13 | 来（Elsa 箱） | Neal | What is the price for this one? | 询价 | `E 196ca1e02d95c29d` |
+| 2025-05-14 | 去 | Elsa | 1, STI-288DGGPM-2BT: 140usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE, L2+ Managed 6*PoE af/at+2*PoE af/at/bt, 240W budget, Din Rail, Redundant DC44V~57V Input, Excluding optical module and power supply（附 STI-288DGGPM-2BT.pdf） | Saga 给 Neal 的唯一实价 $140（老汇率）→ 无下文；再触同款不得默默写 $154，要点明 FX 7.2→6.7 | `gmail_e 196ccf655de0046f` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 05-14 回价正文未入库
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 05-14 实报 STI-288DGGPM-2BT $140/pc + 规格书；04-30 已先给 STI-288DGGPM 规格书
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -121,7 +123,7 @@ updated: 2026-10-24
   - 官网评价强调「Cisco 现货当天发」——客户买的是现货与速度；新品白牌工业机需以库存/快发匹配（2026-10-21）
 - **风险/边界**：翻新经销商利润来自二手价差，对新品白牌接受度不确定；美国小型 B2B
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档
-- **邮件切入句（英文）**：Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting.
+- **邮件切入句（英文）**：Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -252,7 +254,7 @@ updated: 2026-10-24
 ```text
 Hi Neal,
 
-Picking up our earlier exchange about PoE / industrial switches. Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting.
+Picking up our earlier exchange about PoE / industrial switches. Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your Cisco 等（翻新） Industrial Switches 类目 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

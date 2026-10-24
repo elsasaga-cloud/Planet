@@ -1,0 +1,18 @@
+{
+ "id": "196197e0cbc6c411",
+ "thread_id": "195741e3297fe2ef",
+ "message_id_header": "<CAOQGph-ac_hv0PTeveT5pwxYDqEX=mMKhBFLepKNMQFosiVKPQ@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Faisal Javed <faisal@ite.net.pk>",
+ "cc": "None",
+ "subject": "Re: Mini Industrial PoE Switch",
+ "date": "Wed, 9 Apr 2025 15:40:10 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Faisal,\nSorry, it is not on our list.\nWe can help source it if this is fine with you.\nThank you.",
+ "char_count": "103",
+ "attachments": "[]",
+ "note": "SB-029 ITE（巴基斯坦，Faisal Javed）：Elsa 2025-04-09 答「没有这款，可代找」",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:06Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

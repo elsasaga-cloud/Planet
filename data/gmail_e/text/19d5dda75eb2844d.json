@@ -1,0 +1,18 @@
+{
+ "id": "19d5dda75eb2844d",
+ "thread_id": "19d4e468be97be67",
+ "message_id_header": "<CAOQGph-Bm2H=XZN+yCp6_8ezeaKV-aDbtbHwJJ3SSSs8H-Xc1A@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Shantanu Kumar <shantanu.kumar@hfcl.com>",
+ "cc": "None",
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Sun, 5 Apr 2026 21:34:50 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Shantanu,\nManufacturing country: China\nPrice: 35USD/PC\nindustrial PoE Switch\n2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP\nfunction, DC44V~DC57V(Removable 4 PIN Industrial Terminal Block) , -40℃ to\n75℃, Din mounted, Without SFP Transceiver, Without power supply\nModel number: STI-244GP\nIPR: Self-owned design, no infringement, compliant with international\nstandards\nPlease see attached datasheet and let me know.\nThank you.",
+ "char_count": "550",
+ "attachments": "[{'filename': 'DIN Rail Unmanaged.jpg', 'mime_type': 'image/jpeg', 'size': 277893}, {'filename': 'STI-244GP.docx', 'mime_type': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'size': 1953644}]",
+ "note": "SB-178 HFCL（印度，Shantanu Kumar）：Elsa 2026-04-05 按其供应商登记表答——产地中国、STI-244GP $35/pc、IPR 自有设计",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:05Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

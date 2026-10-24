@@ -52,10 +52,12 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 回复：have Routers with 1GE and 4 FE ports? | 表内备注 | `用户表` |
 | 2025-04-09 | 来 | Faisal（International Technology Exchanger，PK） | Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels | 路由器 + VPN 规格 = 守界外（C10）；不设计绕路 | `gmail_e` |
+| 2025-04-09 | 去 | Elsa | Sorry, it is not on our list. We can help source it if this is fine with you. | 路由器需求，Elsa 答没有、可代找 | `gmail_e 196197e0cbc6c411` |
+| 2025-04-09 | 去 | Elsa | Is something as attached OK?（附 Info.docx） | 同日发了一份代找方案 → 无下文 | `gmail_e 196199ab58b3499b` |
+| 2026-10-21 | 用户表 | Simon | 回复：have Routers with 1GE and 4 FE ports? | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信→明确不对口」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：04-09 Faisal 三封要 1GE+4FE 路由器 → Elsa 答没有、可代找 + Info.docx → 无下文；用户表「有回复·跟进中」= 这条；（已核 2026-10-24，第 73 批）见上条；不是 WhatsApp
 
 ## 基本事实（事实/推断/假设分层）
 

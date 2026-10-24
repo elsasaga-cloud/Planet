@@ -1,0 +1,18 @@
+{
+ "id": "199c34fb78d515e2",
+ "thread_id": "19980c1d4676d657",
+ "message_id_header": "<CAOQGph8CXR9CgMS+P0yz9comHpueNPMTNof+g5QzDgJbpXw27Q@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "\"DBJ Contrad Ltd .\" <dbjcontrad@hotmail.com>",
+ "cc": "None",
+ "subject": "Re: 10G Enterprise SFP Switch",
+ "date": "Wed, 8 Oct 2025 18:13:25 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Kennedy,\nAny feedback about our model and offer?\nDo you need to order?\nThank you.",
+ "char_count": "182",
+ "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 435914}]",
+ "note": "SB-973：Elsa 2025-10-08 追问一次，之后无回",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

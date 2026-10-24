@@ -1,0 +1,18 @@
+{
+ "id": "19d5df7137413d07",
+ "thread_id": "19d4e468be97be67",
+ "message_id_header": "<CAOQGph-PfG4MxiKAtU_m=TMxqyXw2XK9JAQJzNZ_WDmE2cMOkA@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Shantanu Kumar <shantanu.kumar@hfcl.com>",
+ "cc": "None",
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Sun, 5 Apr 2026 22:05:52 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Shantanu,\nYes, we have supplied this product to India recently.\nFor some projects, the orders were confirmed directly via\nemail/communication,\nso there is no formal PO available.\nHowever, we can provide supporting documents such as:\nshipping document and proof of delivery.\nPlease let us know if this is acceptable.\nThank you.",
+ "char_count": "421",
+ "attachments": "[{'filename': 'DIN Rail Unmanaged.jpg', 'mime_type': 'image/jpeg', 'size': 277893}, {'filename': 'AWB.png', 'mime_type': 'image/png', 'size': 140049}, {'filename': 'Whatsapp Talk.png', 'mime_type': 'image/png', 'size': 167512}]",
+ "note": "SB-178：HFCL 要印度供货业绩 / PO，Elsa 2026-04-05 答「最近供过印度、无正式 PO，可给运单 + 收货证明」，附 AWB.png + WhatsApp 截图",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:05Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

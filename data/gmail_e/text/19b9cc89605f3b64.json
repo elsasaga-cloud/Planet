@@ -1,0 +1,18 @@
+{
+ "id": "19b9cc89605f3b64",
+ "thread_id": "19b93785b92fcb0f",
+ "message_id_header": "<CAOQGph9S7zLTPvSn-winbnNA5vjDuVgw_hHuzG-e3cQF5bi4gw@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Shantanu Kumar <shantanu.kumar@hfcl.com>",
+ "cc": "None",
+ "subject": "Re: OEM Core Switching Solution",
+ "date": "Thu, 8 Jan 2026 16:45:50 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi Shantanu,\nThank you for your interest and for sharing your thoughts on the MII\nrequirement.\n\nWe understand that Make in India (MII) is popular and mandatory for certain\nlocal and government projects, and we are fully open to supporting this\nthrough a structured and practical approach.\nBelow is our suggested way forward:\n\n1. Specification confirmation & sample testing\nPlease let us know which specifications or models you are interested in.\nWe recommend starting with sample testing, which will help you evaluate our\nWeb UI, operating system, and overall functionality, and also give both\nsides a clearer understanding of how MII implementation can be planned\nlater.\n\n2. TEC / MTCTE certification\nWe understand that MTCTE (TEC) certification is mandatory for commercial\ndeployment in India.\nTypically, TEC certification is handled by the local Indian entity.\nFrom our side as the OEM, we can fully support the certification process by\nproviding the required technical documentation, test support, and version\ncontrol once the target model is confirmed.\nAt this early evaluation stage, we suggest not making this the primary\nfocus yet.\n\n3. MII implementation roadmap\nTo achieve MII 60%, our usual approach is:\nStart with SKD\nMove to CKD\nGradually increase localization, including deeper hardware and possible\nsoftware-level customization\nSKD is usually the easiest first step and also helps you decide how certain\nhardware components may be sourced or assembled locally.\n\nTo proceed efficiently, we would like to understand:\n3.1 Whether you can handle import procedures for complete units, SKD, and\nCKD\n3.2 Your current thoughts or plans regarding MII implementation, so we can\nalign our actions accordingly\nOnce the sample testing and technical evaluation are completed, we can move\ninto more detailed discussions.\n\nLooking forward to your feedback.\nThank you.",
+ "char_count": "1993",
+ "attachments": "[{'filename': '8C48XF.png', 'mime_type': 'image/png', 'size': 191947}]",
+ "note": "SB-178 HFCL：Elsa 2026-01-08 对 MII（Make in India）给出 SKD→CKD→60% 本地化路线 + TEC/MTCTE 由印度实体办、Saga 提供技术文件——这是 Saga 对印度 MII 的正式口径",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:05Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

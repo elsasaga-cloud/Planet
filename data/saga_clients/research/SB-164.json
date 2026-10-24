@@ -1,123 +1,131 @@
 {
-  "code": "SB-164",
-  "name_official": "TESCOM Company Limited（坦桑尼亚）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（tescom.co.tz，快照 2026-10-21）",
-  "summary": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "服务：ICT 服务、安防设备安装、办公设备供应；+255 712 565698",
-      "quote": "ICT Services Installations of Security Equipment Supply of Off[ice]… +255 712 565698",
-      "url": "https://tescom.co.tz/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC 1 光 2 电千兆",
-      "quote": "兴趣：MC1光2电千兆",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mossad Masheu",
-      "title": "（表内联系人）",
-      "email": "samuisso@tescom.co.tz",
-      "phone": "+255 712 565 698",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+ "code": "SB-164",
+ "name_official": "TESCOM Company Limited（坦桑尼亚）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tescom.co.tz，快照 2026-10-21）",
+ "summary": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "服务：ICT 服务、安防设备安装、办公设备供应；+255 712 565698",
+   "quote": "ICT Services Installations of Security Equipment Supply of Off[ice]… +255 712 565698",
+   "url": "https://tescom.co.tz/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "TESCOM Company Limited",
-    "founded": "",
-    "hq": "Tanzania",
-    "size": "小型 ICT / 安防服务商",
-    "other": ""
-  },
-  "business_lines": [
-    "ICT 服务 / 安防安装 / 办公设备"
-  ],
-  "channels": {
-    "role": "安装 / 服务商",
-    "region": "坦桑尼亚"
-  },
-  "signals": [
-    "明确口型 1 光 2 电千兆 MC"
-  ],
-  "risks": [
-    "东非付款 T/T 预付；小量"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 25,
-    "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。"
-  },
-  "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "一封目录信（8/16/24/48 口 + 工业款）即可；不追",
-      "lane": "坦桑尼亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
-    "need": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
-    "breakpoint": "东非付款 T/T 预付；小量",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 25,
-      "price": "再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（顺手）",
-      "channel": "Elsa 邮箱回原线程",
-      "action": "目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MC1光2电千兆",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2025-10-01",
-        "dir": "来",
-        "who": "Samuisso（TESCOM，坦桑尼亚）",
-        "quote": "you have only 24 port and how many types of switch you have",
-        "why": "问产品线广度 = 想要目录；非主攻区",
-        "k": "gmail_e"
-      }
-    ],
-    "proof_gaps": [
-      "Elsa 回复未入库"
-    ],
-    "draft_en": {
-      "subject": "How many types of switch — TESCOM",
-      "body": "Hi Samuisso,\n\nYou asked \"you have only 24 port and how many types of switch you have\" — the short answer: commercial switches 5 to 48 ports (PoE and non-PoE, managed and unmanaged), industrial DIN-rail switches 4 to 24 ports, and gigabit / 10G media converters. The 1-fibre + 2-copper gigabit media converter you were interested in is available as well.\n\nOne question: which project size are you quoting in Tanzania right now (how many switches, PoE or not), so I send one page instead of the whole catalog?\n\nReference price: STI-110GE (1× SFP + 1× GE gigabit media converter, DIN-rail) at $26.5 USD EXW, MOQ 1 pc, 15-day validity; the 1-fibre + 2-copper version is a few dollars above that and I will quote it once you confirm the quantity.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC 1 光 2 电千兆",
+   "quote": "兴趣：MC1光2电千兆",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mossad Masheu",
+   "title": "（表内联系人）",
+   "email": "samuisso@tescom.co.tz",
+   "phone": "+255 712 565 698",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "TESCOM Company Limited",
+  "founded": "",
+  "hq": "Tanzania",
+  "size": "小型 ICT / 安防服务商",
+  "other": ""
+ },
+ "business_lines": [
+  "ICT 服务 / 安防安装 / 办公设备"
+ ],
+ "channels": {
+  "role": "安装 / 服务商",
+  "region": "坦桑尼亚"
+ },
+ "signals": [
+  "明确口型 1 光 2 电千兆 MC"
+ ],
+ "risks": [
+  "东非付款 T/T 预付；小量"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。"
+ },
+ "email_hook": "Mossad, for the 1-fibre + 2-copper gigabit converter — do you need both copper ports active at once (a mini switch) or one as backup? I'll quote the right unit, from 1 pc.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（Elsa 邮箱 2025-10-01 samuisso@tescom.co.tz 回「you have only 24 port and how many types of switch you have」——Elsa 的信发给 unilinkcommunication.com，回信来自 TESCOM（同一人/转发）；S/A 邮箱 0 封）；补核（第 73 批）：Elsa 当天回 5 张照片 + 反问，无型号无价，之后无回",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "一封目录信（8/16/24/48 口 + 工业款）即可；不追",
+   "lane": "坦桑尼亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：MC1光2电千兆」；研究档 risks：东非付款 T/T 预付；小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "坦桑尼亚 ICT 服务与安防设备安装 / 办公设备供应商（Mossad Masheu；+255 712 565 698），询盘表来源，需求 1 光 2 电千兆 MC；WA 1 次无实质回复。",
+  "need": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
+  "breakpoint": "东非付款 T/T 预付；小量",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 25,
+   "price": "再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（顺手）",
+   "channel": "Elsa 邮箱回原线程",
+   "action": "目录 + 一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "We have 8/16/24/48-port commercial and 4-24-port industrial PoE switches plus media converters — which project size are you quoting for in Tanzania? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-10-01",
+    "dir": "来",
+    "who": "Samuisso（TESCOM，坦桑尼亚）",
+    "quote": "you have only 24 port and how many types of switch you have",
+    "why": "问产品线广度 = 想要目录；非主攻区",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-10-01",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "We have many switches covering 1G/2.5G/10G speed and 4/8/16/24/48 port. Please see attached some photos. Which type do you most need?（附 Dual AC.jpg / MINI.png / L3 Managed.jpg / 1U Umanaged.jpg / Marvell Series.jpg）",
+    "why": "Elsa 当天只回 5 张照片 + 反问，没型号没价 → 无下文",
+    "k": "gmail_e 1999fd227ad22507"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC1光2电千兆",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 2025-10-01 回 5 张产品照片 + 「which type do you most need」，无型号无价，之后无回"
+  ],
+  "draft_en": {
+   "subject": "How many types of switch — TESCOM",
+   "body": "Hi Samuisso,\n\nYou asked \"you have only 24 port and how many types of switch you have\"; Elsa sent five product photos in October 2025 and we did not hear back, so here is the answer in words: commercial switches 5 to 48 ports (PoE and non-PoE, managed and unmanaged), industrial DIN-rail switches 4 to 24 ports, and gigabit / 10G media converters. The 1-fibre + 2-copper gigabit media converter you were interested in is available as well.\n\nOne question: which project size are you quoting in Tanzania right now (how many switches, PoE or not), so I send one page instead of the whole catalog?\n\nReference price: STI-110GE (1× SFP + 1× GE gigabit media converter, DIN-rail) at $26.5 USD EXW, MOQ 1 pc, 15-day validity; the 1-fibre + 2-copper version is a few dollars above that and I will quote it once you confirm the quantity.\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

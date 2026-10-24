@@ -1,0 +1,18 @@
+{
+ "id": "197cf9203e1b9d65",
+ "thread_id": "197c0c49a89e5afa",
+ "message_id_header": "<CAOQGph8bxkkc=w=4cargr+J5qpWLZ2c0hvjyinxt3yz=y9o6Dg@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "emiranda@surlink-tech.com",
+ "cc": "None",
+ "subject": "Re: 16 Port Ethernet Switch",
+ "date": "Thu, 3 Jul 2025 17:15:41 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Eduardo,\n\nThanks for your interest.\n\nPlease see attached quotation including\n\n1, prices\n\n2, photos\n\n3, packing info\n\nIt is about unit price.\n\nIf you are doing a bulk purchase, lets discuss the final prices.\n\nThank you.",
+ "char_count": "246",
+ "attachments": "[{'filename': 'image001.png', 'mime_type': 'image/png', 'size': 146149}, {'filename': 'Quotation.xls', 'mime_type': 'application/vnd.ms-excel', 'size': 3758592}]",
+ "note": "SA-147 Surlink（玻利维亚，Eduardo Miranda）：Elsa 2025-07-03 发 Quotation.xls（单价 + 照片 + 装箱），「批量再谈」——报价单内容未入库（附件不经连接器拉）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:06Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

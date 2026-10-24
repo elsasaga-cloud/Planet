@@ -1,132 +1,140 @@
 {
-  "code": "SB-656",
-  "name_official": "Core IT Solutions (CITS)（Mumbai）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（citsindia.com，快照 2026-10-21）",
-  "summary": "孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "服务：应用开发与 ERP、备份、云、FMS/AMC、ISP 服务、网络架构；+91 22 6901 1512 / +91 99876 76431",
-      "quote": "Application Development & ERP Backup Solution Cloud Solution FMS and AMCs Hosting… ISP Services IT Consultancy… Network Architect… +9122-69011512",
-      "url": "https://citsindia.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣 SFP, MC, switch, router；2025-06 群发 10G MC→price；Sarwar 发不过去",
-      "quote": "兴趣：SFP, MC, switch, router；回复：price",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Sarwar",
-      "title": "（表内联系人；原邮箱退信）",
-      "email": "info@citsindia.com",
-      "phone": "+91 99876 76431",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-656",
+ "name_official": "Core IT Solutions (CITS)（Mumbai）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（citsindia.com，快照 2026-10-21）",
+ "summary": "孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "服务：应用开发与 ERP、备份、云、FMS/AMC、ISP 服务、网络架构；+91 22 6901 1512 / +91 99876 76431",
+   "quote": "Application Development & ERP Backup Solution Cloud Solution FMS and AMCs Hosting… ISP Services IT Consultancy… Network Architect… +9122-69011512",
+   "url": "https://citsindia.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Core IT Solutions",
-    "founded": "（待核）",
-    "hq": "Mumbai, India",
-    "size": "小型 IT 服务商",
-    "other": "info@citsindia.com"
-  },
-  "business_lines": [
-    "IT 服务 / AMC / 云 / ISP 服务",
-    "网络硬件采购（SFP / MC / 交换机 / 路由）"
-  ],
-  "channels": {
-    "role": "IT 服务商（项目采购）",
-    "region": "印度（孟买）"
-  },
-  "signals": [
-    "对 10G MC 要价（2025-06）"
-  ],
-  "risks": [
-    "联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。"
-  },
-  "email_hook": "Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet.",
-  "mail_review": {
-    "binding": {
-      "level": "未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "一封正式报价单（$65 USD EXW，快照日期）+ 问数量",
-      "lane": "IN 次级（点名）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。",
-    "need": "MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。",
-    "breakpoint": "联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）",
-      "why": "MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（顺手）",
-      "channel": "Elsa 邮箱回原线程",
-      "action": "补答 + 一问",
-      "one_question": "The 10G media converter is $65 USD EXW (price table 2026-10, valid 15 days); how many units and which fibre (SM/MM, distance)?"
-    },
-    "facts": [
-      {
-        "date": "2024-08-09",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "Industrial PoE Switch、10G media converter",
-        "why": "3 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2024-08-09（3 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-06-17",
-        "dir": "来",
-        "who": "Core IT Solutions（Mumbai）",
-        "quote": "Price pls",
-        "why": "Elsa 信里已写 65usd/pc，对方仍问价 = 没细读或要正式报价",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：SFP, MC, switch, router；回复：price",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": {
-      "subject": "Re: 10G media converter — price",
-      "body": "Hi, Sarwar,\n\nYou asked \"Price pls\" on the 10G media converter in June 2025 and we owe you a clean answer: $65 USD EXW per unit (price table 2026-10, valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.\n\nOne question so I quote the right optics: how many units, single-mode or multi-mode, and what distance between the two ends?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "兴趣 SFP, MC, switch, router；2025-06 群发 10G MC→price；Sarwar 发不过去",
+   "quote": "兴趣：SFP, MC, switch, router；回复：price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Sarwar",
+   "title": "（表内联系人；原邮箱退信）",
+   "email": "info@citsindia.com",
+   "phone": "+91 99876 76431",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Core IT Solutions",
+  "founded": "（待核）",
+  "hq": "Mumbai, India",
+  "size": "小型 IT 服务商",
+  "other": "info@citsindia.com"
+ },
+ "business_lines": [
+  "IT 服务 / AMC / 云 / ISP 服务",
+  "网络硬件采购（SFP / MC / 交换机 / 路由）"
+ ],
+ "channels": {
+  "role": "IT 服务商（项目采购）",
+  "region": "印度（孟买）"
+ },
+ "signals": [
+  "对 10G MC 要价（2025-06）"
+ ],
+ "risks": [
+  "联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。"
+ },
+ "email_hook": "Sarwar's mailbox bounced, so via info@: you asked the 10G media-converter price in June — is it SFP+ to RJ45 10G, and how many links? I'll quote that plus the gigabit MC in one sheet.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）；补核（第 73 批）：Elsa 同日回 STC-110XGE $65 + 规格书，之后无回 → 回过一次后读而不回",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "一封正式报价单（$65 USD EXW，快照日期）+ 问数量",
+   "lane": "IN 次级（点名）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。",
+  "need": "MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。",
+  "breakpoint": "联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）",
+   "why": "MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（顺手）",
+   "channel": "Elsa 邮箱回原线程",
+   "action": "补答 + 一问",
+   "one_question": "Elsa quoted the 10G media converter STC-110XGE at $65 USD EXW in June 2025 (unchanged on the 2026-10 table); how many units and which fibre (SM/MM, distance)?"
+  },
+  "facts": [
+   {
+    "date": "2024-08-09",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "Industrial PoE Switch、10G media converter",
+    "why": "3 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2024-08-09（3 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-06-17",
+    "dir": "来",
+    "who": "Core IT Solutions（Mumbai）",
+    "quote": "Price pls",
+    "why": "Elsa 信里已写 65usd/pc，对方仍问价 = 没细读或要正式报价",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-06-17",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter. Please see attached datasheet.（附 STC-110XGE.pdf）",
+    "why": "「Price pls」当天就回了 $65 + 规格书 → 无下文；之前信稿「we owe you a clean answer」写反了",
+    "k": "gmail_e 1977c84d867d3059"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：SFP, MC, switch, router；回复：price",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-17「Price pls」→ 同日回 STC-110XGE $65 + 规格书 → 无下文），不是 WhatsApp"
+  ],
+  "draft_en": {
+   "subject": "Re: 10G media converter — price",
+   "body": "Hi, Sarwar,\n\nYou asked \"Price pls\" on the 10G media converter in June 2025 and Elsa answered the same day: STC-110XGE (1× 10G SFP+ + 1× 100M/1G/2.5G/10G copper, unmanaged, with PSU) at $65 USD EXW. The price is unchanged on the 2026-10 table (valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.\n\nOne question so I quote the right optics: how many units, single-mode or multi-mode, and what distance between the two ends?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,105 +1,113 @@
 {
-  "code": "SB-462",
-  "name_official": "eminnovate.com（用户表：美国；公司名未核实）",
-  "researched_at": "2026-10-21",
-  "website_status": "待核：2026-10-21 web_search「eminnovate.com」无该域名收录，仅返回印度 Pune 的 Eminnovate Technologies（eminnovate.co，数据分析 IT 服务，2023 年成立）——顶级域不同，疑非同一主体",
-  "summary": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "检索记录",
-      "claim": "域名未收录；同名印度公司非同一主体",
-      "quote": "Eminnovate Technologies | 126 followers on LinkedIn … Website: https://www.eminnovate.co … Company size: 2-10 employees Headquarters: Pune, Maharashtra … Founded: 2023 Specialties: Data Analytics, Business Intelligence",
-      "url": "https://in.linkedin.com/company/eminnovate-technologies",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "美国；1 次实质回复；2 次跟进",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（检索无果 · 待核）"
+ "code": "SB-462",
+ "name_official": "eminnovate.com（用户表：美国；公司名未核实）",
+ "researched_at": "2026-10-21",
+ "website_status": "待核：2026-10-21 web_search「eminnovate.com」无该域名收录，仅返回印度 Pune 的 Eminnovate Technologies（eminnovate.co，数据分析 IT 服务，2023 年成立）——顶级域不同，疑非同一主体",
+ "summary": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "检索记录",
+   "claim": "域名未收录；同名印度公司非同一主体",
+   "quote": "Eminnovate Technologies | 126 followers on LinkedIn … Website: https://www.eminnovate.co … Company size: 2-10 employees Headquarters: Pune, Maharashtra … Founded: 2023 Specialties: Data Analytics, Business Intelligence",
+   "url": "https://in.linkedin.com/company/eminnovate-technologies",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "other": "无法核实（域名未被收录）；仅有用户表信息"
-  },
-  "signals": [
-    "1 次实质回复但仅 2 次跟进 → 线索新鲜度未知"
-  ],
-  "risks": [
-    "身份未核实；若为印度 IT 服务公司则不在目标区域/行业"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定"
-  },
-  "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "一句实话：无后置端口型号；问场景",
-      "lane": "US 主攻（四主）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
-    "need": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
-    "breakpoint": "身份未核实；若为印度 IT 服务公司则不在目标区域/行业",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（顺手）",
-      "channel": "Elsa 邮箱回原线程",
-      "action": "一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "（用户表字段）",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2025-06-29",
-        "dir": "来",
-        "who": "Michael（eminnovate.com）",
-        "quote": "Very interesting Any rear facing port switches?",
-        "why": "要后置端口机架机（数据中心/机柜走线）——Saga 商用线为前置端口；CENTEC 机型风道前后可选但端口仍前置",
-        "k": "gmail_e"
-      }
-    ],
-    "proof_gaps": [
-      "公司实体未核",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": {
-      "subject": "48-port PoE — rear-facing ports",
-      "body": "Michael,\n\nShort answer to your June question: none of our models have rear-facing ports — ports are front, airflow front-to-rear on the CENTEC data-center units.\n\nWhat is the rack situation that needs rear ports — cabling to a patch panel behind the switch? If it is a mounting question, reverse-mount brackets may solve it.\n\nAnd one thing I should have asked first: what is the company and the typical project, so I send only what fits.\n\nAlan Yan\nSaga Telecom"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "美国；1 次实质回复；2 次跟进",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（检索无果 · 待核）"
+ },
+ "company_facts": {
+  "other": "无法核实（域名未被收录）；仅有用户表信息"
+ },
+ "signals": [
+  "1 次实质回复但仅 2 次跟进 → 线索新鲜度未知"
+ ],
+ "risks": [
+  "身份未核实；若为印度 IT 服务公司则不在目标区域/行业"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定"
+ },
+ "email_hook": "Before I send pricing, may I confirm which application the PoE switch is for on your side (CCTV, Wi-Fi, or industrial), so I quote the right 8- or 24-port model?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信→轻度触达（Elsa 邮箱 2025-06-29 michael@eminnovate.com 回「Very interesting Any rear facing port switches?」对 48 口 PoE；S/A 邮箱 0 封；公司实体未核）；补核（第 73 批）：Elsa 06-30 答「没有后出线款」+ 软件功能表，之后无回",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "一句实话：无后置端口型号；问场景",
+   "lane": "US 主攻（四主）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：身份未核实；若为印度 IT 服务公司则不在目标区域/行业；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "用户表登记为美国客户（域名 eminnovate.com），1 次实质回复、2 次跟进。公开检索无法核实其公司身份与业务；同名印度 IT 服务公司（eminnovate.co）与网络设备无关。按「待核」处理：下次跟进时直接询问公司全称与业务。",
+  "need": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
+  "breakpoint": "身份未核实；若为印度 IT 服务公司则不在目标区域/行业",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "身份待核：默认按终端/集成商 25% 档以 STC-28DGGPM 试探；核实后再定",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（顺手）",
+   "channel": "Elsa 邮箱回原线程",
+   "action": "一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "Michael — no rear-facing-port models in our range (ports are front; airflow front-to-rear on the CENTEC units). What is the rack situation that needs rear ports — cabling to a patch panel behind?"
+  },
+  "facts": [
+   {
+    "date": "2025-06-29",
+    "dir": "来",
+    "who": "Michael（eminnovate.com）",
+    "quote": "Very interesting Any rear facing port switches?",
+    "why": "要后置端口机架机（数据中心/机柜走线）——Saga 商用线为前置端口；CENTEC 机型风道前后可选但端口仍前置",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-06-30",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Sorry, it is not available on our list. On the market, there are some models available, but not many. Please check attached our Marvell based software feature list.（附 Saga Software Function List_7.3, 7.4, 7.5 version.xlsx）",
+    "why": "Elsa 次日答「没有后出线款」+ 软件功能表 → 无下文；信稿「none of our models have rear-facing ports」与之一致",
+    "k": "gmail_e 197c0bbcf58da83a"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "公司实体未核",
+   "（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-29 问后出线 → 06-30 答无 + 功能表 → 无下文），不是 WhatsApp"
+  ],
+  "draft_en": {
+   "subject": "48-port PoE — rear-facing ports",
+   "body": "Michael,\n\nAs Elsa said in June, none of our models have rear-facing ports — ports are front, airflow front-to-rear on the CENTEC data-center units.\n\nWhat is the rack situation that needs rear ports — cabling to a patch panel behind the switch? If it is a mounting question, reverse-mount brackets may solve it.\n\nAnd one thing I should have asked first: what is the company and the typical project, so I send only what fits.\n\nAlan Yan\nSaga Telecom"
+  },
+  "as_of": "2026-10-24"
+ }
 }

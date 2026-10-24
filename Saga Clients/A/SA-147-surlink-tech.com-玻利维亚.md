@@ -54,8 +54,9 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-07-02 | 来（Elsa 箱） | Ing. Eduardo Miranda（Gerente） | Switch 10 100 non manageable poe / 10 100 1000 non manageable poe 5 ports 8 ports 16 ports 24 ports Must be with your standart brand name and standart carton box. Need to have pictures | 采购清单 | `E 197cbce0cb34789f` |
+| 2025-07-03 | 去 | Elsa | Please see attached quotation including 1, prices 2, photos 3, packing info. It is about unit price. If you are doing a bulk purchase, lets discuss the final prices.（附 Quotation.xls，3.7 MB） | Elsa 次日回了整张报价单（5/8/16/24 口非管理 PoE）→ 无下文；报价单数字在附件里，连接器不拉附件 | `gmail_e 197cf9203e1b9d65` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 07-03 回复正文未入库；「550 只 90W 注入器」出处未见
+- **还缺的证据（等 A 邮箱 / Extra Info）**：「550 只 90W 注入器」出处未见；（已核 2026-10-24，第 73 批）Elsa 07-03 回 Quotation.xls（单价 + 照片 + 装箱，「批量再谈」）；表内数字仍未入库（附件需 Takeout）
 
 ## 基本事实（事实/推断/假设分层）
 

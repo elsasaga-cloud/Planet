@@ -1,0 +1,18 @@
+{
+ "id": "199b4b24a25586f7",
+ "thread_id": "19980c1d4676d657",
+ "message_id_header": "<CAOQGph-LBXygH52cisGebFZApVvPWEqdcE+=EDODE8eX8JgLug@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "\"DBJ Contrad Ltd .\" <dbjcontrad@hotmail.com>",
+ "cc": "None",
+ "subject": "Re: 10G Enterprise SFP Switch",
+ "date": "Sun, 5 Oct 2025 22:06:46 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Kennedy,\nThanks for your interest.\n1, please see attached datasheet.\n2, it is 6Kg/piece, we just sold a piece of sample to a German client.\nShipping cost to Zambia is 105usd by FedEx(door-to-door service, 5~7 days\nto deliver)\n3, leadtime is 3~5 working days, we got materials in stock.\nThank you.",
+ "char_count": "392",
+ "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 435914}, {'filename': 'STC-4168XGGCM.pdf', 'mime_type': 'application/pdf', 'size': 2822689}]",
+ "note": "SB-973 DBJ Contrad（赞比亚）：Elsa 2025-10-05 回 Kennedy——型号 = STC-4168XGGCM（规格书附件）、6 kg/台、FedEx 到赞比亚 $105 门到门 5~7 天、交期 3~5 工作日；「刚卖了 1 台样机给德国客户」",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

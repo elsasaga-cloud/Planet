@@ -1,118 +1,134 @@
 {
-  "code": "SB-973",
-  "name_official": "Kennedy Bulaya（赞比亚；hotmail）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣 Cisco Switch；2025-10 DAC→price info",
-      "quote": "兴趣：Cisco Switch；回复：price info",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Kennedy Bulaya",
-      "title": "（表内联系人）",
-      "email": "dbjcontrad@hotmail.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（待核，DBJ Contractors？）",
-    "founded": "",
-    "hq": "赞比亚",
-    "size": "",
-    "other": "hotmail"
-  },
-  "channels": {
-    "role": "（疑承包商）",
-    "region": "赞比亚"
-  },
-  "risks": [
-    "要 Cisco 原装与 DAC（缺口 Q-32）；身份不明"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 25,
-    "why": "Cisco / DAC 需求不在 Saga 线。"
-  },
-  "email_hook": "（不主动发送）",
-  "mail_review": {
-    "binding": {
-      "level": "未触达→轻度触达（Elsa 邮箱 2025-10-05 dbjcontrad@hotmail.com（赞比亚）长回复：要 24 口 SFP 管理机规格书并追问；S 邮箱 8 封 1 次打开 0 回）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "一封规格书即可；不追",
-      "lane": "赞比亚 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。",
-    "need": "Cisco / DAC 需求不在 Saga 线。",
-    "breakpoint": "要 Cisco 原装与 DAC（缺口 Q-32）；身份不明",
-    "saga_now": {
-      "p1": "—",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）",
-      "why": "Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（顺手）",
-      "channel": "Elsa 邮箱回原线程",
-      "action": "补答；附件：24 SFP 管理汇聚机规格书（Elsa 原串里他要的那款；发前核一下型号与 Drive 规格书一致）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
-      "one_question": "Datasheet attached; which project is the 24-SFP unit for, and how many sites?"
-    },
-    "facts": [
-      {
-        "date": "2024-12-30",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "48 port managed switch、10G media converter",
-        "why": "8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-30（8 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-10-05",
-        "dir": "来",
-        "who": "dbjcontrad（赞比亚）",
-        "quote": "could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire…",
-        "why": "要规格书 + 追问；非主攻区，个人邮箱",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：Cisco Switch；回复：price info",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": {
-      "subject": "24-port SFP managed switch — datasheet",
-      "body": "Hi Kennedy,\n\nYou asked for the datasheet of the 24-port SFP managed switch in October 2025 — attached now, with apologies for the gap. It is a Marvell-based L2+/L3 aggregation unit (24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC).\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-973",
+ "name_official": "Kennedy Bulaya（赞比亚；hotmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣 Cisco Switch；2025-10 DAC→price info",
+   "quote": "兴趣：Cisco Switch；回复：price info",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Kennedy Bulaya",
+   "title": "（表内联系人）",
+   "email": "dbjcontrad@hotmail.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（待核，DBJ Contractors？）",
+  "founded": "",
+  "hq": "赞比亚",
+  "size": "",
+  "other": "hotmail"
+ },
+ "channels": {
+  "role": "（疑承包商）",
+  "region": "赞比亚"
+ },
+ "risks": [
+  "要 Cisco 原装与 DAC（缺口 Q-32）；身份不明"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "Cisco / DAC 需求不在 Saga 线。"
+ },
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未触达→轻度触达（Elsa 邮箱 2025-10-05 dbjcontrad@hotmail.com（赞比亚）长回复：要 24 口 SFP 管理机规格书并追问；S 邮箱 8 封 1 次打开 0 回）；补核（第 73 批）：Elsa 10-05 已回 STC-4168XGGCM 规格书 + 运费 + 交期、10-08 追问，之后无回 → 实为「回过一次后读而不回」",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "一封规格书即可；不追",
+   "lane": "赞比亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。",
+  "need": "Cisco / DAC 需求不在 Saga 线。",
+  "breakpoint": "要 Cisco 原装与 DAC（缺口 Q-32）；身份不明",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）",
+   "why": "Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（顺手）",
+   "channel": "Elsa 邮箱回原线程",
+   "action": "再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+   "one_question": "Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?"
+  },
+  "facts": [
+   {
+    "date": "2024-12-30",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "48 port managed switch、10G media converter",
+    "why": "8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-30（8 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-10-05",
+    "dir": "来",
+    "who": "dbjcontrad（赞比亚）",
+    "quote": "could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire…",
+    "why": "要规格书 + 追问；非主攻区，个人邮箱",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-10-05",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "1, please see attached datasheet. 2, it is 6Kg/piece, we just sold a piece of sample to a German client. Shipping cost to Zambia is 105usd by FedEx(door-to-door service, 5~7 days to deliver) 3, leadtime is 3~5 working days, we got materials in stock.（附 STC-4168XGGCM.pdf）",
+    "why": "Elsa 当天就回了规格书 + 运费 + 交期——型号 = STC-4168XGGCM；之前信稿「attached now, with apologies for the gap」写反了",
+    "k": "gmail_e 199b4b24a25586f7"
+   },
+   {
+    "date": "2025-10-08",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Any feedback about our model and offer? Do you need to order?",
+    "why": "追问一次，之后 Kennedy 无回 → 读而不回",
+    "k": "gmail_e 199c34fb78d515e2"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：Cisco Switch；回复：price info",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 邮箱有完整一来二去：2025-10-05 Kennedy 要规格书 → Elsa 同日回 STC-4168XGGCM 规格书 + FedEx 赞比亚 $105 + 交期 3~5 工作日 → 10-08 追问 → 无回；用户表「有回复·跟进中」= 这条邮件往来，不是 WhatsApp"
+  ],
+  "draft_en": {
+   "subject": "24-port SFP aggregation switch — still relevant?",
+   "body": "Hi Kennedy,\n\nIn October 2025 Elsa sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.\n\nThe price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

@@ -49,6 +49,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-10-13 | 来 | Dawn Gumtow（Westward Sales, Sales Assistant） | We are not interested in purchasing this product. Please take us off your emailing list. | 明确退订请求——合规：所有三个邮箱停发 | `gmail_e` |
+| 2025-10-13 | 去 | Elsa | 1, please see attached datasheet, PI and PL. 2, shipping cost is based on volume weight. 3, if you have a model number, please share, we will write it on the WEB GUI and labels. One piece is OK（附 STC-4168XGGCM.pdf + STEC20251013018.pdf + PL_STEC20251013018.xls） | Dawn（销售助理）把群发当成采购询价回问型号/数量/地址，Elsa 误读为要买、当场开了样机 PI STEC20251013018 → 1 小时后 Dawn「not interested, take us off」；PI 作废，复盘里不算单 | `gmail_e 199de1f85dfb294f` |
 
 ## 基本事实（事实/推断/假设分层）
 

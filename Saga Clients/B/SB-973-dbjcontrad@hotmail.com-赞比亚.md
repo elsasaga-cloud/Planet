@@ -35,30 +35,32 @@ updated: 2026-10-24
 - **是谁**：赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。（调研 2026-10-21；表内兴趣：Cisco Switch）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/赞比亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-10-05 → 2025-10-05）；最近一次客户回复：2025-10-05：price info
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）
-- **第一问（只问一个）**：Datasheet attached; which project is the 24-SFP unit for, and how many sites?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）；同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter）
+- **第一问（只问一个）**：Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答；附件：24 SFP 管理汇聚机规格书（Elsa 原串里他要的那款；发前核一下型号与 Drive 规格书一致）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-973` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-10-05 dbjcontrad@hotmail.com（赞比亚）长回复：要 24 口 SFP 管理机规格书并追问；S 邮箱 8 封 1 次打开 0 回）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书即可；不追 ｜ 通路：赞比亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-10-05 dbjcontrad@hotmail.com（赞比亚）长回复：要 24 口 SFP 管理机规格书并追问；S 邮箱 8 封 1 次打开 0 回）；补核（第 73 批）：Elsa 10-05 已回 STC-4168XGGCM 规格书 + 运费 + 交期、10-08 追问，之后无回 → 实为「回过一次后读而不回」** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书即可；不追 ｜ 通路：赞比亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：Cisco Switch；回复：price info」；研究档 risks：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：赞比亚联系人 Kennedy Bulaya（hotmail，疑 DBJ Contractors），兴趣 Cisco 交换机，2025-10 对 DAC 群发回复 price info；需求为 Cisco 原装 / DAC（Saga 无）。
 - **对方真实需求（有据）**：Cisco / DAC 需求不在 Saga 线。
 - **断点 / 为什么停在这里**：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明
-- **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter））——Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答；附件：24 SFP 管理汇聚机规格书（Elsa 原串里他要的那款；发前核一下型号与 Drive 规格书一致）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
-  - 第一问（只问一个）：Datasheet attached; which project is the 24-SFP unit for, and how many sites?
+- **Saga 现在该推什么**：P1 **—**（25% 档，同款群发价（他回的那封「10G Enterprise SFP Switch」）= STC-4168XGGCM $280（2025-09→2026-05，≈ 进价）；信稿按 FX 7.2→6.7 写 $300（1 台样机），并沿用 Elsa 的 FedEx $105；25% 档 $392.4 / PDF 上限 $413 只能在 Simon 另给理由时用；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $220（48 port managed switch）、2024-07-05 $65（10G Media Converter））——Cisco / DAC 需求不在 Saga 线。已打开的主题（1/8 封有打开记录）：「48 port managed switch」(2024-06-14) → 读者兴趣主题类别不明（看原主题）
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　再触一问（Elsa 10-05 已发过规格书，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+  - 第一问（只问一个）：Is the 24-SFP aggregation unit (STC-4168XGGCM, $300 USD EXW for one sample, FedEx $105) for a project of your own, or are you looking for Cisco-compatible parts?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-30 | 去 | S 群发 | 48 port managed switch、10G media converter | 8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-30（8 去 / 0 来） | `gmail_digest` |
 | 2025-10-05 | 来 | dbjcontrad（赞比亚） | could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire… | 要规格书 + 追问；非主攻区，个人邮箱 | `gmail_e` |
+| 2025-10-05 | 去 | Elsa | 1, please see attached datasheet. 2, it is 6Kg/piece, we just sold a piece of sample to a German client. Shipping cost to Zambia is 105usd by FedEx(door-to-door service, 5~7 days to deliver) 3, leadtime is 3~5 working days, we got materials in stock.（附 STC-4168XGGCM.pdf） | Elsa 当天就回了规格书 + 运费 + 交期——型号 = STC-4168XGGCM；之前信稿「attached now, with apologies for the gap」写反了 | `gmail_e 199b4b24a25586f7` |
+| 2025-10-08 | 去 | Elsa | Any feedback about our model and offer? Do you need to order? | 追问一次，之后 Kennedy 无回 → 读而不回 | `gmail_e 199c34fb78d515e2` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：Cisco Switch；回复：price info | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱有完整一来二去：2025-10-05 Kennedy 要规格书 → Elsa 同日回 STC-4168XGGCM 规格书 + FedEx 赞比亚 $105 + 交期 3~5 工作日 → 10-08 追问 → 无回；用户表「有回复·跟进中」= 这条邮件往来，不是 WhatsApp
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -206,12 +208,14 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：24-port SFP managed switch — datasheet
+**主题**：24-port SFP aggregation switch — still relevant?
 
 ```text
 Hi Kennedy,
 
-You asked for the datasheet of the 24-port SFP managed switch in October 2025 — attached now, with apologies for the gap. It is a Marvell-based L2+/L3 aggregation unit (24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC).
+In October 2025 Elsa sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.
+
+The price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.
 
 One question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?
 

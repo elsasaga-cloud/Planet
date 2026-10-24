@@ -35,30 +35,32 @@ updated: 2026-10-24
 - **是谁**：德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。（调研 2026-10-21；表内兴趣：从ONV买 几个台湾品牌）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-10 → 2025-10-02）；最近一次客户回复：2025-04-10：ds
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP — 其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。；按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）
-- **第一问（只问一个）**：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP — 其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。；自家实报 STI-244GP $35/pc（Elsa 2025-04-10，老汇率）→ 信稿写 $45 并点明 FX 7.2→6.7；按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）
+- **第一问（只问一个）**：Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答 + 一问；附件：STI-244GP 规格书 PDF（2 × SFP + 4 × GE PoE，非管理）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11（顺手） Elsa 邮箱回原线程 再触一问（规格书 Elsa 04-10 已发，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-427` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书 + 价（STI-244GP $49.5 / STI-244GPM $77 列表价） ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-04-10 Azad Khan（Automation Systems and Solution，德里）回「First, we need datasheet」；S 邮箱 13 封 0 打开 0 回——打开记录只覆盖追踪过的群发）；补核（第 73 批）：Elsa 04-10 已回规格书 + STI-244GP $35、04-22 追问样机，之后无回 → 回过一次后读而不回** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：一封规格书 + 价（STI-244GP $49.5 / STI-244GPM $77 列表价） ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「兴趣：从ONV买 几个台湾品牌；回复：ds」；研究档 risks：ONV 价格基准低；印度 BIS；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。
 - **对方真实需求（有据）**：其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
 - **断点 / 为什么停在这里**：ONV 价格基准低；印度 BIS
-- **Saga 现在该推什么**：P1 **STI-244GP**（20% 档，按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch））——其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
-- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答 + 一问；附件：STI-244GP 规格书 PDF（2 × SFP + 4 × GE PoE，非管理）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
-  - 第一问（只问一个）：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?
+- **Saga 现在该推什么**：P1 **STI-244GP**（20% 档，自家实报 STI-244GP $35/pc（Elsa 2025-04-10，老汇率）→ 信稿写 $45 并点明 FX 7.2→6.7；按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch））——其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
+- **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　再触一问（规格书 Elsa 04-10 已发，不再附）；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+  - 第一问（只问一个）：Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-31 | 去 | S 群发 | 10G media converter、Web managed switch | 13 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-31（13 去 / 0 来） | `gmail_digest` |
 | 2025-04-10 | 来 | Azad Khan（Automation Systems and Solution） | Thanks First, we need datasheet | 要 2 光 4 电工业 PoE（120W）规格书 | `gmail_e` |
+| 2025-04-10 | 去 | Elsa | 1, Price: 35usd/pc STI-244GP: industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged… -40℃ to 75℃, Din mounted, Without SFP Transceiver, without power adapter 2, Please see attached datasheet（附 STI-244GP.pdf） | Elsa 当天回了规格书 + $35 实价；之前信稿「datasheet never reached you properly」写反了 | `gmail_e 1961f90afa90cc6c` |
+| 2025-04-22 | 去 | Elsa | Any feedback about our product and offer? Do you need some samples for testing? | 追问样机，之后 Azad 无回 | `gmail_e 1965c7cf423f243a` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：从ONV买 几个台湾品牌；回复：ds | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 是否已回规格书未入库；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2025-04-10 已回 STI-244GP 规格书 + $35/pc，04-22 追问样机，之后无回；（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条一来二去（04-10 要规格书 → 当天回价 → 无下文），不是 WhatsApp
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -110,7 +112,7 @@ updated: 2026-10-24
   - 要了 2 光 4 PoE DS（2025-04）
 - **风险/边界**：ONV 价格基准低；印度 BIS
 - **Saga 对位结论**：P1 STI-244GP（20% 档）——其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。
-- **邮件切入句（英文）**：Azad — datasheet attached for the 2x SFP + 4x PoE industrial unit (unmanaged $49.5 / managed $77 USD EXW); is it for a specific automation site?
+- **邮件切入句（英文）**：Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -256,12 +258,12 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Datasheet — 2× SFP + 4× PoE industrial switch
+**主题**：2× SFP + 4× PoE industrial switch — April quote, update
 
 ```text
 Hi Azad,
 
-You asked for the datasheet first (April 2025) and it never reached you properly — attached now: STI-244GP, 2× gigabit SFP + 4× gigabit PoE af/at, DIN-rail, -40 to +75 °C, unmanaged. Price $45 USD EXW (2026-10-17 snapshot, valid 15 days); the managed version STI-244GPM is $64.6.
+In April 2025 Elsa sent you the STI-244GP datasheet (2× gigabit SFP + 4× gigabit PoE af/at, DIN-rail, -40 to +75 °C, unmanaged) at $35 per unit and asked whether you wanted samples; we did not hear back. Today the same unit is $45 USD EXW (2026-10-17 snapshot, valid 15 days — the RMB has moved from 7.2 to 6.7 since that quote); the managed version STI-244GPM is $64.6.
 
 One question: is this for a specific automation site (how many cabinets), or for your general stock next to the ONV units you buy today?
 

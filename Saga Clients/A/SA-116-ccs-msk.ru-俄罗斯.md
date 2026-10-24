@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-116` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）** ｜ 类型：莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：需求是 Brocade（品牌货源），不是 OEM ｜ 复活：其 Microsens 工业线的性价比替代（研究档） ｜ 通路：RU ｜ 节奏：不主动 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）
+- **绑定等级：未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回** ｜ 类型：莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：需求是 Brocade（品牌货源），不是 OEM ｜ 复活：其 Microsens 工业线的性价比替代（研究档） ｜ 通路：RU ｜ 节奏：不主动 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）
 - **现状一句话**：对 CENTEC 核心交换机群发的回应是问能否供 Brocade——把 Saga 当成了渠道货源。
 - **对方真实需求（有据）**：Brocade 原厂货（Saga 不做）。
 - **断点 / 为什么停在这里**：需求错位。
@@ -54,6 +54,7 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-01-26 | 来（Elsa 箱） | Pavel Karpov（CCS） | Hello! Can you provide Brocade switches? | 需求错位 | `E 19bf935676cdb7e6` |
+| 2026-01-30 | 去 | Elsa | Currently, Brocade's Ethernet switch business has been integrated into other vendor portfolios, so most Brocade switches available on the market today are legacy or second-hand… We can source Brocade switches depending on the specific model… Which Brocade model(s)? Required port speed (1G, 10G, 40G)? Desired condition (new, refurbished, used)? | Pavel 要的是 Brocade 现货，Elsa 答可代找二手并反问 → 无下文；这不是 Saga 产品线的需求 | `gmail_e 19c0e0388879da5f` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

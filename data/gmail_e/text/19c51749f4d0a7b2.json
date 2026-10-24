@@ -1,0 +1,18 @@
+{
+ "id": "19c51749f4d0a7b2",
+ "thread_id": "19ba6888abde34c0",
+ "message_id_header": "<CAOQGph9YcX-nnpOp+U_k-6Or6NXNfTiVUYcBgB6j68X=9=p01A@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Rahul Kansal <rahul.kansal@vintronsmartvision.com>",
+ "cc": "Brajesh Gupta <brajesh.gupta@vintronsmartvision.com>, harkush@vintronsmartvision.com, arti@vintronsmartvision.com",
+ "subject": "Re: OEM Core Switching Solution",
+ "date": "Thu, 12 Feb 2026 18:45:22 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Rahul,\n\nThanks for your interest.\n\nPlease check attached product links and let me know.\n\nThank you.\n\n--\n\nElsa\n\nSaga Telecom, OEM Factory\n\nTailored Managed Networking Solutions Provider\n\nBuilt to Last, Continuous Supply, Evolving Together",
+ "char_count": "355",
+ "attachments": "[{'filename': 'image002.jpg', 'mime_type': 'image/jpeg', 'size': 20665}, {'filename': 'Product Link_2026Q2.pdf', 'mime_type': 'application/pdf', 'size': 105398}, {'filename': 'Roadmap.png', 'mime_type': 'image/png', 'size': 1638494}]",
+ "note": "SB-121（合并档内 vintronsmartvision.com，Rahul Kansal + 3 人抄送）：Elsa 2026-02-12 只回 Product Link_2026Q2.pdf + Roadmap.png",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:04Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

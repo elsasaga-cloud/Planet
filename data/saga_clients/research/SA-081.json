@@ -1,172 +1,188 @@
 {
-  "code": "SA-081",
-  "name_official": "Softnetworks Inc.（Whippany, NJ，美国）",
-  "website_status": "在线",
-  "summary": "美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。",
-  "type": "二手/翻新网络设备经销商",
-  "size": "小型（11–50 人）",
-  "brands_seen": [
-    "Cisco",
-    "Juniper",
-    "Aruba",
-    "Meraki",
-    "Brocade",
-    "Dell",
-    "HP"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "30 年经验，新品与翻新 LAN/WAN/光纤硬件，目录含 Industrial Switches",
-      "quote": "premier value added provider of New, and refurbished secondary market… networking hardware solutions from manufacturers such as Cisco, Aruba, Meraki… INDUSTRIAL SWITCHES",
-      "url": "https://softnetworks.net/hardware/network-hardware/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "2012 年新泽西注册，起步网络硬件后扩展维修",
-      "quote": "Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions",
-      "url": "https://softnetworks.net/about-us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "Datanyze",
-      "claim": "18 名员工；Neal Cennamo 副总裁",
-      "quote": "Neal Cennamo Vice President… Softnetworks has 18 employees",
-      "url": "https://www.datanyze.com/companies/softnetworks/1100611077",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "交换机目录含 INDUSTRIAL SWITCHES 分类与联系方式",
-      "quote": "Switches - 2900 SERIES - 3500 SERIES - 3650 SERIES - 3700 SERIES - 3800 SERIES - 9200 / 9300 SERIES - SG SMALL BUSINESS SERIES - INDUSTRIAL SWITCHES - N5K / N9K SERIES … 20 Troy Rd., STE4 Whippany, NJ 07981 … +1-201-636-7188 … info@softnetworks.net",
-      "url": "https://softnetworks.net/hardware/network-hardware/",
-      "date": "2025-10-11"
-    },
-    {
-      "kind": "官网",
-      "claim": "2012 年 NJ 注册，初期专注 Cisco/Juniper/Aruba 网络硬件",
-      "quote": "Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions using hardware products from companies like Cisco, Juniper, Aruba and others.",
-      "url": "https://softnetworks.net/about-us/",
-      "date": "2025-10-12"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Neal Cennamo",
-      "role": "Vice President",
-      "email": "nealc@softnetworks.net",
-      "phone": "+1 201-636-7188（官网）",
-      "source": "用户 Clients 表 + Datanyze/官网"
-    },
-    {
-      "name": "Neal Cennamo",
-      "role": "VP（用户表）；ZoomInfo：Softnetworks 2014 至今",
-      "email": "nealc@softnetworks.net（用户表原值）",
-      "phone": "+1 201-636-7188（公司总机）",
-      "source": "https://www.zoominfo.com/p/Neal-Cennamo/81956627"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（官网 + 目录核对）"
+ "code": "SA-081",
+ "name_official": "Softnetworks Inc.（Whippany, NJ，美国）",
+ "website_status": "在线",
+ "summary": "美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。",
+ "type": "二手/翻新网络设备经销商",
+ "size": "小型（11–50 人）",
+ "brands_seen": [
+  "Cisco",
+  "Juniper",
+  "Aruba",
+  "Meraki",
+  "Brocade",
+  "Dell",
+  "HP"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "30 年经验，新品与翻新 LAN/WAN/光纤硬件，目录含 Industrial Switches",
+   "quote": "premier value added provider of New, and refurbished secondary market… networking hardware solutions from manufacturers such as Cisco, Aruba, Meraki… INDUSTRIAL SWITCHES",
+   "url": "https://softnetworks.net/hardware/network-hardware/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Softnetworks Inc.（Softnetworks, LLC）",
-    "founded": "2012 注册（NJ）；LinkedIn 2011；IndustryNet 口径 1998",
-    "hq": "20 Troy Rd, STE 4, Whippany, NJ 07981（+1 201-636-7188，info@softnetworks.net）",
-    "staff": "11–50",
-    "other": "网站 2025-10～2026-01 更新；交换机目录按 Cisco 2900/3500/3650/3700/3800/9200-9300/SG/INDUSTRIAL SWITCHES/N5K-N9K 分类（即 Cisco IE 系列翻新）；另有资产处置、租赁、Chromebook/Apple 维修"
+  {
+   "kind": "官网",
+   "claim": "2012 年新泽西注册，起步网络硬件后扩展维修",
+   "quote": "Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions",
+   "url": "https://softnetworks.net/about-us/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "Cisco/Juniper/Aruba/Meraki/Brocade/Dell/HP 翻新件",
-    "工业交换机类目",
-    "Chromebook/Apple 维修"
-  ],
-  "products_seen": [
-    {
-      "brand": "Cisco 等（翻新）",
-      "model": "Industrial Switches 类目",
-      "spec": "二手/翻新",
-      "url": "https://softnetworks.net/",
-      "date": "2026-10（首轮调研）",
-      "saga": "STI-288DGGPM（新品替代位）"
-    }
-  ],
-  "channels": {
-    "网站": "https://softnetworks.net/（Network Hardware → Switches → Industrial Switches）",
-    "直邮": "nealc@softnetworks.net（Neal Cennamo，副总，用户表）",
-    "电话": "+1 201-636-7188（官网公开）",
-    "邮箱（公开）": "info@softnetworks.net",
-    "LinkedIn": "https://www.linkedin.com/company/softnetworks-inc-"
+  {
+   "kind": "Datanyze",
+   "claim": "18 名员工；Neal Cennamo 副总裁",
+   "quote": "Neal Cennamo Vice President… Softnetworks has 18 employees",
+   "url": "https://www.datanyze.com/companies/softnetworks/1100611077",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "用户表：兴趣工业 FS、Cisco 产品",
-    "官网评价强调「Cisco 现货当天发」——客户买的是现货与速度；新品白牌工业机需以库存/快发匹配（2026-10-21）"
-  ],
-  "risks": [
-    "翻新经销商利润来自二手价差，对新品白牌接受度不确定；美国小型 B2B"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 20,
-    "why": "工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档"
+  {
+   "kind": "官网",
+   "claim": "交换机目录含 INDUSTRIAL SWITCHES 分类与联系方式",
+   "quote": "Switches - 2900 SERIES - 3500 SERIES - 3650 SERIES - 3700 SERIES - 3800 SERIES - 9200 / 9300 SERIES - SG SMALL BUSINESS SERIES - INDUSTRIAL SWITCHES - N5K / N9K SERIES … 20 Troy Rd., STE4 Whippany, NJ 07981 … +1-201-636-7188 … info@softnetworks.net",
+   "url": "https://softnetworks.net/hardware/network-hardware/",
+   "date": "2025-10-11"
   },
-  "email_hook": "Alongside the refurbished Cisco industrial units, a new Marvell-based 8-port gigabit PoE managed DIN switch at EXW cost gives you a lower-priced new-stock option for the industrial category, so that is the one I am quoting.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）",
-      "type": "新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "价格后停（翻新件价格基准极低）",
-      "revive": "只谈管理型新品补充线 + FCC",
-      "lane": "US",
-      "cadence": "一次",
-      "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
-    },
-    "situation": "Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。",
-    "need": "管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。",
-    "breakpoint": "价格基准（翻新 Cisco）vs 新品。",
-    "saga_now": {
-      "p1": "STI-288DGGPM-2BT（90W 款）",
-      "tier": 25,
-      "price": "换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—",
-      "why": "翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1",
-      "channel": "E 邮箱 → nealc@softnetworks.net",
-      "action": "一句话问 5 月报价的反馈",
-      "one_question": "Did the May quote for the 90W managed PoE unit land anywhere near your refurb price points — and what would? Reference: STI-288DGGPM-2BT at $154 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-04-29",
-        "dir": "来（Elsa 箱）",
-        "who": "Neal Cennamo",
-        "quote": "I never buy Unmanaged.",
-        "why": "筛选标准",
-        "k": "E 19682eba2d4de4b4"
-      },
-      {
-        "date": "2025-05-13",
-        "dir": "来（Elsa 箱）",
-        "who": "Neal",
-        "quote": "What is the price for this one?",
-        "why": "询价",
-        "k": "E 196ca1e02d95c29d"
-      }
-    ],
-    "proof_gaps": [
-      "Elsa 05-14 回价正文未入库"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "2012 年 NJ 注册，初期专注 Cisco/Juniper/Aruba 网络硬件",
+   "quote": "Softnetworks.net was incorporated in the State of NJ in 2012. Our initial primary focus was only on Networking Hardware solutions using hardware products from companies like Cisco, Juniper, Aruba and others.",
+   "url": "https://softnetworks.net/about-us/",
+   "date": "2025-10-12"
   }
+ ],
+ "kp": [
+  {
+   "name": "Neal Cennamo",
+   "role": "Vice President",
+   "email": "nealc@softnetworks.net",
+   "phone": "+1 201-636-7188（官网）",
+   "source": "用户 Clients 表 + Datanyze/官网"
+  },
+  {
+   "name": "Neal Cennamo",
+   "role": "VP（用户表）；ZoomInfo：Softnetworks 2014 至今",
+   "email": "nealc@softnetworks.net（用户表原值）",
+   "phone": "+1 201-636-7188（公司总机）",
+   "source": "https://www.zoominfo.com/p/Neal-Cennamo/81956627"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网 + 目录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Softnetworks Inc.（Softnetworks, LLC）",
+  "founded": "2012 注册（NJ）；LinkedIn 2011；IndustryNet 口径 1998",
+  "hq": "20 Troy Rd, STE 4, Whippany, NJ 07981（+1 201-636-7188，info@softnetworks.net）",
+  "staff": "11–50",
+  "other": "网站 2025-10～2026-01 更新；交换机目录按 Cisco 2900/3500/3650/3700/3800/9200-9300/SG/INDUSTRIAL SWITCHES/N5K-N9K 分类（即 Cisco IE 系列翻新）；另有资产处置、租赁、Chromebook/Apple 维修"
+ },
+ "business_lines": [
+  "Cisco/Juniper/Aruba/Meraki/Brocade/Dell/HP 翻新件",
+  "工业交换机类目",
+  "Chromebook/Apple 维修"
+ ],
+ "products_seen": [
+  {
+   "brand": "Cisco 等（翻新）",
+   "model": "Industrial Switches 类目",
+   "spec": "二手/翻新",
+   "url": "https://softnetworks.net/",
+   "date": "2026-10（首轮调研）",
+   "saga": "STI-288DGGPM（新品替代位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://softnetworks.net/（Network Hardware → Switches → Industrial Switches）",
+  "直邮": "nealc@softnetworks.net（Neal Cennamo，副总，用户表）",
+  "电话": "+1 201-636-7188（官网公开）",
+  "邮箱（公开）": "info@softnetworks.net",
+  "LinkedIn": "https://www.linkedin.com/company/softnetworks-inc-"
+ },
+ "signals": [
+  "用户表：兴趣工业 FS、Cisco 产品",
+  "官网评价强调「Cisco 现货当天发」——客户买的是现货与速度；新品白牌工业机需以库存/快发匹配（2026-10-21）"
+ ],
+ "risks": [
+  "翻新经销商利润来自二手价差，对新品白牌接受度不确定；美国小型 B2B"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 20,
+  "why": "工业交换机类目补新品：STI-288DGGPM（DIN 8 PoE + 2 SFP 管理）与 STC-28DGGPM；分销 20% 档"
+ },
+ "email_hook": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）",
+   "type": "新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "价格后停（翻新件价格基准极低）",
+   "revive": "只谈管理型新品补充线 + FCC",
+   "lane": "US",
+   "cadence": "一次",
+   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）"
+  },
+  "situation": "Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。",
+  "need": "管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。",
+  "breakpoint": "价格基准（翻新 Cisco）vs 新品。",
+  "saga_now": {
+   "p1": "STI-288DGGPM-2BT（90W 款）",
+   "tier": 25,
+   "price": "自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—",
+   "why": "翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "E 邮箱 → nealc@softnetworks.net",
+   "action": "一句话问 5 月报价的反馈",
+   "one_question": "Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since)."
+  },
+  "facts": [
+   {
+    "date": "2025-04-29",
+    "dir": "来（Elsa 箱）",
+    "who": "Neal Cennamo",
+    "quote": "I never buy Unmanaged.",
+    "why": "筛选标准",
+    "k": "E 19682eba2d4de4b4"
+   },
+   {
+    "date": "2025-04-30",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "We got managed series. Please see attached a typical model, it is a lengthy datasheet with plenty of information, take your time.（附 STI-288DGGPM.pdf；Elsa 给这封加了星标）",
+    "why": "回应「I never buy Unmanaged」→ 给管理型规格书",
+    "k": "gmail_e 19684d7bc9571faf"
+   },
+   {
+    "date": "2025-05-13",
+    "dir": "来（Elsa 箱）",
+    "who": "Neal",
+    "quote": "What is the price for this one?",
+    "why": "询价",
+    "k": "E 196ca1e02d95c29d"
+   },
+   {
+    "date": "2025-05-14",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "1, STI-288DGGPM-2BT: 140usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE, L2+ Managed 6*PoE af/at+2*PoE af/at/bt, 240W budget, Din Rail, Redundant DC44V~57V Input, Excluding optical module and power supply（附 STI-288DGGPM-2BT.pdf）",
+    "why": "Saga 给 Neal 的唯一实价 $140（老汇率）→ 无下文；再触同款不得默默写 $154，要点明 FX 7.2→6.7",
+    "k": "gmail_e 196ccf655de0046f"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 05-14 实报 STI-288DGGPM-2BT $140/pc + 规格书；04-30 已先给 STI-288DGGPM 规格书"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

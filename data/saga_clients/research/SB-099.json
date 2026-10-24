@@ -1,150 +1,158 @@
 {
-  "code": "SB-099",
-  "name_official": "AGS Plus / Xexagon（印度；Vinod Tyagi、Gunjan）",
-  "researched_at": "2026-10-21",
-  "website_status": "停放（agsplus.in「Coming Soon」；xexagon.co.in 待核）",
-  "summary": "印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "新桥（Xinqiao）",
-    "OPSTAR",
-    "E-wind"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "agsplus.in 为 Coming Soon 占位",
-      "quote": "title: Coming Soon（parked_or_empty）",
-      "url": "http://agsplus.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "主要是 CCTV 新桥的商业 PoE；工业 FS 周边产品；opstar 的工业 FS / 有 E-wind 产品；2025-06 24poe→price",
-      "quote": "兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Vinod Tyagi",
-      "title": "（表内联系人）",
-      "email": "sales@agsplus.in",
-      "phone": "+91 98105 61477",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Gunjan",
-      "title": "（表内联系人，Xexagon）",
-      "email": "gunjan@xexagon.co.in",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照占位 + 表内）"
+ "code": "SB-099",
+ "name_official": "AGS Plus / Xexagon（印度；Vinod Tyagi、Gunjan）",
+ "researched_at": "2026-10-21",
+ "website_status": "停放（agsplus.in「Coming Soon」；xexagon.co.in 待核）",
+ "summary": "印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "新桥（Xinqiao）",
+  "OPSTAR",
+  "E-wind"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "agsplus.in 为 Coming Soon 占位",
+   "quote": "title: Coming Soon（parked_or_empty）",
+   "url": "http://agsplus.in/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "（待核：AGS Plus / Xexagon）",
-    "founded": "",
-    "hq": "印度（德里 NCR，+91 98105）",
-    "size": "小型经销",
-    "other": "官网占位"
-  },
-  "business_lines": [
-    "CCTV + 配套 PoE 交换机经销",
-    "工业交换机（OPSTAR）"
-  ],
-  "channels": {
-    "role": "安防 / 网络经销商（已购中国同行）",
-    "region": "印度"
-  },
-  "signals": [
-    "已从新桥 / OPSTAR 采购 → 同类替换",
-    "2025-06 要 24 PoE 价格"
-  ],
-  "risks": [
-    "新桥价格基准低；官网占位"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 20,
-    "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。"
-  },
-  "email_hook": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW; is the requirement still there?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）",
-      "type": "—",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
-      "revive": "Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话",
-      "lane": "IN 次级（点名）",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。",
-    "need": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。",
-    "breakpoint": "新桥价格基准低；官网占位",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2024-12-30 $240（24 Port Fiber Switch）",
-      "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 定 Q-33",
-      "channel": "WhatsApp（Simon）",
-      "action": "一句话",
-      "one_question": "Vinod — you asked for prices last June over WhatsApp; the 8-PoE + 2-SFP industrial unit is $137.5 USD EXW; is the requirement still there?"
-    },
-    "facts": [
-      {
-        "date": "2024-12-30",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "10G media converter、48 Port PoE Managed Switch",
-        "why": "12 封 / 3 次打开 / 0 回｜首封 2024-07-04 → 末封 2024-12-30（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-06-04",
-        "dir": "来",
-        "who": "Vinod Tyagi（AGS Plus）",
-        "quote": "Share the price. What's App.. Number +91 98105 61477",
-        "why": "要价 + 给 WhatsApp = 想谈；但本户标 Q-33（供应商渠道）",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ gunjan@xexagon.co.in（截至 2026-10-24 无回复）",
-        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "Q-33 标记依据待核（供应商渠道客户不碰）",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「读而不回→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "主要是 CCTV 新桥的商业 PoE；工业 FS 周边产品；opstar 的工业 FS / 有 E-wind 产品；2025-06 24poe→price",
+   "quote": "兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Vinod Tyagi",
+   "title": "（表内联系人）",
+   "email": "sales@agsplus.in",
+   "phone": "+91 98105 61477",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Gunjan",
+   "title": "（表内联系人，Xexagon）",
+   "email": "gunjan@xexagon.co.in",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照占位 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "（待核：AGS Plus / Xexagon）",
+  "founded": "",
+  "hq": "印度（德里 NCR，+91 98105）",
+  "size": "小型经销",
+  "other": "官网占位"
+ },
+ "business_lines": [
+  "CCTV + 配套 PoE 交换机经销",
+  "工业交换机（OPSTAR）"
+ ],
+ "channels": {
+  "role": "安防 / 网络经销商（已购中国同行）",
+  "region": "印度"
+ },
+ "signals": [
+  "已从新桥 / OPSTAR 采购 → 同类替换",
+  "2025-06 要 24 PoE 价格"
+ ],
+ "risks": [
+  "新桥价格基准低；官网占位"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。"
+ },
+ "email_hook": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回",
+   "type": "—",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户",
+   "revive": "Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话",
+   "lane": "IN 次级（点名）",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。",
+  "need": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。",
+  "breakpoint": "新桥价格基准低；官网占位",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2024-12-30 $240（24 Port Fiber Switch）",
+   "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 定 Q-33",
+   "channel": "WhatsApp（Simon）",
+   "action": "一句话",
+   "one_question": "Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?"
+  },
+  "facts": [
+   {
+    "date": "2024-12-30",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "10G media converter、48 Port PoE Managed Switch",
+    "why": "12 封 / 3 次打开 / 0 回｜首封 2024-07-04 → 末封 2024-12-30（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-06-04",
+    "dir": "来",
+    "who": "Vinod Tyagi（AGS Plus）",
+    "quote": "Share the price. What's App.. Number +91 98105 61477",
+    "why": "要价 + 给 WhatsApp = 想谈；但本户标 Q-33（供应商渠道）",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-06-06",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Please see attached file and check the full information.（附 Download Link_Alan.pdf）",
+    "why": "Vinod 06-04「Share the price」+ 留 WhatsApp 号，Elsa 06-06 只回下载链接、没报价 → 无下文",
+    "k": "gmail_e 19743ee9ad289a26"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+    "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ gunjan@xexagon.co.in（截至 2026-10-24 无回复）",
+    "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "Q-33 标记依据待核（供应商渠道客户不碰）",
+   "（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-04 要价 + 留 WhatsApp → 06-06 只回下载链接 → 无下文）；之后是否在 WhatsApp 上谈过只有 Simon 手机知道"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

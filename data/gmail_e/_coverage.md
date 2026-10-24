@@ -18,7 +18,7 @@
 |---|---|---|
 | `Replied` 索引（189 封 / 51 线程，7 页） | ✅ 189/189（06:25Z） | `index_replied.jsonl` |
 | `Replied` 来信正文（客户→Elsa，67 封） | ✅ 67/67（2026-10-23T07:03Z；sales@eurotechindia.com 两封正文为空，见文件 note） | `text/<id>.json` |
-| `Replied` Elsa 回复正文（101 封，其中首封群发为模板） | ⏳ | `text/<id>.json` |
+| `Replied` Elsa 回复正文（101 封，其中首封群发为模板） | ⏳ 32/101（2026-10-24T16:05Z，第 73 批：A/B 档 51 线程里所有「Re:」回复——SB-746 / SB-973 ×2 / SB-427 ×2 / SB-656 / SB-164 / SA-118 / SA-076 ×2 / SA-023 / SB-121 ×3 / SB-099 / SB-462 / SB-178 ×6 / SA-081 ×2 / SB-029 ×2 / SA-147 / SA-116 / SA-046 / SB-580 / SB-960 / SB-261；余下 = 各线程首封群发模板 + C 档） | `text/<id>.json` |
 | 退信（21 封）：仅记录被退地址 | ⏳ | 索引 labels 含 `D` 可识别 |
 | 个人类未进 `Replied` 的来信（≈60 封） | ⏳ | `index_personal.jsonl` |
 | 附件原件 | ❌ 不经连接器拉（base64 逐件，体积大） | 需要时 Takeout |

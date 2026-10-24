@@ -1,0 +1,18 @@
+{
+ "id": "19684d7bc9571faf",
+ "thread_id": "196579e2a8ae1bc0",
+ "message_id_header": "<CAOQGph8oC5F+c_qZ1VVkZYonoGFeYK0Y=muRhkRZxyKA+JcR+A@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "nealc@softnetworks.net",
+ "cc": "None",
+ "subject": "Re: 8 Port Industrial PoE Switch",
+ "date": "Wed, 30 Apr 2025 11:57:32 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Neal,\nWe got managed series.\nPlease see attached a typical model, it is a lengthy datasheet with plenty\nof information, take your time.\nThank you.",
+ "char_count": "154",
+ "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 24536}, {'filename': 'STI-288DGGPM.pdf', 'mime_type': 'application/pdf', 'size': 2642550}]",
+ "note": "SA-081：Elsa 2025-04-30 答「有管理系列」+ STI-288DGGPM 规格书（Elsa 自己加了星标）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:05Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "196199ab58b3499b",
+ "thread_id": "195741e3297fe2ef",
+ "message_id_header": "<CAOQGph9e2tD2oZ3JPgrYR-5xD0g9F0YP1ezM+P05cWgetDd8UA@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Faisal Javed <faisal@ite.net.pk>",
+ "cc": "None",
+ "subject": "Re: Mini Industrial PoE Switch",
+ "date": "Wed, 9 Apr 2025 16:11:28 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Faisal,\nIs something as attached OK?\nThank you.",
+ "char_count": "53",
+ "attachments": "[{'filename': 'Info.docx', 'mime_type': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'size': 34605}]",
+ "note": "SB-029：Elsa 2025-04-09 同日发 Info.docx 问「这个行不行」",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:06Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

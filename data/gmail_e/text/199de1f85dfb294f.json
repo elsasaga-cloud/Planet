@@ -1,0 +1,18 @@
+{
+ "id": "199de1f85dfb294f",
+ "thread_id": "19980d2770e487b1",
+ "message_id_header": "<CAOQGph9mNNdQP=vkPL8jFE-kBrhAXSa3DT8Z9Z_OqzOfnu1Kfg@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Dawn Gumtow <dawn@westwardsales.com>",
+ "cc": "None",
+ "subject": "Re: 10G Enterprise SFP Switch",
+ "date": "Mon, 13 Oct 2025 23:10:30 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Dawn,\nThanks for getting back to me.\n1, please see attached datasheet, PI and PL.\n2, shipping cost is based on volume weight.\n3, if you have a model number, please share, we will write it on the WEB\nGUI and labels.\nOne piece is OK, it is better if you need more for sample testing.\nThank you.",
+ "char_count": "303",
+ "attachments": "[{'filename': 'Dual AC.jpg', 'mime_type': 'image/jpeg', 'size': 435914}, {'filename': 'image002.jpg', 'mime_type': 'image/jpeg', 'size': 2580}, {'filename': 'STC-4168XGGCM.pdf', 'mime_type': 'application/pdf', 'size': 2459831}, {'filename': 'STEC20251013018.pdf', 'mime_type': 'application/pdf', 'size': 270476}, {'filename': 'PL_STEC20251013018.xls', 'mime_type': 'application/vnd.ms-excel', 'size': 330752}]",
+ "note": "SA-046 / SB-1246 Westward Sales（美国，Dawn Gumtow）：Elsa 2025-10-13 发 STC-4168XGGCM 规格书 + 样机 PI STEC20251013018 + 装箱单；可在 Web GUI / 标签写对方型号；1 台起",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:06Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

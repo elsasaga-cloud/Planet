@@ -1,0 +1,18 @@
+{
+ "id": "1961f90afa90cc6c",
+ "thread_id": "195742ba8a5654e8",
+ "message_id_header": "<CAOQGph9JXYfhzE+Mr9An_Fyx1Xz8kg4=4=q0MtavFc=GgYSnCA@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "infoautomation18@gmail.com",
+ "cc": "None",
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Thu, 10 Apr 2025 19:58:14 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Azad,\nThanks for your interest.\n1, Price: 35usd/pc\nSTI-244GP: industrial PoE Switch\n2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged, Support DIP\nfunction, DC44V~DC57V(Removable 4 PIN Industrial Terminal Block) , -40℃ to\n75℃, Din mounted, Without SFP Transceiver, without power adapter\n2, Please see attached datasheet and let me know.\nThank you.",
+ "char_count": "371",
+ "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 277893}, {'filename': 'STI-244GP.pdf', 'mime_type': 'application/pdf', 'size': 2113617}]",
+ "note": "SB-427 Info Automation（印度，Azad）：Elsa 2025-04-10 报 STI-244GP $35/pc（2 SFP + 4 PoE 120 W 非管理，−40~75 °C，不含 SFP / 电源）+ 规格书",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

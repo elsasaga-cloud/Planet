@@ -36,7 +36,7 @@ updated: 2026-10-24
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-17 → 2025-10-02）；最近一次客户回复：2025-06-17：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）
-- **第一问（只问一个）**：The 10G media converter is $65 USD EXW (price table 2026-10, valid 15 days); how many units and which fibre (SM/MM, distance)?
+- **第一问（只问一个）**：Elsa quoted the 10G media converter STC-110XGE at $65 USD EXW in June 2025 (unchanged on the 2026-10 table); how many units and which fibre (SM/MM, distance)?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（顺手） Elsa 邮箱回原线程 补答 + 一问
 
@@ -44,21 +44,22 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-656` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：一封正式报价单（$65 USD EXW，快照日期）+ 问数量 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未触达→轻度触达（Elsa 邮箱 2025-06-17 info@citsindia.com 回「Price pls」对 10G 媒体转换器 $65；S 邮箱 3 封 0 回）；补核（第 73 批）：Elsa 同日回 STC-110XGE $65 + 规格书，之后无回 → 回过一次后读而不回** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：一封正式报价单（$65 USD EXW，快照日期）+ 问数量 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：SFP, MC, switch, router；回复：price」；研究档 risks：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。
 - **对方真实需求（有据）**：MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
 - **断点 / 为什么停在这里**：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch））——MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
 - **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　补答 + 一问
-  - 第一问（只问一个）：The 10G media converter is $65 USD EXW (price table 2026-10, valid 15 days); how many units and which fibre (SM/MM, distance)?
+  - 第一问（只问一个）：Elsa quoted the 10G media converter STC-110XGE at $65 USD EXW in June 2025 (unchanged on the 2026-10 table); how many units and which fibre (SM/MM, distance)?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-08-09 | 去 | S 群发 | Industrial PoE Switch、10G media converter | 3 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2024-08-09（3 去 / 0 来） | `gmail_digest` |
 | 2025-06-17 | 来 | Core IT Solutions（Mumbai） | Price pls | Elsa 信里已写 65usd/pc，对方仍问价 = 没细读或要正式报价 | `gmail_e` |
+| 2025-06-17 | 去 | Elsa | Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter. Please see attached datasheet.（附 STC-110XGE.pdf） | 「Price pls」当天就回了 $65 + 规格书 → 无下文；之前信稿「we owe you a clean answer」写反了 | `gmail_e 1977c84d867d3059` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：SFP, MC, switch, router；回复：price | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达→轻度触达」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-17「Price pls」→ 同日回 STC-110XGE $65 + 规格书 → 无下文），不是 WhatsApp
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -239,7 +240,7 @@ updated: 2026-10-24
 ```text
 Hi, Sarwar,
 
-You asked "Price pls" on the 10G media converter in June 2025 and we owe you a clean answer: $65 USD EXW per unit (price table 2026-10, valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.
+You asked "Price pls" on the 10G media converter in June 2025 and Elsa answered the same day: STC-110XGE (1× 10G SFP+ + 1× 100M/1G/2.5G/10G copper, unmanaged, with PSU) at $65 USD EXW. The price is unchanged on the 2026-10 table (valid 15 days); the gigabit 1-fibre/1-copper industrial unit STI-110GE is $29.7.
 
 One question so I quote the right optics: how many units, single-mode or multi-mode, and what distance between the two ends?
 

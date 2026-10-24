@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-118` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）** ｜ 类型：贸易商 ｜ 筛子：2（问价/MOQ/保修） ｜ 停点：2025-10-30 来信后 Elsa 回复未入库 ｜ 复活：补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌 ｜ 通路：蒙古国 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回** ｜ 类型：贸易商 ｜ 筛子：2（问价/MOQ/保修） ｜ 停点：2025-10-30 来信后 Elsa 回复未入库 ｜ 复活：补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌 ｜ 通路：蒙古国 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。
 - **对方真实需求（有据）**：16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。
 - **断点 / 为什么停在这里**：蒙古物流（经二连浩特陆运）与小量
@@ -54,10 +54,11 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-10-21 | 用户表 | Simon | 兴趣：MC SFP switch 很多外壳；回复：需要16 port的 | 表内备注 | `用户表` |
 | 2025-10-30 | 来 | A.Bayar（Topica LLC） | May we have your price list, MOQ , Warranty information? | 三问齐全 = 贸易商式评估；Elsa 是否回了价表未入库 | `gmail_e` |
+| 2025-10-31 | 去 | Elsa | 1, please see attached download link. 2, I am also attaching a datasheet, you can find plenty of useful information in it.（附 Download Link_Alan.pdf + STI-244GP.pdf） | 他问的 price list / MOQ / warranty 一个都没正面答——只给了下载链接 + 一本规格书 → 无下文 | `gmail_e 19a38c06fc7947d2` |
+| 2026-10-21 | 用户表 | Simon | 兴趣：MC SFP switch 很多外壳；回复：需要16 port的 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 回复正文未入库
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -236,7 +237,7 @@ updated: 2026-10-24
 ```text
 Hi Bayar,
 
-You asked for price list, MOQ and warranty in October 2025 — here it is in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180. The full table follows once I know which brand you carry.
+You asked for price list, MOQ and warranty in October 2025; Elsa sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180. The full table follows once I know which brand you carry.
 
 One question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.
 

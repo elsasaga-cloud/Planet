@@ -1,0 +1,18 @@
+{
+ "id": "19fcc40506a0a404",
+ "thread_id": "19fc0fccb0dc7d12",
+ "message_id_header": "<CAOQGph9X1hLzZbFGDHTOTFaS6Hq-G_GaF0vNV7cPs9A-1Gnj3w@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Subhash <subhash@andatelecom.com>",
+ "cc": "None",
+ "subject": "Re: 24 Port PoE Managed Switch",
+ "date": "Tue, 4 Aug 2026 18:09:43 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Subhash,\nPlease check attached datasheet.\nThank you.",
+ "char_count": "58",
+ "attachments": "[{'filename': 'image001.png', 'mime_type': 'image/png', 'size': 261078}, {'filename': 'STC-424XGGPM-280W.docx', 'mime_type': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'size': 1334991}]",
+ "note": "SB-746 Anda Telecom（印度）：Elsa 2026-08-04 回 Subhash 的规格书 = STC-424XGGPM-280W.docx（24 PoE + 4×10G SFP+，280 W）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

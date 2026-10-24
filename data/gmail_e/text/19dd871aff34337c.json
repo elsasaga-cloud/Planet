@@ -1,0 +1,18 @@
+{
+ "id": "19dd871aff34337c",
+ "thread_id": "19d5e1156c517711",
+ "message_id_header": "<CAOQGph9aoGTKBZfhYd25tb4TC25xg9WGva_6TKCHs06g88VGzQ@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Hill <hill@atwtechnology.com>",
+ "cc": "None",
+ "subject": "Re: Updated Ethernet Switches Links",
+ "date": "Wed, 29 Apr 2026 16:53:39 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Hill,\nThanks for your information.\n1. sorry to tell you that it is NOT available on our list.\n2. I did some research, this spec is kinda rare: AC input\nmost models do DC input.\nThank you.",
+ "char_count": "196",
+ "attachments": "[]",
+ "note": "SB-261 ATW Technology（Hill）：要 AC 输入的某款；Elsa 2026-04-29 答没有",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:06Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

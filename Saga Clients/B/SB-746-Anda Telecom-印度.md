@@ -59,9 +59,10 @@ updated: 2026-10-24
 | 2025-06-17 | 来 | Harish Gupta（Director, ANDA Telecom） | Dear Nitin/Subhash Please reply. | 董事把 Elsa 的 16 口信转给采购两人 = 内部有兴趣 | `gmail_e` |
 | 2026-08-04 | 来 | Subhash（ANDA Telecom） | First share us data sheet for the same | 24 口 PoE（AC5）信当天要规格书 | `gmail_e` |
 | 2026-08-04 | 来 | Subhash | we will check and update you soon, You have mentioned some Not supported features (no a days Stacking is mandatory) | 卡点 = 堆叠；Elsa 的规格书里明写了不支持项（诚实），对方以堆叠为必需 | `gmail_e` |
+| 2026-08-04 | 去 | Elsa | Please check attached datasheet.（附件 = STC-424XGGPM-280W.docx） | Subhash 要的规格书 = 24 口 PoE 管理机 STC-424XGGPM-280W；他看完才说「stacking is mandatory」——比对对象就是这款 | `gmail_e 19fcc40506a0a404` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 2026-08-04 发出的规格书型号未入库
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2026-08-04 规格书 = STC-424XGGPM-280W.docx（连接器读 Elsa 回复正文）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -272,7 +273,7 @@ updated: 2026-10-24
 ```text
 Hi Subhash,
 
-Following your 4 August note ("no a days Stacking is mandatory") — a straight answer rather than a datasheet:
+Following your 4 August note ("no a days Stacking is mandatory") — a straight answer rather than another datasheet (you have the STC-424XGGPM-280W sheet Elsa sent on 4 August):
 
 Our AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). Where stacking is a written requirement, we have the CENTEC-based STH-2QX4DX48GP (48 x 1G PoE++ + 4 x 25G + 2 x 40G) that stacks up to 8 units as one logical switch. On the AC5 access units, what you get instead is ERPS G.8032 rings (<20 ms) and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.
 

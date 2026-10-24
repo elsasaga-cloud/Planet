@@ -33,8 +33,8 @@ updated: 2026-10-24
 - **是谁**：印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。（调研 2026-10-21；表内兴趣：PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多）
 - **为什么是 B 级**：+18 在「已回复」名单（A/E Replied）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Vadim — three CENTEC SKUs are priced today (32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW; 10G models per project); which capacity is the first project, and is the test sample for a telecom or a data-centre site?
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源；Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）
+- **第一问（只问一个）**：Vadim — the two test units Elsa priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（拆档后） Elsa 邮箱回原线程 拆档 + 各一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
@@ -46,19 +46,22 @@ updated: 2026-10-24
 - **现状一句话**：印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。
 - **对方真实需求（有据）**：自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源
 - **断点 / 为什么停在这里**：印度 BIS 认证由 Vintron 自持（已有 BIS 能力，利好）；整机进口关税高 → SKD 更可行
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch））——自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch））——自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源
 - **下一步（具体）**：2026-11（拆档后）　Elsa 邮箱回原线程　拆档 + 各一问；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
-  - 第一问（只问一个）：Vadim — three CENTEC SKUs are priced today (32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW; 10G models per project); which capacity is the first project, and is the test sample for a telecom or a data-centre site?
+  - 第一问（只问一个）：Vadim — the two test units Elsa priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-06 | 来 | Rahul Kansal（Vintron Smart Vision，印度） | Please share brochure with technical sheet to do further analysis. | CENTEC 核心信触发；印度 CCTV 制造商 | `gmail_e` |
+| 2026-02-12 | 去 | Elsa | Please check attached product links and let me know.（→ Rahul Kansal，抄 Brajesh Gupta / harkush / arti；附 Product Link_2026Q2.pdf + Roadmap.png） | Vintron 要 brochure + technical sheet，Elsa 只给链接 PDF → 无下文 | `gmail_e 19c51749f4d0a7b2` |
 | 2026-03-12 | 来 | Vadim Rudenko（QUIP PRO LLP，阿拉木图） | Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples. | 哈萨克项目方要 CENTEC 全系价 + 样机价——这是三家里最实的一问 | `gmail_e` |
+| 2026-03-13 | 去 | Elsa | Yes, let's do sample testing. MOQ is 1pc for any model. I would suggest STH-8C48DX-HSI (STH25G series) and STH-2C24XF-HSI (XLite series) for testing. Prices are 5000USD and 1350USD respectively. 3, We are subject to increasing material costs, mainly about the RAM and Disk prices... So we will only quote by models for now… Is your business project-based, or you have a plan to build your own brand?（→ Vadim Rudenko，抄 momarov@quippro.kz；附 Drive 链接） | Saga 给 Quip Pro 的实价：8C48DX-HSI $5,000、2C24XF-HSI $1,350（MOQ 1）——信稿按自家实报走，不按 Q2 表 $4,800/$1,500 | `gmail_e 19ce660ef90ba4c2` |
 | 2026-04-27 | 来 | Leann（AirLink iLife Inc.，台湾） | Can you send price list for viewing? | 台湾同行式问价 | `gmail_e` |
+| 2026-04-29 | 去 | Elsa | Prices are ALREADY available in the links. You will find a price list in each category, please try.（→ Leann，info@airlink-ilife.com） | AirLink 要 price list，Elsa 答「链接里有」→ 无下文 | `gmail_e 19dd873da75a3343` |
 | 2026-09-24 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24 Port PoE Managed Switch | 24 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-24（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）；Elsa 回复正文未入库
+- **还缺的证据（等 A 邮箱 / Extra Info）**：实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）；（已核 2026-10-24，第 73 批）三家各一封 Elsa 回复已读：Vintron 02-12 链接 PDF；Quip Pro 03-13 实报 STH-8C48DX-HSI $5,000 / STH-2C24XF-HSI $1,350 并问项目/品牌；AirLink 04-29「价格在链接里」；三家之后均无回
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -280,12 +283,12 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Your test-sample request — capacities priced
+**主题**：Your test-sample request — the two units Elsa priced
 
 ```text
 Vadim,
 
-Three CENTEC SKUs are priced today, all EXW (2026 Q2 list): 32× 100G USD 6,000; 6× 40G + 2× 100G USD 1,200; 48× 25G + 8× 100G USD 4,800. 10G models are quoted per project.
+In March Elsa suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).
 
 Which capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.
 

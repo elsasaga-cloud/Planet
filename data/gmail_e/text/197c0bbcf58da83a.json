@@ -1,0 +1,18 @@
+{
+ "id": "197c0bbcf58da83a",
+ "thread_id": "19726629b4a807dc",
+ "message_id_header": "<CAOQGph-gui5fWMfic7jq19k+MpqRpZcy00YDte7YHhhLxqbQqw@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Michael Elsberry <michael@eminnovate.com>",
+ "cc": "None",
+ "subject": "Re: 48 Port PoE Managed Switch",
+ "date": "Mon, 30 Jun 2025 20:07:01 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Michael,\nThanks for your interest.\nSorry, it is not available on our list.\nOn the market, there are some models available, but not many.\nPlease check attached our Marvell based software feature list.\nThank you.",
+ "char_count": "304",
+ "attachments": "[{'filename': 'Saga Software Function List_7.3, 7.4, 7.5 version.xlsx', 'mime_type': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'size': 125242}]",
+ "note": "SB-462 EM Innovate（美国，Michael Elsberry）：Elsa 2025-06-30 答「我们没有这款」+ 软件功能表 xlsx（7.3/7.4/7.5）",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:04Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

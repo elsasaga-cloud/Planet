@@ -1,0 +1,18 @@
+{
+ "id": "1965c7cf423f243a",
+ "thread_id": "195742ba8a5654e8",
+ "message_id_header": "<CAOQGph-Hs+CHjnzqjmfeJMmSK2AgC=d_-=AG+3G_3m1zSbZZXA@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "infoautomation18@gmail.com",
+ "cc": "None",
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Tue, 22 Apr 2025 15:53:33 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Azad,\nAny feedback about our product and offer?\nDo you need some samples for testing?\nThank you.",
+ "char_count": "197",
+ "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 277893}]",
+ "note": "SB-427：Elsa 2025-04-22 追问样机，之后无回",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

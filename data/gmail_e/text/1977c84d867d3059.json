@@ -1,0 +1,18 @@
+{
+ "id": "1977c84d867d3059",
+ "thread_id": "197264945973c64f",
+ "message_id_header": "<CAOQGph_rupemGQBzzxPiCC4gnNZDZ8DN7yg1Cb7v7sv42m869g@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "info@citsindia.com",
+ "cc": "None",
+ "subject": "Re: 10G Media Converter",
+ "date": "Tue, 17 Jun 2025 14:12:50 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Sarwar,\n\n*Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged,\nnon-PoE, DC5~12V input, with power adapter.*\n\nPlease see attached datasheet.\n\nThank you.\n-\n\nElsa\n\nSaga Telecom/OEM Factory\n\nConnecting, Converting, Creating\n\nTailored Marvell Managed Networking Solutions Provider",
+ "char_count": "309",
+ "attachments": "[{'filename': 'image001.jpg', 'mime_type': 'image/jpeg', 'size': 61538}, {'filename': 'image002.jpg', 'mime_type': 'image/jpeg', 'size': 21548}, {'filename': 'STC-110XGE.pdf', 'mime_type': 'application/pdf', 'size': 1616090}]",
+ "note": "SB-656 CITS India（Sarwar）：Elsa 2025-06-17 报 10G 媒体转换器 STC-110XGE $65/pc（1×10G SFP+ + 1×multi-gig，非管理，含电源）+ 规格书",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:03Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

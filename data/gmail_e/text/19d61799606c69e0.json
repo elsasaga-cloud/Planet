@@ -1,0 +1,18 @@
+{
+ "id": "19d61799606c69e0",
+ "thread_id": "19d4e468be97be67",
+ "message_id_header": "<CAOQGph9aVbo-CUwsJYr1VwJGnG_NQ7uLT0-BueqC9nAgjJa4bw@mail.gmail.com>",
+ "from": "Elsa from Saga Telecom <e.sagatelecom@gmail.com>",
+ "to": "Shantanu Kumar <shantanu.kumar@hfcl.com>",
+ "cc": "None",
+ "subject": "Re: Industrial PoE Switch",
+ "date": "Mon, 6 Apr 2026 14:27:29 +0800",
+ "labels": "['SENT', 'Replied']",
+ "text": "Hi, Shantanu,\nMy colleague Simon said hi on WhatsApp.\nThank you.",
+ "char_count": "149",
+ "attachments": "[{'filename': 'DIN Rail Unmanaged.jpg', 'mime_type': 'image/jpeg', 'size': 277893}]",
+ "note": "SB-178：2026-04-06 Simon 接手 WhatsApp——此后进展只在 Simon 手机",
+ "text_source": "text/plain",
+ "fetched": "2026-10-24T16:05Z",
+ "method": "Arena Gmail connector get_message_text(include_quoted=false)"
+}

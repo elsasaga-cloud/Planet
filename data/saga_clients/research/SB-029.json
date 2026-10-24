@@ -1,127 +1,143 @@
 {
-  "code": "SB-029",
-  "name_official": "International Technology Exchanger (ITE)（Karachi）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（ite.net.pk，快照 2026-10-21）",
-  "summary": "卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Cisco",
-    "Fortinet",
-    "Huawei",
-    "Ubiquiti",
-    "Juniper"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "20+ 年 IT 方案；品牌 Cisco / Fortinet / Huawei / Ubiquiti / Juniper；021-34598598",
-      "quote": "20+ Years of Excellence in IT Solutions… 021-34598598; brands Cisco, Fortinet, Huawei, Ubiquiti, Juniper",
-      "url": "https://ite.net.pk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣 switch；2025-04 群发 22 迷你→have Routers with 1GE and 4 FE ports?",
-      "quote": "回复：have Routers with 1GE and 4 FE ports?",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Faisal Javed",
-      "title": "（表内联系人）",
-      "email": "faisal@ite.net.pk",
-      "phone": "+92 21 3459 8598",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-029",
+ "name_official": "International Technology Exchanger (ITE)（Karachi）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ite.net.pk，快照 2026-10-21）",
+ "summary": "卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Fortinet",
+  "Huawei",
+  "Ubiquiti",
+  "Juniper"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "20+ 年 IT 方案；品牌 Cisco / Fortinet / Huawei / Ubiquiti / Juniper；021-34598598",
+   "quote": "20+ Years of Excellence in IT Solutions… 021-34598598; brands Cisco, Fortinet, Huawei, Ubiquiti, Juniper",
+   "url": "https://ite.net.pk/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "International Technology Exchanger",
-    "founded": "约 2005（20+ 年）",
-    "hq": "Karachi, Pakistan",
-    "size": "小型方案商",
-    "other": "info@/sales@ite.net.pk"
-  },
-  "business_lines": [
-    "企业网络 / 安全集成（多品牌）"
-  ],
-  "channels": {
-    "role": "IT 方案商 / 经销",
-    "region": "巴基斯坦"
-  },
-  "signals": [
-    "主动反问路由器 → 有 SOHO 路由采购需求（Saga 无，缺口记录）"
-  ],
-  "risks": [
-    "需求为路由器（缺口）；巴基斯坦 L/C / 外汇"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。"
-  },
-  "email_hook": "Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is in stock from 1 pc; is that useful for the same projects, or is it routers only right now?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）",
-      "type": "—",
-      "sieve": "—（需求路由器，非交换机）",
-      "stop": "从未触达",
-      "revive": "不动（需求不对口）",
-      "lane": "巴基斯坦 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「回复：have Routers with 1GE and 4 FE ports?」；研究档 risks：需求为路由器（缺口）；巴基斯坦 L/C / 外汇；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。",
-    "need": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
-    "breakpoint": "产品线不对口（路由器）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "回复：have Routers with 1GE and 4 FE ports?",
-        "why": "表内备注",
-        "k": "用户表"
-      },
-      {
-        "date": "2025-04-09",
-        "dir": "来",
-        "who": "Faisal（International Technology Exchanger，PK）",
-        "quote": "Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels",
-        "why": "路由器 + VPN 规格 = 守界外（C10）；不设计绕路",
-        "k": "gmail_e"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信→明确不对口」，Elsa 邮箱按域名/邮箱抽查（第 21 批，35 个域名）亦无来信 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "兴趣 switch；2025-04 群发 22 迷你→have Routers with 1GE and 4 FE ports?",
+   "quote": "回复：have Routers with 1GE and 4 FE ports?",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Faisal Javed",
+   "title": "（表内联系人）",
+   "email": "faisal@ite.net.pk",
+   "phone": "+92 21 3459 8598",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "International Technology Exchanger",
+  "founded": "约 2005（20+ 年）",
+  "hq": "Karachi, Pakistan",
+  "size": "小型方案商",
+  "other": "info@/sales@ite.net.pk"
+ },
+ "business_lines": [
+  "企业网络 / 安全集成（多品牌）"
+ ],
+ "channels": {
+  "role": "IT 方案商 / 经销",
+  "region": "巴基斯坦"
+ },
+ "signals": [
+  "主动反问路由器 → 有 SOHO 路由采购需求（Saga 无，缺口记录）"
+ ],
+ "risks": [
+  "需求为路由器（缺口）；巴基斯坦 L/C / 外汇"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。"
+ },
+ "email_hook": "Faisal, we don't do routers — but for the switch side, the 8-PoE + 2-SFP managed (Marvell) is in stock from 1 pc; is that useful for the same projects, or is it routers only right now?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信→明确不对口（Elsa 邮箱 2025-04-09 Faisal（ITE，巴基斯坦）三封：要「Routers with 1GE and 4 FE ports」+ 路由规格 IP SLA / GRE / PPPoE / BGP / IPsec——是路由器需求，Saga 不做路由器）",
+   "type": "—",
+   "sieve": "—（需求路由器，非交换机）",
+   "stop": "从未触达",
+   "revive": "不动（需求不对口）",
+   "lane": "巴基斯坦 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「回复：have Routers with 1GE and 4 FE ports?」；研究档 risks：需求为路由器（缺口）；巴基斯坦 L/C / 外汇；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。",
+  "need": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
+  "breakpoint": "产品线不对口（路由器）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-04-09",
+    "dir": "来",
+    "who": "Faisal（International Technology Exchanger，PK）",
+    "quote": "Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels",
+    "why": "路由器 + VPN 规格 = 守界外（C10）；不设计绕路",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-04-09",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Sorry, it is not on our list. We can help source it if this is fine with you.",
+    "why": "路由器需求，Elsa 答没有、可代找",
+    "k": "gmail_e 196197e0cbc6c411"
+   },
+   {
+    "date": "2025-04-09",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Is something as attached OK?（附 Info.docx）",
+    "why": "同日发了一份代找方案 → 无下文",
+    "k": "gmail_e 196199ab58b3499b"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "回复：have Routers with 1GE and 4 FE ports?",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：04-09 Faisal 三封要 1GE+4FE 路由器 → Elsa 答没有、可代找 + Info.docx → 无下文；用户表「有回复·跟进中」= 这条",
+   "（已核 2026-10-24，第 73 批）见上条；不是 WhatsApp"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }
