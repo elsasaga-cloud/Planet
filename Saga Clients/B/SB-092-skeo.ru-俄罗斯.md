@@ -56,6 +56,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2024-09-06 | 来 | Nikolay | What is the price for them? And how do you want to send them to us? | 要样问价 | `01bcd6732964d044` |
 | 2024-09-06 | 去 | Saga（Simon） | Hi, Nikolay, 33usd/pc STI-080GE 8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged, Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, with mounting hanger, without power supply About the shipme | 历史报价点（主题「Re: 8 port unmanaged switch」；第 20 批从 gmail_s 回补）：STI-080GE 33usd | `8884a81a60ecbdb4` |
+| 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 微信） | 用户表跟进：推「引流机型」→ 对方「有需求会说的」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.13 1119` |
 
 ## 基本事实（事实/推断/假设分层）
 

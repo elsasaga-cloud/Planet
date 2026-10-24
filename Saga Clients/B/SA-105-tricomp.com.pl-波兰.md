@@ -37,24 +37,32 @@ updated: 2026-10-24
 - **为什么是 B 级**：**调研后定级 B**（小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。）；自动分级 A：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 7 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 7 次；WhatsApp 已加；推送 15 次（2023-12-09 → 2025-05-23）；最近一次客户回复：2025-04-18：info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
-- **第一问（只问一个）**：For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?
+- **第一问（只问一个）**：James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer.
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：2027-04（半年一句） WhatsApp 一句话问库存/项目，不附报价、不附图
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-105` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 3 封 2026，无记录打开，0 回；收件 blozinski@tricomp.com.pl；主题多为「Saga Q3 Product Links、24 Port PoE Managed Switch」）** ｜ 类型：IT/电信工程与咨询公司 ｜ 筛子：1（只收到群发） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：PL 次级重点 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；研究档 risks：规模口径不一（可能仅数人）；14 次推送无回复
-- **现状一句话**：华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。
+- **绑定等级：轻度触达·明确无需求（WhatsApp 活着：2023-12→2025-02 每次推送都有回，但 7 次「暂时没需求」+ 2024-10「还有库存」；A 邮箱 3 封 2026 无打开）** ｜ 类型：IT/电信工程与咨询公司 ｜ 筛子：2（回应但无需求） ｜ 停点：连续 7 次「暂时没需求」= 对方已把我们当作「有需要再找」的备选；库存未消化 ｜ 复活：不动；只在 WhatsApp 上每半年一句「库存消化了吗 / 今年有没有 PoE 项目」；有需求他会说 ｜ 通路：PL 次级重点 ｜ 节奏：半年一句（WhatsApp） ｜ 证据：用户表 Clients 跟进 14 行（第 69 批回填 8 条）；gmail_digest out 3
+- **现状一句话**：华沙 IT/电信咨询与实施公司（2002 年注册；D&B 估 1–24 人，LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona。WhatsApp 渠道是活的：14 次推送基本都回，但内容是 7 次「暂时没需求」+ 1 次「还有库存」（2024-10-22，2.5G/10G）——不是沉默户，是**明确说了没需求的户**；2026 年 A 邮箱 3 封群发无打开。
 - **对方真实需求（有据）**：集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W
 - **断点 / 为什么停在这里**：规模口径不一（可能仅数人）；14 次推送无回复
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170）——集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
-  - 第一问（只问一个）：For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?
+- **下一步（具体）**：2027-04（半年一句）　WhatsApp　一句话问库存/项目，不附报价、不附图
+  - 第一问（只问一个）：James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2023-12-09 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了商业POE价格册」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 2023.12.9` |
+| 2024-01-09 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了导轨电源信息」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 2024.1.9` |
+| 2024-02-09 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了电口系列相关信息」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 2024.2.9` |
+| 2024-05-15 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个工业mini图」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 2024.5.15` |
+| 2024-08-13 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「passive poe手册」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 2024.8.13` |
+| 2024-09-26 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「4 8口工业PoE」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 926` |
+| 2024-10-22 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「2.5g/10g network」→ 对方「还有库存」 | Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存 | `Clients/A/DONE/PL 2.6.xlsx no.14 1022` |
+| 2025-02-22 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「工业 16 24口出货图」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 2025.2.22` |
 | 2025-04-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「marvell系列商业图」→ 对方「info」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/PL 2.6.xlsx no.14 418` |
 | 2026-09-25 | 去 | A 群发 | Saga Q3 Product Links、24 Port PoE Managed Switch | 3 封 / 0 次打开 / 0 回｜首封 2026-07-15 → 末封 2026-09-25（3 去 / 0 来） | `gmail_digest` |
 

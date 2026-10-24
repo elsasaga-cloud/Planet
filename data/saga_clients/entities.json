@@ -5857,6 +5857,14 @@
 "k": "gmail_s（thupvilink16@gmail.com / tonypvilink@outlook.com；Thu 的回信为顶部引用格式，早期脚本漏抓）"
 },
 {
+"date": "2024-06-01",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Email）",
+"quote": "用户表跟进：推「问测试结果」→ 对方「在忙其他的」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/S 09.08.xlsx no.13 2024.6.1"
+},
+{
 "date": "2024-11-13",
 "dir": "来",
 "who": "Thu Pham",
@@ -12195,6 +12203,22 @@
 "quote": "用户表跟进：推「介绍自己 发了产品图确认需求」→ 对方「price」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.3.28"
+},
+{
+"date": "2024-04-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4小壳信息」→ 对方「买了别家的」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.4.22"
+},
+{
+"date": "2024-07-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「passive poe手册」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.10 2024.7.16"
 },
 {
 "date": "2026-10-21",
@@ -36451,6 +36475,14 @@
 "quote": "用户表跟进：推「passive poe手册」→ 对方「price」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.8.17"
+},
+{
+"date": "2024-10-25",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「8电口」→ 对方「最近来中国」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 1025"
 }
 ],
 "proof_gaps": [
@@ -48813,16 +48845,16 @@
 "email_hook": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?",
 "mail_review": {
 "binding": {
-"level": "未触达（A 邮箱 3 封 2026，无记录打开，0 回；收件 blozinski@tricomp.com.pl；主题多为「Saga Q3 Product Links、24 Port PoE Managed Switch」）",
+"level": "轻度触达·明确无需求（WhatsApp 活着：2023-12→2025-02 每次推送都有回，但 7 次「暂时没需求」+ 2024-10「还有库存」；A 邮箱 3 封 2026 无打开）",
 "type": "IT/电信工程与咨询公司",
-"sieve": "1（只收到群发）",
-"stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-"revive": "保持季度群发到 2027-Q1；无打开即停",
+"sieve": "2（回应但无需求）",
+"stop": "连续 7 次「暂时没需求」= 对方已把我们当作「有需要再找」的备选；库存未消化",
+"revive": "不动；只在 WhatsApp 上每半年一句「库存消化了吗 / 今年有没有 PoE 项目」；有需求他会说",
 "lane": "PL 次级重点",
-"cadence": "季度",
-"evidence": "gmail_digest：out 3；研究档 risks：规模口径不一（可能仅数人）；14 次推送无回复"
+"cadence": "半年一句（WhatsApp）",
+"evidence": "用户表 Clients 跟进 14 行（第 69 批回填 8 条）；gmail_digest out 3"
 },
-"situation": "华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。",
+"situation": "华沙 IT/电信咨询与实施公司（2002 年注册；D&B 估 1–24 人，LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona。WhatsApp 渠道是活的：14 次推送基本都回，但内容是 7 次「暂时没需求」+ 1 次「还有库存」（2024-10-22，2.5G/10G）——不是沉默户，是**明确说了没需求的户**；2026 年 A 邮箱 3 封群发无打开。",
 "need": "集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W",
 "breakpoint": "规模口径不一（可能仅数人）；14 次推送无回复",
 "saga_now": {
@@ -48834,12 +48866,76 @@
 "gaps": []
 },
 "next_move": {
-"when": "群发节奏",
-"channel": "A 邮箱",
-"action": "观察打开",
-"one_question": "For the structured-cabling projects you implement in Warsaw, a 24-port PoE+ managed switch with 4 SFP uplinks is $140.1 EXW with CE/RoHS files in Polish-market format; is there a tender this quarter where a second switch source would help the price?"
+"when": "2027-04（半年一句）",
+"channel": "WhatsApp",
+"action": "一句话问库存/项目，不附报价、不附图",
+"one_question": "James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer."
 },
 "facts": [
+{
+"date": "2023-12-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了商业POE价格册」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 2023.12.9"
+},
+{
+"date": "2024-01-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了导轨电源信息」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 2024.1.9"
+},
+{
+"date": "2024-02-09",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了电口系列相关信息」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 2024.2.9"
+},
+{
+"date": "2024-05-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个工业mini图」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 2024.5.15"
+},
+{
+"date": "2024-08-13",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「passive poe手册」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 2024.8.13"
+},
+{
+"date": "2024-09-26",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「4 8口工业PoE」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 926"
+},
+{
+"date": "2024-10-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「2.5g/10g network」→ 对方「还有库存」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 1022"
+},
+{
+"date": "2025-02-22",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「工业 16 24口出货图」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/PL 2.6.xlsx no.14 2025.2.22"
+},
 {
 "date": "2025-04-18",
 "dir": "来",
@@ -50243,6 +50339,14 @@
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.20"
 },
 {
+"date": "2024-02-27",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光16电信息」→ 对方「用不到」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.2.27"
+},
+{
 "date": "2024-06-17",
 "dir": "来",
 "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
@@ -50257,6 +50361,14 @@
 "quote": "用户表跟进：推「3个2光8PoE」→ 对方「will check」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.7.15"
+},
+{
+"date": "2024-11-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「引流机型」→ 对方「BIS」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 1118"
 }
 ],
 "proof_gaps": [
@@ -51301,6 +51413,14 @@
 "quote": "用户表跟进：推「发了30的商业POE价格册」→ 对方「Hi」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2023.12.9"
+},
+{
+"date": "2024-05-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个工业mini图」→ 对方「发了个表情」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.49 2024.5.15"
 },
 {
 "date": "2024-06-18",
@@ -53532,6 +53652,22 @@
 "one_question": "Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?"
 },
 "facts": [
+{
+"date": "2024-04-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了电口信息」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.64 2024.4.28"
+},
+{
+"date": "2024-05-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个mini工业交换机」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.64 2024.5.19"
+},
 {
 "date": "2026-10-21",
 "dir": "用户表",
@@ -90649,6 +90785,30 @@
 },
 "facts": [
 {
+"date": "2024-05-16",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了几个mini工业交换机图」→ 对方「有需求会说」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.89 2024.5.16"
+},
+{
+"date": "2024-10-15",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「工业4 8口poe」→ 对方「有需求会说」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.89 1015"
+},
+{
+"date": "2025-01-03",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「电口」→ 对方「有需求会说」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.89 1.3"
+},
+{
 "date": "2026-10-21",
 "dir": "用户表",
 "who": "Simon",
@@ -107850,6 +108010,14 @@
 "quote": "Hi, Nikolay, 33usd/pc STI-080GE 8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged, Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, with mounting hanger, without power supply About the shipme",
 "why": "历史报价点（主题「Re: 8 port unmanaged switch」；第 20 批从 gmail_s 回补）：STI-080GE 33usd",
 "k": "8884a81a60ecbdb4"
+},
+{
+"date": "2024-11-19",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 微信）",
+"quote": "用户表跟进：推「引流机型」→ 对方「有需求会说的」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.13 1119"
 }
 ],
 "proof_gaps": [],
@@ -129242,6 +129410,14 @@
 "quote": "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes.",
 "why": "来信原文（主题「RFQ for telecom items」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
 "k": "0c993be0c8b28c1b"
+},
+{
+"date": "2024-01-18",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4相关信息」→ 对方「有用但现在没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.13 2024.1.18"
 }
 ],
 "proof_gaps": [],
@@ -187952,7 +188128,7 @@
 "when": "群发节奏",
 "channel": "A 邮箱",
 "action": "观察打开",
-"one_question": "Вы спрашивали, являемся ли мы производителем и поставляем ли в Россию: мы — торговая компания с собственными марками STI/STC (промышленные DIN-коммутаторы 8×PoE + 2×SFP от $57 EXW), расчёт в USD или CNY — прислать актуальный прайс?"
+"one_question": "Вы спрашивали, являемся ли мы производителем и поставляем ли в Россию: коммутаторы STI/STC — наша собственная разработка на чипах Marvell (прошивка, Web-GUI и OEM-брендинг делаем сами), производство в Китае; в Россию отгружаем через вашего экспедитора в Гуанчжоу/Шэньчжэне, расчёт в USD или CNY. Прислать актуальный прайс на DIN-коммутаторы 8×PoE + 2×SFP?"
 },
 "facts": [
 {
@@ -187962,6 +188138,30 @@
 "quote": "用户表跟进：推「发了10G MC信息」→ 对方「Hello!  will check and reply」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 2024.4.25"
+},
+{
+"date": "2024-09-26",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「2.5G ethernet」→ 对方「暂时无需求」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 926"
+},
+{
+"date": "2025-04-14",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了10G MC信息」→ 对方「有需求会说 是工厂吗 卖俄罗斯吗？」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 414"
+},
+{
+"date": "2025-08-28",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「洪瑞商业PoE」→ 对方「暂时无需求」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.10 828"
 },
 {
 "date": "2026-09-04",
@@ -217356,12 +217556,44 @@
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2023.12.22"
 },
 {
+"date": "2024-01-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光4相关信息」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2024.1.20"
+},
+{
+"date": "2024-04-17",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了商业PoE 128信息」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2024.4.17"
+},
+{
 "date": "2024-11-18",
 "dir": "来",
 "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
 "quote": "用户表跟进：推「引流机型」→ 对方「问是否有分销商」",
 "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
 "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 1118"
+},
+{
+"date": "2025-01-02",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「10gmc」→ 对方「沟通了分销」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 1.2"
+},
+{
+"date": "2025-02-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「问分销相关的」→ 对方「发了链接」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2025.2.20"
 },
 {
 "date": "2025-04-07",
@@ -253045,7 +253277,16 @@
 "action": "—",
 "one_question": ""
 },
-"facts": [],
+"facts": [
+{
+"date": "2025-06-12",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 A）",
+"quote": "用户表跟进：推「Bypass」→ 对方「有啥事?」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/A Replied 09.04.xlsx no.4 2025.6.12"
+}
+],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -280298,6 +280539,14 @@
 "one_question": ""
 },
 "facts": [
+{
+"date": "2025-02-20",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「工业16 24口出货图」→ 对方「需求不太多」",
+"why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+"k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.23 2025.2.20"
+},
 {
 "date": "2025-06-18",
 "dir": "来",
@@ -455976,6 +456225,14 @@
 "one_question": "Understood there was nothing needed last time; here is the one-line update — 8-port gigabit PoE+ managed with 2 SFP now $84.1 EXW. If a site comes up, reply with the camera count and I will size it."
 },
 "facts": [
+{
+"date": "2023-11-30",
+"dir": "来",
+"who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+"quote": "用户表跟进：推「发了2光8管理POE出货图等信息」→ 对方「暂时没需求」",
+"why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
+"k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.59 2023.11.30"
+},
 {
 "date": "2024-01-16",
 "dir": "来",

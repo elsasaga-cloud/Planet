@@ -130,7 +130,16 @@
       "action": "—",
       "one_question": ""
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2025-06-12",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 A）",
+        "quote": "用户表跟进：推「Bypass」→ 对方「有啥事?」",
+        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+        "k": "Clients/A Replied 09.04.xlsx no.4 2025.6.12"
+      }
+    ],
     "proof_gaps": [],
     "draft_en": null,
     "as_of": "2026-10-24"

@@ -55,6 +55,7 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2023-06-19 | 来 | ei-telcomlead@aamindustrial.com | Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&I- Telecom Lead AAM Industria | 来信原文（主题「RFQ FOR ELECTRICAL ITEMS MCB」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `2ff1477327f64427` |
 | 2023-06-19 | 来 | ei-telcomlead@aamindustrial.com | Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes. | 来信原文（主题「RFQ for telecom items」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `0c993be0c8b28c1b` |
+| 2024-01-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了2光4相关信息」→ 对方「有用但现在没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.13 2024.1.18` |
 
 ## 基本事实（事实/推断/假设分层）
 
