@@ -383,20 +383,23 @@ def resolve_sources():
         r = run(['gh', 'release', 'download', SOURCE_RELEASE, '-D', d, '--clobber'], timeout=7200)
         if r.returncode != 0:
             abort(3, 'release download failed: ' + (r.stderr or r.stdout)[-300:])
-        # 分卷 .partNN → 合并
+        # 分卷 .partNN 不再合并（合并要双倍磁盘）：分卷是原件的裸字节切片，按名字顺序交给 Chain 接成一条流即可，
+        # 与原件逐字节相同；zip/tgz 原件若被分卷则仍需合并（zipfile 要随机读）。
         parts = defaultdict(list)
         for fn in sorted(os.listdir(d)):
             m = re.fullmatch(r'(.+)\.part(\d+)', fn)
             if m:
                 parts[m.group(1)].append(fn)
         for base, fns in parts.items():
+            if base.lower().endswith('.mbox'):
+                continue
             with open(os.path.join(d, base), 'wb') as w:
-                for fn in sorted(fns):
+                for fn in sorted(fns, key=natural_key):
                     with open(os.path.join(d, fn), 'rb') as rf:
                         for chunk in iter(lambda: rf.read(1 << 20), b''):
                             w.write(chunk)
                     os.remove(os.path.join(d, fn))
-        paths = [(fn, os.path.join(d, fn)) for fn in sorted(os.listdir(d))]
+        paths = [(fn, os.path.join(d, fn)) for fn in sorted(os.listdir(d), key=natural_key)]
     elif SOURCE_IDS:
         dm = drive_mod()
         import requests
@@ -888,6 +891,18 @@ class Shards:
             h.flush()
         self.manifest['shards'] = dict(self.sizes)
 
+    def verify(self, when=''):
+        """磁盘分片长度必须等于已记录长度；短了 = 被 git 重写过且句柄失效（10-24 事故），立即报错中止而不是静默丢数据。"""
+        bad = []
+        for rel, n in self.sizes.items():
+            p = os.path.join(OUT, rel)
+            d = os.path.getsize(p) if os.path.exists(p) else -1
+            if d != n:
+                bad.append((rel, n, d))
+        if bad:
+            log('SHARD MISMATCH', when, bad[:10])
+            abort(6, f'shard size mismatch {when}: {bad[:3]}')
+
     def close(self):
         for h in self.handles.values():
             h.close()
@@ -940,6 +955,9 @@ def backup_sources(paths, manifest):
         return
     if LOCAL_FILES and not os.environ.get('FORCE_BACKUP'):
         log('backup skipped (LOCAL_FILES)')
+        return
+    if SOURCE_RELEASE and not os.environ.get('FORCE_BACKUP'):
+        log('backup skipped (source is the Release itself)')
         return
     if not have('gh') or not gh_release_ensure():
         log('backup unavailable (no gh / release)')
@@ -1176,6 +1194,18 @@ def coverage_md(manifest, stats, clients):
                  f'已处理到偏移 {b.get("offset", 0) / 1e9:.2f} GB，{b.get("messages", 0):,} 封，{"✅ 完成" if b.get("done") else "⏳ 未完"}'
                  + (f'，批尾 carry {b.get("carry_bytes")} B 交下一批' if b.get('carry_bytes') else '')
                  + ('' if b.get('starts_with_separator', True) else '，**⚠️ 流开头不是 `From ` 分隔行——前面可能缺一卷**'))
+    exp = sum(int(b.get('messages', 0) or 0) for b in manifest.get('batches', []))
+    got = int(stats.get('messages', 0) or 0)
+    sh_bad = []
+    for rel, n in (manifest.get('shards') or {}).items():
+        p = os.path.join(OUT, rel)
+        d = os.path.getsize(p) if os.path.exists(p) else -1
+        if d != n:
+            sh_bad.append(rel)
+    if exp == got and not sh_bad:
+        L.append(f'- 一致性自检：流中读到 {exp:,} 封 = 分片里 {got:,} 封；{len(manifest.get("shards") or {})} 个分片长度与记录一致 ✅')
+    else:
+        L.append(f'- **⚠️ 一致性自检失败**：流中读到 {exp:,} 封，分片里只有 {got:,} 封（差 {exp - got:,}）；长度不符的分片 {len(sh_bad)} 个 {sh_bad[:8]} —— 需 FORCE=1 从 Release 原件重跑')
     L.append(f'- 规则：**full** = 全文（非群发 / 本邮箱发出 / 本邮箱回过的线程 / 对方是 Saga Clients 里的客户 / 加星 / 重要）；'
              f'**snippet** = 群发与通知类只留头部 + 前 {SNIPPET} 字；附件按 sha256 去重抽正文（≤{ATTACH_MAX // 1024 // 1024} MB，文档类；图片 OCR={"开" if OCR else "关"}）')
     bk = manifest.get('backup', {})
@@ -1509,7 +1539,9 @@ def main():
         if done_since >= COMMIT_EVERY or (time.time() - last_ckpt) > CHECKPOINT_MIN * 60:
             atts.wait_all()
             checkpoint()
+            shards.close()      # 10-24 修复：git pull --rebase 会用新 inode 重写分片文件，若句柄仍开着，之后的追加全部写进孤儿 inode（A 邮箱首跑丢 5,674 封）
             git_commit_push(f'T29: Gmail({ACCOUNT}) 入库 · 检查点 {prog["messages"]} 封 / {last_off / 1e9:.2f} GB')
+            shards.verify('after checkpoint push')
             done_since = 0
             last_ckpt = time.time()
     atts.finish()
