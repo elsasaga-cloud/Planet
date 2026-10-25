@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC 汇聚（10G/25G） — J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常；按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 A 邮箱 → george@dc.ge 一封只讲 CENTEC 汇聚替代 Cisco 的信
+- **下一步**：2027-Q1 A 邮箱 → george@dc.ge 一封只讲 CENTEC 汇聚替代 Cisco 的信（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2024-11「small 8 port high poe」按 ㉞ 先答（2BT = 2×bt + 6×at），CENTEC STH-2C24XF-HSI $1,500 一行带过）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：价格（新桥）。
 - **Saga 现在该推什么**：P1 **STH 系列 CENTEC 汇聚（10G/25G）**（25% 档，按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25））——J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常
   - 复购/在买项：2023-07-24 唯一一单：STC-028GFP + STC-128GFP $100（Simon 利润 RMB 177；PI 复盘 #1，Simon 标 gg）
-- **下一步（具体）**：2027-Q1　A 邮箱 → george@dc.ge　一封只讲 CENTEC 汇聚替代 Cisco 的信
+- **下一步（具体）**：2027-Q1　A 邮箱 → george@dc.ge　一封只讲 CENTEC 汇聚替代 Cisco 的信（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2024-11「small 8 port high poe」按 ㉞ 先答（2BT = 2×bt + 6×at），CENTEC STH-2C24XF-HSI $1,500 一行带过）
   - 第一问（只问一个）：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -300,23 +300,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM-2BT - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：Your "small 8-port high PoE" question, answered - and one line on aggregation
 
 ```text
 Hi George,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. You asked for a small 8-port high-power PoE unit — ours gives 2×90 W (802.3bt) + 6×30 W on a DIN-rail body with 2 SFP uplinks; shall I send the sheet with a 1-pc sample price so you can benchmark it against your current supplier?
+You bought two pairs of Fast Ethernet PoE samples from us in 2023, and in November 2024 you asked for a small 8-port high-power PoE unit; what you had from us since were general product mails. The answer: DIN-rail 8 x Gigabit PoE, 2 x 802.3bt (up to 90 W) + 6 x 802.3at, 2 x SFP uplinks, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). I know your current supplier is cheaper on the simple units; this one is for the sites where 90 W and management matter.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ (2x 90 W bt) plus 2x 2.5G SFP - model STI-288DGGPM-2BT - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $154.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
+One line on the enterprise and government projects: for aggregation where Cisco is specified by habit rather than by feature, a 24 x 10G SFP+ + 2 x 100G L3 unit is $1,500 - sent against a real port plan, not as a list.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: for the 8-port high-power unit, is it one site or a standard item in your CCTV kits?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

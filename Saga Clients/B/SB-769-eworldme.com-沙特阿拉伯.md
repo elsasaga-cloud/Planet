@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报；换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报
 - **断点 / 为什么停在这里**：非主攻区（T5，沙特/阿联酋）
 - **Saga 现在该推什么**：P1 **STI-080GE**（20% 档，换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——Moxa EDS-208（8 口非管理）/ EDS-205 → 工业 8 GE STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）作价格补充线；PoE 位 STI-288GP；轨道 TN 系列不报
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：Mohsen, alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -274,23 +274,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-080GE - industrial DIN-rail 8-port Gigabit switch (neutral label)
+**主题**：Alongside the Moxa EDS-205/208 you distribute - a lower price tier, sample for comparison
 
 ```text
 Hi Mohsen,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Moxa EDS-205/208 unmanaged switches you distribute, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots at a lower price tier — would a sample for comparison be useful for your SI customers?
+Over the past months you had a few product mails from us - most recently "Marvell Industrial Alert System" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as your Moxa EDS-208 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
+Alongside the Moxa EDS-205 / EDS-208 unmanaged switches you distribute, a lower price tier for the SI customers who do not need the Moxa name on the panel, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD; 5-port, 12-36 V DC - STI-050GE - $17.0; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. Rail-grade (TN series) positions we do not quote.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: would a sample of the 8-port for comparison be useful for your SI customers - and to Dubai or Riyadh?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

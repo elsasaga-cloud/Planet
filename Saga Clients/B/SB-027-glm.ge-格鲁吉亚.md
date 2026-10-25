@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。；换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）、2024-12-27 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。
 - **断点 / 为什么停在这里**：ONV 价格基准低；无具名联系人
 - **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）、2024-12-27 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch））——自编号工业 PoE 线 → STI-288GP（$62.2 @30%）贴 GLM 标；商用 PoE STC-28DGGPM。
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -274,23 +274,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
+**主题**：The GLM-numbered PoE range - same 4/8-port sizes under the GLM label from small lots
 
 ```text
-Hello,
+Hello GLM team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the GLM-numbered PoE range (we see the ONV-based H1064/H1108 units) — we can supply the same 4/8-PoE industrial and commercial sizes under the GLM label from small lots, Marvell on the managed ones; which model sells most?
+Over the past months you had a few product mails from us - most recently "10G L3 Managed Switch" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $60 USD EXW (valid 15 days).
+For the GLM-numbered PoE range (the ONV-based H1064 / H1108 units on your site), the same sizes under the GLM label from small lots, CE/RoHS: industrial DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); commercial 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $87.4; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $27.2. Logo on the unit is free; colour box from 200 sets.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which model sells most through your shop - the industrial or the commercial 8-port?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1 A 邮箱 → saeed@e-saudi.net（Saeed Mohammed） 一句话
+- **下一步**：2027-Q1 A 邮箱 → saeed@e-saudi.net（Saeed Mohammed） 一句话（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一句话」写短信；Tofino 路由再说一次没有）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：不明确（CCTV PoE / 工业路由替代）。
 - **断点 / 为什么停在这里**：付费样品。
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch））——已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　A 邮箱 → saeed@e-saudi.net（Saeed Mohammed）　一句话
+- **下一步（具体）**：2027-Q1　A 邮箱 → saeed@e-saudi.net（Saeed Mohammed）　一句话（第 75 批(ag) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；按 action「一句话」写短信；Tofino 路由再说一次没有）
   - 第一问（只问一个）：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -241,23 +241,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：One question, Saeed
 
 ```text
 Hi Saeed,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following the catalogue you requested: which of the lines fits your current projects — managed 8/24-PoE L2+ switches or DIN-rail industrial units — so I can send an EXW USD price list for that family first?
+One question only, since your team has had our catalogue and the mails since were general ones: which line fits your current projects - managed 8/24-port PoE switches for CCTV, or DIN-rail industrial units - so I send the price list for that family and nothing else?
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+The Tofino-type industrial router you asked about in 2024 we still do not make - said again so you do not wait on it.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
