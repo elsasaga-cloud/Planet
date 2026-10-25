@@ -80,7 +80,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "TR 主攻（四主）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「工业以太网 串口」；研究档 risks：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「工业以太网 串口」；研究档 risks：守界备注：SCADA/RTU 客户多为能源/水务公用事业——只供通用工业交换机，不涉项目；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@morion.ru）2025-02-24→2026-08-18 共 12 轮群发（90W PoE Managed Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "土耳其 Mikrodev（2006 年伊斯坦布尔成立：工业控制与通信产品制造商——PLC/RTU、SCADA（词频 74）、XIO 远程 I/O、MQTT/OPC UA 网关；表内「工业以太网 / 串口」）；表内无跟进记录。",
   "need": "补全其 SCADA/RTU 产品组合 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$50.5 @30%）贴 Mikrodev 标；管理位 STI-288GPM；串口服务器 Saga 不做",
@@ -100,6 +100,14 @@
    "one_question": "For the Ethernet switches that ship next to your RTU and XIO I/O modules, we can supply DIN-rail 8-GE + 2 SFP unmanaged and 8-PoE + 2 SFP managed units under the Mikrodev label from small lots (−40~75 °C, CE/RoHS) — is there a port count your SCADA integrators keep asking you for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-02-24",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+    "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@mikrodev.com, mikrodev.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-18",
     "dir": "去",
@@ -121,6 +129,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

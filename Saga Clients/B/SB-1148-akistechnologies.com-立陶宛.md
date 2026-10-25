@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -32,16 +32,16 @@ updated: 2026-10-24
 - **是谁**：立陶宛 AKIS Technologies（排队管理系统与交通管理系统开发商：数字标牌与互动自助机、LAN-RS485 控制器、云平台；表内「工业 FS」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/立陶宛
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）；首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-080GE — 自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）；首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@akistechnologies.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1148` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1148` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS」）** ｜ 类型：排队/交通管理系统开发商（立陶宛，工业 FS 为配套） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：立陶宛（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业FS」；研究档 risks：小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS」）** ｜ 类型：排队/交通管理系统开发商（立陶宛，工业 FS 为配套） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：立陶宛（欧洲全域主攻） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「工业FS」；研究档 risks：小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：立陶宛 AKIS Technologies（排队管理系统与交通管理系统开发商：数字标牌与互动自助机、LAN-RS485 控制器、云平台；表内「工业 FS」）；表内未跟进。
 - **对方真实需求（有据）**：自助机/交通柜内配套 → 工业 8 GE 非管理 STI-080GE（$32.7 @25%）/ 5 GE STI-050GE（$17.8）；管理版 STI-280GE（$48.6）
 - **断点 / 为什么停在这里**：小国（立陶宛，非主动开拓区）；工业 FS 为配套（量小）；仅 info@，未跟进过；守界备注：交通管理场景仅供民用通用型号
@@ -51,6 +51,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-05 | 去 | Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发 BCC 触达证据（命中地址 akistechnologies.com, info@akistechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-21 | 去 | Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 akistechnologies.com, info@akistechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
 
@@ -248,12 +249,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -135,7 +135,7 @@
    "revive": "不动",
    "lane": "HU",
    "cadence": "不动",
-   "evidence": "k=d120e1aa64662a70；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "k=d120e1aa64662a70；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -166,6 +166,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

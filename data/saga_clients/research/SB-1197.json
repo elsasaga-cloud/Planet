@@ -100,7 +100,7 @@
    "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
    "lane": "冰岛（欧洲全域主攻）",
    "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 2，Opened 标签 2（Simon 群发追踪）；用户表：「switch」；研究档 risks：小国（冰岛，非主动挖掘范围）：量有限；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 2，Opened 标签 2（Simon 群发追踪）；用户表：「switch」；研究档 risks：小国（冰岛，非主动挖掘范围）：量有限；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "冰岛 IceCom ehf.（企业与机构的计算机与通信系统整体方案；站内 IES-2710C、EM-C107CSC / GM-C301ASC（MC）、Teltonika RUT951、Cambium；表内「switch」）；表内无跟进记录。",
   "need": "站内工业交换机（IES-2710C）与 MC → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ 非管理 STI-280GE；MC 位 STI-110GE（$23.4）",
@@ -127,6 +127,14 @@
     "quote": "Industrial PoE Switch",
     "why": "2 封 / 2 次打开 / 0 回｜首封 2025-01-09 → 末封 2025-02-09（2 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2025-03-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 icecom.is, icecom@icecom.is）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
    },
    {
     "date": "2026-08-21",
@@ -158,6 +166,6 @@
    "subject": "One question — Industrial PoE Switch",
    "body": "Hi Icecom,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $82.2 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
   },
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

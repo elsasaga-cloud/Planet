@@ -76,7 +76,7 @@
    "revive": "不动（非主攻区；J5：有证据再动）",
    "lane": "沙特阿拉伯 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：做项目的 让发介绍资料；回复：read」；研究档 risks：公用事业项目（守界：民用水务可供，按单核最终用户）；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：做项目的 让发介绍资料；回复：read」；研究档 risks：公用事业项目（守界：民用水务可供，按单核最终用户）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@andasis.com）2025-03-01→2026-05-12 共 14 轮群发（8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、Commercial Network Switch、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。",
   "need": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。",
@@ -96,6 +96,14 @@
    "one_question": ""
   },
   "facts": [
+   {
+    "date": "2025-03-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
+    "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-05-12",
     "dir": "去",
@@ -117,6 +125,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

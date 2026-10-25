@@ -126,7 +126,7 @@
    "revive": "只谈管理型新品补充线 + FCC",
    "lane": "US",
    "cadence": "一次",
-   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）2025-04-06 首轮 Bcc 含 NealC@softnetworks.net；04-29 他回信后 Elsa 改为直发（1:1 共 11 封，Replied 2025-04/05），2026-09-08 最新一轮群发名单已不含此址 → 剔除原因 = 转 1:1，不是退信"
+   "evidence": "邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）本户见于 2025-04-06 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）"
   },
   "situation": "Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。",
   "need": "管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。",

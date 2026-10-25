@@ -65,7 +65,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "罗马尼亚（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「POE injector 比较杂 啥都有」；研究档 risks：综合平台型网店（品类杂、低粘性）；PoE 注入器需求 Saga 不供（Q-32）；官网 http_error；小国（罗马尼亚）；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「POE injector 比较杂 啥都有」；研究档 risks：综合平台型网店（品类杂、低粘性）；PoE 注入器需求 Saga 不供（Q-32）；官网 http_error；小国（罗马尼亚）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
   },
   "situation": "罗马尼亚 Tehnoelectric（tehnoelectric.ro：销售平台型网店，「PoE injector 比较杂 啥都有」；官网 http_error）；表内未跟进。",
   "need": "PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；PoE 注入器 Saga 不供（Q-32）",
@@ -106,6 +106,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

@@ -80,7 +80,7 @@
    "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
    "lane": "葡萄牙（欧洲全域主攻）",
    "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 7，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：MC FS SFP VC」；研究档 risks：采购可能由波兰总部统一；无具名联系人；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 7，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：MC FS SFP VC」；研究档 risks：采购可能由波兰总部统一；无具名联系人；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
   },
   "situation": "葡萄牙 DIPOL（波兰 DIPOL 集团分支，Skua Technology 运营；Braga +351 253 618 579）IP CCTV / LAN / WLAN / 卫星电视 / 天线 / 线缆批发（Hikvision、Dahua、TP-Link；poe 242 / switch 160 / cctv 124 / industrial 57）；表内 MC / FS / SFP / VC；无跟进。",
   "need": "CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。",
@@ -130,6 +130,6 @@
    "subject": "One question — 2.5G Unmanaged Switch",
    "body": "Hi Dipol,\n\nWe have sent you a few mails on \"2.5G Unmanaged Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
   },
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

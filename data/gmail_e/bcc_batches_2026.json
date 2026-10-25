@@ -1264,6 +1264,228 @@
     "info@streakwave.com",
     "sales@streakwave.com"
    ]
+  },
+  {
+   "msg_id": "195eb6ddaf36472e",
+   "date": "2025-03-31",
+   "subject": "Marvell Alleycat5 Solution",
+   "price_text": "Hi, How are you? We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added interesting features(Sftp, Https, L3…（摘要无价）",
+   "to": "sokol@tssgroup.sk",
+   "batch": "SK/CY/NO/BG/BE/GR/AT",
+   "bcc": [
+    "roxer@tssgroup.sk",
+    "securico@cytanet.com.cy",
+    "rusadze@gmail.com",
+    "nstcctv@gmail.com",
+    "kim@dvr.no",
+    "polykolter@gmail.com",
+    "emilia.ilchevska@raytron.eu",
+    "info@raytron.eu",
+    "dominiek@bausch.be",
+    "nikos.kalafatis@cubitech.com",
+    "dusan.repa@morez.sk",
+    "info@tsiakkis.com",
+    "n.hoefling@pke.at",
+    "hjp@perceval.be",
+    "vanneste.krist@smarttelecom.be",
+    "info@smarttelecom.be",
+    "bbonev@ipacct.com"
+   ]
+  },
+  {
+   "msg_id": "1956611d6d460235",
+   "date": "2025-03-05",
+   "subject": "Mini Industrial PoE Switch",
+   "price_text": "Hi, How are you? This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, support OEM…（摘要无价）",
+   "to": "icecom@icecom.is",
+   "batch": "IS/SE/BG/RU/LT",
+   "bcc": [
+    "info@avnordic.se",
+    "office@ic-intracom.bg",
+    "info@regionprof.ru",
+    "sale@ami-com.ru",
+    "idis@idisglobal.ru",
+    "info@linkas.ru",
+    "proline@proline-rus.ru",
+    "info@spectron-ops.ru",
+    "info@module-ltd.ru",
+    "VILLA@frekvent.com",
+    "info@akistechnologies.com",
+    "info@pimnara.ru"
+   ]
+  },
+  {
+   "msg_id": "19538267729f63cc",
+   "date": "2025-02-24",
+   "subject": "90W PoE Managed Switch",
+   "price_text": "Hi, How are you? This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management Its mainly used in some high-end…（摘要无价）",
+   "to": "info@morion.ru",
+   "batch": "RU/NL/SE/RO/TR/KZ",
+   "bcc": [
+    "smr-egs@mail.ru",
+    "info@giant-technologies.net",
+    "info@standardaudio.se",
+    "info@netfo.com.tr",
+    "Timisoara@mondoplast.net",
+    "info@fibersystem.com",
+    "sales@secuway.co.ke",
+    "info@vercoma.nl",
+    "info@mikrodev.com",
+    "info@zeevalk.nl",
+    "tdunic@mail.ru",
+    "info@msv77.ru",
+    "bp.kuban@yandex.ru",
+    "bp.kuban@gmail.com",
+    "info@astra-group.kz",
+    "sales@netstore.su",
+    "info@netstore.su",
+    "info@interlogic.top",
+    "sales@bellcomt.com"
+   ]
+  },
+  {
+   "msg_id": "198407fe29bd3d87",
+   "date": "2025-07-25",
+   "subject": "8 Port Industrial PoE Switch",
+   "price_text": "Hi, How are you? This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog and DIP 3. SFP/SC/FC/ST connector…（摘要无价）",
+   "to": "paul.such@avigilon.com",
+   "batch": "CA/UK/HR",
+   "bcc": [
+    "mail@caldersecurity.co.uk",
+    "prodaja@kamir.hr"
+   ]
+  },
+  {
+   "msg_id": "198d22ecf3c2e565",
+   "date": "2025-08-22",
+   "subject": "90W PoE Managed Switch",
+   "price_text": "Hi, How are you? This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management Its mainly used in some high-end…（摘要无价）",
+   "to": "sales@nssi.net",
+   "batch": "US-安防",
+   "bcc": [
+    "brentkiernan@everonsolutions.com",
+    "contactus@ascisecurity.com",
+    "info@sonitrolcanada.com",
+    "corey@smgsecurity.com",
+    "admin@secomllc.com",
+    "mark.tavano@ul.com",
+    "djackman@alarmsystemsinc.com",
+    "info@alarmsystemsinc.com",
+    "protectmybiz@alarm.com",
+    "info@engalarm.com",
+    "sales@verkada.com",
+    "sales@lorex.com",
+    "info@rhombus.com"
+   ]
+  },
+  {
+   "msg_id": "1951ed489e15aea6",
+   "date": "2025-02-19",
+   "subject": "10G Media Converter",
+   "price_text": "Hi, How are you? This is a 10G Ethernet media converter for you. Good outlook and 14-slot rack mountable. Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input",
+   "to": "info@mpl.ch",
+   "batch": "CH/LatAm/US",
+   "bcc": [
+    "sales@mpl.ch",
+    "kontakt@fabrimex-systems.ch",
+    "info@omniray.ch",
+    "hpartida@ticmaster.com.mx",
+    "ticmaster@ticmaster.com.mx",
+    "cristian.jorquera@secoch.cl",
+    "ventas@discomp.cl",
+    "ventas@directlink.cl",
+    "mail@alltron.ch",
+    "gustavoyourfriend@yahoo.com.ar",
+    "procurement@altala.net",
+    "ventas@altala.net",
+    "Sandyperez2790@gmail.com",
+    "compu_cinkar@hotmail.com",
+    "rajubabani@hotmail.com",
+    "julian_doni@hotmail.com",
+    "wifititansj@gmail.com",
+    "islavend@gmail.com",
+    "logistica@sumteccorp.com",
+    "ventas1@chipcom.gt",
+    "ventas2@chipcom.gt",
+    "sales@grossautomation.com",
+    "info@artisantg.com"
+   ]
+  },
+  {
+   "msg_id": "1951322c2950417f",
+   "date": "2025-02-17",
+   "subject": "24 Port Fiber Switch",
+   "price_text": "Hi, How are you? I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/pc",
+   "to": "info@megamobile.be",
+   "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+   "bcc": [
+    "asiakaspalvelu@dustin.fi",
+    "help@starcart.com",
+    "salg@triple-s.no",
+    "support@triple-s.no",
+    "info@selmet.com",
+    "info@easyertebat.com",
+    "sales@besd.nl",
+    "info@elkome.com",
+    "sales@datarespons.com",
+    "sales@redcorp.com",
+    "info@oak-integrator.lv",
+    "post@alarm-parts.no",
+    "ales@hsi.si",
+    "info@saconets.com",
+    "salg@danbit.dk",
+    "info@binarteknik.se",
+    "info@sominetworks.lt",
+    "sales.sweden@hattelandtechnology.com",
+    "info@smartoptics.com",
+    "info@iotkomponenty.sk",
+    "office@icpdas.ro",
+    "info@luminex.be",
+    "myynti@avstek.fi",
+    "ventas@kodicam.net"
+   ]
+  },
+  {
+   "msg_id": "19550ef135663ac8",
+   "date": "2025-03-01",
+   "subject": "8 Port Industrial PoE Switch",
+   "price_text": "Hi, How are you? This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog and DIP 3. SFP/SC/FC/ST connector…（摘要无价）",
+   "to": "info@andasis.com",
+   "batch": "misc(TR/TN/TZ/NL/SA/BE/RU)",
+   "bcc": [
+    "sales@gowifi.co.nz",
+    "info@fotech.com.tr",
+    "oadmin@fotech.com.tr",
+    "mehmet@irtibatmerkezi.com",
+    "sales@snappernet.co.nz",
+    "jrmejule@gmail.com",
+    "afif.fantar@faze.tn",
+    "commercial.fazeservices@faze.tn",
+    "sales@habari.co.tz",
+    "support@habari.co.tz",
+    "liliani.mboya@habari.co.tz",
+    "eliangiringa@habari.co.tz",
+    "info@movantech.com",
+    "sales@movantech.com",
+    "info@gsl.com.tr",
+    "umit@gsl.com.tr",
+    "suhail@alliedresources.sa",
+    "Omar.Elrefaey@outlook.com",
+    "ferry@mediachoice.nl",
+    "Ferry.Ouwendijk@mediachoice.eu",
+    "infokw@metconetworks.com",
+    "info@dcscom.net",
+    "sales@dcscom.net",
+    "sales@sun-evo.com",
+    "sales@fybera.com",
+    "zaidefidel@gmail.com",
+    "arjun.murali@fuzzylogicautomation.com",
+    "boualimohamedamine44@gmail.com",
+    "engineeransarabbas@yahoo.com",
+    "engineeransarabbas@gmail.com",
+    "amineachoura21@gmail.com",
+    "post@aktivsb.ru"
+   ]
   }
  ],
  "campaign_24poe_heads": {
@@ -2614,7 +2836,528 @@
      "subject": "16 Port PoE Managed Switch"
     }
    ]
+  },
+  "sokol@tssgroup.sk": {
+   "batch": "SK/CY/NO/BG/BE/GR/AT",
+   "campaigns": [
+    {
+     "msg_id": "1a0665a7662f4ec9",
+     "date": "2026-09-03",
+     "subject": "24 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19dba887a787f9ab",
+     "date": "2026-04-23",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19c0def1a3b1e7e4",
+     "date": "2026-01-30",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19a7c38abe494a3d",
+     "date": "2025-11-13",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199cd4427688f9a4",
+     "date": "2025-10-10",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "198ebc653eba8190",
+     "date": "2025-08-27",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "198465f2f6b8cdcc",
+     "date": "2025-07-26",
+     "subject": "Managed Optical Bypass Switch"
+    },
+    {
+     "msg_id": "197ac4432a1d885a",
+     "date": "2025-06-26",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "196fc5a5221738f4",
+     "date": "2025-05-23",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19671a1058a9ff68",
+     "date": "2025-04-26",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "195eb6ddaf36472e",
+     "date": "2025-03-31",
+     "subject": "Marvell Alleycat5 Solution"
+    }
+   ]
+  },
+  "icecom@icecom.is": {
+   "batch": "IS/SE/BG/RU/LT",
+   "campaigns": [
+    {
+     "msg_id": "1a023557cf116242",
+     "date": "2026-08-21",
+     "subject": "24 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19e4008344c6230a",
+     "date": "2026-05-19",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19d908fdaeee7c47",
+     "date": "2026-04-15",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19ce61ce6883f7bb",
+     "date": "2026-03-13",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19bda58a1649246e",
+     "date": "2026-01-20",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19b119cfe4ab1890",
+     "date": "2025-12-12",
+     "subject": "Booster PoE Switch"
+    },
+    {
+     "msg_id": "19a34670c1bbb744",
+     "date": "2025-10-30",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1998f4a11fbdf052",
+     "date": "2025-09-28",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "198a2dab91061460",
+     "date": "2025-08-13",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "197fdfce86f4780b",
+     "date": "2025-07-12",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1976369fc9e2c5ba",
+     "date": "2025-06-12",
+     "subject": "10G Media Converter"
+    },
+    {
+     "msg_id": "196ce03d55bc0449",
+     "date": "2025-05-14",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "19642f9f759850e6",
+     "date": "2025-04-17",
+     "subject": "Marvell Alleycat5 Solution"
+    },
+    {
+     "msg_id": "1956611d6d460235",
+     "date": "2025-03-05",
+     "subject": "Mini Industrial PoE Switch"
+    }
+   ]
+  },
+  "info@morion.ru": {
+   "batch": "RU/NL/SE/RO/TR/KZ",
+   "campaigns": [
+    {
+     "msg_id": "1a013fddf72d5ae1",
+     "date": "2026-08-18",
+     "subject": "24 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19d86e52e2e99dec",
+     "date": "2026-04-13",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19ce19145792633c",
+     "date": "2026-03-12",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19bd5addc77fa929",
+     "date": "2026-01-19",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19b0d35fb071570a",
+     "date": "2025-12-11",
+     "subject": "Booster PoE Switch"
+    },
+    {
+     "msg_id": "19a2a4d998276e80",
+     "date": "2025-10-28",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "198932b388bf95f9",
+     "date": "2025-08-10",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "197ee9c2467543c8",
+     "date": "2025-07-09",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19753cbe0fa9e1a7",
+     "date": "2025-06-09",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "196a9c238aef636e",
+     "date": "2025-05-07",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "196342baf53ee203",
+     "date": "2025-04-14",
+     "subject": "Marvell Alleycat5 Solution"
+    },
+    {
+     "msg_id": "19538267729f63cc",
+     "date": "2025-02-24",
+     "subject": "90W PoE Managed Switch"
+    }
+   ]
+  },
+  "paul.such@avigilon.com": {
+   "batch": "CA/UK/HR",
+   "campaigns": [
+    {
+     "msg_id": "1a0330152a9e3b87",
+     "date": "2026-08-24",
+     "subject": "24 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19e443b097fc44c5",
+     "date": "2026-05-20",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19d954dd9d39ebda",
+     "date": "2026-04-16",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19cf59af8391f600",
+     "date": "2026-03-16",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19bdf80d0f61e68c",
+     "date": "2026-01-21",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19b2b1bc9a912640",
+     "date": "2025-12-17",
+     "subject": "Booster PoE Switch"
+    },
+    {
+     "msg_id": "19a5331bc509739c",
+     "date": "2025-11-05",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199a8c61c9839390",
+     "date": "2025-10-03",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "198d093bdb28a847",
+     "date": "2025-08-22",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "198407fe29bd3d87",
+     "date": "2025-07-25",
+     "subject": "8 Port Industrial PoE Switch"
+    }
+   ]
+  },
+  "sales@nssi.net": {
+   "batch": "US-安防",
+   "campaigns": [
+    {
+     "msg_id": "1a0344bd58cd6f2d",
+     "date": "2026-08-24",
+     "subject": "24 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19e45f4503c9ae84",
+     "date": "2026-05-20",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19d96d86f8244de5",
+     "date": "2026-04-16",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19cf718bfe3adf2f",
+     "date": "2026-03-16",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19be0cb525c0653c",
+     "date": "2026-01-21",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19b2c95e7fadfb7d",
+     "date": "2025-12-17",
+     "subject": "Booster PoE Switch"
+    },
+    {
+     "msg_id": "19a547b5446e789b",
+     "date": "2025-11-05",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "199aa3629fd8118d",
+     "date": "2025-10-03",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "198d22ecf3c2e565",
+     "date": "2025-08-22",
+     "subject": "90W PoE Managed Switch"
+    }
+   ]
+  },
+  "kontakt@fabrimex-systems.ch": {
+   "batch": "CH/LatAm/US",
+   "campaigns": [
+    {
+     "msg_id": "19ffbad32315ee55",
+     "date": "2026-08-13",
+     "subject": "24 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19d6d8eacb167518",
+     "date": "2026-04-08",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19cc36d3496da00b",
+     "date": "2026-03-06",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19bbd1fdb525412a",
+     "date": "2026-01-14",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "199a044fc3120b2e",
+     "date": "2025-10-01",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "198bdfcd573faf4a",
+     "date": "2025-08-19",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "1981e57b05b71eac",
+     "date": "2025-07-19",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19783f9ddd8e3e03",
+     "date": "2025-06-19",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "196d968b4b6645c7",
+     "date": "2025-05-16",
+     "subject": "Managed Optical Bypass Switch"
+    },
+    {
+     "msg_id": "1964eabbc1cc0153",
+     "date": "2025-04-19",
+     "subject": "Marvell Alleycat5 Solution"
+    },
+    {
+     "msg_id": "19576defdd9e1caa",
+     "date": "2025-03-09",
+     "subject": "L3 Managed Switch"
+    },
+    {
+     "msg_id": "1951ed489e15aea6",
+     "date": "2025-02-19",
+     "subject": "10G Media Converter"
+    }
+   ],
+   "aliases": [
+    "info@mpl.ch"
+   ]
+  },
+  "info@iotkomponenty.sk": {
+   "batch": "SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户",
+   "campaigns": [
+    {
+     "msg_id": "19ffb6888b465b84",
+     "date": "2026-08-13",
+     "subject": "24 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19d6d20ce009b52c",
+     "date": "2026-04-08",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19cc2cc137a44bfe",
+     "date": "2026-03-06",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19bbc7b0f72fa09a",
+     "date": "2026-01-14",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19a4e72d4ac01bf6",
+     "date": "2025-11-04",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1999f316abfb1b59",
+     "date": "2025-10-01",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "198bd1c87be3451b",
+     "date": "2025-08-18",
+     "subject": "24 Port Fiber Switch"
+    },
+    {
+     "msg_id": "1981dc8dd806306c",
+     "date": "2025-07-18",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "1978337c6e92ac35",
+     "date": "2025-06-18",
+     "subject": "Marvell Alleycat5 Solution"
+    },
+    {
+     "msg_id": "196d855205a2a915",
+     "date": "2025-05-16",
+     "subject": "8 Port Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1964d2b3737a713e",
+     "date": "2025-04-19",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "19574dc747a22016",
+     "date": "2025-03-08",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "1951322c2950417f",
+     "date": "2025-02-17",
+     "subject": "24 Port Fiber Switch"
+    }
+   ],
+   "aliases": [
+    "info@megamobile.be"
+   ]
+  },
+  "info@andasis.com": {
+   "batch": "misc(TR/TN/TZ/NL/SA/BE/RU)",
+   "campaigns": [
+    {
+     "msg_id": "19e1b893e9c06378",
+     "date": "2026-05-12",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "19d6260bd2f6729d",
+     "date": "2026-04-06",
+     "subject": "Marvell Managed Commercial Switches"
+    },
+    {
+     "msg_id": "19cb80bffee5a2b9",
+     "date": "2026-03-04",
+     "subject": "Updated Ethernet Switches Links"
+    },
+    {
+     "msg_id": "19bb1f2d49dd5acc",
+     "date": "2026-01-12",
+     "subject": "OEM Core Switching Solution"
+    },
+    {
+     "msg_id": "19afdd536b89b4c8",
+     "date": "2025-12-08",
+     "subject": "Booster PoE Switch"
+    },
+    {
+     "msg_id": "19a24b6a1be3e99f",
+     "date": "2025-10-27",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19980e1685fbcb89",
+     "date": "2025-09-25",
+     "subject": "10G Enterprise SFP Switch"
+    },
+    {
+     "msg_id": "198c737ce379d09b",
+     "date": "2025-08-20",
+     "subject": "Mini Industrial PoE Switch"
+    },
+    {
+     "msg_id": "198273d84a0cb937",
+     "date": "2025-07-20",
+     "subject": "48 Port PoE Managed Switch"
+    },
+    {
+     "msg_id": "1978c3e904664fda",
+     "date": "2025-06-20",
+     "subject": "16 Port Ethernet Switch"
+    },
+    {
+     "msg_id": "196ed47609c591ac",
+     "date": "2025-05-20",
+     "subject": "Industrial PoE Switch"
+    },
+    {
+     "msg_id": "19661c4a67993176",
+     "date": "2025-04-23",
+     "subject": "Commercial Network Switch"
+    },
+    {
+     "msg_id": "195d1c9847533253",
+     "date": "2025-03-26",
+     "subject": "Marvell Alleycat5 Solution"
+    },
+    {
+     "msg_id": "19550ef135663ac8",
+     "date": "2025-03-01",
+     "subject": "8 Port Industrial PoE Switch"
+    }
+   ]
   }
  },
- "_anchors_note": "anchors = 每个群发批次的 To 首收件人（Elsa 的名单顺序稳定，同一批次每轮都是同一个 To）；campaigns = 该批次收到的全部群发（`from:e.sagatelecom to:<anchor>` complete:true）。首尾两轮 Bcc 都读过的批次，名单稳定（UK 21→38、DE 42→40、PL 19→28、US-3 43→39、IT 31→25，少数地址中途剔除/加入）。"
+ "_anchors_note": "anchors = 每个群发批次的 To 首收件人（Elsa 的名单顺序稳定，同一批次每轮都是同一个 To）；campaigns = 该批次收到的全部群发（`from:e.sagatelecom to:<anchor>` complete:true）。首尾两轮 Bcc 都读过的批次，名单稳定（UK 21→38、DE 42→40、PL 19→28、US-3 43→39、IT 31→25，少数地址中途剔除/加入）。 ｜ 2026-10-25 02:0x 追加 16 锚（共 21）：每锚 `from:e.sagatelecom to:<锚>` 一次拉全程（complete:true）；锚 To 即该批次每轮同一收件人，Bcc 名单 2025-02→2026-09 基本稳定；andasis 批次最后一轮 2026-05-12（8–9 月 24-PoE 轮未发该批）；avigilon/nssi 批次 2025-07/08 才建。"
 }

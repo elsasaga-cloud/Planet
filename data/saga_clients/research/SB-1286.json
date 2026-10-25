@@ -61,7 +61,7 @@
    "revive": "不动（非主攻区；J5：有证据再动）",
    "lane": "阿尔及利亚 非主攻",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@andasis.com）2025-03-01→2026-05-12 共 14 轮群发（8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、Commercial Network Switch、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。",
   "need": "WDM 不在 Saga 线；无主推型。",
@@ -81,6 +81,14 @@
    "one_question": ""
   },
   "facts": [
+   {
+    "date": "2025-03-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
+    "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-05-12",
     "dir": "去",
@@ -103,6 +111,6 @@
    "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

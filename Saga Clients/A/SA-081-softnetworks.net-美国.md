@@ -43,7 +43,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-081` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）** ｜ 类型：新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：价格后停（翻新件价格基准极低） ｜ 复活：只谈管理型新品补充线 + FCC ｜ 通路：US ｜ 节奏：一次 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）2025-04-06 首轮 Bcc 含 NealC@softnetworks.net；04-29 他回信后 Elsa 改为直发（1:1 共 11 封，Replied 2025-04/05），2026-09-08 最新一轮群发名单已不含此址 → 剔除原因 = 转 1:1，不是退信
+- **绑定等级：未绑定（Elsa 邮箱两次回复：2025-04-29「I never buy Unmanaged.」、2025-05-13「What is the price for this one?」(90W PoE 管理型) → Elsa 05-14 回价后无下文）；Elsa 首触 = 2025-04-06 US-2 批次群发 BCC「16 Port PoE Managed Switch」（第 74 批 Bcc 头核对 msg 1960752f6b2cf94d）→ 04-29 回信后转 1:1，群发名单随即剔除（2026-09-08 同批次名单无此址）** ｜ 类型：新泽西二手/翻新网络设备经销（Neal Cennamo）——美国主攻区，但商业模式是翻新件 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：价格后停（翻新件价格基准极低） ｜ 复活：只谈管理型新品补充线 + FCC ｜ 通路：US ｜ 节奏：一次 ｜ 证据：邮件：A/S 两箱均无发信记录（0 去 / 0 来）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@allisontecusa.com）本户见于 2025-04-06 名单；2026-09-08 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）
 - **现状一句话**：Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。
 - **对方真实需求（有据）**：管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。
 - **断点 / 为什么停在这里**：价格基准（翻新 Cisco）vs 新品。

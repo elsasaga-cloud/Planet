@@ -85,7 +85,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "爱尔兰（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「VC POE 工业FS」；研究档 risks：Dahua 总分销：PoE 多随 Dahua PFS 套装走，白牌需靠价差；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「VC POE 工业FS」；研究档 risks：Dahua 总分销：PoE 多随 Dahua PFS 套装走，白牌需靠价差；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入"
   },
   "situation": "爱尔兰 KD Electronics（CCTV、安防、AV 与网络产品贸易供应商，「Dahua Largest Distributor」（爱尔兰）、TP-Link（21）、Ajax、Triax 线缆；表内「VC / PoE / 工业 FS；大华 PoE」）；表内无跟进记录。",
   "need": "Dahua 配套 PoE（现 Dahua PFS 系列）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM；非管理位 HRUI STC-028GP",
@@ -126,6 +126,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

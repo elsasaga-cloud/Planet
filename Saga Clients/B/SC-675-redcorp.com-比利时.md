@@ -44,7 +44,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-675` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：比利时（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：比利时（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；研究档 risks：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入
 - **现状一句话**：布鲁塞尔一家 1989 年起的 B2B IT 供应商兼电商，PLANET 品牌页以工业 IGS 系列为主、十余款带价。类型：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）。信号：redcorp.com：PLANET 品牌页 + 商品页带价：IGS-504PT € 230.42（已 fetch）；同页推荐 IGS-604HPT-RJ € 575.63 / IGS-4215-4P4T € 435.65 / IGS-4215-8P2T2S € 501.69 / IGS-20160HPT € 1033.86 / GSW-2620HP € 
 - **对方真实需求（有据）**：其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / 
 - **断点 / 为什么停在这里**：PLANET 页是否为分销 feed（实际进货频率）；采购 KP（创始人之外）；是否接受非品牌货进入其 B2B 目录；比利时 / 荷兰语区项目对 CE 之外的要求
@@ -53,6 +53,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-17 | 去 | Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p | Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

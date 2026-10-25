@@ -41,7 +41,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1163` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「antaria planet的 工业FS MC SFP」）** ｜ 类型：工业电子与自动化分销商（瑞典，Antaira/Planet 工业线） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「antaria planet的 工业FS MC SFP」；研究档 risks：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）；S/A 箱：S/A 邮箱均无往来；来源：用户表「antaria planet的 工业FS MC SFP」）** ｜ 类型：工业电子与自动化分销商（瑞典，Antaira/Planet 工业线） ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过 ｜ 复活：不动（Q-33 供应商渠道客户） ｜ 通路：瑞典（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「antaria planet的 工业FS MC SFP」；研究档 risks：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入
 - **现状一句话**：瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27" 工业触摸屏）；表内无跟进记录。
 - **对方真实需求（有据）**：在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入
@@ -50,6 +50,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-17 | 去 | Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p | Elsa 箱群发 BCC 触达证据（命中地址 binarteknik.se, info@binarteknik.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 binarteknik.se, info@binarteknik.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | antaria planet的 工业FS MC SFP | 表内备注 | `用户表` |
 

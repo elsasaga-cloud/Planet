@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,16 +34,16 @@ updated: 2026-10-24
 - **是谁**：阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。（调研 2026-10-21；表内兴趣：WDM information）
 - **为什么是 B 级**：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/阿尔及利亚；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 1 次（2023-09-13 → 2023-09-13）；最近一次客户回复：2023-09-13：WDM information
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — WDM 不在 Saga 线；无主推型。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — WDM 不在 Saga 线；无主推型。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1286` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1286` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-05-12）无回；S/A 箱从未单独发过 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿尔及利亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（价格未读），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：WDM information」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-05-12）无回；S/A 箱从未单独发过 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿尔及利亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：WDM information」；研究档 risks：需求 WDM（缺口）；身份不明；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@andasis.com）2025-03-01→2026-05-12 共 14 轮群发（8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、Commercial Network Switch、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。
 - **对方真实需求（有据）**：WDM 不在 Saga 线；无主推型。
 - **断点 / 为什么停在这里**：需求 WDM（缺口）；身份不明
@@ -52,6 +52,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-01 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里） | Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：WDM information | 表内备注 | `用户表` |
 
@@ -210,12 +211,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 -5）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 -5）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

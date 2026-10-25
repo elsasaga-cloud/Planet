@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：布达佩斯的网络 / 布线 / 机柜分销商，有源类目以 PLANET 工业交换机为主并自编货号。类型：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号。信号：lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货。Planet 渠道档案 PB-093 评级 B（需求：5 款 PLANET 工业交换机商品页带 HUF 净价 / 含税价 + 自编货号 + 实时库存口径 → 有源类目采购真实；触达：sales@lan.hu / titkar@lan.hu + +36 1 415 2300 公开（页脚 / FAQ），无公开具名 KP（Bcc 中 jhegedus@ / wbea@ 两个具名地址角色未公开 → 不作 KP）；体量：布达佩斯分销商（D&B 「pénzügyileg legstabilabb」认证 2026-07）→ 中型、可赢；Gmail：Elsa 账号 2025-02-18 → 2026-08-13 以 BCC 群发 13 封（含 jhegedus@ / wbea@），0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无公开具名 KP））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1214，匈牙利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS MC SFP TP-link的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/匈牙利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1214` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1214` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）** ｜ 类型：匈牙利 IT 服务商（LAN Kft.） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：HU ｜ 节奏：不动 ｜ 证据：k=d120e1aa64662a70；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）** ｜ 类型：匈牙利 IT 服务商（LAN Kft.） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：HU ｜ 节奏：不动 ｜ 证据：k=d120e1aa64662a70；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2026-08-13 名单；2025-02-17 首轮名单无此地址 → 中途加入
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -274,12 +274,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

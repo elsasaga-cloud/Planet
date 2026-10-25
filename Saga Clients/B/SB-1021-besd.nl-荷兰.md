@@ -42,7 +42,7 @@ updated: 2026-10-25
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1021` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@besd.nl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）** ｜ 类型：工业自动化数据通信分销商（名牌组合，含研华） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品」；研究档 risks：名牌组合分销商（研华等）：白牌契合度低，预期低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入
+- **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 info@besd.nl；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）** ｜ 类型：工业自动化数据通信分销商（名牌组合，含研华） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：荷兰（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品」；研究档 risks：名牌组合分销商（研华等）：白牌契合度低，预期低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）本户见于 2025-02-17 名单；2026-08-13 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；同批次（To info@dasys.fi）本户见于 2026-08-13 名单；2025-02-16 首轮名单无此地址 → 中途加入
 - **现状一句话**：荷兰 BESD（工业自动化用嵌入式系统与数据通信产品分销，「Ons merkenportfolio」品牌组合；表内「几个有名牌子的工业 FS；bypass 工业 FS 基本是研华的；很多产品」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：名牌组合分销（研华等）→ 白牌契合低；入门位工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）作价格补充线；bypass 需求 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明 SmartByte 型号，$186.5 @20%）
 - **断点 / 为什么停在这里**：名牌组合分销商（研华等）：白牌契合度低，预期低
@@ -52,6 +52,7 @@ updated: 2026-10-25
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-17 | 去 | Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p | Elsa 箱群发 BCC 触达证据（命中地址 besd.nl, sales@besd.nl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-02-27 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-02-27（5 去 / 0 来） | `gmail_digest` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 besd.nl, sales@besd.nl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 几个有名牌子的工业FS；bypass 工业FS 基本是研华的；很多产品 | 表内备注 | `用户表` |

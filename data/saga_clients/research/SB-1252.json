@@ -65,7 +65,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "匈牙利（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「工业FS」；研究档 risks：业务范围待核（官网 timeout）；未跟进过，仅 villa@；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「工业FS」；研究档 risks：业务范围待核（官网 timeout）；未跟进过，仅 villa@；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "匈牙利 Targoncavilla / Frekvent（targoncavilla.com / frekvent.com；表内「工业 FS」；官网 timeout，业务范围待核）；表内未跟进。",
   "need": "工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）",
@@ -85,6 +85,14 @@
    "one_question": "For the industrial switches you supply, we offer neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
+   {
+    "date": "2025-03-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 frekvent.com, villa@frekvent.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-21",
     "dir": "去",
@@ -106,6 +114,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

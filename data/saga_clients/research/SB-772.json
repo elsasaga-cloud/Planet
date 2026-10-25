@@ -79,7 +79,7 @@
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "保加利亚（欧洲全域主攻）",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：商业POE MC」；研究档 risks：保加利亚为小国名单（不主动挖）；采购权在德国总部；data/gmail_e/bcc_batches_2026.json"
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：商业POE MC」；研究档 risks：保加利亚为小国名单（不主动挖）；采购权在德国总部；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
   },
   "situation": "保加利亚网络设备 / 光缆 / 机柜 / 配件供应商（IC Intracom 集团保加利亚公司，面向企业与安装商；Moxa、TP-Link；sfp 246 / switch 133 / poe 108 / industrial 103 / media converter 31；+359 2 923 1781），Hristo Chankov；表内商用 PoE、MC；无跟进。",
   "need": "商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。",
@@ -99,6 +99,14 @@
    "one_question": "Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?"
   },
   "facts": [
+   {
+    "date": "2025-03-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 ic-intracom.bg, office@ic-intracom.bg）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
    {
     "date": "2026-08-21",
     "dir": "去",
@@ -120,6 +128,6 @@
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

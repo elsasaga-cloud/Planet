@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -34,16 +34,16 @@ updated: 2026-10-24
 - **是谁**：圣彼得堡的计算机/外设与电子设备批发商 ООО «Регион-Проф»（2006-11-02 注册；唯一股东 ООО «Прософт»（ProSoft，俄罗斯大型工业自动化与嵌入式设备分销集团）100%；2025 营收 16 亿 ₽、净利 1.18 亿 ₽、员工 84；总经理 Коровина Марина Григорьевна；+7 495 232-29-55；info@regionprof.ru；官网有产品目录与区域网络）。用户表（富通天下外贸数据）：「买了迈威的」= 进口 Maiwe 工业交换机，非 Saga 成交；备注「一个大型公司」；群发无互动。ProSoft 系工业自动化分销 → 工业 DIN 交换机分销 20%。（调研 2026-10-21；表内兴趣：买了迈威的）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@regionprof.ru（Коровина Марина Григорьевна） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-033` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-033` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「买了迈威的 / 一个大型公司 / 富通天下」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「买了迈威的 / 一个大型公司 / 富通天下」；研究档 risks：俄罗斯结算/制裁合规；大集团供应商准入；无互动记录；data/gmail_e/bcc_batches_2026.json
+- **绑定等级：Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）；S/A 箱：S/A 邮箱均无往来；来源：用户表「买了迈威的 / 一个大型公司 / 富通天下」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：Elsa 群发 BCC 触达过（最近 2026-08-21）无回；S/A 箱从未单独发过 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：RU 次级（Simon 2026-08 点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「买了迈威的 / 一个大型公司 / 富通天下」；研究档 risks：俄罗斯结算/制裁合规；大集团供应商准入；无互动记录；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To icecom@icecom.is）2025-03-05→2026-08-21 共 14 轮群发（Mini Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Media Converter、8 Port Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断
 - **现状一句话**：圣彼得堡的计算机/外设与电子设备批发商 ООО «Регион-Проф»（2006-11-02 注册；唯一股东 ООО «Прософт»（ProSoft，俄罗斯大型工业自动化与嵌入式设备分销集团）100%；2025 营收 16 亿 ₽、净利 1.18 亿 ₽、员工 84；总经理 Коровина Марина Григорьевна；+7 495 232-29-55；info@regionprof.ru；官网有产品目录与区域网络）。用户表（富通天下外贸数据）：「买了迈威的」= 进口 Maiwe 工业交换机，非 Saga 成交；备注「一个大型公司」；群发无互动。ProSoft 系工业自动化分销 → 工业 DIN 交换机分销 20%。
 - **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 Maiwe 管理型工业机；非 PoE STI-280GM（$68.2）；非管理 STI-288GP（$57.4）
 - **断点 / 为什么停在这里**：俄罗斯结算/制裁合规；大集团供应商准入；无互动记录
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-03-05 | 去 | Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发 BCC 触达证据（命中地址 info@regionprof.ru, regionprof.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-21 | 去 | Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@regionprof.ru, regionprof.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 买了迈威的 / 一个大型公司 / 富通天下 | 表内备注 | `用户表` |
 
@@ -249,12 +250,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
