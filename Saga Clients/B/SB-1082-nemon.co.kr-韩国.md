@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代；换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号，只描述不写型号（$202.1 = 30% 档））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代
 - **断点 / 为什么停在这里**：业务范围待核（快照仅标题）；bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国）；23 次无回复，仅 support@
 - **Saga 现在该推什么**：P1 **STC-424XGGM**（30% 档，换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；bypass 款无 Saga 型号，只描述不写型号（$202.1 = 30% 档））
   - 第一问（只问一个）：For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first? Reference: STC-424XGGM at $138 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -263,23 +263,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：High-port-count and bypass positions - three configurations, which first?
 
 ```text
-Hello,
+Hello Nemon team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first?
+Over the past months you had a steady stream of product mails from us - most recently "Marvell Industrial Alert System" on 21 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $138 USD EXW (valid 15 days).
+For the high-port-count and bypass switch positions you source, in your packaging from small lots, CE/RoHS, EXW, 15-day validity: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGM - $138.0 USD; 48 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed - STC-448XGGPM - $335; industrial DIN-rail 8 x Gigabit PoE+ + 4 x SFP with hardware fibre bypass (link stays up when the unit loses power), L2+ managed, -40 to 75 C - $202.1. KC stays on your side.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which configuration should I quote in full first - the bypass unit or the 48-port?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

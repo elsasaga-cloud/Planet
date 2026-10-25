@@ -99,7 +99,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
+   "action": "换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））",
    "one_question": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing; managed versions on a Marvell platform) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -121,7 +121,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Alongside ICP DAS and D-Link in your automation panels - a budget industrial line",
+   "body": "Hello TOP-FA team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Booster PoE Switch\" on 15 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ICP DAS and D-Link networking you list for automation panels, a budget industrial line, neutral-brand, at distributor price, EXW, from single pieces, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 5 x Gigabit unmanaged - model STI-050GE - $17.0 USD; 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. Serial gateways stay with ICP DAS - we do not do them. KC stays on your side.\n\nOne question: which port count do your automation customers buy most - 5 or 8?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

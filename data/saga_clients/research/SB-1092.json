@@ -88,7 +88,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+      "action": "首封前知悉：Elsa 仅 2025-02-28 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ad) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side））",
       "one_question": "For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -119,7 +119,10 @@
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "The active side of your fibre cabling systems - converter, DIN switch, 24-port aggregation",
+      "body": "Hello Unitelco team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"Industrial PoE Switch\" on 17 September 2026 - none of which needed an answer. This one is specific.\n\nFor the active side of your fibre cabling systems, neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD; DIN-rail 8 x Gigabit + 2 x SFP unmanaged, -40 to 75 C - STI-280GE - $46; 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGM - $127.4. KC stays on your side.\n\nOne question: which active SKU do your cabling projects need most - the converter at the building end, or the 24-port in the rack?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }
