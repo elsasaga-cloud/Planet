@@ -256,7 +256,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 2025-02-28 - and there was no reason to answer a mass mail. This one is specific. For the media converters and edge switches you offer alongside your optical transmitters and EDFAs, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which Ethernet SKU do your integrator customers order most?
+Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 28 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the media converters and edge switches you offer alongside your optical transmitters and EDFAs, we can supply gigabit MCs and 8-GE + 2 SFP switches in your packaging from small lots, FCC/CE/RoHS — which Ethernet SKU do your integrator customers order most?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

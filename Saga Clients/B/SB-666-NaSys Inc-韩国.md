@@ -286,7 +286,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "90W PoE Managed Switch" on 2025-02-24 - and there was no reason to answer a mass mail. This one is specific. Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
+Some time ago you had a product mail from us - "90W PoE Managed Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $82.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -224,7 +224,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 2026-05-12 - and there was no reason to answer a mass mail. This one is specific. For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most?
+Over the past months you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 12 May 2026 - and there was no reason to answer a mass mail. This one is specific. For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 

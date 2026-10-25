@@ -274,7 +274,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a few product mails from us - most recently "Marvell Industrial Alert System" on 2025-06-23 - and there was no reason to answer a mass mail. This one is specific. Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?
+Some time ago you had a few product mails from us - most recently "Marvell Industrial Alert System" on 23 June 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your CTC Union FRM220-1000DS at a lower landed cost, and we can ship it with neutral packaging. Current price: $78.9 USD EXW (valid 15 days).
 

@@ -235,7 +235,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-09-09 - and there was no reason to answer a mass mail. This one is specific. Following your enquiry on the 16-slot media-converter rack: we supply DIN-rail gigabit industrial media converters (SFP and fixed-fiber) and 8/16-port industrial PoE switches under your label from small lots, CE/RoHS/FCC — is the rack intended for SFP-based or fixed single-mode converters?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific. Following your enquiry on the 16-slot media-converter rack: we supply DIN-rail gigabit industrial media converters (SFP and fixed-fiber) and 8/16-port industrial PoE switches under your label from small lots, CE/RoHS/FCC — is the rack intended for SFP-based or fixed single-mode converters?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as your Lantronix SISPM1040-3166-L at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

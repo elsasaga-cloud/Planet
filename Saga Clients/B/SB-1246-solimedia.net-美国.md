@@ -264,7 +264,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your PLANET GSW-1600HP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

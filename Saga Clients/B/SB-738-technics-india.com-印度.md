@@ -258,7 +258,7 @@ updated: 2026-10-25
 ```text
 Hi Prakash,
 
-Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 2026-04-01 - and there was no reason to answer a mass mail. This one is specific. Regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?
+Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 1 April 2026 - and there was no reason to answer a mass mail. This one is specific. Regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -266,7 +266,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 2025-02-12 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches that accompany your IP-based building and automation devices, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, CE/RoHS) — which configuration do your projects use most?
+Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 12 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches that accompany your IP-based building and automation devices, we can supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units under your label from small lots (−40~75 °C, CE/RoHS) — which configuration do your projects use most?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

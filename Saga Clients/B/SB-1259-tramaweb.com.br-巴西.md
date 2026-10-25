@@ -235,7 +235,7 @@ updated: 2026-10-25
 ```text
 Hi Fabio,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-03 - and there was no reason to answer a mass mail. This one is specific. For the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 3 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

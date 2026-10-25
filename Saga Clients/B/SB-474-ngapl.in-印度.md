@@ -258,7 +258,7 @@ updated: 2026-10-25
 ```text
 Hi Rajendra,
 
-Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 2026-04-01 - and there was no reason to answer a mass mail. This one is specific. Following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?
+Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 1 April 2026 - and there was no reason to answer a mass mail. This one is specific. Following your enquiry for an 8-port gigabit industrial switch (EHG6408 class): we supply DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, redundant 12–57 V, CE/RoHS) from single units, EXW USD — how many units and is managed or unmanaged required?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $32.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

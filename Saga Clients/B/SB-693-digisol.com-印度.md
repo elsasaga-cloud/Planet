@@ -281,7 +281,7 @@ updated: 2026-10-25
 ```text
 Hi Ranjan,
 
-Some time ago you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 2026-03-31 - and there was no reason to answer a mass mail. This one is specific. For the DG-IS industrial PoE range, we can add a Marvell-based managed tier (8-PoE + 2 SFP L2+, 90 W PoE++ option, −40~75 °C) as a second source from small lots, with CE/RoHS/FCC reports to support your BIS file — which model would you consider dual-sourcing first?
+Some time ago you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 31 March 2026 - and there was no reason to answer a mass mail. This one is specific. For the DG-IS industrial PoE range, we can add a Marvell-based managed tier (8-PoE + 2 SFP L2+, 90 W PoE++ option, −40~75 °C) as a second source from small lots, with CE/RoHS/FCC reports to support your BIS file — which model would you consider dual-sourcing first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the Upeto class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

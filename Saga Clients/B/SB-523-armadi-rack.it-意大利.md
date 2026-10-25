@@ -280,7 +280,7 @@ updated: 2026-10-25
 ```text
 Hi Massimiliano,
 
-Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 2025-02-17 - and there was no reason to answer a mass mail. This one is specific. Alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most?
+Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the Digitus and Utepo industrial switches in your shop, we supply DIN-rail 8-PoE + 2 SFP unmanaged/managed units and gigabit media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your rack customers order most?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the Upeto class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $60 USD EXW (valid 15 days).
 

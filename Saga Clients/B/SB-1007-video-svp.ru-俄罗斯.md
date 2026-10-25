@@ -284,7 +284,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-08-26 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches and media converters sold under the SVP label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs, −40~75 °C) in your packaging from small lots, CE/RoHS; EAC by your side — which SKU family runs the highest volume?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the E-link class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
 

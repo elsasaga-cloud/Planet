@@ -269,7 +269,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-28 - and there was no reason to answer a mass mail. This one is specific. For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?
+Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 28 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the active side of your fibre cabling systems, we supply neutral-brand gigabit MCs and DIN-rail 8-GE + 2 SFP units and Marvell-based 24-GE + 4×10G managed switches from single units, CE/RoHS, EXW USD; KC by your side — which active SKU do your cabling projects need most?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 

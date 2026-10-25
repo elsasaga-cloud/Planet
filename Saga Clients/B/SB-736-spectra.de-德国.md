@@ -280,7 +280,7 @@ updated: 2026-10-25
 ```text
 Hi Juergen,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. Alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the ORing 5- and 8-port industrial switches you ship with your IPC systems, we supply DIN-rail 5/8-GE units (−40~75 °C, 12–58 VDC, CE/RoHS) in neutral packing from small lots at a lower price tier — would a sample for comparison be useful?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as your ORing IGS-9168GP at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $31.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

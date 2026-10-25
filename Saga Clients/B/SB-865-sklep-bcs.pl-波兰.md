@@ -294,7 +294,7 @@ updated: 2026-10-25
 ```text
 Hi Maciej,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. For a BCS-branded PoE switch line (E-link today) — Marvell L2+ 8/24-PoE and DIN industrial 8-PoE under the BCS label from small lots, CE/RoHS; which SKU should I sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. For a BCS-branded PoE switch line (E-link today) — Marvell L2+ 8/24-PoE and DIN industrial 8-PoE under the BCS label from small lots, CE/RoHS; which SKU should I sample first?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Elink class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -225,7 +225,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
 

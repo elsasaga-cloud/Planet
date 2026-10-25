@@ -221,7 +221,7 @@ updated: 2026-10-25
 ```text
 Hi Daniel,
 
-Over the past months you had a product mail from us - "16 Port Industrial PoE Switch" on 2026-09-14 - and there was no reason to answer a mass mail. This one is specific. On your two questions: yes, the alarm relay (DI/DO) on the managed industrial unit can feed an external EMS, and SKD (enclosure + board shipped separately) is possible from the factory — what monthly volume would the Cairo assembly handle, so I price the kits?
+Over the past months you had a product mail from us - "16 Port Industrial PoE Switch" on 14 September 2026 - and there was no reason to answer a mass mail. This one is specific. On your two questions: yes, the alarm relay (DI/DO) on the managed industrial unit can feed an external EMS, and SKD (enclosure + board shipped separately) is possible from the factory — what monthly volume would the Cairo assembly handle, so I price the kits?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

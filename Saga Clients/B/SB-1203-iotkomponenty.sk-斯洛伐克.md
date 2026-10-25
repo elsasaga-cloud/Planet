@@ -225,7 +225,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-13 - and there was no reason to answer a mass mail. This one is specific. Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (−40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?
 
 We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $25 USD EXW (valid 15 days).
 

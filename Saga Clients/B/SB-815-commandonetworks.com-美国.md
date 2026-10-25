@@ -262,7 +262,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "10G Media Converter" on 2025-02-25 - and there was no reason to answer a mass mail. This one is specific. For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.
+Some time ago you had a product mail from us - "10G Media Converter" on 25 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the Cisco class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

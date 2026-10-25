@@ -227,7 +227,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-28 - and there was no reason to answer a mass mail. This one is specific. For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific. For installers deploying your SIP speakers and strobes, a PoE switch bundle can simplify small sites — we supply Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP models (90 W PoE++ option) under your label from small lots, FCC/CE/RoHS — would a bundled PoE SKU fit your partner price list?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
 

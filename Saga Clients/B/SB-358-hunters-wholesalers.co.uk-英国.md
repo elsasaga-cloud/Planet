@@ -261,7 +261,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "90W PoE Managed Switch" on 2025-02-24 - and there was no reason to answer a mass mail. This one is specific. For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?
+Some time ago you had a product mail from us - "90W PoE Managed Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -263,7 +263,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-09-07 - and there was no reason to answer a mass mail. This one is specific. For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 7 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 

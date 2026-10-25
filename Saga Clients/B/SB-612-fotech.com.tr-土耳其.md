@@ -246,7 +246,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 2026-05-12 - and there was no reason to answer a mass mail. This one is specific. Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?
+Over the past months you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 12 May 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

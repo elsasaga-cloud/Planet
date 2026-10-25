@@ -247,7 +247,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. Your Switch Industriali range is PLANET end-to-end (IGS-4215-8P2T2S at €766) — a Marvell-based, neutral-packed STI line at EXW gives the same slots a second source while you consolidate suppliers under Optoplast. In your industrial range, is the 8-port Gigabit PoE+ managed class (IGS-4215-8P2T2S) what fibre installers order most, or the 4-port PoE IGS-624HPT — so I send the right sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. Your Switch Industriali range is PLANET end-to-end (IGS-4215-8P2T2S at €766) — a Marvell-based, neutral-packed STI line at EXW gives the same slots a second source while you consolidate suppliers under Optoplast. In your industrial range, is the 8-port Gigabit PoE+ managed class (IGS-4215-8P2T2S) what fibre installers order most, or the 4-port PoE IGS-624HPT — so I send the right sample first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your PLANET IGS-4215-8P2T2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

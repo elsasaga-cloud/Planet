@@ -210,7 +210,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 

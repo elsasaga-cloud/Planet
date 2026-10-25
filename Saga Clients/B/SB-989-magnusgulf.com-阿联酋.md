@@ -281,7 +281,7 @@ updated: 2026-10-25
 ```text
 Hi Saleem,
 
-Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 2025-10-03 - and there was no reason to answer a mass mail. This one is specific. Alongside the Vivotek and Netgear PoE switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8/24-PoE L2+ models from small lots, CE/RoHS, neutral packing, EXW USD — which band do your CCTV partners order most?
+Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 3 October 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the Vivotek and Netgear PoE switches you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and commercial 8/24-PoE L2+ models from small lots, CE/RoHS, neutral packing, EXW USD — which band do your CCTV partners order most?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your Vivotek AW-IHB-1040 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

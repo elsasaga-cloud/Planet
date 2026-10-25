@@ -257,7 +257,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "L3 Managed Switch" on 2025-02-17 - and there was no reason to answer a mass mail. This one is specific. For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?
+Some time ago you had a product mail from us - "L3 Managed Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the KGS/KGC industrial switch and media converter lines, we can be a second source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit MC) from small lots — is there an entry model you would rather source than build?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

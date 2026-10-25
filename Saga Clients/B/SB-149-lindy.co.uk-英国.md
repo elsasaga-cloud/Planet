@@ -280,7 +280,7 @@ updated: 2026-10-25
 ```text
 Hi Megan,
 
-Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-21 - and there was no reason to answer a mass mail. This one is specific. For the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
+Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 21 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source (5/8-port DIN-rail, −40~75 °C; 8-port desktop; managed versions on a Marvell platform) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
 

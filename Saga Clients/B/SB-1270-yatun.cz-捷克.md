@@ -237,7 +237,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-28 - and there was no reason to answer a mass mail. This one is specific. Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

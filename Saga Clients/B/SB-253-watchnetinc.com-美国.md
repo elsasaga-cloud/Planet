@@ -311,7 +311,7 @@ updated: 2026-10-25
 ```text
 Hi Harish,
 
-Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 2026-09-14 - and there was no reason to answer a mass mail. This one is specific. For the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most?
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 14 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Utepo class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
 

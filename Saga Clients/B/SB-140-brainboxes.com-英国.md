@@ -279,7 +279,7 @@ updated: 2026-10-25
 ```text
 Hi Luke,
 
-Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 2025-02-18 - and there was no reason to answer a mass mail. This one is specific. For the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?
+Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 18 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the 5- and 8-port unmanaged industrial switches you'd brand as Brainboxes — DIN, 12–48 V, −40~75 ℃, CE/UKCA, from small lots; what warranty term do you need from the factory to back your lifetime promise?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
 

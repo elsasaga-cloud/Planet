@@ -228,7 +228,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-21 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches inside your queue-management kiosks and traffic cabinets, we supply compact DIN-rail 5-GE and 8-GE units (unmanaged or managed with 2 SFP, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your cabinet designs use most?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
 

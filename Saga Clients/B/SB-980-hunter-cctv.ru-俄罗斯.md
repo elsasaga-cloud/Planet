@@ -239,7 +239,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-26 - and there was no reason to answer a mass mail. This one is specific. For the HN-SW5P / HN-SW8P PoE switches under the HUNTER label, we can supply the same layouts on a Marvell platform (plus an 8-PoE + 2 SFP L2+ step-up) from small lots in your housing — which HN-SW model do your dealers reorder most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the HN-SW5P / HN-SW8P PoE switches under the HUNTER label, we can supply the same layouts on a Marvell platform (plus an 8-PoE + 2 SFP L2+ step-up) from small lots in your housing — which HN-SW model do your dealers reorder most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

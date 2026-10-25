@@ -259,7 +259,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "L3 Managed Switch" on 2025-04-03 - and there was no reason to answer a mass mail. This one is specific. For the ABCVISION-branded PoE switches listed on Ceneo, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget unmanaged 4/8-PoE units from small lots in your packaging, CE/RoHS — which model do you reorder most often?
+Some time ago you had a product mail from us - "L3 Managed Switch" on 3 April 2025 - and there was no reason to answer a mass mail. This one is specific. For the ABCVISION-branded PoE switches listed on Ceneo, we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP) plus budget unmanaged 4/8-PoE units from small lots in your packaging, CE/RoHS — which model do you reorder most often?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

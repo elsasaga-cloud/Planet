@@ -287,7 +287,7 @@ updated: 2026-10-25
 ```text
 Hi Stephane,
 
-Some time ago you had a product mail from us - "90W PoE Managed Switch" on 2025-02-17 - and there was no reason to answer a mass mail. This one is specific. For the industrial and managed switches sold under the Kyolis label next to your fibre/coax converters, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE rack L2+, gigabit MC; CE/RoHS) from small lots in your housing — which switch model do your French integrators reorder most?
+Some time ago you had a product mail from us - "90W PoE Managed Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial and managed switches sold under the Kyolis label next to your fibre/coax converters, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 24-PoE rack L2+, gigabit MC; CE/RoHS) from small lots in your housing — which switch model do your French integrators reorder most?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $85.5 USD EXW (valid 15 days).
 

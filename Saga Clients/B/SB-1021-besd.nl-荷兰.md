@@ -248,7 +248,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-13 - and there was no reason to answer a mass mail. This one is specific. Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a neutral-brand DIN-rail 8-GE + 2 SFP line (unmanaged, or managed on a Marvell platform) (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Advantech and other named industrial switch brands in your portfolio, we can supply a neutral-brand DIN-rail 8-GE + 2 SFP line (unmanaged, or managed on a Marvell platform) (and a 12-port bypass model) from small lots for price-sensitive projects — is there room for a budget tier in your industrial Ethernet range?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

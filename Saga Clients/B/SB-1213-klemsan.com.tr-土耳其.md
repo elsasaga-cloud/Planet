@@ -210,7 +210,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-08-20 - and there was no reason to answer a mass mail. This one is specific. For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, 8-PoE + 2 SFP; −40~75 °C, CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled against your current Volktek unit?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
 

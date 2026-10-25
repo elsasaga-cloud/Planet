@@ -245,7 +245,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-04-01 - and there was no reason to answer a mass mail. This one is specific. For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 1 April 2025 - and there was no reason to answer a mass mail. This one is specific. For the switches you bundle with your industrial PCs and Delock accessories, we supply DIN-rail 5/8-port gigabit units and a budget 8-port desktop model in neutral packing from small lots, CE/RoHS — would an industrial switch SKU fit your range?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $31.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -275,7 +275,7 @@ updated: 2026-10-25
 ```text
 Hi Franck,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 2025-02-12 - and there was no reason to answer a mass mail. This one is specific. For the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
+Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 12 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the Elfcam-branded switch pages (PoE and 10G), we build Marvell-based 24-GE + 4×10G SFP+ L2+ and 8-PoE + 2 SFP models under your label from small lots, CE/RoHS, neutral packing — which page needs a stronger-housing model first, the PoE or the 10G one?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $138 USD EXW (valid 15 days).
 

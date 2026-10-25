@@ -293,7 +293,7 @@ updated: 2026-10-25
 ```text
 Hi Mohammad,
 
-Some time ago you had a few product mails from us - most recently "Industrial PoE Switch" on 2025-11-20 - and there was no reason to answer a mass mail. This one is specific. For the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?
+Some time ago you had a few product mails from us - most recently "Industrial PoE Switch" on 20 November 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial-switch line you promote in KSA alongside N-net, we supply DIN-rail 8-port PoE+ switches with 2 SFP (−40~75 °C) and the managed version (Marvell platform), neutral packing from small lots — is unmanaged or managed the bigger volume for your KSA projects?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the N-net class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $60 USD EXW (valid 15 days).
 

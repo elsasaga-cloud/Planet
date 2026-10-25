@@ -266,7 +266,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "90W PoE Managed Switch" on 2025-02-10 - and there was no reason to answer a mass mail. This one is specific. For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most?
+Some time ago you had a product mail from us - "90W PoE Managed Switch" on 10 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial and commercial switches on your platform, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP, 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which switch SKU do your customers order most?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
 

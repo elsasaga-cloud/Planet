@@ -288,7 +288,7 @@ updated: 2026-10-25
 ```text
 Hi Hamid,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-04 - and there was no reason to answer a mass mail. This one is specific. For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the 24-port unmanaged PoE with 2 SFP you asked about (all-gigabit, 300 W, 250 m extend mode), our price is $93.5 EXW and the 8-port gigabit PoE is $25.1; shall I send the HA-coded label mock-up with the quote?
 
 We supply a 24-port Gigabit PoE switch with 2 SFP uplinks (unmanaged, 300 W) - model STC-2024GP - that fits the same slot as your HiLook NS-0109P-60 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $93.5 USD EXW (valid 15 days).
 

@@ -271,7 +271,7 @@ updated: 2026-10-25
 ```text
 Hi Stefano,
 
-Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 2025-02-17 - and there was no reason to answer a mass mail. This one is specific. Alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive?
+Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the CTCU class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
 

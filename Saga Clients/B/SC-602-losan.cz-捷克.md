@@ -229,7 +229,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-28 - and there was no reason to answer a mass mail. This one is specific. Your e-shop keeps the PLANET IGS-10020MT in stock at 8 351 Kč net — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives that slot a second source with room for your own margin. For your school and institutional projects, is the 8-port Gigabit + 2×SFP managed class (IGS-10020MT) the unit you move most, or the 4-port IGS-4215-4T2S — so I send the matching sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific. Your e-shop keeps the PLANET IGS-10020MT in stock at 8 351 Kč net — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives that slot a second source with room for your own margin. For your school and institutional projects, is the 8-port Gigabit + 2×SFP managed class (IGS-10020MT) the unit you move most, or the 4-port IGS-4215-4T2S — so I send the matching sample first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit plus 2 SFP - model STI-280GM - that fits the same slot as your PLANET IGS-10020MT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $68.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

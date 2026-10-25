@@ -210,7 +210,7 @@ updated: 2026-10-25
 ```text
 Hi Issac,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-04 - and there was no reason to answer a mass mail. This one is specific. Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific. Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $127.4 USD EXW (valid 15 days).
 

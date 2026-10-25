@@ -213,7 +213,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. Your CCTV network range carries the WGS-4215-8P2S class for installers; an EXW second source for that 8-port Gigabit PoE managed industrial tier gives your B2B accounts the same slot at a lower landed cost. For the CCTV installs your B2B accounts quote today, is the 8-port Gigabit PoE managed industrial tier the one that moves most, or the 16/24-port commercial PoE?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. Your CCTV network range carries the WGS-4215-8P2S class for installers; an EXW second source for that 8-port Gigabit PoE managed industrial tier gives your B2B accounts the same slot at a lower landed cost. For the CCTV installs your B2B accounts quote today, is the 8-port Gigabit PoE managed industrial tier the one that moves most, or the 16/24-port commercial PoE?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your PLANET WGS-4215-8P2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $139.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

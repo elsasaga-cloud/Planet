@@ -243,7 +243,7 @@ updated: 2026-10-25
 ```text
 Hi Manu,
 
-Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-03-29 - and there was no reason to answer a mass mail. This one is specific. Alongside the D-Link range you sell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD — is there a price point below D-Link that your business customers ask for?
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 29 March 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the D-Link range you sell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD — is there a price point below D-Link that your business customers ask for?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the Moxa class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

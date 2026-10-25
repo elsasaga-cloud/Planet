@@ -214,7 +214,7 @@ updated: 2026-10-25
 ```text
 Hi Sonja,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. Alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $46 USD EXW (valid 15 days).
 

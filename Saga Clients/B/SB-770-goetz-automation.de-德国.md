@@ -252,7 +252,7 @@ updated: 2026-10-25
 ```text
 Hi Peter,
 
-Some time ago you had a product mail from us - "Industrial PoE Switch" on 2025-02-12 - and there was no reason to answer a mass mail. This one is specific. For the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
+Some time ago you had a product mail from us - "Industrial PoE Switch" on 12 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the small switches in your machine and plant automation cabinets, we supply DIN-rail 5-GE unmanaged, 4-PoE + 1 GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — do your panels still need 24 V-input PoE (boost) models?
 
 We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $17.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

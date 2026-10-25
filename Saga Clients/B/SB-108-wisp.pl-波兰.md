@@ -286,7 +286,7 @@ updated: 2026-10-25
 ```text
 Hi Artur,
 
-Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-04-03 - and there was no reason to answer a mass mail. This one is specific. Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; an 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec. For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 3 April 2025 - and there was no reason to answer a mass mail. This one is specific. Your industrial DIN-rail shelf already mixes PLANET (ISW-621 class) with Chinese-made Scodeno units; an 8-port Gigabit + 2 SFP industrial switch at EXW fits the WISP tower slot between the two on price and spec. For the industrial DIN-rail switches your WISP customers buy for towers, is the unmanaged 8×GE + 2×SFP the volume model, or do they still take Fast Ethernet units like the ISW-621?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as your PLANET ISW-621 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

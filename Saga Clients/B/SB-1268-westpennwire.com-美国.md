@@ -223,7 +223,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 

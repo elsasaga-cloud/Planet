@@ -277,7 +277,7 @@ updated: 2026-10-25
 ```text
 Hi Werner,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. Your industrial network programme already carries PLANET next to ORing — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives your project quotes a cost-efficient second source in the 8-port PoE+ class. In your industrial network projects, is the 8-port Gigabit PoE+ managed DIN-rail class the unit you quote most often, or the non-PoE 8×GE + 2×SFP managed class — so I send the matching sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. Your industrial network programme already carries PLANET next to ORing — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives your project quotes a cost-efficient second source in the 8-port PoE+ class. In your industrial network projects, is the 8-port Gigabit PoE+ managed DIN-rail class the unit you quote most often, or the non-PoE 8×GE + 2×SFP managed class — so I send the matching sample first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your PLANET IAP-1800AX at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

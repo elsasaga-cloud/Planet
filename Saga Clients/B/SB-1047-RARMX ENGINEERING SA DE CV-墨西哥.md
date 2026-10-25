@@ -247,7 +247,7 @@ updated: 2026-10-25
 ```text
 Hi Marisol,
 
-Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 2026-09-15 - and there was no reason to answer a mass mail. This one is specific. Following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 15 September 2026 - and there was no reason to answer a mass mail. This one is specific. Following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
 
 We supply an industrial DIN-rail 5-port Gigabit switch (unmanaged) - model STI-050GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $17.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

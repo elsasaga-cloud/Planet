@@ -257,7 +257,7 @@ updated: 2026-10-25
 ```text
 Hi Filippo,
 
-Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-04-01 - and there was no reason to answer a mass mail. This one is specific. Alongside the PLANET industrial range you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your integrator customers ask for?
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 1 April 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the PLANET industrial range you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your integrator customers ask for?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

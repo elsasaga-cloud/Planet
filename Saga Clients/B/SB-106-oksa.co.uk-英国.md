@@ -296,7 +296,7 @@ updated: 2026-10-25
 ```text
 Hi James,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 2025-03-30 - and there was no reason to answer a mass mail. This one is specific. Your industrial networking shelf is built on PLANET IGS / WGS units — a neutral-packed Marvell-based DIN-rail line at EXW gives you a second source for the same slots without touching your lowest-price guarantee. Which industrial managed switch sizes do your automation customers specify most — 8-port Gigabit (IGS-801M class) or PoE+ variants — so I send the right sample first?
+Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 30 March 2025 - and there was no reason to answer a mass mail. This one is specific. Your industrial networking shelf is built on PLANET IGS / WGS units — a neutral-packed Marvell-based DIN-rail line at EXW gives you a second source for the same slots without touching your lowest-price guarantee. Which industrial managed switch sizes do your automation customers specify most — 8-port Gigabit (IGS-801M class) or PoE+ variants — so I send the right sample first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit plus 2 SFP - model STI-280GM - that fits the same slot as your PLANET IGS-801M at a lower landed cost, and we can ship it with neutral packaging. Current price: $68.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

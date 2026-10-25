@@ -264,7 +264,7 @@ updated: 2026-10-25
 ```text
 Hi Corinne,
 
-Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-28 - and there was no reason to answer a mass mail. This one is specific. You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?
+Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 28 February 2025 - and there was no reason to answer a mass mail. This one is specific. You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET GS-4210-24P4C at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -265,7 +265,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a few product mails from us - most recently "Industrial PoE Switch" on 2025-11-18 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?
+Some time ago you had a few product mails from us - most recently "Industrial PoE Switch" on 18 November 2025 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the H3C class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -251,7 +251,7 @@ updated: 2026-10-25
 ```text
 Hi Lloyd,
 
-Some time ago you had a product mail from us - "48 Port PoE Managed Switch" on 2025-02-27 - and there was no reason to answer a mass mail. This one is specific. Following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?
+Some time ago you had a product mail from us - "48 Port PoE Managed Switch" on 27 February 2025 - and there was no reason to answer a mass mail. This one is specific. Following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $132.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

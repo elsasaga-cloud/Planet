@@ -282,7 +282,7 @@ updated: 2026-10-25
 ```text
 Hi David,
 
-Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-25 - and there was no reason to answer a mass mail. This one is specific. For the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
+Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 25 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the rugged industrial switch line in the KBC range, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C) from small lots with FCC/CE/RoHS reports — which model would you consider dual-sourcing first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (valid 15 days).
 

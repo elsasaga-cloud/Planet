@@ -223,7 +223,7 @@ updated: 2026-10-25
 ```text
 Hi Akaloosha,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-06 - and there was no reason to answer a mass mail. This one is specific. Following your request for ten 8-port copper switches: we can supply either a DIN-rail industrial 8-GE unit (−40~75 °C, 12–57 V, for inside the simulator cabinet) or a desktop 8-GE model, CE/RoHS, EXW USD, 10–15 days — which mounting and input voltage does your simulator need?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 6 August 2026 - and there was no reason to answer a mass mail. This one is specific. Following your request for ten 8-port copper switches: we can supply either a DIN-rail industrial 8-GE unit (−40~75 °C, 12–57 V, for inside the simulator cabinet) or a desktop 8-GE model, CE/RoHS, EXW USD, 10–15 days — which mounting and input voltage does your simulator need?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $34.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

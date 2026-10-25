@@ -260,7 +260,7 @@ updated: 2026-10-25
 ```text
 Hi David,
 
-Some time ago you had a product mail from us - "L3 Managed Switch" on 2025-02-28 - and there was no reason to answer a mass mail. This one is specific. For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
+Some time ago you had a product mail from us - "L3 Managed Switch" on 28 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation.
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $132.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

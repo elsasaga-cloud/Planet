@@ -267,7 +267,7 @@ updated: 2026-10-25
 ```text
 Hi Monika,
 
-Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 2025-10-09 - and there was no reason to answer a mass mail. This one is specific. For the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?
+Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 9 October 2025 - and there was no reason to answer a mass mail. This one is specific. For the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $24.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

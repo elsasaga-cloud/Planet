@@ -230,7 +230,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (valid 15 days).
 

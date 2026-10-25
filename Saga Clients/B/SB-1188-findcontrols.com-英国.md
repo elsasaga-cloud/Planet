@@ -250,7 +250,7 @@ updated: 2026-10-25
 ```text
 Hi Deepak,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-04 - and there was no reason to answer a mass mail. This one is specific. For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
 
 We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -251,7 +251,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-13 - and there was no reason to answer a mass mail. This one is specific. For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your Hirschmann GREYHOUND2000 at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

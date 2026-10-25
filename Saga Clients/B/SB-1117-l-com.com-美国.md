@@ -261,7 +261,7 @@ updated: 2026-10-25
 ```text
 Hi Steve,
 
-Some time ago you had a product mail from us - "16 Port Ethernet Switch" on 2025-02-28 - and there was no reason to answer a mass mail. This one is specific. For the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?
+Some time ago you had a product mail from us - "16 Port Ethernet Switch" on 28 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the L-com-branded industrial PoE switches and media converters — DIN 2-SFP + 8-PoE (and Marvell managed version) from small lots, FCC/CE (no UL); is UL listing mandatory for that category in your catalogue, or only for AC-powered units?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $62.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

@@ -263,7 +263,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 2025-10-09 - and there was no reason to answer a mass mail. This one is specific. For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?
+Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 9 October 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial range beside ORing — DIN 2-SFP + 8-PoE at $57 EXW (managed Marvell $79) and gigabit MC at $22; who is the buyer for active network products at Atel, so I send the sheet directly?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the Oring class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

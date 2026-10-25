@@ -210,7 +210,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Alongside the PLANET industrial switches you list, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters from single units, FCC/CE/RoHS, EXW USD — is there a budget industrial position your customers ask for below the branded lines?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the PLANET industrial switches you list, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit media converters from single units, FCC/CE/RoHS, EXW USD — is there a budget industrial position your customers ask for below the branded lines?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

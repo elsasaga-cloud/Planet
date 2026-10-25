@@ -228,7 +228,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-04 - and there was no reason to answer a mass mail. This one is specific. Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Elvox and Soyal door-entry systems you stock, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and budget 4/8-port PoE units for IP intercom and camera installs, CE/RoHS/UKCA, EXW USD — which port count do your installers buy most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 

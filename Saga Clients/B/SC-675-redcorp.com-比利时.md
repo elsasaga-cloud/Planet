@@ -241,7 +241,7 @@ updated: 2026-10-25
 ```text
 Hi Ronald,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-13 - and there was no reason to answer a mass mail. This one is specific. Your PLANET page is dense with industrial IGS units at € 230–1 130 — a neutral-packed Marvell-based DIN-rail line at EXW gives the same slots at roughly one fifth of the price. On the industrial PLANET units you list (IGS-4215 / IGS-5225 class), do customers mostly buy the PoE+ managed models or the compact unmanaged ones — so I quote the right slot first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. Your PLANET page is dense with industrial IGS units at € 230–1 130 — a neutral-packed Marvell-based DIN-rail line at EXW gives the same slots at roughly one fifth of the price. On the industrial PLANET units you list (IGS-4215 / IGS-5225 class), do customers mostly buy the PoE+ managed models or the compact unmanaged ones — so I quote the right slot first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as your PLANET IGS-4215-8P2T2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

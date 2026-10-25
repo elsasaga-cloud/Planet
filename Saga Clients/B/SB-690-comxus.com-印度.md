@@ -269,7 +269,7 @@ updated: 2026-10-25
 ```text
 Hi Umesh,
 
-Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 2026-04-01 - and there was no reason to answer a mass mail. This one is specific. For the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
+Over the past months you had a few product mails from us - most recently "Marvell Managed Commercial Switches" on 1 April 2026 - and there was no reason to answer a mass mail. This one is specific. For the CX-NPA 8- and 16-port industrial PoE models, we can be a second ODM source on a Marvell platform (8 PoE + 4 SFP L2+, 16 PoE + 2 SFP, −40~75 °C) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 4x 2.5G SFP - model STI-488DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $159.3 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

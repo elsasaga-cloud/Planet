@@ -229,7 +229,7 @@ updated: 2026-10-25
 ```text
 Hi Arjun,
 
-Over the past months you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 2026-05-12 - and there was no reason to answer a mass mail. This one is specific. For the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?
+Over the past months you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 12 May 2026 - and there was no reason to answer a mass mail. This one is specific. For the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $82.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

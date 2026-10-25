@@ -877,6 +877,15 @@ def hook_lang(hk):
         t = t[0].upper() + t[1:]
     return t, ''
 
+
+def _dfmt(iso):
+    """2026-09-04 → 4 September 2026（英文信里的日期写法）"""
+    try:
+        d = dt.date.fromisoformat(str(iso)[:10])
+        return f'{d.day} {d.strftime("%B")} {d.year}'
+    except Exception:
+        return str(iso)
+
 def email_draft(ent, g, typ, p1, tier, brands, first_q):
     if g == 'C':
         return '> C 级不出邮件样板（不主动跟进）。'
@@ -906,7 +915,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
                 op0 = 'Picking up our earlier exchange about PoE / industrial switches.'
             elif et0:
                 op0 = (f'{"Over the past months" if et0[1] >= "2026-04-01" else "Some time ago"} you had '
-                       f'{"a few product mails" if et0[0] >= 2 else "a product mail"} from us - {"most recently " if et0[0] >= 2 else ""}"{et0[2]}" on {et0[1]} - '
+                       f'{"a few product mails" if et0[0] >= 2 else "a product mail"} from us - {"most recently " if et0[0] >= 2 else ""}"{et0[2]}" on {_dfmt(et0[1])} - '
                        f'and there was no reason to answer a mass mail. This one is specific.')
             else:
                 op0 = 'We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue.'
@@ -961,7 +970,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         many = 'a few product mails' if n >= 2 else 'a product mail'
         when = 'Over the past months' if last_d >= '2026-04-01' else 'Some time ago'
         recent = 'most recently ' if n >= 2 else ''
-        opener = (f'{when} you had {many} from us - {recent}"{last_s}" on {last_d} - '
+        opener = (f'{when} you had {many} from us - {recent}"{last_s}" on {_dfmt(last_d)} - '
                   f'and there was no reason to answer a mass mail. This one is specific.')
     if et and et[3].get(p1):
         seen_pr, seen_d = et[3][p1]

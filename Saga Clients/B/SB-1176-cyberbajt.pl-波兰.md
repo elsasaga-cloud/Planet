@@ -266,7 +266,7 @@ updated: 2026-10-25
 ```text
 Hi Michał,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. You list the PLANET WGS-4215-8P2S next to Moxa and Antaira DIN-rail units; a Marvell-based 8×GE PoE + 2 SFP managed switch at EXW slots in between on price, and the same factory line covers the industrial DIN-rail class. For the 8-port PoE managed slot where you list the PLANET WGS-4215-8P2S, is your volume in that wall-mount managed unit, or in the unmanaged GSD-804P desktop class?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. You list the PLANET WGS-4215-8P2S next to Moxa and Antaira DIN-rail units; a Marvell-based 8×GE PoE + 2 SFP managed switch at EXW slots in between on price, and the same factory line covers the industrial DIN-rail class. For the 8-port PoE managed slot where you list the PLANET WGS-4215-8P2S, is your volume in that wall-mount managed unit, or in the unmanaged GSD-804P desktop class?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your PLANET WGS-4215-8P2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

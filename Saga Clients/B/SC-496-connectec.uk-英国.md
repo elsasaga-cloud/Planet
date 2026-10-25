@@ -221,7 +221,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-08-25 - and there was no reason to answer a mass mail. This one is specific. PLANET is the one networking brand on your trade counter; a second-source industrial PoE+ switch with the same 3-year cover gives your installers a lower price point on camera jobs. On your installers' camera jobs, is the 8-port industrial PoE+ (IGS-5225 class) what they take most, or the rack-mount 8/16/24-port units?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 25 August 2026 - and there was no reason to answer a mass mail. This one is specific. PLANET is the one networking brand on your trade counter; a second-source industrial PoE+ switch with the same 3-year cover gives your installers a lower price point on camera jobs. On your installers' camera jobs, is the 8-port industrial PoE+ (IGS-5225 class) what they take most, or the rack-mount 8/16/24-port units?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 4x 2.5G SFP - model STI-488DGGPM - that fits the same slot as your PLANET IGS-5225-8P4S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $147.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

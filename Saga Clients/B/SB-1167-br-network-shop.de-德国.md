@@ -219,7 +219,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. For the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

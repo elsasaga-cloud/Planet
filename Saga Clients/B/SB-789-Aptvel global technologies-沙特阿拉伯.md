@@ -239,7 +239,7 @@ updated: 2026-10-25
 ```text
 Hi Arunima,
 
-Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 2025-10-03 - and there was no reason to answer a mass mail. This one is specific. For the PLANET 48-port requirement — our 48 GE + 4×10G SFP+ L2+ (Marvell) is $275 EXW at 1 pc, PoE version $349; and yes we have a fibre-bypass industrial model. Is the 48-port for a non-PoE core or camera aggregation?
+Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 3 October 2025 - and there was no reason to answer a mass mail. This one is specific. For the PLANET 48-port requirement — our 48 GE + 4×10G SFP+ L2+ (Marvell) is $275 EXW at 1 pc, PoE version $349; and yes we have a fibre-bypass industrial model. Is the 48-port for a non-PoE core or camera aggregation?
 
 We supply a Marvell-based 48-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-448XGGM - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $274.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

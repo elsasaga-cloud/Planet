@@ -241,7 +241,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. For the ESN industrial Ethernet switch line in your catalogue, we supply DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the ESN industrial Ethernet switch line in your catalogue, we supply DIN-rail 5-GE and 8-GE unmanaged units (−40~75 °C, 12–57 V, CE/RoHS) neutral-brand from single units, EXW USD — which port count do your panel-builder customers order most?
 
 We supply an industrial DIN-rail 8-port Gigabit switch (unmanaged) - model STI-080GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $31.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

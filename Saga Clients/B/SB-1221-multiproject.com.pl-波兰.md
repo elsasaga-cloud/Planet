@@ -239,7 +239,7 @@ updated: 2026-10-25
 ```text
 Hi Damian,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?
 
 We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-244GP - that fits the same slot as your PLANET IGS-624HPT at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

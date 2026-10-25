@@ -267,7 +267,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "Industrial PoE Switch" on 2025-02-24 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches you combine with your IEC 61850 and IEC 101/104 gateways in energy-automation cabinets, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units — which configuration do your substation projects use most?
+Some time ago you had a product mail from us - "Industrial PoE Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the industrial switches you combine with your IEC 61850 and IEC 101/104 gateways in energy-automation cabinets, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, redundant 12–57 V input, CE/RoHS) from single units — which configuration do your substation projects use most?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $48.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

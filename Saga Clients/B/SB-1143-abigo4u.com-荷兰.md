@@ -210,7 +210,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "Industrial PoE Switch" on 2025-02-16 - and there was no reason to answer a mass mail. This one is specific. Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?
+Some time ago you had a product mail from us - "Industrial PoE Switch" on 16 February 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 

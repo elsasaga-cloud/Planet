@@ -258,7 +258,7 @@ updated: 2026-10-25
 ```text
 Hi Ramachandra,
 
-Some time ago you had a few product mails from us - most recently "Updated Ethernet Switches Links" on 2026-03-02 - and there was no reason to answer a mass mail. This one is specific. To close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?
+Some time ago you had a few product mails from us - most recently "Updated Ethernet Switches Links" on 2 March 2026 - and there was no reason to answer a mass mail. This one is specific. To close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit plus 2 SFP - model STI-280GM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $71.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

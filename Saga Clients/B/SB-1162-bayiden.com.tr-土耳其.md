@@ -233,7 +233,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-08-20 - and there was no reason to answer a mass mail. This one is specific. Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific. Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 

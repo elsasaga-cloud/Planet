@@ -290,7 +290,7 @@ updated: 2026-10-25
 ```text
 Hi Gun,
 
-Some time ago you had a product mail from us - "Industrial PoE Switch" on 2025-02-13 - and there was no reason to answer a mass mail. This one is specific. To complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?
+Some time ago you had a product mail from us - "Industrial PoE Switch" on 13 February 2025 - and there was no reason to answer a mass mail. This one is specific. To complement the C4Line extender range, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 4-PoE + 1 SFP industrial switches under your label from small lots, CE/RoHS; KC by your side — is a PoE switch SKU something your OEM/ODM roadmap covers?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (valid 15 days).
 

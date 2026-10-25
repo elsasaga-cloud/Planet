@@ -262,7 +262,7 @@ updated: 2026-10-25
 ```text
 Hi Bartosz,
 
-Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-04-03 - and there was no reason to answer a mass mail. This one is specific. Alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 3 April 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the 3onedata industrial switches you supply to BMS and CCTV integrators, we offer DIN-rail 8-PoE + 2 SFP managed and 8-GE unmanaged units (−40~75 °C, CE/RoHS, neutral packing) from small lots — which 3onedata model do you ship most, so we quote its equivalent first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

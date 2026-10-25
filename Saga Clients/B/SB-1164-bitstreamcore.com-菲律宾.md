@@ -229,7 +229,7 @@ updated: 2026-10-25
 ```text
 Hi Engr,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-06 - and there was no reason to answer a mass mail. This one is specific. Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 6 August 2026 - and there was no reason to answer a mass mail. This one is specific. Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.
 
 We supply an industrial compact switch, 2x Gigabit plus 2 SFP (unmanaged) - model STI-220GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $29.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

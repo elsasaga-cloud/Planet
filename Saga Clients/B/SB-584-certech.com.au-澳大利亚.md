@@ -280,7 +280,7 @@ updated: 2026-10-25
 ```text
 Hi Sophia,
 
-Some time ago you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 2025-10-04 - and there was no reason to answer a mass mail. This one is specific. Alongside the Edimax industrial switches you carry, we can add a neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?
+Some time ago you had a few product mails from us - most recently "10G Enterprise SFP Switch" on 4 October 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the Edimax industrial switches you carry, we can add a neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as your Edimax IGS-1210P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

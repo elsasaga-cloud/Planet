@@ -221,7 +221,7 @@ updated: 2026-10-25
 ```text
 Hi Hussen,
 
-Some time ago you had a few product mails from us - most recently "8 Port Industrial PoE Switch" on 2025-06-05 - and there was no reason to answer a mass mail. This one is specific. For camera poles you said you really need fibre uplink + PoE — the 1-SFP + 4-PoE DIN unit is $39 EXW and the 2-SFP + 8-PoE is $60; which fits the pole count?
+Some time ago you had a few product mails from us - most recently "8 Port Industrial PoE Switch" on 5 June 2025 - and there was no reason to answer a mass mail. This one is specific. For camera poles you said you really need fibre uplink + PoE — the 1-SFP + 4-PoE DIN unit is $39 EXW and the 2-SFP + 8-PoE is $60; which fits the pole count?
 
 We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 SFP and 1 copper uplink (unmanaged) - model STI-154GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $39.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

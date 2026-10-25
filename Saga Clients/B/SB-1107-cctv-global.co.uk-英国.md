@@ -277,7 +277,7 @@ updated: 2026-10-25
 ```text
 Hi Iain,
 
-Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 2025-02-21 - and there was no reason to answer a mass mail. This one is specific. Next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?
+Some time ago you had a product mail from us - "Mini Industrial PoE Switch" on 21 February 2025 - and there was no reason to answer a mass mail. This one is specific. Next to the Ruijie ES106F-P and Hikvision DS-3E11xx PoE switches you stock, we supply a neutral-brand 8-port PoE+ L2+ switch (2 SFP) and a budget 4/8-port unmanaged PoE line from small lots with UKCA/CE — which price band do your installers buy most, unmanaged or managed?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your Ruijie/Reyee RG-ES106F-P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 

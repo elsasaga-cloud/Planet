@@ -294,7 +294,7 @@ updated: 2026-10-25
 ```text
 Hi Gianni,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 2025-02-17 - and there was no reason to answer a mass mail. This one is specific. Next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?
+Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. Next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?
 
 We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 SFP and 1 copper uplink (unmanaged) - model STI-154GP - that fits the same slot as your Maiwe MIEN2205P-4T at a lower landed cost, and we can ship it with neutral packaging. Current price: $39.2 USD EXW (valid 15 days).
 

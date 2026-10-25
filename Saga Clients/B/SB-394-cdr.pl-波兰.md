@@ -272,7 +272,7 @@ updated: 2026-10-25
 ```text
 Hi Magdalena,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-01 - and there was no reason to answer a mass mail. This one is specific. For your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific. For your ISP customers — a Marvell L2+ 24-GE + 4×10G SFP+ at $127 EXW (PoE version $181), neutral box, EU-ready CE/RoHS; would a 2-unit trial next to the MikroTik CRS line make sense?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

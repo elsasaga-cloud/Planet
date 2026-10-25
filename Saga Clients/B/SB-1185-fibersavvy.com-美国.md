@@ -230,7 +230,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
 

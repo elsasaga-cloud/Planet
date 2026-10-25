@@ -260,7 +260,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 2026-08-20 - and there was no reason to answer a mass mail. This one is specific. For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?
+Over the past months you had a product mail from us - "24 Port PoE Managed Switch" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the Marvell-based positions in the Tayle range, we can offer industrial DIN-rail 8-GE + 2 SFP managed, industrial L3 16-PoE + 4×10G, and commercial 24-GE + 4×10G L2+ platforms in your packaging from small lots, CE/RoHS; EAC by your side — which Marvell SKU family would you evaluate first?
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit plus 2 SFP - model STI-280GM - that fits the same slot as the Oring class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $73.8 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

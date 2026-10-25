@@ -244,7 +244,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-05 - and there was no reason to answer a mass mail. This one is specific. Alongside the Huawei eKit, Ruijie and Ubiquiti lines you distribute, we supply neutral-brand or Simplifi-labelled Marvell-based DIN-rail 8-PoE + 2 SFP and commercial 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which band do your East African resellers order most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 5 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Huawei eKit, Ruijie and Ubiquiti lines you distribute, we supply neutral-brand or Simplifi-labelled Marvell-based DIN-rail 8-PoE + 2 SFP and commercial 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which band do your East African resellers order most?
 
 We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

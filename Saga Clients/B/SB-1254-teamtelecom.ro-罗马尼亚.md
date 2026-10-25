@@ -228,7 +228,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-13 - and there was no reason to answer a mass mail. This one is specific. Alongside the PLANET industrial switches and Alcatel-Lucent OmniSwitch lines you carry, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE+ option) and DIN-rail 8-PoE + 2 SFP units from small lots, CE/RoHS, EXW USD — which PLANET model do your projects use most, so we quote its equivalent?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the PLANET industrial switches and Alcatel-Lucent OmniSwitch lines you carry, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE+ option) and DIN-rail 8-PoE + 2 SFP units from small lots, CE/RoHS, EXW USD — which PLANET model do your projects use most, so we quote its equivalent?
 
 We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

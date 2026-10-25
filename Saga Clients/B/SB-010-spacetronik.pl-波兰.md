@@ -267,7 +267,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 2025-04-03 - and there was no reason to answer a mass mail. This one is specific. For the Spacetronik-branded switch range, we can add a Marvell-based tier above your current models — 8-PoE + 2 SFP L2+ and 24-GE + 4×10G L2+ — from small lots in your housing and packaging, CE/RoHS; which of the two would fit your catalogue first?
+Some time ago you had a product mail from us - "Marvell Alleycat5 Solution" on 3 April 2025 - and there was no reason to answer a mass mail. This one is specific. For the Spacetronik-branded switch range, we can add a Marvell-based tier above your current models — 8-PoE + 2 SFP L2+ and 24-GE + 4×10G L2+ — from small lots in your housing and packaging, CE/RoHS; which of the two would fit your catalogue first?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

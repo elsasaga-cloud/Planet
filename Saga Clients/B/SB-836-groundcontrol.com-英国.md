@@ -285,7 +285,7 @@ updated: 2026-10-25
 ```text
 Hi Scotty,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 2025-02-24 - and there was no reason to answer a mass mail. This one is specific. For the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide?
+Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 24 February 2025 - and there was no reason to answer a mass mail. This one is specific. For the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide?
 
 We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 Gigabit uplink (unmanaged) - model STI-054GP - that fits the same slot as the Elink class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $32.5 USD EXW (valid 15 days).
 

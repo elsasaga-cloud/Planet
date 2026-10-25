@@ -222,7 +222,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-31 - and there was no reason to answer a mass mail. This one is specific. Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply DIN-rail 8-GE + 2 SFP (and PoE) switches (managed versions on a Marvell platform) and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Planet industrial switches and converters you list with your fiber assemblies, we supply DIN-rail 8-GE + 2 SFP (and PoE) switches (managed versions on a Marvell platform) and gigabit media converters in neutral packing from small lots, CE/RoHS — which Planet model sells most in your shop?
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the planet class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $46.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

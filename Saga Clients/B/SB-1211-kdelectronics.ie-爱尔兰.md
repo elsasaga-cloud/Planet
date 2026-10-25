@@ -229,7 +229,7 @@ updated: 2026-10-25
 ```text
 Hello,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-08-13 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the PoE switches your trade customers buy with Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model, DIN-rail industrial 8-PoE units and budget 4/8-port PoE switches from small lots, CE/RoHS, EXW USD — which band do your installers order most?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 

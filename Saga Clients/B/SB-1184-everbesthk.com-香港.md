@@ -276,7 +276,7 @@ updated: 2026-10-25
 ```text
 Hi Ariel,
 
-Some time ago you had a product mail from us - "90W PoE Managed Switch" on 2025-02-12 - and there was no reason to answer a mass mail. This one is specific. Alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?
+Some time ago you had a product mail from us - "90W PoE Managed Switch" on 12 February 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
 
