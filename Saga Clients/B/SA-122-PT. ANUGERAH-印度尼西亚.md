@@ -187,7 +187,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32 | $30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（经销/集成商） |
+| **P1** | STC-228GP | 深挖对位：默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32 | $34.6 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 25%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成商） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -244,7 +244,7 @@ Hi Nur,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $30.8 USD EXW (valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.6 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

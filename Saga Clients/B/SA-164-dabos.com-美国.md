@@ -198,7 +198,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-08GE | 深挖对位：TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。 | $10.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（综合采购/分销平台（非网络专业渠道）） |
+| **P1** | STC-08GE | 深挖对位：TRENDnet 8 电口对位 → HRUI 列表 STC-08GE（$10.5，非管理 8 GE）；PoE 管理型 STC-28DGGPM。 | $10.5 USD EXW（HRUI Realtek 线：Saga 对外列表价 $10.5（高于洪瑞 2026-09-30 成本 + 20% = $10.0）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（综合采购/分销平台（非网络专业渠道）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

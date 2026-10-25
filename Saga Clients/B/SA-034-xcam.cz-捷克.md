@@ -271,14 +271,14 @@ Hello,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the X-104GP-SFP slot in your shop, the 4-PoE + SFP DIN unit with 12–48 V input can ship in X- packing at $35.5 EXW; shall I send the label template for the next batch?
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the Elink class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
 Best regards,
 Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
 https://sagatele.com/
 ```
+
+> 钩子句自带价（$35.5）与 P1 STI-144GP 档价（$36.9）不同：样板未并入 P1 段落，一封信一个价；发前按 ㉕ 核钩子句的价是否仍有效。
 
 > 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
 

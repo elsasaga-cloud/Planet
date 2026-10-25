@@ -178,7 +178,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-028GFP | 深挖对位：百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。 | $17.6 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
+| **P1** | STC-028GFP | 深挖对位：百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。 | $18.7 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 25%（列表价 $17.6 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -235,7 +235,7 @@ Hi Gorgos,
 
 Picking up our earlier exchange about PoE / industrial switches. You priced 100 pcs of a 4+2 PoE unit with us last year — if that site is still open, send the port mix (100M or gigabit downlinks) and I'll quote the 8-port and 4-port versions EXW in one line each.
 
-We supply an 8-port Fast Ethernet PoE switch with 2 Gigabit uplinks (unmanaged) - model STC-028GFP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $17.6 USD EXW (valid 15 days).
+We supply an 8-port Fast Ethernet PoE switch with 2 Gigabit uplinks (unmanaged) - model STC-028GFP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $18.7 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -194,9 +194,46 @@ def load_alt_prices():
 ALT_PRICES = load_alt_prices()
 
 
+def load_hrui_tiers():
+    """HRUI Realtek 线三档价：data/价格主表_HRUI.csv（洪瑞 2026-09-30 报价单 CNY 不含税含运 → USD × 1.20/1.25/1.30）。
+    第 73 批口径：Saga 列表价隐含加价已低于 20% 底线的型号（028GP $24.2 → $25.1、228GP $30.8 → $33.2 …）按成本 + 档位报；
+    列表价高于档位价的沿用列表价（不低于自家公开价）。同一 Saga 型号对到多个 ZX 码时取 CSV 首行（对照表所对的 902 系列）。"""
+    fp = os.path.join(ROOT, 'data', '价格主表_HRUI.csv')
+    out = {}
+    if not os.path.exists(fp):
+        return out
+    for r in csv.DictReader(open(fp, encoding='utf-8-sig')):
+        for sm in [x.strip() for x in (r.get('Saga对应型号') or '').split('/') if x.strip()]:
+            if sm in out:
+                continue
+            try:
+                out[sm] = {20: float(r['USD@+20%']), 25: float(r['USD@+25%']), 30: float(r['USD@+30%']),
+                           'list': float(r['Saga列表价USD']) if r.get('Saga列表价USD') else None, 'zx': r['ZX型号'], 'rate_date': r.get('汇率日期', '')}
+            except (ValueError, KeyError):
+                continue
+    return out
+
+
+HRUI_TIERS = load_hrui_tiers()
+
+
+def hrui_price(model, tier):
+    """→ (price_float, basis_str) 或 None。max(成本+档位, Saga 列表价)。"""
+    t = HRUI_TIERS.get(model)
+    if not t:
+        return None
+    v = t.get(tier) or t[25]
+    if t.get('list') and t['list'] > v:
+        return t['list'], f'Saga 对外列表价 ${t["list"]}（高于洪瑞 2026-09-30 成本 + {tier}% = ${v}）'
+    return v, f'洪瑞 2026-09-30 成本 + {tier}%（列表价 ${t.get("list")} 隐含加价低于底线，第 73 批口径）'
+
+
 def price_line(model, tier):
     r = PRICES.get(model)
     if not r:
+        h = hrui_price(model, tier)
+        if h:
+            return f"${h[0]} USD EXW（HRUI Realtek 线：{h[1]}；见 data/价格主表_HRUI.csv；汇率 {HRUI_TIERS[model]['rate_date']}，15 天有效，报价前核价）"
         a = ALT_PRICES.get(model)
         if a:
             return f"${a[0]} USD EXW（Saga 对外列表价，{a[1]}，见 data/{a[2]}；非 SmartByte 加价公式，报价前核价）"
@@ -888,6 +925,8 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     col = {20: 'USD@+20%', 25: 'USD@+25%', 30: 'USD@+30%'}[tier]
     if r:
         price = f"${r[col]} USD EXW (price snapshot {r['汇率日期']}, valid 15 days)"
+    elif hrui_price(p1, tier):
+        price = f"${hrui_price(p1, tier)[0]} USD EXW (valid 15 days)"
     elif ALT_PRICES.get(p1):
         price = f"${ALT_PRICES[p1][0]} USD EXW (valid 15 days)"
     else:
@@ -973,11 +1012,16 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     short = re.split(r' \(|, ', desc)[0]
     subj = f'{p1} - {short} ({chip + ", " if chip else ""}neutral label)'
     hook_q = bool(hk) and '?' in hk  # 钩子句已带问题 → 不再叠加通用问句（一次只问一个问题）
+    # 钩子句自带价：与 P1 档价不同（差 > $1）→ 不再叠加 P1 段落（一封信一个价，钩子句为准，P1 段留注）
+    _hk_nums = [float(a or b) for a, b in re.findall(r'\$\s?(\d+(?:\.\d+)?)|(?<![\d.])(\d+(?:\.\d+)?)\s?USD', hk or '')]
+    _cur = re.search(r'\$([\d.]+)', price or '')
+    _cur = float(_cur.group(1)) if _cur else None
+    price_clash = bool(_hk_nums) and _cur is not None and all(abs(n - _cur) > 1.0 for n in _hk_nums)
+    para = (f"We supply {'a ' + chip + ' ' if chip else ('an ' if (desc[0] in 'aeiou' or desc.startswith(('8', '18', '80'))) else 'a ')}{desc} - model {p1} - that fits the same slot as {slot} at a lower landed cost, and we can ship it{oem}. "
+            f'Current price: {price}.')
     body = '\n'.join([
         hi, '',
-        opener, '',
-        f"We supply {'a ' + chip + ' ' if chip else ('an ' if (desc[0] in 'aeiou' or desc.startswith(('8', '18', '80'))) else 'a ')}{desc} - model {p1} - that fits the same slot as {slot} at a lower landed cost, and we can ship it{oem}. "
-        f'Current price: {price}.', ''] + ([] if hook_q else [f'One question: {first_q}', '']) + [
+        opener, ''] + ([] if price_clash else [para, '']) + ([] if hook_q else [f'One question: {first_q}', '']) + [
         'If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.', '',
         'Best regards,',
         'Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)',
@@ -986,6 +1030,8 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
     out = [f'**主题**：{subj}', '', '```text', body, '```', '']
     if hook_note:
         out += [f'> 研究档备注（未并入正文）：{hook_note}', '']
+    if price_clash:
+        out += [f'> 钩子句自带价（{" / ".join("$" + str(n) for n in _hk_nums)}）与 P1 {p1} 档价（${_cur}）不同：样板未并入 P1 段落，一封信一个价；发前按 ㉕ 核钩子句的价是否仍有效。', '']
     out.append('> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。')
     return '\n'.join(out)
 

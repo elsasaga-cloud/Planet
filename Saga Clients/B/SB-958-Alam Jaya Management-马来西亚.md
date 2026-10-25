@@ -158,7 +158,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。 | $30.8 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-228GP | 深挖对位：1+2+8 商用 PoE ≈ HRUI STC-228GP（2 SFP + 2 GE + 8 PoE，$30.8；1 SFP 版待核）；OEM 口径 30%。 | $35.9 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 30%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $151.6 USD EXW（30% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $196.3 USD EXW（30% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -215,7 +215,7 @@ Hi Thiruvaluvar,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 2026-09-08 - and there was no reason to answer a mass mail. This one is specific. Mr. Vajram, on the 1-SFP + 2-GE + 8-PoE unit and OEM: own-label is possible from small lots (carton + label); what quantity per order are you thinking, so I quote the right tier?
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $30.8 USD EXW (valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.9 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 

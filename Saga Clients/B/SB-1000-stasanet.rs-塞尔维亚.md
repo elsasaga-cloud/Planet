@@ -180,7 +180,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-28GPM | 深挖对位：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4） | $62.2 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-28GPM | 深挖对位：分销 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）/ STC-228GP（$30.8）作安防分销 SKU；工业 STI-288GP（$57.4） | $71.0 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $62.2 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $139.9 USD EXW（20% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $181.2 USD EXW（20% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

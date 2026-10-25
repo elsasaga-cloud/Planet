@@ -170,7 +170,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-114GP | 深挖对位：RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1） | $16.5 USD EXW（Saga 对外列表价，HRUI Realtek 线，见 data/hrui_STC对照表.csv；非 SmartByte 加价公式，报价前核价） | 深挖对位；档位 25%（电信/数字化贸易商（越南，1 光 4 电 RFQ）） |
+| **P1** | STC-114GP | 深挖对位：RFQ 商业千兆 1 光 4 电 → Saga 列表无非 PoE 1 SFP + 4 GE 商用款，以 HRUI STC-114GP（1 SFP + 4 PoE，列表价 $16.5，注明）或工业 STI-154GP（$39.2 @25%）替代；8 口 STC-28DGGPM（$84.1） | $17.8 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 25%（列表价 $16.5 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（电信/数字化贸易商（越南，1 光 4 电 RFQ）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $145.7 USD EXW（25% 档，SmartByte LT-IS6310GP-2GX8GT 780 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $188.7 USD EXW（25% 档，SmartByte LT-S8328XGP-4XS24GT-S 1010 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -227,7 +227,7 @@ Hi Đinh,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your request for a gigabit 1-SFP + 4-GE switch: we can supply a 1 SFP + 4 GE (PoE) desktop model or a DIN-rail 1 SFP + 4 PoE industrial unit from single units, CE/RoHS, EXW USD — how many units do you need, and is PoE required on the copper ports?
 
-We supply a 4-port Gigabit PoE switch with 1 SFP and 1 copper uplink (unmanaged) - model STC-114GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $16.5 USD EXW (valid 15 days).
+We supply a 4-port Gigabit PoE switch with 1 SFP and 1 copper uplink (unmanaged) - model STC-114GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $17.8 USD EXW (valid 15 days).
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
