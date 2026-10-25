@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。；首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@setik.biz（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@setik.biz（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(g) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。
 - **断点 / 为什么停在这里**：仅 info@；电商比价
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@setik.biz（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@setik.biz（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(g) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -215,23 +215,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Switch category on setik.biz - two neutral-brand SKUs with listing files
 
 ```text
-Hello,
+Buongiorno,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
+For the switch category on setik.biz, two neutral-brand SKUs with photos and CE files for listing, from single units: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); budget 8-PoE + 2 uplink unmanaged - STC-028GP - $25.1.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: who manages new suppliers at Setik, so I send the listing files to the right person?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

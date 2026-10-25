@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle；首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → m.colli@reweb.it 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → m.colli@reweb.it 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(g) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle
 - **断点 / 为什么停在这里**：Perle/Advantech 既定品牌线，表内「质量一般」；两邮箱姓名/职务待核，未跟进过
 - **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，首触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——在售 Perle/Advantech 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）作预算线；MC 位 STI-110GE（$23.4）对位 Perle
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → m.colli@reweb.it　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → m.colli@reweb.it　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(g) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -231,23 +231,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+**主题**：A budget line beside Perle and Advantech - DIN-rail managed PoE and gigabit MCs
 
 ```text
-Hello,
+Hi,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Perle and Advantech industrial switches and media converters you integrate, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your IoT and M2M projects use most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the Perle class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $82.2 USD EXW (valid 15 days).
+Beside the Perle and Advantech industrial switches and media converters you integrate, a budget line in the same DIN-rail format, -40 to 75 C, CE/RoHS, neutral packing, from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based - model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity); industrial mini Gigabit media converter with SFP slot - STI-110GE - $26.5.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which port count do your IoT and M2M projects use most - 5, 8 or more?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

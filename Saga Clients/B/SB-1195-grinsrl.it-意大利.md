@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the Ethernet switches in your electrical and instrumentation panels, we supply DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → info@grinsrl.it（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → info@grinsrl.it（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(g) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：电气安装为主（交换机为边缘品类，量小）；表内「质量一般」；仅 info@，未跟进过
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——工业电气项目配套交换机 → 工业 8 GE + 2 SFP STI-280GE（$48.6 @25%）/ PoE 管理 STI-288GPM（$82.2）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@grinsrl.it（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@grinsrl.it（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(g) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：For the Ethernet switches in your electrical and instrumentation panels, we supply DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your industrial projects use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -219,23 +219,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
+**主题**：DIN-rail switches for your electrical and instrumentation panels
 
 ```text
-Hello,
+Buongiorno,
 
-Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the Ethernet switches in your electrical and instrumentation panels, we supply DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, redundant input, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your industrial projects use most?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
+For the Ethernet switches in your electrical and instrumentation panels: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C, redundant DC input, CE/RoHS - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP L2 managed version (VLAN, QoS, IGMP), Marvell-based - STI-288GPM - $82.2. Neutral packing, from single units.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which configuration do your industrial projects use most - plain gigabit or PoE?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
