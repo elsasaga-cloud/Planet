@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯 — 样机在手｜毛利复盘：一单 39.6%（STI-050FE/080FE，PayPal）——高毛利一单客；按主表 20% 分销档
 - **第一问（只问一个）**：Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 WhatsApp（Simon） 一句话
+- **下一步**：2027-Q1 WhatsApp（Simon） 一句话（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **Saga 现在该推什么**：P1 **STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯**（20% 档，按主表 20% 分销档）——样机在手｜毛利复盘：一单 39.6%（STI-050FE/080FE，PayPal）——高毛利一单客
   - 复购/在买项：2024-04-22 唯一一单：Industrial Switch $120 样品级（Simon 利润 RMB 482；PI 复盘 #5，Simon 标 gg）
   - 做不了 / 要先核的：样机测试反馈
-- **下一步（具体）**：2027-Q1　WhatsApp（Simon）　一句话
+- **下一步（具体）**：2027-Q1　WhatsApp（Simon）　一句话（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）
   - 第一问（只问一个）：Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -286,25 +286,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Rajesh,
-
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the FL SWITCH SFNB 5TX and TSW100 slots on your new Ethernet-switch page, a 4+1 gigabit PoE DIN unit at distributor EXW usually becomes the volume SKU, so that is the one I am pricing first with the 8-port managed version as the step-up.
-
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as your Phoenix Contact FL SWITCH SFNB 5TX at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Rajesh, Simon from Saga Telecom (the STI-050FE / STI-080FE samples, April 2024). One question: did the samples go into any panel? You said copper only, no fibre - if a 5/8-port Gigabit DIN unit at distributor price with a 20/50-piece ladder is useful next to the Phoenix and Teltonika slots on your switch page, I send it; if the panels went another way, tell me and I stop asking.
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型 — 样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价；按现价表
 - **第一问（只问一个）**：The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：2027-Q1 Simon 原通道 一句话问样机下落
+- **下一步**：2027-Q1 Simon 原通道 一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **Saga 现在该推什么**：P1 **STI-050GE / STI-080GE（已测）→ STI-288DGGPM 管理型**（20% 档，按现价表）——样品在其手上｜毛利复盘：一单 45.1%——高毛利一单客，不主动降价
   - 复购/在买项：2024-05-23 唯一一单：STI-050GE + STI-080GE $1,140（Simon 利润 RMB 514；PI 复盘 #8，Simon 标 gg）
   - 做不了 / 要先核的：样品测试反馈从未记录
-- **下一步（具体）**：2027-Q1　Simon 原通道　一句话问样机下落
+- **下一步（具体）**：2027-Q1　Simon 原通道　一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）
   - 第一问（只问一个）：The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -275,25 +275,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Igor,
-
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.
-
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Igor, Simon from Saga Telecom (the STI-050GE / STI-080GE samples, May 2024). One question: did the two pairs go into a project, and what stopped a second order - price, a spec gap, or no project? If it is the Phoenix Contact 1000-series slot you cover, the 8-port Gigabit DIN unit is $32.5 USD EXW today and the 5-port $17.0, EAC on your side.
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

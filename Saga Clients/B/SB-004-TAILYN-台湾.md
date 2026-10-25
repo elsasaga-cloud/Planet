@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-28 $65（10G Media Converter）、2025-09-15 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027 — 首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—
+- **下一步**：2027 — 首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；alert/DI-DO 不断言，写「go with the datasheet」）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：无需求。
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-28 $65（10G Media Converter）、2025-09-15 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch））——已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027　—　首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—
+- **下一步（具体）**：2027　—　首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；alert/DI-DO 不断言，写「go with the datasheet」）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -263,25 +263,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+**主题**：When a non-railway panel SKU comes up - one line to keep on file
 
 ```text
 Hi Gary,
 
-Picking up our earlier exchange about PoE / industrial switches. You asked about the alarm relay on our industrial managed PoE unit — it's DI/DO + SNMP trap on the 8-PoE + 2-SFP model; if Tailyn needs an entry-level ODM SKU for non-railway panels, I can send the spec and sample price.
+You told Alan in August there is no requirement so far - noted, and this is not a chase. One line to keep on file for when an entry-level, non-railway panel SKU comes up at Tailyn: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $85.5 USD EXW at OEM tier (MOQ 1, 15-day validity), Tailyn label from small lots; the alert-system details you asked about in 2025 go with the datasheet when you want them.
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is 2027 the year an entry-level SKU gets sourced, or does Tailyn keep the whole industrial range in-house?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

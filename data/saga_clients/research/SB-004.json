@@ -100,7 +100,7 @@
     "next_move": {
       "when": "2027",
       "channel": "—",
-      "action": "首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—",
+      "action": "首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；alert/DI-DO 不断言，写「go with the datasheet」）",
       "one_question": ""
     },
     "facts": [
@@ -147,7 +147,10 @@
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "When a non-railway panel SKU comes up - one line to keep on file",
+      "body": "Hi Gary,\n\nYou told Alan in August there is no requirement so far - noted, and this is not a chase. One line to keep on file for when an entry-level, non-railway panel SKU comes up at Tailyn: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $85.5 USD EXW at OEM tier (MOQ 1, 15-day validity), Tailyn label from small lots; the alert-system details you asked about in 2025 go with the datasheet when you want them.\n\nOne question: is 2027 the year an entry-level SKU gets sourced, or does Tailyn keep the whole industrial range in-house?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

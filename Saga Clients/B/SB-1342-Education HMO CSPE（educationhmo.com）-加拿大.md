@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W（24×PoE+ 280W + 4×10G SFP+，L2+） — 教育楼层 PoE 的标准款；真要走也多半经本地集成商；群发现价 $180（2026-09-21 起每天在发的那轮；他收到的是 Alan 09-29 的单发，无价）；规则 ㉕
 - **第一问（只问一个）**：Is a PoE refresh for the school buildings on your 2027 list, or is that handled by an integrator you already work with?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-03（新学年预算前） 邮件（Alan） 一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录
+- **下一步**：2027-03（新学年预算前） 邮件（Alan） 一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；Alan 署名；不附目录）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：对方明确「现在不要」。
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W（24×PoE+ 280W + 4×10G SFP+，L2+）**（25% 档，群发现价 $180（2026-09-21 起每天在发的那轮；他收到的是 Alan 09-29 的单发，无价）；规则 ㉕）——教育楼层 PoE 的标准款；真要走也多半经本地集成商
   - 做不了 / 要先核的：不知道 CSPE 全称与采购方式（招标/本地集成商）；不知道他是否负责采购
-- **下一步（具体）**：2027-03（新学年预算前）　邮件（Alan）　一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录
+- **下一步（具体）**：2027-03（新学年预算前）　邮件（Alan）　一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；Alan 署名；不附目录）
   - 第一问（只问一个）：Is a PoE refresh for the school buildings on your 2027 list, or is that handled by an integrator you already work with?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -187,7 +187,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
+**主题**：A short one for 2027 planning - PoE refresh for the school buildings?
+
+```text
+Hello Alain,
+
+You said in September "not for the moment, but I will keep your email" - so this is the one follow-up, timed for next year's budget, with no catalogue attached.
+
+One question: is a PoE refresh for the school buildings (floor switches with 10G uplinks) on your 2027 list, or is that handled by an integrator you already work with? If the latter, a name is enough and I will not write again.
+
+Best regards,
+Alan
+Saga Telecom - sagatele.com
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

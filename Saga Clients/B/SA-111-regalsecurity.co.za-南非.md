@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位 — ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活。已打开的主题（2/23 封有打开记录）：「Re: 8 Port Industrial PoE Switch [#RS9」(2024-10-17)、「48 Port PoE Managed Switch」(2024-12-11) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；按 20% 分销档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发
+- **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -51,7 +51,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：错把「有回信」当「有互动」——回信全是机器人。大型分销商的 OEM 决策在产品经理，不在 IT 总监或工单台。
 - **Saga 现在该推什么**：P1 **暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位**（20% 档，按 20% 分销档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活。已打开的主题（2/23 封有打开记录）：「Re: 8 Port Industrial PoE Switch [#RS9」(2024-10-17)、「48 Port PoE Managed Switch」(2024-12-11) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
   - 做不了 / 要先核的：Securi-Prod 产品经理是谁（LinkedIn 可查，未做）
-- **下一步（具体）**：2027-Q1（之前不发）　A 邮箱 → Jacques　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发
+- **下一步（具体）**：2027-Q1（之前不发）　A 邮箱 → Jacques　首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））
   - 第一问（只问一个）：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -308,23 +308,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：One question, Jacques - the Securi-Prod line and OEM switches
 
 ```text
 Hi Jacques,
 
-Picking up our earlier exchange about PoE / industrial switches. Following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?
+One question only, following the 2 + 2 + 8 PoE quote we sent in October 2025: does Regal's Securi-Prod line source any OEM switches, and who owns that decision - you, or the product team? If it is not you, a name is enough and I will not write to the support desk again.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as your PLANET GS-4210-8P2S at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.9 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+For reference the quoted unit stands: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged - model STC-228GP - $33.2 USD EXW at distributor tier (MOQ 1, 15-day validity), Securi-Prod label free, colour box from 200 sets.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

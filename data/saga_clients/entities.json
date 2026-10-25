@@ -3070,7 +3070,7 @@
 "next_move": {
 "when": "2027-Q1（ISP 年度预算）",
 "channel": "S 邮箱 → andreachewyy@resonantnetworks.com（Andrea Chew）",
-"action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可",
+"action": "只在 Saga 有 ≤$100 多千兆方案时再触达；否则季度群发即可（第 75 批(am) 2026-10-25：不写信稿——按 action 只在有 ≤$100 多千兆方案时再触达；季度群发由模板覆盖）",
 "one_question": "（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?"
 },
 "facts": [
@@ -4287,7 +4287,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "Simon 原通道",
-"action": "一句话问样机下落",
+"action": "一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
 "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
 },
 "facts": [
@@ -4351,7 +4351,10 @@
 "proof_gaps": [
 "无邮件往来（A/S 两箱 0 封）"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Igor, Simon from Saga Telecom (the STI-050GE / STI-080GE samples, May 2024). One question: did the two pairs go into a project, and what stopped a second order - price, a spec gap, or no project? If it is the Phoenix Contact 1000-series slot you cover, the 8-port Gigabit DIN unit is $32.5 USD EXW today and the 5-port $17.0, EAC on your side."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -9195,7 +9198,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "WhatsApp（Simon）",
-"action": "一句话",
+"action": "一句话（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
 "one_question": "Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?"
 },
 "facts": [
@@ -9251,7 +9254,10 @@
 "proof_gaps": [
 "WhatsApp 往来未入库；A/S 邮箱 0 封"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Rajesh, Simon from Saga Telecom (the STI-050FE / STI-080FE samples, April 2024). One question: did the samples go into any panel? You said copper only, no fibre - if a 5/8-port Gigabit DIN unit at distributor price with a 20/50-piece ladder is useful next to the Phoenix and Teltonika slots on your switch page, I send it; if the panels went another way, tell me and I stop asking."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -38912,7 +38918,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "换收件人再发一封",
+"action": "换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Hello ITK team, next to the ONV-IPS33108PF you list at ฿8,330: our same-port-type DIN-rail 8× GbE PoE+ + 2× SFP industrial switch is $57.4 EXW (L2+ managed $137.5), 3-year warranty (industrial line), neutral or ITK-branded — shall I send a sample unit for your project inquiries?"
 },
 "facts": [
@@ -38934,7 +38940,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Next to the ONV-IPS33108PF on your shop - the same port type, two bands, 3-year warranty",
+"body": "Hello ITK team,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nNext to the ONV-IPS33108PF you list at 8,330 baht, the same port type at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS, 3-year warranty on the industrial line: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the L2+ managed version with ring redundancy, Marvell-based (your ONV-IPS33148PFM position) - STI-288DGGPM - $137.5; commercial 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5. Neutral or ITK-branded from small lots.\n\nOne question: shall I send one sample unit for your project enquiries - the unmanaged or the managed?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -49606,7 +49615,7 @@
 "next_move": {
 "when": "2027-Q1（换人后）",
 "channel": "A 邮箱 → 具名 KP",
-"action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+"action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「Mini Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；俄文钩子改英文稿；EAC 对方侧；HRUI 不写 Marvell）",
 "one_question": "Здравствуйте, рядом с UNIPOE PM3018GSNL-330 V2 (118 195 ₸ в вашем магазине): наш коммутатор той же конфигурации 16 PoE + 2 SFP — 88,0 USD EXW, 24 PoE + 2 SFP — 93,5 USD, нейтральная или ваша упаковка. Нужен ли вам второй источник на случай сроков или цен UNIPOE?"
 },
 "facts": [
@@ -49637,7 +49646,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Next to the UNIPOE PM3018GSNL-330 V2 in your shop - a second source for the same configurations",
+"body": "Hello Pulsar Systems team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"Marvell Alleycat5 Solution\" on 7 October 2026 - none of which needed an answer. This one is specific.\n\nNext to the UNIPOE PM3018GSNL-330 V2 (118,195 tenge in your shop), the same configurations as a second source, neutral or your packaging, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 16 x Gigabit PoE+ + 2 x SFP, unmanaged - model STC-2016GP - $88.0 USD; 24 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged, 300 W - STC-2024GP - $93.5; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. EAC stays on your side.\n\nOne question: do you need a second source for when UNIPOE lead times or prices move, or is the exclusive arrangement fixed?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -50057,7 +50069,7 @@
 "next_move": {
 "when": "2027-04（半年一句）",
 "channel": "WhatsApp",
-"action": "一句话问库存/项目，不附报价、不附图",
+"action": "一句话问库存/项目，不附报价、不附图（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
 "one_question": "James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer."
 },
 "facts": [
@@ -50145,7 +50157,10 @@
 "proof_gaps": [
 "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）（2027-04 用；不附报价、不附图）",
+"body": "James - Simon from Saga Telecom. Last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I check back after summer - no catalogue, no attachments."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -53190,7 +53205,7 @@
 "next_move": {
 "when": "2027-Q1（之前不发）",
 "channel": "A 邮箱 → Jacques",
-"action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发",
+"action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））",
 "one_question": "Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?"
 },
 "facts": [
@@ -53231,7 +53246,10 @@
 "proof_gaps": [
 "Regal 报价单 PDF 未入库（附件未存），不知其报的产品与价格——若能找回，是 ZA 市场 8 口工业 PoE 的竞品价格情报"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "One question, Jacques - the Securi-Prod line and OEM switches",
+"body": "Hi Jacques,\n\nOne question only, following the 2 + 2 + 8 PoE quote we sent in October 2025: does Regal's Securi-Prod line source any OEM switches, and who owns that decision - you, or the product team? If it is not you, a name is enough and I will not write to the support desk again.\n\nFor reference the quoted unit stands: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged - model STC-228GP - $33.2 USD EXW at distributor tier (MOQ 1, 15-day validity), Securi-Prod label free, colour box from 200 sets.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -79270,7 +79288,7 @@
 "next_move": {
 "when": "2027",
 "channel": "—",
-"action": "首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—",
+"action": "首封前知悉：Elsa 仅 2025-02-18 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；alert/DI-DO 不断言，写「go with the datasheet」）",
 "one_question": ""
 },
 "facts": [
@@ -79317,7 +79335,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "When a non-railway panel SKU comes up - one line to keep on file",
+"body": "Hi Gary,\n\nYou told Alan in August there is no requirement so far - noted, and this is not a chase. One line to keep on file for when an entry-level, non-railway panel SKU comes up at Tailyn: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $85.5 USD EXW at OEM tier (MOQ 1, 15-day validity), Tailyn label from small lots; the alert-system details you asked about in 2025 go with the datasheet when you want them.\n\nOne question: is 2027 the year an entry-level SKU gets sourced, or does Tailyn keep the whole industrial range in-house?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -80029,7 +80050,7 @@
 "next_move": {
 "when": "2027",
 "channel": "—",
-"action": "—",
+"action": "—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STI-21616GP 为非管理，钩子「L2+」纠正；管理版 STI-21616XGGPM $322.6）",
 "one_question": ""
 },
 "facts": [
@@ -80075,7 +80096,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The 16-port industrial PoE you asked about in 2025 - unmanaged exists at $185, managed at $322.6",
+"body": "Hi Jesse,\n\nIn July 2025 you asked for our catalogue and price list around a 16-port DIN Gigabit switch and said you would study it; two chasers from us went unanswered, so this is a once-a-year note, not a chase. The 16-port industrial PoE, honestly labelled: 16 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, CE/FCC/RoHS - model STI-21616GP - $185 USD EXW at OEM tier (MOQ 1, 15-day validity); the L2+ managed version with 2 x 10G SFP+ uplinks, Marvell-based - STI-21616XGGPM - $322.6. EDIMAX label from small lots.\n\nOne question: is EDIMAX re-sourcing the 16-port industrial PoE SKU in 2027, and is it the managed or the unmanaged position?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -136027,7 +136051,7 @@
 "next_move": {
 "when": "2027",
 "channel": "—",
-"action": "—",
+"action": "—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；婉拒户（㉘）：2027 只给产品开发一封，不再群发）",
 "one_question": ""
 },
 "facts": [
@@ -136049,7 +136073,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "A second ODM source for the Altronics-label PoE switches - 2027 note, product development",
+"body": "Hi Brian,\n\nDean told us in April 2026 \"not at this time\", so this goes to product development once, for 2027 planning, and not again before. For the PoE switches sold under the Altronics label (HiSource-built today), a second ODM source in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. RCM stays on your side.\n\nOne question: which PoE SKU do your stores reorder most - that is the only one worth sampling?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -214363,7 +214390,7 @@
 "next_move": {
 "when": "2027-03（新学年预算前）",
 "channel": "邮件（Alan）",
-"action": "一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录",
+"action": "一封短信：问校园楼层 PoE 换新是否排进 2027 预算；不发目录（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；Alan 署名；不附目录）",
 "one_question": "Is a PoE refresh for the school buildings on your 2027 list, or is that handled by an integrator you already work with?"
 },
 "facts": [
@@ -214388,7 +214415,10 @@
 "机构全称与规模（educationhmo.com 未爬）",
 "Alain 的职务"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "A short one for 2027 planning - PoE refresh for the school buildings?",
+"body": "Hello Alain,\n\nYou said in September \"not for the moment, but I will keep your email\" - so this is the one follow-up, timed for next year's budget, with no catalogue attached.\n\nOne question: is a PoE refresh for the school buildings (floor switches with 10G uplinks) on your 2027 list, or is that handled by an integrator you already work with? If the latter, a name is enough and I will not write again.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }

@@ -140,7 +140,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "Simon 原通道",
-   "action": "一句话问样机下落",
+   "action": "一句话问样机下落（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
    "one_question": "The two STI-050GE/080GE samples from May 2024 — did they go into a project, and what stopped a second order?"
   },
   "facts": [
@@ -204,7 +204,10 @@
   "proof_gaps": [
    "无邮件往来（A/S 两箱 0 封）"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Igor, Simon from Saga Telecom (the STI-050GE / STI-080GE samples, May 2024). One question: did the two pairs go into a project, and what stopped a second order - price, a spec gap, or no project? If it is the Phoenix Contact 1000-series slot you cover, the 8-port Gigabit DIN unit is $32.5 USD EXW today and the 5-port $17.0, EAC on your side."
+  },
   "as_of": "2026-10-24"
  }
 }

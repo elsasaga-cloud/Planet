@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-29 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
-- **下一步**：2027 — —
+- **下一步**：2027 — —（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STI-21616GP 为非管理，钩子「L2+」纠正；管理版 STI-21616XGGPM $322.6）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-29 $300（48 Port PoE Managed Switch））——已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2027　—　—
+- **下一步（具体）**：2027　—　—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STI-21616GP 为非管理，钩子「L2+」纠正；管理版 STI-21616XGGPM $322.6）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -247,25 +247,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-21616GP - 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (neutral label)
+**主题**：The 16-port industrial PoE you asked about in 2025 - unmanaged exists at $185, managed at $322.6
 
 ```text
 Hi Jesse,
 
-Picking up our earlier exchange about PoE / industrial switches. On the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week.
+In July 2025 you asked for our catalogue and price list around a 16-port DIN Gigabit switch and said you would study it; two chasers from us went unanswered, so this is a once-a-year note, not a chase. The 16-port industrial PoE, honestly labelled: 16 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, CE/FCC/RoHS - model STI-21616GP - $185 USD EXW at OEM tier (MOQ 1, 15-day validity); the L2+ managed version with 2 x 10G SFP+ uplinks, Marvell-based - STI-21616XGGPM - $322.6. EDIMAX label from small lots.
 
-We supply a 16-port Gigabit PoE+ industrial switch with 2 SFP uplinks (unmanaged) - model STI-21616GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $184.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is EDIMAX re-sourcing the 16-port industrial PoE SKU in 2027, and is it the managed or the unmanaged position?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

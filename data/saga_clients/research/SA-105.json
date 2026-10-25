@@ -97,7 +97,7 @@
   "next_move": {
    "when": "2027-04（半年一句）",
    "channel": "WhatsApp",
-   "action": "一句话问库存/项目，不附报价、不附图",
+   "action": "一句话问库存/项目，不附报价、不附图（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
    "one_question": "James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer."
   },
   "facts": [
@@ -185,7 +185,10 @@
   "proof_gaps": [
    "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）（2027-04 用；不附报价、不附图）",
+   "body": "James - Simon from Saga Telecom. Last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I check back after summer - no catalogue, no attachments."
+  },
   "as_of": "2026-10-24"
  }
 }

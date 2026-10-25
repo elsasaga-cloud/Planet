@@ -197,7 +197,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "WhatsApp（Simon）",
-   "action": "一句话",
+   "action": "一句话（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；WhatsApp 一句话）",
    "one_question": "Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?"
   },
   "facts": [
@@ -253,7 +253,10 @@
   "proof_gaps": [
    "WhatsApp 往来未入库；A/S 邮箱 0 封"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Rajesh, Simon from Saga Telecom (the STI-050FE / STI-080FE samples, April 2024). One question: did the samples go into any panel? You said copper only, no fibre - if a 5/8-port Gigabit DIN unit at distributor price with a 20/50-piece ladder is useful next to the Phoenix and Teltonika slots on your switch page, I send it; if the panels went another way, tell me and I stop asking."
+  },
   "as_of": "2026-10-24"
  }
 }

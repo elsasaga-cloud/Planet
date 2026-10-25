@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/30 封有打开记录）：「Industrial PoE Switch」(2026-04-17)、「Re: Industrial PoE Switch」(2026-06-05)、「Firmware 7.5 L2+ Feature Update」(2026-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $220（48 port managed switch）、2024-12-04 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027 — —
+- **下一步**：2027 — —（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；婉拒户（㉘）：2027 只给产品开发一封，不再群发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-02 $220（48 port managed switch）、2024-12-04 $65（10G Media Converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-08 $280（10G Enterprise SFP Switch））——已打开的主题（3/30 封有打开记录）：「Industrial PoE Switch」(2026-04-17)、「Re: Industrial PoE Switch」(2026-06-05)、「Firmware 7.5 L2+ Feature Update」(2026-07-01) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2027　—　—
+- **下一步（具体）**：2027　—　—（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；婉拒户（㉘）：2027 只给产品开发一封，不再群发）
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
@@ -263,23 +263,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：A second ODM source for the Altronics-label PoE switches - 2027 note, product development
 
 ```text
 Hi Brian,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches sold under the Altronics label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W) in your packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU do your stores reorder most?
+Dean told us in April 2026 "not at this time", so this goes to product development once, for 2027 planning, and not again before. For the PoE switches sold under the Altronics label (HiSource-built today), a second ODM source in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. RCM stays on your side.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which PoE SKU do your stores reorder most - that is the only one worth sampling?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
