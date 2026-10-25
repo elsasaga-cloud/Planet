@@ -972,9 +972,10 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         elif live:
             price = f'${live} USD EXW (same as the ${seen_pr} you saw in our {seen_d[:7]} mail; MOQ 1, 15-day validity)'
     rs = ent.get('research') or {}
-    _en_brand = {'洪瑞': 'HRUI', '迈威': 'Maiwe', '海康': 'Hikvision', '大华': 'Dahua', '华为': 'Huawei'}
-    sb = [_en_brand.get(b, b) for b in brands if b in SWITCH_BRANDS]
-    sb = [b for b in sb if not re.search(r'[\u4e00-\u9fff]', b)]
+    _en_brand = {'迈威': 'Maiwe', '海康': 'Hikvision', '大华': 'Dahua', '华为': 'Huawei'}
+    _never_name = {'洪瑞', 'HRUI', 'SmartByte', 'Smartbyte', 'Hohunet', '中科德能', '宇航'}  # 自家供应商名不进对外文案
+    sb = [_en_brand.get(b, b) for b in brands if b in SWITCH_BRANDS and b not in _never_name]
+    sb = [b for b in sb if not re.search(r'[\u4e00-\u9fff]', b) and b not in _never_name]
     slot = f'the {sb[0]} class you work with' if sb else 'the units you source today'
     def _ok_product(x):  # 只用能写进英文正文的对位产品：无中文/全角注记，且是交换机/MC 一类（不是注入器/摄像机/电源/线缆）
         t = f"{x.get('brand') or ''} {x.get('model') or ''}"
