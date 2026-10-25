@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-097` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2025-02「Could we talk via WeChat?」→ Alan 先问 Marvell 是否可接受 → 无下文）** ｜ 类型：韩国自研交换机厂商（PIOLINK）——潜在 ODM 买家；Jayden Lee ｜ 筛子：1 ｜ 停点：Alan 2025-02-18 以芯片问题回复了「加 WeChat」的请求；对方没再回 ｜ 复活：WeChat 层（若 Simon 已加） ｜ 通路：KR ｜ 节奏：2024-07 → 2026-09 去信 24 封；最后来信 2025-02-18 ｜ 证据：k=ba64fb062e5e9604 / 1048e9cbd52c2199
+- **绑定等级：未绑定（2025-02「Could we talk via WeChat?」→ Alan 先问 Marvell 是否可接受 → 无下文；Elsa 箱：`to:piolink.com OR to:piolink.con` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 1）（第 74 批(n)））** ｜ 类型：韩国自研交换机厂商（PIOLINK）——潜在 ODM 买家；Jayden Lee ｜ 筛子：1 ｜ 停点：Alan 2025-02-18 以芯片问题回复了「加 WeChat」的请求；对方没再回 ｜ 复活：WeChat 层（若 Simon 已加） ｜ 通路：KR ｜ 节奏：2024-07 → 2026-09 去信 24 封；最后来信 2025-02-18 ｜ 证据：k=ba64fb062e5e9604 / 1048e9cbd52c2199
 - **现状一句话**：Jayden 要求转 WeChat（jayden092），Alan 回「我们是 Marvell，你接受吗？附 GPT 写的三种芯片差异」。对方消失。
 - **对方真实需求（有据）**：24 口光聚合（当时）。
 - **断点 / 为什么停在这里**：对方要换渠道，Saga 用筛子问题回应——顺序颠倒。
@@ -312,12 +312,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,22 +38,29 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it.
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-07→2026-04-01，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-629` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 vijay@jtoptics.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）」；研究档 risks：极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先
+- **绑定等级：未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 vijay@jtoptics.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 7 轮 2025-05-07→2026-04-01（To 仅本户 vijay@jtoptics.com；头 msg 19d474509a528d08 核对无 Bcc，称呼「Hi, Vijay」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete，直收 7 条、无 Re: 行）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）」；研究档 risks：极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先
 - **现状一句话**：印度光纤连接产品品牌 JTOptics（SFP 72、MC 43、telecom 15；+91 86930 99309），CEO Vijay Gupta：Simon 跟进很久，价格敏感，工业 MC 报 $25 嫌贵，称与另一展商（BTON）合作；无后续。
 - **对方真实需求（有据）**：工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。
 - **断点 / 为什么停在这里**：极度价格敏感（$25 工业 MC 嫌贵）；BTON 在先
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch））——工业 MC STI-110GE $22.4 @20%（已低于其嫌贵的 $25）；量大按 OEM 议价。
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-07→2026-04-01，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Vijay, the industrial gigabit MC is now $22.4 EXW at 1 pc and lower at 100 pcs under the JTOptics label — if BTON's price is still better, tell me the number and I'll say honestly whether we can meet it.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-07 | out | Elsa → vijay@jtoptics.com | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
+| 2025-06-17 | out | Elsa → vijay@jtoptics.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
+| 2025-10-14 | out | Elsa → vijay@jtoptics.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
+| 2025-12-08 | out | Elsa → vijay@jtoptics.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
+| 2026-01-08 | out | Elsa → vijay@jtoptics.com | OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
+| 2026-03-02 | out | Elsa → vijay@jtoptics.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
+| 2026-04-01 | out | Elsa → vijay@jtoptics.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
 | 2026-09-23 | 去 | A 群发 | 24 Port PoE Managed Switch、16 Port Ethernet Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-23（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通） | 表内备注 | `用户表` |
 
@@ -276,12 +283,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

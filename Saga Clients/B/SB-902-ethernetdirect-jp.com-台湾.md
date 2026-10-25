@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-902` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 sales@ethernetdirect-tw.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」）** ｜ 类型：台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：台湾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「Switch」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺
+- **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 sales@ethernetdirect-tw.com；主题多为「16 Port Ethernet Switch、Industrial PoE Switch」；Elsa 箱：`to:ethernetdirect-jp.com OR to:ethernetdirect-tw.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(n)））** ｜ 类型：台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：台湾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「Switch」；研究档 risks：台湾品牌商：自有 ODM 体系，仅二供/补缺
 - **现状一句话**：台湾 Ethernet Direct（工业网络 / 工业以太网 / 计算与自动化方案商，日文站 ethernetdirect-jp.com；自有 Cobra 系列工业 PoE 管理/非管理交换机 PDF，型号 CMG-428EPZ2BT / HMG-828；表内「Switch」）；群发 6 次无回复。
 - **对方真实需求（有据）**：自有 Cobra 系列工业 PoE → 二供位：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，仅二供/补缺
@@ -274,12 +274,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

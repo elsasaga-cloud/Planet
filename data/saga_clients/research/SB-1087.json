@@ -87,7 +87,7 @@
  "email_hook": "Next to the Hasivo PoE switches you sell, we can supply a Marvell-based 8-port PoE+ L2+ managed switch (2 SFP uplinks) and a budget unmanaged 8-port PoE line, both in neutral packing from small lots — which price band sells more for you, the unmanaged or the managed PoE?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的」；Elsa 箱：`to:sieuthivienthong.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "电商/网店（安防 + 网络）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

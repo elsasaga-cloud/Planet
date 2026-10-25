@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1054` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-01-02 John Lai「Whats your company url? Is those CE certificate?」→ Simon「new trading company, website under construction」）** ｜ 类型：台湾网络品牌商（AirLive） ｜ 筛子：1 ｜ 停点：2024 年初 Saga 刚起步时的尽调 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=455bebcee9e0b0b7；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2024-01-02 John Lai「Whats your company url? Is those CE certificate?」→ Simon「new trading company, website under construction」；Elsa 箱：`to:airlive.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 1）（第 74 批(n)））** ｜ 类型：台湾网络品牌商（AirLive） ｜ 筛子：1 ｜ 停点：2024 年初 Saga 刚起步时的尽调 ｜ 复活：不动 ｜ 通路：TW ｜ 节奏：不动 ｜ 证据：k=455bebcee9e0b0b7；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
@@ -301,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

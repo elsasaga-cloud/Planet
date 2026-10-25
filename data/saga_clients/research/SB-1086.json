@@ -1,126 +1,126 @@
 {
-  "code": "SB-1086",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（servo-tech.co.kr，快照 2026-10-21）",
-  "summary": "韩国 (주)써보테크TS Servo-Tech TS（自动化分销：PLC、伺服电机、变频器、减速机、线缆；三菱、Apex、Weidmüller、Alpha Robotics 特约店；表内「工业 FS」「质量高」）；群发 17 次无回复。",
-  "type": "工业自动化分销商（韩国）",
-  "size": "",
-  "brands_seen": [
-    "Mitsubishi",
-    "Weidmüller"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：(주)써보테크TS",
-      "quote": "자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
-      "url": "https://servo-tech.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Servo-Tech 定位",
-      "quote": "(주)써보테크TS ; 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
-      "url": "https://servo-tech.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 质量高",
-      "quote": "工业FS；质量高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1086",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（servo-tech.co.kr，快照 2026-10-21）",
+ "summary": "韩国 (주)써보테크TS Servo-Tech TS（自动化分销：PLC、伺服电机、变频器、减速机、线缆；三菱、Apex、Weidmüller、Alpha Robotics 特约店；表内「工业 FS」「质量高」）；群发 17 次无回复。",
+ "type": "工业自动化分销商（韩国）",
+ "size": "",
+ "brands_seen": [
+  "Mitsubishi",
+  "Weidmüller"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：(주)써보테크TS",
+   "quote": "자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
+   "url": "https://servo-tech.co.kr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "韩国",
-    "other": "官网 servo-tech.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业自动化产品分销（韩国）"
-  ],
-  "channels": {
-    "role": "工业自动化分销商（韩国）",
-    "region": "韩国",
-    "contact": "sales@servo-tech.co.kr"
+  {
+   "kind": "官网快照",
+   "claim": "Servo-Tech 定位",
+   "quote": "(주)써보테크TS ; 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
+   "url": "https://servo-tech.co.kr/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：(주)써보테크TS ; 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
-    "表内：工业 FS；质量高"
-  ],
-  "risks": [
-    "非主攻区（T5，韩国；KC 由客户侧）；品牌分销导向（三菱/Weidmüller 生态）；17 次无回复，仅 sales@"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 20,
-    "why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）"
-  },
-  "email_hook": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 29 封 2024→2026，1 次记录打开，0 回；收件 sales@servo-tech.co.kr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-      "type": "工业自动化分销商（韩国）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 29，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；品牌分销导向（三菱/Weidmüller 生态）；17 次无回复，仅 sales@"
-    },
-    "situation": "韩国 (주)써보테크TS Servo-Tech TS（自动化分销：PLC、伺服电机、变频器、减速机、线缆；三菱、Apex、Weidmüller、Alpha Robotics 特约店；表内「工业 FS」「质量高」）；群发 17 次无回复。",
-    "need": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）",
-    "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；品牌分销导向（三菱/Weidmüller 生态）；17 次无回复，仅 sales@",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 20,
-      "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-30 $300（48 Port PoE Managed Switch）、2025-08-15 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2025-10-21 $65（10G Media Converter）",
-      "why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）。已打开的主题（1/29 封有打开记录）：「16 Port Ethernet Switch」(2025-06-26) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-02",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-        "why": "29 封 / 1 次打开 / 0 回｜首封 2024-12-10 → 末封 2026-10-02（29 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 质量高",
+   "quote": "工业FS；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 servo-tech.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业自动化产品分销（韩国）"
+ ],
+ "channels": {
+  "role": "工业自动化分销商（韩国）",
+  "region": "韩国",
+  "contact": "sales@servo-tech.co.kr"
+ },
+ "signals": [
+  "官网：(주)써보테크TS ; 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
+  "表内：工业 FS；质量高"
+ ],
+ "risks": [
+  "非主攻区（T5，韩国；KC 由客户侧）；品牌分销导向（三菱/Weidmüller 生态）；17 次无回复，仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）"
+ },
+ "email_hook": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 29 封 2024→2026，1 次记录打开，0 回；收件 sales@servo-tech.co.kr；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:servo-tech.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 29 / 来 0）（第 74 批(n)））",
+   "type": "工业自动化分销商（韩国）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 29，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；品牌分销导向（三菱/Weidmüller 生态）；17 次无回复，仅 sales@"
+  },
+  "situation": "韩国 (주)써보테크TS Servo-Tech TS（自动化分销：PLC、伺服电机、变频器、减速机、线缆；三菱、Apex、Weidmüller、Alpha Robotics 特约店；表内「工业 FS」「质量高」）；群发 17 次无回复。",
+  "need": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）",
+  "breakpoint": "非主攻区（T5，韩国；KC 由客户侧）；品牌分销导向（三菱/Weidmüller 生态）；17 次无回复，仅 sales@",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-30 $300（48 Port PoE Managed Switch）、2025-08-15 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2025-10-21 $65（10G Media Converter）",
+   "why": "自动化配套工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）。已打开的主题（1/29 封有打开记录）：「16 Port Ethernet Switch」(2025-06-26) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the industrial Ethernet switches your automation customers order with PLCs and drives, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD; KC by your side — which configuration sells most in your panels? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-02",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "29 封 / 1 次打开 / 0 回｜首封 2024-12-10 → 末封 2026-10-02（29 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

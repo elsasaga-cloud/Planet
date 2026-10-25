@@ -1,110 +1,110 @@
 {
-  "code": "SB-1108",
-  "name_official": "Dauren Boltayev（乌兹别克斯坦；通讯产品贸易商；mail.ru）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "贸易商；成交；WA 已加；27 次跟进",
-      "quote": "trader, 处理通讯产品 / 770099 91388 已加 / 成单客户",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Dauren Boltayev",
-      "role": "贸易商（用户表）",
-      "email": "dauren.boltaev@mail.ru（用户表）",
-      "phone": "+998 77 009 91 388（用户表）",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（个人贸易商；公司待核）",
-    "hq": "Uzbekistan（+998 77 009 91 388）",
-    "size": "个体/小型贸易商",
-    "other": "成交 2 次；WA 已加；27 次推送无回复"
-  },
-  "business_lines": [
-    "通讯产品贸易"
-  ],
-  "channels": {
-    "邮箱": "dauren.boltaev@mail.ru（用户表）",
-    "WhatsApp": "+998 77 009 91 388（用户表，已加）"
-  },
-  "signals": [
-    "成交 2 次 → 老客户；27 次推送无回复 → 改为俄语短消息 + 一款新品价"
-  ],
-  "risks": [
-    "俄语区非主攻区；无回复；付款路径（CNY/USD）"
-  ],
-  "saga_fit": {
-    "p1": "STC-228GP",
-    "tier": 20,
-    "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）"
-  },
-  "email_hook": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 5 封 2024→2026，1 次记录打开，0 回；收件 dauren.boltaev@mail.ru, dboltaev@gmail.com；主题多为「10G L3 Managed Switch、Saga Q3 Product Links」）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "乌兹别克斯坦 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 5，Opened 标签 1（Simon 群发追踪）；用户表：「trader, 处理通讯产品 / 770099 91388 已加 / 成单客户」；研究档 risks：俄语区非主攻区；无回复；付款路径（CNY/USD）"
-    },
-    "situation": "用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。",
-    "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）",
-    "breakpoint": "俄语区非主攻区；无回复；付款路径（CNY/USD）",
-    "saga_now": {
-      "p1": "STC-228GP",
-      "tier": 20,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）。已打开的主题（1/5 封有打开记录）：「Industrial fiber switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G L3 Managed Switch、Saga Q3 Product Links",
-        "why": "5 封 / 1 次打开 / 0 回｜首封 2024-09-09 → 末封 2026-10-07（5 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "trader, 处理通讯产品 / 770099 91388 已加 / 成单客户",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-1108",
+ "name_official": "Dauren Boltayev（乌兹别克斯坦；通讯产品贸易商；mail.ru）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "贸易商；成交；WA 已加；27 次跟进",
+   "quote": "trader, 处理通讯产品 / 770099 91388 已加 / 成单客户",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Dauren Boltayev",
+   "role": "贸易商（用户表）",
+   "email": "dauren.boltaev@mail.ru（用户表）",
+   "phone": "+998 77 009 91 388（用户表）",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "（个人贸易商；公司待核）",
+  "hq": "Uzbekistan（+998 77 009 91 388）",
+  "size": "个体/小型贸易商",
+  "other": "成交 2 次；WA 已加；27 次推送无回复"
+ },
+ "business_lines": [
+  "通讯产品贸易"
+ ],
+ "channels": {
+  "邮箱": "dauren.boltaev@mail.ru（用户表）",
+  "WhatsApp": "+998 77 009 91 388（用户表，已加）"
+ },
+ "signals": [
+  "成交 2 次 → 老客户；27 次推送无回复 → 改为俄语短消息 + 一款新品价"
+ ],
+ "risks": [
+  "俄语区非主攻区；无回复；付款路径（CNY/USD）"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）"
+ },
+ "email_hook": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 5 封 2024→2026，1 次记录打开，0 回；收件 dauren.boltaev@mail.ru, dboltaev@gmail.com；主题多为「10G L3 Managed Switch、Saga Q3 Product Links」；Elsa 箱：`to:dauren.boltaev@mail.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "乌兹别克斯坦 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 5，Opened 标签 1（Simon 群发追踪）；用户表：「trader, 处理通讯产品 / 770099 91388 已加 / 成单客户」；研究档 risks：俄语区非主攻区；无回复；付款路径（CNY/USD）"
+  },
+  "situation": "用户表（俄语国家优质名单，「成单客户」）：Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388）——trader，处理通讯产品；成交 2 次；WhatsApp 已加；27 次跟进无回复。无公司主体/域名 → 仅表内信息；成交客户 → 分销 20%。",
+  "need": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）",
+  "breakpoint": "俄语区非主攻区；无回复；付款路径（CNY/USD）",
+  "saga_now": {
+   "p1": "STC-228GP",
+   "tier": 20,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；STC-28GPM $62.2→$71.0；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）走量；管理型 STC-28GPM（$62.2）。已打开的主题（1/5 封有打开记录）：「Industrial fiber switch」(2024-09-09) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Даурен, давно не списывались: новая цена на коммутатор 2 SFP + 8 портов PoE — 33,2 USD EXW (управляемый 71,0 USD), нейтральная упаковка. Какие модели сейчас лучше всего продаются у вас в Узбекистане?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G L3 Managed Switch、Saga Q3 Product Links",
+    "why": "5 封 / 1 次打开 / 0 回｜首封 2024-09-09 → 末封 2026-10-07（5 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "trader, 处理通讯产品 / 770099 91388 已加 / 成单客户",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

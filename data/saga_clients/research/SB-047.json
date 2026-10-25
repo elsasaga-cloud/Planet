@@ -1,106 +1,106 @@
 {
-  "code": "SB-047",
-  "name_official": "Anfiris, Lda（安哥拉；Gmail；无域名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "8 口交换机成样品单",
-      "quote": "8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Carlos da Silva",
-      "role": "（用户表）",
-      "email": "repintalimitada@gmail.com（用户表）",
-      "phone": "—",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Anfiris, Lda（待核）",
-    "hq": "Angola（城市待核）",
-    "size": "待核",
-    "other": "Gmail（repintalimitada = 疑另一公司 Repinta Limitada）"
-  },
-  "business_lines": [
-    "（待核）IT/电气贸易或安装"
-  ],
-  "channels": {
-    "邮箱": "repintalimitada@gmail.com（用户表）"
-  },
-  "signals": [
-    "8 口交换机样品已成交 → 复购点是同口型批量价"
-  ],
-  "risks": [
-    "非洲非主攻区；无公司资料；葡语市场"
-  ],
-  "saga_fit": {
-    "p1": "STC-08GE",
-    "tier": 25,
-    "why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）"
-  },
-  "email_hook": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ」；S/A 邮箱 0 封",
-      "type": "—",
-      "sieve": "5（表内成单/样品单）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
-      "lane": "安哥拉 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ」；研究档 risks：非洲非主攻区；无公司资料；葡语市场"
-    },
-    "situation": "用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。",
-    "need": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）",
-    "breakpoint": "非洲非主攻区；无公司资料；葡语市场",
-    "saga_now": {
-      "p1": "STC-08GE",
-      "tier": 25,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）",
-      "why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "现在（Simon）",
-      "channel": "WhatsApp（Simon）",
-      "action": "一句话",
-      "one_question": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-047",
+ "name_official": "Anfiris, Lda（安哥拉；Gmail；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "8 口交换机成样品单",
+   "quote": "8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Carlos da Silva",
+   "role": "（用户表）",
+   "email": "repintalimitada@gmail.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Anfiris, Lda（待核）",
+  "hq": "Angola（城市待核）",
+  "size": "待核",
+  "other": "Gmail（repintalimitada = 疑另一公司 Repinta Limitada）"
+ },
+ "business_lines": [
+  "（待核）IT/电气贸易或安装"
+ ],
+ "channels": {
+  "邮箱": "repintalimitada@gmail.com（用户表）"
+ },
+ "signals": [
+  "8 口交换机样品已成交 → 复购点是同口型批量价"
+ ],
+ "risks": [
+  "非洲非主攻区；无公司资料；葡语市场"
+ ],
+ "saga_fit": {
+  "p1": "STC-08GE",
+  "tier": 25,
+  "why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）"
+ },
+ "email_hook": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ」；S/A 邮箱 0 封；Elsa 箱：`to:repintalimitada@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)）",
+   "type": "—",
+   "sieve": "5（表内成单/样品单）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "Simon WhatsApp 一句话（问复购/样品结论）",
+   "lane": "安哥拉 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ」；研究档 risks：非洲非主攻区；无公司资料；葡语市场"
+  },
+  "situation": "用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。",
+  "need": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）",
+  "breakpoint": "非洲非主攻区；无公司资料；葡语市场",
+  "saga_now": {
+   "p1": "STC-08GE",
+   "tier": 25,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）",
+   "why": "默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "现在（Simon）",
+   "channel": "WhatsApp（Simon）",
+   "action": "一句话",
+   "one_question": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

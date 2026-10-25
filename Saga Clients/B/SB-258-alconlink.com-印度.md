@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,22 +36,29 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有 logo PoE 交换机（配 NVR 套装）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AlconLink 标；工业线 STI-288GP；24 口 NVR 配套 STC-424DGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-19 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Pratap, for the AlconLink-branded PoE and industrial switches on your product pages, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-258` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 pratap@alconlink.com, sales@alconlink.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）** ｜ 类型：印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「商业PoE CCTV产品 自己的logo；91-97788 02333」；研究档 risks：印度 BIS：由 AlconLink 以其品牌取证；整机关税高 → SKD 可谈
+- **绑定等级：未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 pratap@alconlink.com, sales@alconlink.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）；Elsa 1:1 去信 7 轮 2025-05-06→2026-04-01（To 仅本户 sales@alconlink.com；头 msg 19d4833123810a60 核对无 Bcc，称呼「Hi, Pratap」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete，直收 7 条、无 Re: 行）** ｜ 类型：印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：IN 次级（点名） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「商业PoE CCTV产品 自己的logo；91-97788 02333」；研究档 risks：印度 BIS：由 AlconLink 以其品牌取证；整机关税高 → SKD 可谈
 - **现状一句话**：印度 AlconLink（CCTV 监控系统品牌：网络摄像机 / NVR（AL-NVR5160-24DRAIDHS）、AI/热成像/ANPR 方案；产品页 PoE 交换机与工业交换机（自有 logo）；表内「商业 PoE、CCTV 产品，自己的 logo」；KP Pratap（pratap@，+91 97788 02333））；表内无跟进记录。
 - **对方真实需求（有据）**：自有 logo PoE 交换机（配 NVR 套装）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AlconLink 标；工业线 STI-288GP；24 口 NVR 配套 STC-424DGGPM-280W
 - **断点 / 为什么停在这里**：印度 BIS：由 AlconLink 以其品牌取证；整机关税高 → SKD 可谈
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-19 $16000（32 Port 400GB DC Switch））——自有 logo PoE 交换机（配 NVR 套装）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 AlconLink 标；工业线 STI-288GP；24 口 NVR 配套 STC-424DGGPM-280W
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Pratap, for the AlconLink-branded PoE and industrial switches on your product pages, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-06 | out | Elsa → sales@alconlink.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
+| 2025-06-22 | out | Elsa → sales@alconlink.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
+| 2025-10-15 | out | Elsa → sales@alconlink.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
+| 2025-12-09 | out | Elsa → sales@alconlink.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
+| 2026-01-09 | out | Elsa → sales@alconlink.com | OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
+| 2026-03-03 | out | Elsa → sales@alconlink.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
+| 2026-04-01 | out | Elsa → sales@alconlink.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | A 群发 | Industrial PoE Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-02（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE CCTV产品 自己的logo；91-97788 02333 | 表内备注 | `用户表` |
 
@@ -277,12 +284,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

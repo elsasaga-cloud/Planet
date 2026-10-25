@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1033` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」）** ｜ 类型：模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：斯里兰卡 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」；研究档 risks：RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」）；Elsa 1:1 去信 3 轮 2026-03-24→2026-08-06（To 仅本户 akalooshad@skipod.lk；头 msg 19fd671a41e65a70 核对无 Bcc，称呼「Hi, Akaloosha」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Marvell Managed Commercial Switches、10G Enterprise SFP Switch、24 Port PoE Managed Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete，直收 3 条、无 Re: 行）** ｜ 类型：模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：斯里兰卡 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」；研究档 risks：RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）
 - **现状一句话**：斯里兰卡 SkiPod Manufacture Pvt Ltd（混合现实滑雪模拟器设计制造商，BOI 支持的制造设施；2026 年阿里巴巴 RFQ「10 个 8 电口」；KP Akaloosha Dolage）；表内未跟进。
 - **对方真实需求（有据）**：RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效
 - **断点 / 为什么停在这里**：RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）
@@ -50,9 +50,12 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-03-24 | out | Elsa → akalooshad@skipod.lk | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回 | `elsa_1to1` |
+| 2026-05-05 | out | Elsa → akalooshad@skipod.lk | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/3 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回 | `elsa_1to1` |
+| 2026-08-06 | out | Elsa → akalooshad@skipod.lk | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 3 轮见 facts；S/A 箱无往来）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -241,12 +244,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

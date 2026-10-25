@@ -1,131 +1,131 @@
 {
-  "code": "SB-1051",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（wave1.com.au，快照 2026-10-21）",
-  "summary": "澳大利亚 Wave1 Pty Ltd（无线微波通信集成商：楼宇间无线电信、塔架/拖车基础设施、安装；KP Wayne Anderson（CEO）「可以多跟进一下」；表内「工业 FS」）；群发 22 次无回复。",
-  "type": "无线微波通信集成商（澳大利亚）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Wireless Microwave Communications Australia | Wave1；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Discover Wave1's advanced wireless communication solutions, offering high-speed, reliable and secure connection for diverse organisational needs. Enquire now.",
-      "url": "https://wave1.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Wave1 定位",
-      "quote": "Wireless Microwave Communications Australia | Wave1 ; Wireless Building to Building Telecommunications",
-      "url": "https://wave1.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS；可以多跟进",
-      "quote": "工业FS；Wayne Anderson / CEO 可以多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Wayne Anderson",
-      "title": "CEO",
-      "email": "wayne@wave1.com.au",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1051",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（wave1.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 Wave1 Pty Ltd（无线微波通信集成商：楼宇间无线电信、塔架/拖车基础设施、安装；KP Wayne Anderson（CEO）「可以多跟进一下」；表内「工业 FS」）；群发 22 次无回复。",
+ "type": "无线微波通信集成商（澳大利亚）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Wireless Microwave Communications Australia | Wave1；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Discover Wave1's advanced wireless communication solutions, offering high-speed, reliable and secure connection for diverse organisational needs. Enquire now.",
+   "url": "https://wave1.com.au/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "澳大利亚",
-    "other": "官网 wave1.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "无线微波通信 / 基础设施集成（澳大利亚）"
-  ],
-  "channels": {
-    "role": "无线微波通信集成商（澳大利亚）",
-    "region": "澳大利亚",
-    "contact": "wayneand4305@icloud.com、wayne@wave1.com.au"
+  {
+   "kind": "官网快照",
+   "claim": "Wave1 定位",
+   "quote": "Wireless Microwave Communications Australia | Wave1 ; Wireless Building to Building Telecommunications",
+   "url": "https://wave1.com.au/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Wireless Microwave Communications Australia | Wave1 ; Wireless Building to Building Telecommunications ; Product Range ; Installation；页面 /our-products/infrastructure/towers/；kw wireless 83 / telecom 29",
-    "表内：工业 FS；KP Wayne Anderson / CEO 可以多跟进一下"
-  ],
-  "risks": [
-    "非主攻区（T5，澳大利亚）；RCM 由客户侧处理；22 次无回复 → 改向 CEO 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "无线站点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）、8 GE + 2 SFP STI-280GE（$48.6）"
-  },
-  "email_hook": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side) from single units, EXW USD — which site configuration do your building-to-building links use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 32 封 2024→2026，1 次记录打开，0 回；收件 wayne@wave1.com.au, wayneand4305@icloud.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」）",
-      "type": "无线微波通信集成商（澳大利亚）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "32 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "澳大利亚 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 32，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；RCM 由客户侧处理；22 次无回复 → 改向 CEO 具名首触"
-    },
-    "situation": "澳大利亚 Wave1 Pty Ltd（无线微波通信集成商：楼宇间无线电信、塔架/拖车基础设施、安装；KP Wayne Anderson（CEO）「可以多跟进一下」；表内「工业 FS」）；群发 22 次无回复。",
-    "need": "无线站点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）、8 GE + 2 SFP STI-280GE（$48.6）",
-    "breakpoint": "非主攻区（T5，澳大利亚）；RCM 由客户侧处理；22 次无回复 → 改向 CEO 具名首触",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "换人再触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-30 $65（10G Media Converter）、2025-01-01 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）",
-      "why": "无线站点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）、8 GE + 2 SFP STI-280GE（$48.6）。已打开的主题（1/32 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-02) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side) from single units, EXW USD — which site configuration do your building-to-building links use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-01",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-        "why": "32 封 / 1 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-10-01（32 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS；可以多跟进",
+   "quote": "工业FS；Wayne Anderson / CEO 可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Wayne Anderson",
+   "title": "CEO",
+   "email": "wayne@wave1.com.au",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 wave1.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "无线微波通信 / 基础设施集成（澳大利亚）"
+ ],
+ "channels": {
+  "role": "无线微波通信集成商（澳大利亚）",
+  "region": "澳大利亚",
+  "contact": "wayneand4305@icloud.com、wayne@wave1.com.au"
+ },
+ "signals": [
+  "官网：Wireless Microwave Communications Australia | Wave1 ; Wireless Building to Building Telecommunications ; Product Range ; Installation；页面 /our-products/infrastructure/towers/；kw wireless 83 / telecom 29",
+  "表内：工业 FS；KP Wayne Anderson / CEO 可以多跟进一下"
+ ],
+ "risks": [
+  "非主攻区（T5，澳大利亚）；RCM 由客户侧处理；22 次无回复 → 改向 CEO 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "无线站点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）、8 GE + 2 SFP STI-280GE（$48.6）"
+ },
+ "email_hook": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side) from single units, EXW USD — which site configuration do your building-to-building links use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 32 封 2024→2026，1 次记录打开，0 回；收件 wayne@wave1.com.au, wayneand4305@icloud.com；主题多为「Industrial PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:wave1.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 32 / 来 0）（第 74 批(n)））",
+   "type": "无线微波通信集成商（澳大利亚）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "32 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 32，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；RCM 由客户侧处理；22 次无回复 → 改向 CEO 具名首触"
+  },
+  "situation": "澳大利亚 Wave1 Pty Ltd（无线微波通信集成商：楼宇间无线电信、塔架/拖车基础设施、安装；KP Wayne Anderson（CEO）「可以多跟进一下」；表内「工业 FS」）；群发 22 次无回复。",
+  "need": "无线站点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）、8 GE + 2 SFP STI-280GE（$48.6）",
+  "breakpoint": "非主攻区（T5，澳大利亚）；RCM 由客户侧处理；22 次无回复 → 改向 CEO 具名首触",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "换人再触锚价 STI-288GPM $82.2 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-30 $65（10G Media Converter）、2025-01-01 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2026-06-12 $16000（32 Port 400GB DC Switch）",
+   "why": "无线站点配套 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、4 PoE + 1 SFP STI-154GP（$39.2）、8 GE + 2 SFP STI-280GE（$48.6）。已打开的主题（1/32 封有打开记录）：「Mini Industrial PoE Switch」(2025-09-02) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Wayne, for the switches at your microwave link sites and tower cabinets, we supply Marvell-based DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS; RCM by your side) from single units, EXW USD — which site configuration do your building-to-building links use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "32 封 / 1 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-10-01（32 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

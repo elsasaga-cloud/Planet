@@ -75,7 +75,7 @@
   "email_hook": "Mr. Madhav, for the AADONA industrial switch page — Marvell-based DIN managed 8-PoE + 2-SFP (and 16-PoE) can ship under your label or as SKD kits for local assembly; which format fits your Make-in-India requirement?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ceo@aadona.com, govind.madhav@aadona.com；主题多为「24 Port PoE Managed Switch、48 Port PoE Managed Switch」）",
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 ceo@aadona.com, govind.madhav@aadona.com；主题多为「24 Port PoE Managed Switch、48 Port PoE Managed Switch」）；Elsa 1:1 去信 7 轮 2025-05-06→2026-04-01（To 仅本户 ceo@aadona.com / govind.madhav@aadona.com（按地址：ceo@aadona.com 7 轮 / govind.madhav@aadona.com 5 轮）；头 msg 19d4845620351ed3 核对无 Bcc，称呼「Hi, Pinaki」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete，直收 7 条、无 Re: 行）",
       "type": "—",
       "sieve": "1（只收到群发）",
       "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -98,10 +98,73 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开",
       "one_question": "Mr. Madhav, for the AADONA industrial switch page — Marvell-based DIN managed 8-PoE + 2-SFP (and 16-PoE) can ship under your label or as SKD kits for local assembly; which format fits your Make-in-India requirement?"
     },
     "facts": [
+      {
+        "date": "2025-05-06",
+        "dir": "out",
+        "who": "Elsa → ceo@aadona.com",
+        "quote": "90W PoE Managed Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "196a57797852295f"
+      },
+      {
+        "date": "2025-06-22",
+        "dir": "out",
+        "who": "Elsa → ceo@aadona.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19796a4eacf08758"
+      },
+      {
+        "date": "2025-10-15",
+        "dir": "out",
+        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199e6c95a0eaba6c"
+      },
+      {
+        "date": "2025-12-09",
+        "dir": "out",
+        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b020d88102c301"
+      },
+      {
+        "date": "2026-01-09",
+        "dir": "out",
+        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ba0fb91a1bbf14"
+      },
+      {
+        "date": "2026-03-03",
+        "dir": "out",
+        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19cb26ccaf290575"
+      },
+      {
+        "date": "2026-04-01",
+        "dir": "out",
+        "who": "Elsa → ceo@aadona.com, govind.madhav@aadona.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d4845620351ed3"
+      },
       {
         "date": "2026-09-02",
         "dir": "去",

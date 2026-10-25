@@ -1,179 +1,179 @@
 {
-  "code": "SA-094",
-  "name_official": "ETRADINGKOREA Co., Ltd.（이트레이딩코리아）",
-  "website_status": "在线（etradingkorea.com，快照 2026-10-21，韩语）",
-  "summary": "韩国网络 / 安防设备分销商（Cisco、Aruba、Fortinet、Juniper；自有 ETK-xxxx 系列交换机 / 工业交换机目录，CCTV 方案页），SECON 2023 接触，联系人 Woosy（naver）与 Reesung Park；2025-06 对 Alarm 回复 INFO。自有 ETK 型号 = 贴牌采购 → OEM 30%。",
-  "type": "品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销",
-  "size": "小型（待补证）",
-  "brands_seen": [
-    "ETK（自有）",
-    "Cisco",
-    "Aruba",
-    "Juniper",
-    "Arista",
-    "Finisar",
-    "Intel",
-    "Fortinet"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "自称工业 bypass 交换机领先企业，支持 2.5G/10G、ERPS、PoE++、-40~80℃、IP40",
-      "quote": "Leading company of Industrial Bypass Network Switch… Managed L2/L3 2.5G /10G Industrial Bypass Switch… Support to ERPS Ring & Smart Ring… PoE, PoE+, PoE++… Working Temperature : -40~80℃",
-      "url": "http://www.etradingkorea.co.kr/eng/index.asp",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "产品线含管理型 L3 10G 工业交换机、光模块、AOC，并取得 KC/TTA 认证与安全功能确认书",
-      "quote": "관리형 L3 10G 산업용스위치… ETK-4000B,4000R Series 보안 기능 확인서(발급일: 2024년12월)… TTA 성능 인증, KC인증",
-      "url": "https://etradingkorea.com/eng/sub/product/prd_all.asp",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "方案含铁路/ITS/电厂（守界类）",
-      "quote": "Smart Factory Solution… Expressway ITS Solution… Railroad Solution… Power Plant Solution",
-      "url": "http://www.etradingkorea.co.kr/eng/index.asp",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "品牌 Cisco / Aruba / Fortinet / Juniper；自有型号 ETK-4000B / ETK-5000B / ETK-5000R / ETK-2000B；有 industrial_switch 下载页与 CCTV 方案页；关键词 cctv 18 / 10g 11 / 2.5g 7",
-      "quote": "brands Cisco, Aruba, Fortinet, Juniper; models ETK-4000B, ETK-5000B, ETK-5000R, ETK-2000B… /sub/download/industrial_switch.asp… /sub/solution/cctv.asp",
-      "url": "https://etradingkorea.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "SECON 2023；2025-06 Alarm→INFO",
-      "quote": "回复：INFO",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Park Ree Sung（P.R. Sung）",
-      "role": "（用户记录）",
-      "email": "（用户记录为 Gmail 个人邮箱）",
-      "phone": "+82-2-6672-0008 / +82-10-6616-5491",
-      "source": "用户 Clients 表（Secon 2023）"
-    },
-    {
-      "name": "Woosy",
-      "title": "（表内联系人）",
-      "email": "woosy777@naver.com",
-      "phone": "+82 10 6616 5491",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Reesung Park",
-      "title": "（表内联系人）",
-      "email": "reesung.park@etradingkorea.com",
-      "phone": "+82 2 6672 0008",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。",
-  "notes": "重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
+ "code": "SA-094",
+ "name_official": "ETRADINGKOREA Co., Ltd.（이트레이딩코리아）",
+ "website_status": "在线（etradingkorea.com，快照 2026-10-21，韩语）",
+ "summary": "韩国网络 / 安防设备分销商（Cisco、Aruba、Fortinet、Juniper；自有 ETK-xxxx 系列交换机 / 工业交换机目录，CCTV 方案页），SECON 2023 接触，联系人 Woosy（naver）与 Reesung Park；2025-06 对 Alarm 回复 INFO。自有 ETK 型号 = 贴牌采购 → OEM 30%。",
+ "type": "品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销",
+ "size": "小型（待补证）",
+ "brands_seen": [
+  "ETK（自有）",
+  "Cisco",
+  "Aruba",
+  "Juniper",
+  "Arista",
+  "Finisar",
+  "Intel",
+  "Fortinet"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "自称工业 bypass 交换机领先企业，支持 2.5G/10G、ERPS、PoE++、-40~80℃、IP40",
+   "quote": "Leading company of Industrial Bypass Network Switch… Managed L2/L3 2.5G /10G Industrial Bypass Switch… Support to ERPS Ring & Smart Ring… PoE, PoE+, PoE++… Working Temperature : -40~80℃",
+   "url": "http://www.etradingkorea.co.kr/eng/index.asp",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "ETRADINGKOREA Co., Ltd.",
-    "founded": "（待核）",
-    "hq": "Seoul, Korea（+82 2 6672 0008）",
-    "size": "中小型分销商",
-    "other": "自有 ETK 系列交换机"
+  {
+   "kind": "官网",
+   "claim": "产品线含管理型 L3 10G 工业交换机、光模块、AOC，并取得 KC/TTA 认证与安全功能确认书",
+   "quote": "관리형 L3 10G 산업용스위치… ETK-4000B,4000R Series 보안 기능 확인서(발급일: 2024년12월)… TTA 성능 인증, KC인증",
+   "url": "https://etradingkorea.com/eng/sub/product/prd_all.asp",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "企业网络分销（Cisco / Aruba / Fortinet / Juniper）",
-    "自有品牌 ETK 交换机 / 工业交换机 / 2.5G / 10G",
-    "CCTV 方案"
-  ],
-  "products_seen": [
-    {
-      "brand": "ETK",
-      "model": "ETK-4000B / ETK-5000B / ETK-5000R",
-      "spec": "自有品牌交换机系列（贴牌）",
-      "saga": "Saga STC-28DGGPM / STC-424XGGPM-280W 贴牌对位",
-      "url": "https://etradingkorea.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "channels": {
-    "role": "分销商 + 自有品牌",
-    "region": "韩国"
+  {
+   "kind": "官网",
+   "claim": "方案含铁路/ITS/电厂（守界类）",
+   "quote": "Smart Factory Solution… Expressway ITS Solution… Railroad Solution… Power Plant Solution",
+   "url": "http://www.etradingkorea.co.kr/eng/index.asp",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "自有 ETK 线（含工业 / 2.5G / 10G）→ 持续贴牌采购需求",
-    "CCTV 方案 → PoE 交换机量"
-  ],
-  "risks": [
-    "韩国 KC 认证要求（Saga 无 KC，需客户自认证）",
-    "表内仅 Alarm 功能一次 INFO"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。"
+  {
+   "kind": "官网快照",
+   "claim": "品牌 Cisco / Aruba / Fortinet / Juniper；自有型号 ETK-4000B / ETK-5000B / ETK-5000R / ETK-2000B；有 industrial_switch 下载页与 CCTV 方案页；关键词 cctv 18 / 10g 11 / 2.5g 7",
+   "quote": "brands Cisco, Aruba, Fortinet, Juniper; models ETK-4000B, ETK-5000B, ETK-5000R, ETK-2000B… /sub/download/industrial_switch.asp… /sub/solution/cctv.asp",
+   "url": "https://etradingkorea.com/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Mr. Park, for the ETK range — the alarm-relay industrial PoE you asked about and a Marvell 8-PoE + 2-SFP L2+ can both carry the ETK label from small lots; which one is up for re-sourcing first?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（2025-06 代表问「能看你们网站吗」→ Alan「网站没什么内容，我们用 Google Drive」→ 无）",
-      "type": "韩国自有 ETK 系列品牌 + 分销；代表 우성영",
-      "sieve": "1",
-      "stop": "可信度：对方要网站，Saga 当时没有可看的网站（sagatele.com 2026 才上线）",
-      "revive": "用 sagatele.com 重新触达一次",
-      "lane": "KR",
-      "cadence": "2025-03 → 2026-09 去信 19 封；最后来信 2025-06-30",
-      "evidence": "k=1e09231d59bc6afc / f7147947b4499bda"
-    },
-    "situation": "代表亲自回「Can I see your web site?」，Alan 答「There is not much info on our website」并给 Drive 链接。对方消失。现在有 sagatele.com（6 款产品）——这是少数因「没网站」而停的户。",
-    "need": "ETK 系列 ODM 来源（研究档）。",
-    "breakpoint": "可信度门槛（网站）；现已有解。",
-    "saga_now": {
-      "p1": "HRUI STH 工业 2.5G/10G L3（研究档）",
-      "tier": 30,
-      "price": "再触锚价 STI-488XGGPM $178.8（30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-      "why": "一封：sagatele.com + 一句话。已打开的主题（2/19 封有打开记录）：「Marvell Industrial Alert System」(2025-06-30)、「Re: Marvell Industrial Alert System」(2025-06-30) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-20)、Download Link_Alan(2025-06-30)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → woosy777@naver.com",
-      "action": "给网站 + 问 ETK 外采 SKU",
-      "one_question": "Our site is now at sagatele.com — which ETK SKU is sourced externally today? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-06-30",
-        "dir": "来",
-        "who": "우성영（代表）",
-        "quote": "Can I see your web site?",
-        "why": "可信度",
-        "k": "1e09231d59bc6afc"
-      },
-      {
-        "date": "2025-06-30",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "There is not much info on our website.",
-        "why": "当时无网站",
-        "k": "f7147947b4499bda"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "Our website — sagatele.com",
-      "body": "Hello,\n\nIn June 2025 you asked to see our website and the honest answer then was \"not much on it\". That has changed: sagatele.com now carries the product lines, firmware notes and company background.\n\nOne question: which ETK model in your range is sourced from an outside ODM today? If you name it, I will send the matching Marvell-based industrial unit (2.5G/10G uplinks, L2+/L3) and a sample price — nothing else.\n\nReference price: STI-488XGGPM (8× GE PoE + 4× 10G SFP+, managed DIN-rail) at $178.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "SECON 2023；2025-06 Alarm→INFO",
+   "quote": "回复：INFO",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Park Ree Sung（P.R. Sung）",
+   "role": "（用户记录）",
+   "email": "（用户记录为 Gmail 个人邮箱）",
+   "phone": "+82-2-6672-0008 / +82-10-6616-5491",
+   "source": "用户 Clients 表（Secon 2023）"
+  },
+  {
+   "name": "Woosy",
+   "title": "（表内联系人）",
+   "email": "woosy777@naver.com",
+   "phone": "+82 10 6616 5491",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Reesung Park",
+   "title": "（表内联系人）",
+   "email": "reesung.park@etradingkorea.com",
+   "phone": "+82 2 6672 0008",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。",
+ "notes": "重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "ETRADINGKOREA Co., Ltd.",
+  "founded": "（待核）",
+  "hq": "Seoul, Korea（+82 2 6672 0008）",
+  "size": "中小型分销商",
+  "other": "自有 ETK 系列交换机"
+ },
+ "business_lines": [
+  "企业网络分销（Cisco / Aruba / Fortinet / Juniper）",
+  "自有品牌 ETK 交换机 / 工业交换机 / 2.5G / 10G",
+  "CCTV 方案"
+ ],
+ "products_seen": [
+  {
+   "brand": "ETK",
+   "model": "ETK-4000B / ETK-5000B / ETK-5000R",
+   "spec": "自有品牌交换机系列（贴牌）",
+   "saga": "Saga STC-28DGGPM / STC-424XGGPM-280W 贴牌对位",
+   "url": "https://etradingkorea.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "channels": {
+  "role": "分销商 + 自有品牌",
+  "region": "韩国"
+ },
+ "signals": [
+  "自有 ETK 线（含工业 / 2.5G / 10G）→ 持续贴牌采购需求",
+  "CCTV 方案 → PoE 交换机量"
+ ],
+ "risks": [
+  "韩国 KC 认证要求（Saga 无 KC，需客户自认证）",
+  "表内仅 Alarm 功能一次 INFO"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。"
+ },
+ "email_hook": "Mr. Park, for the ETK range — the alarm-relay industrial PoE you asked about and a Marvell 8-PoE + 2-SFP L2+ can both carry the ETK label from small lots; which one is up for re-sourcing first?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（2025-06 代表问「能看你们网站吗」→ Alan「网站没什么内容，我们用 Google Drive」→ 无；Elsa 箱：`to:etradingkorea.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 1）（第 74 批(n)））",
+   "type": "韩国自有 ETK 系列品牌 + 分销；代表 우성영",
+   "sieve": "1",
+   "stop": "可信度：对方要网站，Saga 当时没有可看的网站（sagatele.com 2026 才上线）",
+   "revive": "用 sagatele.com 重新触达一次",
+   "lane": "KR",
+   "cadence": "2025-03 → 2026-09 去信 19 封；最后来信 2025-06-30",
+   "evidence": "k=1e09231d59bc6afc / f7147947b4499bda"
+  },
+  "situation": "代表亲自回「Can I see your web site?」，Alan 答「There is not much info on our website」并给 Drive 链接。对方消失。现在有 sagatele.com（6 款产品）——这是少数因「没网站」而停的户。",
+  "need": "ETK 系列 ODM 来源（研究档）。",
+  "breakpoint": "可信度门槛（网站）；现已有解。",
+  "saga_now": {
+   "p1": "HRUI STH 工业 2.5G/10G L3（研究档）",
+   "tier": 30,
+   "price": "再触锚价 STI-488XGGPM $178.8（30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "一封：sagatele.com + 一句话。已打开的主题（2/19 封有打开记录）：「Marvell Industrial Alert System」(2025-06-30)、「Re: Marvell Industrial Alert System」(2025-06-30) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-20)、Download Link_Alan(2025-06-30)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → woosy777@naver.com",
+   "action": "给网站 + 问 ETK 外采 SKU",
+   "one_question": "Our site is now at sagatele.com — which ETK SKU is sourced externally today? Reference: STI-488XGGPM at $178.8 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-06-30",
+    "dir": "来",
+    "who": "우성영（代表）",
+    "quote": "Can I see your web site?",
+    "why": "可信度",
+    "k": "1e09231d59bc6afc"
+   },
+   {
+    "date": "2025-06-30",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "There is not much info on our website.",
+    "why": "当时无网站",
+    "k": "f7147947b4499bda"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Our website — sagatele.com",
+   "body": "Hello,\n\nIn June 2025 you asked to see our website and the honest answer then was \"not much on it\". That has changed: sagatele.com now carries the product lines, firmware notes and company background.\n\nOne question: which ETK model in your range is sourced from an outside ODM today? If you name it, I will send the matching Marvell-based industrial unit (2.5G/10G uplinks, L2+/L3) and a sample price — nothing else.\n\nReference price: STI-488XGGPM (8× GE PoE + 4× 10G SFP+, managed DIN-rail) at $178.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

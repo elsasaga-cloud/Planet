@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-295` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：喀麦隆 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12」；研究档 risks：无公司资料、gmail
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 」；Elsa 箱：`to:omegatec3@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：喀麦隆 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「16 port Giga POE switch 要价格表 Reseller；2024.4.16 发了2光4小壳信息 → 问了多光交换机；106 dac → 12」；研究档 risks：无公司资料、gmail
 - **现状一句话**：喀麦隆网络设备转售商 OMEGATEC SARL（Stephane Mbongou，gmail，WA 已加；搜索无公开资料）。要 16 口千兆 PoE 交换机与价格表、自称 Reseller；2024 问多光口交换机、12 光 L3；20 次推送 1 次实质回复。→ B 20%（经销）。
 - **对方真实需求（有据）**：16 口千兆 PoE + 2 SFP 非管理（HRUI 列表价 $88）贴合首问；多光口/L3 用 STC-424XGGM(L3) 补位
 - **断点 / 为什么停在这里**：无公司资料、gmail
@@ -233,12 +233,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1243` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「POE配件工业FS 有自己的logo 多数还是卖别人的」）** ｜ 类型：区域总分销商（东非，少量自有 logo） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：肯尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「POE配件工业FS 有自己的logo 多数还是卖别人的」；研究档 risks：非主攻区（T5，东非）：物流/结算路径待核；品牌授权分销为主（表内「多数还是卖别人的」）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「POE配件工业FS 有自己的logo 多数还是卖别人的」）；Elsa 1:1 去信 11 轮 2025-04-07→2026-08-05（To 仅本户 kenya@simplifinetworks.com / uganda@simplifinetworks.com（按地址：kenya@simplifinetworks.com 11 轮 / uganda@simplifinetworks.com 1 轮）；头 msg 19fd0efbde7c7633 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete，直收 11 条、无 Re: 行）** ｜ 类型：区域总分销商（东非，少量自有 logo） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：肯尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「POE配件工业FS 有自己的logo 多数还是卖别人的」；研究档 risks：非主攻区（T5，东非）：物流/结算路径待核；品牌授权分销为主（表内「多数还是卖别人的」）
 - **现状一句话**：肯尼亚 Simplifi Networks（东非与中非网络通信设备总分销：Huawei eKit、Ubiquiti、Ruijie、MikroTik；ONV 产品；乌干达亦有邮箱；表内「PoE 配件 / 工业 FS 有自己的 logo，多数还是卖别人的」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：自有 logo 少量工业 FS/PoE 配件（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）；商用位 STC-28DGGPM；AP 配套 PoE 位 HRUI STC-028GP
 - **断点 / 为什么停在这里**：非主攻区（T5，东非）：物流/结算路径待核；品牌授权分销为主（表内「多数还是卖别人的」）
@@ -50,9 +50,20 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-07 | out | Elsa → kenya@simplifinetworks.com, uganda@simplifinetworks.com | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-05-05 | out | Elsa → kenya@simplifinetworks.com | Commercial PoE Switch（Elsa 1:1 逐月名单第 2/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-06-09 | out | Elsa → kenya@simplifinetworks.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-07-16 | out | Elsa → kenya@simplifinetworks.com | Managed Optical Bypass Switch（Elsa 1:1 逐月名单第 4/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-10-07 | out | Elsa → kenya@simplifinetworks.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 5/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-12-01 | out | Elsa → kenya@simplifinetworks.com | Booster PoE Switch（Elsa 1:1 逐月名单第 6/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-01-05 | out | Elsa → kenya@simplifinetworks.com | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 7/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-02-17 | out | Elsa → kenya@simplifinetworks.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 8/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-03-23 | out | Elsa → kenya@simplifinetworks.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 9/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-05-04 | out | Elsa → kenya@simplifinetworks.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 10/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-08-05 | out | Elsa → kenya@simplifinetworks.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 11/11 轮；To 仅本户；正文 Price: 170USD/PC） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | POE配件工业FS 有自己的logo 多数还是卖别人的 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 11 轮见 facts；S/A 箱无往来）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -254,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

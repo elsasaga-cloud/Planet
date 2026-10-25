@@ -26,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-031` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」；研究档 risks：守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」；Elsa 箱：`to:nivoxtech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC」；研究档 risks：守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路
 - **现状一句话**：班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。
 - **对方真实需求（有据）**：其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。
 - **断点 / 为什么停在这里**：守界：问 EN50155 = 铁路项目；Saga 无 EN50155，不供铁路
@@ -266,12 +266,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

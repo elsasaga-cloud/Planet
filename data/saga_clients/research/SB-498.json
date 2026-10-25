@@ -1,112 +1,112 @@
 {
-  "code": "SB-498",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（timeout）",
-  "summary": "新加坡 Fibertek-AP（自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边产品；表内「看着像国内的外壳」；官网超时）；群发 17 次无回复。",
-  "type": "光网络产品自有品牌商（新加坡，疑似国内货源）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "自己的牌子 像国内外壳",
-      "quote": "工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-498",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（timeout）",
+ "summary": "新加坡 Fibertek-AP（自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边产品；表内「看着像国内的外壳」；官网超时）；群发 17 次无回复。",
+ "type": "光网络产品自有品牌商（新加坡，疑似国内货源）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "新加坡",
-    "other": "官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表"
-  },
-  "business_lines": [
-    "工业 FS / VC / MC / SFP / 光猫（自有品牌 Fibertek）"
-  ],
-  "channels": {
-    "role": "光网络产品自有品牌商（新加坡，疑似国内货源）",
-    "region": "新加坡",
-    "contact": "sales@fibertek-ap.com"
-  },
-  "signals": [
-    "表内：工业 FS 多功能 VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
-    "快照：timeout"
-  ],
-  "risks": [
-    "疑似国内货源的转贴品牌（价格基准低、可能为同行贸易）；17 次无回复（低期望）；非主攻区（T5，新加坡）；官网超时"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供"
-  },
-  "email_hook": "For the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 sales@fibertek-ap.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "光网络产品自有品牌商（新加坡，疑似国内货源）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "新加坡 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子」；研究档 risks：疑似国内货源的转贴品牌（价格基准低、可能为同行贸易）；17 次无回复（低期望）；非主攻区（T5，新加坡）；官网超时"
-    },
-    "situation": "新加坡 Fibertek-AP（自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边产品；表内「看着像国内的外壳」；官网超时）；群发 17 次无回复。",
-    "need": "自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供",
-    "breakpoint": "疑似国内货源的转贴品牌（价格基准低、可能为同行贸易）；17 次无回复（低期望）；非主攻区（T5，新加坡）；官网超时",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 30,
-      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-18 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
-      "why": "自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供。已打开的主题（2/26 封有打开记录）：「24 Port Fiber Switch」(2025-02-03)、「Mini Industrial PoE Switch」(2025-09-10) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-27)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → sales@fibertek-ap.com",
-      "action": "短信一问（email_hook）",
-      "one_question": "For the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-18",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "26 封 / 2 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-18（26 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Industrial PoE Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "自己的牌子 像国内外壳",
+   "quote": "工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 fibertek-ap.com，语言 ?，快照状态 timeout；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业 FS / VC / MC / SFP / 光猫（自有品牌 Fibertek）"
+ ],
+ "channels": {
+  "role": "光网络产品自有品牌商（新加坡，疑似国内货源）",
+  "region": "新加坡",
+  "contact": "sales@fibertek-ap.com"
+ },
+ "signals": [
+  "表内：工业 FS 多功能 VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
+  "快照：timeout"
+ ],
+ "risks": [
+  "疑似国内货源的转贴品牌（价格基准低、可能为同行贸易）；17 次无回复（低期望）；非主攻区（T5，新加坡）；官网超时"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供"
+ },
+ "email_hook": "For the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 sales@fibertek-ap.com；被打开主题「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:fibertek-ap.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 0）（第 74 批(n)））",
+   "type": "光网络产品自有品牌商（新加坡，疑似国内货源）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "新加坡 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子」；研究档 risks：疑似国内货源的转贴品牌（价格基准低、可能为同行贸易）；17 次无回复（低期望）；非主攻区（T5，新加坡）；官网超时"
+  },
+  "situation": "新加坡 Fibertek-AP（自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边产品；表内「看着像国内的外壳」；官网超时）；群发 17 次无回复。",
+  "need": "自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供",
+  "breakpoint": "疑似国内货源的转贴品牌（价格基准低、可能为同行贸易）；17 次无回复（低期望）；非主攻区（T5，新加坡）；官网超时",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-18 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）",
+   "why": "自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供。已打开的主题（2/26 封有打开记录）：「24 Port Fiber Switch」(2025-02-03)、「Mini Industrial PoE Switch」(2025-09-10) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-27)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → sales@fibertek-ap.com",
+   "action": "短信一问（email_hook）",
+   "one_question": "For the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-18",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "26 封 / 2 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-18（26 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

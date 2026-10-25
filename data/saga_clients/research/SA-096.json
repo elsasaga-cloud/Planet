@@ -111,7 +111,7 @@
  "email_hook": "You asked for an L3 industrial managed PoE switch and a model list — our DIN-rail L3 unit has 8 PoE+ ports, 4 SFP and 4×10G SFP+; shall I send it together with the L2+ 8-port and the industrial media converters you were sourcing for the ONT project?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed swi」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed swi」；Elsa 箱：`to:om-telecom.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "电信设备经销商",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

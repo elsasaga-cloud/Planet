@@ -68,7 +68,7 @@
   "site_mismatch": true,
   "mail_review": {
     "binding": {
-      "level": "未触达（digest 计 12 封来信为 odoo.com 系统噪声；实际对 info@tamyeezsecurity.com 4 封群发 0 回）",
+      "level": "未触达（digest 计 12 封来信为 odoo.com 系统噪声；实际对 info@tamyeezsecurity.com 4 封群发 0 回）；Elsa 1:1 去信 6 轮 2025-12-03→2026-08-05（To 仅本户 info@tamyeezsecurity.com；头 msg 19fd14b48811e5d7 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete，直收 6 条、无 Re: 行）",
       "type": "卡塔尔安防集成（Tamyeez；Utepo 在用）",
       "sieve": "0",
       "stop": "自动回复/机器人，无人工回复",
@@ -94,7 +94,62 @@
       "action": "—",
       "one_question": ""
     },
-    "facts": [],
+    "facts": [
+      {
+        "date": "2025-12-03",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ae294e51d40eac"
+      },
+      {
+        "date": "2026-01-01",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b78b6ba6b362c4"
+      },
+      {
+        "date": "2026-02-16",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c65645524c750a"
+      },
+      {
+        "date": "2026-03-23",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d19ec278ffc2cb"
+      },
+      {
+        "date": "2026-05-04",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df224ee1068cca"
+      },
+      {
+        "date": "2026-08-05",
+        "dir": "out",
+        "who": "Elsa → info@tamyeezsecurity.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户；正文 Price: 170USD/PC）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd14b48811e5d7"
+      }
+    ],
     "proof_gaps": [],
     "draft_en": null,
     "as_of": "2026-10-24"

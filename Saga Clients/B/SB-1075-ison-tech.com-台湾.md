@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1075` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 sales@ison-tech.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：台湾 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS FS MC 自己的logo」；研究档 risks：台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺
+- **绑定等级：未触达（A/S 邮箱 22 封 2024→2026，1 次记录打开，0 回；收件 sales@ison-tech.com；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」；Elsa 箱：`to:ison-tech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(n)））** ｜ 类型：台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：台湾 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 22，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS FS MC 自己的logo」；研究档 risks：台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺
 - **现状一句话**：台湾 ISON Technology（Industrial Solution Over Network：工业网络品牌，面向自动化应用做系统规划；站内自有型号 IS-RH709 / IS-DF208T / ECS4150-54P；表内「工业 FS / FS / MC，自己的 logo」）；群发 19 次无回复。
 - **对方真实需求（有据）**：自有品牌工业管理交换机 → 二供 / 补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、非管理 STI-280GE、工业 MC STI-110GE
 - **断点 / 为什么停在这里**：台湾品牌商：自有 ODM 体系，Saga 只做二供/补缺
@@ -296,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

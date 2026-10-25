@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-123` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「买了MC POE / Prestige Satellites Communications S.A.C. / rob@p」）** ｜ 类型：通信集成/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：秘鲁 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸」；研究档 risks：国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「买了MC POE / Prestige Satellites Communications S.A.C. / rob@p」；Elsa 箱：`to:prestigevsat.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：通信集成/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：秘鲁 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸」；研究档 risks：国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证
 - **现状一句话**：域名 prestigevsat.com 对应 Prestige Satellite Communications Inc.（佛罗里达州公司，2016-01-26 注册；Fort Lauderdale；为豪华游艇提供 VSAT / TVRO / IT 网络服务与安装维修；团队 30+ 年经验；1–10 人）。用户表（外贸邦群发名单）记为「Prestige Satellites Communications S.A.C.（秘鲁）」，rob@prestigevsat.com，买了 MC PoE——公司后缀 S.A.C. 与域名所指美国公司不一致，国家待核（美国则属主攻区）。游艇 IT 网络 → 小型 PoE/工业机（振动/盐雾环境需注意）。
 - **对方真实需求（有据）**：项目 25% 档：STI-144GP（DIN 4 GE PoE + 1 SFP + 1 GE，宽温，$35.5）作船载 PoE 接入 + 光纤上联；MC STI-110GE（$23.4）；8 口 STI-288GP（$59.8）
 - **断点 / 为什么停在这里**：国家/主体待核；微型公司；船用环境（盐雾/振动）无专门认证
@@ -251,12 +251,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

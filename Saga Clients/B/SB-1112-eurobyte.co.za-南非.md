@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1112` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 jacqueline@eurobyte.co.za, sales@eurobyte.co.za；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：IT/安防分销商（南非，PLANET 工业线在售） ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：南非 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 13；用户表：「在用Planet的」；研究档 risks：非主攻区（T5，南非）；PLANET 既定线
+- **绑定等级：未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 jacqueline@eurobyte.co.za, sales@eurobyte.co.za；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:eurobyte.co.za` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(n)））** ｜ 类型：IT/安防分销商（南非，PLANET 工业线在售） ｜ 筛子：1（只收到群发） ｜ 停点：13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：南非 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 13；用户表：「在用Planet的」；研究档 risks：非主攻区（T5，南非）；PLANET 既定线
 - **现状一句话**：南非 Eurobyte（安防/网络/IT/电源方案分销：CCTV、光纤与网络布线、网络设备、机柜；PLANET 工业 4/5 口交换机与 MC 产品页（在用 PLANET）、Ruijie / Huawei / Uniview；KP Jacqueline Irshwadhar（Network Product Manager，jacqueline@）、Tiffany Hope（Sales Executive））；表内 3 次跟进无回复。
 - **对方真实需求（有据）**：在售 PLANET IP30 工业 4 口 PoE / 5 口 slim → 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）/ 5 GE STI-050GE（$17.0）；MC 位 STI-110GE（$22.4）
 - **断点 / 为什么停在这里**：非主攻区（T5，南非）；PLANET 既定线
@@ -295,12 +295,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

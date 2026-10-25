@@ -80,7 +80,7 @@
   "email_hook": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 javier.zuniga@blueskill.co；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）",
+      "level": "未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 javier.zuniga@blueskill.co；主题多为「Industrial PoE Switch、16 Port PoE Managed Switch」）；Elsa 1:1 去信 7 轮 2025-10-10→2026-08-05（To 仅本户 javier.zuniga@blueskill.co；头 msg 19fd04af1ff28c60 核对无 Bcc，称呼「Hi, Javier」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete，直收 7 条、无 Re: 行）",
       "type": "安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）",
       "sieve": "1（只收到群发）",
       "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -103,7 +103,7 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-10→2026-08-05，0 回）（第 74 批(n)）；观察打开",
       "one_question": "Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?"
     },
     "facts": [
@@ -114,6 +114,69 @@
         "quote": "Industrial PoE Switch、16 Port PoE Managed Switch",
         "why": "6 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-08-04（6 去 / 0 来）",
         "k": "gmail_digest"
+      },
+      {
+        "date": "2025-10-10",
+        "dir": "out",
+        "who": "Elsa → javier.zuniga@blueskill.co",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199c9b44a85348b9"
+      },
+      {
+        "date": "2025-12-03",
+        "dir": "out",
+        "who": "Elsa → javier.zuniga@blueskill.co",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ae05d446046aae"
+      },
+      {
+        "date": "2026-01-01",
+        "dir": "out",
+        "who": "Elsa → javier.zuniga@blueskill.co",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b79e4da315e67c"
+      },
+      {
+        "date": "2026-02-16",
+        "dir": "out",
+        "who": "Elsa → javier.zuniga@blueskill.co",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c66f728e985aaf"
+      },
+      {
+        "date": "2026-03-23",
+        "dir": "out",
+        "who": "Elsa → javier.zuniga@blueskill.co",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d1b111f7f1ac66"
+      },
+      {
+        "date": "2026-05-04",
+        "dir": "out",
+        "who": "Elsa → javier.zuniga@blueskill.co",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df300a8ccccbf7"
+      },
+      {
+        "date": "2026-08-05",
+        "dir": "out",
+        "who": "Elsa → javier.zuniga@blueskill.co",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd04af1ff28c60"
       },
       {
         "date": "2026-10-21",

@@ -62,7 +62,7 @@
  "email_hook": "You mentioned you use Ethernet-to-fiber converters rather than E1 modems — our DIN-rail gigabit media converter is $22–24 EXW in small lots; want the current sheet together with the bypass switch you found useful?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Etherne」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Etherne」；Elsa 箱：`to:israr_awan@hotmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

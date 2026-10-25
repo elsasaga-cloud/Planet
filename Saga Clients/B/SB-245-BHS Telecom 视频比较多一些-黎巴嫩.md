@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-245` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：黎巴嫩 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check」；研究档 risks：需求 HDMI over IP/延长器不在 Saga 产品线
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check」；Elsa 箱：`to:bhs-media.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：黎巴嫩 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check」；研究档 risks：需求 HDMI over IP/延长器不在 Saga 产品线
 - **现状一句话**：卫星/广播电信服务集团 BHS Media（Dubai Media City 401 室；DTH 分发、contribution 链路、teleport、OTT；FB/ZoomInfo 均列迪拜地址与 +971 号码）。表内联系人 Khalil Haidar / Director（k.haidar@bhs-media.com，黎巴嫩 +961 3 597 100，WA 已加）要 HDMI over IP / HDMI 网络延长器（Saga 不做），2024-05 对 mini 工业交换机图回「will check」；19 次推送 1 次实质回复。主业广播传输，交换机只是机房配套 → B 25%，P1 待核（p1 null）。
 - **对方真实需求（有据）**：主需求 HDMI over IP（Saga 无）；机房/播出 IP 分发可用 STC-28DGGPM（IGMP）但无明确需求 → 待核型
 - **断点 / 为什么停在这里**：需求 HDMI over IP/延长器不在 Saga 产品线
@@ -262,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

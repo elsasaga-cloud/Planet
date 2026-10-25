@@ -1,125 +1,152 @@
 {
- "code": "SB-1033",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（skipod.lk，快照 2026-10-21）",
- "summary": "斯里兰卡 SkiPod Manufacture Pvt Ltd（混合现实滑雪模拟器设计制造商，BOI 支持的制造设施；2026 年阿里巴巴 RFQ「10 个 8 电口」；KP Akaloosha Dolage）；表内未跟进。",
- "type": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：SkiPod Manufacture Pvt Ltd - Sri Lanka",
-   "quote": "SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka. BOI-backed manufacturing facility delivering next-generation sports simulation worldwide.",
-   "url": "https://skipod.lk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "SkiPod 定位",
-   "quote": "SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka",
-   "url": "https://skipod.lk/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "10 个 8 电口 RFQ 2026",
-   "quote": "2026年使用国际站 / 10个8电口 / from: 阿里巴巴RFQ",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Akaloosha Dolage",
-   "title": "（职务待核）",
-   "email": "akalooshad@skipod.lk",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "斯里兰卡",
-  "other": "官网 skipod.lk，语言 en，快照状态 ok；角色判定来源：待核"
- },
- "business_lines": [
-  "混合现实滑雪模拟器制造（斯里兰卡）"
- ],
- "channels": {
-  "role": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
-  "region": "斯里兰卡",
-  "contact": "akalooshad@skipod.lk"
- },
- "signals": [
-  "官网：SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka. BOI-backed manufacturing facility",
-  "表内：2026 年使用国际站 / 10 个 8 电口 / from: 阿里巴巴 RFQ；KP Akaloosha Dolage"
- ],
- "risks": [
-  "RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 30,
-  "why": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效"
- },
- "email_hook": "Akaloosha, following your request for ten 8-port copper switches: we can supply either a DIN-rail industrial 8-GE unit (−40~75 °C, 12–57 V, for inside the simulator cabinet) or a desktop 8-GE model, CE/RoHS, EXW USD, 10–15 days — which mounting and input voltage does your simulator need?",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」）",
-   "type": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "斯里兰卡 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」；研究档 risks：RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）"
-  },
-  "situation": "斯里兰卡 SkiPod Manufacture Pvt Ltd（混合现实滑雪模拟器设计制造商，BOI 支持的制造设施；2026 年阿里巴巴 RFQ「10 个 8 电口」；KP Akaloosha Dolage）；表内未跟进。",
-  "need": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效",
-  "breakpoint": "RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 30,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1033",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（skipod.lk，快照 2026-10-21）",
+  "summary": "斯里兰卡 SkiPod Manufacture Pvt Ltd（混合现实滑雪模拟器设计制造商，BOI 支持的制造设施；2026 年阿里巴巴 RFQ「10 个 8 电口」；KP Akaloosha Dolage）；表内未跟进。",
+  "type": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：SkiPod Manufacture Pvt Ltd - Sri Lanka",
+      "quote": "SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka. BOI-backed manufacturing facility delivering next-generation sports simulation worldwide.",
+      "url": "https://skipod.lk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "SkiPod 定位",
+      "quote": "SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka",
+      "url": "https://skipod.lk/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "10 个 8 电口 RFQ 2026",
+      "quote": "2026年使用国际站 / 10个8电口 / from: 阿里巴巴RFQ",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "Akaloosha Dolage",
+      "title": "（职务待核）",
+      "email": "akalooshad@skipod.lk",
+      "phone": "",
+      "source": "用户表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "斯里兰卡",
+    "other": "官网 skipod.lk，语言 en，快照状态 ok；角色判定来源：待核"
+  },
+  "business_lines": [
+    "混合现实滑雪模拟器制造（斯里兰卡）"
+  ],
+  "channels": {
+    "role": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
+    "region": "斯里兰卡",
+    "contact": "akalooshad@skipod.lk"
+  },
+  "signals": [
+    "官网：SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka. BOI-backed manufacturing facility",
+    "表内：2026 年使用国际站 / 10 个 8 电口 / from: 阿里巴巴 RFQ；KP Akaloosha Dolage"
+  ],
+  "risks": [
+    "RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 30,
+    "why": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效"
+  },
+  "email_hook": "Akaloosha, following your request for ten 8-port copper switches: we can supply either a DIN-rail industrial 8-GE unit (−40~75 °C, 12–57 V, for inside the simulator cabinet) or a desktop 8-GE model, CE/RoHS, EXW USD, 10–15 days — which mounting and input voltage does your simulator need?",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」）；Elsa 1:1 去信 3 轮 2026-03-24→2026-08-06（To 仅本户 akalooshad@skipod.lk；头 msg 19fd671a41e65a70 核对无 Bcc，称呼「Hi, Akaloosha」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Marvell Managed Commercial Switches、10G Enterprise SFP Switch、24 Port PoE Managed Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete，直收 3 条、无 Re: 行）",
+      "type": "模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "斯里兰卡 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ」；研究档 risks：RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）"
+    },
+    "situation": "斯里兰卡 SkiPod Manufacture Pvt Ltd（混合现实滑雪模拟器设计制造商，BOI 支持的制造设施；2026 年阿里巴巴 RFQ「10 个 8 电口」；KP Akaloosha Dolage）；表内未跟进。",
+    "need": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效",
+    "breakpoint": "RFQ 2026 年（时效待核，优先回复）；设备制造商配套（量随产量）；非主攻区（T5，斯里兰卡）",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 30,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-03-24",
+        "dir": "out",
+        "who": "Elsa → akalooshad@skipod.lk",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d1f12834817098"
+      },
+      {
+        "date": "2026-05-05",
+        "dir": "out",
+        "who": "Elsa → akalooshad@skipod.lk",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/3 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19df782381e3a053"
+      },
+      {
+        "date": "2026-08-06",
+        "dir": "out",
+        "who": "Elsa → akalooshad@skipod.lk",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19fd671a41e65a70"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无来信（Elsa 去信 3 轮见 facts；S/A 箱无往来）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

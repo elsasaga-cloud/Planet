@@ -1,116 +1,116 @@
 {
-  "code": "SB-1084",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（omctech.com，快照 2026-10-21）",
-  "summary": "泰国 OMC Tech（omctech.com：视频转换器/光端机与 MC 为主，「基本没有 switch」；多个办事处邮箱（sales@ / rugged@）；「可以尝试多跟进一下」）；群发 9 次无回复。",
-  "type": "光端机/MC 供应商（泰国，多办事处）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：omctech.com",
-      "quote": "",
-      "url": "https://omctech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "VC MC 基本没有 switch",
-      "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1084",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（omctech.com，快照 2026-10-21）",
+ "summary": "泰国 OMC Tech（omctech.com：视频转换器/光端机与 MC 为主，「基本没有 switch」；多个办事处邮箱（sales@ / rugged@）；「可以尝试多跟进一下」）；群发 9 次无回复。",
+ "type": "光端机/MC 供应商（泰国，多办事处）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：omctech.com",
+   "quote": "",
+   "url": "https://omctech.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "泰国",
-    "other": "官网 omctech.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "视频光端机 / MC（泰国）"
-  ],
-  "channels": {
-    "role": "光端机/MC 供应商（泰国，多办事处）",
-    "region": "泰国",
-    "contact": "sales@omctech.com、rugged@omctech.com"
-  },
-  "signals": [
-    "表内：VC MC 基本没有 switch；好几个办事处的邮箱；可以尝试多跟进一下",
-    "快照：内容为空"
-  ],
-  "risks": [
-    "视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 20,
-    "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供"
-  },
-  "email_hook": "For the media-converter positions in your fibre transmission offer, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration do your customers order most alongside your video converters?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 apac@omctech.com, rugged@omctech.com；主题多为「10G Media Converter、16 Port Ethernet Switch」）",
-      "type": "光端机/MC 供应商（泰国，多办事处）",
-      "sieve": "1（只收到群发）",
-      "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "泰国 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 13；用户表：「VC MC 基本没有switch；好几个办事处的邮箱」；研究档 risks：视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空"
-    },
-    "situation": "泰国 OMC Tech（omctech.com：视频转换器/光端机与 MC 为主，「基本没有 switch」；多个办事处邮箱（sales@ / rugged@）；「可以尝试多跟进一下」）；群发 9 次无回复。",
-    "need": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供",
-    "breakpoint": "视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-28 $65（10G Media Converter）、2025-07-10 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
-      "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the media-converter positions in your fibre transmission offer, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration do your customers order most alongside your video converters?"
-    },
-    "facts": [
-      {
-        "date": "2026-02-17",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Media Converter、16 Port Ethernet Switch",
-        "why": "13 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-02-17（13 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "VC MC 基本没有 switch",
+   "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 omctech.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "视频光端机 / MC（泰国）"
+ ],
+ "channels": {
+  "role": "光端机/MC 供应商（泰国，多办事处）",
+  "region": "泰国",
+  "contact": "sales@omctech.com、rugged@omctech.com"
+ },
+ "signals": [
+  "表内：VC MC 基本没有 switch；好几个办事处的邮箱；可以尝试多跟进一下",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 20,
+  "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供"
+ },
+ "email_hook": "For the media-converter positions in your fibre transmission offer, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration do your customers order most alongside your video converters?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 13 封 2025→2026，无记录打开，0 回；收件 apac@omctech.com, rugged@omctech.com；主题多为「10G Media Converter、16 Port Ethernet Switch」；Elsa 箱：`to:omctech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 13 / 来 0）（第 74 批(n)））",
+   "type": "光端机/MC 供应商（泰国，多办事处）",
+   "sieve": "1（只收到群发）",
+   "stop": "13 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "泰国 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 13；用户表：「VC MC 基本没有switch；好几个办事处的邮箱」；研究档 risks：视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空"
+  },
+  "situation": "泰国 OMC Tech（omctech.com：视频转换器/光端机与 MC 为主，「基本没有 switch」；多个办事处邮箱（sales@ / rugged@）；「可以尝试多跟进一下」）；群发 9 次无回复。",
+  "need": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供",
+  "breakpoint": "视频光端机为主（Saga 不供）；基本不卖 switch；非主攻区（T5，泰国）；9 次无回复；官网快照空",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-28 $65（10G Media Converter）、2025-07-10 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
+   "why": "MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）；视频光端机 Saga 不供",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the media-converter positions in your fibre transmission offer, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration do your customers order most alongside your video converters?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-17",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Media Converter、16 Port Ethernet Switch",
+    "why": "13 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-02-17（13 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "VC MC 基本没有switch；好几个办事处的邮箱",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

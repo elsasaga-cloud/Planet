@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-126` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Simon 口径「只在有尾货/促销时触达，不做长期投入」）——但对方两次给出完整配置清单并索要规格价，均未获针对性答复** ｜ 类型：阿联酋无线/PoE 设备制造商（自称对华采购 18 年、交换机只 OEM 买、用 Qualcomm/Vitesse/Marvell）——第一档类型，用户表「老说价格高」 ｜ 筛子：2（2025-04-25 与 2026-07-15 / 08-10 两轮详细需求） ｜ 停点：Saga 侧未答：2025-04-25 Alan 回「Thanks for your information.」→ 对方动怒「stop judging others… We are not kids nor fools」；2026-07-15 要 4/8/16 口工业机（L2/L3、30W、BT、Booster）规格价、08-10 列 6 个配置「If u have options let me know」→ 只收到群发 ｜ 复活：Simon 改口径；若改，一张 STI 系列表（4/8/16 口 + Booster）一次答清 ｜ 通路：AE 非主攻 ｜ 节奏：2025-03 → 2026-09 去信 7 封；来信 5 封（全部实质） ｜ 证据：k=0d67c0a9ab801250 / 6168ab4df565d1b8 / b1ea294adc9a9165 / 769e74a29e076ac4 / 56266bb7e86273fa
+- **绑定等级：未绑定（Simon 口径「只在有尾货/促销时触达，不做长期投入」）——但对方两次给出完整配置清单并索要规格价，均未获针对性答复；Elsa 箱：`to:onnettechnologies.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 7 / 来 5）（第 74 批(n)）** ｜ 类型：阿联酋无线/PoE 设备制造商（自称对华采购 18 年、交换机只 OEM 买、用 Qualcomm/Vitesse/Marvell）——第一档类型，用户表「老说价格高」 ｜ 筛子：2（2025-04-25 与 2026-07-15 / 08-10 两轮详细需求） ｜ 停点：Saga 侧未答：2025-04-25 Alan 回「Thanks for your information.」→ 对方动怒「stop judging others… We are not kids nor fools」；2026-07-15 要 4/8/16 口工业机（L2/L3、30W、BT、Booster）规格价、08-10 列 6 个配置「If u have options let me know」→ 只收到群发 ｜ 复活：Simon 改口径；若改，一张 STI 系列表（4/8/16 口 + Booster）一次答清 ｜ 通路：AE 非主攻 ｜ 节奏：2025-03 → 2026-09 去信 7 封；来信 5 封（全部实质） ｜ 证据：k=0d67c0a9ab801250 / 6168ab4df565d1b8 / b1ea294adc9a9165 / 769e74a29e076ac4 / 56266bb7e86273fa
 - **现状一句话**：Saurabh 是 A 邮箱里少见的「来信比去信实在」的客户：2025-04 列出在用 4 款（4G BT+2SFP 管理、8G AT+2SFP 管理、8G+4SFP 管理、4G+1GE+2SFP 非管理，带 PoE 自动重启、250 m），2026-07/08 又列 6 个配置要规格价。Saga 两次都没有对位答复。Simon 对其定性「老说价格高、了解中国市场价」，决定不投入——与证据一致的是他确实只买 OEM、比价成熟；不一致的是他要的恰好是 Saga 工业线的标准品。
 - **对方真实需求（有据）**：4/8/16 口工业 PoE（30W / BT），2×SFP 上联，管理 + 非管理，PoE watchdog + 250 m DIP，Booster（10–30V 入 PoE 出）。
 - **断点 / 为什么停在这里**：不是对方没需求，是 Saga 选择不投入（战略取舍）。记录在案，不改 Simon 口径。
@@ -280,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

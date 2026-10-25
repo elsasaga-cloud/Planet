@@ -69,7 +69,7 @@
  "site_mismatch": "agilenetworks.com 为美国俄亥俄州 Agile Network Builders LLC（2010 年成立，混合光纤/无线宽带 ISP，总裁 Bob Mangum），与表内菲律宾宿务 Agile Network（CEO Neil Rule，ph.agilenetwork@gmail.com，地址 Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu 6000）不是同一公司；快照内容不采用",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.」；Elsa 箱：`to:agilenetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

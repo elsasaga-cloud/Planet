@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-194` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A 邮箱 16 封 2025→2026，其中 2 封被打开，0 回；收件 f.luniku@arfanet.al, info@arfanet.al；被打开主题「90W PoE Managed Switch、Mini Industrial PoE Switch」）** ｜ 类型：安防/弱电方案商（阿尔巴尼亚，bypass 光交换机询盘） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：阿尔巴尼亚（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「找点特别的光交换机，拍了bypass交换机；355 69 2088388 T 355 4450 0744」；研究档 risks：小国（阿尔巴尼亚）量小；bypass 为 SmartByte 型号（Saga 列表无，需注明）
+- **绑定等级：读而不回（A 邮箱 16 封 2025→2026，其中 2 封被打开，0 回；收件 f.luniku@arfanet.al, info@arfanet.al；被打开主题「90W PoE Managed Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:arfanet.al` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(n)））** ｜ 类型：安防/弱电方案商（阿尔巴尼亚，bypass 光交换机询盘） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：阿尔巴尼亚（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 16，Opened 标签 2（Simon 群发追踪）；用户表：「找点特别的光交换机，拍了bypass交换机；355 69 2088388 T 355 4450 0744」；研究档 risks：小国（阿尔巴尼亚）量小；bypass 为 SmartByte 型号（Saga 列表无，需注明）
 - **现状一句话**：阿尔巴尼亚 ArfaNet（产品分销 + 系统方案：报警、酒店系统、电视信号、视频监控（Hikvision）；表内「找点特别的光交换机，拍了 bypass 交换机」；KP Fatjon Luniku（administrator，f.luniku@））；群发 6 次无回复。
 - **对方真实需求（有据）**：询 bypass 光交换机 → SmartByte LT-IS6312GP-4GX8GT-FBP（4 SFP + 8 GE PoE，光纤 bypass，$194.3 @25%，SmartByte 型号注明，Saga 列表无）；常规工业位 STI-288GPM（$82.2）
 - **断点 / 为什么停在这里**：小国（阿尔巴尼亚）量小；bypass 为 SmartByte 型号（Saga 列表无，需注明）
@@ -294,12 +294,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

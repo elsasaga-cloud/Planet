@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-276` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：黎巴嫩 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求」；研究档 risks：黎巴嫩付款/局势风险
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需」；Elsa 箱：`to:mtco-lb.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：黎巴嫩 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求」；研究档 risks：黎巴嫩付款/局势风险
 - **现状一句话**：黎巴嫩贸易公司 Elhem Trading Co. Sal（Adnan Melhem / Managing Director，melhem@mtco-lb.com，+961 3 058 000，WA 已加）。表内「2V $120 / need pricelist for VC」（要 VC 价格表，含义待核：视频会议或摄像类），2024-06 对商业交换机图回「近期可能会有需求」；18 次推送 1 次实质回复。→ B 20%（贸易），黎巴嫩风险注明。
 - **对方真实需求（有据）**：贸易商泛需求 → 8 PoE + 2 SFP L2+ 起手；VC 含义待其澄清
 - **断点 / 为什么停在这里**：黎巴嫩付款/局势风险
@@ -264,12 +264,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

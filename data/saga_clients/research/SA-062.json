@@ -1,124 +1,124 @@
 {
-  "code": "SA-062",
-  "name_official": "AETEK Inc.（台湾）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（aetektec.com，快照 2026-10-21）",
-  "summary": "台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Hanwha",
-    "Axis"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "PoE 交换机、EPoX 系列、PoE 延长 / 注入 / MC / 浪涌 / 分离、备援 PoE 柜、摄像机护罩；+886 2 8245 2822；poe 231 / media converter 22",
-      "quote": "PoE Switch EPoX Series PoE Extender PoE Injector Media Converter PoE Surge Protector PoE Splitter Backup PoE Cabinet Camera Housing… Patent-awarded Ceiling PoE Solution… L2 PRO PoE Switches",
-      "url": "https://www.aetektec.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Simon 之前联系过，面谈：有时需要便宜方案可以找我们拿；可能他们提供软件让我们提供硬件；推了 2 光 10 电；有很多 BT 产品及配件，可能有机会下单",
-      "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "John Chen",
-      "title": "（表内联系人）",
-      "email": "jone.chen@aetektec.com",
-      "phone": "+886 2 8245 2822",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对：台系品牌 ODM）"
+ "code": "SA-062",
+ "name_official": "AETEK Inc.（台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（aetektec.com，快照 2026-10-21）",
+ "summary": "台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Hanwha",
+  "Axis"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "PoE 交换机、EPoX 系列、PoE 延长 / 注入 / MC / 浪涌 / 分离、备援 PoE 柜、摄像机护罩；+886 2 8245 2822；poe 231 / media converter 22",
+   "quote": "PoE Switch EPoX Series PoE Extender PoE Injector Media Converter PoE Surge Protector PoE Splitter Backup PoE Cabinet Camera Housing… Patent-awarded Ceiling PoE Solution… L2 PRO PoE Switches",
+   "url": "https://www.aetektec.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "AETEK Inc.",
-    "founded": "（待核）",
-    "hq": "新北市，台湾",
-    "size": "中小型 PoE 品牌商",
-    "other": "VNS Technologies（SB-247）为其阿联酋伙伴"
-  },
-  "business_lines": [
-    "PoE 交换机 / 延长 / 注入 / 备援（自有品牌）",
-    "监控配套"
-  ],
-  "channels": {
-    "role": "台系品牌商（低价 SKU 外购 / 软硬分工 ODM）",
-    "region": "全球（安防渠道）"
-  },
-  "signals": [
-    "明确表态：便宜方案找 Saga；软件 + Saga 硬件 → ODM 入口",
-    "BT 产品多 → Saga BT 工业款可配"
-  ],
-  "risks": [
-    "台系品牌商口径；软硬分工需 SmartByte 原厂固件配合",
-    "8 次跟进无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM-2BT",
-    "tier": 30,
-    "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。"
-  },
-  "email_hook": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 jone.chen@aetektec.com；主题多为「Marvell Industrial Alert System、Marvell Software Function List」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "台湾 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 14；用户表：「兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件」；研究档 risks：台系品牌商口径；软硬分工需 SmartByte 原厂固件配合"
-    },
-    "situation": "台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
-    "need": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
-    "breakpoint": "台系品牌商口径；软硬分工需 SmartByte 原厂固件配合",
-    "saga_now": {
-      "p1": "STI-288DGGPM-2BT",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-09 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
-      "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the CLI/SNMP integration notes (no SDK is provided)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-04",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Marvell Industrial Alert System、Marvell Software Function List",
-        "why": "14 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-04（14 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Simon 之前联系过，面谈：有时需要便宜方案可以找我们拿；可能他们提供软件让我们提供硬件；推了 2 光 10 电；有很多 BT 产品及配件，可能有机会下单",
+   "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "John Chen",
+   "title": "（表内联系人）",
+   "email": "jone.chen@aetektec.com",
+   "phone": "+886 2 8245 2822",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：台系品牌 ODM）"
+ },
+ "company_facts": {
+  "legal_name": "AETEK Inc.",
+  "founded": "（待核）",
+  "hq": "新北市，台湾",
+  "size": "中小型 PoE 品牌商",
+  "other": "VNS Technologies（SB-247）为其阿联酋伙伴"
+ },
+ "business_lines": [
+  "PoE 交换机 / 延长 / 注入 / 备援（自有品牌）",
+  "监控配套"
+ ],
+ "channels": {
+  "role": "台系品牌商（低价 SKU 外购 / 软硬分工 ODM）",
+  "region": "全球（安防渠道）"
+ },
+ "signals": [
+  "明确表态：便宜方案找 Saga；软件 + Saga 硬件 → ODM 入口",
+  "BT 产品多 → Saga BT 工业款可配"
+ ],
+ "risks": [
+  "台系品牌商口径；软硬分工需 SmartByte 原厂固件配合",
+  "8 次跟进无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM-2BT",
+  "tier": 30,
+  "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。"
+ },
+ "email_hook": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the SDK access details.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 14 封 2025→2026，无记录打开，0 回；收件 jone.chen@aetektec.com；主题多为「Marvell Industrial Alert System、Marvell Software Function List」；Elsa 箱：`to:aetektec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 14 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "14 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "台湾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件」；研究档 risks：台系品牌商口径；软硬分工需 SmartByte 原厂固件配合"
+  },
+  "situation": "台湾 PoE 专业品牌（专利天花板 PoE 方案、L2 PRO PoE 交换机、EPoX 延长、PoE 注入 / 分离 / 浪涌、备援 PoE 柜；PoE 词频 231；Hanwha / Axis 生态），John Chen 面谈：有时需要便宜方案可找 Saga、可能他们出软件 Saga 出硬件、推了 2 光 10 电，他们有很多 BT 产品与配件；8 次跟进无实质回复。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。",
+  "need": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
+  "breakpoint": "台系品牌商口径；软硬分工需 SmartByte 原厂固件配合",
+  "saga_now": {
+   "p1": "STI-288DGGPM-2BT",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-09 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
+   "why": "AETEK BT 产品线对位 → STI-288DGGPM-2BT（2×90W BT + 6 PoE + 2 SFP，$171.0 @30%）；2 光 10 电按 STC-28DGGPM / SmartByte 另询；ODM 30%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "John, picking up the 'your software, our hardware' idea — the DIN 8-PoE unit with 2×90 W bt + 2 SFP (Marvell) is the natural first SKU; if AETEK wants to evaluate it for the L2 PRO line, I'll send one sample with the CLI/SNMP integration notes (no SDK is provided)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-04",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Industrial Alert System、Marvell Software Function List",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-09-04（14 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

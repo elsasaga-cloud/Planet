@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-755` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 danny@alliedasia.com.sg, info@alliedasia.com.sg；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：连接产品网店/分销（新加坡，无工业级需求） ｜ 筛子：1~2（1 次打开） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：新加坡 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的」；研究档 risks：需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做
+- **绑定等级：未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 danny@alliedasia.com.sg, info@alliedasia.com.sg；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:alliedasia.com.sg` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））** ｜ 类型：连接产品网店/分销（新加坡，无工业级需求） ｜ 筛子：1~2（1 次打开） ｜ 停点：18 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：新加坡 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的」；研究档 risks：需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做
 - **现状一句话**：新加坡 Allied Asia（连接方案网店：线缆 1104 / 光纤 253 / MC 112 / SFP 114 / PoE 注入器；表内「VC / MC（PoE/10G）/ 14 槽机架 / 简单 VC / PoE 设备，没工业级的」；KP Danny Lee、Kelvin Tan（Sales Engineer））；群发 8 次无回复。
 - **对方真实需求（有据）**：需求为商用 MC / VC / PoE（无工业级）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；商用 MC / 14 槽机架 Saga 价目无 SKU（待核）；VC Saga 不做
 - **断点 / 为什么停在这里**：需求偏商用 MC / VC / 机架：Saga 价目无商用 MC 与机架（待核）、VC 不做
@@ -294,12 +294,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

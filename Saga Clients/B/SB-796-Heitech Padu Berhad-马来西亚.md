@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,24 +38,29 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。已打开的主题（1/8 封有打开记录）：「10G media converter」(2024-09-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-04 $65（10G Media Converter）
 - **第一问（只问一个）**：Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab.
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 群发 BCC 已触达 5 轮（2025-04-11→2025-10-06，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-796` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 8 封 2024，1 次记录打开，0 回；收件 rizaki@heitech.com.my；主题多为「Industrial PoE Switch、Passive PoE Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：马来西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的」；研究档 risks：大型上市公司采购流程长、倾向品牌；政府项目守界
+- **绑定等级：未触达（S 邮箱 8 封 2024，1 次记录打开，0 回；收件 rizaki@heitech.com.my；主题多为「Industrial PoE Switch、Passive PoE Switch」）；Elsa 群发 BCC 已触达 5 轮 2025-04-11→2025-10-06（锚 To sofyan@mutiara-teknologi.com.my 5 轮 2025-04-11→2025-10-06；锚至少发到 2026-09-08，本户 2025-10-06 后不再在 Bcc（Elsa 剔出）；本户在 Bcc；主题 48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 全程 complete：命中 5 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：马来西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的」；研究档 risks：大型上市公司采购流程长、倾向品牌；政府项目守界
 - **现状一句话**：马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。
 - **对方真实需求（有据）**：工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。
 - **断点 / 为什么停在这里**：大型上市公司采购流程长、倾向品牌；政府项目守界
 - **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-04 $65（10G Media Converter））——工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。已打开的主题（1/8 封有打开记录）：「10G media converter」(2024-09-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 群发 BCC 已触达 5 轮（2025-04-11→2025-10-06，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「37 Heitech Padu Berhad www.secure-x.my Ts. Rizaki Bin Napi Cybersecurity Consultant Mitec 2023 对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 公司地址：HeiTech Village 2, No. 1, Jalan Astaka U8/81,Seksyen U8, 40150 Shah 」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024-12-26 | 去 | S 群发 | Industrial PoE Switch、Passive PoE Switch | 8 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-26（8 去 / 0 来） | `gmail_digest` |
+| 2025-04-11 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 16 Port Ethernet Switch（Elsa 群发第 1/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 8 Port Industrial PoE Switch（Elsa 群发第 3/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Mini Industrial PoE Switch（Elsa 群发第 4/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -250,12 +255,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

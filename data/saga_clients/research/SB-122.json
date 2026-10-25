@@ -102,7 +102,7 @@
  "email_hook": "When a project does not require Cisco at the access layer, our 24-port PoE+ L2+ switch (4 SFP uplinks, Marvell-based) is the piece integrators use to keep budgets in line — would it help to have the datasheet on file for your Dubai tenders?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要」；Elsa 箱：`to:ahamson.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

@@ -75,7 +75,7 @@
   "email_hook": "Mr. Ahn, on the PoE boost (voltage-step-up) model you asked price and ODM for — to quote we need target input voltage range and PoE budget; meanwhile, the standard 8-PoE + 2-SFP L2+ is available ODM from small lots.",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（2025-11-13 Peter（Director overseas biz）：「price range for poe and non poe switches and ODM proposal… We are the major supplier to ISPs in Korea」→ Alan 给下载链接并反问品类；无后续）",
+      "level": "轻度触达（2025-11-13 Peter（Director overseas biz）：「price range for poe and non poe switches and ODM proposal… We are the major supplier to ISPs in Korea」→ Alan 给下载链接并反问品类；无后续）；Elsa 群发 BCC 已触达 6 轮 2025-04-02→2025-10-08（锚 To wisali0708@gmail.com 1 轮 2025-04-02；锚 To sales@ags-electronics.com 5 轮 2025-04-27→2025-10-08；本户在 Bcc；主题 Managed Optical Bypass Switch、Mini Industrial PoE Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:n-itus.com` 全程 complete：命中 6 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "韩国 ISP 供应商（N-ITUS；Director 直联）——第二档，ISP 渠道 + ODM 意向",
       "sieve": "2（要价格区间 + ODM 方案）",
       "stop": "Alan 用「先看链接再说品类」回了一个明确的「给我价格区间和 ODM 方案」——对方没有再来；Simon 2026-08-02 点名韩国客户",
@@ -98,10 +98,64 @@
     "next_move": {
       "when": "现在",
       "channel": "A 邮箱 → peter01@n-itus.com",
-      "action": "给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 6 轮（2025-04-02→2025-10-08，锚 To wisali0708@gmail.com / sales@ags-electronics.com，0 回）（第 74 批(n)）；给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发",
       "one_question": "Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?"
     },
     "facts": [
+      {
+        "date": "2025-04-02",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To wisali0708@gmail.com）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To wisali0708@gmail.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=wisali0708@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "195f5313fcf88c73"
+      },
+      {
+        "date": "2025-04-27",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
+        "quote": "Managed Optical Bypass Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19674fd9c178cfb5"
+      },
+      {
+        "date": "2025-05-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1970004bd43b5db5"
+      },
+      {
+        "date": "2025-06-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1979fa9e00eeff83"
+      },
+      {
+        "date": "2025-07-23",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19834c989b55b565"
+      },
+      {
+        "date": "2025-10-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199c1550bee6a83d"
+      },
       {
         "date": "2025-11-13",
         "dir": "来",

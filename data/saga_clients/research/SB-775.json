@@ -1,136 +1,136 @@
 {
-  "code": "SB-775",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（madalix.co.il，快照 2026-10-21）",
-  "summary": "以色列 Madalix Ltd（工业计算方案供应商：工业 PC、无风扇 PC、面板 PC、工业触摸显示器；表内「工业 FS 有迈威（Maiwe）的」「可以尝试多跟进一下」；KP Daniel（2024.3.14 联系））；群发 14 次无回复。",
-  "type": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
-  "size": "",
-  "brands_seen": [
-    "Maiwe"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Industrial Computers And Monitors Supplier | Madalix；品类词 工业自动化 / OT 网络",
-      "quote": "Madalix - Industrial computing solutions provider in Israel: Industrial PC, Monitor, Touch Display, Panel PC, Industrial Computer, Fanless PC, Fanless Computer, Fanless Panel PC, Open Frame Display, Rugged Tablet, VPX FPGA card, Rugged Comp",
-      "url": "https://www.madalix.co.il/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 有迈威的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Madalix 定位",
-      "quote": "Industrial Computers And Monitors Supplier | Madalix ; Industrial computing solutions provider in Israel",
-      "url": "https://www.madalix.co.il/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 有迈威",
-      "quote": "工业FS 有迈威的；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Daniel",
-      "title": "（职务待核）",
-      "email": "daniel@madalix.co.il",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-775",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（madalix.co.il，快照 2026-10-21）",
+ "summary": "以色列 Madalix Ltd（工业计算方案供应商：工业 PC、无风扇 PC、面板 PC、工业触摸显示器；表内「工业 FS 有迈威（Maiwe）的」「可以尝试多跟进一下」；KP Daniel（2024.3.14 联系））；群发 14 次无回复。",
+ "type": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
+ "size": "",
+ "brands_seen": [
+  "Maiwe"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Industrial Computers And Monitors Supplier | Madalix；品类词 工业自动化 / OT 网络",
+   "quote": "Madalix - Industrial computing solutions provider in Israel: Industrial PC, Monitor, Touch Display, Panel PC, Industrial Computer, Fanless PC, Fanless Computer, Fanless Panel PC, Open Frame Display, Rugged Tablet, VPX FPGA card, Rugged Comp",
+   "url": "https://www.madalix.co.il/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "以色列",
-    "other": "官网 madalix.co.il，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 有迈威的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业计算 / 显示方案分销（以色列）"
-  ],
-  "channels": {
-    "role": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
-    "region": "以色列",
-    "contact": "info@madalix.co.il、daniel@madalix.co.il"
+  {
+   "kind": "官网快照",
+   "claim": "Madalix 定位",
+   "quote": "Industrial Computers And Monitors Supplier | Madalix ; Industrial computing solutions provider in Israel",
+   "url": "https://www.madalix.co.il/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Madalix - Industrial computing solutions provider in Israel: Industrial PC, Monitor, Touch Display, Panel PC, Industrial Computer, Fanless PC；页面 /product-page/rco-1000-compact-size-industrial-fanless-computer",
-    "表内：工业 FS 有迈威的；2024.3.14 Daniel；可以尝试多跟进一下"
-  ],
-  "risks": [
-    "非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 20,
-    "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
-  },
-  "email_hook": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 daniel@madalix.co.il, info@madalix.co.il；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」）",
-      "type": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "以色列 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 有迈威的」；研究档 risks：非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触"
-    },
-    "situation": "以色列 Madalix Ltd（工业计算方案供应商：工业 PC、无风扇 PC、面板 PC、工业触摸显示器；表内「工业 FS 有迈威（Maiwe）的」「可以尝试多跟进一下」；KP Daniel（2024.3.14 联系））；群发 14 次无回复。",
-    "need": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）",
-    "breakpoint": "非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 20,
-      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-12 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch）",
-      "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）。已打开的主题（2/24 封有打开记录）：「10G Media Converter」(2024-09-12)、「10G Enterprise SFP Switch」(2025-09-29) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → daniel@madalix.co.il",
-      "action": "短信一问（email_hook）",
-      "one_question": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
-        "why": "24 封 / 2 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-10-07（24 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 有迈威的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hi Daniel,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 有迈威",
+   "quote": "工业FS 有迈威的；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Daniel",
+   "title": "（职务待核）",
+   "email": "daniel@madalix.co.il",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "以色列",
+  "other": "官网 madalix.co.il，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "工业计算 / 显示方案分销（以色列）"
+ ],
+ "channels": {
+  "role": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
+  "region": "以色列",
+  "contact": "info@madalix.co.il、daniel@madalix.co.il"
+ },
+ "signals": [
+  "官网：Madalix - Industrial computing solutions provider in Israel: Industrial PC, Monitor, Touch Display, Panel PC, Industrial Computer, Fanless PC；页面 /product-page/rco-1000-compact-size-industrial-fanless-computer",
+  "表内：工业 FS 有迈威的；2024.3.14 Daniel；可以尝试多跟进一下"
+ ],
+ "risks": [
+  "非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）"
+ },
+ "email_hook": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 daniel@madalix.co.il, info@madalix.co.il；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:madalix.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(n)））",
+   "type": "工业计算分销商（以色列，工业 FS 现 Maiwe）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "以色列 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 有迈威的」；研究档 risks：非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触"
+  },
+  "situation": "以色列 Madalix Ltd（工业计算方案供应商：工业 PC、无风扇 PC、面板 PC、工业触摸显示器；表内「工业 FS 有迈威（Maiwe）的」「可以尝试多跟进一下」；KP Daniel（2024.3.14 联系））；群发 14 次无回复。",
+  "need": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）",
+  "breakpoint": "非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-12 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）。已打开的主题（2/24 封有打开记录）：「10G Media Converter」(2024-09-12)、「10G Enterprise SFP Switch」(2025-09-29) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → daniel@madalix.co.il",
+   "action": "短信一问（email_hook）",
+   "one_question": "Daniel, alongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、10G Enterprise SFP Switch",
+    "why": "24 封 / 2 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-10-07（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 有迈威的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Marvell Industrial Alert System",
+   "body": "Hi Daniel,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Maiwe industrial switches you carry with your industrial PCs, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS) neutral-brand from single units, EXW USD — which industrial switch SKU do your automation customers order most?\n\nReference price: DIN-rail 8-GE + 2 SFP unmanaged industrial switch (STI-280GE) $46 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

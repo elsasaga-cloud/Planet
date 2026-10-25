@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-293` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 gadsatoh@gmail.com；主题多为「8 port poe switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：肯尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1；用户表：「兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price」；研究档 risks：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 gadsatoh@gmail.com；主题多为「8 port poe switch」；Elsa 箱：`to:gadsatoh@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：肯尼亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1；用户表：「兴趣：2光16管理 非标POE 目前在用Planet的设备；回复：price」；研究档 risks：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款
 - **现状一句话**：肯尼亚电信工程商，**目前在用 PLANET 设备**，需求 2 光 16 电管理型非标 PoE（passive PoE）；2024-07 对 passive PoE 手册回复 price。无域名、无联系人姓名。
 - **对方真实需求（有据）**：2 光 16 电管理 PoE → HRUI 列表 STC-2216GPM（$137.5，对标 PLANET GS-4210-16P2S）；passive 版待核。
 - **断点 / 为什么停在这里**：非标 passive PoE 需求：Saga 标准线为 802.3af/at，需核 SmartByte/HRUI 是否有 24V passive 款
@@ -241,12 +241,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

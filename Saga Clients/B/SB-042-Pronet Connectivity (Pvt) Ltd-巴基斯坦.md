@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-042` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」；研究档 risks：目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」；Elsa 箱：`to:pronet-tech.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile」；研究档 risks：目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明
 - **现状一句话**：卡拉奇 IT 基础设施 / 网络安全 / 数据中心集成商（Clifton Horizon Tower；关联迪拜 LinkQuest +971），伙伴 Fortinet / Ubiquiti；表内 Muhammad Azhar Yousfani 2024-01 对工业收发器回「商用 FE/GE 5–7 USD」目标价、要 DS 与 profile，此后「有需求会说」×3；需求偏低端（protocol converter）。
 - **对方真实需求（有据）**：收发器需求：工业 STI-110GE $22.4；其 $5–7 目标价只能对应商用桌面 MC（Saga 价目无，按 SmartByte 型号报并注明）。
 - **断点 / 为什么停在这里**：目标价极低（$5–7 MC），Saga 工业 MC $22 起 → 只能报 HRUI/SmartByte 商用 MC 并注明
@@ -263,12 +263,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 57）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 57）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -90,7 +90,7 @@
   "email_hook": "Angus, following our earlier exchange: for the larger-port switches you source, we can quote Marvell-based 24-GE + 4×10G L2+ and 24-PoE + 4×10G models from small lots, CE/RoHS, EXW USD, with datasheets and SNMP MIBs — which port count and PoE budget is your current enquiry for?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（2024-10-25 Styven 问「flat 8-port PoE web smart or L2?」→ 无此款）",
+      "level": "轻度触达（2024-10-25 Styven 问「flat 8-port PoE web smart or L2?」→ 无此款）；Elsa 群发 BCC 已触达 10 轮 2025-04-11→2026-09-07（锚 To info@baycom.com.tw 10 轮 2025-04-11→2026-09-07；本户在 Bcc；主题 10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "台湾贸易公司（iLu）",
       "sieve": "1",
       "stop": "无此款",
@@ -132,6 +132,96 @@
         "quote": "Sorry to tell that it is not available on our product list. We just have regular type, web managed or standard L2 managed. Please see attached 2 products for your reference.（答 Styven「flat Gigabit 8-p PoE web smart or L2?」）",
         "why": "台湾 iLu 要「扁平（flat）」8 口 PoE 机壳——Saga 无此外形，如实拒绝；此后无往来",
         "k": "gmail_s 0bee126717d66cdf"
+      },
+      {
+        "date": "2025-04-11",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "90W PoE Managed Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "196236f02747ebaa"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1969b2ade8723c68"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1973eadb1e66cef5"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197d3757750bf10f"
+      },
+      {
+        "date": "2025-08-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "198828f833f15c69"
+      },
+      {
+        "date": "2025-10-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199b26b4bdd00f08"
+      },
+      {
+        "date": "2025-11-17",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a8fcf029d8e6d9"
+      },
+      {
+        "date": "2026-02-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19c21e67f4271ab3"
+      },
+      {
+        "date": "2026-04-27",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19dcd2c365531072"
+      },
+      {
+        "date": "2026-09-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@baycom.com.tw）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To info@baycom.com.tw）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a07a5843eabee23"
       }
     ],
     "proof_gaps": [],

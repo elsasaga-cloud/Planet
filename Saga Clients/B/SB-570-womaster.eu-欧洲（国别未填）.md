@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-570` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@womaster.eu；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：欧洲（国别未填） 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo」；研究档 risks：台系品牌口径；16 次群发无回复
+- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，1 次记录打开，0 回；收件 info@womaster.eu；主题多为「Industrial PoE Switch、Mini Industrial PoE Switch」；Elsa 箱：`to:womaster.eu` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：欧洲（国别未填） 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo」；研究档 risks：台系品牌口径；16 次群发无回复
 - **现状一句话**：台湾工业 IIoT 品牌 WoMaster（工业 DIN / 机架交换机、PoE、室外 AP、5G/LTE 路由；industrial 164 / switch 142 / poe 142），欧洲站 info@；表内「工业 FS SFP 1U 机架工业，工业串口，自己的 logo；90W PoE MC / DP101」；群发 16 次无回复。台系品牌 → OEM 30% 口径（部分 SKU 外购）。
 - **对方真实需求（有据）**：工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 WoMaster 标；90W PoE MC 另询。
 - **断点 / 为什么停在这里**：台系品牌口径；16 次群发无回复
@@ -285,12 +285,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

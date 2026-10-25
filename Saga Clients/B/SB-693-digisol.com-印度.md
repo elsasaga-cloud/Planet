@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-693` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12；用户表：「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；研究档 risks：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线
+- **绑定等级：未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 7 轮 2025-05-05→2026-03-31（To 仅本户 helpdesk@digisol.com / info@digisol.com；头 msg 19d42b128951e1cf 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete，直收 7 条、无 Re: 行）** ｜ 类型：印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12；用户表：「工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/swit」；研究档 risks：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线
 - **现状一句话**：印度 Digisol（「Made in India」网络品牌：交换机、FTTH/PON、MC、布线、监控；工业交换机 DG-IS1006GP / DG-IS1010GP / DG-IS4628HPSE、新品多千兆 L3/L2 PoE；表内「工业 FS / MC / 线缆 / PON / 周边；工业 FS 来自 HRUI（洪瑞）/ Utepo，商用来自新桥」；KP Nandini Singh（Deputy Manager）、Ranjan Gupta（Dy. Business Development Manager））；表内无跟进记录。
 - **对方真实需求（有据）**：工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价
 - **断点 / 为什么停在这里**：现 ODM 含 HRUI（Saga 供应商）：按 Q-33 口径不竞价同型号，只推 SmartByte/Marvell 线
@@ -51,6 +51,13 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-05 | out | Elsa → info@digisol.com, helpdesk@digisol.com | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-06-17 | out | Elsa → info@digisol.com, helpdesk@digisol.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-10-13 | out | Elsa → info@digisol.com, helpdesk@digisol.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-12-02 | out | Elsa → info@digisol.com, helpdesk@digisol.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-01-07 | out | Elsa → info@digisol.com, helpdesk@digisol.com | OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-03-02 | out | Elsa → info@digisol.com, helpdesk@digisol.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-03-31 | out | Elsa → info@digisol.com, helpdesk@digisol.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-09-17 | 去 | A/S 群发 | Mini Industrial PoE Switch、10G Enterprise SFP Switch | 12 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-17（12 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/ | 表内备注 | `用户表` |
 
@@ -295,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

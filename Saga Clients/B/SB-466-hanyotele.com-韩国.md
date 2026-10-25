@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-466` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-de」）** ｜ 类型：韩国 MC/工业 FS 品牌商（自有 logo） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：KR 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Conv」；研究档 risks：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-de」；Elsa 箱：`to:hanyotele.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：韩国 MC/工业 FS 品牌商（自有 logo） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：KR 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Conv」；研究档 risks：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供
 - **现状一句话**：韩国 Hanyo Tele（hanyotele.com 快照 403；ec21 上架 PoE Media Converter 10/100；表内「MC 工业 FS 自己的 logo；多功能 VC 一些无源产品」；KP Nam Sang Jun(Mr.)；表内无邮箱）；表内未跟进。
 - **对方真实需求（有据）**：自有 logo MC/工业 FS → 工业 PoE MC STI-111GP（$30.1 @30%）、工业千兆 MC STI-110GE（$24.3）、工业 8 GE + 2 SFP STI-280GE（$50.5）贴 Hanyo 标；无源产品 Saga 不供
 - **断点 / 为什么停在这里**：邮箱待补（表内无邮箱，官网 403）；非主攻区（T5，韩国）；无源产品 Saga 不供
@@ -248,12 +248,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

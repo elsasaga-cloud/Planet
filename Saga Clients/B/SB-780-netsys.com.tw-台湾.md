@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-780` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A 邮箱 15 封 2025→2026，其中 2 封被打开，0 回；收件 sales@netsys.com.tw；被打开主题「8 Port Industrial PoE Switch、16 Port Ethernet Switch」）** ｜ 类型：台湾网络设备厂商（自有 Netsys 品牌，台湾厂商口径） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：台湾 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 15，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 自己的牌子 有人卖他们的」；研究档 risks：台湾厂商（自研延长器/MC）：仅二供/补位口径（INH：台湾厂商不作主客户）
+- **绑定等级：读而不回（A 邮箱 15 封 2025→2026，其中 2 封被打开，0 回；收件 sales@netsys.com.tw；被打开主题「8 Port Industrial PoE Switch、16 Port Ethernet Switch」；Elsa 箱：`to:netsys.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(n)））** ｜ 类型：台湾网络设备厂商（自有 Netsys 品牌，台湾厂商口径） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：台湾 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 15，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS MC SFP 自己的牌子 有人卖他们的」；研究档 risks：台湾厂商（自研延长器/MC）：仅二供/补位口径（INH：台湾厂商不作主客户）
 - **现状一句话**：台湾 National Enhance Technology Corp.（Netsys：LAN 延长器、最后一公里、工业级方案、10G SFP+ 模块、NM-2100G；表内「工业 FS / MC / SFP 自己的牌子，有人卖他们的」）；群发 9 次无回复。
 - **对方真实需求（有据）**：台湾厂商二供口径：其工业线以延长器/MC 为主 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作补位；MC 位 STI-110GE（$24.3）
 - **断点 / 为什么停在这里**：台湾厂商（自研延长器/MC）：仅二供/补位口径（INH：台湾厂商不作主客户）
@@ -283,12 +283,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

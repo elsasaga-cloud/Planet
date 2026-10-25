@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,22 +36,24 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）；换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-01 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（Media Converter）、2024-07-31 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-083` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@dci.jp, sales@dci.jp；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）** ｜ 类型：媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：日本 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「MC 工业FS POE；光路的MC系列 Oring的工业FS」；研究档 risks：非主攻区（T5，日本）；PSE/VCCI 由客户申报
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@dci.jp, sales@dci.jp；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）；Elsa 1:1 去信 2 轮 2025-05-02→2025-06-23（To 仅本户 info@dci.jp；头 msg 1979a57934d3e9fb 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Managed Optical Bypass Switch、Marvell Industrial Alert System；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:dci.jp` 全程 complete，直收 2 条、无 Re: 行）** ｜ 类型：媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：日本 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 21；用户表：「MC 工业FS POE；光路的MC系列 Oring的工业FS」；研究档 risks：非主攻区（T5，日本）；PSE/VCCI 由客户申报
 - **现状一句话**：日本 データコントロルズ株式会社 Data Controls Inc.（光通信/运输/信息/能源网络基础设施的媒体转换产品设计开发销售：CWDM（DCWDM2108）、CTC Union FRM220、PoE、bypass switch、宽温工业标签页；表内「MC / 工业 FS / PoE；光路的 MC 系列，ORing 的工业 FS」）；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，日本）；PSE/VCCI 由客户申报
 - **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，换人再触锚价 STI-288GPM $78.9 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-01 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（Media Converter）、2024-07-31 $220（48 port managed switch）、2025-10-08 $280（10G Enterprise SFP Switch））——在售 ORing 工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；MC 位 STI-110GE / STI-111GP；bypass 标签页 → SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封
   - 第一问（只问一个）：Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-02 | out | Elsa → info@dci.jp | Managed Optical Bypass Switch（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:dci.jp` 全程 complete：2 轮直收（头 msg 1979a57934d3e9fb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-06-23 | out | Elsa → info@dci.jp | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 2/2 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:dci.jp` 全程 complete：2 轮直收（头 msg 1979a57934d3e9fb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-09-29 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 21 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-29（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC 工业FS POE；光路的MC系列 Oring的工业FS | 表内备注 | `用户表` |
 
@@ -293,12 +295,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

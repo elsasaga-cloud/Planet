@@ -105,7 +105,7 @@
   "country_fix": "阿联酋",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）",
+      "level": "轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my 9 轮 2025-04-11→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型",
       "sieve": "2→3（问价后未要样）",
       "stop": "$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目",
@@ -128,7 +128,7 @@
     "next_move": {
       "when": "2026-11",
       "channel": "S 邮箱 → mohammad.yaacoub@intracom-telecom.com",
-      "action": "问项目",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；问项目",
       "one_question": "Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -163,6 +163,87 @@
         "quote": "Hi, Yaacoub, Thanks for your interest. Please see attached datasheet of this model. Price: 34usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, POE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial T",
         "why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 34usd",
         "k": "815888411fd50a1b"
+      },
+      {
+        "date": "2025-04-11",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19623a5f07b9a5bf"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19699a96e93d4ea9"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1973f4fbd2176398"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197d44f5b17bb6b9"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199b7cd286b8997d"
+      },
+      {
+        "date": "2025-11-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a9f3c99302ff20"
+      },
+      {
+        "date": "2026-02-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19c2c14168a821f5"
+      },
+      {
+        "date": "2026-04-29",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19dd7f65aff0636e"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a07fb58f139416e"
       }
     ],
     "proof_gaps": [],

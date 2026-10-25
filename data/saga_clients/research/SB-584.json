@@ -109,7 +109,7 @@
   ],
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@certech.com.au, sophiaw@certech.com.au；主题多为「Marvell Industrial Alert System、Optional Marvell Chipset Solutions」）",
+      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@certech.com.au, sophiaw@certech.com.au；主题多为「Marvell Industrial Alert System、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 6 轮 2025-04-13→2025-10-04（锚 To sales@fibresales.com.au 6 轮 2025-04-13→2025-10-04；本户在 Bcc；主题 90W PoE Managed Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:certech.com.au` 全程 complete：命中 6 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "布线与网络连接分销商（澳洲，Edimax 工业线）",
       "sieve": "1（只收到群发）",
       "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -132,10 +132,64 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 6 轮（2025-04-13→2025-10-04，锚 To sales@fibresales.com.au，0 回）（第 74 批(n)）；观察打开",
       "one_question": "Sophia, alongside the Edimax industrial switches you carry, we can add a neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?"
     },
     "facts": [
+      {
+        "date": "2025-04-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@fibresales.com.au）",
+        "quote": "Marvell Alleycat5 Solution（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1962ca912c4d547b"
+      },
+      {
+        "date": "2025-05-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@fibresales.com.au）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1969df32537ac0fa"
+      },
+      {
+        "date": "2025-06-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@fibresales.com.au）",
+        "quote": "90W PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19742c07b1bc4dcb"
+      },
+      {
+        "date": "2025-07-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@fibresales.com.au）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197e22eb0fd47021"
+      },
+      {
+        "date": "2025-08-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@fibresales.com.au）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1988707eb5d5035f"
+      },
+      {
+        "date": "2025-10-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@fibresales.com.au）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199acb7076d9f0c7"
+      },
       {
         "date": "2026-08-31",
         "dir": "去",

@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-187` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「发了2光8商业POE管理信息 → multicast support switch」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿联酋 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「发了2光8商业POE管理信息 → multicast support switch」；研究档 risks：主业数字标牌，网络交换机只是项目配套，量小且不定期
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「发了2光8商业POE管理信息 → multicast support switch」；Elsa 箱：`to:pixcom.ae` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿联酋 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「发了2光8商业POE管理信息 → multicast support switch」；研究档 risks：主业数字标牌，网络交换机只是项目配套，量小且不定期
 - **现状一句话**：迪拜数字标牌/LED 显示/互动一体机集团（2003/2004 年创立，Pixcom Technologies + Pixcom Industries + Prosign Systems 等子公司，员工 100–200+ 级，自称中东数字标牌 70% 份额）。表内联系人 Khaleel Aboobacker（gmail，WA 已加）2024-03 回复「multicast support switch」= 要支持组播的管理型小交换机（标牌/视频墙组播分发场景）；22 次推送 1 次实质回复。用户备注「网站不是很相关」属实（主业非网络设备），但标牌项目确有管理型 PoE/组播小交换机的配套需求 → B 慢跟 25%。
 - **对方真实需求（有据）**：表内需求「6 口管理交换机 + multicast support」→ 8 口 PoE+ 2 SFP L2+ 管理型（IGMP snooping/VLAN）最贴近；标牌项目按集成 25% 档
 - **断点 / 为什么停在这里**：主业数字标牌，网络交换机只是项目配套，量小且不定期
@@ -281,12 +281,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

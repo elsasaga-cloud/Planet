@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,23 +36,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE） — 集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）。已打开的主题（9/18 封有打开记录）：「Re: Marvell Managed Commercial Switche」(2026-05-04)、「Re: Marvell Managed Commercial Switche」(2026-05-05)、「Re: Marvell Managed Commercial Switche」(2026-05-06)、「Re: Marvell Managed Commercial Switche」(2026-05-08) → 读者兴趣偏「其他」；当前 P1 属「工业」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Requirements_2026.05.05(2026-05-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2026-11 中（若无回音，季度一问） A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串） 一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步**：2026-11 中（若无回音，季度一问） A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串） 首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-093` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）** ｜ 类型：日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性） ｜ 筛子：2（细读规格、提问清单；未进 Template） ｜ 停点：日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」 ｜ 复活：他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回 ｜ 通路：JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担） ｜ 节奏：最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内 ｜ 证据：A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
+- **绑定等级：未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）；Elsa 1:1 去信 2 轮 2025-05-02→2025-06-23（To 仅本户 info@unea-x.com；头 msg 1979adf13b0bbff3 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Mini Industrial PoE Switch、16 Port Ethernet Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete，直收 2 条、无 Re: 行）** ｜ 类型：日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性） ｜ 筛子：2（细读规格、提问清单；未进 Template） ｜ 停点：日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」 ｜ 复活：他们的看门狗 PoE 项目选型落地且接受「认证自担 + MEAN WELL PSE 桌面电源」；Alan 2026-09-14 推 16 口 DIN PoE 无回 ｜ 通路：JP 部分（PSE 电源有 MEAN WELL GST 系列；VCCI/JIS 报告 Saga 无，需客户自担） ｜ 节奏：最后 2026-09-14 Alan 推送（无回）；实质往来 2026-04-22 → 05-08，10 封来信两周内 ｜ 证据：A 邮箱 k=01650dadfc0d13bc / b1cd35734a880b12 / 18a11c4b61a88233 / d591c419c309c81c / 3ee1098f834e6f04；A 邮箱附件正文 `data/gmail_a/attachments/text/`（2026-10-24 对表）；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
 - **现状一句话**：UNEAX（大迫 Osako、井上 Inoue）2026-04-22 回群发问「PoE Switch with Watchdog」能否借样；4-24 要公司概况与看门狗产品销售业绩；4-30 要 JIS C 62368-1 / EN 55032/55024 或 VCCI / RoHS 报告；5-04 问能否从 Alibaba 买；5-05 问 4 口机标签英文/无 logo（Alan：英文、中性）；5-06 电源 Plan B（现用 48V/2A ¥1,100）、租样多久；5-08 问推荐电源是否 PSE。Alan 的回答构成了 Saga「日本问法」的标准答案（摘读 D 系列引用）：只推 MEAN WELL、GST120/240/280A48 桌面型有 PSE、DIN 型 NDR 无 PSE。此后对方沉默。
 - **对方真实需求（有据）**：带 PoE 看门狗的小口数 PoE 交换机（4 口起）+ 日本可用电源（PSE）+ 日本合规报告；低成本优先（电源 ¥1,100 级）。
 - **断点 / 为什么停在这里**：合规与成本双重：Saga 不做 VCCI/JIS（认证自担，INH 规则），电源只认 MEAN WELL（GST 桌面型有 PSE、NDR DIN 型无）；对方「Alibaba 采购」的问法说明预算与渠道偏低端。最后一封是 2026-05-08 Alan 答完 PSE 并让对方「把问题攒一起问」——此后 UNEAX 零来信，09-14 单推 16 口 DIN PoE 也无回。
 - **Saga 现在该推什么**：P1 **STI-140GE/STI-244DGGPM 级 4–8 口 DIN PoE 看门狗机 + MEAN WELL GST120A48-P1M（PSE）**（25% 档，按 CNY ×1.25 ÷ 汇率快照另写；电源按 MEAN WELL 市价；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——集成商 25% 档；若成，日本通路（PSE 电源 + 中性英文标签）就打通了（C7）。已打开的主题（9/18 封有打开记录）：「Re: Marvell Managed Commercial Switche」(2026-05-04)、「Re: Marvell Managed Commercial Switche」(2026-05-05)、「Re: Marvell Managed Commercial Switche」(2026-05-06)、「Re: Marvell Managed Commercial Switche」(2026-05-08) → 读者兴趣偏「其他」；当前 P1 属「工业」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Requirements_2026.05.05(2026-05-05)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：VCCI/JIS 报告：无，客户自担——不承诺；租样：Saga 规则是付费样品，不出借
-- **下一步（具体）**：2026-11 中（若无回音，季度一问）　A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串）　一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
+- **下一步（具体）**：2026-11 中（若无回音，季度一问）　A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串）　首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用
   - 第一问（只问一个）：Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-05-02 | out | Elsa → info@unea-x.com | Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete：2 轮直收（头 msg 1979adf13b0bbff3 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-06-23 | out | Elsa → info@unea-x.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/2 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete：2 轮直收（头 msg 1979adf13b0bbff3 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-04-22 | 来 | 大迫（UNEAX） | Does your company have a PoE Switch with Watchdog? And Can I lend a sample for testing? | 需求 + 借样习惯 | `01650dadfc0d13bc` |
 | 2026-04-23 | 去 | Alan | STI-054GP: 33USD/PC · STI-088GP: 50USD/PC · STI-01616GP: 128USD/PC；100 pcs: 31 / 45 / 120 USD；DAP 34.5 / 48.5 / 127 USD（邮件正文内混入中文「请注意…」三条备注） | 对 UNEAX 的价格锚；同一封客户信里带中文内部备注 = 外发纪律漏洞（Saga.md：对外英文） | `gmail_a 2026-04-23` |
 | 2026-04-23 | 来 | Ryosuke Osako（UNEAX，日本） | I am interested in WATCH DOG, and one of our partner companies has proposed a product that incorporates WATCH DOG. We are currently evaluating the balance between cost and performance, which is why we are reaching out to your company. | 日本客户的真实动机 = PoE 看门狗 + 性价比对比（已有合作方案）；Saga 的 PoE watchdog 是标配，应直接给对比表而不是全线目录 | `gmail_a 2026-04-23 Re: Marvell Managed Commercial Switches` |
@@ -295,12 +297,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

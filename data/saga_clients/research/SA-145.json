@@ -1,141 +1,141 @@
 {
-  "code": "SA-145",
-  "name_official": "Neowine Co., Ltd.（네오와인，韩国）",
-  "website_status": "在线（neowine.com，快照 2026-10-21，韩语）",
-  "summary": "韩国 fabless 芯片设计公司（2002 年成立，防复制芯片 ALPU、IoT 安全芯片、AI 半导体 IP，累计 2 亿颗供 2,000 家企业），SECON 2023 隔壁展位，CEO John H. Lee（李孝乘）想做 Saga 代理但不懂网络产品；2025-01 对 48 口索样。行业外（半导体），代理价值低。",
-  "type": "潜在代理（非本行业）",
-  "size": "待补证",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "隔壁摊位参展商，想当代理商，不懂产品；27 次跟进 1 次回复",
-      "quote": "隔壁摊位参展商，想给我们当代理商，不懂我们产品 / attn: John H.Lee/李孝乘 | telephone: 82-31-620-1250（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "定位：fabless 防复制 / IoT 安全芯片设计，2002 年",
-      "quote": "네오와인은 복제방지칩·IoT 보안칩·AI 반도체 IP를 설계하는 팹리스 기업입니다. 2002년 설립 이후 누적 2억 개를 2,000여 기업에 공급했습니다",
-      "url": "https://neowine.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "隔壁摊位参展商，想当代理商，不懂我们产品；2025-01 48 口→sample",
-      "quote": "兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品；回复：sample",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "John H. Lee（李孝乘）",
-      "role": "（用户记录）",
-      "email": "",
-      "phone": "+82-31-620-1250 / +82-10-8911-3702",
-      "source": "用户 Clients 表（Secon 2023）"
-    },
-    {
-      "name": "John H. Lee（李孝乘）",
-      "title": "CEO",
-      "email": "godinus@neowine.com",
-      "phone": "+82 31 620 1250",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Dexter Kim",
-      "title": "Director",
-      "email": "dexter@neowine.com",
-      "phone": "+82 10 8911 3702",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。",
-  "notes": "不再主动推送；对方主动来再谈。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照：行业外）"
+ "code": "SA-145",
+ "name_official": "Neowine Co., Ltd.（네오와인，韩国）",
+ "website_status": "在线（neowine.com，快照 2026-10-21，韩语）",
+ "summary": "韩国 fabless 芯片设计公司（2002 年成立，防复制芯片 ALPU、IoT 安全芯片、AI 半导体 IP，累计 2 亿颗供 2,000 家企业），SECON 2023 隔壁展位，CEO John H. Lee（李孝乘）想做 Saga 代理但不懂网络产品；2025-01 对 48 口索样。行业外（半导体），代理价值低。",
+ "type": "潜在代理（非本行业）",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "隔壁摊位参展商，想当代理商，不懂产品；27 次跟进 1 次回复",
+   "quote": "隔壁摊位参展商，想给我们当代理商，不懂我们产品 / attn: John H.Lee/李孝乘 | telephone: 82-31-620-1250（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Neowine Co., Ltd.",
-    "founded": "2002",
-    "hq": "韩国（京畿道，+82 31）",
-    "size": "中小型 fabless",
-    "other": "SECON 2023 相邻展位"
+  {
+   "kind": "官网快照",
+   "claim": "定位：fabless 防复制 / IoT 安全芯片设计，2002 年",
+   "quote": "네오와인은 복제방지칩·IoT 보안칩·AI 반도체 IP를 설계하는 팹리스 기업입니다. 2002년 설립 이후 누적 2억 개를 2,000여 기업에 공급했습니다",
+   "url": "https://neowine.com/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "防复制芯片 ALPU / IoT 安全芯片 / AI IP"
-  ],
-  "channels": {
-    "role": "行业外（半导体），自荐代理",
-    "region": "韩国"
-  },
-  "signals": [
-    "CEO 直接接触、主动提代理",
-    "曾索 48 口样品"
-  ],
-  "risks": [
-    "不懂网络产品、无渠道 → 代理不可行；行业外",
-    "韩国市场对白牌接受度低"
-  ],
-  "saga_fit": {
-    "p1": "STC-448DGGPM",
-    "tier": 20,
-    "why": "其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。"
-  },
-  "email_hook": "Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（「ok i need sample」→ Simon 说明付样 + 报 STC-424DGGPM-280W 150 USD → 无下文）",
-      "type": "韩国半导体安全芯片公司（非本行业）——研究档：不再主动",
-      "sieve": "2",
-      "stop": "付样说明后无回",
-      "revive": "对方主动",
-      "lane": "KR",
-      "cadence": "2025-01 → 2026-03 去信 21 封；最后来信 2025-01-31",
-      "evidence": "k=dbbc88f80c3a7bee / c4891b91d7179df8"
-    },
-    "situation": "John 回「ok i need sample」，Simon 推荐 24 口 PoE L2+ 150 USD 并说明非免费样、Marvell 芯片；之后追问两次无回。",
-    "need": "—",
-    "breakpoint": "免费样期待 + 非本行业。",
-    "saga_now": {
-      "p1": "无",
-      "tier": 25,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-01-31 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2025-10-20 $65（10G Media Converter）",
-      "why": "不投入。已打开的主题（4/21 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-31)、「Re: 48 Port PoE Managed Switch」(2025-02-01)、「Re: 48 Port PoE Managed Switch」(2025-02-06)、「Marvell Networking Solutions」(2025-06-04) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-01-31",
-        "dir": "来",
-        "who": "John（Neowine）",
-        "quote": "ok i need sample",
-        "why": "要样",
-        "k": "dbbc88f80c3a7bee"
-      },
-      {
-        "date": "2025-02-01",
-        "dir": "去",
-        "who": "Simon",
-        "quote": "STC-424DGGPM-280W 150usd/pc… 1, Its not free samples. 2, Its Marvell chip",
-        "why": "付样说明",
-        "k": "c4891b91d7179df8"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "隔壁摊位参展商，想当代理商，不懂我们产品；2025-01 48 口→sample",
+   "quote": "兴趣：隔壁摊位参展商，想给我们当代理商，不懂我们产品；回复：sample",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "John H. Lee（李孝乘）",
+   "role": "（用户记录）",
+   "email": "",
+   "phone": "+82-31-620-1250 / +82-10-8911-3702",
+   "source": "用户 Clients 表（Secon 2023）"
+  },
+  {
+   "name": "John H. Lee（李孝乘）",
+   "title": "CEO",
+   "email": "godinus@neowine.com",
+   "phone": "+82 31 620 1250",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Dexter Kim",
+   "title": "Director",
+   "email": "dexter@neowine.com",
+   "phone": "+82 10 8911 3702",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。",
+ "notes": "不再主动推送；对方主动来再谈。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：行业外）"
+ },
+ "company_facts": {
+  "legal_name": "Neowine Co., Ltd.",
+  "founded": "2002",
+  "hq": "韩国（京畿道，+82 31）",
+  "size": "中小型 fabless",
+  "other": "SECON 2023 相邻展位"
+ },
+ "business_lines": [
+  "防复制芯片 ALPU / IoT 安全芯片 / AI IP"
+ ],
+ "channels": {
+  "role": "行业外（半导体），自荐代理",
+  "region": "韩国"
+ },
+ "signals": [
+  "CEO 直接接触、主动提代理",
+  "曾索 48 口样品"
+ ],
+ "risks": [
+  "不懂网络产品、无渠道 → 代理不可行；行业外",
+  "韩国市场对白牌接受度低"
+ ],
+ "saga_fit": {
+  "p1": "STC-448DGGPM",
+  "tier": 20,
+  "why": "其唯一具体动作 = 48 口索样 → STC-448DGGPM（48 PoE）；代理合作不推进，仅按经销 20% 档被动报价。"
+ },
+ "email_hook": "Dexter, since the 48-port sample request last year — is there an actual Korean customer behind it (CCTV or office)? If yes, send me the PoE budget needed and I'll quote 1 pc EXW; we're not appointing agents at this stage.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（「ok i need sample」→ Simon 说明付样 + 报 STC-424DGGPM-280W 150 USD → 无下文；Elsa 箱：`to:neowine.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 1）（第 74 批(n)））",
+   "type": "韩国半导体安全芯片公司（非本行业）——研究档：不再主动",
+   "sieve": "2",
+   "stop": "付样说明后无回",
+   "revive": "对方主动",
+   "lane": "KR",
+   "cadence": "2025-01 → 2026-03 去信 21 封；最后来信 2025-01-31",
+   "evidence": "k=dbbc88f80c3a7bee / c4891b91d7179df8"
+  },
+  "situation": "John 回「ok i need sample」，Simon 推荐 24 口 PoE L2+ 150 USD 并说明非免费样、Marvell 芯片；之后追问两次无回。",
+  "need": "—",
+  "breakpoint": "免费样期待 + 非本行业。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-01-31 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2025-10-20 $65（10G Media Converter）",
+   "why": "不投入。已打开的主题（4/21 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-31)、「Re: 48 Port PoE Managed Switch」(2025-02-01)、「Re: 48 Port PoE Managed Switch」(2025-02-06)、「Marvell Networking Solutions」(2025-06-04) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-01-31",
+    "dir": "来",
+    "who": "John（Neowine）",
+    "quote": "ok i need sample",
+    "why": "要样",
+    "k": "dbbc88f80c3a7bee"
+   },
+   {
+    "date": "2025-02-01",
+    "dir": "去",
+    "who": "Simon",
+    "quote": "STC-424DGGPM-280W 150usd/pc… 1, Its not free samples. 2, Its Marvell chip",
+    "why": "付样说明",
+    "k": "c4891b91d7179df8"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

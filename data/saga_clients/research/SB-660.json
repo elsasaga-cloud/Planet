@@ -1,125 +1,125 @@
 {
-  "code": "SB-660",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（grypen.in，快照 2026-10-21）",
-  "summary": "印度 Grypen Technologies Private Limited（业务方案集成商：摄像/IT 集成（integrator 7 处）；阿里巴巴询盘「商业交换机」；KP Shubham Kumar；邮箱 sucheytaa@）；表内未跟进。",
-  "type": "IT/安防集成商（印度，商业交换机询盘）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Grypen Technologies Pvt Ltd.；品类词 安防监控（CCTV / 门禁）",
-      "quote": "Welcome to Grypen Technologies Business Solutions!；Welcome to Grypen Technologies Pvt Ltd.；What we do；00 +；Happy Clients；Experience",
-      "url": "https://grypen.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业交换机 / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Grypen 定位",
-      "quote": "Grypen Technologies Pvt Ltd. ; Welcome to Grypen Technologies Business Solutions!",
-      "url": "https://grypen.in/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业交换机询盘",
-      "quote": "商业交换机 / from: 阿里巴巴询盘",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Shubham Kumar",
-      "title": "（职务待核）",
-      "email": "sucheytaa@grypen.in",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-660",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（grypen.in，快照 2026-10-21）",
+ "summary": "印度 Grypen Technologies Private Limited（业务方案集成商：摄像/IT 集成（integrator 7 处）；阿里巴巴询盘「商业交换机」；KP Shubham Kumar；邮箱 sucheytaa@）；表内未跟进。",
+ "type": "IT/安防集成商（印度，商业交换机询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Grypen Technologies Pvt Ltd.；品类词 安防监控（CCTV / 门禁）",
+   "quote": "Welcome to Grypen Technologies Business Solutions!；Welcome to Grypen Technologies Pvt Ltd.；What we do；00 +；Happy Clients；Experience",
+   "url": "https://grypen.in/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "印度",
-    "other": "官网 grypen.in，语言 zxx，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业交换机 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT / 安防业务方案集成（印度）"
-  ],
-  "channels": {
-    "role": "IT/安防集成商（印度，商业交换机询盘）",
-    "region": "印度",
-    "contact": "sucheytaa@grypen.in"
+  {
+   "kind": "官网快照",
+   "claim": "Grypen 定位",
+   "quote": "Grypen Technologies Pvt Ltd. ; Welcome to Grypen Technologies Business Solutions!",
+   "url": "https://grypen.in/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Welcome to Grypen Technologies Business Solutions! ; What we do ; Happy Clients；kw camera 10 / integrator 7",
-    "表内：商业交换机 / from: 阿里巴巴询盘；KP Shubham Kumar"
-  ],
-  "risks": [
-    "非主攻区（T5，印度；BIS 由客户侧）；询盘时效待核；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、24 GE + 4×10G STC-424XGGM（$132.7）"
-  },
-  "email_hook": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「商业交换机 / from: 阿里巴巴询盘」）",
-      "type": "IT/安防集成商（印度，商业交换机询盘）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "IN 次级（点名）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「商业交换机 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，印度；BIS 由客户侧）；询盘时效待核；未跟进过"
-    },
-    "situation": "印度 Grypen Technologies Private Limited（业务方案集成商：摄像/IT 集成（integrator 7 处）；阿里巴巴询盘「商业交换机」；KP Shubham Kumar；邮箱 sucheytaa@）；表内未跟进。",
-    "need": "商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、24 GE + 4×10G STC-424XGGM（$132.7）",
-    "breakpoint": "非主攻区（T5，印度；BIS 由客户侧）；询盘时效待核；未跟进过",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、24 GE + 4×10G STC-424XGGM（$132.7）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → sucheytaa@grypen.in（Shubham Kumar）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "商业交换机 / from: 阿里巴巴询盘",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业交换机询盘",
+   "quote": "商业交换机 / from: 阿里巴巴询盘",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Shubham Kumar",
+   "title": "（职务待核）",
+   "email": "sucheytaa@grypen.in",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "印度",
+  "other": "官网 grypen.in，语言 zxx，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "IT / 安防业务方案集成（印度）"
+ ],
+ "channels": {
+  "role": "IT/安防集成商（印度，商业交换机询盘）",
+  "region": "印度",
+  "contact": "sucheytaa@grypen.in"
+ },
+ "signals": [
+  "官网：Welcome to Grypen Technologies Business Solutions! ; What we do ; Happy Clients；kw camera 10 / integrator 7",
+  "表内：商业交换机 / from: 阿里巴巴询盘；KP Shubham Kumar"
+ ],
+ "risks": [
+  "非主攻区（T5，印度；BIS 由客户侧）；询盘时效待核；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、24 GE + 4×10G STC-424XGGM（$132.7）"
+ },
+ "email_hook": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「商业交换机 / from: 阿里巴巴询盘」；Elsa 箱：`to:grypen.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "IT/安防集成商（印度，商业交换机询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "IN 次级（点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「商业交换机 / from: 阿里巴巴询盘」；研究档 risks：非主攻区（T5，印度；BIS 由客户侧）；询盘时效待核；未跟进过"
+  },
+  "situation": "印度 Grypen Technologies Private Limited（业务方案集成商：摄像/IT 集成（integrator 7 处）；阿里巴巴询盘「商业交换机」；KP Shubham Kumar；邮箱 sucheytaa@）；表内未跟进。",
+  "need": "商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、24 GE + 4×10G STC-424XGGM（$132.7）",
+  "breakpoint": "非主攻区（T5，印度；BIS 由客户侧）；询盘时效待核；未跟进过",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "商业交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、24 GE + 4×10G STC-424XGGM（$132.7）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → sucheytaa@grypen.in（Shubham Kumar）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "Shubham, following your enquiry for commercial switches: we supply Marvell-based 8-PoE + 2 SFP, 24-PoE + 4 SFP and 24-GE + 4×10G L2+ models from single units, CE/RoHS, EXW USD; BIS by your side — which configuration and quantity does your current project need? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业交换机 / from: 阿里巴巴询盘",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

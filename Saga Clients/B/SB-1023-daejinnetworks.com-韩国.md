@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1023` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「CENTEC Switch」）** ｜ 类型：韩国网络方案商（CENTEC 平台交换机，邮箱待补） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：KR 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CENTEC Switch」；研究档 risks：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「CENTEC Switch」；Elsa 箱：`to:daejinnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：韩国网络方案商（CENTEC 平台交换机，邮箱待补） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：KR 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「CENTEC Switch」；研究档 risks：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻
 - **现状一句话**：韩国 대진네트웍스 Daejin Networks（「Disruptive & Reliable Network Solution Provider」：Vision AI、光传输、NVIDIA Jetson、TAP 交换机 V530/V550/V680-TAP、Tibit PON、以太网交换机 CTC8180（CENTEC 平台）、VPN 路由器；表内「CENTEC Switch」「质量高」，info/sales 邮箱均退信）；表内未成功跟进。
 - **对方真实需求（有据）**：CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）
 - **断点 / 为什么停在这里**：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻
@@ -256,12 +256,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

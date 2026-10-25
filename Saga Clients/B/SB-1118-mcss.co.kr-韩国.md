@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1118` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）；退信：svc@mcss.co.kr 2025-08-11** ｜ 类型：韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售） ｜ 筛子：2 ｜ 停点：Q-33 + 迟回 ｜ 复活：不动（Q-33） ｜ 通路：KR ｜ 节奏：不动 ｜ 证据：k=4d792eebebf6a404 / 497037e504e55533
+- **绑定等级：轻度触达（2026-01-16 support@mcss.co.kr：「send us a list of products and related materials that support your OEM / white-label services」→ Alan 02-05 迟回 20 天给链接；无后续；PLANET/UniFi 渠道 → Q-33 口径）；退信：svc@mcss.co.kr 2025-08-11；Elsa 箱：`to:mcss.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 26 / 来 1）（第 74 批(n)）** ｜ 类型：韩国系统集成 + 在线商城（MCSS；PLANET/UniFi 在售） ｜ 筛子：2 ｜ 停点：Q-33 + 迟回 ｜ 复活：不动（Q-33） ｜ 通路：KR ｜ 节奏：不动 ｜ 证据：k=4d792eebebf6a404 / 497037e504e55533
 - **现状一句话**：—
 - **对方真实需求（有据）**：OEM/白标清单（2026-01-16 原话：「list of products and related materials that support your OEM / white-label services (such as branding and model name customization)」）——要的是「哪些能贴牌、怎么贴、起订量」，不是链接。
 - **断点 / 为什么停在这里**：Alan 02-05 迟回 20 天且只给链接 + 「还会再更新」，没回答贴牌规则本身（规则 ㉙ 要一段话）；Q-33 口径（PLANET/UniFi 在售）标记但不妨碍答一次具体问题。
@@ -290,12 +290,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

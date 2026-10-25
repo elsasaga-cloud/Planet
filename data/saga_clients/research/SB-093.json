@@ -94,7 +94,7 @@
   "email_hook": "For the industrial switches on your /switch/ page, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS; neutral packing) from single units, EXW USD — which configuration do your Japanese customers order most?",
   "mail_review": {
     "binding": {
-      "level": "未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）",
+      "level": "未绑定（询问阶段；Alan 2026-04-24 已允诺**免费借样**测试「lending a piece is OK… how will you send it back?」，对方未接、未给中国货代地址）；Elsa 1:1 去信 2 轮 2025-05-02→2025-06-23（To 仅本户 info@unea-x.com；头 msg 1979adf13b0bbff3 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Mini Industrial PoE Switch、16 Port Ethernet Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete，直收 2 条、无 Re: 行）",
       "type": "日本商社/集成商 UNEAX（技术 + 合规流：看门狗、VCCI/JIS 认证、PSE 电源、Alibaba 采购可能性）",
       "sieve": "2（细读规格、提问清单；未进 Template）",
       "stop": "日本合规：EMC 要 VCCI 认可实验室报告、JIS C 62368-1、PSE 电源；成本：MEAN WELL 太贵要 Plan B；采购习惯：问能否从 Alibaba 买「Made in China」",
@@ -120,10 +120,28 @@
     "next_move": {
       "when": "2026-11 中（若无回音，季度一问）",
       "channel": "A 邮箱 → inoue.mari@unea-x.com（抄 ryosuke.osako@unea-x.com；回原串）",
-      "action": "一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
+      "action": "首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；一句话问看门狗项目是否选定，并重申 4 月已给的三条：借样仍可（寄回即可）/ 认证以贵司名义办费用自担 / PSE 电源配 MEAN WELL GST 桌面款——不要改口成「付费样品」；回原串沿用原主题（邮件客户端自动加 Re:），上面的主题只在另起新信时用",
       "one_question": "Has your watchdog PoE project selected a supplier yet — and is the loan unit we offered in April (STI-054GP with a MEAN WELL GST PSE adapter, returned after testing) still useful for your evaluation?"
     },
     "facts": [
+      {
+        "date": "2025-05-02",
+        "dir": "out",
+        "who": "Elsa → info@unea-x.com",
+        "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete：2 轮直收（头 msg 1979adf13b0bbff3 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1968eefc3e3def56"
+      },
+      {
+        "date": "2025-06-23",
+        "dir": "out",
+        "who": "Elsa → info@unea-x.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/2 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:unea-x.com` 全程 complete：2 轮直收（头 msg 1979adf13b0bbff3 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1979adf13b0bbff3"
+      },
       {
         "date": "2026-04-22",
         "dir": "来",

@@ -95,7 +95,7 @@
  "email_hook": "You asked earlier about a small managed switch with multicast support for signage networks — our 8-port PoE+ L2+ model (2 SFP uplinks) does IGMP snooping/VLAN; would a one-unit sample for your next video-wall project be useful?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「发了2光8商业POE管理信息 → multicast support switch」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「发了2光8商业POE管理信息 → multicast support switch」；Elsa 箱：`to:pixcom.ae` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,23 +38,30 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-09→2026-08-05，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-575` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 manjala@voiptech.co.mz；主题多为「48 Port PoE Managed Switch、8 Port Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：莫桑比克 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「兴趣：WDM Switch」；研究档 risks：需求含糊；莫桑比克付款 T/T 预付
+- **绑定等级：未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 manjala@voiptech.co.mz；主题多为「48 Port PoE Managed Switch、8 Port Industrial PoE Switch」）；Elsa 1:1 去信 7 轮 2025-10-09→2026-08-05（To 仅本户 manjala@voiptech.co.mz；头 msg 19fd16fe889655ef 核对无 Bcc，称呼「Hi, Manuel」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete，直收 7 条、无 Re: 行）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：莫桑比克 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 6；用户表：「兴趣：WDM Switch」；研究档 risks：需求含糊；莫桑比克付款 T/T 预付
 - **现状一句话**：莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。
 - **对方真实需求（有据）**：「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。
 - **断点 / 为什么停在这里**：需求含糊；莫桑比克付款 T/T 预付
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch））——「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-09→2026-08-05，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-08-05 | 去 | A 群发 | 48 Port PoE Managed Switch、8 Port Industrial PoE Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-08-05（6 去 / 0 来） | `gmail_digest` |
+| 2025-10-09 | out | Elsa → manjala@voiptech.co.mz | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
+| 2025-12-03 | out | Elsa → manjala@voiptech.co.mz | Booster PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
+| 2026-01-01 | out | Elsa → manjala@voiptech.co.mz | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
+| 2026-02-16 | out | Elsa → manjala@voiptech.co.mz | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
+| 2026-03-23 | out | Elsa → manjala@voiptech.co.mz | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
+| 2026-05-04 | out | Elsa → manjala@voiptech.co.mz | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
+| 2026-08-05 | out | Elsa → manjala@voiptech.co.mz | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：WDM Switch | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -251,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

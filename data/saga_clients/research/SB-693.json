@@ -112,7 +112,7 @@
   ],
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）",
+      "level": "未触达（A/S 邮箱 12 封 2024→2026，无记录打开，0 回；收件 helpdesk@digisol.com, info@digisol.com；主题多为「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 7 轮 2025-05-05→2026-03-31（To 仅本户 helpdesk@digisol.com / info@digisol.com；头 msg 19d42b128951e1cf 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete，直收 7 条、无 Re: 行）",
       "type": "印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OEM 采购）",
       "sieve": "1（只收到群发）",
       "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
@@ -139,6 +139,69 @@
       "one_question": ""
     },
     "facts": [
+      {
+        "date": "2025-05-05",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1969eec2b555c3c5"
+      },
+      {
+        "date": "2025-06-17",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1977c4228727d6c9"
+      },
+      {
+        "date": "2025-10-13",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199dc39cede1d8dd"
+      },
+      {
+        "date": "2025-12-02",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ade37f3b10b7bd"
+      },
+      {
+        "date": "2026-01-07",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b97c182fa7f207"
+      },
+      {
+        "date": "2026-03-02",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19caceae112ae320"
+      },
+      {
+        "date": "2026-03-31",
+        "dir": "out",
+        "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d42b128951e1cf"
+      },
       {
         "date": "2026-09-17",
         "dir": "去",

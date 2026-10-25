@@ -53,7 +53,7 @@
  "email_hook": "You asked for four 16-port managed switches with 2 SFP uplinks — do you need PoE on the 16 ports or plain gigabit? I will send the matching price the same day.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 19 封 2024→2026，1 次记录打开，0 回；收件 mdirphanmdirphan151@gmail.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
+   "level": "未触达（A/S 邮箱 19 封 2024→2026，1 次记录打开，0 回；收件 mdirphanmdirphan151@gmail.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:mdirphanmdirphan151@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 0）（第 74 批(n)））",
    "type": "—",
    "sieve": "1~2（1 次打开）",
    "stop": "19 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

@@ -86,7 +86,7 @@
   ],
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@dci.jp, sales@dci.jp；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）",
+      "level": "未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@dci.jp, sales@dci.jp；主题多为「10G Enterprise SFP Switch、Industrial PoE Switch」）；Elsa 1:1 去信 2 轮 2025-05-02→2025-06-23（To 仅本户 info@dci.jp；头 msg 1979a57934d3e9fb 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Managed Optical Bypass Switch、Marvell Industrial Alert System；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:dci.jp` 全程 complete，直收 2 条、无 Re: 行）",
       "type": "媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）",
       "sieve": "1（只收到群发）",
       "stop": "只打通用邮箱，无记录打开",
@@ -109,10 +109,28 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
+      "action": "首封前知悉：Elsa 已 1:1 去信 2 轮（2025-05-02→2025-06-23，0 回）（第 74 批(n)）；换收件人再发一封",
       "one_question": "Alongside the ORing industrial switches and the media converters you carry, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit/PoE media converters (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your transport and energy customers order most? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
+      {
+        "date": "2025-05-02",
+        "dir": "out",
+        "who": "Elsa → info@dci.jp",
+        "quote": "Managed Optical Bypass Switch（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:dci.jp` 全程 complete：2 轮直收（头 msg 1979a57934d3e9fb 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1968e4af8de52fee"
+      },
+      {
+        "date": "2025-06-23",
+        "dir": "out",
+        "who": "Elsa → info@dci.jp",
+        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 2/2 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:dci.jp` 全程 complete：2 轮直收（头 msg 1979a57934d3e9fb 无 Bcc，称呼「Hi,」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "1979a57934d3e9fb"
+      },
       {
         "date": "2026-09-29",
         "dir": "去",

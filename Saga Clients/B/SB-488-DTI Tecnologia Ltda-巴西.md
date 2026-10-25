@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-488` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：500个PoE 802.3af injector 2004年加入国际站」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：巴西 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：500个PoE 802.3af injector 2004年加入国际站」；研究档 risks：PoE injector 不在 Saga 价目（Q-32：按 SmartByte / HRUI 另询）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：500个PoE 802.3af injector 2004年加入国际站」；Elsa 箱：`to:daiken.com.br` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件 ｜ 通路：巴西 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：500个PoE 802.3af injector 2004年加入国际站」；研究档 risks：PoE injector 不在 Saga 价目（Q-32：按 SmartByte / HRUI 另询）
 - **现状一句话**：巴西库里蒂巴（+55 41）Daiken（DTI Tecnologia，2004 年起阿里国际站），技术负责人 Oscar Yamawaki，需求 **500 个 802.3af PoE injector**（Saga 价目无，Q-32）；WA 6 次无实质回复。
 - **对方真实需求（有据）**：需求 PoE injector（价目缺口 Q-32）；交换机无询。
 - **断点 / 为什么停在这里**：PoE injector 不在 Saga 价目（Q-32：按 SmartByte / HRUI 另询）
@@ -242,12 +242,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 39）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

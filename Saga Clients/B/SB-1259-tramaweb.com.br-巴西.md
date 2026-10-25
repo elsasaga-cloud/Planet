@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1259` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC FS 自己的logo 别人在卖他们的MC」）** ｜ 类型：待核实体（巴西，MC 自有标；站点错配） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴西 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「MC FS 自己的logo 别人在卖他们的MC」；研究档 risks：站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「MC FS 自己的logo 别人在卖他们的MC」）；Elsa 群发 BCC 已触达 9 轮 2025-02-13→2026-09-03（锚 To flavioprogramado@gmail.com 9 轮 2025-02-13→2026-09-03；本户在 Bcc；主题 10G Enterprise SFP Switch、Industrial PoE Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：待核实体（巴西，MC 自有标；站点错配） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴西 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「MC FS 自己的logo 别人在卖他们的MC」；研究档 risks：站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）
 - **现状一句话**：巴西 tramaweb.com.br（官网快照为公关传播公司 Grupo Trama Reputale（1995 年起公共关系/数字营销），与表内「MC FS 自己的 logo，别人在卖他们的 MC，很多周边产品」业务不符——站点错配/域名易主待核；KP Fabio）；表内未跟进。
 - **对方真实需求（有据）**：若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体
 - **断点 / 为什么停在这里**：站点错配：tramaweb.com.br 当前为公关公司 Grupo Trama Reputale，与表内 MC/FS 业务不符（实体/域名待核）
@@ -50,9 +50,18 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-13 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | 48 Port PoE Managed Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-04-06 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | 10G Media Converter（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-01 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | Mini Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-04 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | 16 Port Ethernet Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-03 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | 8 Port Industrial PoE Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-05 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | 10G Enterprise SFP Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-11-13 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | Industrial PoE Switch（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-04-24 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-09-03 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC FS 自己的logo 别人在卖他们的MC | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 9 轮见 facts；S/A 箱无往来）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -251,12 +260,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

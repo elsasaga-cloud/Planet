@@ -90,7 +90,7 @@
  "email_hook": "Luke, for the mine-site spec you listed — 4×10G SFP+ uplinks with 16 PoE ports including 4 × 90 W bt, L3, −40~75 ℃, DIN or rack — ours is $506 EXW at 1 pc, and the 4-SFP + 8-PoE unit is $112; want both sheets, neutral or Vernetzen-branded?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 luke@vernetzen.com.au；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）",
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 luke@vernetzen.com.au；主题多为「Booster PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:vernetzen.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(n)））",
    "type": "—",
    "sieve": "1（只收到群发）",
    "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

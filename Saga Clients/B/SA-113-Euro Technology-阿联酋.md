@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-113` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（询问阶段两轮：10G MC「interested」、STI-154GP 38 USD 报价后无回音）** ｜ 类型：阿布扎比/迪拜安防集成商（NetOn Technologies 域名在同一实体档案内；Chandra）——第四档，中东非主攻 ｜ 筛子：1–2 ｜ 停点：2024-08-14 报 STI-154GP 38 USD 后静默；2024-07 10G MC 规格书后也无下文 ｜ 复活：其项目出现；WA 季度一句话 ｜ 通路：AE 非主攻 ｜ 节奏：2024-06 → 2026-09 去信 36 封；最后来信 2024-08-14 ｜ 证据：k=98852d1abcd4b4a6 / 68986281c27a13e8 / 71f84f290da90e77
+- **绑定等级：未绑定（询问阶段两轮：10G MC「interested」、STI-154GP 38 USD 报价后无回音；Elsa 箱：`to:eurotechnology.ae OR to:netontechnologies.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 36 / 来 2）（第 74 批(n)））** ｜ 类型：阿布扎比/迪拜安防集成商（NetOn Technologies 域名在同一实体档案内；Chandra）——第四档，中东非主攻 ｜ 筛子：1–2 ｜ 停点：2024-08-14 报 STI-154GP 38 USD 后静默；2024-07 10G MC 规格书后也无下文 ｜ 复活：其项目出现；WA 季度一句话 ｜ 通路：AE 非主攻 ｜ 节奏：2024-06 → 2026-09 去信 36 封；最后来信 2024-08-14 ｜ 证据：k=98852d1abcd4b4a6 / 68986281c27a13e8 / 71f84f290da90e77
 - **现状一句话**：Chandra 2024-07 对 10G MC 回「Yes, interested」，2024-08 对工业 PoE 回「Whats the pricing」，Simon 报 STI-154GP 38 USD（-40~75℃，DIN，不含光模块/电源）后再无来信；此后 Saga 群发 30+ 封。
 - **对方真实需求（有据）**：10G MC、4 口工业 PoE（CCTV 项目配套）。
 - **断点 / 为什么停在这里**：两次都在价格/规格书之后停——项目型客户没有项目就没有下文；中东非主攻，不追。
@@ -349,12 +349,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

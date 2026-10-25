@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -37,18 +37,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — 项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 S 邮箱 → mohammad.yaacoub@intracom-telecom.com 问项目
+- **下一步**：2026-11 S 邮箱 → mohammad.yaacoub@intracom-telecom.com 首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；问项目
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1043` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）** ｜ 类型：希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型 ｜ 筛子：2→3（问价后未要样） ｜ 停点：$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目 ｜ 复活：一句话问当时的无线回传项目 ｜ 通路：AE 非主攻（但 Intracom 体量大） ｜ 节奏：一封 ｜ 证据：k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2024-10-09 Mohammad Yaacoub（Wireless Network Systems）：「Before we request for a sample, I would like to understand the price level」→ $34 STI-222GP → Simon 10-15 追问样品 → 无回；之后群发无回）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my 9 轮 2025-04-11→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：希腊电信系统商中东项目公司（Intracom Middle East；项目采购 PoE，体量大）——第二档项目型 ｜ 筛子：2→3（问价后未要样） ｜ 停点：$34 的价没有触发样品——可能项目已过或价格不是问题；没有追问项目 ｜ 复活：一句话问当时的无线回传项目 ｜ 通路：AE 非主攻（但 Intracom 体量大） ｜ 节奏：一封 ｜ 证据：k=d05d6d8f07683799 / 815888411fd50a1b / 1959d267e00d0824；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：工业 PoE 小型款（无线回传站点）。
 - **断点 / 为什么停在这里**：无闭环。
 - **Saga 现在该推什么**：P1 **STI-222GP**（25% 档，再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch））——项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　S 邮箱 → mohammad.yaacoub@intracom-telecom.com　问项目
+- **下一步（具体）**：2026-11　S 邮箱 → mohammad.yaacoub@intracom-telecom.com　首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；问项目
   - 第一问（只问一个）：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -57,6 +57,15 @@ updated: 2026-10-24
 | 2024-08-07 | 来 | myaacoub@intracom-telecom.com | Dear Sender, I am on annual leave with limited access to my emails, for any urgent matters contact me on my mobile. Best Regards, Mohammad Yaacoub +97 | 来信原文（主题「Re: Industrial poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `7ae3b3c443b92c6f` |
 | 2024-10-09 | 来 | Mohammad Yaacoub | Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. | 价格先行 | `d05d6d8f07683799` |
 | 2024-10-09 | 去 | Saga（Simon） | Hi, Yaacoub, Thanks for your interest. Please see attached datasheet of this model. Price: 34usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, POE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial T | 历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 34usd | `815888411fd50a1b` |
+| 2025-04-11 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-11-20 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-02-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-04-29 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:intracom-telecom.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -293,12 +302,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -83,7 +83,7 @@
   "email_hook": "Pratap, for the AlconLink-branded PoE and industrial switches on your product pages, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 pratap@alconlink.com, sales@alconlink.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）",
+      "level": "未触达（A 邮箱 4 封 2025→2026，无记录打开，0 回；收件 pratap@alconlink.com, sales@alconlink.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）；Elsa 1:1 去信 7 轮 2025-05-06→2026-04-01（To 仅本户 sales@alconlink.com；头 msg 19d4833123810a60 核对无 Bcc，称呼「Hi, Pratap」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete，直收 7 条、无 Re: 行）",
       "type": "印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）",
       "sieve": "1（只收到群发）",
       "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -106,10 +106,73 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开",
       "one_question": "Pratap, for the AlconLink-branded PoE and industrial switches on your product pages, we can be a second ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE) from small lots with CE/RoHS/FCC reports for your BIS file — which model would you dual-source first?"
     },
     "facts": [
+      {
+        "date": "2025-05-06",
+        "dir": "out",
+        "who": "Elsa → sales@alconlink.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "196a55c1e5949149"
+      },
+      {
+        "date": "2025-06-22",
+        "dir": "out",
+        "who": "Elsa → sales@alconlink.com",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "197968b48df0709c"
+      },
+      {
+        "date": "2025-10-15",
+        "dir": "out",
+        "who": "Elsa → sales@alconlink.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199e6a11253c4bc7"
+      },
+      {
+        "date": "2025-12-09",
+        "dir": "out",
+        "who": "Elsa → sales@alconlink.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b01fb389ff17cd"
+      },
+      {
+        "date": "2026-01-09",
+        "dir": "out",
+        "who": "Elsa → sales@alconlink.com",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19ba0ea2c62eba26"
+      },
+      {
+        "date": "2026-03-03",
+        "dir": "out",
+        "who": "Elsa → sales@alconlink.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19cb25a7b8de66e9"
+      },
+      {
+        "date": "2026-04-01",
+        "dir": "out",
+        "who": "Elsa → sales@alconlink.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d4833123810a60"
+      },
       {
         "date": "2026-09-02",
         "dir": "去",

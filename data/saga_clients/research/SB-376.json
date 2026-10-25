@@ -1,130 +1,130 @@
 {
-  "code": "SB-376",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（winnerintertech.com，快照 2026-10-21）",
-  "summary": "泰国 Winner Intertech（官网泰语：Moxa / Adder / Robustel / Protempis / ATcom 官方经销与合作伙伴，直接从原厂进货；参加 Defense & Security 2025、Manufacturing Expo 2025；站内 Korenix、EN50155/EN50121 词；表内「主要是巨联（Moxa）的」）；群发 6 次无回复。",
-  "type": "工业网络分销商（Moxa 官方渠道）",
-  "size": "",
-  "brands_seen": [
-    "Korenix",
-    "Moxa",
-    "Robustel"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Winner Intertech；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "ตัวแทนจำหน่าย และ พาร์ทเนอร์ อย่างเป็นทางการ Moxa Adder Robustel Protempis ATcom จำหน่ายสินค้าโดยตรงจากโรงงานผู้ผลิต",
-      "url": "https://www.winnerintertech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "主要是巨联的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Moxa/Adder/Robustel 官方经销与合作伙伴",
-      "quote": "ตัวแทนจำหน่าย และ พาร์ทเนอร์ อย่างเป็นทางการ Moxa Adder Robustel Protempis ATcom จำหน่ายสินค้าโดยตรงจากโรงงานผู้ผลิต",
-      "url": "https://www.winnerintertech.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "主要是 Moxa（巨联）",
-      "quote": "主要是巨联的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-376",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（winnerintertech.com，快照 2026-10-21）",
+ "summary": "泰国 Winner Intertech（官网泰语：Moxa / Adder / Robustel / Protempis / ATcom 官方经销与合作伙伴，直接从原厂进货；参加 Defense & Security 2025、Manufacturing Expo 2025；站内 Korenix、EN50155/EN50121 词；表内「主要是巨联（Moxa）的」）；群发 6 次无回复。",
+ "type": "工业网络分销商（Moxa 官方渠道）",
+ "size": "",
+ "brands_seen": [
+  "Korenix",
+  "Moxa",
+  "Robustel"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Winner Intertech；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "ตัวแทนจำหน่าย และ พาร์ทเนอร์ อย่างเป็นทางการ Moxa Adder Robustel Protempis ATcom จำหน่ายสินค้าโดยตรงจากโรงงานผู้ผลิต",
+   "url": "https://www.winnerintertech.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "泰国",
-    "other": "官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要是巨联的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业网络 / KVM / 工业路由分销（Moxa、Adder、Robustel）"
-  ],
-  "channels": {
-    "role": "工业网络分销商（Moxa 官方渠道）",
-    "region": "泰国",
-    "contact": "sales01@winnerintertech.com、narathon@winnerintertech.com"
+  {
+   "kind": "官网快照",
+   "claim": "Moxa/Adder/Robustel 官方经销与合作伙伴",
+   "quote": "ตัวแทนจำหน่าย และ พาร์ทเนอร์ อย่างเป็นทางการ Moxa Adder Robustel Protempis ATcom จำหน่ายสินค้าโดยตรงจากโรงงานผู้ผลิต",
+   "url": "https://www.winnerintertech.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网产品页 /poeswitch、/industrial-switches",
-    "品牌 Moxa（词频 107）、Korenix、Robustel、Adder KVM"
-  ],
-  "risks": [
-    "Moxa 官方渠道：引入白牌可能与原厂协议冲突，预期低",
-    "参加国防与安全展 → 军方项目守界（只报民用自动化）",
-    "轨道词（EN50155/EN50121）= Saga 不做车载/轨道",
-    "非主攻区（T5）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP"
-  },
-  "email_hook": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 narathon@winnerintertech.com, office@winnerintertech.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）",
-      "type": "工业网络分销商（Moxa 官方渠道）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "泰国 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「主要是巨联的」；研究档 risks：Moxa 官方渠道：引入白牌可能与原厂协议冲突，预期低"
-    },
-    "situation": "泰国 Winner Intertech（官网泰语：Moxa / Adder / Robustel / Protempis / ATcom 官方经销与合作伙伴，直接从原厂进货；参加 Defense & Security 2025、Manufacturing Expo 2025；站内 Korenix、EN50155/EN50121 词；表内「主要是巨联（Moxa）的」）；群发 6 次无回复。",
-    "need": "Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP",
-    "breakpoint": "Moxa 官方渠道：引入白牌可能与原厂协议冲突，预期低",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-19 $300（48 Port PoE Managed Switch）、2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
-      "why": "Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-09-19) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
-        "why": "17 封 / 1 次打开 / 0 回｜首封 2025-05-27 → 末封 2026-09-24（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "主要是巨联的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "主要是 Moxa（巨联）",
+   "quote": "主要是巨联的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "工业网络 / KVM / 工业路由分销（Moxa、Adder、Robustel）"
+ ],
+ "channels": {
+  "role": "工业网络分销商（Moxa 官方渠道）",
+  "region": "泰国",
+  "contact": "sales01@winnerintertech.com、narathon@winnerintertech.com"
+ },
+ "signals": [
+  "官网产品页 /poeswitch、/industrial-switches",
+  "品牌 Moxa（词频 107）、Korenix、Robustel、Adder KVM"
+ ],
+ "risks": [
+  "Moxa 官方渠道：引入白牌可能与原厂协议冲突，预期低",
+  "参加国防与安全展 → 军方项目守界（只报民用自动化）",
+  "轨道词（EN50155/EN50121）= Saga 不做车载/轨道",
+  "非主攻区（T5）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP"
+ },
+ "email_hook": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，1 次记录打开，0 回；收件 narathon@winnerintertech.com, office@winnerintertech.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」；Elsa 箱：`to:winnerintertech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(n)））",
+   "type": "工业网络分销商（Moxa 官方渠道）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "泰国 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17，Opened 标签 1（Simon 群发追踪）；用户表：「主要是巨联的」；研究档 risks：Moxa 官方渠道：引入白牌可能与原厂协议冲突，预期低"
+  },
+  "situation": "泰国 Winner Intertech（官网泰语：Moxa / Adder / Robustel / Protempis / ATcom 官方经销与合作伙伴，直接从原厂进货；参加 Defense & Security 2025、Manufacturing Expo 2025；站内 Korenix、EN50155/EN50121 词；表内「主要是巨联（Moxa）的」）；群发 6 次无回复。",
+  "need": "Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP",
+  "breakpoint": "Moxa 官方渠道：引入白牌可能与原厂协议冲突，预期低",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-19 $300（48 Port PoE Managed Switch）、2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
+   "why": "Moxa 官方经销 → Saga 作「非 Moxa 预算位」：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；非管理 STI-288GP。已打开的主题（1/17 封有打开记录）：「8 Port Industrial PoE Switch」(2025-09-19) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the industrial PoE positions where Moxa pricing is too high for the project, we supply DIN-rail 8-PoE + 2 SFP managed (Marvell L2+) and unmanaged switches (−40~75 °C, neutral packing) from small lots — do you quote more managed or unmanaged units in those budget tiers?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
+    "why": "17 封 / 1 次打开 / 0 回｜首封 2025-05-27 → 末封 2026-09-24（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要是巨联的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

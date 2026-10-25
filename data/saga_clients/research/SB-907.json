@@ -1,156 +1,156 @@
 {
-  "code": "SB-907",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（ifocusshop.com，快照 2026-10-21）",
-  "summary": "泰国芭提雅 CCTV 安装与销售商 Focus System & Design Co., Ltd.（iFocus；官网泰语：芭提雅/春武里 CCTV 设计安装维护，Hikvision / Dahua / Uniview 经销点，站内 Dahua PFS3006/3110 与 Hikvision DS-3E1309P 等 PoE 交换机页面；表内「在用 Itoonertech 商业 PoE，很多其他牌子」）；群发 9 次无回复。",
-  "type": "安防集成/经销（CCTV 安装为主）",
-  "size": "",
-  "brands_seen": [
-    "Dahua",
-    "Uniview",
-    "Hikvision",
-    "TP-Link",
-    "ZKTeco",
-    "Ruijie",
-    "MikroTik",
-    "Ubiquiti",
-    "Cisco",
-    "D-Link",
-    "Zyxel"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：กล้องวงจรปิดเมืองพัทยา รับติดตั้ง พัทยา ชลบุรี | iFocus；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด พัทยา ชลบุรี ดูแลระบบกล้องโทรทัศน์วงจรปิดในเมืองพัทยา สำหรับบ้าน ร้านค้า และองค์กร โดยโฟกัส ซิสเต็ม",
-      "url": "https://ifocusshop.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "泰语官网：芭提雅 CCTV 设计安装维护，Hikvision/Dahua 经销点",
-      "quote": "จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด … ศูนย์จำหน่ายกล้องวงจรปิด Hikvision ; Dahua",
-      "url": "https://ifocusshop.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "在用 Itoonertech 商业 PoE",
-      "quote": "FS 在用Itoonertech商业POE 很多其他的牌子",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-907",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ifocusshop.com，快照 2026-10-21）",
+ "summary": "泰国芭提雅 CCTV 安装与销售商 Focus System & Design Co., Ltd.（iFocus；官网泰语：芭提雅/春武里 CCTV 设计安装维护，Hikvision / Dahua / Uniview 经销点，站内 Dahua PFS3006/3110 与 Hikvision DS-3E1309P 等 PoE 交换机页面；表内「在用 Itoonertech 商业 PoE，很多其他牌子」）；群发 9 次无回复。",
+ "type": "安防集成/经销（CCTV 安装为主）",
+ "size": "",
+ "brands_seen": [
+  "Dahua",
+  "Uniview",
+  "Hikvision",
+  "TP-Link",
+  "ZKTeco",
+  "Ruijie",
+  "MikroTik",
+  "Ubiquiti",
+  "Cisco",
+  "D-Link",
+  "Zyxel"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：กล้องวงจรปิดเมืองพัทยา รับติดตั้ง พัทยา ชลบุรี | iFocus；品类词 安防监控（CCTV / 门禁） / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด พัทยา ชลบุรี ดูแลระบบกล้องโทรทัศน์วงจรปิดในเมืองพัทยา สำหรับบ้าน ร้านค้า และองค์กร โดยโฟกัส ซิสเต็ม",
+   "url": "https://ifocusshop.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "泰国",
-    "other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "CCTV 设计 / 安装 / 维护（芭提雅、春武里）",
-    "安防设备零售（Hikvision / Dahua / Uniview / ZKTeco）"
-  ],
-  "channels": {
-    "role": "安防集成/经销（CCTV 安装为主）",
-    "region": "泰国",
-    "contact": "focus.sys@hotmail.com"
+  {
+   "kind": "官网快照",
+   "claim": "泰语官网：芭提雅 CCTV 设计安装维护，Hikvision/Dahua 经销点",
+   "quote": "จำหน่ายกล้องวงจรปิดพัทยา พร้อมบริการออกแบบและติดกล้องวงจรปิด … ศูนย์จำหน่ายกล้องวงจรปิด Hikvision ; Dahua",
+   "url": "https://ifocusshop.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网产品页：Dahua DH-PFS3006-4ET-60 / DH-PFS3009-8ET-96 / PFS3110-8ET-96、Hikvision DS-3E1309P-EI → 非管理 PoE 为主",
-    "表内「可以尝试多跟进一下」"
-  ],
-  "risks": [
-    "芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）",
-    "非主攻区（T5）：低频跟进",
-    "表内邮箱为 hotmail 免费邮箱（focus.sys@hotmail.com），官网未见企业邮箱"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）"
-  },
-  "email_hook": "For the camera sites where you now use Itoonertech or Dahua PFS PoE switches, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP uplinks (PoE watchdog, neutral packing) from small lots — which one do you install most, 8-port or 16-port PoE?",
-  "products_seen": [
-    {
-      "brand": "Dahua",
-      "model": "DH-PFS3110-8ET-96",
-      "spec": "8 口百兆 PoE 非管理 96W",
-      "saga": "STC-028GP（HRUI 列表价 $24.2，非 SmartByte）",
-      "url": "https://ifocusshop.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Hikvision",
-      "model": "DS-3E1309P-EI",
-      "spec": "8 口百兆 PoE 智能管理",
-      "saga": "STC-28DGGPM",
-      "url": "https://ifocusshop.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 focus.sys@hotmail.com；主题多为「Industrial PoE Switch、10G Media Converter」）",
-      "type": "安防集成/经销（CCTV 安装为主）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "泰国 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「FS 在用Itoonertech商业POE 很多其他的牌子 产品」；研究档 risks：芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）"
-    },
-    "situation": "泰国芭提雅 CCTV 安装与销售商 Focus System & Design Co., Ltd.（iFocus；官网泰语：芭提雅/春武里 CCTV 设计安装维护，Hikvision / Dahua / Uniview 经销点，站内 Dahua PFS3006/3110 与 Hikvision DS-3E1309P 等 PoE 交换机页面；表内「在用 Itoonertech 商业 PoE，很多其他牌子」）；群发 9 次无回复。",
-    "need": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）",
-    "breakpoint": "芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $65（10G Media Converter）、2025-07-14 $300（48 Port PoE Managed Switch）、2025-08-13 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
-      "why": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）。已打开的主题（1/20 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "For the camera sites where you now use Itoonertech or Dahua PFS PoE switches, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP uplinks (PoE watchdog, neutral packing) from small lots — which one do you install most, 8-port or 16-port PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-25",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Media Converter",
-        "why": "20 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（20 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "在用 Itoonertech 商业 PoE",
+   "quote": "FS 在用Itoonertech商业POE 很多其他的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "CCTV 设计 / 安装 / 维护（芭提雅、春武里）",
+  "安防设备零售（Hikvision / Dahua / Uniview / ZKTeco）"
+ ],
+ "channels": {
+  "role": "安防集成/经销（CCTV 安装为主）",
+  "region": "泰国",
+  "contact": "focus.sys@hotmail.com"
+ },
+ "signals": [
+  "官网产品页：Dahua DH-PFS3006-4ET-60 / DH-PFS3009-8ET-96 / PFS3110-8ET-96、Hikvision DS-3E1309P-EI → 非管理 PoE 为主",
+  "表内「可以尝试多跟进一下」"
+ ],
+ "risks": [
+  "芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）",
+  "非主攻区（T5）：低频跟进",
+  "表内邮箱为 hotmail 免费邮箱（focus.sys@hotmail.com），官网未见企业邮箱"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）"
+ },
+ "email_hook": "For the camera sites where you now use Itoonertech or Dahua PFS PoE switches, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP uplinks (PoE watchdog, neutral packing) from small lots — which one do you install most, 8-port or 16-port PoE?",
+ "products_seen": [
+  {
+   "brand": "Dahua",
+   "model": "DH-PFS3110-8ET-96",
+   "spec": "8 口百兆 PoE 非管理 96W",
+   "saga": "STC-028GP（HRUI 列表价 $24.2，非 SmartByte）",
+   "url": "https://ifocusshop.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Hikvision",
+   "model": "DS-3E1309P-EI",
+   "spec": "8 口百兆 PoE 智能管理",
+   "saga": "STC-28DGGPM",
+   "url": "https://ifocusshop.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 focus.sys@hotmail.com；主题多为「Industrial PoE Switch、10G Media Converter」；Elsa 箱：`to:ifocusshop.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(n)））",
+   "type": "安防集成/经销（CCTV 安装为主）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「FS 在用Itoonertech商业POE 很多其他的牌子 产品」；研究档 risks：芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）"
+  },
+  "situation": "泰国芭提雅 CCTV 安装与销售商 Focus System & Design Co., Ltd.（iFocus；官网泰语：芭提雅/春武里 CCTV 设计安装维护，Hikvision / Dahua / Uniview 经销点，站内 Dahua PFS3006/3110 与 Hikvision DS-3E1309P 等 PoE 交换机页面；表内「在用 Itoonertech 商业 PoE，很多其他牌子」）；群发 9 次无回复。",
+  "need": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）",
+  "breakpoint": "芭提雅本地安装商：量小、价格敏感（在用深圳白牌 Itoonertech）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-18 $65（10G Media Converter）、2025-07-14 $300（48 Port PoE Managed Switch）、2025-08-13 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
+   "why": "CCTV 安装商 8 口 PoE 为走量位（现用 Itoonertech / Dahua PFS3110-8ET）→ STC-28DGGPM（$84.1 @25%）；非管理位对价 HRUI STC-028GP（$24.2 列表价）。已打开的主题（1/20 封有打开记录）：「48 Port PoE Managed Switch」(2025-07-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the camera sites where you now use Itoonertech or Dahua PFS PoE switches, we supply a Marvell-based 8-port PoE+ L2+ switch with 2 SFP uplinks (PoE watchdog, neutral packing) from small lots — which one do you install most, 8-port or 16-port PoE? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Media Converter",
+    "why": "20 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（20 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "FS 在用Itoonertech商业POE 很多其他的牌子 产品",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -1,125 +1,125 @@
 {
-  "code": "SB-786",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（trioms.com，快照 2026-10-21）",
-  "summary": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
-  "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
-  "size": "",
-  "brands_seen": [
-    "AOA"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Trioms Technology - Technology Provider for Today and Tomorrow!；品类词 光纤 / 媒体转换",
-      "quote": "JW Fishers Underwater search products；Hand held wind and weather trackers from Kestrel Meters.；Boltek Lightening detectors Detect and Track Thunderstorms .；Brands；Our Brands；Featured products",
-      "url": "https://www.trioms.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "AOA的工业MC 就这一款",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Trioms MC 页",
-      "quote": "trioms.com ; /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
-      "url": "https://www.trioms.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "AOA 工业 MC 一款",
-      "quote": "AOA的工业MC 就这一款",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-786",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（trioms.com，快照 2026-10-21）",
+ "summary": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
+ "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
+ "size": "",
+ "brands_seen": [
+  "AOA"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Trioms Technology - Technology Provider for Today and Tomorrow!；品类词 光纤 / 媒体转换",
+   "quote": "JW Fishers Underwater search products；Hand held wind and weather trackers from Kestrel Meters.；Boltek Lightening detectors Detect and Track Thunderstorms .；Brands；Our Brands；Featured products",
+   "url": "https://www.trioms.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "新加坡",
-    "other": "官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "AOA的工业MC 就这一款",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "仪器 / 技术产品分销（新加坡）"
-  ],
-  "channels": {
-    "role": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
-    "region": "新加坡",
-    "contact": "sales@trioms.com"
+  {
+   "kind": "官网快照",
+   "claim": "Trioms MC 页",
+   "quote": "trioms.com ; /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
+   "url": "https://www.trioms.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Trioms Technology - Technology Provider for Today and Tomorrow! ; JW Fishers Underwater search products ; Kestrel Meters ; Boltek；页面 /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
-    "表内：AOA 的工业 MC 就这一款"
-  ],
-  "risks": [
-    "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
-  ],
-  "saga_fit": {
-    "p1": "STI-110FE",
-    "tier": 20,
-    "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）"
-  },
-  "email_hook": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 sales@trioms.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "新加坡 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「AOA的工业MC 就这一款」；研究档 risks：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
-    },
-    "situation": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
-    "need": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）",
-    "breakpoint": "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@",
-    "saga_now": {
-      "p1": "STI-110FE",
-      "tier": 20,
-      "price": "换人再触锚价 STI-110FE $19.7 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
-      "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-17",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "24 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-17（24 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "AOA的工业MC 就这一款",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "AOA 工业 MC 一款",
+   "quote": "AOA的工业MC 就这一款",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 trioms.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "仪器 / 技术产品分销（新加坡）"
+ ],
+ "channels": {
+  "role": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
+  "region": "新加坡",
+  "contact": "sales@trioms.com"
+ },
+ "signals": [
+  "官网：Trioms Technology - Technology Provider for Today and Tomorrow! ; JW Fishers Underwater search products ; Kestrel Meters ; Boltek；页面 /product/10-100base-tx-to-100base-fx-industrial-media-converter/",
+  "表内：AOA 的工业 MC 就这一款"
+ ],
+ "risks": [
+  "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STI-110FE",
+  "tier": 20,
+  "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）"
+ },
+ "email_hook": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 sales@trioms.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:trioms.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(n)））",
+   "type": "仪器/技术产品分销商（新加坡，工业 MC 单品）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "新加坡 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「AOA的工业MC 就这一款」；研究档 risks：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@"
+  },
+  "situation": "新加坡 Trioms Technology（多品牌技术产品分销：JW Fishers 水下搜索、Kestrel 气象仪、Boltek 雷电探测；站内一款 10/100 工业 MC（AOA）；表内「AOA 的工业 MC 就这一款」）；群发 14 次无回复。",
+  "need": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）",
+  "breakpoint": "品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@",
+  "saga_now": {
+   "p1": "STI-110FE",
+   "tier": 20,
+   "price": "换人再触锚价 STI-110FE $19.7 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-17",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "24 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-17（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "AOA的工业MC 就这一款",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

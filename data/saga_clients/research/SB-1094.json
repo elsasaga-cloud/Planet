@@ -78,7 +78,7 @@
   "email_hook": "For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@vidcom.uz；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）",
+      "level": "未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@vidcom.uz；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）；Elsa 群发 BCC 已触达 7 轮 2025-04-08→2025-11-18（锚 To sales-one@setevoe.com.ua 7 轮 2025-04-08→2025-11-18；本户在 Bcc；主题 Mini Industrial PoE Switch、24 Port Fiber Switch、10G Enterprise SFP Switch、Industrial PoE Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "安防系统经销商（乌兹别克斯坦，Hikvision/Dahua/H3C）",
       "sieve": "1（只收到群发）",
       "stop": "只打通用邮箱，无记录打开",
@@ -101,10 +101,73 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-08→2025-11-18，锚 To sales-one@setevoe.com.ua，0 回）（第 74 批(n)）；观察打开",
       "one_question": "For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?"
     },
     "facts": [
+      {
+        "date": "2025-04-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19614f320d125490"
+      },
+      {
+        "date": "2025-05-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1968b64790f67a7a"
+      },
+      {
+        "date": "2025-06-02",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1972f70a00586abf"
+      },
+      {
+        "date": "2025-07-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197c50ccc65174dd"
+      },
+      {
+        "date": "2025-08-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
+        "quote": "24 Port Fiber Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19874a707c2ed712"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199b8f2203ffa6e8"
+      },
+      {
+        "date": "2025-11-18",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales-one@setevoe.com.ua）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a9636b94815489"
+      },
       {
         "date": "2026-10-07",
         "dir": "去",

@@ -80,7 +80,7 @@
  "email_hook": "Carlos, following your request for 90 W PoE injectors: we do not carry injectors, but our DIN-rail 8-PoE + 2 SFP industrial switch with two 802.3bt 90 W ports (−40~75 °C, 12–58 V redundant, CE/RoHS) can power VMS panels and cameras at your gantries from single units, EXW USD — how many bt ports does each roadside cabinet need?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: 阿里巴巴RFQ」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「90W PoE Injector外购品 / from: 阿里巴巴RFQ」；Elsa 箱：`to:elementuengenharia.com.br` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "道路 ITS 集成商（巴西，守界备注：民用道路设施）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

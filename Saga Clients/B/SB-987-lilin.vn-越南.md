@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-987` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工业交换机」）** ｜ 类型：CCTV 分销商（越南，自有 logo 工业交换机） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：越南 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「工业交换机」；研究档 risks：非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「工业交换机」）；Elsa 群发 BCC 已触达 1 轮 2026-09-09（锚 To thuanan.sales1@gmail.com 1 轮 2026-09-09；本户在 Bcc；主题 24 Port PoE Managed Switch；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:lilin.vn OR to:silverseahcm.vn` 全程 complete：命中 1 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：CCTV 分销商（越南，自有 logo 工业交换机） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：越南 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「工业交换机」；研究档 risks：非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空
 - **现状一句话**：越南 LILIN Vietnam / Silversea HCM（lilin.vn / silverseahcm.vn：台湾 LILIN CCTV 品牌的越南分销商，表内「自己的 logo」「工业交换机」）；表内未跟进。
 - **对方真实需求（有据）**：自有 logo 工业交换机 → 工业 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4）贴标
 - **断点 / 为什么停在这里**：非主攻区（T5，越南）；未跟进过，仅 marketing@；官网快照空
@@ -50,9 +50,10 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-09 | 去 | Elsa 群发（BCC；To thuanan.sales1@gmail.com） | 24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To thuanan.sales1@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:lilin.vn OR to:silverseahcm.vn` 命中行 To=thuanan.sales1@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业交换机 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 1 轮见 facts；S/A 箱无往来）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -228,12 +229,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

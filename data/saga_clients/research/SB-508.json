@@ -68,7 +68,7 @@
  "email_hook": "Eduardo, for the 2-fibre + 6-PoE rack unit — our closest is 2 SFP + 8 PoE L2+ managed (Marvell) at $84 EXW; is it for a government CFTV site (then I'll confirm what ANATEL paperwork you need)?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：2光6POE大壳」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：2光6POE大壳」；Elsa 箱：`to:solustecnologia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

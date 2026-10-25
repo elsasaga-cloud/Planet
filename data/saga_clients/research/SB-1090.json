@@ -1,127 +1,127 @@
 {
-  "code": "SB-1090",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（top-fa.com，快照 2026-10-21）",
-  "summary": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
-  "type": "工业自动化网店（韩国，ICP DAS 在售）",
-  "size": "",
-  "brands_seen": [
-    "D-Link",
-    "ICP DAS"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：자동화의 모든것 TOP-FA!；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE",
-      "quote": "팝업레이어 알림；NOTICE；MAIN PRODUCTS；APPLICATION；NEWS；제품정보",
-      "url": "https://top-fa.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "TOP-FA 首页",
-      "quote": "자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; APPLICATION ; 빠른견적요청 ; I-7520AR",
-      "url": "https://top-fa.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "在用台湾 ICP DAS",
-      "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1090",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（top-fa.com，快照 2026-10-21）",
+ "summary": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
+ "type": "工业自动化网店（韩国，ICP DAS 在售）",
+ "size": "",
+ "brands_seen": [
+  "D-Link",
+  "ICP DAS"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：자동화의 모든것 TOP-FA!；品类词 工业自动化 / OT 网络 / 布线 / 线缆 / 网络交换 / PoE",
+   "quote": "팝업레이어 알림；NOTICE；MAIN PRODUCTS；APPLICATION；NEWS；제품정보",
+   "url": "https://top-fa.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "韩国",
-    "other": "官网 top-fa.com，语言 ko，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业自动化产品网店（串口 / 采集 / 网络 / 线缆）"
-  ],
-  "channels": {
-    "role": "工业自动化网店（韩国，ICP DAS 在售）",
-    "region": "韩国",
-    "contact": "master@factos.co.kr"
+  {
+   "kind": "官网快照",
+   "claim": "TOP-FA 首页",
+   "quote": "자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; APPLICATION ; 빠른견적요청 ; I-7520AR",
+   "url": "https://top-fa.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页 자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; 빠른견적요청；站内 I-7520AR / PCI-7432 / GH-402ATXR；kw poe 14 / cable 12",
-    "表内：工业自动化 serial 比较专业 在用台湾的 IPDAS 牌子；可以尝试多跟进一下"
-  ],
-  "risks": [
-    "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
-    "23 次无回复，仅 master@"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 20,
-    "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）"
-  },
-  "email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 36 封 2024→2026，1 次记录打开，0 回；收件 master@factos.co.kr；主题多为「Booster PoE Switch、Industrial PoE Switch」）",
-      "type": "工业自动化网店（韩国，ICP DAS 在售）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "36 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 36，Opened 标签 1（Simon 群发追踪）；用户表：「工业自动化 serial 比较专业 在用台湾的IPDAS牌子」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强"
-    },
-    "situation": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
-    "need": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）",
-    "breakpoint": "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 20,
-      "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port switch）、2024-10-18 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-01 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
-      "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-15",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Booster PoE Switch、Industrial PoE Switch",
-        "why": "36 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-15（36 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "在用台湾 ICP DAS",
+   "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 top-fa.com，语言 ko，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "工业自动化产品网店（串口 / 采集 / 网络 / 线缆）"
+ ],
+ "channels": {
+  "role": "工业自动化网店（韩国，ICP DAS 在售）",
+  "region": "韩国",
+  "contact": "master@factos.co.kr"
+ },
+ "signals": [
+  "首页 자동화의 모든것 TOP-FA! ; MAIN PRODUCTS ; 빠른견적요청；站内 I-7520AR / PCI-7432 / GH-402ATXR；kw poe 14 / cable 12",
+  "表内：工业自动化 serial 比较专业 在用台湾的 IPDAS 牌子；可以尝试多跟进一下"
+ ],
+ "risks": [
+  "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
+  "23 次无回复，仅 master@"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）"
+ },
+ "email_hook": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 36 封 2024→2026，1 次记录打开，0 回；收件 master@factos.co.kr；主题多为「Booster PoE Switch、Industrial PoE Switch」；Elsa 箱：`to:top-fa.com OR to:factos.co.kr` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 36 / 来 0）（第 74 批(n)））",
+   "type": "工业自动化网店（韩国，ICP DAS 在售）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "36 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 36，Opened 标签 1（Simon 群发追踪）；用户表：「工业自动化 serial 比较专业 在用台湾的IPDAS牌子」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强"
+  },
+  "situation": "韩国 TOP-FA / Factos（「자동화의 모든것」工业自动化网店：串口/采集（ICP DAS I-7520AR、PCI-7432）、D-Link、PoE、线缆；表内「工业自动化 serial 比较专业；在用台湾的 ICP DAS 牌子」「可以尝试多跟进一下」）；群发 23 次无回复。",
+  "need": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）",
+  "breakpoint": "非主攻区（T5，韩国）；KC 由客户申报；ICP DAS（台湾）价格基准与品牌认知强",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-20 $300（48 port switch）、2024-10-18 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-01 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）",
+   "why": "在售 ICP DAS 工业网络 → 工业 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）/ 5 GE STI-050GE（$17.0）作预算线；PoE 位 STI-288GP（$57.4）。已打开的主题（1/36 封有打开记录）：「Marvell Alleycat5 Solution」(2025-04-14) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "Alongside the ICP DAS and D-Link networking you list for automation panels, we supply Marvell-based DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD; KC by your side — which port count do your automation customers buy most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-15",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Booster PoE Switch、Industrial PoE Switch",
+    "why": "36 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-15（36 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业自动化 serial 比较专业 在用台湾的IPDAS牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,22 +36,28 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Sophia, alongside the Edimax industrial switches you carry, we can add a neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 群发 BCC 已触达 6 轮（2025-04-13→2025-10-04，锚 To sales@fibresales.com.au，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-584` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@certech.com.au, sophiaw@certech.com.au；主题多为「Marvell Industrial Alert System、Optional Marvell Chipset Solutions」）** ｜ 类型：布线与网络连接分销商（澳洲，Edimax 工业线） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：澳大利亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「Edimax的；工业FS 周边产品 在用edimax的」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报
+- **绑定等级：未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@certech.com.au, sophiaw@certech.com.au；主题多为「Marvell Industrial Alert System、Optional Marvell Chipset Solutions」）；Elsa 群发 BCC 已触达 6 轮 2025-04-13→2025-10-04（锚 To sales@fibresales.com.au 6 轮 2025-04-13→2025-10-04；本户在 Bcc；主题 90W PoE Managed Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:certech.com.au` 全程 complete：命中 6 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：布线与网络连接分销商（澳洲，Edimax 工业线） ｜ 筛子：1（只收到群发） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：澳大利亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12；用户表：「Edimax的；工业FS 周边产品 在用edimax的」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报
 - **现状一句话**：澳大利亚 CERTECH（结构化布线 / 服务器机柜 / 网络连接方案供应商，1300 免费电话 + 网店；在售 Edimax 工业交换机 IGS-5654PLX / IGS-5428PLC / IGS-5218PLC / IGS-1210P；表内「Edimax 的，工业 FS 周边产品」；KP Thomas Boer（Senior Network Solutions Specialist，thomasb@）、Sophia Wong（Product & Brands Program Manager））；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核
 - **断点 / 为什么停在这里**：非主攻区（T5）；RCM 合规由客户申报
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch））——在售 Edimax IGS-1210P（8 PoE + 2 SFP 非管理）→ STI-288GP（$57.4 @20%）；IGS-5218PLC（16 PoE 管理）→ STI-21616GP（非管理，$170.4）/ 管理型待核
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 群发 BCC 已触达 6 轮（2025-04-13→2025-10-04，锚 To sales@fibresales.com.au，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Sophia, alongside the Edimax industrial switches you carry, we can add a neutral-brand DIN-rail 8-PoE + 2 SFP line (unmanaged and managed, −40~75 °C) for price-sensitive cabling projects, small lots, EXW — is there room for a second industrial brand in your program?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-13 | 去 | Elsa 群发（BCC；To sales@fibresales.com.au） | Marvell Alleycat5 Solution（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au） | 第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-05 | 去 | Elsa 群发（BCC；To sales@fibresales.com.au） | Mini Industrial PoE Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au） | 第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-06 | 去 | Elsa 群发（BCC；To sales@fibresales.com.au） | 90W PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au） | 第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-07 | 去 | Elsa 群发（BCC；To sales@fibresales.com.au） | 16 Port Ethernet Switch（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au） | 第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-08-08 | 去 | Elsa 群发（BCC；To sales@fibresales.com.au） | 8 Port Industrial PoE Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au） | 第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-04 | 去 | Elsa 群发（BCC；To sales@fibresales.com.au） | 10G Enterprise SFP Switch（Elsa 群发第 6/6 轮；本户在 Bcc，锚 To sales@fibresales.com.au） | 第 74 批(n) `from:e.sagatelecom to:certech.com.au` 命中行 To=sales@fibresales.com.au ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-08-31 | 去 | A 群发 | Marvell Industrial Alert System、Optional Marvell Chipset Solutions | 12 封 / 0 次打开 / 0 回｜首封 2025-11-06 → 末封 2026-08-31（12 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Edimax的；工业FS 周边产品 在用edimax的 | 表内备注 | `用户表` |
 
@@ -295,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

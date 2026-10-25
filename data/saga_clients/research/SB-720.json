@@ -1,126 +1,126 @@
 {
-  "code": "SB-720",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（netshieldsa.com，快照 2026-10-21）",
-  "summary": "南非 Netshield South Africa（自有品牌网络与电源产品制造商：UPS、交换机、MC；表内「MC SFP 工业 FS」；KP Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer）、Celia Gagiano，电话 27 12 841 0320）；群发 7 次无回复。",
-  "type": "自有品牌网络/电源产品商（南非）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：netshieldsa.com",
-      "quote": "",
-      "url": "https://netshieldsa.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC SFP 工业FS；Celia Gagiano 27 12 841 0320",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC SFP 工业 FS",
-      "quote": "MC SFP 工业FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Inus Dreckmeyr",
-      "title": "Electrical Engineer and Chief Executive Officer",
-      "email": "inus@netshieldsa.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Celia Gagiano",
-      "title": "（职务待核）",
-      "email": "celia@netshieldsa.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-720",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netshieldsa.com，快照 2026-10-21）",
+ "summary": "南非 Netshield South Africa（自有品牌网络与电源产品制造商：UPS、交换机、MC；表内「MC SFP 工业 FS」；KP Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer）、Celia Gagiano，电话 27 12 841 0320）；群发 7 次无回复。",
+ "type": "自有品牌网络/电源产品商（南非）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：netshieldsa.com",
+   "quote": "",
+   "url": "https://netshieldsa.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "南非",
-    "other": "官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC SFP 工业FS；Celia Gagiano 27 12 841 0320",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络 / 电源产品（自有品牌 Netshield，南非）"
-  ],
-  "channels": {
-    "role": "自有品牌网络/电源产品商（南非）",
-    "region": "南非",
-    "contact": "inus@netshieldsa.com、celia@netshieldsa.com"
-  },
-  "signals": [
-    "表内：MC SFP 工业 FS；KP Inus Dreckmeyr / Electrical Engineer and Chief Executive Officer；Celia Gagiano 27 12 841 0320",
-    "快照：内容为空"
-  ],
-  "risks": [
-    "非主攻区（T5，南非）；自有品牌（可能有既定 ODM）；7 次无回复 → 改向 CEO 具名首触；官网快照空"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 30,
-    "why": "Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供"
-  },
-  "email_hook": "Inus, for the industrial switches and media converters sold under the Netshield label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2026-03-23 Inus「indication of pricing on all your switches」→ 价表已发；无后续）",
-      "type": "南非自有品牌网络/电源商（Netshield）",
-      "sieve": "2",
-      "stop": "价表后无回",
-      "revive": "一句话",
-      "lane": "ZA",
-      "cadence": "一封",
-      "evidence": "k=e0c4b6cd7947d58e；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-    },
-    "situation": "2026-03-23 Inus 只要「所有交换机的价格指示」→ Alan 发了整表（Product Link 2026Q2）→ 7 个月无回；自有品牌（Netshield）电源/网络商，PoE 交换机是否在其路线图上不明。",
-    "need": "自有品牌 PoE 交换机（待证实；只有一次要价表）。",
-    "breakpoint": "整表之后没有一个具体 SKU 的对话；价表 = 没有决策点。",
-    "saga_now": {
-      "p1": "STC-28DGGPM（Netshield 贴牌）",
-      "tier": 30,
-      "price": "再触锚价 STC-28DGGPM $87.4（贴牌 30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-12",
-      "channel": "A 邮箱 → inus@netshieldsa.com",
-      "action": "一句话",
-      "one_question": "Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-03-23",
-        "dir": "来",
-        "who": "inus@netshieldsa.com",
-        "quote": "Hi, Please give me indication of pricing on all your switches? Regards Inus",
-        "why": "来信原文（主题「RE: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "e0c4b6cd7947d58e"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One SKU under the Netshield label — a 2-unit sample?",
-      "body": "Hi, Inus,\n\nIn March you asked for an indication of pricing across our switches and I sent the full list. Lists rarely turn into decisions, so one narrower question instead:\n\nIs there one SKU worth a 2-unit sample under the Netshield label? The one I would start with is STC-28DGGPM — 8× GE PoE+ + 2× 2.5G SFP, L2+ (Marvell), 120 W budget — at $87.4 USD EXW, MOQ 1 pc, 15-day validity, with your logo in the web GUI from the first unit.\n\nIf PoE switches are not on the Netshield roadmap, tell me and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC SFP 工业 FS",
+   "quote": "MC SFP 工业FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Inus Dreckmeyr",
+   "title": "Electrical Engineer and Chief Executive Officer",
+   "email": "inus@netshieldsa.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Celia Gagiano",
+   "title": "（职务待核）",
+   "email": "celia@netshieldsa.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "南非",
+  "other": "官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络 / 电源产品（自有品牌 Netshield，南非）"
+ ],
+ "channels": {
+  "role": "自有品牌网络/电源产品商（南非）",
+  "region": "南非",
+  "contact": "inus@netshieldsa.com、celia@netshieldsa.com"
+ },
+ "signals": [
+  "表内：MC SFP 工业 FS；KP Inus Dreckmeyr / Electrical Engineer and Chief Executive Officer；Celia Gagiano 27 12 841 0320",
+  "快照：内容为空"
+ ],
+ "risks": [
+  "非主攻区（T5，南非）；自有品牌（可能有既定 ODM）；7 次无回复 → 改向 CEO 具名首触；官网快照空"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 30,
+  "why": "Netshield 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、8 PoE + 2 SFP STI-288GPM（$85.5）、工业千兆 MC STI-110GE（$24.3）贴标；SFP Saga 不供"
+ },
+ "email_hook": "Inus, for the industrial switches and media converters sold under the Netshield label, we can be a second ODM source on a Marvell platform (DIN-rail 8-GE/8-PoE + 2 SFP managed, gigabit MCs; −40~75 °C, CE/RoHS) in your packaging from small lots — which SKU would you want sampled first?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2026-03-23 Inus「indication of pricing on all your switches」→ 价表已发；无后续；Elsa 箱：`to:netshieldsa.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 1）（第 74 批(n)））",
+   "type": "南非自有品牌网络/电源商（Netshield）",
+   "sieve": "2",
+   "stop": "价表后无回",
+   "revive": "一句话",
+   "lane": "ZA",
+   "cadence": "一封",
+   "evidence": "k=e0c4b6cd7947d58e；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "2026-03-23 Inus 只要「所有交换机的价格指示」→ Alan 发了整表（Product Link 2026Q2）→ 7 个月无回；自有品牌（Netshield）电源/网络商，PoE 交换机是否在其路线图上不明。",
+  "need": "自有品牌 PoE 交换机（待证实；只有一次要价表）。",
+  "breakpoint": "整表之后没有一个具体 SKU 的对话；价表 = 没有决策点。",
+  "saga_now": {
+   "p1": "STC-28DGGPM（Netshield 贴牌）",
+   "tier": 30,
+   "price": "再触锚价 STC-28DGGPM $87.4（贴牌 30% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-25 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（3/18 封有打开记录）：「90W PoE Managed Switch」(2025-03-26)、「Marvell Managed Commercial Switches」(2026-03-23)、「Re: Marvell Managed Commercial Switche」(2026-03-23) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-12",
+   "channel": "A 邮箱 → inus@netshieldsa.com",
+   "action": "一句话",
+   "one_question": "Inus — after the March list, is there one SKU worth a 2-unit sample under the Netshield label? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-03-23",
+    "dir": "来",
+    "who": "inus@netshieldsa.com",
+    "quote": "Hi, Please give me indication of pricing on all your switches? Regards Inus",
+    "why": "来信原文（主题「RE: Marvell Managed Commercial Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "e0c4b6cd7947d58e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One SKU under the Netshield label — a 2-unit sample?",
+   "body": "Hi, Inus,\n\nIn March you asked for an indication of pricing across our switches and I sent the full list. Lists rarely turn into decisions, so one narrower question instead:\n\nIs there one SKU worth a 2-unit sample under the Netshield label? The one I would start with is STC-28DGGPM — 8× GE PoE+ + 2× 2.5G SFP, L2+ (Marvell), 120 W budget — at $87.4 USD EXW, MOQ 1 pc, 15-day validity, with your logo in the web GUI from the first unit.\n\nIf PoE switches are not on the Netshield roadmap, tell me and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

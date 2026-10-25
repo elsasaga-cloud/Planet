@@ -111,7 +111,7 @@
  "country_fix": "不丹",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「表内电话 975-171 13202（+975 = 不丹）；邮箱 sonam@nano.bt（.bt = 不丹）；公司名」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「表内电话 975-171 13202（+975 = 不丹）；邮箱 sonam@nano.bt（.bt = 不丹）；公司名」；Elsa 箱：`to:nano.bt` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "IT/网络经销商",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

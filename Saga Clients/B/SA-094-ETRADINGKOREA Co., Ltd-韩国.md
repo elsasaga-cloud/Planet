@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-094` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（2025-06 代表问「能看你们网站吗」→ Alan「网站没什么内容，我们用 Google Drive」→ 无）** ｜ 类型：韩国自有 ETK 系列品牌 + 分销；代表 우성영 ｜ 筛子：1 ｜ 停点：可信度：对方要网站，Saga 当时没有可看的网站（sagatele.com 2026 才上线） ｜ 复活：用 sagatele.com 重新触达一次 ｜ 通路：KR ｜ 节奏：2025-03 → 2026-09 去信 19 封；最后来信 2025-06-30 ｜ 证据：k=1e09231d59bc6afc / f7147947b4499bda
+- **绑定等级：未绑定（2025-06 代表问「能看你们网站吗」→ Alan「网站没什么内容，我们用 Google Drive」→ 无；Elsa 箱：`to:etradingkorea.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 19 / 来 1）（第 74 批(n)））** ｜ 类型：韩国自有 ETK 系列品牌 + 分销；代表 우성영 ｜ 筛子：1 ｜ 停点：可信度：对方要网站，Saga 当时没有可看的网站（sagatele.com 2026 才上线） ｜ 复活：用 sagatele.com 重新触达一次 ｜ 通路：KR ｜ 节奏：2025-03 → 2026-09 去信 19 封；最后来信 2025-06-30 ｜ 证据：k=1e09231d59bc6afc / f7147947b4499bda
 - **现状一句话**：代表亲自回「Can I see your web site?」，Alan 答「There is not much info on our website」并给 Drive 链接。对方消失。现在有 sagatele.com（6 款产品）——这是少数因「没网站」而停的户。
 - **对方真实需求（有据）**：ETK 系列 ODM 来源（研究档）。
 - **断点 / 为什么停在这里**：可信度门槛（网站）；现已有解。
@@ -307,12 +307,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

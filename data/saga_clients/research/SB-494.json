@@ -99,7 +99,7 @@
   ],
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 2 封被打开，0 回；收件 h0824@elimopt.co.kr, khs10623@elimopt.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）",
+      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 2 封被打开，0 回；收件 h0824@elimopt.co.kr, khs10623@elimopt.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-14「10G Media Converter」；To 仅本户 h0824@elimopt.co.kr / khs10623@elimopt.co.kr；头 msg 19501dcc2221e96f 核对无 Bcc，称呼「Hi, Hyun」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；头文摘要可见 Price: 65usd/pc（10G 收发器，2025-02 旧汇率）；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:elimopt.co.kr` 仅此 1 条，complete）（第 74 批(n)）",
       "type": "韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购）",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -122,10 +122,19 @@
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → h0824@elimopt.co.kr",
-      "action": "短信一问（email_hook）",
+      "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）",
       "one_question": "For the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
+      {
+        "date": "2025-02-14",
+        "dir": "out",
+        "who": "Elsa → h0824@elimopt.co.kr, khs10623@elimopt.co.kr",
+        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 1/1 轮；To 仅本户；正文 Price: 65usd/pc（10G 收发器，2025-02 旧汇率））",
+        "why": "第 74 批(n) `from:e.sagatelecom to:elimopt.co.kr` 全程 complete：1 轮直收（头 msg 19501dcc2221e96f 无 Bcc，称呼「Hi, Hyun」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19501dcc2221e96f"
+      },
       {
         "date": "2026-09-28",
         "dir": "去",

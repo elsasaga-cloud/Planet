@@ -108,7 +108,7 @@
  "email_hook": "Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 6 封 2024→2026，无记录打开，0 回；收件 hichem.akchiche@retelem-dz.com；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」）",
+   "level": "未触达（A/S 邮箱 6 封 2024→2026，无记录打开，0 回；收件 hichem.akchiche@retelem-dz.com；主题多为「24 Port PoE Managed Switch、10G Enterprise SFP Switch」；Elsa 箱：`to:retelem-dz.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 0）（第 74 批(n)））",
    "type": "—",
    "sieve": "1（只收到群发）",
    "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

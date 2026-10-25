@@ -1,122 +1,122 @@
 {
-  "code": "SB-002",
-  "name_official": "AD-NET Technology Co., Ltd.（台湾）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（ad-net.com.tw，快照 2026-10-21）",
-  "summary": "台湾光纤传输 / 工业通信品牌（媒体转换器、E1/SDH/PDH、GEPON、视频光端机、工业 PoE / 工业交换机、串口联网、光模块），站内工业与交换机词频极高；表内注「自己的品牌，应该是从深圳拿的产品」，2025-09 对 2 光 16 管理回复「M12 Switch??」（要 M12 接口工业机 — Saga 无）。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "产品线：MC、E1 转换、FTTx、光模块、工业通信、工业 PoE、光纤交换机；关键词 switch 197 / industrial 117 / poe 51 / fiber 366",
-      "quote": "Media converter, Ethernet converter, E1 converter, Fiber modem… Industrial POE… Industrial Ethernet Switches… Fiber Optical Switches",
-      "url": "https://www.ad-net.com.tw/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC FS VC 自己的品牌，应该是从深圳拿的产品；2025-09 2 16 管理→M12 Switch??",
-      "quote": "兴趣：MC FS VC 自己的品牌 应该是从深圳拿的产品；回复：M12 Switch??",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Robin",
-      "title": "（表内联系人）",
-      "email": "robin@ad-net.com.tw",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
+ "code": "SB-002",
+ "name_official": "AD-NET Technology Co., Ltd.（台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ad-net.com.tw，快照 2026-10-21）",
+ "summary": "台湾光纤传输 / 工业通信品牌（媒体转换器、E1/SDH/PDH、GEPON、视频光端机、工业 PoE / 工业交换机、串口联网、光模块），站内工业与交换机词频极高；表内注「自己的品牌，应该是从深圳拿的产品」，2025-09 对 2 光 16 管理回复「M12 Switch??」（要 M12 接口工业机 — Saga 无）。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "产品线：MC、E1 转换、FTTx、光模块、工业通信、工业 PoE、光纤交换机；关键词 switch 197 / industrial 117 / poe 51 / fiber 366",
+   "quote": "Media converter, Ethernet converter, E1 converter, Fiber modem… Industrial POE… Industrial Ethernet Switches… Fiber Optical Switches",
+   "url": "https://www.ad-net.com.tw/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "AD-NET Technology Co., Ltd.",
-    "founded": "（待核）",
-    "hq": "台湾",
-    "size": "中小型品牌商",
-    "other": "info@ad-net.com.tw"
-  },
-  "business_lines": [
-    "光纤媒体转换 / E1 / SDH",
-    "工业以太网 / 工业 PoE 交换机（贴牌）",
-    "视频光端机 / GEPON"
-  ],
-  "channels": {
-    "role": "品牌商（深圳贴牌采购）",
-    "region": "全球"
-  },
-  "signals": [
-    "整条工业 / 交换机线靠贴牌 → OEM 30% 对象",
-    "最新需求 M12 工业交换机（Saga 无，缺口记录）"
-  ],
-  "risks": [
-    "台系品牌商口径（仅 OEM）",
-    "M12 / EN50155 车载类需求 Saga 不做"
-  ],
-  "saga_fit": {
-    "p1": "STI-21616GP",
-    "tier": 30,
-    "why": "其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。"
-  },
-  "email_hook": "Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2025-09-17 Robin 问 M12 16 口铁路交换机 → Alan 转介 Inmax；守界：轨交 PASS）",
-      "type": "台湾网络厂商（AD-NET）",
-      "sieve": "1",
-      "stop": "轨交 M12 不做",
-      "revive": "不动",
-      "lane": "TW",
-      "cadence": "不动",
-      "evidence": "k=266471f2990a3b25；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-    },
-    "situation": "—",
-    "need": "—",
-    "breakpoint": "守界。",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-29 $65（10G Media Converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-20 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（2/27 封有打开记录）：「16 Port PoE Managed Switch」(2025-09-17)、「Re: 16 Port PoE Managed Switch」(2025-09-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-09-17",
-        "dir": "来",
-        "who": "robin@ad-net.com.tw",
-        "quote": "Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12",
-        "why": "来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "266471f2990a3b25"
-      },
-      {
-        "date": "2025-09-17",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Robin, Sorry, we do not have M12 switches. But we know who has a feasible solution for this, see below link. *http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba <http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba>* Please get in…",
-        "why": "Saga 实质答复原文（主题「Re: 16 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
-        "k": "09e9eda0a8877d0b"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC FS VC 自己的品牌，应该是从深圳拿的产品；2025-09 2 16 管理→M12 Switch??",
+   "quote": "兴趣：MC FS VC 自己的品牌 应该是从深圳拿的产品；回复：M12 Switch??",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Robin",
+   "title": "（表内联系人）",
+   "email": "robin@ad-net.com.tw",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：台系品牌 OEM）"
+ },
+ "company_facts": {
+  "legal_name": "AD-NET Technology Co., Ltd.",
+  "founded": "（待核）",
+  "hq": "台湾",
+  "size": "中小型品牌商",
+  "other": "info@ad-net.com.tw"
+ },
+ "business_lines": [
+  "光纤媒体转换 / E1 / SDH",
+  "工业以太网 / 工业 PoE 交换机（贴牌）",
+  "视频光端机 / GEPON"
+ ],
+ "channels": {
+  "role": "品牌商（深圳贴牌采购）",
+  "region": "全球"
+ },
+ "signals": [
+  "整条工业 / 交换机线靠贴牌 → OEM 30% 对象",
+  "最新需求 M12 工业交换机（Saga 无，缺口记录）"
+ ],
+ "risks": [
+  "台系品牌商口径（仅 OEM）",
+  "M12 / EN50155 车载类需求 Saga 不做"
+ ],
+ "saga_fit": {
+  "p1": "STI-21616GP",
+  "tier": 30,
+  "why": "其问的 2 光 16 管理工业机 → Saga STI-21616GP 贴 AD-NET 标（OEM 30%）；M12 版无。"
+ },
+ "email_hook": "Robin, on the 2-SFP + 16-port managed industrial unit — we don't do M12, but the RJ45 version (DIN/rack, −40~75 ℃) is available under your AD-NET label from small lots; shall I send the spec and OEM price?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2025-09-17 Robin 问 M12 16 口铁路交换机 → Alan 转介 Inmax；守界：轨交 PASS；Elsa 箱：`to:ad-net.com.tw` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 27 / 来 1）（第 74 批(n)））",
+   "type": "台湾网络厂商（AD-NET）",
+   "sieve": "1",
+   "stop": "轨交 M12 不做",
+   "revive": "不动",
+   "lane": "TW",
+   "cadence": "不动",
+   "evidence": "k=266471f2990a3b25；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "守界。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-29 $65（10G Media Converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-20 $240（24 Port Fiber Switch）、2025-10-23 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（2/27 封有打开记录）：「16 Port PoE Managed Switch」(2025-09-17)、「Re: 16 Port PoE Managed Switch」(2025-09-17) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-09-17",
+    "dir": "来",
+    "who": "robin@ad-net.com.tw",
+    "quote": "Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12",
+    "why": "来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "266471f2990a3b25"
+   },
+   {
+    "date": "2025-09-17",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Robin, Sorry, we do not have M12 switches. But we know who has a feasible solution for this, see below link. *http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba <http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba>* Please get in…",
+    "why": "Saga 实质答复原文（主题「Re: 16 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
+    "k": "09e9eda0a8877d0b"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-032` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「工业POE配件 / 971 55 572 1640 已加 / 成单客户」；S/A 邮箱 0 封** ｜ 类型：未知（疑为太阳能/能源方案商） ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「工业POE配件 / 971 55 572 1640 已加 / 成单客户」；研究档 risks：主体未核；配件 SKU 缺口；中东非主攻区
+- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「工业POE配件 / 971 55 572 1640 已加 / 成单客户」；S/A 邮箱 0 封；Elsa 箱：`to:greentechme.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)）** ｜ 类型：未知（疑为太阳能/能源方案商） ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「工业POE配件 / 971 55 572 1640 已加 / 成单客户」；研究档 risks：主体未核；配件 SKU 缺口；中东非主攻区
 - **现状一句话**：用户表：阿联酋，兴趣工业 PoE 配件，WhatsApp 已加，无跟进记录、无回复。若为 greentechme.com 同一公司，则主业是太阳能/热泵，网络产品仅为项目配套。
 - **对方真实需求（有据）**：项目 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，DC 44–57 V 输入，$59.8）适合离网/太阳能站点；4 口 STI-144GP（$35.5）；PoE 配件待 Q-32
 - **断点 / 为什么停在这里**：主体未核；配件 SKU 缺口；中东非主攻区
@@ -244,12 +244,12 @@ Shaji, following your earlier orders: for off-grid/solar sites we have DIN-rail 
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

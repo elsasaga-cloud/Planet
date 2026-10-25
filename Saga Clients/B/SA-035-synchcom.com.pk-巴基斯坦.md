@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-035` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单」；S/A 邮箱 0 封** ｜ 类型：系统集成 + 分销（电信/IT/国防） ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单」；研究档 risks：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期
+- **绑定等级：轻度绑定（邮件无证，WhatsApp/WeChat 线）：用户表「问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单」；S/A 邮箱 0 封；Elsa 箱：`to:synchcom.com.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)）** ｜ 类型：系统集成 + 分销（电信/IT/国防） ｜ 筛子：5（表内成单/样品单） ｜ 停点：仓库只有用户表一行；往来在 Simon 手机 ｜ 复活：Simon WhatsApp 一句话（问复购/样品结论） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 0；用户表：「问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单」；研究档 risks：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期
 - **现状一句话**：巴基斯坦伊斯兰堡的系统集成商/分销商（2005 年成立；11–50 人 ZoomInfo / 101–200 人 businesslist 口径），面向电信运营商、政府、国防、能源、油气、自动化；LigoWave 巴基斯坦分销商；产品线含 MC、工业自动化网络、结构化布线。用户表：WhatsApp 已加（2 个号），成样品单（MC 双纤 25km + 8 口网管交换机「只要 PCB 板子」），8 次推送无回复。
 - **对方真实需求（有据）**：集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核
 - **断点 / 为什么停在这里**：南亚非主攻区；8 次推送无回复；国防客户守界；巴基斯坦外汇/付款周期
@@ -259,12 +259,12 @@ Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port 
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 87）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 87）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

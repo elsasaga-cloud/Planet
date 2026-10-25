@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,24 +38,29 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：LT-IS6312GP-4GX8GT-FBP — 2 光 8 bypass → SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP 光旁路，$194.3 @25%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；非 PoE 版 LT-IS6312G-4GX8GT-FBP $179.4。；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-09 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Faiza, the optical-bypass industrial switch you liked: 8 PoE + 4 SFP, L2+ managed, bypass holds the ring when the unit loses power — $194 EXW (non-PoE $179); I'll include the patch-cord/bypass wiring diagram you asked about. Which fibre type, SM LC?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 群发 BCC 已触达 5 轮（2025-04-11→2025-10-06，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-802` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 mohamadfaiza@sigmarectrix.com；主题多为「Industrial Fiber Switch、industrial poe managed switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：马来西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多」；研究档 risks：无跟进
+- **绑定等级：未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 mohamadfaiza@sigmarectrix.com；主题多为「Industrial Fiber Switch、industrial poe managed switch」）；Elsa 群发 BCC 已触达 5 轮 2025-04-11→2025-10-06（锚 To sofyan@mutiara-teknologi.com.my 5 轮 2025-04-11→2025-10-06；锚至少发到 2026-09-08，本户 2025-10-06 后不再在 Bcc（Elsa 剔出）；本户在 Bcc；主题 48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 全程 complete：命中 5 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：马来西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 8；用户表：「兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多」；研究档 risks：无跟进
 - **现状一句话**：马来西亚 Cyberjaya 方案提供商（+60 3 8318 6696；Ubiquiti），Pre-Sales 顾问 Mohamad Faiza bin Ismail 对 2 光 8 bypass 工业机很有兴趣，问跳线较多；无跟进。
 - **对方真实需求（有据）**：2 光 8 bypass → SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP 光旁路，$194.3 @25%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；非 PoE 版 LT-IS6312G-4GX8GT-FBP $179.4。
 - **断点 / 为什么停在这里**：无跟进
 - **Saga 现在该推什么**：P1 **LT-IS6312GP-4GX8GT-FBP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-09 $300（48 Port PoE Managed Switch））——2 光 8 bypass → SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP 光旁路，$194.3 @25%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；非 PoE 版 LT-IS6312G-4GX8GT-FBP $179.4。
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 群发 BCC 已触达 5 轮（2025-04-11→2025-10-06，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Faiza, the optical-bypass industrial switch you liked: 8 PoE + 4 SFP, L2+ managed, bypass holds the ring when the unit loses power — $194 EXW (non-PoE $179); I'll include the patch-cord/bypass wiring diagram you asked about. Which fibre type, SM LC?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「35 SIGMA RECTRIX SYSTEMS (M) SDN BHD Mohamad Faiza Bin Ismail Pre-Sales Consultant Mitec 2023 方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多，好像见的比较少 公司地址：Suite 3-05 4805 CBD Perdana 2Jalan Perdana Cyber 12, 63000Cyberjaya, Selangor MA」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2024-12-26 | 去 | S 群发 | Industrial Fiber Switch、industrial poe managed switch | 8 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-26（8 去 / 0 来） | `gmail_digest` |
+| 2025-04-11 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 16 Port Ethernet Switch（Elsa 群发第 1/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 8 Port Industrial PoE Switch（Elsa 群发第 3/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Mini Industrial PoE Switch（Elsa 群发第 4/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -255,12 +260,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

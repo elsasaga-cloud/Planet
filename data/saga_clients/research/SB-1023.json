@@ -1,129 +1,129 @@
 {
-  "code": "SB-1023",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（daejinnetworks.com，快照 2026-10-21）",
-  "summary": "韩国 대진네트웍스 Daejin Networks（「Disruptive & Reliable Network Solution Provider」：Vision AI、光传输、NVIDIA Jetson、TAP 交换机 V530/V550/V680-TAP、Tibit PON、以太网交换机 CTC8180（CENTEC 平台）、VPN 路由器；表内「CENTEC Switch」「质量高」，info/sales 邮箱均退信）；表内未成功跟进。",
-  "type": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router；品类词 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
-      "quote": "대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP 스위치, Tibit, Ethernert switch, VPN Router",
-      "url": "https://www.daejinnetworks.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "CENTEC Switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Daejin 定位",
-      "quote": "대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router ; Disruptive & Reliable Network Solution Provider ; CTC8180",
-      "url": "https://www.daejinnetworks.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "CENTEC Switch；邮箱退信",
-      "quote": "CENTEC Switch；质量高 INFO SALES都不行",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1023",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（daejinnetworks.com，快照 2026-10-21）",
+ "summary": "韩国 대진네트웍스 Daejin Networks（「Disruptive & Reliable Network Solution Provider」：Vision AI、光传输、NVIDIA Jetson、TAP 交换机 V530/V550/V680-TAP、Tibit PON、以太网交换机 CTC8180（CENTEC 平台）、VPN 路由器；表内「CENTEC Switch」「质量高」，info/sales 邮箱均退信）；表内未成功跟进。",
+ "type": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router；品类词 电信 / FTTH / ISP 设备 / 网络交换 / PoE",
+   "quote": "대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP 스위치, Tibit, Ethernert switch, VPN Router",
+   "url": "https://www.daejinnetworks.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "韩国",
-    "other": "官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "CENTEC Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络方案（Vision AI / 光传输 / TAP 交换机 / PON / VPN 路由）",
-    "以太网交换机（CENTEC 平台）"
-  ],
-  "channels": {
-    "role": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
-    "region": "韩国",
-    "contact": "（表内无邮箱）"
+  {
+   "kind": "官网快照",
+   "claim": "Daejin 定位",
+   "quote": "대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router ; Disruptive & Reliable Network Solution Provider ; CTC8180",
+   "url": "https://www.daejinnetworks.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router ; Tibit ; Ethernert switch；站内 V530-TAP / V550-TAP / V680-TAP / CTC8180；kw switch 42 / ftth 8",
-    "表内：CENTEC Switch；质量高；INFO SALES 都不行"
-  ],
-  "risks": [
-    "邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻",
-    "非主攻区（T5，韩国）；CENTEC 线价格待核（Hohunet 对照表无价格）"
-  ],
-  "saga_fit": {
-    "p1": "STH-2C24XF-SFI",
-    "tier": 30,
-    "why": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）"
-  },
-  "email_hook": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most?",
-  "products_seen": [
-    {
-      "brand": "Daejin（自有/代理）",
-      "model": "CTC8180",
-      "spec": "CENTEC 平台以太网交换机",
-      "saga": "STH 系列（CENTEC，价格待核）",
-      "url": "https://www.daejinnetworks.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「CENTEC Switch」）",
-      "type": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "KR 次级（点名）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「CENTEC Switch」；研究档 risks：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻"
-    },
-    "situation": "韩国 대진네트웍스 Daejin Networks（「Disruptive & Reliable Network Solution Provider」：Vision AI、光传输、NVIDIA Jetson、TAP 交换机 V530/V550/V680-TAP、Tibit PON、以太网交换机 CTC8180（CENTEC 平台）、VPN 路由器；表内「CENTEC Switch」「质量高」，info/sales 邮箱均退信）；表内未成功跟进。",
-    "need": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）",
-    "breakpoint": "邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻",
-    "saga_now": {
-      "p1": "STH-2C24XF-SFI",
-      "tier": 30,
-      "price": "首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-      "why": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）",
-      "action": "首封：按 email_hook 一问",
-      "one_question": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order."
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "CENTEC Switch",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "CENTEC Switch；邮箱退信",
+   "quote": "CENTEC Switch；质量高 INFO SALES都不行",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 daejinnetworks.com，语言 ko，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络方案（Vision AI / 光传输 / TAP 交换机 / PON / VPN 路由）",
+  "以太网交换机（CENTEC 平台）"
+ ],
+ "channels": {
+  "role": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
+  "region": "韩国",
+  "contact": "（表内无邮箱）"
+ },
+ "signals": [
+  "官网：대진네트웍스, Vision AI, Optical, NVIDIA Jetson, TAP Switch, VPN Router ; Tibit ; Ethernert switch；站内 V530-TAP / V550-TAP / V680-TAP / CTC8180；kw switch 42 / ftth 8",
+  "表内：CENTEC Switch；质量高；INFO SALES 都不行"
+ ],
+ "risks": [
+  "邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻",
+  "非主攻区（T5，韩国）；CENTEC 线价格待核（Hohunet 对照表无价格）"
+ ],
+ "saga_fit": {
+  "p1": "STH-2C24XF-SFI",
+  "tier": 30,
+  "why": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）"
+ },
+ "email_hook": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most?",
+ "products_seen": [
+  {
+   "brand": "Daejin（自有/代理）",
+   "model": "CTC8180",
+   "spec": "CENTEC 平台以太网交换机",
+   "saga": "STH 系列（CENTEC，价格待核）",
+   "url": "https://www.daejinnetworks.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「CENTEC Switch」；Elsa 箱：`to:daejinnetworks.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "韩国网络方案商（CENTEC 平台交换机，邮箱待补）",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "KR 次级（点名）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「CENTEC Switch」；研究档 risks：邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻"
+  },
+  "situation": "韩国 대진네트웍스 Daejin Networks（「Disruptive & Reliable Network Solution Provider」：Vision AI、光传输、NVIDIA Jetson、TAP 交换机 V530/V550/V680-TAP、Tibit PON、以太网交换机 CTC8180（CENTEC 平台）、VPN 路由器；表内「CENTEC Switch」「质量高」，info/sales 邮箱均退信）；表内未成功跟进。",
+  "need": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）",
+  "breakpoint": "邮箱待补：info@ / sales@ 均退信（表内「INFO SALES 都不行」），需网站表单或 LinkedIn 另寻",
+  "saga_now": {
+   "p1": "STH-2C24XF-SFI",
+   "tier": 30,
+   "price": "首触锚价 STH-2C24XF-SFI $1500 EXW（CENTEC 锚价 $1,500（2C24XF-HSI；SFI 单电源更低，按单核）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+   "why": "CENTEC 交换机需求 → Saga Hohunet/CENTEC 线 STH-2C24XF-SFI（24×10G SFP+ + 2×100G，价格待核）/ 接入位 Marvell STC-424XGGM（$138.0 @30%）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → 待找地址（daejinnetworks.com 官网联系页；库内无邮箱）",
+   "action": "首封：按 email_hook 一问",
+   "one_question": "For the CENTEC-based Ethernet switches in your portfolio, we supply CENTEC-platform 10G/25G/100G aggregation models and Marvell-based 24-GE + 4×10G access switches from small lots with neutral or your label, CE/RoHS; KC by your side — which port configuration do your projects need most? Reference: 24 × 10G SFP+ + 2 × 100G aggregation (STH-2C24XF-HSI, dual PSU) at $1,500 USD EXW; lead time confirmed per order."
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "CENTEC Switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

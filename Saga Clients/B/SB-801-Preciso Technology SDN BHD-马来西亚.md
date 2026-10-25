@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-801` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 8 封 2024→2025，无记录打开，0 回；收件 cschong@precisotechnology.com.my；主题多为「8 port 2.5 Switch、48 port switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：马来西亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 8；用户表：「兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗」；研究档 risks：85 ℃ 要求超出 Saga 工业线（-40~75 ℃）
+- **绑定等级：未触达（S 邮箱 8 封 2024→2025，无记录打开，0 回；收件 cschong@precisotechnology.com.my；主题多为「8 port 2.5 Switch、48 port switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com 7 轮 2025-04-12→2026-09-08；本户在 Bcc；主题 48 Port PoE Managed Switch、10G Enterprise SFP Switch、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：马来西亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 8；用户表：「兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗」；研究档 risks：85 ℃ 要求超出 Saga 工业线（-40~75 ℃）
 - **现状一句话**：马来西亚 Kota Damansara 系统集成商（IoT），Senior Manager C.S. Chong（张志祥，会中文），会去深圳看展，拿了光路彩页，问工业级能否到 85 ℃（Saga 工业线 -40~75 ℃）；无跟进。
 - **对方真实需求（有据）**：工业管理 PoE → STI-288GPM（$82.2 @25%）；工作温度 -40~75 ℃（85 ℃ 需原厂确认降额）。
 - **断点 / 为什么停在这里**：85 ℃ 要求超出 Saga 工业线（-40~75 ℃）
@@ -55,6 +55,13 @@ updated: 2026-10-24
 |---|---|---|---|---|---|
 | 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「20 Preciso Technology SDN BHD 张志祥 C.S.Chong Senior manager Mitec 2023 系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 公司地址：48-2, Jalan PJU 5/20DThe Strand Kota Damansara47810 Petaling JayaSelangor D.E., MALAYSIA cschong@precisote」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2025-01-21 | 去 | S 群发 | 8 port 2.5 Switch、48 port switch | 8 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2025-01-21（8 去 / 0 来） | `gmail_digest` |
+| 2025-04-12 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-11-19 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:precisotechnology.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -249,12 +256,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

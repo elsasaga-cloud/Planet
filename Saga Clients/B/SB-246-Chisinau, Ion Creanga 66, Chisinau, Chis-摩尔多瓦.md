@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-246` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 indexcristi@gmail.com；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：摩尔多瓦（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「兴趣：50个2光8电百兆PoE 2013年使用国际站；回复：问了4+2百兆千兆100个的价格」；研究档 risks：要百兆 PoE 低价机，利润薄
+- **绑定等级：未触达（A 邮箱 4 封 2026，无记录打开，0 回；收件 indexcristi@gmail.com；主题多为「10G L3 Managed Switch、32 Port 400GB DC Switch」；Elsa 箱：`to:indexcristi@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：摩尔多瓦（欧洲全域主攻） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 4；用户表：「兴趣：50个2光8电百兆PoE 2013年使用国际站；回复：问了4+2百兆千兆100个的价格」；研究档 risks：要百兆 PoE 低价机，利润薄
 - **现状一句话**：摩尔多瓦基希讷乌安防安装商 Gorgos Cristian（Ion Creanga 66），2013 年起用阿里国际站，需求 50 台 2 光 8 电百兆 PoE，2024-04 问「4+2 百兆/千兆 100 台」价格；gmail 联系，俄语/罗马尼亚语区。
 - **对方真实需求（有据）**：百兆 PoE 8 口 + 千兆上行 = Saga STC-028GFP（列表 $17.6）；其要的「2 光」百兆版 Saga 价目无 SFP 款，按 HRUI 同配置报并注明；4+2 百兆/千兆 → STC-024FP / STC-024GP。
 - **断点 / 为什么停在这里**：要百兆 PoE 低价机，利润薄
@@ -254,12 +254,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 47）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 47）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

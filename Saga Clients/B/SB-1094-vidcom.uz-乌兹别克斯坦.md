@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,22 +36,29 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）、2024-11-12 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-04 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-08→2025-11-18，锚 To sales-one@setevoe.com.ua，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1094` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@vidcom.uz；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）** ｜ 类型：安防系统经销商（乌兹别克斯坦，Hikvision/Dahua/H3C） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：乌兹别克斯坦 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「海康威视 H3C产品较多」；研究档 risks：非主攻区（T5，中亚）：物流/结算路径待核；H3C/Hikvision 品牌货为主
+- **绑定等级：未触达（A/S 邮箱 18 封 2024→2026，无记录打开，0 回；收件 info@vidcom.uz；主题多为「Booster PoE Switch、Marvell Industrial Alert System」）；Elsa 群发 BCC 已触达 7 轮 2025-04-08→2025-11-18（锚 To sales-one@setevoe.com.ua 7 轮 2025-04-08→2025-11-18；本户在 Bcc；主题 Mini Industrial PoE Switch、24 Port Fiber Switch、10G Enterprise SFP Switch、Industrial PoE Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：安防系统经销商（乌兹别克斯坦，Hikvision/Dahua/H3C） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：乌兹别克斯坦 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 18；用户表：「海康威视 H3C产品较多」；研究档 risks：非主攻区（T5，中亚）：物流/结算路径待核；H3C/Hikvision 品牌货为主
 - **现状一句话**：乌兹别克斯坦 VIDCOM（塔什干安防系统商：视频监控、门禁、消防报警、配件；Dahua（97）/ Hikvision（66）/ Ajax；表内「海康威视 / H3C 产品较多」）；表内无跟进记录。
 - **对方真实需求（有据）**：Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：非主攻区（T5，中亚）：物流/结算路径待核；H3C/Hikvision 品牌货为主
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）、2024-11-12 $300（48 Port PoE Managed Switch）、2024-12-31 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-04 $280（10G Enterprise SFP Switch））——Hikvision/Dahua 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-08→2025-11-18，锚 To sales-one@setevoe.com.ua，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：For the PoE switches you install with Hikvision and Dahua cameras, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which band do your Tashkent projects use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-08 | 去 | Elsa 群发（BCC；To sales-one@setevoe.com.ua） | 48 Port PoE Managed Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua） | 第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-01 | 去 | Elsa 群发（BCC；To sales-one@setevoe.com.ua） | 8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua） | 第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-02 | 去 | Elsa 群发（BCC；To sales-one@setevoe.com.ua） | 16 Port Ethernet Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua） | 第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-01 | 去 | Elsa 群发（BCC；To sales-one@setevoe.com.ua） | Mini Industrial PoE Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua） | 第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-08-04 | 去 | Elsa 群发（BCC；To sales-one@setevoe.com.ua） | 24 Port Fiber Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua） | 第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To sales-one@setevoe.com.ua） | 10G Enterprise SFP Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua） | 第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-11-18 | 去 | Elsa 群发（BCC；To sales-one@setevoe.com.ua） | Industrial PoE Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To sales-one@setevoe.com.ua） | 第 74 批(n) `from:e.sagatelecom to:vidcom.uz` 命中行 To=sales-one@setevoe.com.ua ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-07 | 去 | A/S 群发 | Booster PoE Switch、Marvell Industrial Alert System | 18 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-10-07（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 海康威视 H3C产品较多 | 表内备注 | `用户表` |
 
@@ -283,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

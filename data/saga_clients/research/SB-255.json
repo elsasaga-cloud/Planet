@@ -76,7 +76,7 @@
   "email_hook": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 ankit@bitsandbyte.net, ramachandra.r@bitsandbyte.net；主题多为「24 Port PoE Managed Switch、90W PoE Managed Switch」）",
+      "level": "未触达（A 邮箱 6 封 2025→2026，无记录打开，0 回；收件 ankit@bitsandbyte.net, ramachandra.r@bitsandbyte.net；主题多为「24 Port PoE Managed Switch、90W PoE Managed Switch」）；Elsa 1:1 去信 6 轮 2025-05-07→2026-03-02（To 仅本户 ramachandra.r@bitsandbyte.net；头 msg 19cae0fd83cbc938 核对无 Bcc，称呼「Hi, Ramachandra」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete，直收 6 条、无 Re: 行）",
       "type": "—",
       "sieve": "1（只收到群发）",
       "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -99,10 +99,64 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 已 1:1 去信 6 轮（2025-05-07→2026-03-02，0 回）（第 74 批(n)）；观察打开",
       "one_question": "Ramachandra, to close your ring question: ERPS on our managed industrial line recovers in <20 ms (we can send the test log); the 2-SFP + 8-port non-PoE managed is $71 EXW and the 4×10G SFP+ + 8-port is $157. Which topology is the live one?"
     },
     "facts": [
+      {
+        "date": "2025-05-07",
+        "dir": "out",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "196a94b32bb948af"
+      },
+      {
+        "date": "2025-06-22",
+        "dir": "out",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "197964872d94d146"
+      },
+      {
+        "date": "2025-10-14",
+        "dir": "out",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199e19718a61ba8f"
+      },
+      {
+        "date": "2025-12-08",
+        "dir": "out",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19afd42bb117dcdb"
+      },
+      {
+        "date": "2026-01-08",
+        "dir": "out",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b9c7a01c569e09"
+      },
+      {
+        "date": "2026-03-02",
+        "dir": "out",
+        "who": "Elsa → ramachandra.r@bitsandbyte.net",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19cae0fd83cbc938"
+      },
       {
         "date": "2026-09-23",
         "dir": "去",

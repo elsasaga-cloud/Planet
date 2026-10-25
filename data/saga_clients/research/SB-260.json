@@ -68,7 +68,7 @@
  "email_hook": "Ahmed, from ISAF — the 8-SFP + 8-copper industrial unit you priced is $333 EXW (with 4×10G uplinks on top), and the managed 8-PoE + 2-SFP is $82; payment T/T in advance, shipment via Istanbul or Dubai. Which one is the live project?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问了8光8价格，要价格表，要工业级POE管理交换机」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问了8光8价格，要价格表，要工业级POE管理交换机」；Elsa 箱：`to:arcanlibya.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

@@ -92,7 +92,7 @@
   "email_hook": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?",
   "mail_review": {
     "binding": {
-      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 opsharma@technicsonline.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）",
+      "level": "未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 opsharma@technicsonline.com；主题多为「24 Port PoE Managed Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 7 轮 2025-05-06→2026-04-01（To 仅本户 opsharma@technicsonline.com；头 msg 19d4820c28a028bc 核对无 Bcc，称呼「Hi, Prakash」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete，直收 7 条、无 Re: 行）",
       "type": "工业自动化分销商（印度，Advantech；有 250 台具体询价）",
       "sieve": "1（只收到群发）",
       "stop": "5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -115,7 +115,7 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-05-06→2026-04-01，0 回）（第 74 批(n)）；观察打开",
       "one_question": "Prakash, regarding your enquiry for 250 pcs of the IM-FS240GM: we can quote a Marvell-based 24-GE + 4×10G L2+ managed switch (or a DIN-rail 16/24-port industrial variant) with CE/RoHS/FCC reports for your BIS process — could you confirm whether the units are for a rack or DIN-rail installation?"
     },
     "facts": [
@@ -126,6 +126,69 @@
         "quote": "名单行：「37 https://www.technics-india.com/wpccategories/industrial-ethernet-solutions/ 印度 Kyland这个牌子 谷歌 工业FS MC 串口 工业自动化 info@technicsonline.com」",
         "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
         "k": "Drive PI 文件夹 2_印度_Rishi"
+      },
+      {
+        "date": "2025-05-06",
+        "dir": "out",
+        "who": "Elsa → opsharma@technicsonline.com",
+        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete：7 轮直收（头 msg 19d4820c28a028bc 无 Bcc，称呼「Hi, Prakash」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "196a540a703d466d"
+      },
+      {
+        "date": "2025-06-24",
+        "dir": "out",
+        "who": "Elsa → opsharma@technicsonline.com",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete：7 轮直收（头 msg 19d4820c28a028bc 无 Bcc，称呼「Hi, Prakash」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "197a0be5eb24b409"
+      },
+      {
+        "date": "2025-10-15",
+        "dir": "out",
+        "who": "Elsa → opsharma@technicsonline.com",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete：7 轮直收（头 msg 19d4820c28a028bc 无 Bcc，称呼「Hi, Prakash」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199e68ec20463462"
+      },
+      {
+        "date": "2025-12-09",
+        "dir": "out",
+        "who": "Elsa → opsharma@technicsonline.com",
+        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete：7 轮直收（头 msg 19d4820c28a028bc 无 Bcc，称呼「Hi, Prakash」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b01e8e90dfb54a"
+      },
+      {
+        "date": "2026-01-08",
+        "dir": "out",
+        "who": "Elsa → opsharma@technicsonline.com",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete：7 轮直收（头 msg 19d4820c28a028bc 无 Bcc，称呼「Hi, Prakash」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b9d311c036ce20"
+      },
+      {
+        "date": "2026-03-03",
+        "dir": "out",
+        "who": "Elsa → opsharma@technicsonline.com",
+        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete：7 轮直收（头 msg 19d4820c28a028bc 无 Bcc，称呼「Hi, Prakash」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19cb2482b9e425e9"
+      },
+      {
+        "date": "2026-04-01",
+        "dir": "out",
+        "who": "Elsa → opsharma@technicsonline.com",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:technics-india.com OR to:technicsonline.com` 全程 complete：7 轮直收（头 msg 19d4820c28a028bc 无 Bcc，称呼「Hi, Prakash」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d4820c28a028bc"
       },
       {
         "date": "2026-09-02",

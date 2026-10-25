@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,24 +38,31 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。已打开的主题（1/9 封有打开记录）：「Passive PoE Switch」(2024-07-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $300（48 Port PoE Managed Switch）、2024-12-25 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：陈总，您关心的两点：工业机电源输入 48–57 V DC（端子双路，最大 57 V），端口防雷 6 kV（8/20 μs）；2 光 8 PoE 工业款 $60 EXW 起，要不要先寄一台到甲洞测试？
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-12→2026-09-08，锚 To desmond@multitradepac.com，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-805` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 chansun@sunenergy.com.my；主题多为「8 Port Industrial PoE Switch、Industrial PoE media converter」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：马来西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题」；研究档 risks：无跟进；小量
+- **绑定等级：未触达（S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 chansun@sunenergy.com.my；主题多为「8 Port Industrial PoE Switch、Industrial PoE media converter」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com 7 轮 2025-04-12→2026-09-08；本户在 Bcc；主题 48 Port PoE Managed Switch、10G Enterprise SFP Switch、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 全程 complete：命中 7 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：马来西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题」；研究档 risks：无跟进；小量
 - **现状一句话**：马来西亚本地安防公司（Kepong，+60 3 6242 6818），Managing Director Tan Chan Sun（会中文）对交换机有兴趣，特别关心电源输入最大值与防雷；无跟进。
 - **对方真实需求（有据）**：室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。
 - **断点 / 为什么停在这里**：无跟进；小量
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $300（48 Port PoE Managed Switch）、2024-12-25 $240（24 Port Fiber Switch））——室外柜工业 PoE（宽压输入 48–57 V、6 kV 浪涌）→ STI-288GP（$59.8 @25%）。已打开的主题（1/9 封有打开记录）：「Passive PoE Switch」(2024-07-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 群发 BCC 已触达 7 轮（2025-04-12→2026-09-08，锚 To desmond@multitradepac.com，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：陈总，您关心的两点：工业机电源输入 48–57 V DC（端子双路，最大 57 V），端口防雷 6 kV（8/20 μs）；2 光 8 PoE 工业款 $60 EXW 起，要不要先寄一台到甲洞测试？
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「26 Sun Energy Enterprise Sdn Bhd Tan Chan Sun Managing Director Mitec 2023 马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题 公司地址：54-1, Jalan Metro Perdana Timur 9,Taman Usahawan Kepong,Kepong, 52100 Kuala Lumpur,Malaysia. cha」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2025-01-22 | 去 | S 群发 | 8 Port Industrial PoE Switch、Industrial PoE media converter | 9 封 / 1 次打开 / 0 回｜首封 2024-06-14 → 末封 2025-01-22（9 去 / 0 来） | `gmail_digest` |
+| 2025-04-12 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-11-19 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -251,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-016` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→已冷（一单样机 $178.5，2024-04-16：STI-050FE ×2 @23 + STI-080FE ×2 @37；PI 包「gg」；A/S 邮箱 0 封——用户表「3 次实质回复 + WhatsApp」全在 WhatsApp）** ｜ 类型：大诺伊达工业自动化分销 + 集成（UCE，2001 年起，Delta/ABB/Phoenix 渠道；Rajesh）——STI 非管理工业线的天然渠道，但印度价格敏感 ｜ 筛子：5（付样） ｜ 停点：样机后 18 个月无单；百兆款（FE）说明其项目价格段极低 ｜ 复活：WhatsApp 一句话问样机下落；给 MOQ 阶梯（研究档） ｜ 通路：IN 非主攻 ｜ 节奏：WhatsApp 半年 ｜ 证据：PI STSC20240416005（$178.5，Sample Units）；A/S 邮箱无任何邮件
+- **绑定等级：轻度绑定→已冷（一单样机 $178.5，2024-04-16：STI-050FE ×2 @23 + STI-080FE ×2 @37；PI 包「gg」；A/S 邮箱 0 封——用户表「3 次实质回复 + WhatsApp」全在 WhatsApp；Elsa 箱：`to:unitedcontrolengg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：大诺伊达工业自动化分销 + 集成（UCE，2001 年起，Delta/ABB/Phoenix 渠道；Rajesh）——STI 非管理工业线的天然渠道，但印度价格敏感 ｜ 筛子：5（付样） ｜ 停点：样机后 18 个月无单；百兆款（FE）说明其项目价格段极低 ｜ 复活：WhatsApp 一句话问样机下落；给 MOQ 阶梯（研究档） ｜ 通路：IN 非主攻 ｜ 节奏：WhatsApp 半年 ｜ 证据：PI STSC20240416005（$178.5，Sample Units）；A/S 邮箱无任何邮件
 - **现状一句话**：2024-04 买了 5 口/8 口百兆工业非管理样机各 2 台，之后无下文。Phoenix Contact/ABB 渠道商拿中国工业交换机做低价补充线是合理的，但百兆样机 = 预算极低的项目。
 - **对方真实需求（有据）**：5/8 口非管理工业 FS（百兆/千兆）。
 - **断点 / 为什么停在这里**：价格段 + 无跟进。
@@ -316,12 +316,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 107）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

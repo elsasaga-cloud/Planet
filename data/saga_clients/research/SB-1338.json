@@ -1,85 +1,85 @@
 {
-  "code": "SB-1338",
-  "name_official": "Litech (Pvt) Ltd",
-  "website_status": "未核（本轮只用 S 邮箱证据；注意 litech.cc 马来西亚 = 另一家 SC-917，勿混）",
-  "summary": "巴基斯坦伊斯兰堡系统集成/项目承包商（华为渠道），2024-03-09 主动发来 RFQ：接入/汇聚交换机 + 路由器规格书（以华为型号为参照）要做技术符合性声明，称多个项目在管线、想长期合作。S 邮箱内未见 Simon 回复（来询未回）。",
-  "type": "系统集成/项目承包（华为渠道）",
-  "size": "中（有 BD 经理、项目制）",
-  "brands_seen": [
-    "Huawei"
-  ],
-  "evidence": [
-    {
-      "kind": "email",
-      "claim": "主动 RFQ + 长期合作意向（来询未回）",
-      "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects are in pipe line and we want long business partnership with you（附 Access and aggregation switches specs.docx）",
-      "url": "data/gmail_s/messages/2024/2024-03.jsonl（from hassancheema@litech.com.pk，主题 RFQ Switches）",
-      "date": "2024-03-09"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Hassan Ijaz Cheema",
-      "role": "Manager Business Development",
-      "email": "hassancheema@litech.com.pk",
-      "phone": "+92 310 092 4444 / +92 51 8744109",
-      "source": "S 邮箱签名"
-    }
-  ],
-  "notes": "2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。",
-  "researched_at": "2026-10-22",
-  "saga_fit": {
-    "p1": "STI-41616XGGPM",
-    "tier": 25,
-    "why": "项目集成商 → 25% 档；汇聚层 L3 口型先用工业 L3 顶上，商用 48 口 L3 另议"
-  },
-  "grade_override": "B",
-  "override_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达→未答 RFQ（2024-03-09 Hassan Cheema 发来接入/汇聚交换机 + 路由器技术规格 RFQ；S 邮箱 out 0——仓库无回复记录）",
-      "type": "巴基斯坦系统集成/项目承包（Litech；华为渠道）",
-      "sieve": "2（RFQ 来了没回）",
-      "stop": "Saga 未回（或在别的渠道回了）",
-      "revive": "研究档已记：先确认是否回过；若没有，一封「当年没接上」短信（只交换机，守界公共/运营商项目）",
-      "lane": "PK",
-      "cadence": "一封",
-      "evidence": "k=7203d72a927b7030"
-    },
-    "situation": "—",
-    "need": "接入/汇聚交换机 + 路由器（路由器不做）。",
-    "breakpoint": "未回。",
-    "saga_now": {
-      "p1": "STC/STH 按规格",
-      "tier": 25,
-      "price": "—",
-      "why": "—",
-      "repeat": [],
-      "gaps": [
-        "是否在 WhatsApp 回过"
-      ]
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "S 邮箱 → hassancheema@litech.com.pk",
-      "action": "一封",
-      "one_question": "Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?"
-    },
-    "facts": [
-      {
-        "date": "2024-03-09",
-        "dir": "来",
-        "who": "Hassan Cheema",
-        "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement.",
-        "why": "RFQ",
-        "k": "7203d72a927b7030"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "RFQ — access / aggregation switches (March 2024)",
-      "body": "Hassan,\n\nAn overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.\n\nWhat we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.\n\nIf the project or a successor is still open, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).\n\nAlan Yan\nSaga Telecom"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-1338",
+ "name_official": "Litech (Pvt) Ltd",
+ "website_status": "未核（本轮只用 S 邮箱证据；注意 litech.cc 马来西亚 = 另一家 SC-917，勿混）",
+ "summary": "巴基斯坦伊斯兰堡系统集成/项目承包商（华为渠道），2024-03-09 主动发来 RFQ：接入/汇聚交换机 + 路由器规格书（以华为型号为参照）要做技术符合性声明，称多个项目在管线、想长期合作。S 邮箱内未见 Simon 回复（来询未回）。",
+ "type": "系统集成/项目承包（华为渠道）",
+ "size": "中（有 BD 经理、项目制）",
+ "brands_seen": [
+  "Huawei"
+ ],
+ "evidence": [
+  {
+   "kind": "email",
+   "claim": "主动 RFQ + 长期合作意向（来询未回）",
+   "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects are in pipe line and we want long business partnership with you（附 Access and aggregation switches specs.docx）",
+   "url": "data/gmail_s/messages/2024/2024-03.jsonl（from hassancheema@litech.com.pk，主题 RFQ Switches）",
+   "date": "2024-03-09"
   }
+ ],
+ "kp": [
+  {
+   "name": "Hassan Ijaz Cheema",
+   "role": "Manager Business Development",
+   "email": "hassancheema@litech.com.pk",
+   "phone": "+92 310 092 4444 / +92 51 8744109",
+   "source": "S 邮箱签名"
+  }
+ ],
+ "notes": "2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。",
+ "researched_at": "2026-10-22",
+ "saga_fit": {
+  "p1": "STI-41616XGGPM",
+  "tier": 25,
+  "why": "项目集成商 → 25% 档；汇聚层 L3 口型先用工业 L3 顶上，商用 48 口 L3 另议"
+ },
+ "grade_override": "B",
+ "override_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达→未答 RFQ（2024-03-09 Hassan Cheema 发来接入/汇聚交换机 + 路由器技术规格 RFQ；S 邮箱 out 0——仓库无回复记录；Elsa 箱：`to:litech.com.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
+   "type": "巴基斯坦系统集成/项目承包（Litech；华为渠道）",
+   "sieve": "2（RFQ 来了没回）",
+   "stop": "Saga 未回（或在别的渠道回了）",
+   "revive": "研究档已记：先确认是否回过；若没有，一封「当年没接上」短信（只交换机，守界公共/运营商项目）",
+   "lane": "PK",
+   "cadence": "一封",
+   "evidence": "k=7203d72a927b7030"
+  },
+  "situation": "—",
+  "need": "接入/汇聚交换机 + 路由器（路由器不做）。",
+  "breakpoint": "未回。",
+  "saga_now": {
+   "p1": "STC/STH 按规格",
+   "tier": 25,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": [
+    "是否在 WhatsApp 回过"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "S 邮箱 → hassancheema@litech.com.pk",
+   "action": "一封",
+   "one_question": "Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?"
+  },
+  "facts": [
+   {
+    "date": "2024-03-09",
+    "dir": "来",
+    "who": "Hassan Cheema",
+    "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement.",
+    "why": "RFQ",
+    "k": "7203d72a927b7030"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "RFQ — access / aggregation switches (March 2024)",
+   "body": "Hassan,\n\nAn overdue reply to the switch RFQ you sent in March 2024 — it was missed on our side, my apologies.\n\nWhat we can cover: access switches (24/48× GbE + 4× 10G SFP+, L2+/L3, Marvell AC5) and 10G/25G/100G aggregation on CENTEC silicon. Routers we do not make.\n\nIf the project or a successor is still open, send the current port-count and quantity and you will have EXW prices within one working day; our 24× GbE + 4× 10G L2+ lists at USD 143 EXW (snapshot 2026-10-17, valid 15 days).\n\nAlan Yan\nSaga Telecom"
+  },
+  "as_of": "2026-10-24"
+ }
 }

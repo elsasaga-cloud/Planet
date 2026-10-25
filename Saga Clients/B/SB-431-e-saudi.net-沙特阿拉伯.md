@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-431` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（10 封来信、2024-02 → 2025-04，全是 Saeed 的「分享给团队/工程部，稍后回复」；2024-07 反向 RFQ Tofino 工业路由器替代（Saga 无）；2024-10「we need a sample and datasheet」→ Simon「sample NOT free $50」后无付款；2025-04 要 List price → 已给）** ｜ 类型：沙特 IT/网络贸易商（e-Saudi；Saeed = 商务/运营经理）——第三档贸易商，礼貌型回复者 ｜ 筛子：3（要样 + 要价表，均未成交） ｜ 停点：付费样品 $50 这道筛没过；每次都是「分享给团队」——无决策权或无真实项目 ｜ 复活：不再群发；半年一句话问「团队评审结果」 ｜ 通路：SA 非主攻 ｜ 节奏：半年 ｜ 证据：k=9b62c7cda364bb0f（webinar 提议）；fbc33e72bf02d4b3（Tofino RFQ）；bad9a4f3d0798ce2（need sample）；600c9221602d0b9d（$50 not free）；5f589ba4397ac9aa（List price）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（10 封来信、2024-02 → 2025-04，全是 Saeed 的「分享给团队/工程部，稍后回复」；2024-07 反向 RFQ Tofino 工业路由器替代（Saga 无）；2024-10「we need a sample and datasheet」→ Simon「sample NOT free $50」后无付款；2025-04 要 List price → 已给；Elsa 箱：`to:e-saudi.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 10）（第 74 批(n)））** ｜ 类型：沙特 IT/网络贸易商（e-Saudi；Saeed = 商务/运营经理）——第三档贸易商，礼貌型回复者 ｜ 筛子：3（要样 + 要价表，均未成交） ｜ 停点：付费样品 $50 这道筛没过；每次都是「分享给团队」——无决策权或无真实项目 ｜ 复活：不再群发；半年一句话问「团队评审结果」 ｜ 通路：SA 非主攻 ｜ 节奏：半年 ｜ 证据：k=9b62c7cda364bb0f（webinar 提议）；fbc33e72bf02d4b3（Tofino RFQ）；bad9a4f3d0798ce2（need sample）；600c9221602d0b9d（$50 not free）；5f589ba4397ac9aa（List price）；第 19 批回补来信原文 8 条（gmail_s/gmail_a）
 - **现状一句话**：十封回信没有一封是决定。
 - **对方真实需求（有据）**：不明确（CCTV PoE / 工业路由替代）。
 - **断点 / 为什么停在这里**：付费样品。
@@ -271,12 +271,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

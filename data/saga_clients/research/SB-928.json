@@ -128,7 +128,7 @@
   "email_hook": "Akshat, for the Syrotech industrial PoE line — we supply Marvell-based managed 8-PoE + 2-SFP DIN units under your label with SKD option for Noida assembly; which two SKUs does Syrotech move most, so I quote those first?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01",
+      "level": "轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01；Elsa 1:1 去信 5 轮 2025-10-14→2026-08-10（To 仅本户 info@goip.in / naman.gupta@goip.in（按地址：info@goip.in 3 轮 / naman.gupta@goip.in 2 轮）；头 msg 19feaaf89986d63f 核对无 Bcc，称呼「Hi, Naman」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 OEM Core Switching Solution、DWDM Core Switching Solution、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete，直收 5 条、无 Re: 行）",
       "type": "印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商",
       "sieve": "2",
       "stop": "转 WhatsApp 后仓库失明",
@@ -180,6 +180,51 @@
         "quote": "Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect.",
         "why": "要价 + 转 WA",
         "k": "dd23844381a28569"
+      },
+      {
+        "date": "2025-10-14",
+        "dir": "out",
+        "who": "Elsa → info@goip.in",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "199e116ed8d15613"
+      },
+      {
+        "date": "2026-01-08",
+        "dir": "out",
+        "who": "Elsa → info@goip.in",
+        "quote": "OEM Core Switching Solution（Elsa 1:1 逐月名单第 2/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19b9bf9d46e133cc"
+      },
+      {
+        "date": "2026-02-13",
+        "dir": "out",
+        "who": "Elsa → naman.gupta@goip.in",
+        "quote": "DWDM Core Switching Solution（Elsa 1:1 逐月名单第 3/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19c5528c00e77755"
+      },
+      {
+        "date": "2026-03-31",
+        "dir": "out",
+        "who": "Elsa → info@goip.in",
+        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 4/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19d43684531686c0"
+      },
+      {
+        "date": "2026-08-10",
+        "dir": "out",
+        "who": "Elsa → naman.gupta@goip.in",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 5/5 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19feaaf89986d63f"
       },
       {
         "date": "2026-09-01",

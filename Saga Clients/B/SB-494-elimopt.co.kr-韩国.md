@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,22 +36,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）。已打开的主题（2/34 封有打开记录）：「24 Port Fiber Switch」(2025-03-07)、「32 Port 400GB DC Switch」(2026-06-22) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-31 $220（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-07 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2025-10-15 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → h0824@elimopt.co.kr 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → h0824@elimopt.co.kr 首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-494` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 2 封被打开，0 回；收件 h0824@elimopt.co.kr, khs10623@elimopt.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）** ｜ 类型：韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 2（Simon 群发追踪）；用户表：「FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复，无具名 KP
+- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 2 封被打开，0 回；收件 h0824@elimopt.co.kr, khs10623@elimopt.co.kr；被打开主题「Industrial PoE Switch、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-14「10G Media Converter」；To 仅本户 h0824@elimopt.co.kr / khs10623@elimopt.co.kr；头 msg 19501dcc2221e96f 核对无 Bcc，称呼「Hi, Hyun」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；头文摘要可见 Price: 65usd/pc（10G 收发器，2025-02 旧汇率）；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:elimopt.co.kr` 仅此 1 条，complete）（第 74 批(n)）** ｜ 类型：韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 2（Simon 群发追踪）；用户表：「FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复，无具名 KP
 - **现状一句话**：韩国 엘림광통신 Elim Optical Communication（网络设备/光传输设备：自有 EL-G48E6TG-POE / G24E4G-POE / G16E2G-POE / G8E4G-POE / PG8E2G-BP（bypass）PoE 交换机；表内「FS / 工业 FS / MC / AHD / SDI；VC 是大头，自己的 logo」「质量高」「一些销售平台也在卖他们的产品」）；群发 23 次无回复。
 - **对方真实需求（有据）**：自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复，无具名 KP
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（30% 档，首触锚价 STC-424DGGPM-280W $145.7 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-31 $220（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-07 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）、2025-10-15 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch））——自有 G24E4G-POE（24 PoE + 4 SFP）→ STC-424DGGPM-280W（$145.7 @30%）；G8E4G-POE 位 STC-28DGGPM；48 口位 STC-448XGGPM；bypass 型（PG8E2G-BP）→ SmartByte LT-IS6312GP-4GX8GT-FBP（注明）。已打开的主题（2/34 封有打开记录）：「24 Port Fiber Switch」(2025-03-07)、「32 Port 400GB DC Switch」(2026-06-22) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → h0824@elimopt.co.kr　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → h0824@elimopt.co.kr　首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「10G Media Converter」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）
   - 第一问（只问一个）：For the EL-G series PoE switches (G8E4G-POE up to G48E6TG-POE), we can be a second ODM source on a Marvell L2+ platform (8/24/48-PoE with SFP/10G uplinks) from small lots in your housing, CE/RoHS; KC by your side — which model do you reorder most often? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-14 | out | Elsa → h0824@elimopt.co.kr, khs10623@elimopt.co.kr | 10G Media Converter（Elsa 1:1 逐月名单第 1/1 轮；To 仅本户；正文 Price: 65usd/pc（10G 收发器，2025-02 旧汇率）） | 第 74 批(n) `from:e.sagatelecom to:elimopt.co.kr` 全程 complete：1 轮直收（头 msg 19501dcc2221e96f 无 Bcc，称呼「Hi, Hyun」）；0 回 | `elsa_1to1` |
 | 2026-09-28 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 34 封 / 2 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-28（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品 | 表内备注 | `用户表` |
 
@@ -314,12 +315,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

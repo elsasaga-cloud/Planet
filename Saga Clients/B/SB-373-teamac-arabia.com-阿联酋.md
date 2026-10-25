@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,7 +41,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-373` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「8光8PoE管理 / from: 自建站」）** ｜ 类型：BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿联酋 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「8光8PoE管理 / from: 自建站」；研究档 risks：非主攻区（T5，阿联酋）；询盘时效待核；BMS 项目（Siemens 生态）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「8光8PoE管理 / from: 自建站」；Elsa 箱：`to:teamac-arabia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘） ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：阿联酋 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「8光8PoE管理 / from: 自建站」；研究档 risks：非主攻区（T5，阿联酋）；询盘时效待核；BMS 项目（Siemens 生态）
 - **现状一句话**：阿联酋 TEAMAC Arabia（BMS 与 HVAC 控制、弱电方案、控制与自动化；CCTV/门禁；Siemens；自建站询盘「8 光 8 PoE 管理」；KP Khursheed Khan）；表内未跟进。
 - **对方真实需求（有据）**：询盘 8 SFP + 8 PoE 管理 → 工业 L2+ 8 PoE + 4×1G SFP + 4×2.5G SFP STI-448DGGGPM（$220.5 @25%）；商用替代 STC-28DGGPM（$84.1）
 - **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；询盘时效待核；BMS 项目（Siemens 生态）
@@ -246,12 +246,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

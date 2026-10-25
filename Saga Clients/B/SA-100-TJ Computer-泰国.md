@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-100` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停）** ｜ 类型：泰国小经销（Peter）——第四档；TH 非主攻 ｜ 筛子：2 ｜ 停点：2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回 ｜ 复活：不主动 ｜ 通路：TH ｜ 节奏：2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14 ｜ 证据：k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
+- **绑定等级：未绑定（两次「interested / 多少钱」→ bypass 款 300 USD → 停；Elsa 箱：`to:tj2003.net` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 2）（第 74 批(n)））** ｜ 类型：泰国小经销（Peter）——第四档；TH 非主攻 ｜ 筛子：2 ｜ 停点：2025-05-15 STI-488XGGPM2B-2BT 300 USD 后无回 ｜ 复活：不主动 ｜ 通路：TH ｜ 节奏：2025-02 → 2026-09 去信 18 封；最后来信 2025-05-14 ｜ 证据：k=2c5f175a9c8a8571 / 02da3feea2aac332 / 60215e5a3bb8a816；A 邮箱外发报价单正文（`data/gmail_a/attachments/text/`，2026-10-24 对表）
 - **现状一句话**：Peter 对 8 口工业 PoE 回「interested」、对 bypass 回「多少钱」，Alan 报 300 USD（4×10G + 8 PoE，2 通道 bypass，L2+）后无回。
 - **对方真实需求（有据）**：8 口工业 PoE；bypass。
 - **断点 / 为什么停在这里**：泰国小经销的价格段与 Marvell 不匹配。
@@ -270,12 +270,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

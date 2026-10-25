@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,23 +38,29 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM / STC-424XGGPM + ODM 一页 — 韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：现在 A 邮箱 → peter01@n-itus.com 给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发
+- **下一步**：现在 A 邮箱 → peter01@n-itus.com 首封前知悉：Elsa 群发 BCC 已触达 6 轮（2025-04-02→2025-10-08，锚 To wisali0708@gmail.com / sales@ags-electronics.com，0 回）（第 74 批(n)）；给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-472` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2025-11-13 Peter（Director overseas biz）：「price range for poe and non poe switches and ODM proposal… We are the major supplier to ISPs in Korea」→ Alan 给下载链接并反问品类；无后续）** ｜ 类型：韩国 ISP 供应商（N-ITUS；Director 直联）——第二档，ISP 渠道 + ODM 意向 ｜ 筛子：2（要价格区间 + ODM 方案） ｜ 停点：Alan 用「先看链接再说品类」回了一个明确的「给我价格区间和 ODM 方案」——对方没有再来；Simon 2026-08-02 点名韩国客户 ｜ 复活：直接给：PoE/非 PoE 两张价格区间表 + ODM 一页（logo/型号/GUI/包装/MOQ） ｜ 通路：KR 次级（Simon 点名） ｜ 节奏：一封 ｜ 证据：k=57253159a4b7a064 / d5a07aad76ff2c53
+- **绑定等级：轻度触达（2025-11-13 Peter（Director overseas biz）：「price range for poe and non poe switches and ODM proposal… We are the major supplier to ISPs in Korea」→ Alan 给下载链接并反问品类；无后续）；Elsa 群发 BCC 已触达 6 轮 2025-04-02→2025-10-08（锚 To wisali0708@gmail.com 1 轮 2025-04-02；锚 To sales@ags-electronics.com 5 轮 2025-04-27→2025-10-08；本户在 Bcc；主题 Managed Optical Bypass Switch、Mini Industrial PoE Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:n-itus.com` 全程 complete：命中 6 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：韩国 ISP 供应商（N-ITUS；Director 直联）——第二档，ISP 渠道 + ODM 意向 ｜ 筛子：2（要价格区间 + ODM 方案） ｜ 停点：Alan 用「先看链接再说品类」回了一个明确的「给我价格区间和 ODM 方案」——对方没有再来；Simon 2026-08-02 点名韩国客户 ｜ 复活：直接给：PoE/非 PoE 两张价格区间表 + ODM 一页（logo/型号/GUI/包装/MOQ） ｜ 通路：KR 次级（Simon 点名） ｜ 节奏：一封 ｜ 证据：k=57253159a4b7a064 / d5a07aad76ff2c53
 - **现状一句话**：对方开口要的是两样具体东西，Saga 给的是链接。
 - **对方真实需求（有据）**：ISP 用接入 PoE/非 PoE + ODM。
 - **断点 / 为什么停在这里**：回法。
 - **Saga 现在该推什么**：P1 **STC-28GPM / STC-424XGGPM + ODM 一页**（30% 档，按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch））——韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：8； ；口； ；P；o；E； ；商；用； ；=； ；S；T；C；-；2；8；D；G；G；P；M； ；S；a；g；a； ；列；表；价； ；$；9；9；（；主；表；；；S；a；g；a； ；标； ；2；4；0；W；、；S；m；a；r；t；B；y；t；e； ；标； ；1；2；0；W； ；电；源；—；—；报；价；前；核；对；电；源；规；格；）
-- **下一步（具体）**：现在　A 邮箱 → peter01@n-itus.com　给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发
+- **下一步（具体）**：现在　A 邮箱 → peter01@n-itus.com　首封前知悉：Elsa 群发 BCC 已触达 6 轮（2025-04-02→2025-10-08，锚 To wisali0708@gmail.com / sales@ags-electronics.com，0 回）（第 74 批(n)）；给区间表 + ODM 一页；附件：价格区间表（PoE / 非 PoE 接入机三档）+ ODM 一页（贴牌规则：软件 logo 免费、PVC 面膜 MOQ 300、彩盒 $2.5/套 200 起）——两页都要先写好再发
   - 第一问（只问一个）：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-02 | 去 | Elsa 群发（BCC；To wisali0708@gmail.com） | 16 Port Ethernet Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To wisali0708@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=wisali0708@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-04-27 | 去 | Elsa 群发（BCC；To sales@ags-electronics.com） | Managed Optical Bypass Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com） | 第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-24 | 去 | Elsa 群发（BCC；To sales@ags-electronics.com） | 16 Port Ethernet Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com） | 第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-24 | 去 | Elsa 群发（BCC；To sales@ags-electronics.com） | Mini Industrial PoE Switch（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com） | 第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-23 | 去 | Elsa 群发（BCC；To sales@ags-electronics.com） | 8 Port Industrial PoE Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com） | 第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-08 | 去 | Elsa 群发（BCC；To sales@ags-electronics.com） | 10G Enterprise SFP Switch（Elsa 群发第 6/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com） | 第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-11-13 | 来 | Peter | Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea. | ODM 意向 | `57253159a4b7a064` |
 | 2025-12-11 | 去 | Saga（Alan） | Hi, Peter, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (port… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `1704546832652ac3` |
 
@@ -266,12 +272,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

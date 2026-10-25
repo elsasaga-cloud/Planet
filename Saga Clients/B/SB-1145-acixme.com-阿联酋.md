@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -37,22 +37,32 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供。已打开的主题（1/24 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-27) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $65（10G fiber media converter）、2024-08-21 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-04-09→2026-09-08，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1145` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 akkeef@acixme.com, dipesh.p@acixme.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：门禁/安防集成商（阿联酋，Utepo 在用） ｜ 筛子：1~2（1 次打开） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「有Utepo的；主要是CCTV」；研究档 risks：非主攻区（T5，阿联酋）；现供 Utepo 价格基准低；国别已改阿联酋（表内沙特为误记）；2 次无回复
+- **绑定等级：未触达（A/S 邮箱 24 封 2024→2026，1 次记录打开，0 回；收件 akkeef@acixme.com, dipesh.p@acixme.com；主题多为「Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 10 轮 2025-04-09→2026-09-08（锚 To amr_sha@hotmail.com 10 轮 2025-04-09→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:acixme.com` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：门禁/安防集成商（阿联酋，Utepo 在用） ｜ 筛子：1~2（1 次打开） ｜ 停点：24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：阿联酋 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 24，Opened 标签 1（Simon 群发追踪）；用户表：「有Utepo的；主要是CCTV」；研究档 risks：非主攻区（T5，阿联酋）；现供 Utepo 价格基准低；国别已改阿联酋（表内沙特为误记）；2 次无回复
 - **现状一句话**：阿联酋 ACIX ME（迪拜门禁与安防方案商：门禁 109 处、LPR、停车道闸、行人闸、自动化；表内国别误记沙特；「有 Utepo 的 / 主要是 CCTV」；KP Dipesh Patel（Sales Director）、Akkeef P（Operations Executive））；表内 2 次跟进无回复。
 - **对方真实需求（有据）**：门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供
 - **断点 / 为什么停在这里**：非主攻区（T5，阿联酋）；现供 Utepo 价格基准低；国别已改阿联酋（表内沙特为误记）；2 次无回复
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $65（10G fiber media converter）、2024-08-21 $65（10G media converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch））——门禁/CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；户外柜工业 8 PoE STI-288GP（$59.8）作 Utepo 二供。已打开的主题（1/24 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-27) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 群发 BCC 已触达 10 轮（2025-04-09→2026-09-08，锚 To amr_sha@hotmail.com，0 回）（第 74 批(n)）；换收件人再发一封
   - 第一问（只问一个）：Dipesh, for the PoE switches behind your access-control, LPR and camera installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE units for outdoor cabinets from single units, CE/RoHS, EXW USD — which PoE position in your Dubai projects would you like priced first? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-09 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | 8 Port Industrial PoE Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-03 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | 8 Port Industrial PoE Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-04 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | 48 Port PoE Managed Switch（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-03 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | Mini Industrial PoE Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-08-06 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | 16 Port Ethernet Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-05 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | 10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-11-20 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | Industrial PoE Switch（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-02-06 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-04-30 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To amr_sha@hotmail.com） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To amr_sha@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:acixme.com` 命中行 To=amr_sha@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-01 | 去 | A/S 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 24 封 / 1 次打开 / 0 回｜首封 2024-07-07 → 末封 2026-10-01（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 有Utepo的；主要是CCTV | 表内备注 | `用户表` |
 
@@ -301,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

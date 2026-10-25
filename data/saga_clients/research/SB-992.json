@@ -1,129 +1,129 @@
 {
-  "code": "SB-992",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（netsolutionstore.com.au，快照 2026-10-21）",
-  "summary": "澳大利亚 NetSolutionStore.com.au（Extreme Networks 专营网店：AP / 交换机 / 云网络全系列；表内「主要卖 Extreme Network 的」）；群发 7 次无回复。",
-  "type": "Extreme Networks 专营网店（澳洲）",
-  "size": "",
-  "brands_seen": [
-    "Extreme"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Extreme Networks Products & Solutions | NetSolutionStore.com.au；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "NetSolutionStore.com.au stocks the full range of Extreme Networks wireless access points, switches, and cloud networking solutions. Call us Today! (02) 9388 1741.",
-      "url": "https://www.netsolutionstore.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "主要卖Extreme network的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Extreme Networks 全系列库存",
-      "quote": "NetSolutionStore.com.au stocks the full range of Extreme Networks wireless access points, switches, and cloud networking solutions.",
-      "url": "https://www.netsolutionstore.com.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "主要卖 Extreme 的",
-      "quote": "主要卖Extreme network的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-992",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netsolutionstore.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 NetSolutionStore.com.au（Extreme Networks 专营网店：AP / 交换机 / 云网络全系列；表内「主要卖 Extreme Network 的」）；群发 7 次无回复。",
+ "type": "Extreme Networks 专营网店（澳洲）",
+ "size": "",
+ "brands_seen": [
+  "Extreme"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Extreme Networks Products & Solutions | NetSolutionStore.com.au；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "NetSolutionStore.com.au stocks the full range of Extreme Networks wireless access points, switches, and cloud networking solutions. Call us Today! (02) 9388 1741.",
+   "url": "https://www.netsolutionstore.com.au/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "澳大利亚",
-    "other": "官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "主要卖Extreme network的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "Extreme Networks 产品专营"
-  ],
-  "channels": {
-    "role": "Extreme Networks 专营网店（澳洲）",
-    "region": "澳大利亚",
-    "contact": "sales@netsolutionstore.com.au"
+  {
+   "kind": "官网快照",
+   "claim": "Extreme Networks 全系列库存",
+   "quote": "NetSolutionStore.com.au stocks the full range of Extreme Networks wireless access points, switches, and cloud networking solutions.",
+   "url": "https://www.netsolutionstore.com.au/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：stocks the full range of Extreme Networks wireless access points, switches, and cloud networking",
-    "栏目 /Switches.php、/Access-Edge-Switches.php、/Aggregation-Switches.php"
-  ],
-  "risks": [
-    "Extreme 专营店：白牌契合度低，预期低",
-    "非主攻区（T5）；RCM 合规由客户申报；仅 sales@"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 20,
-    "why": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位"
-  },
-  "email_hook": "Alongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A 邮箱 12 封 2025→2026，其中 3 封被打开，0 回；收件 sales@netsolutionstore.com.au；被打开主题「Marvell Industrial Alert System、90W PoE Managed Switch」）",
-      "type": "Extreme Networks 专营网店（澳洲）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "澳大利亚 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「主要卖Extreme network的」；研究档 risks：Extreme 专营店：白牌契合度低，预期低"
-    },
-    "situation": "澳大利亚 NetSolutionStore.com.au（Extreme Networks 专营网店：AP / 交换机 / 云网络全系列；表内「主要卖 Extreme Network 的」）；群发 7 次无回复。",
-    "need": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位",
-    "breakpoint": "Extreme 专营店：白牌契合度低，预期低",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 20,
-      "price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
-      "why": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位。已打开的主题（3/12 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-15)、「Updated Ethernet Switches Links」(2026-03-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → sales@netsolutionstore.com.au",
-      "action": "短信一问（email_hook）",
-      "one_question": "Alongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-03-09",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "Marvell Industrial Alert System、90W PoE Managed Switch",
-        "why": "12 封 / 3 次打开 / 0 回｜首封 2025-05-27 → 末封 2026-03-09（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "主要卖Extreme network的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Marvell Industrial Alert System",
-      "body": "Hello,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?\n\nReference price: 24-GE + 4 × 10G SFP+ L2+ managed switch (Marvell AC5) (STC-424XGGM) $127.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "主要卖 Extreme 的",
+   "quote": "主要卖Extreme network的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "Extreme Networks 产品专营"
+ ],
+ "channels": {
+  "role": "Extreme Networks 专营网店（澳洲）",
+  "region": "澳大利亚",
+  "contact": "sales@netsolutionstore.com.au"
+ },
+ "signals": [
+  "官网：stocks the full range of Extreme Networks wireless access points, switches, and cloud networking",
+  "栏目 /Switches.php、/Access-Edge-Switches.php、/Aggregation-Switches.php"
+ ],
+ "risks": [
+  "Extreme 专营店：白牌契合度低，预期低",
+  "非主攻区（T5）；RCM 合规由客户申报；仅 sales@"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 20,
+  "why": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位"
+ },
+ "email_hook": "Alongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A 邮箱 12 封 2025→2026，其中 3 封被打开，0 回；收件 sales@netsolutionstore.com.au；被打开主题「Marvell Industrial Alert System、90W PoE Managed Switch」；Elsa 箱：`to:netsolutionstore.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(n)））",
+   "type": "Extreme Networks 专营网店（澳洲）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「主要卖Extreme network的」；研究档 risks：Extreme 专营店：白牌契合度低，预期低"
+  },
+  "situation": "澳大利亚 NetSolutionStore.com.au（Extreme Networks 专营网店：AP / 交换机 / 云网络全系列；表内「主要卖 Extreme Network 的」）；群发 7 次无回复。",
+  "need": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位",
+  "breakpoint": "Extreme 专营店：白牌契合度低，预期低",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 20,
+   "price": "首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-16 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "Extreme 专营 → 白牌契合度低；若接受补充线：24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作入门位。已打开的主题（3/12 封有打开记录）：「16 Port Ethernet Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-15)、「Updated Ethernet Switches Links」(2026-03-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → sales@netsolutionstore.com.au",
+   "action": "短信一问（email_hook）",
+   "one_question": "Alongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-03-09",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "Marvell Industrial Alert System、90W PoE Managed Switch",
+    "why": "12 封 / 3 次打开 / 0 回｜首封 2025-05-27 → 末封 2026-03-09（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主要卖Extreme network的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Marvell Industrial Alert System",
+   "body": "Hello,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?\n\nReference price: 24-GE + 4 × 10G SFP+ L2+ managed switch (Marvell AC5) (STC-424XGGM) $127.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

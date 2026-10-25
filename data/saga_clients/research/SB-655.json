@@ -80,7 +80,7 @@
  "email_hook": "Ahmed, following your enquiry for an industrial 1-fibre + 1-PoE unit: we supply the DIN-rail PoE media converter (1 SFP + 1 GE PoE+, −40~75 °C, CE/RoHS) and 4-PoE + 1 SFP models from single units, EXW USD — how many points does the project need and what fibre type (single-mode/distance)?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业1光1电PoE / from: 自建站」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「工业1光1电PoE / from: 自建站」；Elsa 箱：`to:c-techeg.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "系统集成商（埃及，工业 1 光 1 电 PoE 询盘）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

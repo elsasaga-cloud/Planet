@@ -60,7 +60,7 @@
   "email_hook": "Joemar, the 2-SFP + 2-port mini you asked a sample for is $29 EXW at 1 pc (sample = unit price + courier); do you want the PoE version for the tower CPEs or the plain one?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（2025-01-15 Joemar「send me an item for testing?」→ Simon：付样 $33 STI-222GP；无付款）",
+      "level": "轻度触达（2025-01-15 Joemar「send me an item for testing?」→ Simon：付样 $33 STI-222GP；无付款）；Elsa 群发 BCC 已触达 10 轮 2025-04-07→2026-09-04（锚 To stephengala@yahoo.com 10 轮 2025-04-07→2026-09-04；本户在 Bcc；主题 10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 全程 complete：命中 10 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "菲律宾 WISP（NKF；Gmail）",
       "sieve": "3（要样，未付）",
       "stop": "免费样品期望",
@@ -102,6 +102,96 @@
         "quote": "Hi, Joemar, Yes, but it is not free samples. Lets focus on a hot-selling model. Price: 33usd/pc, STI-222GP, industrial PoE Switch 2*100M/1000M SFP+2*10/100/1000M RJ45, PoE af/at, 60W, Unmanaged, Support DIP function DC44V~DC57V(Removable 4 PIN Industrial Termi",
         "why": "历史报价点（主题「Re: Mini Industrial PoE Switch」；第 20 批从 gmail_s 回补）：STI-222GP 33usd",
         "k": "05b51bd103cc66ea"
+      },
+      {
+        "date": "2025-04-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1960e66cb8958ff2"
+      },
+      {
+        "date": "2025-05-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19689f29a83a01ee"
+      },
+      {
+        "date": "2025-06-02",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "10G Media Converter（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1972eca01f5e30ae"
+      },
+      {
+        "date": "2025-07-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Commercial PoE Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197c3ed524d9ae1a"
+      },
+      {
+        "date": "2025-08-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19873058a51a59e6"
+      },
+      {
+        "date": "2025-10-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199bc9c8ba1bad3e"
+      },
+      {
+        "date": "2025-11-14",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19a804c5fb8ff089"
+      },
+      {
+        "date": "2026-02-02",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19c1c876060476b6"
+      },
+      {
+        "date": "2026-04-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19dbd7821c3218c9"
+      },
+      {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To stephengala@yahoo.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1a06a6fffaf4fbf3"
       }
     ],
     "proof_gaps": [],

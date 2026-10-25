@@ -86,7 +86,7 @@
  "email_hook": "Mateen, you asked for our commercial switch price list in May 2024 — for your telecom and broadcast sites, is the 8-port PoE with SFP uplink the size you quote most, or should I lead with the 24-port?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：1光8 ST；回复：商业交换机的price list」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：1光8 ST；回复：商业交换机的price list」；Elsa 箱：`to:swift.net.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

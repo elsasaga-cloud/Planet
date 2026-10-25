@@ -1,136 +1,136 @@
 {
-  "code": "SB-1193",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（gponnetwork.com，快照 2026-10-21）",
-  "summary": "新加坡 GPON Network（2000 年起网络设备供应链商：云基础设施设备、主流品牌（Cisco / Huawei / Juniper）全球参考价、WDM 方案；表内「需要工业 FS / WDM SFP Switch 等」「之前联系过」「可以多跟进一下」；KP Mycal Ho）；群发 8 次无回复。",
-  "type": "网络设备供应链/经纪商（新加坡，之前联系过）",
-  "size": "",
-  "brands_seen": [
-    "Cisco",
-    "Huawei",
-    "Juniper"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：GPON Network – trusted speedy network eqmt supply chain；品类词 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Equipment Supply Chain for Cloud Infrastructure；Since 2000, we distribute major brands network equipment；Global references at competitive prices；Reduce Cost … Work on a budget!；Global Deliveries；WDM Solutions for Data Centers interconnectio",
-      "url": "https://gponnetwork.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "需要工业FS；WDM SFP Switch等",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "GPON Network 定位",
-      "quote": "GPON Network – trusted speedy network eqmt supply chain ; Since 2000, we distribute major brands network equipment ; Global references at competitive prices",
-      "url": "https://gponnetwork.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "需要工业 FS / WDM SFP；之前联系过",
-      "quote": "需要工业FS / WDM SFP Switch等；之前联系过；可以多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mycal Ho",
-      "title": "（职务待核）",
-      "email": "info@gponnetwork.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1193",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（gponnetwork.com，快照 2026-10-21）",
+ "summary": "新加坡 GPON Network（2000 年起网络设备供应链商：云基础设施设备、主流品牌（Cisco / Huawei / Juniper）全球参考价、WDM 方案；表内「需要工业 FS / WDM SFP Switch 等」「之前联系过」「可以多跟进一下」；KP Mycal Ho）；群发 8 次无回复。",
+ "type": "网络设备供应链/经纪商（新加坡，之前联系过）",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Huawei",
+  "Juniper"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：GPON Network – trusted speedy network eqmt supply chain；品类词 无线 / WiFi / 数据中心 / 企业 IT / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Equipment Supply Chain for Cloud Infrastructure；Since 2000, we distribute major brands network equipment；Global references at competitive prices；Reduce Cost … Work on a budget!；Global Deliveries；WDM Solutions for Data Centers interconnectio",
+   "url": "https://gponnetwork.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "新加坡",
-    "other": "官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "需要工业FS；WDM SFP Switch等",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络设备供应链（品牌设备 / WDM）"
-  ],
-  "channels": {
-    "role": "网络设备供应链/经纪商（新加坡，之前联系过）",
-    "region": "新加坡",
-    "contact": "info@gponnetwork.com"
+  {
+   "kind": "官网快照",
+   "claim": "GPON Network 定位",
+   "quote": "GPON Network – trusted speedy network eqmt supply chain ; Since 2000, we distribute major brands network equipment ; Global references at competitive prices",
+   "url": "https://gponnetwork.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页 Equipment Supply Chain for Cloud Infrastructure ; Since 2000, we distribute major brands network equipment ; Global references at competitive prices ; WDM Solutions；kw switch 24 / sfp 19 / fiber 25",
-    "表内：需要工业 FS / WDM SFP Switch 等；Mycal Ho / 可以多跟进一下；之前联系过"
-  ],
-  "risks": [
-    "品牌设备经纪/比价型（Cisco/Huawei 参考价导向）；WDM/SFP 需求 Saga 不供",
-    "非主攻区（T5，新加坡）；8 次无回复，之前联系记录待核（Gmail）"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "表内「需要工业 FS」→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）；WDM/SFP Saga 不供（Q-32）"
-  },
-  "email_hook": "Mycal, following our earlier contact about industrial switches, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a current project where you need an industrial switch quote?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 info@gponnetwork.com；主题多为「16 Port PoE Managed Switch、8 Port Industrial PoE Switch」）",
-      "type": "网络设备供应链/经纪商（新加坡，之前联系过）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "新加坡 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「需要工业FS；WDM SFP Switch等」；研究档 risks：品牌设备经纪/比价型（Cisco/Huawei 参考价导向）；WDM/SFP 需求 Saga 不供"
-    },
-    "situation": "新加坡 GPON Network（2000 年起网络设备供应链商：云基础设施设备、主流品牌（Cisco / Huawei / Juniper）全球参考价、WDM 方案；表内「需要工业 FS / WDM SFP Switch 等」「之前联系过」「可以多跟进一下」；KP Mycal Ho）；群发 8 次无回复。",
-    "need": "表内「需要工业 FS」→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）；WDM/SFP Saga 不供（Q-32）",
-    "breakpoint": "品牌设备经纪/比价型（Cisco/Huawei 参考价导向）；WDM/SFP 需求 Saga 不供",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
-      "why": "表内「需要工业 FS」→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）；WDM/SFP Saga 不供（Q-32）。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Mycal, following our earlier contact about industrial switches, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a current project where you need an industrial switch quote?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-16",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "16 Port PoE Managed Switch、8 Port Industrial PoE Switch",
-        "why": "18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-16（18 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "需要工业FS；WDM SFP Switch等",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "需要工业 FS / WDM SFP；之前联系过",
+   "quote": "需要工业FS / WDM SFP Switch等；之前联系过；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mycal Ho",
+   "title": "（职务待核）",
+   "email": "info@gponnetwork.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "新加坡",
+  "other": "官网 gponnetwork.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "网络设备供应链（品牌设备 / WDM）"
+ ],
+ "channels": {
+  "role": "网络设备供应链/经纪商（新加坡，之前联系过）",
+  "region": "新加坡",
+  "contact": "info@gponnetwork.com"
+ },
+ "signals": [
+  "首页 Equipment Supply Chain for Cloud Infrastructure ; Since 2000, we distribute major brands network equipment ; Global references at competitive prices ; WDM Solutions；kw switch 24 / sfp 19 / fiber 25",
+  "表内：需要工业 FS / WDM SFP Switch 等；Mycal Ho / 可以多跟进一下；之前联系过"
+ ],
+ "risks": [
+  "品牌设备经纪/比价型（Cisco/Huawei 参考价导向）；WDM/SFP 需求 Saga 不供",
+  "非主攻区（T5，新加坡）；8 次无回复，之前联系记录待核（Gmail）"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "表内「需要工业 FS」→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）；WDM/SFP Saga 不供（Q-32）"
+ },
+ "email_hook": "Mycal, following our earlier contact about industrial switches, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a current project where you need an industrial switch quote?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 18 封 2025→2026，1 次记录打开，0 回；收件 info@gponnetwork.com；主题多为「16 Port PoE Managed Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:gponnetwork.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 18 / 来 0）（第 74 批(n)））",
+   "type": "网络设备供应链/经纪商（新加坡，之前联系过）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "新加坡 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 18，Opened 标签 1（Simon 群发追踪）；用户表：「需要工业FS；WDM SFP Switch等」；研究档 risks：品牌设备经纪/比价型（Cisco/Huawei 参考价导向）；WDM/SFP 需求 Saga 不供"
+  },
+  "situation": "新加坡 GPON Network（2000 年起网络设备供应链商：云基础设施设备、主流品牌（Cisco / Huawei / Juniper）全球参考价、WDM 方案；表内「需要工业 FS / WDM SFP Switch 等」「之前联系过」「可以多跟进一下」；KP Mycal Ho）；群发 8 次无回复。",
+  "need": "表内「需要工业 FS」→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）；WDM/SFP Saga 不供（Q-32）",
+  "breakpoint": "品牌设备经纪/比价型（Cisco/Huawei 参考价导向）；WDM/SFP 需求 Saga 不供",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
+   "why": "表内「需要工业 FS」→ 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非 PoE STI-280GE（$46.6）；WDM/SFP Saga 不供（Q-32）。已打开的主题（1/18 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Mycal, following our earlier contact about industrial switches, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed units (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — is there a current project where you need an industrial switch quote?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-16",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "16 Port PoE Managed Switch、8 Port Industrial PoE Switch",
+    "why": "18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-16（18 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "需要工业FS；WDM SFP Switch等",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

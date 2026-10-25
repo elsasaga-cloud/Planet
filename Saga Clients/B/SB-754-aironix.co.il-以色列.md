@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-754` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→活线索（2026-08-13 Yair：「equivalent to Allied AT-GS910-24, 47 pcs, 300 pcs a year」→ Alan 给近似款 → Yair「customer target $150」→ Alan「$60 EXW… I think we can make it」；之后 Yair 无回，Alan 9-18 改发 16 口群发）** ｜ 类型：以色列工业网络分销（Aironix；ORing 在供；Yair = 销售/采购，WhatsApp 公开）——第二档分销，手里有 47+300/年的项目 ｜ 筛子：3→4（规格对表 + 目标价，差一步样品） ｜ 停点：价格空间巨大（$60 vs 目标 $150）却没有闭环：Alan 的回复里带了「ChatGPT 说是 technically suitable candidate」——把判断责任推给客户；之后没有追「要不要 2 台样品」 ｜ 复活：一句话：按 AT-GS910-24 逐项对表（24×GE 非管理 L2 web smart？实际 GS910/24 是非管理机架 24 口）+ 2 台付费样品 + 47 台价与 300 台/年价两档 ｜ 通路：IL 非主攻——但 J5：300 台/年证据压过地区 ｜ 节奏：现在；之后按项目 ｜ 证据：k=e38d26c7ab40da80（47/300 pcs）；8cd7e98463599356（近似款）；3a08877b73cf6f38（target $150）；44e2d2b34a060ccb（$60 EXW + ChatGPT）；67992b2d19d5a0b8（9-18 群发）
+- **绑定等级：轻度绑定→活线索（2026-08-13 Yair：「equivalent to Allied AT-GS910-24, 47 pcs, 300 pcs a year」→ Alan 给近似款 → Yair「customer target $150」→ Alan「$60 EXW… I think we can make it」；之后 Yair 无回，Alan 9-18 改发 16 口群发；Elsa 箱：`to:aironix.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 21 / 来 2）（第 74 批(n)））** ｜ 类型：以色列工业网络分销（Aironix；ORing 在供；Yair = 销售/采购，WhatsApp 公开）——第二档分销，手里有 47+300/年的项目 ｜ 筛子：3→4（规格对表 + 目标价，差一步样品） ｜ 停点：价格空间巨大（$60 vs 目标 $150）却没有闭环：Alan 的回复里带了「ChatGPT 说是 technically suitable candidate」——把判断责任推给客户；之后没有追「要不要 2 台样品」 ｜ 复活：一句话：按 AT-GS910-24 逐项对表（24×GE 非管理 L2 web smart？实际 GS910/24 是非管理机架 24 口）+ 2 台付费样品 + 47 台价与 300 台/年价两档 ｜ 通路：IL 非主攻——但 J5：300 台/年证据压过地区 ｜ 节奏：现在；之后按项目 ｜ 证据：k=e38d26c7ab40da80（47/300 pcs）；8cd7e98463599356（近似款）；3a08877b73cf6f38（target $150）；44e2d2b34a060ccb（$60 EXW + ChatGPT）；67992b2d19d5a0b8（9-18 群发）
 - **现状一句话**：两个月前的活线索：客户给了型号、数量、年量、目标价四个要素，Saga 的价只有目标价的 40%。断在没有人把「对表 + 样品 + 两档价」一次给齐。
 - **对方真实需求（有据）**：AT-GS910-24 替代：24 口千兆非管理/轻管理机架交换机，47 台首批，300 台/年。
 - **断点 / 为什么停在这里**：Saga 未闭环。
@@ -287,12 +287,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

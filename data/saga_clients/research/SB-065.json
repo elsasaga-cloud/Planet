@@ -68,7 +68,7 @@
  "email_hook": "Janm, you were after rack-style 8-PoE + 2-SFP managed and 24+4 units (gigabit only, no industrial) — both are Marvell-based now; shall I send the two-line EXW quote?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：长壳2光8 POE，0光8长壳POE 管理 4光24电；回复：主要用千兆的」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：长壳2光8 POE，0光8长壳POE 管理 4光24电；回复：主要用千兆的」；Elsa 箱：`to:airpo.co.id` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

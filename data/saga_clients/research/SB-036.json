@@ -57,7 +57,7 @@
  "email_hook": "Rizky, for the 5-port PoE requirement — do you need the DIN-rail industrial version (−40~75 ℃) or a desktop commercial one? Both ship from 1 pc; I'll quote the right one.",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 rizkyadips@yahoo.com；主题多为「16 Port PoE Managed Switch、Industrial PoE Switch」）",
+   "level": "未触达（A/S 邮箱 3 封 2024→2025，1 次记录打开，0 回；收件 rizkyadips@yahoo.com；主题多为「16 Port PoE Managed Switch、Industrial PoE Switch」；Elsa 箱：`to:rizkyadips@yahoo.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 0）（第 74 批(n)））",
    "type": "—",
    "sieve": "1~2（1 次打开）",
    "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

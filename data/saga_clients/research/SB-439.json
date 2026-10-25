@@ -1,132 +1,132 @@
 {
-  "code": "SB-439",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（satsdigital.com，快照 2026-10-21）",
-  "summary": "泰国 SATS Digital（销售平台型网店：MC、FS、工业 FS、SFP、VC「价格便宜」；站内 8 口千兆工业 PoE、Dahua 4/8 口 PoE 页面；「可以尝试多跟进一下」）；群发 9 次无回复。",
-  "type": "网络/安防产品网店（泰国，低价导向）",
-  "size": "",
-  "brands_seen": [
-    "Dahua"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：satsdigital.com",
-      "quote": "",
-      "url": "https://www.satsdigital.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：satsdigital.com；品类词 网络交换 / PoE",
-      "quote": "",
-      "url": "https://www.satsdigital.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "SATS 产品页",
-      "quote": "satsdigital.com ; /gigabit-industrial-poe-switch-8-port ; /dahua-gigabit-poe-switch-8-port",
-      "url": "https://www.satsdigital.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "价格便宜 销售平台",
-      "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-439",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（satsdigital.com，快照 2026-10-21）",
+ "summary": "泰国 SATS Digital（销售平台型网店：MC、FS、工业 FS、SFP、VC「价格便宜」；站内 8 口千兆工业 PoE、Dahua 4/8 口 PoE 页面；「可以尝试多跟进一下」）；群发 9 次无回复。",
+ "type": "网络/安防产品网店（泰国，低价导向）",
+ "size": "",
+ "brands_seen": [
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：satsdigital.com",
+   "quote": "",
+   "url": "https://www.satsdigital.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "泰国",
-    "other": "官网 satsdigital.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络 / 安防产品网店（泰国）"
-  ],
-  "channels": {
-    "role": "网络/安防产品网店（泰国，低价导向）",
-    "region": "泰国",
-    "contact": "info@satsdigital.com"
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：satsdigital.com；品类词 网络交换 / PoE",
+   "quote": "",
+   "url": "https://www.satsdigital.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "页面 /gigabit-industrial-poe-switch-8-port、/dahua-gigabit-poe-switch-4-port、/dahua-gigabit-poe-switch-8-port",
-    "表内：MC FS 工业 FS SFP VC 价格便宜 销售平台；可以尝试多跟进一下"
-  ],
-  "risks": [
-    "低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 20,
-    "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+  {
+   "kind": "官网快照",
+   "claim": "SATS 产品页",
+   "quote": "satsdigital.com ; /gigabit-industrial-poe-switch-8-port ; /dahua-gigabit-poe-switch-8-port",
+   "url": "https://www.satsdigital.com/",
+   "date": "2026-10-21"
   },
-  "email_hook": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 info@satsdigital.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
-      "type": "网络/安防产品网店（泰国，低价导向）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "泰国 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC FS 工业FS SFP VC 价格便宜 销售平台」；研究档 risks：低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@"
-    },
-    "situation": "泰国 SATS Digital（销售平台型网店：MC、FS、工业 FS、SFP、VC「价格便宜」；站内 8 口千兆工业 PoE、Dahua 4/8 口 PoE 页面；「可以尝试多跟进一下」）；群发 9 次无回复。",
-    "need": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
-    "breakpoint": "低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 20,
-      "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-13 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
-      "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）。已打开的主题（1/20 封有打开记录）：「Mini Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-25",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
-        "why": "20 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（20 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "价格便宜 销售平台",
+   "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 satsdigital.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "网络 / 安防产品网店（泰国）"
+ ],
+ "channels": {
+  "role": "网络/安防产品网店（泰国，低价导向）",
+  "region": "泰国",
+  "contact": "info@satsdigital.com"
+ },
+ "signals": [
+  "页面 /gigabit-industrial-poe-switch-8-port、/dahua-gigabit-poe-switch-4-port、/dahua-gigabit-poe-switch-8-port",
+  "表内：MC FS 工业 FS SFP VC 价格便宜 销售平台；可以尝试多跟进一下"
+ ],
+ "risks": [
+  "低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+ },
+ "email_hook": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2025→2026，1 次记录打开，0 回；收件 info@satsdigital.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」；Elsa 箱：`to:satsdigital.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 20 / 来 0）（第 74 批(n)））",
+   "type": "网络/安防产品网店（泰国，低价导向）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "泰国 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「MC FS 工业FS SFP VC 价格便宜 销售平台」；研究档 risks：低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@"
+  },
+  "situation": "泰国 SATS Digital（销售平台型网店：MC、FS、工业 FS、SFP、VC「价格便宜」；站内 8 口千兆工业 PoE、Dahua 4/8 口 PoE 页面；「可以尝试多跟进一下」）；群发 9 次无回复。",
+  "need": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）",
+  "breakpoint": "低价导向（Dahua/国内货基准）；非主攻区（T5，泰国）；9 次无回复，仅 info@",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "换人再触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-13 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+   "why": "站内工业 8 口 PoE 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）；商用 PoE 位 STC-28DGGPM（$80.7）；非管理 4/8 PoE 位 HRUI（列表价，注明）。已打开的主题（1/20 封有打开记录）：「Mini Industrial PoE Switch」(2025-07-14) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "For the 8-port gigabit industrial PoE switch and the Dahua PoE positions on your site, we supply neutral-brand DIN-rail 8-PoE + 2 SFP and commercial 8-PoE L2+ units from single units, CE/RoHS, EXW USD — which PoE SKU sells most on your platform? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-25",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+    "why": "20 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（20 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC FS 工业FS SFP VC 价格便宜 销售平台",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

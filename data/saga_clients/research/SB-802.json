@@ -67,7 +67,7 @@
   "email_hook": "Faiza, the optical-bypass industrial switch you liked: 8 PoE + 4 SFP, L2+ managed, bypass holds the ring when the unit loses power — $194 EXW (non-PoE $179); I'll include the patch-cord/bypass wiring diagram you asked about. Which fibre type, SM LC?",
   "mail_review": {
     "binding": {
-      "level": "未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 mohamadfaiza@sigmarectrix.com；主题多为「Industrial Fiber Switch、industrial poe managed switch」）",
+      "level": "未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 mohamadfaiza@sigmarectrix.com；主题多为「Industrial Fiber Switch、industrial poe managed switch」）；Elsa 群发 BCC 已触达 5 轮 2025-04-11→2025-10-06（锚 To sofyan@mutiara-teknologi.com.my 5 轮 2025-04-11→2025-10-06；锚至少发到 2026-09-08，本户 2025-10-06 后不再在 Bcc（Elsa 剔出）；本户在 Bcc；主题 48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 全程 complete：命中 5 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
       "type": "—",
       "sieve": "1（只收到群发）",
       "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -90,7 +90,7 @@
     "next_move": {
       "when": "群发节奏",
       "channel": "A 邮箱",
-      "action": "观察打开",
+      "action": "首封前知悉：Elsa 群发 BCC 已触达 5 轮（2025-04-11→2025-10-06，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开",
       "one_question": "Faiza, the optical-bypass industrial switch you liked: 8 PoE + 4 SFP, L2+ managed, bypass holds the ring when the unit loses power — $194 EXW (non-PoE $179); I'll include the patch-cord/bypass wiring diagram you asked about. Which fibre type, SM LC?"
     },
     "facts": [
@@ -109,6 +109,51 @@
         "quote": "Industrial Fiber Switch、industrial poe managed switch",
         "why": "8 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-26（8 去 / 0 来）",
         "k": "gmail_digest"
+      },
+      {
+        "date": "2025-04-11",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19623a5f07b9a5bf"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "19699a96e93d4ea9"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "1973f4fbd2176398"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "197d44f5b17bb6b9"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+        "k": "elsa_bcc",
+        "msg_id": "199b7cd286b8997d"
       },
       {
         "date": "2026-10-21",

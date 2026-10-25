@@ -80,7 +80,7 @@
  "email_hook": "Preston, following your enquiry for a 5-port boost PoE switch: our compact DIN-rail 4-PoE + 1 GE industrial switch accepts 12–57 V DC input (for 12/24 V machinery) and delivers 802.3at on four ports, CE/RoHS, from single units, EXW USD — how many units, and what is the supply voltage on the machines?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「升压5口 / from: 阿里巴巴询盘」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「升压5口 / from: 阿里巴巴询盘」；Elsa 箱：`to:burnsprecisionag.com.au` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
    "type": "精准农业设备商（澳大利亚，车载低压 PoE 需求）",
    "sieve": "—（未入筛）",
    "stop": "从未触达",

@@ -63,7 +63,7 @@
  "site_mismatch": true,
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封休假自动回复；域名为北美 POS 公司，印度联系人待核）",
+   "level": "未触达（1 封休假自动回复；域名为北美 POS 公司，印度联系人待核；Elsa 箱：`to:infonet-tech.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 2 / 来 1）（第 74 批(n)））",
    "type": "Infonet（身份待核）",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",

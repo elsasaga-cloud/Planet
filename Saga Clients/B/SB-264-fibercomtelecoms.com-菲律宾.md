@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,23 +38,32 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-01→2026-08-06，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-264` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 2 封 2025，无记录打开，0 回；收件 inquiry@fibercomtelecoms.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「买了很多跳线 / 网站：SFP networking / 富通天下」；研究档 risks：亚太非主攻区；1 次跟进无回复；配件商利润薄
+- **绑定等级：未触达（A 邮箱 2 封 2025，无记录打开，0 回；收件 inquiry@fibercomtelecoms.com；主题多为「Mini Industrial PoE Switch、8 Port Industrial PoE Switch」）；Elsa 1:1 去信 9 轮 2025-05-01→2026-08-06（To 仅本户 inquiry@fibercomtelecoms.com；头 msg 19fd595eb27a9beb 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete，直收 9 条、无 Re: 行）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：2 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 2；用户表：「买了很多跳线 / 网站：SFP networking / 富通天下」；研究档 risks：亚太非主攻区；1 次跟进无回复；配件商利润薄
 - **现状一句话**：菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）
 - **断点 / 为什么停在这里**：亚太非主攻区；1 次跟进无回复；配件商利润薄
 - **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）；MC STI-110GE（$22.4）；管理型 STC-28GPM（$62.2）
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-01→2026-08-06，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-14 | 去 | A 群发 | Mini Industrial PoE Switch、8 Port Industrial PoE Switch | 2 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2025-03-14（2 去 / 0 来） | `gmail_digest` |
+| 2025-05-01 | out | Elsa → inquiry@fibercomtelecoms.com | 10G Media Converter（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-06-18 | out | Elsa → inquiry@fibercomtelecoms.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-10-09 | out | Elsa → inquiry@fibercomtelecoms.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-12-03 | out | Elsa → inquiry@fibercomtelecoms.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-01-07 | out | Elsa → inquiry@fibercomtelecoms.com | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 5/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-02-18 | out | Elsa → inquiry@fibercomtelecoms.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-03-24 | out | Elsa → inquiry@fibercomtelecoms.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-05-05 | out | Elsa → inquiry@fibercomtelecoms.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-08-06 | out | Elsa → inquiry@fibercomtelecoms.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文 Price: 170USD/PC） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 买了很多跳线 / 网站：SFP networking / 富通天下 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -253,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

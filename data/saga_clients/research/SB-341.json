@@ -1,131 +1,131 @@
 {
-  "code": "SB-341",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（palwintec.com，快照 2026-10-21）",
-  "summary": "以色列 Pal Wintec Systems（门禁、对讲（含无线对讲）与 IP 监视器安装商/网店；表内「1 需要云管理 2 基本不用 90W PoE，常规 af/at 用的多；2 个人，目的比较明确」；KP Efi Yosefian（VP），电话 972 52 6440704）；表内 6 次跟进无回复。",
-  "type": "门禁/对讲安装商（以色列，云管理需求）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：עמוד הבית - פאל ווינטק מערכות בע\"מ",
-      "quote": "המחירים המוצגים באתר זה הינם כוללים מע\"מ השירותים שלנו לעסקים, בתים ובניינים מערכות בקרת כניסה קרא עוד > התקנת מערכות אינטרקום קרא עוד > מערכת אינטרקום אלחוטית קרא עוד > קודן אינטרקום לבתים פרטיים קרא עוד > פאל ווינטק מערכות בע\"מ חברת פאל ו",
-      "url": "https://palwintec.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Pal Wintec 定位",
-      "quote": "עמוד הבית - פאל ווינטק מערכות בע\"מ ; מערכות בקרת כניסה ; התקנת מערכות אינטרקום",
-      "url": "https://palwintec.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "需要云管理；af/at 为主",
-      "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Efi Yosefian",
-      "title": "VP",
-      "email": "efi@palwintec.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-341",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（palwintec.com，快照 2026-10-21）",
+ "summary": "以色列 Pal Wintec Systems（门禁、对讲（含无线对讲）与 IP 监视器安装商/网店；表内「1 需要云管理 2 基本不用 90W PoE，常规 af/at 用的多；2 个人，目的比较明确」；KP Efi Yosefian（VP），电话 972 52 6440704）；表内 6 次跟进无回复。",
+ "type": "门禁/对讲安装商（以色列，云管理需求）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：עמוד הבית - פאל ווינטק מערכות בע\"מ",
+   "quote": "המחירים המוצגים באתר זה הינם כוללים מע\"מ השירותים שלנו לעסקים, בתים ובניינים מערכות בקרת כניסה קרא עוד > התקנת מערכות אינטרקום קרא עוד > מערכת אינטרקום אלחוטית קרא עוד > קודן אינטרקום לבתים פרטיים קרא עוד > פאל ווינטק מערכות בע\"מ חברת פאל ו",
+   "url": "https://palwintec.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "以色列",
-    "other": "官网 palwintec.com，语言 he-IL，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "门禁 / 对讲 / IP 监视器安装（以色列）"
-  ],
-  "channels": {
-    "role": "门禁/对讲安装商（以色列，云管理需求）",
-    "region": "以色列",
-    "contact": "efi@palwintec.com"
+  {
+   "kind": "官网快照",
+   "claim": "Pal Wintec 定位",
+   "quote": "עמוד הבית - פאל ווינטק מערכות בע\"מ ; מערכות בקרת כניסה ; התקנת מערכות אינטרקום",
+   "url": "https://palwintec.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：פאל ווינטק מערכות בע\"מ ; מערכות בקרת כניסה ; התקנת מערכות אינטרקום；页面 /en/ip-monitors-and-audio-products/",
-    "表内：1 需要云管理 2 基本不用 90W POE 常规 af/at 用的多；2 个人 目的比较明确；KP Efi Yosefian / VP"
-  ],
-  "risks": [
-    "云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）"
-  },
-  "email_hook": "Efi, following your notes on af/at PoE for intercom and access-control sites: our Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches are managed via local web/SNMP (no cloud portal) — would local management work for your installations, and which port count do you use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 efi@palwintec.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」）",
-      "type": "门禁/对讲安装商（以色列，云管理需求）",
-      "sieve": "1（只收到群发）",
-      "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "以色列 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 17；用户表：「1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704」；研究档 risks：云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复"
-    },
-    "situation": "以色列 Pal Wintec Systems（门禁、对讲（含无线对讲）与 IP 监视器安装商/网店；表内「1 需要云管理 2 基本不用 90W PoE，常规 af/at 用的多；2 个人，目的比较明确」；KP Efi Yosefian（VP），电话 972 52 6440704）；表内 6 次跟进无回复。",
-    "need": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）",
-    "breakpoint": "云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-      "why": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Efi, following your notes on af/at PoE for intercom and access-control sites: our Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches are managed via local web/SNMP (no cloud portal) — would local management work for your installations, and which port count do you use most?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
-        "why": "17 封 / 0 次打开 / 0 回｜首封 2025-05-21 → 末封 2026-10-07（17 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "需要云管理；af/at 为主",
+   "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Efi Yosefian",
+   "title": "VP",
+   "email": "efi@palwintec.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "以色列",
+  "other": "官网 palwintec.com，语言 he-IL，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "门禁 / 对讲 / IP 监视器安装（以色列）"
+ ],
+ "channels": {
+  "role": "门禁/对讲安装商（以色列，云管理需求）",
+  "region": "以色列",
+  "contact": "efi@palwintec.com"
+ },
+ "signals": [
+  "官网：פאל ווינטק מערכות בע\"מ ; מערכות בקרת כניסה ; התקנת מערכות אינטרקום；页面 /en/ip-monitors-and-audio-products/",
+  "表内：1 需要云管理 2 基本不用 90W POE 常规 af/at 用的多；2 个人 目的比较明确；KP Efi Yosefian / VP"
+ ],
+ "risks": [
+  "云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）"
+ },
+ "email_hook": "Efi, following your notes on af/at PoE for intercom and access-control sites: our Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches are managed via local web/SNMP (no cloud portal) — would local management work for your installations, and which port count do you use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 17 封 2025→2026，无记录打开，0 回；收件 efi@palwintec.com；主题多为「10G Enterprise SFP Switch、90W PoE Managed Switch」；Elsa 箱：`to:palwintec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 17 / 来 0）（第 74 批(n)））",
+   "type": "门禁/对讲安装商（以色列，云管理需求）",
+   "sieve": "1（只收到群发）",
+   "stop": "17 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "以色列 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 17；用户表：「1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704」；研究档 risks：云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复"
+  },
+  "situation": "以色列 Pal Wintec Systems（门禁、对讲（含无线对讲）与 IP 监视器安装商/网店；表内「1 需要云管理 2 基本不用 90W PoE，常规 af/at 用的多；2 个人，目的比较明确」；KP Efi Yosefian（VP），电话 972 52 6440704）；表内 6 次跟进无回复。",
+  "need": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）",
+  "breakpoint": "云管理需求 Saga 不做（仅本地 Web/SNMP，需确认可接受）；非主攻区（T5，以色列）；6 次无回复",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-23 $300（48 Port PoE Managed Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "af/at 常规 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；云管理 Saga 不做（本地 Web/SNMP）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Efi, following your notes on af/at PoE for intercom and access-control sites: our Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches are managed via local web/SNMP (no cloud portal) — would local management work for your installations, and which port count do you use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+    "why": "17 封 / 0 次打开 / 0 回｜首封 2025-05-21 → 末封 2026-10-07（17 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

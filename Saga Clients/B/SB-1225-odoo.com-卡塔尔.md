@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,12 +42,21 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1225` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（digest 计 12 封来信为 odoo.com 系统噪声；实际对 info@tamyeezsecurity.com 4 封群发 0 回）** ｜ 类型：卡塔尔安防集成（Tamyeez；Utepo 在用） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：QA ｜ 节奏：不动 ｜ 证据：digest noise（odoo.com）
+- **绑定等级：未触达（digest 计 12 封来信为 odoo.com 系统噪声；实际对 info@tamyeezsecurity.com 4 封群发 0 回）；Elsa 1:1 去信 6 轮 2025-12-03→2026-08-05（To 仅本户 info@tamyeezsecurity.com；头 msg 19fd14b48811e5d7 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete，直收 6 条、无 Re: 行）** ｜ 类型：卡塔尔安防集成（Tamyeez；Utepo 在用） ｜ 筛子：0 ｜ 停点：自动回复/机器人，无人工回复 ｜ 复活：不动 ｜ 通路：QA ｜ 节奏：不动 ｜ 证据：digest noise（odoo.com）
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch））———
 - **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-12-03 | out | Elsa → info@tamyeezsecurity.com | Booster PoE Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-01-01 | out | Elsa → info@tamyeezsecurity.com | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-02-16 | out | Elsa → info@tamyeezsecurity.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 3/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-03-23 | out | Elsa → info@tamyeezsecurity.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-05-04 | out | Elsa → info@tamyeezsecurity.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-08-05 | out | Elsa → info@tamyeezsecurity.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户；正文 Price: 170USD/PC） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -271,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

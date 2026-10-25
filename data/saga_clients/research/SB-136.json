@@ -73,7 +73,7 @@
  "country_fix": "黎巴嫩",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 egc@egc-lb.com；主题多为「10G L3 Managed Switch、24 Port PoE Managed Switch」）",
+   "level": "未触达（A/S 邮箱 22 封 2024→2026，无记录打开，0 回；收件 egc@egc-lb.com；主题多为「10G L3 Managed Switch、24 Port PoE Managed Switch」；Elsa 箱：`to:egc-lb.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 22 / 来 0）（第 74 批(n)））",
    "type": "—",
    "sieve": "1（只收到群发）",
    "stop": "22 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-141` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@comtec.com.vn；主题多为「10G Media Converter」）** ｜ 类型：经销商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：越南 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「SFP模块 / 从BTON买了很多 / 富通天下」；研究档 risks：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
+- **绑定等级：未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@comtec.com.vn；主题多为「10G Media Converter」；Elsa 箱：`to:comtec.com.vn` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））** ｜ 类型：经销商 ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：越南 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「SFP模块 / 从BTON买了很多 / 富通天下」；研究档 risks：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
 - **现状一句话**：河内电信设备与元器件批发商 COMTEC（1998-11-09 成立，25+ 年；长期为 Viettel、MobiFone、VNPT 供货；产品：电信电源、测试仪表（OTDR）、光模块、光缆配件、ADSS 挂件、熔接机、能源产品；总部 GoldSeason 47 Nguyễn Tuân（旧址 Duy Tân / Nguyễn Chí Thanh），胡志明分公司；+84 24 3773 4926；info@comtec.com.vn；副总经理 Cao Bá Duy）。用户表（富通天下外贸数据）：「从 BTON 买了很多」= 从同行大量进口（SFP 模块等），非 Saga 成交；群发无互动。运营商供应链批发商 → 分销 20%。
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32
 - **断点 / 为什么停在这里**：亚太非主攻区；已有稳定中国供应商（BTON）；SFP 不在价格表
@@ -255,12 +255,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

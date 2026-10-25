@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-038` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 5 封 2026，无记录打开，0 回；收件 rajaanand42@gmail.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：科威特 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful」；研究档 risks：gmail 联系、主体不可核
+- **绑定等级：未触达（A 邮箱 5 封 2026，无记录打开，0 回；收件 rajaanand42@gmail.com；主题多为「Industrial PoE Switch、10G L3 Managed Switch」；Elsa 箱：`to:rajaanand42@gmail.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(n)））** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：科威特 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；用户表：「兴趣：2光16电工业PoE 2014年使用国际站；回复：company info, price；useful」；研究档 risks：gmail 联系、主体不可核
 - **现状一句话**：科威特网络工程商（印度裔联系人 Anand Rajendiran），2014 年起用阿里国际站，需求 2 光 16 电工业 PoE；2025-07 对 24/48 口商用图回复 useful，2025-11 要公司信息与价格。表内被两份「欧洲」名单收录系误归（科威特）。
 - **对方真实需求（有据）**：2 光 16 电工业 PoE = Saga STI-21616GP（$170.4/177.5/184.6）精确对位。
 - **断点 / 为什么停在这里**：gmail 联系、主体不可核
@@ -258,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

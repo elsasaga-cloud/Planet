@@ -1,117 +1,117 @@
 {
-  "code": "SB-469",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。",
-  "type": "项目集成商（约旦，24 口管理 RFQ）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业24口管理 / from: 阿里巴巴RFQ",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 24 口管理 RFQ",
-      "quote": "商业24口管理 / from: 阿里巴巴RFQ",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Rateb Mahmoud",
-      "title": "Project Manager",
-      "email": "projects@keme-tec.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-469",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。",
+ "type": "项目集成商（约旦，24 口管理 RFQ）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业24口管理 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "约旦",
-    "other": "官网 keme-tec.com，语言 ?，快照状态 http_error；角色判定来源：待核"
-  },
-  "business_lines": [
-    "项目集成（约旦）"
-  ],
-  "channels": {
-    "role": "项目集成商（约旦，24 口管理 RFQ）",
-    "region": "约旦",
-    "contact": "projects@keme-tec.com、rab444rab@yahoo.com"
-  },
-  "signals": [
-    "表内：商业 24 口管理 / from: 阿里巴巴 RFQ；KP Rateb Mahmoud, project manager；projects@keme-tec.com / rab444rab@yahoo.com",
-    "快照：http_error"
-  ],
-  "risks": [
-    "非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 25,
-    "why": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效"
-  },
-  "email_hook": "Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 projects@keme-tec.com, rab444rab@yahoo.com；主题多为「24 Port Fiber Switch」）",
-      "type": "项目集成商（约旦，24 口管理 RFQ）",
-      "sieve": "1（只收到群发）",
-      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "约旦 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 1；用户表：「商业24口管理 / from: 阿里巴巴RFQ」；研究档 risks：非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过"
-    },
-    "situation": "约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。",
-    "need": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效",
-    "breakpoint": "非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $240（24 Port Fiber Switch）",
-      "why": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?"
-    },
-    "facts": [
-      {
-        "date": "2024-12-10",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "24 Port Fiber Switch",
-        "why": "1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "商业24口管理 / from: 阿里巴巴RFQ",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业 24 口管理 RFQ",
+   "quote": "商业24口管理 / from: 阿里巴巴RFQ",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Rateb Mahmoud",
+   "title": "Project Manager",
+   "email": "projects@keme-tec.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "约旦",
+  "other": "官网 keme-tec.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+ },
+ "business_lines": [
+  "项目集成（约旦）"
+ ],
+ "channels": {
+  "role": "项目集成商（约旦，24 口管理 RFQ）",
+  "region": "约旦",
+  "contact": "projects@keme-tec.com、rab444rab@yahoo.com"
+ },
+ "signals": [
+  "表内：商业 24 口管理 / from: 阿里巴巴 RFQ；KP Rateb Mahmoud, project manager；projects@keme-tec.com / rab444rab@yahoo.com",
+  "快照：http_error"
+ ],
+ "risks": [
+  "非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效"
+ },
+ "email_hook": "Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 projects@keme-tec.com, rab444rab@yahoo.com；主题多为「24 Port Fiber Switch」；Elsa 箱：`to:keme-tec.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 1 / 来 0）（第 74 批(n)））",
+   "type": "项目集成商（约旦，24 口管理 RFQ）",
+   "sieve": "1（只收到群发）",
+   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "约旦 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「商业24口管理 / from: 阿里巴巴RFQ」；研究档 risks：非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过"
+  },
+  "situation": "约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。",
+  "need": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效",
+  "breakpoint": "非主攻区（T5，约旦）；官网 http_error；RFQ 时效待核；未跟进过",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $240（24 Port Fiber Switch）",
+   "why": "RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?"
+  },
+  "facts": [
+   {
+    "date": "2024-12-10",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "24 Port Fiber Switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "商业24口管理 / from: 阿里巴巴RFQ",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

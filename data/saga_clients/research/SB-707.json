@@ -1,125 +1,125 @@
 {
-  "code": "SB-707",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（hstn.co.th，快照 2026-10-21）",
-  "summary": "泰国 Hi Solution of Technology Network Co., Ltd.（HSTN：网络基础设施、光纤 GPON/FTTx、WiFi、MATV/SMATV/CATV、IPTV、数字标牌、酒店 Head-End、CCTV、门禁；站内 Cisco 24 口智能交换机产品页；表内「Switches」）；表内未跟进。",
-  "type": "网络/酒店系统集成分销商（泰国）",
-  "size": "",
-  "brands_seen": [
-    "Cisco"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "งานระบบ Internet Network​ Digital TV IPTV MATV Signage OLED TV Hospitality Head-End ดิจิตอลทีวี ไอพีทีวี",
-      "url": "https://www.hstn.co.th/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "Switches",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "HSTN 页面",
-      "quote": "Network Infrastructure Fiber Optic GPON FTTx ; /product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp",
-      "url": "https://www.hstn.co.th/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Switches",
-      "quote": "Switches",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-707",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（hstn.co.th，快照 2026-10-21）",
+ "summary": "泰国 Hi Solution of Technology Network Co., Ltd.（HSTN：网络基础设施、光纤 GPON/FTTx、WiFi、MATV/SMATV/CATV、IPTV、数字标牌、酒店 Head-End、CCTV、门禁；站内 Cisco 24 口智能交换机产品页；表内「Switches」）；表内未跟进。",
+ "type": "网络/酒店系统集成分销商（泰国）",
+ "size": "",
+ "brands_seen": [
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "งานระบบ Internet Network​ Digital TV IPTV MATV Signage OLED TV Hospitality Head-End ดิจิตอลทีวี ไอพีทีวี",
+   "url": "https://www.hstn.co.th/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "泰国",
-    "other": "官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Switches",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络基础设施 / 酒店 IPTV / MATV / CCTV 集成（泰国）"
-  ],
-  "channels": {
-    "role": "网络/酒店系统集成分销商（泰国）",
-    "region": "泰国",
-    "contact": "info@hstn.co.th、rungruengh@hstn.co.th"
+  {
+   "kind": "官网快照",
+   "claim": "HSTN 页面",
+   "quote": "Network Infrastructure Fiber Optic GPON FTTx ; /product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp",
+   "url": "https://www.hstn.co.th/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด ; Network Infrastructure Fiber Optic GPON FTTx ; MATV SMATV CATV Systems；页面 /product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp；kw fiber 98 / wifi 60 / cctv 37",
-    "表内：Switches"
-  ],
-  "risks": [
-    "非主攻区（T5，泰国）；Cisco 生态（品牌粘性）；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 25,
-    "why": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV"
-  },
-  "email_hook": "For the access switches in your hospitality IPTV, WiFi and CCTV installations, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 8-PoE + 2 SFP L2+ models (IGMP snooping for IPTV) from single units, CE/RoHS, EXW USD — which switch position do your hotel projects use most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 9 封 2026，1 次记录打开，0 回；收件 info@hstn.co.th, khomkits@hstn.co.th；主题多为「OEM Core Switching Solution、Updated Ethernet Switches Links」）",
-      "type": "网络/酒店系统集成分销商（泰国）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "泰国 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「Switches」；研究档 risks：非主攻区（T5，泰国）；Cisco 生态（品牌粘性）；未跟进过"
-    },
-    "situation": "泰国 Hi Solution of Technology Network Co., Ltd.（HSTN：网络基础设施、光纤 GPON/FTTx、WiFi、MATV/SMATV/CATV、IPTV、数字标牌、酒店 Head-End、CCTV、门禁；站内 Cisco 24 口智能交换机产品页；表内「Switches」）；表内未跟进。",
-    "need": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV",
-    "breakpoint": "非主攻区（T5，泰国）；Cisco 生态（品牌粘性）；未跟进过",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-      "why": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV。已打开的主题（1/9 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the access switches in your hospitality IPTV, WiFi and CCTV installations, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 8-PoE + 2 SFP L2+ models (IGMP snooping for IPTV) from single units, CE/RoHS, EXW USD — which switch position do your hotel projects use most?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "OEM Core Switching Solution、Updated Ethernet Switches Links",
-        "why": "9 封 / 1 次打开 / 0 回｜首封 2026-01-21 → 末封 2026-09-24（9 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Switches",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Switches",
+   "quote": "Switches",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "网络基础设施 / 酒店 IPTV / MATV / CCTV 集成（泰国）"
+ ],
+ "channels": {
+  "role": "网络/酒店系统集成分销商（泰国）",
+  "region": "泰国",
+  "contact": "info@hstn.co.th、rungruengh@hstn.co.th"
+ },
+ "signals": [
+  "官网：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด ; Network Infrastructure Fiber Optic GPON FTTx ; MATV SMATV CATV Systems；页面 /product/26746-19840/cisco-gigabit-smart-switch-24101001000-2gig-combo-sfp；kw fiber 98 / wifi 60 / cctv 37",
+  "表内：Switches"
+ ],
+ "risks": [
+  "非主攻区（T5，泰国）；Cisco 生态（品牌粘性）；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV"
+ },
+ "email_hook": "For the access switches in your hospitality IPTV, WiFi and CCTV installations, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 8-PoE + 2 SFP L2+ models (IGMP snooping for IPTV) from single units, CE/RoHS, EXW USD — which switch position do your hotel projects use most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 9 封 2026，1 次记录打开，0 回；收件 info@hstn.co.th, khomkits@hstn.co.th；主题多为「OEM Core Switching Solution、Updated Ethernet Switches Links」；Elsa 箱：`to:hstn.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 9 / 来 0）（第 74 批(n)））",
+   "type": "网络/酒店系统集成分销商（泰国）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "9 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "泰国 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「Switches」；研究档 risks：非主攻区（T5，泰国）；Cisco 生态（品牌粘性）；未跟进过"
+  },
+  "situation": "泰国 Hi Solution of Technology Network Co., Ltd.（HSTN：网络基础设施、光纤 GPON/FTTx、WiFi、MATV/SMATV/CATV、IPTV、数字标牌、酒店 Head-End、CCTV、门禁；站内 Cisco 24 口智能交换机产品页；表内「Switches」）；表内未跟进。",
+  "need": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV",
+  "breakpoint": "非主攻区（T5，泰国）；Cisco 生态（品牌粘性）；未跟进过",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
+   "why": "Cisco 24 口智能交换机位 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、24 口 PoE STC-424DGGPM-280W（$140.1）、8 口 STC-28DGGPM（$84.1）用于 IPTV/WiFi/CCTV。已打开的主题（1/9 封有打开记录）：「Marvell Managed Commercial Switches」(2026-03-16) → 读者兴趣主题类别不明（看原主题）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the access switches in your hospitality IPTV, WiFi and CCTV installations, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 8-PoE + 2 SFP L2+ models (IGMP snooping for IPTV) from single units, CE/RoHS, EXW USD — which switch position do your hotel projects use most?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "OEM Core Switching Solution、Updated Ethernet Switches Links",
+    "why": "9 封 / 1 次打开 / 0 回｜首封 2026-01-21 → 末封 2026-09-24（9 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Switches",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

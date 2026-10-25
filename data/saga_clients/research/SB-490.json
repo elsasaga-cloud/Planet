@@ -59,7 +59,7 @@
  "email_hook": "Богдан, вы спрашивали на MIPS про промышленные оптические коммутаторы и SFP: DIN-rail 8 GbE + 2 SFP без PoE — 48,6 USD EXW, с PoE+ — 59,8 USD, −40/+75 °C; SFP подберём по дальности. Для какого объекта и в каком количестве?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 4 封 2024→2026，无记录打开，0 回；收件 b.medvedev11@mail.ru；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」）",
+   "level": "未触达（A/S 邮箱 4 封 2024→2026，无记录打开，0 回；收件 b.medvedev11@mail.ru；主题多为「Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch」；Elsa 箱：`to:b.medvedev11@mail.ru` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 4 / 来 0）（第 74 批(n)））",
    "type": "—",
    "sieve": "1（只收到群发）",
    "stop": "4 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",

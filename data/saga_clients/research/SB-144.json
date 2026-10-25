@@ -69,7 +69,7 @@
   "email_hook": "Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price.",
   "mail_review": {
     "binding": {
-      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 chris@deonet.co.kr, info@deonet.co.kr；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）",
+      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 chris@deonet.co.kr, info@deonet.co.kr；被打开主题「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 1:1 去信 1 封（2025-02-14「Industrial PoE Switch」；To 仅本户 chris@deonet.co.kr / info@deonet.co.kr；头 msg 19501f83b8ad64e4 核对无 Bcc，称呼「Hi, Chris」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:deonet.co.kr` 仅此 1 条，complete）（第 74 批(n)）",
       "type": "—",
       "sieve": "2（有人在读，无人回）",
       "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -92,10 +92,19 @@
     "next_move": {
       "when": "2026-11",
       "channel": "A 邮箱 → chris@deonet.co.kr",
-      "action": "短信一问（email_hook）",
+      "action": "首封前知悉：Elsa 仅 2025-02-14 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(n)）；短信一问（email_hook）",
       "one_question": "Chris, you asked which chipset — our managed PoE line is Marvell (L2+), the industrial line Marvell/Realtek depending on model; if Deonet needs a labelled 8-PoE + 2-SFP under your SM- numbering, I can send the spec and a sample price. Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
+      {
+        "date": "2025-02-14",
+        "dir": "out",
+        "who": "Elsa → chris@deonet.co.kr, info@deonet.co.kr",
+        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 1/1 轮；To 仅本户）",
+        "why": "第 74 批(n) `from:e.sagatelecom to:deonet.co.kr` 全程 complete：1 轮直收（头 msg 19501f83b8ad64e4 无 Bcc，称呼「Hi, Chris」）；0 回",
+        "k": "elsa_1to1",
+        "msg_id": "19501f83b8ad64e4"
+      },
       {
         "date": "2026-09-28",
         "dir": "去",

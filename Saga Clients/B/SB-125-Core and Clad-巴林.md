@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,23 +38,32 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch）
 - **第一问（只问一个）**：Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-03→2026-08-06，0 回）（第 74 批(n)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-125` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 12 封 2024→2025，1 次记录打开，0 回；收件 core.and.clad@gmail.com；主题多为「industrial poe switch、16 Port Ethernet Switch」）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：巴林 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011」；研究档 risks：中东非主攻区；Gmail；2011 后无互动
+- **绑定等级：未触达（A/S 邮箱 12 封 2024→2025，1 次记录打开，0 回；收件 core.and.clad@gmail.com；主题多为「industrial poe switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 9 轮 2025-05-03→2026-08-06（To 仅本户 core.and.clad@gmail.com；头 msg 19fd5ccdb2ef1199 核对无 Bcc，称呼「Hi, Mr. Ebrahim」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete，直收 9 条、无 Re: 行）** ｜ 类型：— ｜ 筛子：1~2（1 次打开） ｜ 停点：12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：巴林 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011」；研究档 risks：中东非主攻区；Gmail；2011 后无互动
 - **现状一句话**：用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。
 - **对方真实需求（有据）**：默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）
 - **断点 / 为什么停在这里**：中东非主攻区；Gmail；2011 后无互动
 - **Saga 现在该推什么**：P1 **STI-110GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch））——默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-03→2026-08-06，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-03 | 去 | A/S 群发 | industrial poe switch、16 Port Ethernet Switch | 12 封 / 1 次打开 / 0 回｜首封 2024-06-16 → 末封 2025-04-03（12 去 / 0 来） | `gmail_digest` |
+| 2025-05-03 | out | Elsa → core.and.clad@gmail.com | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2025-06-27 | out | Elsa → core.and.clad@gmail.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2025-10-08 | out | Elsa → core.and.clad@gmail.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2025-12-02 | out | Elsa → core.and.clad@gmail.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2026-01-06 | out | Elsa → core.and.clad@gmail.com | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 5/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2026-02-17 | out | Elsa → core.and.clad@gmail.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2026-03-24 | out | Elsa → core.and.clad@gmail.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2026-05-05 | out | Elsa → core.and.clad@gmail.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
+| 2026-08-06 | out | Elsa → core.and.clad@gmail.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -239,12 +248,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

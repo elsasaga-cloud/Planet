@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-928` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01** ｜ 类型：印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商 ｜ 筛子：2 ｜ 停点：转 WhatsApp 后仓库失明 ｜ 复活：不动（印度非主攻） ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=dd23844381a28569
+- **绑定等级：轻度触达（7 封来信中 6 封是 Syrotech 工单自动回复；1 封实质：2024-10-24 Pankaj Sodhi「Semi manage or manage? Kindly share Price… WhatsApp +91-9818989801」；后续在 WhatsApp 与否未知）；退信：pankaj@syrotech.com 2024-07-03、sachin.verma@goip.in 2026-09-01；Elsa 1:1 去信 5 轮 2025-10-14→2026-08-10（To 仅本户 info@goip.in / naman.gupta@goip.in（按地址：info@goip.in 3 轮 / naman.gupta@goip.in 2 轮）；头 msg 19feaaf89986d63f 核对无 Bcc，称呼「Hi, Naman」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 OEM Core Switching Solution、DWDM Core Switching Solution、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户））（第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete，直收 5 条、无 Re: 行）** ｜ 类型：印度光网络品牌商（GOIP / Syrotech，诺伊达；Pankaj = 采购）——第一档品牌商 ｜ 筛子：2 ｜ 停点：转 WhatsApp 后仓库失明 ｜ 复活：不动（印度非主攻） ｜ 通路：IN 非主攻 ｜ 节奏：不动 ｜ 证据：k=dd23844381a28569
 - **现状一句话**：—
 - **对方真实需求（有据）**：8 口 2.5G + 10G 上联。
 - **断点 / 为什么停在这里**：—
@@ -57,6 +57,11 @@ updated: 2026-10-24
 | 2024-07-03 | 内 | Gmail 退信（S 邮箱） | pankaj@syrotech.com 邮箱满（暂时性）：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded | 该地址当时收不到信，之后若无再发成功记录就别再往这个地址发 | `gmail_s a739df251b28f025` |
 | 2024-07-03 | 内 | Gmail 退信（S 邮箱） | pankaj@syrotech.com 退信：550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_s a739df251b28f025` |
 | 2024-10-24 | 来 | Pankaj Sodhi | Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect. | 要价 + 转 WA | `dd23844381a28569` |
+| 2025-10-14 | out | Elsa → info@goip.in | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回 | `elsa_1to1` |
+| 2026-01-08 | out | Elsa → info@goip.in | OEM Core Switching Solution（Elsa 1:1 逐月名单第 2/5 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回 | `elsa_1to1` |
+| 2026-02-13 | out | Elsa → naman.gupta@goip.in | DWDM Core Switching Solution（Elsa 1:1 逐月名单第 3/5 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回 | `elsa_1to1` |
+| 2026-03-31 | out | Elsa → info@goip.in | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 4/5 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回 | `elsa_1to1` |
+| 2026-08-10 | out | Elsa → naman.gupta@goip.in | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 5/5 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回 | `elsa_1to1` |
 | 2026-09-01 | 内 | Gmail 退信（A 邮箱） | sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 0de6557f58082926` |
 | 2026-09-01 | 内 | Gmail 退信（A 邮箱） | sachin.verma@goip.in 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 0de6557f58082926` |
 
@@ -320,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

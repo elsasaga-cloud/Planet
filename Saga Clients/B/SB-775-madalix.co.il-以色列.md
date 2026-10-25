@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-775` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 daniel@madalix.co.il, info@madalix.co.il；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：工业计算分销商（以色列，工业 FS 现 Maiwe） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：以色列 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 有迈威的」；研究档 risks：非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触
+- **绑定等级：读而不回（A/S 邮箱 24 封 2024→2026，其中 2 封被打开，0 回；收件 daniel@madalix.co.il, info@madalix.co.il；被打开主题「Marvell Industrial Alert System、10G Enterprise SFP Switch」；Elsa 箱：`to:madalix.co.il` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 24 / 来 0）（第 74 批(n)））** ｜ 类型：工业计算分销商（以色列，工业 FS 现 Maiwe） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：以色列 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 24，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 有迈威的」；研究档 risks：非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触
 - **现状一句话**：以色列 Madalix Ltd（工业计算方案供应商：工业 PC、无风扇 PC、面板 PC、工业触摸显示器；表内「工业 FS 有迈威（Maiwe）的」「可以尝试多跟进一下」；KP Daniel（2024.3.14 联系））；群发 14 次无回复。
 - **对方真实需求（有据）**：工业 FS（现 Maiwe）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、5 GE STI-050GE（$17.0）
 - **断点 / 为什么停在这里**：非主攻区（T5，以色列）；现供 Maiwe（价格基准低）；14 次无回复 → 改向 Daniel 具名首触
@@ -302,12 +302,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

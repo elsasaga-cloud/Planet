@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,28 +38,40 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → chirag.s@a-ites.com（Chirag Shah） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → chirag.s@a-ites.com（Chirag Shah） 首封前知悉：Elsa 群发 BCC 已触达 12 轮（2025-03-12→2026-08-14，锚 To virtual_eye@hotmail.com / panaji@gmail.com，0 回）（第 74 批(n)）；首封：按 email_hook 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-136` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 」）** ｜ 类型：安防集成/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达；manish.m@/chirag.s@a-ites.com 2025-03/04 退信，邮箱失效 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26」；研究档 risks：印度政府/国道局招标多有本地化与认证要求（按单评估）
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 」）；Elsa 群发 BCC 已触达 12 轮 2025-03-12→2026-08-14（锚 To virtual_eye@hotmail.com 2 轮 2025-03-12→2025-04-21；锚 To panaji@gmail.com 10 轮 2025-05-18→2026-08-14；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未发信」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:a-ites.com` 全程 complete：命中 12 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）** ｜ 类型：安防集成/经销商 ｜ 筛子：—（未入筛） ｜ 停点：从未触达；manish.m@/chirag.s@a-ites.com 2025-03/04 退信，邮箱失效 ｜ 复活：首封（具名 KP 优先，用研究档 email_hook） ｜ 通路：IN 次级（点名） ｜ 节奏：首封后看打开 ｜ 证据：gmail_digest：out 0；用户表：「Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26」；研究档 risks：印度政府/国道局招标多有本地化与认证要求（按单评估）
 - **现状一句话**：印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复
 - **对方真实需求（有据）**：「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核
 - **断点 / 为什么停在这里**：印度政府/国道局招标多有本地化与认证要求（按单评估）
 - **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → chirag.s@a-ites.com（Chirag Shah）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → chirag.s@a-ites.com（Chirag Shah）　首封前知悉：Elsa 群发 BCC 已触达 12 轮（2025-03-12→2026-08-14，锚 To virtual_eye@hotmail.com / panaji@gmail.com，0 回）（第 74 批(n)）；首封：按 email_hook 一问
   - 第一问（只问一个）：You said your roadside cabinets only need 4- and 8-port industrial switches with L2/web management — the 8-port PoE+ 2 SFP managed DIN unit is $79–86 EXW; shall I send its surge/temperature specs for your ATMS tenders?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「132 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com 印度 Manan Bhavsar 之前的跟进 bypass 管理POE等 manan@a-ites.com 91 9825095206 已加 #209, Akshar Stadia, Opp. Symphony Ltd. Bodakdev, Ahmedabad-380054, India」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2023-12-13 | 备 | Saga 内部印度旁路/光开关线索表 Bypass_client_list.xlsx（Rishi 文件夹） | 名单行：「8 Aarya ITES Pvt. Ltd. www.a-ites.com www.ekawach.com India Manan Bhavsar bypass managed switch manan@a-ites.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期，按同文件夹 List_2023.12.13 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
+| 2025-03-12 | 去 | Elsa 群发（BCC；To virtual_eye@hotmail.com） | 10G Media Converter（Elsa 群发第 1/12 轮；本户在 Bcc，锚 To virtual_eye@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=virtual_eye@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-04-21 | 来 | postmaster@a-ites.com | Your message to manish.m@a-ites.com couldn't be delivered. manish.m wasn't found at a-ites.com（chirag.s@ 同样；2025-03-12 与 2025-04-21 两次） | Elsa 邮箱退信（第 21 批连接器抽查）：两个具名邮箱已失效 → 该户目前没有可用邮箱 | `gmail_e:19657787c93c8d51` |
+| 2025-04-21 | 去 | Elsa 群发（BCC；To virtual_eye@hotmail.com） | Mini Industrial PoE Switch（Elsa 群发第 2/12 轮；本户在 Bcc，锚 To virtual_eye@hotmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=virtual_eye@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-18 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | Commercial PoE Switch（Elsa 群发第 3/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-06-17 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | 10G Media Converter（Elsa 群发第 4/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-07-17 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | 48 Port PoE Managed Switch（Elsa 群发第 5/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-08-17 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | Mini Industrial PoE Switch（Elsa 群发第 6/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-09-30 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | 10G Enterprise SFP Switch（Elsa 群发第 7/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-11-03 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | Industrial PoE Switch（Elsa 群发第 8/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-01-15 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | OEM Core Switching Solution（Elsa 群发第 9/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-04-09 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | Marvell Managed Commercial Switches（Elsa 群发第 10/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-05-14 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | 10G Enterprise SFP Switch（Elsa 群发第 11/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-08-14 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | 24 Port PoE Managed Switch（Elsa 群发第 12/12 轮；本户在 Bcc，锚 To panaji@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 12 轮见 facts；S/A 箱无往来）；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -299,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

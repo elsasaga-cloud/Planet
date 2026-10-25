@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1334` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定→已冷（一单 $260 清洁笔 2023-10-09；2023-09-20 Rishi 来信要「authorised distributorship certificate」；PI 包「gg」；之后无往来）** ｜ 类型：德里经销/贸易（Fastball，Rishi Kumar Bansal）——想做「印度授权分销」的贸易商 ｜ 筛子：5（一次 $260 付款）但品类是光纤清洁笔，不是交换机 ｜ 停点：2023-09 要授权分销证书（Saga 不签区域授权——INH 规则：不做总代/授权）；之后只成交了一单耗材 ｜ 复活：不投入 ｜ 通路：IN ｜ 节奏：不动 ｜ 证据：k=edee4186a39f51b9（2023-09-20 来信）；PI STSC20231009002（Cleaner Pen 1.25mm ×40 + 2.5mm ×40 @2.6 + 运费 52 = $260）
+- **绑定等级：轻度绑定→已冷（一单 $260 清洁笔 2023-10-09；2023-09-20 Rishi 来信要「authorised distributorship certificate」；PI 包「gg」；之后无往来；Elsa 箱：`to:fastball.in` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））** ｜ 类型：德里经销/贸易（Fastball，Rishi Kumar Bansal）——想做「印度授权分销」的贸易商 ｜ 筛子：5（一次 $260 付款）但品类是光纤清洁笔，不是交换机 ｜ 停点：2023-09 要授权分销证书（Saga 不签区域授权——INH 规则：不做总代/授权）；之后只成交了一单耗材 ｜ 复活：不投入 ｜ 通路：IN ｜ 节奏：不动 ｜ 证据：k=edee4186a39f51b9（2023-09-20 来信）；PI STSC20231009002（Cleaner Pen 1.25mm ×40 + 2.5mm ×40 @2.6 + 运费 52 = $260）
 - **现状一句话**：Rishi 2023-09 写来一封「正式确认拿下印度市场，请出具授权分销证书」的信；Saga 没有签。10 月他买了 80 支光纤清洁笔。此后两年无往来。
 - **对方真实需求（有据）**：授权分销身份（而非产品）。
 - **断点 / 为什么停在这里**：授权诉求 vs Saga 不做区域授权。
@@ -259,12 +259,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 77）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

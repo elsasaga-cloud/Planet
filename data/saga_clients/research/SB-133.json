@@ -1,164 +1,164 @@
 {
-  "code": "SB-133",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（sysnetcenter.com，快照 2026-10-21）",
-  "summary": "泰国曼谷网络设备经销/安装商 Sysnet Center（官网泰语：销售安装网络设备 10 年以上，Wireless / Router / Switch / IP Camera / VoIP / Fiber；首页陈列 TP-Link Omada ES210X-M2 2.5G、Reyee RG-ES210GS-P 8 口 PoE、Ruijie RG-NIS3100 工业 PoE、UniFi U7；站内 Cisco / MikroTik / Zyxel / Netgear；表内「大口FS」= 大口数交换机需求）；表内仅 1 次跟进。",
-  "type": "网络设备电商/经销 + 安装（多品牌）",
-  "size": "",
-  "brands_seen": [
-    "Ruijie",
-    "TP-Link",
-    "Hikvision",
-    "Huawei",
-    "Ubiquiti",
-    "D-Link",
-    "Cisco",
-    "Uniview",
-    "MikroTik",
-    "Dahua",
-    "Netgear",
-    "Zyxel"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Sysnet Center จำหน่าย ติดตั้ง ระบบเครือข่าย อุปกรณ์ Network；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "จำหน่าย ติดตั้ง อุปกรณ์ Network มากกว่า 10 ปี พร้อมทีมงานเชี่ยวชาญ Wireless, Router, Switch, IP Camera, VOIP, VPN, ระบบ Lan, Fiber optic",
-      "url": "https://sysnetcenter.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "大口FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "泰语官网：销售安装网络设备 10 年以上，Wireless/Router/Switch/IP Camera/VoIP/Fiber",
-      "quote": "จำหน่าย ติดตั้ง อุปกรณ์ Network มากกว่า 10 ปี … Wireless, Router, Switch, IP Camera, VOIP, VPN, ระบบ Lan, Fiber optic",
-      "url": "https://sysnetcenter.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "大口数交换机需求",
-      "quote": "兴趣：大口FS",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-133",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（sysnetcenter.com，快照 2026-10-21）",
+ "summary": "泰国曼谷网络设备经销/安装商 Sysnet Center（官网泰语：销售安装网络设备 10 年以上，Wireless / Router / Switch / IP Camera / VoIP / Fiber；首页陈列 TP-Link Omada ES210X-M2 2.5G、Reyee RG-ES210GS-P 8 口 PoE、Ruijie RG-NIS3100 工业 PoE、UniFi U7；站内 Cisco / MikroTik / Zyxel / Netgear；表内「大口FS」= 大口数交换机需求）；表内仅 1 次跟进。",
+ "type": "网络设备电商/经销 + 安装（多品牌）",
+ "size": "",
+ "brands_seen": [
+  "Ruijie",
+  "TP-Link",
+  "Hikvision",
+  "Huawei",
+  "Ubiquiti",
+  "D-Link",
+  "Cisco",
+  "Uniview",
+  "MikroTik",
+  "Dahua",
+  "Netgear",
+  "Zyxel"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Sysnet Center จำหน่าย ติดตั้ง ระบบเครือข่าย อุปกรณ์ Network；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "จำหน่าย ติดตั้ง อุปกรณ์ Network มากกว่า 10 ปี พร้อมทีมงานเชี่ยวชาญ Wireless, Router, Switch, IP Camera, VOIP, VPN, ระบบ Lan, Fiber optic",
+   "url": "https://sysnetcenter.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "泰国",
-    "other": "官网 sysnetcenter.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "大口FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络设备零售/经销（Switch / Wireless / Router）",
-    "IP Camera / VoIP / 光纤布线安装"
-  ],
-  "channels": {
-    "role": "网络设备电商/经销 + 安装（多品牌）",
-    "region": "泰国",
-    "contact": "info@sysnetcenter.com"
+  {
+   "kind": "官网快照",
+   "claim": "泰语官网：销售安装网络设备 10 年以上，Wireless/Router/Switch/IP Camera/VoIP/Fiber",
+   "quote": "จำหน่าย ติดตั้ง อุปกรณ์ Network มากกว่า 10 ปี … Wireless, Router, Switch, IP Camera, VOIP, VPN, ระบบ Lan, Fiber optic",
+   "url": "https://sysnetcenter.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页陈列 Ruijie RG-NIS3100-4GT2SFP-HP 工业 PoE、RG-CS83/CS85、Zyxel GS1300 → 同口型直接对位",
-    "站内 LINE 官方账号 @sysnet（泰国本地触达通道）"
-  ],
-  "risks": [
-    "泰国价格敏感、多品牌电商：Saga 为又一白牌；非主攻区（T5）低频跟进",
-    "2.5G 多千兆口位（Omada ES210X）Saga 无标准型"
-  ],
-  "saga_fit": {
-    "p1": "STC-448XGGPM",
-    "tier": 20,
-    "why": "表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）"
-  },
-  "email_hook": "Alongside the Reyee and Omada PoE units you list, we supply Marvell-based 48-port PoE+ L2+ switches with 4×10G SFP+ uplinks and the 24-port version from small lots (neutral packing, CE/RoHS/FCC) — for your high-port-count demand, is PoE or non-PoE 48-port the bigger mover?",
-  "products_seen": [
-    {
-      "brand": "Ruijie/Reyee",
-      "model": "RG-ES210GS-P",
-      "spec": "8 口千兆 PoE 120W + SFP combo 云管理",
-      "saga": "STC-28DGGPM",
-      "url": "https://sysnetcenter.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "TP-Link",
-      "model": "ES210X-M2",
-      "spec": "Omada 8 口 2.5G 易管理 + SFP+",
-      "saga": "（无标准对应，待核）",
-      "url": "https://sysnetcenter.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Ruijie",
-      "model": "RG-NIS3100-4GT2SFP-HP",
-      "spec": "工业 4 PoE + 2 SFP",
-      "saga": "STI-244GP",
-      "url": "https://sysnetcenter.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@sysnetcenter.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」）",
-      "type": "网络设备电商/经销 + 安装（多品牌）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "泰国 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 12；用户表：「大口FS」；研究档 risks：泰国价格敏感、多品牌电商：Saga 为又一白牌；非主攻区（T5）低频跟进"
-    },
-    "situation": "泰国曼谷网络设备经销/安装商 Sysnet Center（官网泰语：销售安装网络设备 10 年以上，Wireless / Router / Switch / IP Camera / VoIP / Fiber；首页陈列 TP-Link Omada ES210X-M2 2.5G、Reyee RG-ES210GS-P 8 口 PoE、Ruijie RG-NIS3100 工业 PoE、UniFi U7；站内 Cisco / MikroTik / Zyxel / Netgear；表内「大口FS」= 大口数交换机需求）；表内仅 1 次跟进。",
-    "need": "表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）",
-    "breakpoint": "泰国价格敏感、多品牌电商：Saga 为又一白牌；非主攻区（T5）低频跟进",
-    "saga_now": {
-      "p1": "STC-448XGGPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
-      "why": "表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Alongside the Reyee and Omada PoE units you list, we supply Marvell-based 48-port PoE+ L2+ switches with 4×10G SFP+ uplinks and the 24-port version from small lots (neutral packing, CE/RoHS/FCC) — for your high-port-count demand, is PoE or non-PoE 48-port the bigger mover?"
-    },
-    "facts": [
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
-        "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-13 → 末封 2026-09-24（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "大口FS",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "大口数交换机需求",
+   "quote": "兴趣：大口FS",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "泰国",
+  "other": "官网 sysnetcenter.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+ },
+ "business_lines": [
+  "网络设备零售/经销（Switch / Wireless / Router）",
+  "IP Camera / VoIP / 光纤布线安装"
+ ],
+ "channels": {
+  "role": "网络设备电商/经销 + 安装（多品牌）",
+  "region": "泰国",
+  "contact": "info@sysnetcenter.com"
+ },
+ "signals": [
+  "首页陈列 Ruijie RG-NIS3100-4GT2SFP-HP 工业 PoE、RG-CS83/CS85、Zyxel GS1300 → 同口型直接对位",
+  "站内 LINE 官方账号 @sysnet（泰国本地触达通道）"
+ ],
+ "risks": [
+  "泰国价格敏感、多品牌电商：Saga 为又一白牌；非主攻区（T5）低频跟进",
+  "2.5G 多千兆口位（Omada ES210X）Saga 无标准型"
+ ],
+ "saga_fit": {
+  "p1": "STC-448XGGPM",
+  "tier": 20,
+  "why": "表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）"
+ },
+ "email_hook": "Alongside the Reyee and Omada PoE units you list, we supply Marvell-based 48-port PoE+ L2+ switches with 4×10G SFP+ uplinks and the 24-port version from small lots (neutral packing, CE/RoHS/FCC) — for your high-port-count demand, is PoE or non-PoE 48-port the bigger mover?",
+ "products_seen": [
+  {
+   "brand": "Ruijie/Reyee",
+   "model": "RG-ES210GS-P",
+   "spec": "8 口千兆 PoE 120W + SFP combo 云管理",
+   "saga": "STC-28DGGPM",
+   "url": "https://sysnetcenter.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "TP-Link",
+   "model": "ES210X-M2",
+   "spec": "Omada 8 口 2.5G 易管理 + SFP+",
+   "saga": "（无标准对应，待核）",
+   "url": "https://sysnetcenter.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Ruijie",
+   "model": "RG-NIS3100-4GT2SFP-HP",
+   "spec": "工业 4 PoE + 2 SFP",
+   "saga": "STI-244GP",
+   "url": "https://sysnetcenter.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 12 封 2025→2026，无记录打开，0 回；收件 info@sysnetcenter.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:sysnetcenter.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 12 / 来 0）（第 74 批(n)））",
+   "type": "网络设备电商/经销 + 安装（多品牌）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "泰国 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12；用户表：「大口FS」；研究档 risks：泰国价格敏感、多品牌电商：Saga 为又一白牌；非主攻区（T5）低频跟进"
+  },
+  "situation": "泰国曼谷网络设备经销/安装商 Sysnet Center（官网泰语：销售安装网络设备 10 年以上，Wireless / Router / Switch / IP Camera / VoIP / Fiber；首页陈列 TP-Link Omada ES210X-M2 2.5G、Reyee RG-ES210GS-P 8 口 PoE、Ruijie RG-NIS3100 工业 PoE、UniFi U7；站内 Cisco / MikroTik / Zyxel / Netgear；表内「大口FS」= 大口数交换机需求）；表内仅 1 次跟进。",
+  "need": "表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）",
+  "breakpoint": "泰国价格敏感、多品牌电商：Saga 为又一白牌；非主攻区（T5）低频跟进",
+  "saga_now": {
+   "p1": "STC-448XGGPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
+   "why": "表内「大口FS」→ 48 口 PoE + 4×10G L2+ 走量款 STC-448XGGPM（$335.4/349.4/363.4，20% 档）；24 口位 STC-424DGGPM-280W；2.5G 位无 Saga 标准型（Omada ES210X-M2 对位待核）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the Reyee and Omada PoE units you list, we supply Marvell-based 48-port PoE+ L2+ switches with 4×10G SFP+ uplinks and the 24-port version from small lots (neutral packing, CE/RoHS/FCC) — for your high-port-count demand, is PoE or non-PoE 48-port the bigger mover?"
+  },
+  "facts": [
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
+    "why": "12 封 / 0 次打开 / 0 回｜首封 2025-10-13 → 末封 2026-09-24（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "大口FS",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

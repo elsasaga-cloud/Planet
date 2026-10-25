@@ -1,123 +1,123 @@
 {
-  "code": "SB-274",
-  "name_official": "BlackBear TechHive（BlackBear Cyber Security）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（blackbear-ics.com，快照 2026-10-21）",
-  "summary": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Atop"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "工业网络安全 / 关键基础设施防护；型号 DD9000、BIG9000；多语言（中/日/西）；站内邮箱含 dewa@atop.com.tw",
-      "quote": "BlackBear Cyber Security: Unbreakable networks, critical infrastructure protection. Ideal solution for utilities' industrial cybersecurity… models DD9000, BIG9000… emails dewa@atop.com.tw",
-      "url": "https://blackbear-ics.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "日本人会中文；POE switch；韩国有代理商；产品在台湾生产；问了是否有 OEM ODM",
-      "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Takashi Eki（易傑）",
-      "title": "President",
-      "email": "eki@blackbear-ics.com",
-      "phone": "+81 90 8493 5120",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对：OEM 意向）"
+ "code": "SB-274",
+ "name_official": "BlackBear TechHive（BlackBear Cyber Security）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（blackbear-ics.com，快照 2026-10-21）",
+ "summary": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Atop"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "工业网络安全 / 关键基础设施防护；型号 DD9000、BIG9000；多语言（中/日/西）；站内邮箱含 dewa@atop.com.tw",
+   "quote": "BlackBear Cyber Security: Unbreakable networks, critical infrastructure protection. Ideal solution for utilities' industrial cybersecurity… models DD9000, BIG9000… emails dewa@atop.com.tw",
+   "url": "https://blackbear-ics.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "BlackBear TechHive（待核：台湾 / 日本）",
-    "founded": "（待核）",
-    "hq": "台湾（生产）/ 日本（+81 3 4530 3390）",
-    "size": "小型安全设备商",
-    "other": "Atop 代工关联"
-  },
-  "business_lines": [
-    "工业网络安全设备（数据二极管 / 网闸）",
-    "配套 PoE / 工业交换机（OEM 采购）"
-  ],
-  "channels": {
-    "role": "设备品牌商（OEM/ODM 采购）",
-    "region": "日本 / 韩国 / 台湾 / 拉美"
-  },
-  "signals": [
-    "主动问 OEM/ODM → 配套工业 PoE 可贴 BlackBear 标",
-    "中文沟通无障碍"
-  ],
-  "risks": [
-    "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
-    "33 次跟进无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。"
-  },
-  "email_hook": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 eki@blackbear-ics.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM」；研究档 risks：公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）"
-    },
-    "situation": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
-    "need": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。",
-    "breakpoint": "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）、2025-01-07 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-18 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
-      "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。已打开的主题（1/34 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？ Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-01",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
-        "why": "34 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-10-01（34 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "日本人会中文；POE switch；韩国有代理商；产品在台湾生产；问了是否有 OEM ODM",
+   "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Takashi Eki（易傑）",
+   "title": "President",
+   "email": "eki@blackbear-ics.com",
+   "phone": "+81 90 8493 5120",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对：OEM 意向）"
+ },
+ "company_facts": {
+  "legal_name": "BlackBear TechHive（待核：台湾 / 日本）",
+  "founded": "（待核）",
+  "hq": "台湾（生产）/ 日本（+81 3 4530 3390）",
+  "size": "小型安全设备商",
+  "other": "Atop 代工关联"
+ },
+ "business_lines": [
+  "工业网络安全设备（数据二极管 / 网闸）",
+  "配套 PoE / 工业交换机（OEM 采购）"
+ ],
+ "channels": {
+  "role": "设备品牌商（OEM/ODM 采购）",
+  "region": "日本 / 韩国 / 台湾 / 拉美"
+ },
+ "signals": [
+  "主动问 OEM/ODM → 配套工业 PoE 可贴 BlackBear 标",
+  "中文沟通无障碍"
+ ],
+ "risks": [
+  "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
+  "33 次跟进无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。"
+ },
+ "email_hook": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 34 封 2024→2026，1 次记录打开，0 回；收件 eki@blackbear-ics.com；主题多为「90W PoE Managed Switch、Managed Optical Bypass Switch」；Elsa 箱：`to:blackbear-ics.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 34 / 来 0）（第 74 批(n)））",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM」；研究档 risks：公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）"
+  },
+  "situation": "工业网络安全（单向网闸 / 数据二极管 DD9000、BIG9000，公用事业关键基础设施防护）公司，President Takashi Eki（易傑，日本人，会中文），产品台湾生产（站内邮箱含 Atop），韩国有代理，SECON 2023 问 Saga 是否做 OEM/ODM；33 次跟进无实质回复。",
+  "need": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。",
+  "breakpoint": "公用事业关键基础设施客户（守界：仅供配套交换机，不涉军政）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "换人再触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G media converter）、2025-01-07 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-18 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-23 $16000（32 Port 400GB DC Switch）",
+   "why": "配套工业管理 PoE → STI-288GPM（$85.5 @30%）贴 BlackBear 标；OEM 口径。已打开的主题（1/34 封有打开记录）：「Marvell Industrial Alert System」(2025-06-04) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "换收件人再发一封",
+   "one_question": "易傑先生，您在 SECON 问过我们是否做 OEM/ODM —— 是的：工业 2 光 8 PoE 管理机（Marvell，-40~75 ℃）可贴 BlackBear 标、小批量起订；请问配套贵司网闸的交换机需要几个端口、是否要 BT 大功率？ Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "90W PoE Managed Switch、Managed Optical Bypass Switch",
+    "why": "34 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-10-01（34 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

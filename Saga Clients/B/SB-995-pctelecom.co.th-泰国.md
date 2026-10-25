@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -42,7 +42,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-995` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 43 封 2024→2026，1 次记录打开，0 回；收件 service@pctelecom.co.th；主题多为「Industrial PoE Switch、90W PoE Managed Switch」）** ｜ 类型：CCTV 销售安装商（泰国，Utepo 交换机） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：泰国 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 43，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS Utepo的；主要是CCTV 有Utepo的」；研究档 risks：非主攻区（T5）；31 次无回复 → 预期极低，仅保留慢跟
+- **绑定等级：未触达（A/S 邮箱 43 封 2024→2026，1 次记录打开，0 回；收件 service@pctelecom.co.th；主题多为「Industrial PoE Switch、90W PoE Managed Switch」；Elsa 箱：`to:pctelecom.co.th` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 43 / 来 0）（第 74 批(n)））** ｜ 类型：CCTV 销售安装商（泰国，Utepo 交换机） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：泰国 非主攻 ｜ 节奏：一封 ｜ 证据：gmail_digest：out 43，Opened 标签 1（Simon 群发追踪）；用户表：「工业FS Utepo的；主要是CCTV 有Utepo的」；研究档 risks：非主攻区（T5）；31 次无回复 → 预期极低，仅保留慢跟
 - **现状一句话**：泰国 PC Telecom（CCTV 销售与安装，LG 摄像机直销；在售 Utepo UTP7202GE-POE / UTP7204E-POE-A1 / UTP7204GE / UTP7624GS-L3；Axis 45；表内「主要是 CCTV，有 Utepo 的工业 FS」）；群发 31 次无回复。
 - **对方真实需求（有据）**：在售 Utepo UTP7204E-POE（4 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$37.7 @20%）；商用 8 口位 STC-28DGGPM；L3 24 口不做
 - **断点 / 为什么停在这里**：非主攻区（T5）；31 次无回复 → 预期极低，仅保留慢跟
@@ -311,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
