@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：土耳其 MNS Bilişim Hizmetleri（企业网络方案 IT 服务商：UniFi AP 系列、Ruijie 6120 交换机系列「1G 价格 / 10G 性能」「25G/40G 光纤支持」；KP Mahmut Bektaş）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-29 → 2025-10-29）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?
 - **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -44,9 +44,9 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A 邮箱 5 封 2025→2026，无记录打开，0 回；收件 mahmut.bektas@mnsbilisim.com；主题多为「10G Enterprise SFP Switch、Booster PoE Switch」；Elsa 箱：`to:mnsbilisim.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 0）（第 74 批(i)））** ｜ 类型：企业网络集成商（土耳其，Ruijie/UniFi） ｜ 筛子：1（只收到群发） ｜ 停点：5 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：TR 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 5；研究档 risks：Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核
 - **现状一句话**：土耳其 MNS Bilişim Hizmetleri（企业网络方案 IT 服务商：UniFi AP 系列、Ruijie 6120 交换机系列「1G 价格 / 10G 性能」「25G/40G 光纤支持」；KP Mahmut Bektaş）；表内 1 次跟进无回复。
-- **对方真实需求（有据）**：主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）
+- **对方真实需求（有据）**：主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）
 - **断点 / 为什么停在这里**：Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch））——主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?
 
@@ -98,7 +98,7 @@ updated: 2026-10-25
   - 首页 Unifi Ap Serisi ; RUIJIE 6120 Switch Ailesi ; 30 Yıl MTBF ; 25G / 40G Fiber Desteği ; 1G Fiyat / 10G Performans ; Kurumsal Network Çözümleri
   - KP Mahmut（表内）→ mahmut.bektas@
 - **风险/边界**：Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核
-- **Saga 对位结论**：P1 STC-424XGGM（25% 档）——主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）
+- **Saga 对位结论**：P1 STC-424XGGM（25% 档）——主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）
 - **邮件切入句（英文）**：Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -186,7 +186,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGM | 深挖对位：主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7） | $132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（企业网络集成商（土耳其，Ruijie/UniFi）） |
+| **P1** | STC-424XGGM | 深挖对位：主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180） | $132.7 USD EXW（25% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（企业网络集成商（土耳其，Ruijie/UniFi）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

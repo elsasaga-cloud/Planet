@@ -38777,7 +38777,7 @@
 "brand": "ONV",
 "model": "ONV-IPS38036PFM",
 "spec": "L3 24 PoE + 8 SFP + 4 SFP+ 工业；฿47,990",
-"saga": "无工业同口型；商用 STC-424XGGPM-280W（$181.2@20）",
+"saga": "无工业同口型；商用 STC-424XGGPM-280W（$180@20）",
 "url": "https://www.itk.co.th/network-switch/poe/onv-ips38036pfm",
 "date": "2026-10-21"
 }
@@ -38817,7 +38817,7 @@
 "saga_now": {
 "p1": "STI-288GP",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-10 $220（48 port managed switch）、2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-10 $220（48 port managed switch）、2025-10-13 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
 "why": "分销 20% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，$57.4）= ONV-IPS33108PF 同口型；L2+ STI-288DGGPM（$137.5）；商用 24 口 STC-424DGGPM-280W（$134.5）",
 "repeat": [],
 "gaps": []
@@ -86014,7 +86014,7 @@
 "saga_fit": {
 "p1": "STC-424DGGPM-280W",
 "tier": 30,
-"why": "OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$196.3）；工业 STI-288DGGPM（$137.5）；8 口 STC-28DGGPM（$87.4）作第二来源"
+"why": "OEM 30% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP 管理，$145.7）补 GRUNDIG SMART 线 24 口空档；10G 版 STC-424XGGPM-280W（$180）；工业 STI-288DGGPM（$137.5）；8 口 STC-28DGGPM（$87.4）作第二来源"
 },
 "email_hook": "Your SMART line now has 4/8/16-port NDAA PoE switches; we can add a 24-port PoE+ managed model with 4 SFP under the GRUNDIG label (Marvell switch core, branded Web UI, NDAA component declaration) at $145.7 EXW — would a 24-port fill the gap your partners ask for?",
 "mail_review": {
@@ -86034,7 +86034,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 30,
-"price": "—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+"price": "—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
 "why": "—",
 "repeat": [],
 "gaps": []
@@ -113996,7 +113996,7 @@
 "saga_fit": {
 "p1": "STC-424XGGM",
 "tier": 20,
-"why": "Marvell 平台契合 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、48 口 PoE 10G 上联 STC-448XGGPM（$335.4）、24 口 PoE STC-424XGGPM-280W（$181.2）"
+"why": "Marvell 平台契合 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、48 口 PoE 10G 上联 STC-448XGGPM（$335.4）、24 口 PoE STC-424XGGPM-280W（$180）"
 },
 "email_hook": "Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?",
 "mail_review": {
@@ -114016,7 +114016,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 20,
-"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-19 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）",
+"price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-19 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
 "why": "已打开的主题（1/13 封有打开记录）：「24 Port PoE Managed Switch」(2026-08-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
@@ -124018,7 +124018,7 @@
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"why": "现由 HRUI 代工贴 Inaxsys 标 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 PoE + 4×10G STC-424XGGPM-280W（$196.3）；不以 HRUI 同型号竞价"
+"why": "现由 HRUI 代工贴 Inaxsys 标 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 PoE + 4×10G STC-424XGGPM-280W（$180）；不以 HRUI 同型号竞价"
 },
 "email_hook": "Alain, for the Inaxsys-branded PoE switches, we can add a Marvell-based tier (8-PoE + 2 SFP L2+ and 24-PoE + 4×10G L2+) as a second source from small lots in your housing, with FCC/CE/RoHS reports — which size would you consider dual-sourcing first?",
 "mail_review": {
@@ -124038,7 +124038,7 @@
 "saga_now": {
 "p1": "—",
 "tier": 30,
-"price": "—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）",
+"price": "—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
 "why": "—",
 "repeat": [],
 "gaps": []
@@ -129307,7 +129307,7 @@
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 25,
-"why": "项目配套 PoE（表内兴趣）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 口 STC-424XGGPM-280W（$188.7）作中东项目接入层；国防/关键基础设施项目不涉"
+"why": "项目配套 PoE（表内兴趣）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 口 STC-424XGGPM-280W（$180）作中东项目接入层；国防/关键基础设施项目不涉"
 },
 "email_hook": "Roberto, for the PoE access switches your Middle East projects source alongside WiBAS and fibre deployments, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4×10G L2+ units from small lots, CE/RoHS, neutral packing, EXW USD — which port count do your current project BOMs call for most?",
 "country_fix": "阿联酋",
@@ -129328,7 +129328,7 @@
 "saga_now": {
 "p1": "STI-222GP",
 "tier": 25,
-"price": "再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+"price": "再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
 "why": "项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
@@ -137475,7 +137475,7 @@
 "saga_fit": {
 "p1": "STC-424XGGM",
 "tier": 20,
-"why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位"
+"why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$180）作白牌预算位"
 },
 "email_hook": "Alongside the Ruijie and H3C switches you resell, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ (PoE 280 W option) and 8-PoE + 2 SFP models from small lots, CE/RoHS; EAC by your side — is there a price band your SMB customers ask for below the branded lines?",
 "mail_review": {
@@ -137490,13 +137490,13 @@
 "evidence": "gmail_digest：out 6；用户表：「有很多知名小品牌的」；研究档 risks：俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@"
 },
 "situation": "俄罗斯 CleverKey Ру（服务器/存储/网络设备经销：HP、Cisco、Huawei、H3C、Ruijie、Extreme、Juniper、Allied Telesis；表内「有很多知名小品牌的」）；表内未跟进。",
-"need": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位",
+"need": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$180）作白牌预算位",
 "breakpoint": "俄罗斯：结算/物流/合规风险；品牌经销导向（白牌契合度低）；未跟进过，仅 mail@",
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-"why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$181.2）作白牌预算位",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "品牌经销（Ruijie/H3C 等）→ 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）/ PoE 版 STC-424XGGPM-280W（$180）作白牌预算位",
 "repeat": [],
 "gaps": []
 },
@@ -145981,7 +145981,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → admin@montavue.com（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -146013,7 +146013,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Second source for the Montavue-label PoE switch (8-PoE L2+ or the industrial model)",
+"body": "Hello Montavue team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 11 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou ship a Montavue-branded PoE switch with your NVR kits and one industrial model. We build both classes and can be a second source under your label from small lots:\n\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed (web GUI, VLAN), Marvell-based, model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity)\n- Industrial DIN-rail 8 x Gigabit PoE+ + 2 x SFP, -40 to 75 C, unmanaged, model STI-288GP - $62.2 USD EXW\n\nFCC/CE/RoHS reports supplied; logo on the unit is free, colour box from 200 sets.\n\nOne question: which of the two would you want to dual-source first?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -146934,7 +146937,7 @@
 "saga_fit": {
 "p1": "STC-424XGGM",
 "tier": 30,
-"why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代"
+"why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代"
 },
 "email_hook": "For the high-port-count and bypass switch positions you source, we can supply Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches plus an industrial 8-GE + 4-SFP model with hardware bypass, in your packaging from small lots, CE/RoHS; KC by your side — which configuration should I quote first?",
 "mail_review": {
@@ -146949,13 +146952,13 @@
 "evidence": "gmail_digest：out 35；用户表：「bypass 大口FS」；研究档 risks：业务范围待核（快照仅标题）；bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国）；23 次无回复，仅 suppor"
 },
 "situation": "韩国 Nemon（nemon.co.kr；表内「bypass 大口 FS」「质量高」；官网快照仅标题，业务范围待核；仅 support@）；群发 23 次无回复。",
-"need": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
+"need": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
 "breakpoint": "业务范围待核（快照仅标题）；bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国）；23 次无回复，仅 support@",
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 30,
-"price": "换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）",
-"why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$363.4）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
+"price": "换人再触锚价 STC-424XGGM $138 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "大口 FS → 24 GE + 4×10G L2+ STC-424XGGM（$138.0 @30%）、48 口 PoE STC-448XGGPM（$335）；bypass 款以 SmartByte LT-IS6312GP-4GX8GT-FBP（$202.1，注明）替代",
 "repeat": [],
 "gaps": []
 },
@@ -149333,7 +149336,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@silarius.com（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "For your own-label NDAA-compliant switch range, we build Marvell-based 24-port PoE+ L2+ and 8-port models under your brand from small lots with a component-origin statement for your compliance file — which model do you want to see first, the 24-PoE or the 8-PoE? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -149365,7 +149368,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Your own-label switch range - 24-PoE L2+ and 8-PoE models with component-origin statement",
+"body": "Hello Silarius team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 11 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour site lists own-label NDAA-compliant cameras, NVRs and switches. For the switch part we build under your brand from small lots:\n\n- 24 x Gigabit PoE+ (280 W) + 4 x SFP uplinks, L2+ managed, Marvell-based, model STC-424DGGPM-280W - $145.7 USD EXW (MOQ 1, 15-day validity)\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, model STC-28DGGPM - $87.4 USD EXW\n\nWith each model we can supply a component-origin statement (switch silicon, PHY, PoE controller) for your compliance file - whether that satisfies your NDAA checklist is for your team to confirm, and I will answer any question on the bill of materials directly.\n\nOne question: which model do you want to see first, the 24-PoE or the 8-PoE?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -178801,7 +178807,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@dowtechnologies.com（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "For the integrator-facing PoE line next to Luxul and Intellinet, we supply a Marvell-based 8-port PoE+ L2+ switch (2 SFP) and a 24-port 4×10G model in neutral packing from small lots — which port count do your dealers pull most, 8 or 24? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -178833,7 +178839,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "An 8-PoE L2+ switch for your integrator line next to Luxul and Intellinet",
+"body": "Hello DOW team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches your integrators buy next to Luxul and Intellinet: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, FCC/CE/RoHS, neutral packing - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity). The 24 x PoE+ with 4 x 10G uplinks from our September mail is $180 now - that mail said $170; the CNY has moved from 7.2 to 6.7 against the dollar since.\n\nOne question: which port count do your dealers pull most, 8 or 24?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -180490,7 +180499,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → sales@fibersavvy.com（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -180530,7 +180539,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Gigabit media converters to go with the fibre you cut to length",
+"body": "Hello Fiber Savvy team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the bulk fibre and accessories in your shop, two small active items that sell with fibre runs:\n\n- Industrial mini Gigabit media converter, 1 x RJ45 + 1 x SFP slot (SC/LC optics of your choice), DIN-rail, 12-58 V DC, model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity)\n- Compact industrial switch, 2 x Gigabit + 2 x SFP, model STI-220GE - $27.8 USD EXW\n\nFCC/CE/RoHS; neutral packing or your label; we do not supply the SFP optics themselves.\n\nOne question: which converter configuration do your customers order most with a fibre run - single-mode 20 km, multimode, or SFP-slot so they pick the optic?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -182472,7 +182484,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → tina@gogss.com（Tina）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -182504,7 +182516,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Two switch SKUs for your platform listings - 8-PoE L2+ and an industrial 8+2",
+"body": "Hi Tina,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the switches you list, two SKUs we can supply from single units in neutral packing, FCC/CE/RoHS:\n\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed (web GUI), Marvell-based, model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity)\n- Industrial DIN-rail 8 x Gigabit + 2 x SFP, -40 to 75 C, unmanaged, model STI-280GE - $46.6 USD EXW\n\nOne question: which switch SKU sells most on your platform today, so I match the next quote to it?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -183488,7 +183503,7 @@
 "saga_fit": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
-"why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）"
+"why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）"
 },
 "email_hook": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?",
 "mail_review": {
@@ -183503,13 +183518,13 @@
 "evidence": "gmail_digest：out 0；用户表：「40个 24口POE交换机 distributor」；研究档 risks：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kairosmusique@gmail.com）2025-04-07→2026-09-03 共 10 轮群发（90W PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
 },
 "situation": "法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。",
-"need": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
+"need": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
 "breakpoint": "采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）",
 "saga_now": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
-"price": "首触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-"why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$181.2）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
+"price": "首触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SA-145 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
 "repeat": [],
 "gaps": []
 },
@@ -191293,7 +191308,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → sales@neteon.net（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier? Reference: STI-288GPM at $78.9 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -191333,7 +191348,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "A value tier under Moxa for OT projects - DIN-rail managed PoE",
+"body": "Hello Neteon team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the OT networking projects where a Moxa switch is over budget, we supply a value tier that fits the same cabinet:\n\n- DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity)\n- DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, model STI-280GE - $46.6 USD EXW\n\nFCC/CE/RoHS, 3-year warranty together with our DIN power supply; serial device servers we do not make.\n\nOne question: would one bench unit at the unit price help you position a value tier for your dealers?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -196665,7 +196683,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → marketing@silmarelectronics.com（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -196705,7 +196723,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "PoE switches for your CCTV distribution - 8-PoE L2+ and 24-PoE, neutral brand",
+"body": "Hello Silmar team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches you distribute with CCTV lines, neutral-brand units from small lots, FCC/CE/RoHS:\n\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed (web GUI, VLAN), Marvell-based, model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity)\n- 24 x Gigabit PoE+ (280 W) + 4 x SFP uplinks, L2+ managed, model STC-424DGGPM-280W - $134.5 USD EXW\n\nOne question: which PoE SKU moves the most volume through your branches - 8, 16 or 24 ports?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -203735,7 +203756,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@westpennwire.com（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
 "one_question": "For the media converters and PoE switches you offer alongside your cable lines for security and AV installers, we supply gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches neutral-brand from small lots, FCC/CE/RoHS, EXW USD — which active SKU do your distributors ask for most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -203767,7 +203788,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Active items next to your cable lines - gigabit media converters and 8-PoE switches",
+"body": "Hello West Penn Wire team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters and PoE switches you offer alongside your cable lines to security and AV installers, two neutral-brand items from small lots, FCC/CE/RoHS:\n\n- Industrial mini Gigabit media converter, 1 x RJ45 + 1 x SFP, 12-58 V DC, model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity)\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, model STC-28DGGPM - $84.1 USD EXW\n\nOne question: which active SKU do your distributors ask for most - the converter or the 8-PoE switch?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -243548,7 +243572,7 @@
 "saga_fit": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"why": "100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套"
+"why": "100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$335）作配套"
 },
 "email_hook": "Ammar, following your enquiry for 100G/25G core switches: we focus on the access layer — Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — would the access side of the same project be worth a quote?",
 "mail_review": {
@@ -243563,13 +243587,13 @@
 "evidence": "gmail_digest：out 2；用户表：「核心交换机 100G/25G；核心交换机 100G/25G的 / from: 阿里巴巴」；研究档 risks：询盘品类（100G/25G 核心）Saga 不供；官网 http_error；表内「质量可能一般」；未跟进过"
 },
 "situation": "土耳其 Bulutlar Bilişim（阿里巴巴询盘「核心交换机 100G/25G」；KP Ammar Alsawadi（CEO）；表内「质量可能一般」；官网 http_error）；表内未跟进。",
-"need": "100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套",
+"need": "100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$335）作配套",
 "breakpoint": "询盘品类（100G/25G 核心）Saga 不供；官网 http_error；表内「质量可能一般」；未跟进过",
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-"why": "100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$349.4）作配套",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$335）作配套",
 "repeat": [],
 "gaps": []
 },
@@ -249486,7 +249510,7 @@
 "saga_fit": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
-"why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）"
+"why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$180）"
 },
 "email_hook": "Elliot, alongside the PLANET and BDCOM switches you stock, we supply neutral-brand Marvell-based 24-PoE + 4 SFP L2+ (280 W) and 24-PoE + 4×10G models from small lots, FCC/CE/RoHS, EXW USD — is there a 24-port price band your security dealers ask for below the branded lines?",
 "mail_review": {
@@ -249501,13 +249525,13 @@
 "evidence": "gmail_digest：out 13；用户表：「大口FS；大口FS BDCOM」；研究档 risks：PLANET 为其合作品牌（白牌为预算补位）；BDCOM 价格基准低"
 },
 "situation": "加拿大 Provo Ltd.（1958 年起北美电子线缆、CCTV、音视频与配件供应商，服务安防/自动化/对讲/电信行业；合作品牌含 PLANET；表内「大口 FS；BDCOM」；KP Elliot Greenberg（VP of Operations）、Sy Greenberg（Procurement and Operations））；表内 1 次跟进无回复。",
-"need": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）",
+"need": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$180）",
 "breakpoint": "PLANET 为其合作品牌（白牌为预算补位）；BDCOM 价格基准低",
 "saga_now": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）",
-"why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$181.2）",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "大口 FS 需求（现 BDCOM/PLANET）→ 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）；10G 上联版 STC-424XGGPM-280W（$180）",
 "repeat": [],
 "gaps": []
 },
@@ -308255,7 +308279,7 @@
 "saga_fit": {
 "p1": "STC-424XGGPM-280W",
 "tier": 30,
-"why": "自有 AC-MXNET-SW24E（24 PoE + 10G 上联）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）；10G 全口型 MXnet 10G 位 Saga 无（待核）；AV-over-IP 需 IGMP 侦听/多播配置验证"
+"why": "自有 AC-MXNET-SW24E（24 PoE + 10G 上联）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）；10G 全口型 MXnet 10G 位 Saga 无（待核）；AV-over-IP 需 IGMP 侦听/多播配置验证"
 },
 "email_hook": "For the MXnet 1G switch line (SW24E / SW48E), we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, IGMP snooping/querier preconfigured for AV-over-IP) from small lots under your label — would a 24-port unit for validation be useful?",
 "products_seen": [
@@ -308288,13 +308312,13 @@
 "evidence": "gmail_digest：out 8；用户表：「大口Switch」；研究档 risks：AV-over-IP 对 IGMP/多播/抖动要求高：需样机验证固件"
 },
 "situation": "美国 AVPro Global（AV 制造商：AVPro Edge / AudioControl / RTI / Bullet Train / Murideo 等品牌；MXnet AV-over-IP 生态配自有标网络交换机 AC-MXNET-SW24E / SW48E / 10G-SW24C（10G PoE）；表内「大口 switch」）；群发 3 次无回复。",
-"need": "自有 AC-MXNET-SW24E（24 PoE + 10G 上联）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）；10G 全口型 MXnet 10G 位 Saga 无（待核）；AV-over-IP 需 IGMP 侦听/多播配置验证",
+"need": "自有 AC-MXNET-SW24E（24 PoE + 10G 上联）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）；10G 全口型 MXnet 10G 位 Saga 无（待核）；AV-over-IP 需 IGMP 侦听/多播配置验证",
 "breakpoint": "AV-over-IP 对 IGMP/多播/抖动要求高：需样机验证固件",
 "saga_now": {
 "p1": "STC-424XGGPM-280W",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）",
-"why": "自有 AC-MXNET-SW24E（24 PoE + 10G 上联）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）；10G 全口型 MXnet 10G 位 Saga 无（待核）；AV-over-IP 需 IGMP 侦听/多播配置验证",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "自有 AC-MXNET-SW24E（24 PoE + 10G 上联）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）；10G 全口型 MXnet 10G 位 Saga 无（待核）；AV-over-IP 需 IGMP 侦听/多播配置验证",
 "repeat": [],
 "gaps": []
 },
@@ -323821,7 +323845,7 @@
 "brand": "DCN",
 "model": "S5750E-28X-P-EI",
 "spec": "24 GE PoE + 4×10G L3",
-"saga": "Saga STC-424XGGPM-280W（$181.2/188.7/196.3）",
+"saga": "Saga STC-424XGGPM-280W（$180/188.7/196.3）",
 "url": "https://www.pancakumala.co.id/product-category/dcn/switch/",
 "date": "2026-10-21"
 }
@@ -323861,7 +323885,7 @@
 "saga_now": {
 "p1": "STC-424XGGPM-280W",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
 "why": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
 "repeat": [],
 "gaps": []
@@ -363793,7 +363817,7 @@
 "saga_fit": {
 "p1": "STC-424XGGPM-280W",
 "tier": 30,
-"why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配"
+"why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配"
 },
 "email_hook": "Todd, for the Mako-branded managed switch line, we can be a second ODM source on a Marvell L2+ platform (24-GE/PoE + 4×10G, 48-port) from small lots, with SNMP/CLI access for your CMS integration — would your team evaluate a sample unit?",
 "mail_review": {
@@ -363808,13 +363832,13 @@
 "evidence": "gmail_digest：out 23，Opened 标签 1（Simon 群发追踪）；用户表：「管理FS(大口的) 他们自己的logo」；研究档 risks：云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+；Elsa 箱 to/bcc:makonetworks.com = 0（第 73 批(o) 连接器核对，含 spam/trash）→ 「群发里他已看到的价」只来自 S/A 箱"
 },
 "situation": "美国 Mako Networks（网络管理公司：PCI DSS 安全、SASE SD-WAN、云管理 CMS；自有 Mako 设备线含 CMS 管理型交换机（2020 发布）、安全网关、VPN 集中器；行业含工业制造；表内「管理 FS（大口的），他们自己的 logo」；KP Todd Vojta（toddv@））；群发 20 次无回复。",
-"need": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配",
+"need": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配",
 "breakpoint": "云管理（Mako CMS）纳管：需其固件/代理适配，Saga 仅硬件 L2+",
 "saga_now": {
 "p1": "STC-424XGGPM-280W",
 "tier": 30,
-"price": "换人再触锚价 STC-424XGGPM-280W $180 EXW（现价轮群发 $180（㉕②）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）",
-"why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配。已打开的主题（1/23 封有打开记录）：「24 Port Fiber Switch」(2025-07-21) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+"price": "换人再触锚价 STC-424XGGPM-280W $180 EXW（现价轮群发 $180（㉕②）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）、2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-21 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "自有标 CMS 管理型交换机（大口）→ 24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）/ 非 PoE STC-424XGGM 贴 Mako 标；CMS 纳管需其固件/代理适配。已打开的主题（1/23 封有打开记录）：「24 Port Fiber Switch」(2025-07-21) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
 "repeat": [],
 "gaps": []
 },
@@ -392807,7 +392831,7 @@
 "saga_fit": {
 "p1": "STC-448XGGPM",
 "tier": 25,
-"why": "在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线"
+"why": "在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线"
 },
 "email_hook": "Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?",
 "products_seen": [
@@ -392832,13 +392856,13 @@
 "evidence": "gmail_digest：out 10；用户表：「Edgecore等牌子」；研究档 risks：集成商项目型采购：量随项目；Edgecore/Fortinet 既定线"
 },
 "situation": "德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。",
-"need": "在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线",
+"need": "在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线",
 "breakpoint": "集成商项目型采购：量随项目；Edgecore/Fortinet 既定线",
 "saga_now": {
 "p1": "STC-448XGGPM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）",
-"why": "在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线",
 "repeat": [],
 "gaps": []
 },
@@ -402247,7 +402271,7 @@
 "saga_fit": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）"
+"why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）"
 },
 "email_hook": "Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?",
 "mail_review": {
@@ -402262,13 +402286,13 @@
 "evidence": "gmail_digest：out 17；用户表：「4+24, 4+48 10G光；27 61 836 5820 没尝试加」；研究档 risks：非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试"
 },
 "situation": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
-"need": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）",
+"need": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）",
 "breakpoint": "非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试",
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）",
-"why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$335）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$180）",
 "repeat": [],
 "gaps": []
 },
@@ -411595,7 +411619,7 @@
 "saga_fit": {
 "p1": "STC-424DGGPM-280W",
 "tier": 25,
-"why": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）"
+"why": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$84.1）"
 },
 "email_hook": "For the access layer in your hotel and infrastructure projects, we supply Marvell-based 24-PoE + 4 SFP/SFP+ L2+ and 8-PoE + 2 SFP switches from single units, CE/RoHS, EXW USD — which access configuration do your current projects specify most?",
 "mail_review": {
@@ -411610,13 +411634,13 @@
 "evidence": "gmail_digest：out 5；研究档 risks：项目型集成商（机场/大桥项目多为公共招标，守界备注：仅民用商业项目）；土耳其汇率敏感；1 次无回复"
 },
 "situation": "土耳其 Fonet（1995 年起 IT 与电信基础设施方案：网络基础设施、数据中心、光纤；项目含机场、FSM 大桥、酒店；KP Akgün）；表内 1 次跟进无回复。",
-"need": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）",
+"need": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$84.1）",
 "breakpoint": "项目型集成商（机场/大桥项目多为公共招标，守界备注：仅民用商业项目）；土耳其汇率敏感；1 次无回复",
 "saga_now": {
 "p1": "STC-424DGGPM-280W",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）",
-"why": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$188.7）、8 口 STC-28DGGPM（$84.1）",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "项目型接入 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$140.1 @25%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$84.1）",
 "repeat": [],
 "gaps": []
 },
@@ -415121,7 +415145,7 @@
 "saga_fit": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"why": "主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）"
+"why": "主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）"
 },
 "email_hook": "Mahmut, alongside the Ruijie 6120 series you deploy for 10G-uplink access, we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (PoE 280 W option, CLI/web managed, CE/RoHS) from single units, EXW USD — which configuration do your corporate projects order most?",
 "mail_review": {
@@ -415136,13 +415160,13 @@
 "evidence": "gmail_digest：out 5；研究档 risks：Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核"
 },
 "situation": "土耳其 MNS Bilişim Hizmetleri（企业网络方案 IT 服务商：UniFi AP 系列、Ruijie 6120 交换机系列「1G 价格 / 10G 性能」「25G/40G 光纤支持」；KP Mahmut Bektaş）；表内 1 次跟进无回复。",
-"need": "主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）",
+"need": "主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）",
 "breakpoint": "Ruijie 性价比基准高（土耳其官方渠道）；1 次跟进无回复，联系人职务待核",
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）",
-"why": "主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$188.7）",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "主推 Ruijie 6120（10G 上联接入）→ 24 GE + 4×10G SFP+ L2+ STC-424XGGM（$132.7 @25%）作预算线；PoE 版 STC-424XGGPM-280W（$180）",
 "repeat": [],
 "gaps": []
 },
@@ -449078,7 +449102,7 @@
 "saga_fit": {
 "p1": "STC-424XGGPM-280W",
 "tier": 30,
-"why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件"
+"why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件"
 },
 "email_hook": "For the entry PoE switch tiers in your range, we can be a second source on a Marvell L2+ platform (24-PoE + 4×10G, 48-PoE) from small lots under your label — is a lower-cost dual-sourced SKU something your product team would evaluate?",
 "mail_review": {
@@ -449093,13 +449117,13 @@
 "evidence": "gmail_digest：out 14；用户表：「商业FS 大口 SFP PoE配件」；研究档 risks：台湾品牌（自有 ODM）：白牌切入点弱，仅二供"
 },
 "situation": "美国 EnGenius Technologies（台湾 EnGenius Networks 美国公司：AI 监控、Wi-Fi、交换机、VPN 路由、PDU，云管理 EnGenius Cloud；表内「商业 FS 大口、SFP、PoE 配件」「质量高」）；群发 10 次无回复。",
-"need": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
+"need": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
 "breakpoint": "台湾品牌（自有 ODM）：白牌切入点弱，仅二供",
 "saga_now": {
 "p1": "STC-424XGGPM-280W",
 "tier": 30,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）",
-"why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$196.3 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "台湾品牌自有 ODM 体系 → 仅二供：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @30%）、48 口 STC-448XGGPM；云管理由其固件层，Saga 仅硬件",
 "repeat": [],
 "gaps": []
 },
@@ -466101,7 +466125,7 @@
 "saga_fit": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）"
+"why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）"
 },
 "email_hook": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?",
 "mail_review": {
@@ -466116,13 +466140,13 @@
 "evidence": "gmail_digest：out 13，Opened 标签 3（Simon 群发追踪）；用户表：「大口FS；大口FS BDCOM；switch」；研究档 risks：非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
 },
 "situation": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
-"need": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）",
+"need": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）",
 "breakpoint": "非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触",
 "saga_now": {
 "p1": "STC-424XGGM",
 "tier": 25,
-"price": "首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-"why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+"price": "首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
 "repeat": [],
 "gaps": []
 },
@@ -481253,7 +481277,7 @@
 "saga_fit": {
 "p1": "STC-424XGGPM-280W",
 "tier": 25,
-"why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）"
+"why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @25%）/ 非 PoE STC-424XGGM（$132.7）"
 },
 "email_hook": "Tanner, for the access layer in your managed-IT customer sites, we supply Marvell-based 24-PoE + 4×10G SFP+ L2+ switches (also non-PoE) from single units, FCC/CE/RoHS, EXW USD — stacking is handled via 10G uplinks rather than a proprietary stack; would that fit the SMB sites you support?",
 "mail_review": {
@@ -481268,13 +481292,13 @@
 "evidence": "gmail_digest：out 2；用户表：「Stacking」；研究档 risks：需求为堆叠（Stacking）：Saga 产品无专有堆叠（仅 10G 上联），契合度待确认"
 },
 "situation": "美国 SynchroNet（布法罗 IT 支持服务商/MSP：面向各规模企业的托管 IT；博客含 switchport / stack-switch；表内「Stacking」；KP Tanner Sanderson（BD）、Gordon Brandt（Engineer））；表内未跟进。",
-"need": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）",
+"need": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @25%）/ 非 PoE STC-424XGGM（$132.7）",
 "breakpoint": "需求为堆叠（Stacking）：Saga 产品无专有堆叠（仅 10G 上联），契合度待确认",
 "saga_now": {
 "p1": "STC-424XGGPM-280W",
 "tier": 25,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170",
-"why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$188.7 @25%）/ 非 PoE STC-424XGGM（$132.7）",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "堆叠需求 Saga 无真堆叠（注明）→ 以 10G 上联聚合替代：24 口 PoE+ 4×10G L2+ STC-424XGGPM-280W（$180 @25%）/ 非 PoE STC-424XGGM（$132.7）",
 "repeat": [],
 "gaps": []
 },
@@ -503028,7 +503052,7 @@
 "saga_fit": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
-"why": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供"
+"why": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$80.7）作预算位二供"
 },
 "email_hook": "Alongside the BDCOM range you distribute across the Americas, we supply neutral-brand Marvell-based 24-PoE + 4 SFP/SFP+ and 8-PoE + 2 SFP L2+ switches from small lots, FCC/CE/RoHS, EXW USD — is there a budget managed-PoE position your Latin American resellers ask for?",
 "mail_review": {
@@ -503043,13 +503067,13 @@
 "evidence": "gmail_digest：out 6；用户表：「全线产品」；研究档 risks：BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@"
 },
 "situation": "美国 ISTC Corp（BDCOM 美洲分销/合作伙伴：触摸 LCD Ultra PoE 交换机 L2-L4、西/葡语页面面向拉美；表内「全线产品」「BDCOM」）；表内 1 次跟进无回复。",
-"need": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供",
+"need": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$80.7）作预算位二供",
 "breakpoint": "BDCOM 单品牌分销（品牌粘性，供应链已在国内）；1 次无回复，仅 marketing@",
 "saga_now": {
 "p1": "STC-424DGGPM-280W",
 "tier": 20,
-"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）",
-"why": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$181.2）、8 口 STC-28DGGPM（$80.7）作预算位二供",
+"price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "BDCOM 全线分销 → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%）、10G 上联版 STC-424XGGPM-280W（$180）、8 口 STC-28DGGPM（$80.7）作预算位二供",
 "repeat": [],
 "gaps": []
 },
@@ -506920,7 +506944,7 @@
 "saga_fit": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"why": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE"
+"why": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$335）对位其 50 口 PoE"
 },
 "email_hook": "For the Polyvision-branded PoE switches (4-port up to the 50-port unmanaged), we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 24/48-PoE + 4×10G) from small lots in your packaging, CE/RoHS, EXW USD — which size do your dealers reorder most?",
 "products_seen": [
@@ -506945,13 +506969,13 @@
 "evidence": "gmail_digest：out 0；用户表：「有统一的型号 不过是不同外壳 商业POE CCTV为主 很多配件；商业POE 自己的logo 比较多的外壳」；研究档 risks：俄罗斯：结算/物流受限，非主攻区（T5）；现代工疑 ONV（深圳）价格基准低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@soyuzsp.ru）2025-12-15→2026-08-26 共 5 轮群发（Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；该批次最早 2025-02-20 起共 13 轮，更早轮次 Bcc 未读"
 },
 "situation": "俄罗斯 Polyvision™（视频监控设备品牌：AHD/IP 摄像机、混合/IP NVR、50 口非管理 PoE 交换机、可视对讲、大量配件；表内「有统一的型号不过是不同外壳；商业 PoE，CCTV 为主，自己的 logo；像是有 ONV 的；有人在卖他们的」）；表内无跟进记录。",
-"need": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE",
+"need": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$335）对位其 50 口 PoE",
 "breakpoint": "俄罗斯：结算/物流受限，非主攻区（T5）；现代工疑 ONV（深圳）价格基准低",
 "saga_now": {
 "p1": "STC-28DGGPM",
 "tier": 30,
-"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-"why": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE",
+"price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+"why": "自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$335）对位其 50 口 PoE",
 "repeat": [],
 "gaps": []
 },

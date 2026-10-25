@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。（调研 2026-10-21；表内兴趣：Edgecore等牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -44,9 +44,9 @@ updated: 2026-10-25
 
 - **绑定等级：未触达（A 邮箱 10 封 2025→2026，无记录打开，0 回；收件 info@avanis.de, tpasslack@avanis.de；主题多为「Booster PoE Switch、Marvell Industrial Alert System」；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 avanis.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 10 / 来 0）（第 74 批(f)））** ｜ 类型：网络/WLAN 系统集成商（德国，Edgecore 在用） ｜ 筛子：1（只收到群发） ｜ 停点：10 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：DE 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 10；用户表：「Edgecore等牌子」；研究档 risks：集成商项目型采购：量随项目；Edgecore/Fortinet 既定线
 - **现状一句话**：德国 Avanis GmbH（网络技术与 WLAN 方案「Netzwerk-Architekten」：交换机到 RTLS 定位规划交付，医院场景；站内 Edgecore ECS-4650-54P、Fortinet；表内「Edgecore 等牌子」；KP Thomas Passlack（tpasslack@）、Valentin Kaiser（Application Developer））；表内无跟进记录。
-- **对方真实需求（有据）**：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
+- **对方真实需求（有据）**：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线
 - **断点 / 为什么停在这里**：集成商项目型采购：量随项目；Edgecore/Fortinet 既定线
-- **Saga 现在该推什么**：P1 **STC-448XGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch））——在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
+- **Saga 现在该推什么**：P1 **STC-448XGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-30 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25））——在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
 
@@ -120,7 +120,7 @@ updated: 2026-10-25
   - 官网：Avanis ist Ihr Experte für Netzwerktechnik & WLAN-Lösungen. Von Switches bis zur RTLS-Ortung；站内 ECS-4650-54P / NV-202G
   - KP：Thomas Passlack；Valentin Kaiser / Application Developer（表内）
 - **风险/边界**：集成商项目型采购：量随项目；Edgecore/Fortinet 既定线；无跟进记录 → 具名首触
-- **Saga 对位结论**：P1 STC-448XGGPM（25% 档）——在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线
+- **Saga 对位结论**：P1 STC-448XGGPM（25% 档）——在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线
 - **邮件切入句（英文）**：Thomas, next to the Edgecore ECS4650-54P access switches in your projects, we supply Marvell-based 24/48-PoE + 4×10G L2+ switches with SNMP/CLI management from small lots, CE/RoHS, neutral packing — would a budget alternative be useful for your next hospital or campus rollout?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
@@ -211,7 +211,7 @@ updated: 2026-10-25
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-448XGGPM | 深挖对位：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$349.4 @25%）/ 24 口位 STC-424XGGPM-280W（$188.7）作项目预算线 | $335 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $349.4——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/WLAN 系统集成商（德国，Edgecore 在用）） |
+| **P1** | STC-448XGGPM | 深挖对位：在用 Edgecore ECS4650-54P（48 PoE + 4×10G）→ 48 口 PoE+ 4×10G L2+ STC-448XGGPM（$335 @25%）/ 24 口位 STC-424XGGPM-280W（$180）作项目预算线 | $335 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $349.4——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（网络/WLAN 系统集成商（德国，Edgecore 在用）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

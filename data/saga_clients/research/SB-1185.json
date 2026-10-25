@@ -95,7 +95,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → sales@fibersavvy.com（无具名 KP；公用地址）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`——开头按 ㉝ 点名 Elsa 最近群发主题+日期，型号/价按 ㉕，一问）",
       "one_question": "Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -135,7 +135,10 @@
     "proof_gaps": [
       "无邮件往来"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "Gigabit media converters to go with the fibre you cut to length",
+      "body": "Hello Fiber Savvy team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the bulk fibre and accessories in your shop, two small active items that sell with fibre runs:\n\n- Industrial mini Gigabit media converter, 1 x RJ45 + 1 x SFP slot (SC/LC optics of your choice), DIN-rail, 12-58 V DC, model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity)\n- Compact industrial switch, 2 x Gigabit + 2 x SFP, model STI-220GE - $27.8 USD EXW\n\nFCC/CE/RoHS; neutral packing or your label; we do not supply the SFP optics themselves.\n\nOne question: which converter configuration do your customers order most with a fibre run - single-mode 20 km, multimode, or SFP-slot so they pick the optic?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-25"
   }
 }
