@@ -81,7 +81,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）",
    "one_question": "On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?"
   },
   "facts": [
@@ -98,7 +98,10 @@
    "无邮件往来",
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The 2 x SFP + 8 x PoE managed switch you asked about - price and next step",
+   "body": "Hi Alex,\n\nYou asked on our site about the 2 x SFP + 8 x PoE managed switch; here is the concrete answer.\n\nThe current unit on that footprint is L2+ managed on a Marvell platform (web GUI, VLAN, QoS, IGMP), 8 x Gigabit PoE+ (120 W budget) + 2 x SFP, FCC/CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). A lower-cost L2 managed version on our commercial line, STC-28GPM, is $74.0.\n\nOne question: which company or project is this for, so I can quote the right quantity and the shipping to the US?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

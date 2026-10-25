@@ -117,7 +117,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → 待找地址（diteksurgeprotection.com 官网联系页；库内无邮箱）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`；DITEK 库内无邮箱——官网联系页/表单发）",
    "one_question": "For the DTK-SW16PL / SW24PL PoE switches sold under the DITEK label, we can be a second ODM source on a Marvell L2+ platform (16/24-PoE + SFP uplinks) from small lots, leaving your surge stage to your own design — which of the two would you dual-source first? Reference: STC-424DGGPM-280W at $145.7 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -133,7 +133,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Second ODM source for the DTK-SW16PL / DTK-SW24PL switch platform",
+   "body": "Hello DITEK team,\n\nFor the DTK-SW16PL / DTK-SW24PL PoE switches sold under the DITEK label, we can be a second ODM source for the switch platform, leaving the surge stage to your own design.\n\nThe 24-port base: 24 x Gigabit PoE+ (280 W) + 4 x SFP uplinks, L2+ managed, Marvell-based, FCC/CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your label (MOQ 1 for evaluation, 15-day validity). A 16-port PoE base (16 x PoE + 2 x SFP, unmanaged) is $88.0.\n\nOne question: which of the two would you dual-source first, the 16 or the 24?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

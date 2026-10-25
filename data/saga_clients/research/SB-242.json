@@ -103,7 +103,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → jon@virtualprotective.com（Jonathan Byrd）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）",
    "one_question": "Jonathan, for the PoE feeding cameras on your construction-site units, we supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V input, FCC/CE/RoHS) from single units, EXW USD — do your units need 90 W (802.3bt) ports for PTZ cameras, or 30 W is enough? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "PoE for the cameras on your site units - 4-PoE industrial switch, 30 W or 90 W",
+   "body": "Hi Jonathan,\n\nThank you for the 90 W PoE injector order through our shop. A short follow-up on the PoE side of your construction-site units.\n\nFor the cameras on an SPP-2S-type unit, a compact industrial switch does the job of several injectors: DIN-rail, 4 x Gigabit PoE+ (30 W per port) + 1 x Gigabit RJ45 + 1 x SFP uplink, -40 to 75 C, 44-57 V DC input, FCC/CE/RoHS - model STI-154GP - $39.2 USD EXW (MOQ 1, 15-day validity). The 5-port version with a copper uplink only, STI-054GP, is $32.5.\n\nOne question: do your units need 90 W (802.3bt) ports for PTZ cameras, or is 30 W per port enough?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

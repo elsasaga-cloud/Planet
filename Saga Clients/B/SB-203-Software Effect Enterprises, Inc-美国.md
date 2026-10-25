@@ -32,10 +32,10 @@ updated: 2026-10-25
 - **是谁**：美国 Software Effect Enterprises, Inc（网络支持专用产品小型经销/技术站：Cisco/Juniper 交换机操作文章；Shopify 询盘「4 光 8 电管理型交换机 MIB 资料」；KP Charles H. Deling（charles@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM — 询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料；首触锚价 STI-488DGGPM $148.5 EXW（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM — 询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料；首触锚价 STI-488DGGPM $147.1 EXW（20% 档，低于 PDF 上限 $148.5；第 75 批改）（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → charles@softwareeffect.com（Charles H. Deling） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → charles@softwareeffect.com（Charles H. Deling） 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`；MIB 包是技术资料，发前从 SmartByte 取 SNMP MIB 文件；锚价改 $147.1（20% 档，低于 PDF 上限 $148.5，合规））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -45,8 +45,8 @@ updated: 2026-10-25
 - **现状一句话**：美国 Software Effect Enterprises, Inc（网络支持专用产品小型经销/技术站：Cisco/Juniper 交换机操作文章；Shopify 询盘「4 光 8 电管理型交换机 MIB 资料」；KP Charles H. Deling（charles@））；表内无跟进记录。
 - **对方真实需求（有据）**：询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料
 - **断点 / 为什么停在这里**：小型经销/技术站：量小；询盘为技术资料（MIB），需随附 SNMP 资料
-- **Saga 现在该推什么**：P1 **STI-488DGGPM**（20% 档，首触锚价 STI-488DGGPM $148.5 EXW（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → charles@softwareeffect.com（Charles H. Deling）　首封：按 email_hook 一问
+- **Saga 现在该推什么**：P1 **STI-488DGGPM**（20% 档，首触锚价 STI-488DGGPM $147.1 EXW（20% 档，低于 PDF 上限 $148.5；第 75 批改）（2026-06 PDF 上限 $148.5（档位 147.1–159.3）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——询 4 SFP + 8 GE 管理型 MIB → 工业 4 SFP + 8 PoE 管理 STI-488DGGPM（$147.1 @20%）/ 4×10G 版 STI-488XGGPM（$165.0）；随询盘附 MIB/SNMP 资料
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → charles@softwareeffect.com（Charles H. Deling）　首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`；MIB 包是技术资料，发前从 SmartByte 取 SNMP MIB 文件；锚价改 $147.1（20% 档，低于 PDF 上限 $148.5，合规））
   - 第一问（只问一个）：Charles, following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with? Reference: STI-488DGGPM at $148.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -218,23 +218,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-488DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：MIB files for the 4-SFP + 8-port managed switch you asked about
 
 ```text
 Hi Charles,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your request for the MIB files of the 4-SFP + 8-port managed switch: we can send the SNMP MIB package with the datasheet of our Marvell-based DIN-rail 4-SFP + 8-GE (PoE option) managed model, available from single units, FCC/CE/RoHS — which NMS are you integrating it with?
+You asked on our site for the MIB files of the 4-SFP + 8-port managed switch and did not get a proper answer from us - apologies, here it is.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 4x 2.5G SFP - model STI-488DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $148.5 USD EXW (valid 15 days).
+The unit is a DIN-rail industrial L2+ managed switch, 8 x Gigabit RJ45 (PoE+ on the PoE version) + 4 x SFP (1G/2.5G), Marvell-based, SNMP, -40 to 75 C, FCC/CE/RoHS - model STI-488DGGPM (PoE) at $147.1 USD EXW, or STI-480DGGM (non-PoE) at $132.0 USD EXW (MOQ 1, 15-day validity). I can get you the SNMP MIB package together with the datasheet.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which NMS are you integrating it with - so I send the matching MIB set and the OID notes?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

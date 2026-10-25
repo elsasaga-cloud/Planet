@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich） 首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）
 - **断点 / 为什么停在这里**：身份不明；美国关税；无后续跟进
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STC-28DGGPM（8 GE PoE+ 2 SFP L2+ 管理，$84.1）对应「2 光 8 PoE 管理」；Realtek 低价位 STC-28GPM（$62.2）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → unpledged154@simplelogin.com（Alex Malinovich）　首封：按 email_hook 一问（第 75 批(b) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -209,23 +209,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：The 2 x SFP + 8 x PoE managed switch you asked about - price and next step
 
 ```text
 Hi Alex,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. On the 2× SFP + 8× PoE managed switch you asked about: L2+ managed, 120 W budget, $84.1 EXW at 25-unit tier — may I ask which company/project this is for so I can quote the right quantity and shipping to the US?
+You asked on our site about the 2 x SFP + 8 x PoE managed switch; here is the concrete answer.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+The current unit on that footprint is L2+ managed on a Marvell platform (web GUI, VLAN, QoS, IGMP), 8 x Gigabit PoE+ (120 W budget) + 2 x SFP, FCC/CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). A lower-cost L2 managed version on our commercial line, STC-28GPM, is $74.0.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which company or project is this for, so I can quote the right quantity and the shipping to the US?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
