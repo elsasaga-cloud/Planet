@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型；STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：不动 E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:） Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
+- **下一步**：不动 E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:） Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起（第 75 批(ak) 2026-10-25：信稿复检修正——「, 250 m long-reach PoE mode an」→「.」）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：8 口工业 PoE（他回的那封）→ 非管理 STI-288GP $60；若室内机柜用，商用桌面 8 PoE + 2 SFP 非管理 $26.2 作备选。
 - **断点 / 为什么停在这里**：我方欠答 15 个月；gmail 小商、印度低价——补答要价 + 手册一次给齐，别再空问
 - **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型
-- **下一步（具体）**：不动　E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）　Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
+- **下一步（具体）**：不动　E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）　Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起（第 75 批(ak) 2026-10-25：信稿复检修正——「, 250 m long-reach PoE mode an」→「.」）
   - 第一问（只问一个）：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -197,7 +197,7 @@ Hi Mr. Ahir,
 
 In July 2025 you replied to our mail on the 8-port industrial PoE switch asking for the price, a brochure and the advantages, and that reply was never answered. Apologies — here it is in one go.
 
-STI-288GP: 8× gigabit PoE (30 W per port, 240 W budget) + 2× gigabit SFP, unmanaged, DIN-rail, -40 to +75 °C, 250 m long-reach PoE mode and PoE watchdog on DIP switches. $60 USD EXW per unit (2026-10-17 snapshot, valid 15 days), MOQ 1, 3-year warranty; datasheet attached. If the cameras sit indoors and you do not need the industrial housing, the desktop 8-PoE + 2-SFP unmanaged unit is $26.2.
+STI-288GP: 8× gigabit PoE (30 W per port, 240 W budget) + 2× gigabit SFP, unmanaged, DIN-rail, -40 to +75 °C. $60 USD EXW per unit (2026-10-17 snapshot, valid 15 days), MOQ 1, 3-year warranty; datasheet attached. If the cameras sit indoors and you do not need the industrial housing, the desktop 8-PoE + 2-SFP unmanaged unit is $26.2.
 
 What you get from us rather than a marketplace seller: neutral brand (your label on request), single units shipped, and the same model kept in production for years so replacements match what you installed.
 

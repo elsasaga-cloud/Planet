@@ -134,7 +134,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → wadii@teltronix.net",
-   "action": "重对 2024-09 清单 + 问当前项目",
+   "action": "重对 2024-09 清单 + 问当前项目（第 75 批(ak) 2026-10-25：信稿复检修正——「single PSU, ERPS ring;」→「single PSU, ring redundancy;」；「or would 10G uplinks + ERPS do」→「or would 10G uplinks + ring re」）",
    "one_question": "Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?"
   },
   "facts": [
@@ -222,7 +222,7 @@
   "proof_gaps": [],
   "draft_en": {
    "subject": "24-port PoE project — did it close, and what do current projects need?",
-   "body": "Hi, Wadii,\n\nIn September 2024 we answered your 20-unit 24-port PoE RFQ (4x SFP, redundant PSU) with \"not on our list\" — too short an answer. In July 2025 you got the PSU costs (HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40).\n\nWhat we have today: 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+, Marvell AC5 — $180 USD EXW, valid 15 days from this mail (our summer mail quoted $170; that batch is gone); single PSU, ERPS ring; a dual-PSU version is quoted on request.\n\nOne question: did the 2024 project close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?\n\nThank you.\nAlan"
+   "body": "Hi, Wadii,\n\nIn September 2024 we answered your 20-unit 24-port PoE RFQ (4x SFP, redundant PSU) with \"not on our list\" — too short an answer. In July 2025 you got the PSU costs (HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40).\n\nWhat we have today: 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+, Marvell AC5 — $180 USD EXW, valid 15 days from this mail (our summer mail quoted $170; that batch is gone); single PSU, ring redundancy; a dual-PSU version is quoted on request.\n\nOne question: did the 2024 project close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ring redundancy do?\n\nThank you.\nAlan"
   },
   "as_of": "2026-10-24"
  }

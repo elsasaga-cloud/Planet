@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM（双电源版若有）+ SFP 模块 — 英国经销 + 6 次回复｜已发资料（勿重发）：Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation_Copper Switch(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-08 $220（48 port managed switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（2026-09-21 起每天 40–70 封在发，不能比群发贵）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2026-11 A 邮箱 → wadii@teltronix.net 重对 2024-09 清单 + 问当前项目
+- **下一步**：2026-11 A 邮箱 → wadii@teltronix.net 重对 2024-09 清单 + 问当前项目（第 75 批(ak) 2026-10-25：信稿复检修正——「single PSU, ERPS ring;」→「single PSU, ring redundancy;」；「or would 10G uplinks + ERPS do」→「or would 10G uplinks + ring re」）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：Saga 对「不完全匹配」的 RFQ 一句话放弃（2024-09）。
 - **Saga 现在该推什么**：P1 **STC-424XGGPM（双电源版若有）+ SFP 模块**（20% 档，按主表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-08 $220（48 port managed switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（2026-09-21 起每天 40–70 封在发，不能比群发贵）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch））——英国经销 + 6 次回复｜已发资料（勿重发）：Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation_Copper Switch(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
   - 做不了 / 要先核的：2025-10-31 Booster 资料是否已发；20 台项目是否已被他人拿走
-- **下一步（具体）**：2026-11　A 邮箱 → wadii@teltronix.net　重对 2024-09 清单 + 问当前项目
+- **下一步（具体）**：2026-11　A 邮箱 → wadii@teltronix.net　重对 2024-09 清单 + 问当前项目（第 75 批(ak) 2026-10-25：信稿复检修正——「single PSU, ERPS ring;」→「single PSU, ring redundancy;」；「or would 10G uplinks + ERPS do」→「or would 10G uplinks + ring re」）
   - 第一问（只问一个）：Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -277,9 +277,9 @@ Hi, Wadii,
 
 In September 2024 we answered your 20-unit 24-port PoE RFQ (4x SFP, redundant PSU) with "not on our list" — too short an answer. In July 2025 you got the PSU costs (HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40).
 
-What we have today: 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+, Marvell AC5 — $180 USD EXW, valid 15 days from this mail (our summer mail quoted $170; that batch is gone); single PSU, ERPS ring; a dual-PSU version is quoted on request.
+What we have today: 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+, Marvell AC5 — $180 USD EXW, valid 15 days from this mail (our summer mail quoted $170; that batch is gone); single PSU, ring redundancy; a dual-PSU version is quoted on request.
 
-One question: did the 2024 project close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
+One question: did the 2024 project close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ring redundancy do?
 
 Thank you.
 Alan

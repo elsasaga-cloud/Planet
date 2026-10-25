@@ -83,7 +83,7 @@
     "next_move": {
       "when": "不动",
       "channel": "E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）",
-      "action": "Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起",
+      "action": "Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起（第 75 批(ak) 2026-10-25：信稿复检修正——「, 250 m long-reach PoE mode an」→「.」）",
       "one_question": "Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?"
     },
     "facts": [
@@ -135,7 +135,7 @@
     ],
     "draft_en": {
       "subject": "8 Port Industrial PoE Switch — the price you asked for",
-      "body": "Hi Mr. Ahir,\n\nIn July 2025 you replied to our mail on the 8-port industrial PoE switch asking for the price, a brochure and the advantages, and that reply was never answered. Apologies — here it is in one go.\n\nSTI-288GP: 8× gigabit PoE (30 W per port, 240 W budget) + 2× gigabit SFP, unmanaged, DIN-rail, -40 to +75 °C, 250 m long-reach PoE mode and PoE watchdog on DIP switches. $60 USD EXW per unit (2026-10-17 snapshot, valid 15 days), MOQ 1, 3-year warranty; datasheet attached. If the cameras sit indoors and you do not need the industrial housing, the desktop 8-PoE + 2-SFP unmanaged unit is $26.2.\n\nWhat you get from us rather than a marketplace seller: neutral brand (your label on request), single units shipped, and the same model kept in production for years so replacements match what you installed.\n\nIs this for outdoor camera poles or indoor racks, and how many units?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
+      "body": "Hi Mr. Ahir,\n\nIn July 2025 you replied to our mail on the 8-port industrial PoE switch asking for the price, a brochure and the advantages, and that reply was never answered. Apologies — here it is in one go.\n\nSTI-288GP: 8× gigabit PoE (30 W per port, 240 W budget) + 2× gigabit SFP, unmanaged, DIN-rail, -40 to +75 °C. $60 USD EXW per unit (2026-10-17 snapshot, valid 15 days), MOQ 1, 3-year warranty; datasheet attached. If the cameras sit indoors and you do not need the industrial housing, the desktop 8-PoE + 2-SFP unmanaged unit is $26.2.\n\nWhat you get from us rather than a marketplace seller: neutral brand (your label on request), single units shipped, and the same model kept in production for years so replacements match what you installed.\n\nIs this for outdoor camera poles or indoor racks, and how many units?\n\nBest regards,\nElsa\nSaga Telecom · sagatele.com"
     },
     "as_of": "2026-10-24"
   }
