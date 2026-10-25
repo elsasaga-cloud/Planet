@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-30 $220（48 port managed switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）
 - **断点 / 为什么停在这里**：主品类 SFP/DAC：Saga 不供（Q-32），仅 MC 可对位，契合度低
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-30 $220（48 port managed switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）、2025-10-03 $280（10G Enterprise SFP Switch））——主品类 SFP/DAC Saga 不供（Q-32）；仅 MC 可对位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）贴 FluxLight 标；桌面 MC 与 MC 机架 Saga 列表无（注明）。已打开的主题（1/22 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(w) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
   - 第一问（只问一个）：For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -264,23 +264,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：For the FluxLight media-converter line - the industrial configurations you may not stock
 
 ```text
-Hello,
+Hello FluxLight team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the FluxLight media-converter line, we can supply industrial gigabit and PoE media converters under your label from small lots (−40~75 °C, FCC/CE/RoHS) — is there an MC configuration your transceiver customers keep asking for that you do not stock today?
+Over the past months you had a few product mails from us - most recently "48 Port SFP Switch" on 12 February 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
+Transceivers and DAC are your core and we do not carry them. For the FluxLight media-converter line, under your label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1. Desktop converters and converter racks are not on our list - said up front.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is there a converter configuration your transceiver customers keep asking for that you do not stock today?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
