@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（Marvell）；Realtek 线 STC-18XGDGPW $66 / STC-624XGDGPM $396（`data/hrui_STC对照表.csv`）；CENTEC STH-8DX24VP-HSI（无价） — 自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为两层说法：AC5 线无多千兆铜口；CENTEC VastLakes 表有 24 口 mGig PoE++（STH-2C24XP / 8DX24VP，无价，见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`）；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-12 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the HC-series multi-gig PoE switches, we can be a second source on three levels: the Marvell platform for 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 x 1G/2.5G SFP L2+; 24-PoE + 4 x 10G SFP+); our commercial Realtek line for 2.5G-copper PoE SKUs (8 x 2.5G PoE + 1 x 10G SFP web-managed $66; 24 x 2.5G PoE++ 400 W + 6 x 10G SFP+ L3 $466.4, 2026-10 EXW); and CENTEC for 24-port multi-gig PoE++ with dual hot-swap PSU — which SKU would you consider dual-sourcing first?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 铜口只有 HRUI STC-114XGDGP / STC-624XGDGPM，8 口 2.5G PoE 管理明说无；HRUI 不写 Marvell）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：产品线以 2.5G/10G 多千兆为主：Saga 2.5G 电口 PoE 型号待核
 - **Saga 现在该推什么**：P1 **STC-28DGGPM（Marvell）；Realtek 线 STC-18XGDGPW $66 / STC-624XGDGPM $396（`data/hrui_STC对照表.csv`）；CENTEC STH-8DX24VP-HSI（无价）**（30% 档，Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-624XGDGPM $396→$466.4；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-25 $65（10G Media Converter）、2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-12 $240（24 Port Fiber Switch）、2025-10-20 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch））——自有 2.5G 多千兆 PoE 线 → 现有对位 8 口 PoE+ 2×2.5G SFP L2+ STC-28DGGPM（$87.4 @30%）；8×2.5G PoE + 2 SFP+ 位需向 SmartByte 核型号（待核）。已打开的主题（1/25 封有打开记录）：「2.5G Web Managed Switch」(2024-10-31) → 读者兴趣偏「2.5G」；与 P1 同类，继续｜需求台账 #12：原句「2.5G-port PoE on request」承诺了不存在的品——改为两层说法：AC5 线无多千兆铜口；CENTEC VastLakes 表有 24 口 mGig PoE++（STH-2C24XP / 8DX24VP，无价，见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`）
   - 做不了 / 要先核的：Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；2.5G 铜口只有 HRUI STC-114XGDGP / STC-624XGDGPM，8 口 2.5G PoE 管理明说无；HRUI 不写 Marvell）
   - 第一问（只问一个）：For the HC-series multi-gig PoE switches, we can be a second source on three levels: the Marvell platform for 1G-PoE + 2.5G/10G-fiber-uplink SKUs (8-PoE + 2 x 1G/2.5G SFP L2+; 24-PoE + 4 x 10G SFP+); our commercial Realtek line for 2.5G-copper PoE SKUs (8 x 2.5G PoE + 1 x 10G SFP web-managed $66; 24 x 2.5G PoE++ 400 W + 6 x 10G SFP+ L3 $466.4, 2026-10 EXW); and CENTEC for 24-port multi-gig PoE++ with dual hot-swap PSU — which SKU would you consider dual-sourcing first?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -274,23 +274,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：The HC-series multi-gig PoE positions - what we can second-source today, honestly
 
 ```text
-Hello,
+Hello Hyconext team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the HC-series multi-gig PoE switches, we can be a second source on a Marvell platform (8-PoE + 2×2.5G SFP L2+ now, 2.5G-port PoE on request) from small lots in your housing — which SKU would you consider dual-sourcing first?
+Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+For the HC-series multi-gig PoE switches, what we can second-source today, in your housing from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 2.5G copper PoE: 4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+, unmanaged - STC-114XGDGP - $44.0; a 24-port 2.5G PoE+ managed unit with 10G uplinks - STC-624XGDGPM - $466.4. An 8-port 2.5G PoE managed unit we do not have as a standard model - said up front.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which SKU would you consider dual-sourcing first - and is 2.5G on the copper ports a must for it?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

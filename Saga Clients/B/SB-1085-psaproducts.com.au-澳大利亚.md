@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE（现 HiLook）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）可贴 IntelLink/Panacom 标；非管理 4/8 PoE 位 HRUI（列表价，注明）；换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-09-03 $300（48 port poe managed switch）、2024-12-19 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Marcus, alongside the HiLook PoE switches you wholesale, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches under one of your house brands from small lots, CE/RoHS; RCM by your side — is there a house-brand PoE position your installer customers ask for? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：PoE（现 HiLook）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）可贴 IntelLink/Panacom 标；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚；RCM 由客户侧）；HiLook（海康）价格基准低；21 次无回复 → 改向 GM 具名首触
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-09-03 $300（48 port poe managed switch）、2024-12-19 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——PoE（现 HiLook）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）可贴 IntelLink/Panacom 标；非管理 4/8 PoE 位 HRUI（列表价，注明）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）
   - 第一问（只问一个）：Marcus, alongside the HiLook PoE switches you wholesale, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches under one of your house brands from small lots, CE/RoHS; RCM by your side — is there a house-brand PoE position your installer customers ask for? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -287,23 +287,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：A house-brand PoE position alongside HiLook - IntelLink or Panacom label from small lots
 
 ```text
 Hi Marcus,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the HiLook PoE switches you wholesale, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches under one of your house brands from small lots, CE/RoHS; RCM by your side — is there a house-brand PoE position your installer customers ask for?
+Over the past months you had a steady stream of product mails from us - most recently "Industrial PoE Switch" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $80.7 USD EXW (valid 15 days).
+Alongside the HiLook PoE switches you wholesale, a house-brand position under IntelLink or Panacom from small lots, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. Logo on the unit is free; colour box from 200 sets. RCM stays on your side.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is there a house-brand PoE position your installer customers ask for that HiLook does not fill?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

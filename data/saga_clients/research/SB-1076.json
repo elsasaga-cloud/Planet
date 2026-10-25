@@ -83,7 +83,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
+   "action": "换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side）",
    "one_question": "Alongside the AOA industrial products you carry, we supply neutral-brand DIN-rail gigabit/Fast Ethernet MCs and 8-GE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -105,7 +105,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Alongside the AOA industrial products you carry - converters and a DIN switch at a lower tier",
+   "body": "Hello Krysma team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Industrial PoE Switch\" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the AOA industrial products you carry, neutral-brand units at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional) - model STI-110GE - $26.5 USD; Fast Ethernet version - STI-110FE - $19.7; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. RCM stays on your side.\n\nOne question: which converter configuration do your customers order most - Gigabit SFP-slot, or Fast Ethernet fixed SC?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

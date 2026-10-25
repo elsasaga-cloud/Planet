@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；换人再触锚价 STI-110FE $19.7 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）
 - **断点 / 为什么停在这里**：品类边缘（仪器分销，MC 仅一款）；非主攻区（T5，新加坡）；14 次无回复，仅 sales@
 - **Saga 现在该推什么**：P1 **STI-110FE**（20% 档，换人再触锚价 STI-110FE $19.7 EXW（主表档位（无实报；PDF 上限 $23.1）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——站内 10/100TX–100FX 工业 MC 位 → 工业百兆 MC STI-110FE（$19.7 @20%）、千兆 STI-110GE（$22.4）。已打开的主题（1/24 封有打开记录）：「Managed Optical Bypass Switch」(2025-05-07) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））
   - 第一问（只问一个）：For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue? Reference: STI-110FE at $19.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -265,23 +265,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110FE - industrial mini Fast Ethernet media converter (neutral label)
+**主题**：The industrial 10/100 media converter on your site - is the AOA unit still selling?
 
 ```text
-Hello,
+Hello Trioms team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the industrial 10/100 media converter on your site, we supply neutral-brand DIN-rail Fast Ethernet and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is the AOA unit still selling, and would a lower-priced equivalent fit your catalogue?
+Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial mini Fast Ethernet media converter (1 fiber + 1 copper) - model STI-110FE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $19.7 USD EXW (valid 15 days).
+For the industrial 10/100 media converter on your site (AOA today), a lower-priced equivalent, neutral-brand, at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail Fast Ethernet converter, 1 x RJ45 + 1 x 100M fibre (SC standard, SFP slot optional) - model STI-110FE - $19.7 USD; Gigabit version, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the AOA unit still selling for you, and would a lower-priced equivalent fit the catalogue?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
