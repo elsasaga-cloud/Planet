@@ -181,7 +181,7 @@
   "next_move": {
    "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
    "channel": "S 邮箱 → zerwes@allnet.de",
-   "action": "一句话问其工业线最难采购的 SKU",
+   "action": "一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））",
    "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -203,7 +203,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "One question on the ALL-SGI industrial line - no product pictures",
+   "body": "Hi Gerhard,\n\nYou said it clearly in July 2025: ALLNET has its solution with SFP slots and managed versions. Noted - so no more product pictures from us.\n\nOne question, and only that: across the ALL-SGI industrial line, which SKU is the hardest to source on your side today - lead time, MOQ or price? If there is one, that is the one where a Marvell-based second source from small lots could be worth a look; if there is none, I will leave it until Computex.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

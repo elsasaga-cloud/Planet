@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（若其 E-link 线出现缺口） — 保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面 S 邮箱 → zerwes@allnet.de 一句话问其工业线最难采购的 SKU
+- **下一步**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面 S 邮箱 → zerwes@allnet.de 一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：自有品牌 ALLNET 工业/商用交换机货源——目前已满足。
 - **断点 / 为什么停在这里**：对方不是没需求而是已有供给；只有「供给侧变化」才是入口，不是更多产品图。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM（若其 E-link 线出现缺口）**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2026-10-08 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch））——保活不推销。已打开的主题（2/21 封有打开记录）：「16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-07-11) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面　S 邮箱 → zerwes@allnet.de　一句话问其工业线最难采购的 SKU
+- **下一步（具体）**：2027-Q1（之前只保活）；或 2027-05 Computex 期间当面　S 邮箱 → zerwes@allnet.de　一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））
   - 第一问（只问一个）：Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -268,25 +268,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：One question on the ALL-SGI industrial line - no product pictures
 
 ```text
-Hi Wolfgang,
+Hi Gerhard,
 
-Picking up our earlier exchange about PoE / industrial switches. Across the ALL-SGI line the 8-port gigabit PoE managed DIN unit with 2 SFP is where a Marvell-based second source makes the most sense, so I am quoting that in ALLNET packing with full CE/RoHS documentation, and can add the 4-port bt version if useful.
+You said it clearly in July 2025: ALLNET has its solution with SFP slots and managed versions. Noted - so no more product pictures from us.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your ALLNET ALL-SGI8004P at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question, and only that: across the ALL-SGI industrial line, which SKU is the hardest to source on your side today - lead time, MOQ or price? If there is one, that is the one where a Marvell-based second source from small lots could be worth a look; if there is none, I will leave it until Computex.
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

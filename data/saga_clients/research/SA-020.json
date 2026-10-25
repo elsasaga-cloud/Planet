@@ -138,7 +138,7 @@
     "next_move": {
       "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
       "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
-      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+      "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
       "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
     },
     "facts": [
@@ -162,7 +162,10 @@
     "proof_gaps": [
       "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "The gigabit 8-port DIN switch in WIDEN packing - next to the converters you already brand",
+      "body": "Hi Thawat,\n\nWe met at CommunicAsia and spoke about switches and HDMI-over-fibre; since then you had only general product mails from us, which did not need an answer. This one is specific.\n\nYour WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions. The gigabit step in WIDEN packing from small lots: DIN-rail 8 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C, CE/RoHS - model STI-288GP - $60 USD EXW (MOQ 1, 15-day validity); together with the gigabit SFP-slot converter you already brand, STI-110GE, $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: is the 8-port gigabit PoE the SKU you would add first, or the 4-port?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

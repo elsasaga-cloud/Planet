@@ -154,7 +154,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "S 邮箱 → jeff.ferrier@",
-   "action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）",
+   "action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
    "one_question": "For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?"
   },
   "facts": [
@@ -192,7 +192,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Only DIN 5/8-port industrial, 48 V fixed - nothing else this time",
+   "body": "Hi Jeff,\n\nYou told us two things in 2024: the 52-port Cisco stock at $124 leaves no room for a new rack switch, and your customers want 24 V or 48 V, not a combo. The mails you had since ignored both; this one does not.\n\nFor the fire-detection networks where you use the E-link 5-port: DIN-rail 5 x Gigabit unmanaged, 12-58 V DC in, -40 to 75 C, CE/RoHS - model STI-050GE - $26.0 USD EXW (MOQ 1, 15-day validity); 8-port - STI-080GE - $34.0; 4 x Gigabit PoE+ + 1 x SFP, 48 V fixed (44-57 V DC in, no auto-switching) - STI-144GP - $36.9. PDT packing from small lots.\n\nOne question: for the high-rise fire-detection networks, is it the 5-port copper unit or the 4-PoE unit that gets specified most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

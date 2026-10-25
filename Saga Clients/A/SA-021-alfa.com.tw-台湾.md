@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP — 只保活。已打开的主题（8/26 封有打开记录）：「8 Port Ethernet Switch」(2024-10-24)、「90W PoE Managed Switch」(2025-02-20)、「16 Port Ethernet Switch」(2025-07-28)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「2.5G」；与 P1 同类，继续；换人再触锚价 STC-18XGDGE $50.1 EXW（Saga 对外价 $50.1（hrui_STC对照表；研究档 P1 注）；第 72 批 2026-10-24）；按 30% 自有标档复核对外价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2026-07-20 $1500（24 Port 10G SFP+ Switch）
 - **第一问（只问一个）**：Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample? Reference: STC-18XGDGE at $50.1 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 S 邮箱 → johnson@ 一句话问 2.5G 线是否仍外采
+- **下一步**：2027-Q1 S 邮箱 → johnson@ 一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：2.5G 家用/SMB 交换机（8×2.5G + 10G SFP）贴 ALFA 标。
 - **断点 / 为什么停在这里**：身份核验 + 价格两件事同时发生后停；台系品牌对大陆供应商的尽调门槛高。
 - **Saga 现在该推什么**：P1 **STC-18XGDGE（Saga 对外价 $50.1 EXW，`hrui_STC对照表`）/ STC-108XGDGP**（30% 档，换人再触锚价 STC-18XGDGE $50.1 EXW（Saga 对外价 $50.1（hrui_STC对照表；研究档 P1 注）；第 72 批 2026-10-24）；按 30% 自有标档复核对外价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2026-07-20 $1500（24 Port 10G SFP+ Switch））——只保活。已打开的主题（8/26 封有打开记录）：「8 Port Ethernet Switch」(2024-10-24)、「90W PoE Managed Switch」(2025-02-20)、「16 Port Ethernet Switch」(2025-07-28)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「2.5G」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　S 邮箱 → johnson@　一句话问 2.5G 线是否仍外采
+- **下一步（具体）**：2027-Q1　S 邮箱 → johnson@　一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）
   - 第一问（只问一个）：Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample? Reference: STC-18XGDGE at $50.1 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -283,25 +283,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：The 2.5G models we quoted in August 2024 - still bought in?
 
 ```text
 Hi Johnson,
 
-Picking up our earlier exchange about PoE / industrial switches. Next to the APS08G, a Marvell-based managed 8-port gigabit PoE+ with 2 SFP uplinks in ALFA packing fills the managed slot your PoE line does not have yet, and the 16-port gigabit version upgrades the APS1602E footprint.
+In August 2024 you asked for our company information and prices for the 8 x 2.5G + 10G SFP+ models, and we quoted $50 non-PoE / $65 PoE. Since then only general product mails from us - no reason to answer those.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your ALFA APS08G at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+The non-PoE unit (1 x 10G SFP+ + 8 x 2.5G, desktop, unmanaged) is $50.1 USD EXW today (MOQ 1, 15-day validity); the PoE version I re-quote on request. Next to the APS08G, a managed 8 x Gigabit PoE+ + 2 x SFP in ALFA packing, Marvell-based, is $87.4.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the 2.5G line still bought in, and is the non-PoE or the PoE version the one that moves?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

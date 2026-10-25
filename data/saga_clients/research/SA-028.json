@@ -130,7 +130,7 @@
   "next_move": {
    "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
    "channel": "LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；邮箱退信——LinkedIn/表单用短版）",
    "one_question": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first. Would a 4-PoE + 2-uplink gigabit desktop unit be worth a listing test next to the Raven injectors? Reference: STC-024GP at $22.3 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -178,7 +178,10 @@
   "proof_gaps": [
    "「成交 + 复购」无 PI：请 Simon 确认是哪条通道"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "LinkedIn / web form: a 4-PoE gigabit switch next to the Raven injector line",
+   "body": "Hi David,\n\nSewell has bought PoE power from us; our mails to brent@ and brett@ bounce, so this comes via LinkedIn. Next to the Raven injector line, the easiest add-on SKU for an Amazon listing is a small PoE switch: 4 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, FCC/CE/RoHS - model STC-024GP - $22.3 USD EXW in Sewell packing (MOQ 1, 15-day validity).\n\nOne question: who handles new switch SKUs at Sewell now, so I send the datasheet to the right inbox?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

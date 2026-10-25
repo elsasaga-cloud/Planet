@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位） — 只在 DIN 非管理这一条线上发一次。已打开的主题（3/26 封有打开记录）：「48 port managed switch」(2024-06-03)、「24V/48V PoE Switch」(2024-10-24)、「Re: 24V/48V PoE Switch」(2024-10-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按 30% 自有标档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-03 $220（48 port managed switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 S 邮箱 → jeff.ferrier@ 一封只讲 DIN 5/8 口非管理工业款（对位 E-link）
+- **下一步**：2027-Q1 S 邮箱 → jeff.ferrier@ 一封只讲 DIN 5/8 口非管理工业款（对位 E-link）（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：消防探测网络用小型工业交换机（E-link 5 电口类）；二手 Cisco 覆盖机架需求。
 - **断点 / 为什么停在这里**：客户已经说清楚了什么不要；Saga 继续发的是同类。
 - **Saga 现在该推什么**：P1 **STI-244GP / STI-288GP 非管理工业（E-link 5 电口对位）**（30% 档，按 30% 自有标档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-03 $220（48 port managed switch）、2025-09-25 $280（10G Enterprise SFP Switch））——只在 DIN 非管理这一条线上发一次。已打开的主题（3/26 封有打开记录）：「48 port managed switch」(2024-06-03)、「24V/48V PoE Switch」(2024-10-24)、「Re: 24V/48V PoE Switch」(2024-10-30) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　S 邮箱 → jeff.ferrier@　一封只讲 DIN 5/8 口非管理工业款（对位 E-link）
+- **下一步（具体）**：2027-Q1　S 邮箱 → jeff.ferrier@　一封只讲 DIN 5/8 口非管理工业款（对位 E-link）（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））
   - 第一问（只问一个）：For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -306,25 +306,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (neutral label)
+**主题**：Only DIN 5/8-port industrial, 48 V fixed - nothing else this time
 
 ```text
-Hi Jeffrey,
+Hi Jeff,
 
-Picking up our earlier exchange about PoE / industrial switches. Your PDT-NSU-7104-MP-SF-I is the same 4-port PoE+ with SFP uplink footprint we build in DIN format, so I am quoting that unit in PDT packing with the 8-port managed version as the next size up.
+You told us two things in 2024: the 52-port Cisco stock at $124 leaves no room for a new rack switch, and your customers want 24 V or 48 V, not a combo. The mails you had since ignored both; this one does not.
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the E-link class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $36.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
+For the fire-detection networks where you use the E-link 5-port: DIN-rail 5 x Gigabit unmanaged, 12-58 V DC in, -40 to 75 C, CE/RoHS - model STI-050GE - $26.0 USD EXW (MOQ 1, 15-day validity); 8-port - STI-080GE - $34.0; 4 x Gigabit PoE+ + 1 x SFP, 48 V fixed (44-57 V DC in, no auto-switching) - STI-144GP - $36.9. PDT packing from small lots.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: for the high-rise fire-detection networks, is it the 5-port copper unit or the 4-PoE unit that gets specified most?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / STI-488XGGPM（工业 L2+） — 保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1 S 邮箱 → marco.divalerio@cxr.fr 一句话问外采范围
+- **下一步**：2027-Q1 S 邮箱 → marco.divalerio@cxr.fr 一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：10G MC（当时）。
 - **断点 / 为什么停在这里**：MC 价格流 + 层级错配。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM / STI-488XGGPM（工业 L2+）**（30% 档，换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch））——保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1　S 邮箱 → marco.divalerio@cxr.fr　一句话问外采范围
+- **下一步（具体）**：2027-Q1　S 邮箱 → marco.divalerio@cxr.fr　一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）
   - 第一问（只问一个）：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -303,25 +303,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：The 10G media converter from May 2024 - and the parts of your range you buy in
 
 ```text
 Hi Marco,
 
-Picking up our earlier exchange about PoE / industrial switches. Your SWMD-H-8TGPS-2GSF sits on the same 8-port gigabit PoE + 2 SFP DIN footprint we build on a Marvell switch core, so I am quoting that unit in CXR packing first, with the 4-port 120 W version as the second SKU.
+In May 2024 you asked for the datasheet of our 10G media converter and we quoted $65; the mails you had since were general product mails - no reason to answer those.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as your CXR SWMD-H-8TGPS-2GSF / 8TPG-2GSF at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (valid 15 days).
+The converter is still $65 USD EXW (1 x 10G SFP+ + 1 x 100M/1G/2.5G/10G RJ45, unmanaged; MOQ 1, 15-day validity). On the switch side, your SWMD-H-8TGPS-2GSF sits on the same 8 x Gigabit PoE+ + 2 x SFP DIN footprint we build on a Marvell switch core - in CXR packing, L2+ managed with ring redundancy, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW.
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which parts of the CXR range do you buy in rather than build - media converters, DIN PoE switches, or neither at the moment?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

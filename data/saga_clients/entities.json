@@ -2562,7 +2562,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → boecek@（先核地址是否有效；无具名 KP）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）",
 "one_question": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -2586,7 +2586,10 @@
 "proof_gaps": [
 "用户表「样品购买」无 PI；邮件 0 打开"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "After the 5-port industrial samples - the 8-port managed DIN unit and the 4+1 PoE version",
+"body": "Hello,\n\nOur record says you took the 5-port industrial switch samples from us together with the DIN power supply, and asked about two 2.5G models; the product mails you had since were general ones, and nobody had a reason to answer them. This one is specific.\n\nThe two units that normally follow the 5-port: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity); DIN-rail 4 x Gigabit PoE+ + 1 x SFP unmanaged - STI-144GP - $35.5. Both EXW, so the freight and import side stays transparent on your end.\n\nOne question: is the rack-mount managed industrial switch you mentioned still on your list - and for which cabinet, 19-inch with how many ports?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -11157,7 +11160,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "S 邮箱 → marco.divalerio@cxr.fr",
-"action": "一句话问外采范围",
+"action": "一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）",
 "one_question": "Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -11187,7 +11190,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The 10G media converter from May 2024 - and the parts of your range you buy in",
+"body": "Hi Marco,\n\nIn May 2024 you asked for the datasheet of our 10G media converter and we quoted $65; the mails you had since were general product mails - no reason to answer those.\n\nThe converter is still $65 USD EXW (1 x 10G SFP+ + 1 x 100M/1G/2.5G/10G RJ45, unmanaged; MOQ 1, 15-day validity). On the switch side, your SWMD-H-8TGPS-2GSF sits on the same 8 x Gigabit PoE+ + 2 x SFP DIN footprint we build on a Marvell switch core - in CXR packing, L2+ managed with ring redundancy, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW.\n\nOne question: which parts of the CXR range do you buy in rather than build - media converters, DIN PoE switches, or neither at the moment?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -11684,7 +11690,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
 "one_question": "Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -11708,7 +11714,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "The gigabit 8-port DIN switch in WIDEN packing - next to the converters you already brand",
+"body": "Hi Thawat,\n\nWe met at CommunicAsia and spoke about switches and HDMI-over-fibre; since then you had only general product mails from us, which did not need an answer. This one is specific.\n\nYour WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions. The gigabit step in WIDEN packing from small lots: DIN-rail 8 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C, CE/RoHS - model STI-288GP - $60 USD EXW (MOQ 1, 15-day validity); together with the gigabit SFP-slot converter you already brand, STI-110GE, $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: is the 8-port gigabit PoE the SKU you would add first, or the 4-port?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -12192,7 +12201,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "S 邮箱 → johnson@",
-"action": "一句话问 2.5G 线是否仍外采",
+"action": "一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）",
 "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample? Reference: STC-18XGDGE at $50.1 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -12222,7 +12231,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "The 2.5G models we quoted in August 2024 - still bought in?",
+"body": "Hi Johnson,\n\nIn August 2024 you asked for our company information and prices for the 8 x 2.5G + 10G SFP+ models, and we quoted $50 non-PoE / $65 PoE. Since then only general product mails from us - no reason to answer those.\n\nThe non-PoE unit (1 x 10G SFP+ + 8 x 2.5G, desktop, unmanaged) is $50.1 USD EXW today (MOQ 1, 15-day validity); the PoE version I re-quote on request. Next to the APS08G, a managed 8 x Gigabit PoE+ + 2 x SFP in ALFA packing, Marvell-based, is $87.4.\n\nOne question: is the 2.5G line still bought in, and is the non-PoE or the PoE version the one that moves?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 },
 "kp": [
@@ -15105,7 +15117,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "S 邮箱 → jeff.ferrier@",
-"action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）",
+"action": "一封只讲 DIN 5/8 口非管理工业款（对位 E-link）（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
 "one_question": "For the fire-detection networks, what does the E-link 5-port unit cost you landed, and what would make you dual-source it?"
 },
 "facts": [
@@ -15143,7 +15155,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Only DIN 5/8-port industrial, 48 V fixed - nothing else this time",
+"body": "Hi Jeff,\n\nYou told us two things in 2024: the 52-port Cisco stock at $124 leaves no room for a new rack switch, and your customers want 24 V or 48 V, not a combo. The mails you had since ignored both; this one does not.\n\nFor the fire-detection networks where you use the E-link 5-port: DIN-rail 5 x Gigabit unmanaged, 12-58 V DC in, -40 to 75 C, CE/RoHS - model STI-050GE - $26.0 USD EXW (MOQ 1, 15-day validity); 8-port - STI-080GE - $34.0; 4 x Gigabit PoE+ + 1 x SFP, 48 V fixed (44-57 V DC in, no auto-switching) - STI-144GP - $36.9. PDT packing from small lots.\n\nOne question: for the high-rise fire-detection networks, is it the 5-port copper unit or the 4-PoE unit that gets specified most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -15536,7 +15551,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；邮箱退信——LinkedIn/表单用短版）",
 "one_question": "Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first. Would a 4-PoE + 2-uplink gigabit desktop unit be worth a listing test next to the Raven injectors? Reference: STC-024GP at $22.3 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -15584,7 +15599,10 @@
 "proof_gaps": [
 "「成交 + 复购」无 PI：请 Simon 确认是哪条通道"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "LinkedIn / web form: a 4-PoE gigabit switch next to the Raven injector line",
+"body": "Hi David,\n\nSewell has bought PoE power from us; our mails to brent@ and brett@ bounce, so this comes via LinkedIn. Next to the Raven injector line, the easiest add-on SKU for an Amazon listing is a small PoE switch: 4 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, FCC/CE/RoHS - model STC-024GP - $22.3 USD EXW in Sewell packing (MOQ 1, 15-day validity).\n\nOne question: who handles new switch SKUs at Sewell now, so I send the datasheet to the right inbox?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -15898,7 +15916,7 @@
 "next_move": {
 "when": "2027-Q1（之前只保活）；或 2027-05 Computex 期间当面",
 "channel": "S 邮箱 → zerwes@allnet.de",
-"action": "一句话问其工业线最难采购的 SKU",
+"action": "一句话问其工业线最难采购的 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；无价、只一问（对方已明说有方案））",
 "one_question": "Which SKU in the ALLNET industrial line is hardest to source today — lead time or price? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -15920,7 +15938,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "One question on the ALL-SGI industrial line - no product pictures",
+"body": "Hi Gerhard,\n\nYou said it clearly in July 2025: ALLNET has its solution with SFP slots and managed versions. Noted - so no more product pictures from us.\n\nOne question, and only that: across the ALL-SGI industrial line, which SKU is the hardest to source on your side today - lead time, MOQ or price? If there is one, that is the one where a Marvell-based second source from small lots could be worth a look; if there is none, I will leave it until Computex.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -16725,7 +16746,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → tjargielo@ / ahyz@",
-"action": "一句话问其外采的非核心 SKU",
+"action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
 "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -16747,7 +16768,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "Below the Hyperion line - the non-core SKUs BitStream buys in",
+"body": "Hi Tomasz,\n\nIn January 2025 your colleague asked the price of our 8-port industrial PoE++ managed switch and we answered $140; nothing since, which is fair - that segment is exactly what BitStream builds itself. (Aleksander's auto-reply named you as the contact.)\n\nWhere a second line from us usually fits a manufacturer like you is the non-core SKU: DIN-rail 4 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C, CE/RoHS - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); or a cost-optimised 24 x PoE+ + 4 x 10G SFP+ rack unit for project work, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180.\n\nOne question: which non-core SKUs does BitStream buy in rather than build?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -18900,7 +18924,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → matt@addoncomputer.com",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；「200 台 10–15 天」是对外承诺，发前 Simon 自己确认交期）",
 "one_question": "On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -18924,7 +18948,10 @@
 "proof_gaps": [
 "「已买样」无 PI"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "The ADD-GMC-SFP class converter - lead time, which was the issue after the six samples",
+"body": "Hi Matt,\n\nYou took six media-converter samples from us and the lead time was the problem; the mails since were general product mails - no reason to answer those.\n\nOn the gigabit SFP-slot converter (ADD-GMC-SFP class): DIN-rail or desktop, 1 x RJ45 + 1 x SFP, -40 to 75 C, FCC/CE/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity), in your packing from small lots. For a first 200 units I can commit 10-15 days from order to ex-works; please hold me to it.\n\nOne question: is the converter line still sourced in, and at what monthly quantity?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }

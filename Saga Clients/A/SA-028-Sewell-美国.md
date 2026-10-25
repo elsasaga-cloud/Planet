@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：PoE 注入器 + STC-28DGGPM — 已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；锚价：STC-024GP $22.3（洪瑞进价 +30%，Q-47）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-01 $65（10G Media Converter）、2025-07-07 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first. Would a 4-PoE + 2-uplink gigabit desktop unit be worth a listing test next to the Raven injectors? Reference: STC-024GP at $22.3 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；邮箱退信——LinkedIn/表单用短版）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：PoE 注入器/小 PoE 交换机（AV 配套）。
 - **断点 / 为什么停在这里**：证据冲突。
 - **Saga 现在该推什么**：P1 **PoE 注入器 + STC-28DGGPM**（30% 档，锚价：STC-024GP $22.3（洪瑞进价 +30%，Q-47）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-01 $65（10G Media Converter）、2025-07-07 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch））——已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　LinkedIn David Sewell / sewelldirect.com 表单（brent@ / brett@ 2025 永久退信）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；邮箱退信——LinkedIn/表单用短版）
   - 第一问（只问一个）：Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first. Would a 4-PoE + 2-uplink gigabit desktop unit be worth a listing test next to the Raven injectors? Reference: STC-024GP at $22.3 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -292,25 +292,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (neutral label)
+**主题**：LinkedIn / web form: a 4-PoE gigabit switch next to the Raven injector line
 
 ```text
 Hi David,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first.
+Sewell has bought PoE power from us; our mails to brent@ and brett@ bounce, so this comes via LinkedIn. Next to the Raven injector line, the easiest add-on SKU for an Amazon listing is a small PoE switch: 4 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, FCC/CE/RoHS - model STC-024GP - $22.3 USD EXW in Sewell packing (MOQ 1, 15-day validity).
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $34.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: who handles new switch SKUs at Sewell now, so I send the datasheet to the right inbox?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

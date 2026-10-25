@@ -158,7 +158,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "A 邮箱 → tjargielo@ / ahyz@",
-   "action": "一句话问其外采的非核心 SKU",
+   "action": "一句话问其外采的非核心 SKU（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））",
    "one_question": "Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -180,7 +180,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Below the Hyperion line - the non-core SKUs BitStream buys in",
+   "body": "Hi Tomasz,\n\nIn January 2025 your colleague asked the price of our 8-port industrial PoE++ managed switch and we answered $140; nothing since, which is fair - that segment is exactly what BitStream builds itself. (Aleksander's auto-reply named you as the contact.)\n\nWhere a second line from us usually fits a manufacturer like you is the non-core SKU: DIN-rail 4 x Gigabit PoE+ + 2 x SFP unmanaged, -40 to 75 C, CE/RoHS - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); or a cost-optimised 24 x PoE+ + 4 x 10G SFP+ rack unit for project work, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180.\n\nOne question: which non-core SKUs does BitStream buy in rather than build?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

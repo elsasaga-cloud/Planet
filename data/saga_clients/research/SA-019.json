@@ -171,7 +171,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "S 邮箱 → marco.divalerio@cxr.fr",
-   "action": "一句话问外采范围",
+   "action": "一句话问外采范围（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；10G MC $65 = Simon 2024 实报，仍按 $65）",
    "one_question": "Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -201,7 +201,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The 10G media converter from May 2024 - and the parts of your range you buy in",
+   "body": "Hi Marco,\n\nIn May 2024 you asked for the datasheet of our 10G media converter and we quoted $65; the mails you had since were general product mails - no reason to answer those.\n\nThe converter is still $65 USD EXW (1 x 10G SFP+ + 1 x 100M/1G/2.5G/10G RJ45, unmanaged; MOQ 1, 15-day validity). On the switch side, your SWMD-H-8TGPS-2GSF sits on the same 8 x Gigabit PoE+ + 2 x SFP DIN footprint we build on a Marvell switch core - in CXR packing, L2+ managed with ring redundancy, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW.\n\nOne question: which parts of the CXR range do you buy in rather than build - media converters, DIN PoE switches, or neither at the moment?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

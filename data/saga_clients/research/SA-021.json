@@ -133,7 +133,7 @@
   "next_move": {
    "when": "2027-Q1",
    "channel": "S 邮箱 → johnson@",
-   "action": "一句话问 2.5G 线是否仍外采",
+   "action": "一句话问 2.5G 线是否仍外采（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；2.5G PoE 版（STC-108XGDGP）今价未核，信里写 on request）",
    "one_question": "Is the 8×2.5G + 10G SFP class still outsourced at ALFA, and what certification file do you need from a supplier before a sample? Reference: STC-18XGDGE at $50.1 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -163,7 +163,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "The 2.5G models we quoted in August 2024 - still bought in?",
+   "body": "Hi Johnson,\n\nIn August 2024 you asked for our company information and prices for the 8 x 2.5G + 10G SFP+ models, and we quoted $50 non-PoE / $65 PoE. Since then only general product mails from us - no reason to answer those.\n\nThe non-PoE unit (1 x 10G SFP+ + 8 x 2.5G, desktop, unmanaged) is $50.1 USD EXW today (MOQ 1, 15-day validity); the PoE version I re-quote on request. Next to the APS08G, a managed 8 x Gigabit PoE+ + 2 x SFP in ALFA packing, Marvell-based, is $87.4.\n\nOne question: is the 2.5G line still bought in, and is the non-PoE or the PoE version the one that moves?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  },
  "kp": [
