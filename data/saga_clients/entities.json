@@ -61249,7 +61249,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → biuro@sabmar.tv（Marcin Wypiór）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?"
 },
 "facts": [
@@ -61281,7 +61281,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "After the HDMI-over-fibre extender - the switch for an IP OB van",
+"body": "Hi Marcin,\n\nAfter the HDMI-over-fibre extender you tested with us, this is the next piece for the vans and the virtual studio. (You also had a couple of our general product mails this year - no need to answer those.)\n\nFor an IP OB van or the UE5 studio backbone: 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP snooping for multicast video, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). We do not supply the SFP+ optics, so you keep your usual modules.\n\nOne question: are you moving the vans to NDI or SMPTE 2110 this season, or staying SDI for now?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -120819,7 +120822,7 @@
 "next_move": {
 "when": "2026-11（先找地址）",
 "channel": "A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）",
-"action": "核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发",
+"action": "核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）",
 "one_question": "For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?"
 },
 "facts": [
@@ -120851,7 +120854,10 @@
 "proof_gaps": [
 "avizio.pl 当前有效邮箱（inquiries@ 2024-07 已 550）"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Second source for the Avizio-label industrial PoE switches",
+"body": "Hello Avizio team,\n\nFor the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source in your packaging from small lots:\n\n- DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity)\n- the same footprint unmanaged, STI-288GP - $62.2 USD EXW\n\nOne question: which of the two do your installers use most - managed or unmanaged?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -173928,7 +173934,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → shop@batna24.com（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "For the Extralink range — we build DIN 2-SFP + 8-PoE industrial and Marvell L2+ 8/24-PoE commercial switches under your label from small lots; who handles Extralink product sourcing so I can send specs to the right desk? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -173960,7 +173966,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial PoE switches for the Extralink range - who handles product sourcing?",
+"body": "Hello Batna24 team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Extralink range we can build under your label from small lots: a DIN-rail industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged switch, -40 to 75 C, CE/RoHS - model STI-288GP - $60 USD EXW (MOQ 1, 15-day validity); managed and 24-port commercial versions on the same basis. SFP optics and PoE power supplies we do not make.\n\nOne question: who handles Extralink product sourcing, so I send the specs to the right desk?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 },
@@ -186802,7 +186811,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → kontakt@ivolta.pl（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "Alongside the Utepo PoE switches in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 8/16-port PoE units for camera kits from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -186834,7 +186843,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Neutral-brand PoE switches next to Utepo in your shop",
+"body": "Hello iVolta team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Utepo PoE switches in your shop: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, neutral packing, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); a budget 8-PoE + 2 uplink unmanaged unit for camera kits, STC-028GP, is $25.1.\n\nOne question: which PoE port count do your installer customers buy most - 4, 8 or 24?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -191776,7 +191788,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@obserwuj.pl（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -191808,7 +191820,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "PoE switches and gigabit media converters for the Dahua systems you sell",
+"body": "Hello Obserwuj team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches and media converters you list with Dahua systems: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, neutral packing, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); an industrial mini Gigabit media converter with SFP slot, STI-110GE, is $26.5. SFP optics we do not supply.\n\nOne question: which PoE port count do your installer customers buy most - 4, 8 or 24?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -193661,7 +193676,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → oferty@delta.poznan.pl",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -193701,7 +193716,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "PoE, industrial switches and media converters for the shopdelta range",
+"body": "Hello Delta team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE, industrial and media-converter positions in the shopdelta range, three neutral-brand items from single units, CE/RoHS:\n\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity)\n- DIN-rail industrial 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C - STI-280GE - $46.6\n- industrial mini Gigabit media converter with SFP slot - STI-110GE - $26.5\n\nSFP optics we do not supply.\n\nOne question: which of these three do your installer customers reorder most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -199931,7 +199949,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → esklep@tayama.pl",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "For the PoE switches you list with CCTV kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ (plus budget 4/8/16-PoE unmanaged) from single units, CE/RoHS, EXW USD — which PoE port count do your installer customers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -199963,7 +199981,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Commercial PoE switches for your CCTV kits - 8 and 24 ports",
+"body": "Hello Tayama team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the commercial PoE switches you list with CCTV kits, neutral packing, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP, STC-424DGGPM-280W - $134.5.\n\nOne question: which PoE port count do your installer customers buy most - 4, 8 or 24?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -203523,7 +203544,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → grenton@vidom.pl",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "For the PoE switches in your smart-home and CCTV category, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch and budget 4/8-port unmanaged PoE units from small lots, CE/RoHS, EXW USD — which size do your installers order most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -203555,7 +203576,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "PoE switches for your smart-home and CCTV category",
+"body": "Hello VIDOM team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches in your smart-home and CCTV category: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, neutral packing, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity); a budget 8-PoE + 2 uplink unmanaged unit, STC-028GP, is $25.1.\n\nOne question: which size do your installers order most with Grenton and CCTV jobs - 4, 8 or 24 ports?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -382873,7 +382897,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → biuro@vidos.pl（无具名 KP；公用地址）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）",
 "one_question": "For the VIDOS-branded PoE switches that ship with your IP video-intercom systems, we can supply Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-port PoE units in your packaging from small lots, CE/RoHS, EXW USD — which port count do your installers order most with IP intercom kits? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
 },
 "facts": [
@@ -382905,7 +382929,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "VIDOS-label PoE switch for your IP intercom kits",
+"body": "Hello VIDOS team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the VIDOS-branded PoE switch that ships with your IP video-intercom systems, we build in your packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); a 4-PoE + 2 uplink unmanaged unit for single-door kits, STC-114GP, is $18.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which port count do your installers order most with IP intercom kits - 4 or 8?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }

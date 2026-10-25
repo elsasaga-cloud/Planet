@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2026-11（先找地址） A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效） 核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发
+- **下一步**：2026-11（先找地址） A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效） 核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代
 - **断点 / 为什么停在这里**：官网快照空页（站点状态待核）；现供 N-net（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——现 N-net（深圳）工业 FS 贴 Avizio 标 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-288GP（$62.2）作替代。已打开的主题（1/1 封有打开记录）：「Industrial poe switch」(2024-07-09) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：2026-11（先找地址）　A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）　核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发
+- **下一步（具体）**：2026-11（先找地址）　A 邮箱 → 官网核到的有效邮箱（inquiries@ 已失效）　核 avizio.pl 当前联系邮箱 → 首封用研究档一句话；核不到就不发（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`；地址失效——核到新邮箱再发）
   - 第一问（只问一个）：For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -217,23 +217,24 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
+**主题**：Second source for the Avizio-label industrial PoE switches
 
 ```text
-Hello,
+Hello Avizio team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source (DIN-rail 8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your packaging — which model do your installers use most?
+For the industrial PoE switches you sell under the Avizio label with your security systems, we can be a second ODM source in your packaging from small lots:
 
-We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the N-net class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+- DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity)
+- the same footprint unmanaged, STI-288GP - $62.2 USD EXW
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which of the two do your installers use most - managed or unmanaged?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
