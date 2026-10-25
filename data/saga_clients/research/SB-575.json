@@ -76,7 +76,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。",
       "repeat": [],
       "gaps": []
@@ -100,7 +100,7 @@
         "date": "2025-10-09",
         "dir": "out",
         "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "199c8a54b2659084"
@@ -154,7 +154,7 @@
         "date": "2026-08-05",
         "dir": "out",
         "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fd16fe889655ef"

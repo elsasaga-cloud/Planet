@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：北威尔士 Wrexham 的安防/网络/电气贸易分销商，PLANET 授权分销，给全英安装商供货（贸易账户、批量折扣、次日达、贸易柜台）。类型：分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）。信号：官网品牌页自述「As an authorised Planet distributor Connectec stock a wide range of Planet products」；首页「Shop for Planet Business networking and communication products」；在售 IGS-5225-8P4S / IGS-801T / WGS-5225-8UP2SV / GS-4210-8HP2S；Mikrotik 仓库 C-107 标「分销（PLANET 授权）」。Planet 渠道档案 PB-042 评级 B（需求：PLANET 授权分销自述 + 工业/商用 PoE 多款在售 + 安装商渠道；触达：sales@connectec.uk 官网公开（contact / about / trade 多页），无具名；体量中小（Wrexham 单址 + 网店），可赢；区域英国（一线）；Mikrotik C-107 为「B下放·无邮箱」，本仓补到邮箱 → B）。并档说明：Saga 表内本条 SC-496（英国）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：—）
 - **为什么是 B 级**：**调研后定级 B**（Planet 渠道档案 PB-042 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-488DGGPM — 对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求：；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-488DGGPM — 对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求：；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-25；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：北威尔士 Wrexham 的安防/网络/电气贸易分销商，PLANET 授权分销，给全英安装商供货（贸易账户、批量折扣、次日达、贸易柜台）。类型：分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）。信号：官网品牌页自述「As an authorised Planet distributor Connectec stock a wide range of Planet products」；首页「Shop for Planet Business networking and communication products」；在售 IGS-5225-8P4S / IGS-801T / WGS-5225-8UP2SV / GS-4210-8HP2S；Mi
 - **对方真实需求（有据）**：对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求：
 - **断点 / 为什么停在这里**：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）
-- **Saga 现在该推什么**：P1 **STI-488DGGPM**（20% 档，按主表（研究档 saga_fit））——对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求：
+- **Saga 现在该推什么**：P1 **STI-488DGGPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-25 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-25；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求：
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

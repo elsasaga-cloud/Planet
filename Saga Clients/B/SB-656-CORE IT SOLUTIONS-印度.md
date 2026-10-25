@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。（调研 2026-10-21；表内兴趣：SFP, MC, switch, router）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-17 → 2025-10-02）；最近一次客户回复：2025-06-17：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-17 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-06-17；Simon 实报就是 $65）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Elsa quoted the 10G media converter STC-110XGE at $65 USD EXW in June 2025 (unchanged on the 2026-10 table); how many units and which fibre (SM/MM, distance)?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11（顺手） Elsa 邮箱回原线程 首封前知悉：Elsa 已 1:1 去信 6 轮（2025-10-02→2026-05-11，客户回过信（2025-06-17）），此前还经锚 Bcc 触达（第 74 批(m)）；补答 + 一问
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。
 - **对方真实需求（有据）**：MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
 - **断点 / 为什么停在这里**：联系人邮箱退信；10G MC Saga 价目无（SmartByte 另询）
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch））——MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-17 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-06-17；Simon 实报就是 $65）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。
 - **下一步（具体）**：2026-11（顺手）　Elsa 邮箱回原线程　首封前知悉：Elsa 已 1:1 去信 6 轮（2025-10-02→2026-05-11，客户回过信（2025-06-17）），此前还经锚 Bcc 触达（第 74 批(m)）；补答 + 一问
   - 第一问（只问一个）：Elsa quoted the 10G media converter STC-110XGE at $65 USD EXW in June 2025 (unchanged on the 2026-10 table); how many units and which fibre (SM/MM, distance)?
 
@@ -58,12 +58,12 @@ updated: 2026-10-25
 | 2025-06-17 | 来 | Core IT Solutions（Mumbai） | Price pls | Elsa 信里已写 65usd/pc，对方仍问价 = 没细读或要正式报价 | `gmail_e` |
 | 2025-06-17 | 去 | Elsa | Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter. Please see attached datasheet.（附 STC-110XGE.pdf） | 「Price pls」当天就回了 $65 + 规格书 → 无下文；之前信稿「we owe you a clean answer」写反了 | `gmail_e 1977c84d867d3059` |
 | 2025-06-17 | 去 | Elsa 群发（BCC；To sureshch1968@gmail.com，印度-4（锚 sureshch1968 gmail；2025-03-13 起月轮，13 轮） 批次） | 10G Media Converter — This is a 10G Ethernet media converter for you. Good outlook and 14-slot rack mountable. Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unman | Elsa 箱群发 BCC 触达证据（命中地址 citsindia.com, info@citsindia.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
-| 2025-10-02 | out | Elsa → info@citsindia.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@citsindia.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-10-02 | out | Elsa → info@citsindia.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/6 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:info@citsindia.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-03 | out | Elsa → info@citsindia.com | Booster PoE Switch（Elsa 1:1 逐月名单第 2/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@citsindia.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → info@citsindia.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-03-02 | out | Elsa → info@citsindia.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@citsindia.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-04-03 | out | Elsa → info@citsindia.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@citsindia.com` 全程 complete：6 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2026-05-11 | out | Elsa → info@citsindia.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → info@citsindia.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：SFP, MC, switch, router；回复：price | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-17「Price pls」→ 同日回 STC-110XGE $65 + 规格书 → 无下文），不是 WhatsApp

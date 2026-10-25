@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：新加坡 Prolink（1991 年起数字生活品牌：电子配件、网络与通信、电源、智能家居；取得新加坡网络安全标签 Level 1；表内「商业 PoE 自己的 logo」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：商业POE 自己的logo）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,12 +46,12 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））———
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-10-09 | 去 | Elsa 群发（BCC；To apr.securitysystems@bosch.com，新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring | Elsa 箱群发 BCC 触达证据（命中地址 prolink2u.com, sales@prolink2u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-10-09 | 去 | Elsa 群发（BCC；To apr.securitysystems@bosch.com，新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 prolink2u.com, sales@prolink2u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

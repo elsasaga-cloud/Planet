@@ -1,137 +1,137 @@
 {
- "code": "SB-1220",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（mondoplast.ro，快照 2026-10-21）",
- "summary": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
- "type": "电信设备进口分销商（罗马尼亚）",
- "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Hirschmann"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Mondo Plast - Cabluri si echipamente pentru telecomunicatii；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
-   "url": "https://www.mondoplast.ro/",
-   "date": "2026-10-21"
+  "code": "SB-1220",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（mondoplast.ro，快照 2026-10-21）",
+  "summary": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
+  "type": "电信设备进口分销商（罗马尼亚）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Hirschmann"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Mondo Plast - Cabluri si echipamente pentru telecomunicatii；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
+      "url": "https://www.mondoplast.ro/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "比较多的外壳 有国内的 switch MC WDM等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Mondo Plast 定位",
+      "quote": "Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
+      "url": "https://www.mondoplast.ro/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "多外壳国产；switch MC WDM",
+      "quote": "比较多的外壳 有国内的 switch MC WDM等",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "比较多的外壳 有国内的 switch MC WDM等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "罗马尼亚",
+    "other": "官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Mondo Plast 定位",
-   "quote": "Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
-   "url": "https://www.mondoplast.ro/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "电信设备进口分销（光纤 / 线缆 / 无线 / 安防 / 网络）"
+  ],
+  "channels": {
+    "role": "电信设备进口分销商（罗马尼亚）",
+    "region": "罗马尼亚",
+    "contact": "timisoara@mondoplast.net"
   },
-  {
-   "kind": "用户表",
-   "claim": "多外壳国产；switch MC WDM",
-   "quote": "比较多的外壳 有国内的 switch MC WDM等",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,…,camera supraveghere,switch,media conv…",
+    "表内：比较多的外壳 有国内的；switch MC WDM 等"
+  ],
+  "risks": [
+    "小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小",
+    "无具名 KP（分支邮箱 timisoara@）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）"
+  },
+  "email_hook": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「比较多的外壳 有国内的 switch MC WDM等」",
+      "type": "电信设备进口分销商（罗马尼亚）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "罗马尼亚（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「比较多的外壳 有国内的 switch MC WDM等」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@morion.ru）2025-02-24→2026-08-18 共 12 轮群发（90W PoE Managed Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
+    "need": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
+    "breakpoint": "小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-18；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → timisoara@mondoplast.net",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+        "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 mondoplast.net, timisoara@mondoplast.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-18",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 mondoplast.net, timisoara@mondoplast.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "比较多的外壳 有国内的 switch MC WDM等",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "罗马尼亚",
-  "other": "官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电信设备进口分销（光纤 / 线缆 / 无线 / 安防 / 网络）"
- ],
- "channels": {
-  "role": "电信设备进口分销商（罗马尼亚）",
-  "region": "罗马尼亚",
-  "contact": "timisoara@mondoplast.net"
- },
- "signals": [
-  "官网：importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,…,camera supraveghere,switch,media conv…",
-  "表内：比较多的外壳 有国内的；switch MC WDM 等"
- ],
- "risks": [
-  "小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小",
-  "无具名 KP（分支邮箱 timisoara@）；无跟进记录"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）"
- },
- "email_hook": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「比较多的外壳 有国内的 switch MC WDM等」",
-   "type": "电信设备进口分销商（罗马尼亚）",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "罗马尼亚（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「比较多的外壳 有国内的 switch MC WDM等」；研究档 risks：小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@morion.ru）2025-02-24→2026-08-18 共 12 轮群发（90W PoE Managed Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。",
-  "need": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
-  "breakpoint": "小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → timisoara@mondoplast.net",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-02-24",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
-    "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 mondoplast.net, timisoara@mondoplast.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-18",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 mondoplast.net, timisoara@mondoplast.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "比较多的外壳 有国内的 switch MC WDM等",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

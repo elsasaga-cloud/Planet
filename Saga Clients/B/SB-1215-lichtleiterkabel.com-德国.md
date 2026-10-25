@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：德国 Lichtleiterkabel.com（光纤线缆与预端接 LWL 线缆网店；表内「工业 FS（Planet）、MC、周边；销售平台」「质量一般」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：工业FS(planet) MC 周边产品 销售平台）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：德国 Lichtleiterkabel.com（光纤线缆与预端接 LWL 线缆网店；表内「工业 FS（Planet）、MC、周边；销售平台」「质量一般」）；表内无跟进记录。
 - **对方真实需求（有据）**：在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：线缆网店：交换机为配套，量小
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit））——在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——在售 Planet 工业 FS → 工业非管理 8 GE + 2 SFP STI-280GE（$46.6 @20%）/ PoE STI-288GP；MC 位 STI-110GE
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

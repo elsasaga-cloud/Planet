@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。（调研 2026-10-21；表内兴趣：比较多的外壳 有国内的 switch MC WDM等）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-18；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → timisoara@mondoplast.net 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：罗马尼亚 Mondo Plast（蒂米什瓦拉电信设备进口与分销：光纤、线缆、电台、UPS、天线、机柜、卫星接收、路由、摄像机、交换机、MC；Hirschmann / Hikvision；表内「比较多的外壳，有国内的；switch / MC / WDM 等」；邮箱 timisoara@）；表内无跟进记录。
 - **对方真实需求（有据）**：多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）
 - **断点 / 为什么停在这里**：小国（罗马尼亚，非主动挖掘范围）；多品类杂货分销，量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-18；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——多外壳国产货在售 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；MC 位 STI-110GE（$22.4）；WDM/SFP Saga 不供（Q-32）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → timisoara@mondoplast.net　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Alongside the switches and media converters you import, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch, budget 4/8-port PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which band sells most through your Timișoara branch? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 

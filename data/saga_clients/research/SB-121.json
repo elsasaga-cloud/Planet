@@ -120,7 +120,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 30,
-      "price": "Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）",
+      "price": "Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-16 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-16；Simon 实报就是 $65）；2025-06-10 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-10；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 3 轮 2025-09-27→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源",
       "repeat": [],
       "gaps": []
@@ -145,7 +145,7 @@
         "date": "2025-04-16",
         "dir": "out",
         "who": "Elsa → sales@quippro.kz",
-        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 2/16 轮；To 仅本户）",
+        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 2/16 轮；To 仅本户；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "1963d1357a33c8ab"
@@ -163,7 +163,7 @@
         "date": "2025-06-10",
         "dir": "out",
         "who": "Elsa → sales@quippro.kz",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/16 轮；To 仅本户）",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/16 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "1975843600e2fb55"
@@ -190,7 +190,7 @@
         "date": "2025-09-27",
         "dir": "out",
         "who": "Elsa → sales@quippro.kz",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/16 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/16 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "1998968065ad46e7"
@@ -300,7 +300,7 @@
         "date": "2026-05-11",
         "dir": "out",
         "who": "Elsa → varun@vintronsmartvision.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19e167ab07a22c33"
@@ -309,7 +309,7 @@
         "date": "2026-05-11",
         "dir": "out",
         "who": "Elsa → sales@quippro.kz",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19e157eeaf6de784"
@@ -318,7 +318,7 @@
         "date": "2026-08-04",
         "dir": "out",
         "who": "Elsa → sales@quippro.kz",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 15/16 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 15/16 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fcc24ed79b743a"
@@ -327,7 +327,7 @@
         "date": "2026-08-04",
         "dir": "out",
         "who": "Elsa → varun@vintronsmartvision.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 16/16 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 16/16 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fcbc9611b6a037"

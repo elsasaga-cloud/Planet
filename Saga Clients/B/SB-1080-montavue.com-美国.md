@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。（调研 2026-10-21；表内兴趣：POE switch 自己的logo 就这一款工业级的   摄像头，安防）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2022-09-14 → 2023-10-19）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → admin@montavue.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：美国 Montavue（家用与商用 4K/2K 安防摄像系统 DTC 品牌：NVR 套装、Nexus 4K AI、美国销售与技术支持、无月费；自有 logo PoE 交换机（表内「就这一款工业级的」）、MNN-P162-16；表内「PoE switch 自己的 logo，摄像头安防」）；群发 13 次无回复。
 - **对方真实需求（有据）**：套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）
 - **断点 / 为什么停在这里**：DTC 品牌：现有深圳代工价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——套装配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Montavue 标；现有唯一工业款 → STI-288GP（$62.2）；16 口位 HRUI STC-2016GP（$88.0）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → admin@montavue.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the Montavue-branded PoE switch you pair with your NVR kits (and the single industrial model), we can be a second source on a Marvell platform — 8-PoE + 2 SFP L2+ desktop and DIN-rail 8-PoE industrial — from small lots with FCC/CE/RoHS reports; which one would you dual-source first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 

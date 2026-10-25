@@ -153,7 +153,7 @@
     "saga_now": {
       "p1": "STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表",
       "tier": 30,
-      "price": "Elsa 2025-09-25 实报 STC-4168XGGCM 双 AC $280（= 群发价，≈ 进价，Łukasz 未接）；按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-15 $220（48 port managed switch）、2025-05-26 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）",
+      "price": "Elsa 2025-09-25 实报 STC-4168XGGCM 双 AC $280（= 群发价，≈ 进价，Łukasz 未接）；按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-15 $220（48 port managed switch）、2025-05-26 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-25 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 2 轮 2025-04-28→2025-05-25；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）",
       "why": "J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户。已打开的主题（5/30 封有打开记录）：「Industrial PoE Switch」(2025-09-16)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-09-29)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-03)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-15) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Download Link_Alan(2025-09-29)、STC-110GE(2025-10-03)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-16)、Saga Feature List_7.5.x_L2+(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
       "repeat": [],
       "gaps": [
@@ -181,7 +181,7 @@
         "date": "2025-04-28",
         "dir": "去",
         "who": "Elsa 群发（BCC；To info@axuse.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To info@axuse.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
         "k": "elsa_bcc",
         "msg_id": "1967c1b82fddb7e4"
@@ -190,7 +190,7 @@
         "date": "2025-05-25",
         "dir": "去",
         "who": "Elsa 群发（BCC；To info@axuse.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To info@axuse.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
         "k": "elsa_bcc",
         "msg_id": "19706f048da10720"

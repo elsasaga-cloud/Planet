@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：德国数据网络 / 电信 / 监控技术中型专业批发（在线商店；switch 206 / industrial 73；+49 2821 97016-0），info@；表内「工业 FS MC 周边产品，销售平台」；无跟进。（调研 2026-10-21；表内兴趣：工业FS MC 周边产品 销售平台）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@br-network.de（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：德国数据网络 / 电信 / 监控技术中型专业批发（在线商店；switch 206 / industrial 73；+49 2821 97016-0），info@；表内「工业 FS MC 周边产品，销售平台」；无跟进。
 - **对方真实需求（有据）**：工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
 - **断点 / 为什么停在这里**：无具名
-- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit））——工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；MC STI-110GE。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@br-network.de（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Guten Tag — for the Industrial-Switch and MC categories in your shop: DIN 2-SFP + 8-PoE at $57 and gigabit MC at $22 EXW (CE/RoHS); who is the buyer for active components?
 

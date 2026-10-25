@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：马来西亚 CCTV 公司 Cybron System（camera 119 / cctv 28），Hussen；要 5 电口具体资料，实际需要带光口的工业 PoE；WA 无实质回复。（调研 2026-10-21；表内兴趣：5电口 需要具体的产品信息 实际需要带光的工业POE）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 带光口小型工业 PoE → STI-154GP（1 SFP + 5 口含 4 PoE，$39.2 @25%）；2 光 8 PoE → STI-288GP。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 带光口小型工业 PoE → STI-154GP（1 SFP + 5 口含 4 PoE，$39.2 @25%）；2 光 8 PoE → STI-288GP。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -47,14 +47,14 @@ updated: 2026-10-25
 - **现状一句话**：马来西亚 CCTV 公司 Cybron System（camera 119 / cctv 28），Hussen；要 5 电口具体资料，实际需要带光口的工业 PoE；WA 无实质回复。
 - **对方真实需求（有据）**：带光口小型工业 PoE → STI-154GP（1 SFP + 5 口含 4 PoE，$39.2 @25%）；2 光 8 PoE → STI-288GP。
 - **断点 / 为什么停在这里**：WA 无回复；马来西亚 SIRIM 一般不涉交换机
-- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，按主表（研究档 saga_fit））——带光口小型工业 PoE → STI-154GP（1 SFP + 5 口含 4 PoE，$39.2 @25%）；2 光 8 PoE → STI-288GP。
+- **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7））——带光口小型工业 PoE → STI-154GP（1 SFP + 5 口含 4 PoE，$39.2 @25%）；2 光 8 PoE → STI-288GP。
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「53 https://www.cybron.com.my/ 马来西亚 Hussen 2023.7.7 5电口 需要具体的产品信息 实际需要带光的工业POE hussen@cybron.com.my 601938 61632 已加」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 9_马来西亚_Sugito` |
 | 2025-04-11 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 16 Port Ethernet Switch（Elsa 群发第 1/3 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:cybron.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
-| 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/3 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:cybron.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/3 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 第 74 批(n) `from:e.sagatelecom to:cybron.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-06-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 8 Port Industrial PoE Switch（Elsa 群发第 3/3 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:cybron.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：5电口 需要具体的产品信息 实际需要带光的工业POE | 表内备注 | `用户表` |
 

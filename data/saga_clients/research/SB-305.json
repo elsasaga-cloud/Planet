@@ -108,7 +108,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 30,
-      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-03 $65（10G media converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-28 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "自有 CLD-8POE-2SFP-IND（8 PoE + 2 SFP 工业非管理，N-net 代工）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$62.2 @30%）/ 管理 STI-288GPM（$85.5）贴 Cloudtronics 标。已打开的主题（3/38 封有打开记录）：「10G media converter」(2024-08-13)、「8 Port Industrial PoE Switch」(2025-08-22)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -142,7 +142,7 @@
         "date": "2025-06-09",
         "dir": "out",
         "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户）",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19753eb03c56890e"
@@ -151,7 +151,7 @@
         "date": "2025-10-08",
         "dir": "out",
         "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "199c2aa89f59abbc"
@@ -196,7 +196,7 @@
         "date": "2026-05-07",
         "dir": "out",
         "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19e004e6cb7b25d1"
@@ -205,7 +205,7 @@
         "date": "2026-08-10",
         "dir": "out",
         "who": "Elsa → support@cloudtronics.co.id",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@cloudtronics.com.au` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fea2f5b896eb46"

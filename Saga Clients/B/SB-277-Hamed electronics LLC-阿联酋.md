@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。（调研 2026-10-21；表内兴趣：POE user manual, 2ch买了样 T 97142281214）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 中东/阿联酋；-10 来源为 2010–2015 年展会且无后续记录
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-03 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-03；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,14 +48,14 @@ updated: 2026-10-25
 - **现状一句话**：迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。
 - **对方真实需求（有据）**：集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）
 - **断点 / 为什么停在这里**：小团队、项目节奏；2012 后无互动；中东非主攻区
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch））——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-03 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-03；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-06-22 | 去 | S 群发 | 48 port managed switch | 1 封 / 1 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-06-22（1 去 / 0 来） | `gmail_digest` |
-| 2025-10-03 | 去 | Elsa 群发（BCC；To admin@ionsecurity.com.au，AU/AE+CA/UK/HR（avigilon 批次前身） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring | Elsa 箱群发 BCC 触达证据（命中地址 agrajan@eim.ae）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-10-03 | 去 | Elsa 群发（BCC；To admin@ionsecurity.com.au，AU/AE+CA/UK/HR（avigilon 批次前身） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 agrajan@eim.ae）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | POE user manual, 2ch买了样 T 97142281214 / Anil P. Joseph engineer / A.G.Varghese director / 9715065 40470 已加 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

@@ -1,129 +1,129 @@
 {
- "code": "SB-1154",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
- "summary": "德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。",
- "type": "网络产品经销商（德国，Digitus 为主）",
- "size": "",
- "brands_seen": [
-  "Digitus"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Digitus 产品很多 价格很高",
-   "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Sonja Geserick",
-   "title": "（职务待核）",
-   "email": "sonja.geserick@aplusnet.de",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "德国",
-  "other": "官网 aplusnet.de，语言 ?，快照状态 unreachable；角色判定来源：待核"
- },
- "business_lines": [
-  "网络产品经销（德国）"
- ],
- "channels": {
-  "role": "网络产品经销商（德国，Digitus 为主）",
-  "region": "德国",
-  "contact": "info@aplusnet.de、sonja.geserick@aplusnet.de"
- },
- "signals": [
-  "表内：SFP 工业 FS MC POE Digitus 的产品很多 价格很高；质量一般；KP Sonja Geserick",
-  "快照：unreachable"
- ],
- "risks": [
-  "官网 unreachable（经营状态待核）；Digitus（Assmann）品牌粘性；表内「质量一般」；未跟进过"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供"
- },
- "email_hook": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP 工业FS MC POE Digitus的产品很多 价格很高」",
-   "type": "网络产品经销商（德国，Digitus 为主）",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "DE 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「SFP 工业FS MC POE Digitus的产品很多 价格很高」；研究档 risks：官网 unreachable（经营状态待核）；Digitus（Assmann）品牌粘性；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。",
-  "need": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供",
-  "breakpoint": "官网 unreachable（经营状态待核）；Digitus（Assmann）品牌粘性；表内「质量一般」；未跟进过",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → sonja.geserick@aplusnet.de（Sonja Geserick）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-03-28",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
-    "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 aplusnet.de, info@aplusnet.de, sonja.geserick@aplusnet.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-31",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 aplusnet.de, info@aplusnet.de, sonja.geserick@aplusnet.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1154",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（unreachable）",
+  "summary": "德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。",
+  "type": "网络产品经销商（德国，Digitus 为主）",
+  "size": "",
+  "brands_seen": [
+    "Digitus"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Digitus 产品很多 价格很高",
+      "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [
+    {
+      "name": "Sonja Geserick",
+      "title": "（职务待核）",
+      "email": "sonja.geserick@aplusnet.de",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "德国",
+    "other": "官网 aplusnet.de，语言 ?，快照状态 unreachable；角色判定来源：待核"
+  },
+  "business_lines": [
+    "网络产品经销（德国）"
+  ],
+  "channels": {
+    "role": "网络产品经销商（德国，Digitus 为主）",
+    "region": "德国",
+    "contact": "info@aplusnet.de、sonja.geserick@aplusnet.de"
+  },
+  "signals": [
+    "表内：SFP 工业 FS MC POE Digitus 的产品很多 价格很高；质量一般；KP Sonja Geserick",
+    "快照：unreachable"
+  ],
+  "risks": [
+    "官网 unreachable（经营状态待核）；Digitus（Assmann）品牌粘性；表内「质量一般」；未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供"
+  },
+  "email_hook": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，DE 批次 To office@all4fiber.com，0 回（第 73 批(o) Bcc 头核对 msg 1a056d5159d35ca3）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP 工业FS MC POE Digitus的产品很多 价格很高」",
+      "type": "网络产品经销商（德国，Digitus 为主）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "DE 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「SFP 工业FS MC POE Digitus的产品很多 价格很高」；研究档 risks：官网 unreachable（经营状态待核）；Digitus（Assmann）品牌粘性；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To office@all4fiber.com）2025-03-28→2026-08-31 共 9 轮群发（16 Port Ethernet Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Mini Industrial PoE Switch、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。",
+    "need": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供",
+    "breakpoint": "官网 unreachable（经营状态待核）；Digitus（Assmann）品牌粘性；表内「质量一般」；未跟进过",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → sonja.geserick@aplusnet.de（Sonja Geserick）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-03-28",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+        "quote": "16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 aplusnet.de, info@aplusnet.de, sonja.geserick@aplusnet.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To office@all4fiber.com，DE 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 aplusnet.de, info@aplusnet.de, sonja.geserick@aplusnet.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

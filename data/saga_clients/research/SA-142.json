@@ -102,7 +102,7 @@
     "saga_now": {
       "p1": "STI-288DGGPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
       "repeat": [],
       "gaps": []
@@ -153,7 +153,7 @@
         "date": "2025-10-09",
         "dir": "out",
         "who": "Elsa → info@crec.com.ph",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "199c82e46656b062"
@@ -198,7 +198,7 @@
         "date": "2026-05-05",
         "dir": "out",
         "who": "Elsa → info@crec.com.ph",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19df6b8cf6d3f4db"
@@ -207,7 +207,7 @@
         "date": "2026-08-06",
         "dir": "out",
         "who": "Elsa → info@crec.com.ph",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fd515bf97d4f7e"

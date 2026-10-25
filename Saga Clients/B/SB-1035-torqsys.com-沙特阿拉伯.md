@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。（调研 2026-10-21；表内兴趣：做项目的  让发介绍资料）
 - **为什么是 B 级**：+4 仅已读（read）未回复；+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯
 - **历史互动**：推送 7 次（2023-03-30 → 2023-09-11）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -47,13 +47,13 @@ updated: 2026-10-25
 - **现状一句话**：阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。
 - **对方真实需求（有据）**：SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。
 - **断点 / 为什么停在这里**：公用事业项目（守界：民用水务可供，按单核最终用户）
-- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit））——SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-01 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
-| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里） | Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：做项目的 让发介绍资料；回复：read | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

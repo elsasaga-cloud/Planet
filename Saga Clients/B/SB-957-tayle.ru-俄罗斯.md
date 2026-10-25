@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：实力非常强 用Oring的 用marvell比较多；switch等；覆盖了很多产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-11-03 → 2025-11-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：俄罗斯 Тайле Tayle（俄罗斯网络设备制造商与分销商；表内「实力非常强，用 Oring 的，用 marvell 比较多；主要是 BADU 和丰润达的；和中国供应商合作很多，从很多国内供应商买 SFP；覆盖了很多产品」；KP A. Kuznetsova、A. Rubeko）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
 - **断点 / 为什么停在这里**：Q-33 口径：丰润达在供，仅推 SmartByte/Marvell 线；俄罗斯：结算/物流/合规风险；多国内供应商在供（比价激烈）；1 次无回复
-- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch））——Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
+- **Saga 现在该推什么**：P1 **STI-280GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-01 $240（24 Port Fiber Switch）、2025-11-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——Marvell 偏好 + 丰润达在供（Q-33 口径，仅推 SmartByte 线）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、工业 L3 STI-41616XGGPM（$487.7）、商用 24 GE + 4×10G STC-424XGGM（$138.0）贴 Tayle 标
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

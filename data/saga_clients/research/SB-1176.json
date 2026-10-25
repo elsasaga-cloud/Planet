@@ -1,260 +1,260 @@
 {
- "code": "SB-1176",
- "name_official": "Cyberbajt Tadeusz Nowak（cyberbajt.pl）",
- "researched_at": "2026-10-21",
- "website_status": "在线（cyberbajt.pl；并档 Planet 渠道档案 PB-069）",
- "summary": "Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」。Planet 渠道档案 PB-069 评级 B（需求：PLANET 商用交换机 5 款有价有货期 + 工业线（Moxa/Antaira）在售 → 对 Saga 两条线都有真实槽位；触达：官网 dział handlowy 具名销售邮箱公开（Mikrotik 仓 R49 自官网抄录 6 位，本仓快照见 Michał Błaszczyk 具名）；体量：个体经营（Tadeusz Nowak）但自述「największy sklep internetowy dla instalatorów i operatorów ISP」+ 自有 CBF 品牌 → 可赢；Mikrotik 仓 A-512（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1176，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "TP-Link",
-  "Ubiquiti",
-  "MikroTik",
-  "Moxa",
-  "Teltonika",
-  "D-Link",
-  "Antaira"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "PLANET WGS-4215-8P2S 在售（价格与货期）",
-   "quote": "Switch przemysłowy PLANET Managed 8-port 10/100/1000T … WGS-4215-8P2S … 1017.63 zł … 1251.68 zł brutto … Towar będzie u Ciebie za 7 dni",
-   "url": "https://www.cyberbajt.pl/produkt/14809/switch-przemyslowy-planet-managed-8-port-101001000t.html",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "PLANET WGSW-20160HP 商品页",
-   "quote": "PLANET WGSW-20160HP",
-   "url": "https://www.cyberbajt.pl/produkt/14816/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "PLANET GSD-804P / GSD-804 / FSD-803 商品页",
-   "quote": "PLANET GSD-804P … ; GSD-804 … 57.15 zł ; FSD-803 … 114.30 zł",
-   "url": "https://www.cyberbajt.pl/produkt/14730/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "PLANET GT-805A 媒体转换器在售",
-   "quote": "PLANET GT-805A media konwerter 10/100/1000Base-T do 1000Base-LX … 168.22 zł szt … 206.91 zł brutto … Towar będzie u Ciebie za 4 dni … Producent Planet",
-   "url": "https://www.cyberbajt.pl/produkt/11041/planet-gt-805a-media-konwerter-101001000base-t.html",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "媒体转换器类目品牌筛选含 Planet（与 Antaira / Moxa 同柜）",
-   "quote": "Filtrowanie: Antaira · ATTE · CBF · Cudy · D-Link · Digitus · Fibrain · Mikrotik · Moxa · OEM · Opton · Planet · Qoltec · Tenda · TP-LINK · Ubiquiti … Planet IGTP-815AT przemysłowy media konwerter 100/1000BASE-X 10/100/1000BASE-T 802.3at PoE+",
-   "url": "https://www.cyberbajt.pl/grupa/769/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司法务信息与自述定位",
-   "quote": "Adres: Cyberbajt Tadeusz Nowak ul. Młyńska 27 22-400 Zamość · NIP: 922-100-32-43 · Regon: 950190918 … Cyberbajt jest wiodącym dostawcą i dystrybutorem sprzętu sieciowego do radiowej i optycznej transmisji danych oraz producentem anten radiowych",
-   "url": "https://www.cyberbajt.pl/page/29/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "客群定位（安装商与 ISP）",
-   "quote": "Cyberbajt - największy sklep internetowy dla instalatorów i operatorów telekomunikacyjnych ISP. Bogata oferta: światłowody, monitoring, Mikrotik, Ubiquiti, maszty, switche, routery…",
-   "url": "https://www.cyberbajt.pl/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "自有品牌 CBF 与天线制造",
-   "quote": "Cyberbajt to nie tylko jeden z najwiekszych sklepów internetowych z produktami WiFi i światłowodami (marka CBF). To także jeden z czołowych producentów wysokiej jakości anten",
-   "url": "https://www.cyberbajt.pl/producent/cyberbajt/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "名录",
-   "claim": "成立年份",
-   "quote": "Od 2002 roku Cyberbajt z sukcesem działa … NIP: 9221003243 REGON: 950190918",
-   "url": "https://www.krs-online.com.pl/firma/2602012-cyberbajt",
-   "date": "2026-10-20"
-  }
- ],
- "kp": [
-  {
-   "name": "Michał Błaszczyk",
-   "title": "技术/销售（dział handlowy）；公开（官网 /handlowcy/；邮箱由 Mikrotik 仓 R49 自同页抄录，本仓搜索快照见姓名，未重新逐一打开核对）",
-   "email": "m.blaszczyk@cyberbajt.pl",
-   "phone": "600 601 602 / (84) 638 10 70",
-   "source": "https://www.cyberbajt.pl/handlowcy/"
-  },
-  {
-   "name": "D. Jonik 等 5 位销售",
-   "title": "sales（dział handlowy）；公开（同上；另有 k.godzisz@ / e.raciborski@ / g.gozdz@ / s.sirko@，见 Mikrotik 仓 A-512 行）",
-   "email": "d.jonik@cyberbajt.pl",
-   "phone": "",
-   "source": "https://www.cyberbajt.pl/handlowcy/"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-069，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Cyberbajt Tadeusz Nowak（cyberbajt.pl）",
-  "founded": "",
-  "hq": "Zamość（ul. Młyńska 27）, 波兰",
+  "code": "SB-1176",
+  "name_official": "Cyberbajt Tadeusz Nowak（cyberbajt.pl）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（cyberbajt.pl；并档 Planet 渠道档案 PB-069）",
+  "summary": "Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」。Planet 渠道档案 PB-069 评级 B（需求：PLANET 商用交换机 5 款有价有货期 + 工业线（Moxa/Antaira）在售 → 对 Saga 两条线都有真实槽位；触达：官网 dział handlowy 具名销售邮箱公开（Mikrotik 仓 R49 自官网抄录 6 位，本仓快照见 Michał Błaszczyk 具名）；体量：个体经营（Tadeusz Nowak）但自述「największy sklep internetowy dla instalatorów i operatorów ISP」+ 自有 CBF 品牌 → 可赢；Mikrotik 仓 A-512（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1176，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-069（2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json）；自有品牌：是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机；最大未知：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）"
- },
- "business_lines": [
-  "分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "WGS-4215-8P2S",
-   "spec": "8×GE PoE+ + 2×SFP L2+ 管理，同槽位（PLANET 为壁挂款）",
-   "saga": "STC-28DGGPM",
-   "url": "https://cyberbajt.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "WGSW-20160HP",
-   "spec": "PLANET 为 16×GE PoE + 4×SFP；Saga 商用线无 16 口 → 以 24 口 280W 款作上位替代",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://cyberbajt.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GSD-804P",
-   "spec": "8×GE 桌面非管理 PoE：Saga 商用线无非管理型号，不硬凑",
-   "saga": "—",
-   "url": "https://cyberbajt.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GSD-804",
-   "spec": "8×GE 桌面非管理：不硬凑",
-   "saga": "—",
-   "url": "https://cyberbajt.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "FSD-803",
-   "spec": "8×FE 桌面非管理：不硬凑",
-   "saga": "—",
-   "url": "https://cyberbajt.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GT-805A",
-   "spec": "GE 媒体转换器：Saga 对位为工业级 1×GE + 1×SFP（规格上位）",
-   "saga": "STI-110GE",
-   "url": "https://cyberbajt.pl",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGTP-815AT",
-   "spec": "工业 PoE+ 媒体转换器，同槽位",
-   "saga": "STI-111GP",
-   "url": "https://cyberbajt.pl",
-   "date": "2026-10-19"
-  }
- ],
- "channels": {
-  "role": "分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）",
-  "region": "波兰"
- },
- "signals": [
-  "ISP/安装商网店同时上架 PLANET 商用款（WGS-4215-8P2S 壁挂管理 PoE、GSD-804P 桌面 PoE）与 Moxa/Antaira 工业款 → 两条线 Saga 都有对位；自家 CBF 品牌说明它习惯做贴牌/自有品牌 → 对中性包装 OEM 没有门槛；8×GE PoE + 2 SFP 管理型（STC-28DGGPM，$80.7 EXW）直接对位其 WGS-4215-8P2S 槽位",
-  "PLANET 侧预案（并档，不从本仓发）：8×GE PoE + 2 SFP 管理 vs WGS-4215-8P2S；EXW",
-  "样机：1 台到 Zamość 做实验室测试（其有 technika 部门）"
- ],
- "risks": [
-  "PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）",
-  "Planet 首触邮件未发送（Elsa 账号待定）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求："
- },
- "email_hook": "You list the PLANET WGS-4215-8P2S next to Moxa and Antaira DIN-rail units; a Marvell-based 8×GE PoE + 2 SFP managed switch at EXW slots in between on price, and the same factory line covers the industrial DIN-rail class. For the 8-port PoE managed slot where you list the PLANET WGS-4215-8P2S, is your volume in that wall-mount managed unit, or in the unmanaged GSD-804P desktop class?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 d.jonik@cyberbajt.pl；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）",
-   "type": "—",
-   "sieve": "1（只收到群发）",
-   "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "PL 次级重点",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 1；研究档 risks：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz ；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、F",
-  "need": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：",
-  "breakpoint": "PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180",
-   "why": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-01-24",
-    "dir": "内",
-    "who": "Gmail 退信（S 邮箱）",
-    "quote": "t.kupiec@cyberbajt.pl 永久退信：550 5.1.1 <t.kupiec@cyberbajt.pl>: Recipient address rejected: User unknown",
-    "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
-    "k": "gmail_s ec6cef7b7e599fe4"
-   },
-   {
-    "date": "2025-04-03",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
-    "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberbajt.pl, m.blaszczyk@cyberbajt.pl, s.sirko@cyberbajt.pl, t.kupiec@cyberbajt.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-01",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberbajt.pl, m.blaszczyk@cyberbajt.pl, s.sirko@cyberbajt.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-06",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "24 Port PoE Managed Switch",
-    "why": "1 封 / 0 次打开 / 0 回｜首封 2026-10-06 → 末封 2026-10-06（1 去 / 0 来）",
-    "k": "gmail_digest"
-   }
+  "brands_seen": [
+    "PLANET",
+    "TP-Link",
+    "Ubiquiti",
+    "MikroTik",
+    "Moxa",
+    "Teltonika",
+    "D-Link",
+    "Antaira"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "PLANET WGS-4215-8P2S 在售（价格与货期）",
+      "quote": "Switch przemysłowy PLANET Managed 8-port 10/100/1000T … WGS-4215-8P2S … 1017.63 zł … 1251.68 zł brutto … Towar będzie u Ciebie za 7 dni",
+      "url": "https://www.cyberbajt.pl/produkt/14809/switch-przemyslowy-planet-managed-8-port-101001000t.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "PLANET WGSW-20160HP 商品页",
+      "quote": "PLANET WGSW-20160HP",
+      "url": "https://www.cyberbajt.pl/produkt/14816/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "PLANET GSD-804P / GSD-804 / FSD-803 商品页",
+      "quote": "PLANET GSD-804P … ; GSD-804 … 57.15 zł ; FSD-803 … 114.30 zł",
+      "url": "https://www.cyberbajt.pl/produkt/14730/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "PLANET GT-805A 媒体转换器在售",
+      "quote": "PLANET GT-805A media konwerter 10/100/1000Base-T do 1000Base-LX … 168.22 zł szt … 206.91 zł brutto … Towar będzie u Ciebie za 4 dni … Producent Planet",
+      "url": "https://www.cyberbajt.pl/produkt/11041/planet-gt-805a-media-konwerter-101001000base-t.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "媒体转换器类目品牌筛选含 Planet（与 Antaira / Moxa 同柜）",
+      "quote": "Filtrowanie: Antaira · ATTE · CBF · Cudy · D-Link · Digitus · Fibrain · Mikrotik · Moxa · OEM · Opton · Planet · Qoltec · Tenda · TP-LINK · Ubiquiti … Planet IGTP-815AT przemysłowy media konwerter 100/1000BASE-X 10/100/1000BASE-T 802.3at PoE+",
+      "url": "https://www.cyberbajt.pl/grupa/769/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司法务信息与自述定位",
+      "quote": "Adres: Cyberbajt Tadeusz Nowak ul. Młyńska 27 22-400 Zamość · NIP: 922-100-32-43 · Regon: 950190918 … Cyberbajt jest wiodącym dostawcą i dystrybutorem sprzętu sieciowego do radiowej i optycznej transmisji danych oraz producentem anten radiowych",
+      "url": "https://www.cyberbajt.pl/page/29/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "客群定位（安装商与 ISP）",
+      "quote": "Cyberbajt - największy sklep internetowy dla instalatorów i operatorów telekomunikacyjnych ISP. Bogata oferta: światłowody, monitoring, Mikrotik, Ubiquiti, maszty, switche, routery…",
+      "url": "https://www.cyberbajt.pl/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "自有品牌 CBF 与天线制造",
+      "quote": "Cyberbajt to nie tylko jeden z najwiekszych sklepów internetowych z produktami WiFi i światłowodami (marka CBF). To także jeden z czołowych producentów wysokiej jakości anten",
+      "url": "https://www.cyberbajt.pl/producent/cyberbajt/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "名录",
+      "claim": "成立年份",
+      "quote": "Od 2002 roku Cyberbajt z sukcesem działa … NIP: 9221003243 REGON: 950190918",
+      "url": "https://www.krs-online.com.pl/firma/2602012-cyberbajt",
+      "date": "2026-10-20"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Michał Błaszczyk",
+      "title": "技术/销售（dział handlowy）；公开（官网 /handlowcy/；邮箱由 Mikrotik 仓 R49 自同页抄录，本仓搜索快照见姓名，未重新逐一打开核对）",
+      "email": "m.blaszczyk@cyberbajt.pl",
+      "phone": "600 601 602 / (84) 638 10 70",
+      "source": "https://www.cyberbajt.pl/handlowcy/"
+    },
+    {
+      "name": "D. Jonik 等 5 位销售",
+      "title": "sales（dział handlowy）；公开（同上；另有 k.godzisz@ / e.raciborski@ / g.gozdz@ / s.sirko@，见 Mikrotik 仓 A-512 行）",
+      "email": "d.jonik@cyberbajt.pl",
+      "phone": "",
+      "source": "https://www.cyberbajt.pl/handlowcy/"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-069，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "Cyberbajt Tadeusz Nowak（cyberbajt.pl）",
+    "founded": "",
+    "hq": "Zamość（ul. Młyńska 27）, 波兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-069（2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json）；自有品牌：是（CBF：光纤无源/有源组件 + Cyberbajt 天线）——但不涉及交换机；最大未知：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）"
+  },
+  "business_lines": [
+    "分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "WGS-4215-8P2S",
+      "spec": "8×GE PoE+ + 2×SFP L2+ 管理，同槽位（PLANET 为壁挂款）",
+      "saga": "STC-28DGGPM",
+      "url": "https://cyberbajt.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "WGSW-20160HP",
+      "spec": "PLANET 为 16×GE PoE + 4×SFP；Saga 商用线无 16 口 → 以 24 口 280W 款作上位替代",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://cyberbajt.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-804P",
+      "spec": "8×GE 桌面非管理 PoE：Saga 商用线无非管理型号，不硬凑",
+      "saga": "—",
+      "url": "https://cyberbajt.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-804",
+      "spec": "8×GE 桌面非管理：不硬凑",
+      "saga": "—",
+      "url": "https://cyberbajt.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "FSD-803",
+      "spec": "8×FE 桌面非管理：不硬凑",
+      "saga": "—",
+      "url": "https://cyberbajt.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GT-805A",
+      "spec": "GE 媒体转换器：Saga 对位为工业级 1×GE + 1×SFP（规格上位）",
+      "saga": "STI-110GE",
+      "url": "https://cyberbajt.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGTP-815AT",
+      "spec": "工业 PoE+ 媒体转换器，同槽位",
+      "saga": "STI-111GP",
+      "url": "https://cyberbajt.pl",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）",
+    "region": "波兰"
+  },
+  "signals": [
+    "ISP/安装商网店同时上架 PLANET 商用款（WGS-4215-8P2S 壁挂管理 PoE、GSD-804P 桌面 PoE）与 Moxa/Antaira 工业款 → 两条线 Saga 都有对位；自家 CBF 品牌说明它习惯做贴牌/自有品牌 → 对中性包装 OEM 没有门槛；8×GE PoE + 2 SFP 管理型（STC-28DGGPM，$80.7 EXW）直接对位其 WGS-4215-8P2S 槽位",
+    "PLANET 侧预案（并档，不从本仓发）：8×GE PoE + 2 SFP 管理 vs WGS-4215-8P2S；EXW",
+    "样机：1 台到 Zamość 做实验室测试（其有 technika 部门）"
+  ],
+  "risks": [
+    "PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）",
+    "Planet 首触邮件未发送（Elsa 账号待定）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求："
+  },
+  "email_hook": "You list the PLANET WGS-4215-8P2S next to Moxa and Antaira DIN-rail units; a Marvell-based 8×GE PoE + 2 SFP managed switch at EXW slots in between on price, and the same factory line covers the industrial DIN-rail class. For the 8-port PoE managed slot where you list the PLANET WGS-4215-8P2S, is your volume in that wall-mount managed unit, or in the unmanaged GSD-804P desktop class?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 d.jonik@cyberbajt.pl；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）",
+      "type": "—",
+      "sieve": "1（只收到群发）",
+      "stop": "1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "PL 次级重点",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 1；研究档 risks：PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz ；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、F",
+    "need": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：",
+    "breakpoint": "PLANET 5 款的实际动销（商品页写 7 天货期 → 疑为代发非常备库存）；是否愿意以 CBF 品牌贴牌交换机；谁管选品（个体经营，大概率 Tadeusz Nowak 本人）；Mikrotik 仓 A-512 首触是否已发（本仓不发）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其 PLANET 在售里唯一的管理型 PoE 款是 WGS-4215-8P2S（8×GE PoE+ + 2×SFP，壁挂）→ STC-28DGGPM 同口型、同管理级别；GSD-804P / FSD-803 为非管理桌面款，Saga 商用线无非管理型号，不硬凑；分销/网店 → 20%（沿用 Planet 档案 PB-069）；需求：",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-01-24",
+        "dir": "内",
+        "who": "Gmail 退信（S 邮箱）",
+        "quote": "t.kupiec@cyberbajt.pl 永久退信：550 5.1.1 <t.kupiec@cyberbajt.pl>: Recipient address rejected: User unknown",
+        "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
+        "k": "gmail_s ec6cef7b7e599fe4"
+      },
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberbajt.pl, m.blaszczyk@cyberbajt.pl, s.sirko@cyberbajt.pl, t.kupiec@cyberbajt.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 cyberbajt.pl, m.blaszczyk@cyberbajt.pl, s.sirko@cyberbajt.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-06",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "24 Port PoE Managed Switch",
+        "why": "1 封 / 0 次打开 / 0 回｜首封 2026-10-06 → 末封 2026-10-06（1 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。（调研 2026-10-21；表内兴趣：SFP MC 商业Switch  TPlink为主 也有其他的牌子；SFP switch等  发不过去；switch CCTV networking等）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-21→2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。
 - **对方真实需求（有据）**：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）
 - **断点 / 为什么停在这里**：俄罗斯结算；一邮箱退信（改用另一邮箱）；政府（МВД）项目守界按个案
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit））——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-21→2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

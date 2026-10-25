@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。（调研 2026-10-21；表内兴趣：工业交换机；AOA的工业FS比较多 有自己的logo MC VC FS 周边产品）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+2 最近活动 2024
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -47,13 +47,13 @@ updated: 2026-10-25
 - **现状一句话**：胡志明市（+84 28 3831 3119）光通信设备分销与制造商：自产跳线 / 尾纤 / ODF，分销 SFP/SFP+/XFP/QSFP 光模块、GPON OLT/ONU、工具、交换机（SFP 词频 262、PoE 170、switch 144、industrial 33；MikroTik），CEO Hồ Lâm；表内：AOA 的工业 FS 较多，**有自己的 logo**（MC / VC / FS / 周边）→ OEM 30%。
 - **对方真实需求（有据）**：自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。
 - **断点 / 为什么停在这里**：越南低价市场、AOA 价格基准低
-- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit））——自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。
+- **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-13 | 来 | Lam Ho（Quang Lam，越南） | （Gmail emoji reaction 💖，无正文） | 非实质 | `gmail_e` |
-| 2026-08-10 | out | Elsa → lamho@quanglam.com.vn | 24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom to:quanglam.com.vn` 全程 complete：2 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
+| 2026-08-10 | out | Elsa → lamho@quanglam.com.vn | 24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(o) `from:e.sagatelecom to:quanglam.com.vn` 全程 complete：2 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱唯一往来 = 2026-02-13「DWDM Core Switching Solution」群发 → lamho@quanglam.com.vn 同日仅 Gmail 表情「💖」；用户表「WhatsApp 已加·未回复」在 Simon 手机，邮件侧无文字回复

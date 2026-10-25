@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。（调研 2026-10-21；表内兴趣：商业POE 自己的logo 主要是CCTV类产品；商业POE 自己的logo  有人卖他们的 看着像新桥的）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：俄罗斯 Keno（keno-cctv.ru / fox-cctv.ru：CCTV 品牌，KN-PRO8/16/32 NVR、KN-J34T 等；表内「商业 PoE 自己的 logo，主要是 CCTV；很多都是 ONV 的；有人卖他们的，看着像新桥的」）；表内未跟进。
 - **对方真实需求（有据）**：自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流/合规风险（EAC 由客户申报）；现供 ONV/新桥（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit））——自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有 Keno 标商用 PoE（现 ONV/新桥）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 8/16 PoE 位 HRUI STC-028GP / STC-2216GPM（列表价，注明）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

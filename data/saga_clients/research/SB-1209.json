@@ -1,136 +1,136 @@
 {
- "code": "SB-1209",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（kamsys.pl，快照 2026-10-21）",
- "summary": "波兰 Kamsys（监控/报警/安防系统网店：BCS 智能摄像机、门禁、可视对讲、Dahua / Hikvision / Uniview；表内「SFP MC 工业 FS VC」「质量一般」；邮箱 sklep@、wyceny@）；表内未跟进。",
- "type": "安防网店（波兰）",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "BCS",
-  "Hikvision",
-  "Uniview"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-   "quote": "Szukasz nowoczesnych systemów zabezpieczeń antywłamaniowych i monitoringu? W sklepie internetowym Kamsys znajdziesz najlepsze rozwiązania dla domu i firmy.",
-   "url": "https://www.kamsys.pl/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "SFP MC 工业FS VC",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Kamsys 定位",
-   "quote": "Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys ; Inteligentne Kamery BCS ; Systemy zabezpieczeń, kontrola dostępu, monitoring",
-   "url": "https://www.kamsys.pl/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "SFP MC 工业 FS VC",
-   "quote": "SFP MC 工业FS VC；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "波兰",
-  "other": "官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "监控 / 报警 / 门禁网店（波兰）"
- ],
- "channels": {
-  "role": "安防网店（波兰）",
-  "region": "波兰",
-  "contact": "sklep@kamsys.pl、wyceny@kamsys.pl"
- },
- "signals": [
-  "官网：Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys；首页 Inteligentne Kamery BCS ; Videodomofony；kw poe 10 / cctv 10 / switch 8",
-  "表内：SFP MC 工业 FS VC；质量一般"
- ],
- "risks": [
-  "网店/品牌线既定（BCS = 波兰 NSS 品牌自带 PoE）；表内「质量一般」；未跟进过，仅通用邮箱"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）；SFP Saga 不供"
- },
- "email_hook": "Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）",
-   "type": "波兰安防网店",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动；备用具名邮箱：piotr@kamsys.pl（自动回复中出现的同司具名邮箱，2025-10-05，k=7d516fc6a1f3e02f；从未发过）",
-   "lane": "PL",
-   "cadence": "不动",
-   "evidence": "k=7d516fc6a1f3e02f；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读；同批次（To biuro@zintronic.pl）本户见于 2026-09-01 名单；2025-04-03 首轮名单无此地址 → 中途加入"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—；备用具名邮箱 → piotr@kamsys.pl",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-10-05",
-    "dir": "来",
-    "who": "自动回复",
-    "quote": "自动回复里给出代理人/同事邮箱 piotr@kamsys.pl",
-    "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
-    "k": "7d516fc6a1f3e02f"
-   },
-   {
-    "date": "2025-10-09",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
-    "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 allegro@kamsys.pl, kamsys.pl, sklep@kamsys.pl, wyceny@kamsys.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-01",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 allegro@kamsys.pl, kamsys.pl, sklep@kamsys.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   }
+  "code": "SB-1209",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（kamsys.pl，快照 2026-10-21）",
+  "summary": "波兰 Kamsys（监控/报警/安防系统网店：BCS 智能摄像机、门禁、可视对讲、Dahua / Hikvision / Uniview；表内「SFP MC 工业 FS VC」「质量一般」；邮箱 sklep@、wyceny@）；表内未跟进。",
+  "type": "安防网店（波兰）",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "BCS",
+    "Hikvision",
+    "Uniview"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+      "quote": "Szukasz nowoczesnych systemów zabezpieczeń antywłamaniowych i monitoringu? W sklepie internetowym Kamsys znajdziesz najlepsze rozwiązania dla domu i firmy.",
+      "url": "https://www.kamsys.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "SFP MC 工业FS VC",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Kamsys 定位",
+      "quote": "Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys ; Inteligentne Kamery BCS ; Systemy zabezpieczeń, kontrola dostępu, monitoring",
+      "url": "https://www.kamsys.pl/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "SFP MC 工业 FS VC",
+      "quote": "SFP MC 工业FS VC；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 kamsys.pl，语言 pl-pl，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "监控 / 报警 / 门禁网店（波兰）"
+  ],
+  "channels": {
+    "role": "安防网店（波兰）",
+    "region": "波兰",
+    "contact": "sklep@kamsys.pl、wyceny@kamsys.pl"
+  },
+  "signals": [
+    "官网：Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys；首页 Inteligentne Kamery BCS ; Videodomofony；kw poe 10 / cctv 10 / switch 8",
+    "表内：SFP MC 工业 FS VC；质量一般"
+  ],
+  "risks": [
+    "网店/品牌线既定（BCS = 波兰 NSS 品牌自带 PoE）；表内「质量一般」；未跟进过，仅通用邮箱"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "CCTV 配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；工业位 STI-288GPM（$78.9）；MC 位 STI-110GE（$22.4）；SFP Saga 不供"
+  },
+  "email_hook": "Alongside the BCS and Dahua systems in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches, DIN-rail industrial PoE units and gigabit media converters from small lots, CE/RoHS, EXW USD — which port count do your installer customers buy most?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）",
+      "type": "波兰安防网店",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动；备用具名邮箱：piotr@kamsys.pl（自动回复中出现的同司具名邮箱，2025-10-05，k=7d516fc6a1f3e02f；从未发过）",
+      "lane": "PL",
+      "cadence": "不动",
+      "evidence": "k=7d516fc6a1f3e02f；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读；同批次（To biuro@zintronic.pl）本户见于 2026-09-01 名单；2025-04-03 首轮名单无此地址 → 中途加入"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—；备用具名邮箱 → piotr@kamsys.pl",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-10-05",
+        "dir": "来",
+        "who": "自动回复",
+        "quote": "自动回复里给出代理人/同事邮箱 piotr@kamsys.pl",
+        "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
+        "k": "7d516fc6a1f3e02f"
+      },
+      {
+        "date": "2025-10-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 allegro@kamsys.pl, kamsys.pl, sklep@kamsys.pl, wyceny@kamsys.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 allegro@kamsys.pl, kamsys.pl, sklep@kamsys.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

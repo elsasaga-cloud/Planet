@@ -1,138 +1,138 @@
 {
- "code": "SB-866",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
- "type": "网络集成/分销商（约旦，BDCOM 在供）",
- "size": "",
- "brands_seen": [
-  "BDCOM"
- ],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "大口FS；大口FS BDCOM；switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "大口 FS BDCOM",
-   "quote": "大口FS / 大口FS BDCOM / switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Motaz Alsharif",
-   "title": "Owner",
-   "email": "motaz@smartsystems.jo",
-   "phone": "",
-   "source": "用户表"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "约旦",
-  "other": "官网 smartsystems.jo，语言 ?，快照状态 http_error；角色判定来源：待核"
- },
- "business_lines": [
-  "网络集成 / 分销（约旦）"
- ],
- "channels": {
-  "role": "网络集成/分销商（约旦，BDCOM 在供）",
-  "region": "约旦",
-  "contact": "info@smartsystems.jo、motaz@smartsystems.jo"
- },
- "signals": [
-  "表内：大口 FS / 大口 FS BDCOM / switch；KP Motaz Alsharif / Owner",
-  "快照：http_error"
- ],
- "risks": [
-  "非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触"
- ],
- "saga_fit": {
-  "p1": "STC-424XGGM",
-  "tier": 25,
-  "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）"
- },
- "email_hook": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（A/S 邮箱 13 封 2024→2026，其中 3 封被打开，0 回；收件 info@smartsystems.jo, motaz@smartsystems.jo；被打开主题「Industrial PoE Switch、Booster PoE Switch」）；Elsa 群发 To 直收 14 轮 2025-03-04→2026-08-20（本户是「RU/UZ/KZ/BY/TR+PL 个别」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-08-20「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a01e5768ba94543）",
-   "type": "网络集成/分销商（约旦，BDCOM 在供）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "约旦 非主攻",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 13，Opened 标签 3（Simon 群发追踪）；用户表：「大口FS；大口FS BDCOM；switch」；研究档 risks：非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
-  },
-  "situation": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
-  "need": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）",
-  "breakpoint": "非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触",
-  "saga_now": {
-   "p1": "STC-424XGGM",
-   "tier": 25,
-   "price": "首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）",
-   "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "A 邮箱 → motaz@smartsystems.jo（Motaz Alsharif；只发他，不抄 info@）",
-   "action": "首封前知悉：Elsa 已 To 直发 14 轮（2025-03-04→2026-08-20）（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
-   "one_question": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote? Reference: STC-424XGGM at $132.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-08-20",
-    "dir": "去",
-    "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-    "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ info@smartsystems.jo（截至 2026-10-24 无回复）",
-    "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
-   },
-   {
-    "date": "2026-08-20",
-    "dir": "去",
-    "who": "Elsa 群发（To 直收：本户是「RU/UZ/KZ/BY/TR+PL 个别」批次的锚，其余客户在 Bcc）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发直达证据（To info@smartsystems.jo）；该批次 14 轮 2025-03-04→2026-08-20 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-15",
-    "dir": "去",
-    "who": "A/S 群发",
-    "quote": "Industrial PoE Switch、Booster PoE Switch",
-    "why": "13 封 / 3 次打开 / 0 回｜首封 2024-11-03 → 末封 2026-09-15（13 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "大口FS；大口FS BDCOM；switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-866",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
+  "type": "网络集成/分销商（约旦，BDCOM 在供）",
+  "size": "",
+  "brands_seen": [
+    "BDCOM"
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hi Motaz,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?\n\nReference price: 24-GE + 4 × 10G SFP+ L2+ managed switch (Marvell AC5) (STC-424XGGM) $132.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "大口FS；大口FS BDCOM；switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "大口 FS BDCOM",
+      "quote": "大口FS / 大口FS BDCOM / switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Motaz Alsharif",
+      "title": "Owner",
+      "email": "motaz@smartsystems.jo",
+      "phone": "",
+      "source": "用户表"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-25"
- }
+  "company_facts": {
+    "hq": "约旦",
+    "other": "官网 smartsystems.jo，语言 ?，快照状态 http_error；角色判定来源：待核"
+  },
+  "business_lines": [
+    "网络集成 / 分销（约旦）"
+  ],
+  "channels": {
+    "role": "网络集成/分销商（约旦，BDCOM 在供）",
+    "region": "约旦",
+    "contact": "info@smartsystems.jo、motaz@smartsystems.jo"
+  },
+  "signals": [
+    "表内：大口 FS / 大口 FS BDCOM / switch；KP Motaz Alsharif / Owner",
+    "快照：http_error"
+  ],
+  "risks": [
+    "非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触"
+  ],
+  "saga_fit": {
+    "p1": "STC-424XGGM",
+    "tier": 25,
+    "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）"
+  },
+  "email_hook": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（A/S 邮箱 13 封 2024→2026，其中 3 封被打开，0 回；收件 info@smartsystems.jo, motaz@smartsystems.jo；被打开主题「Industrial PoE Switch、Booster PoE Switch」）；Elsa 群发 To 直收 14 轮 2025-03-04→2026-08-20（本户是「RU/UZ/KZ/BY/TR+PL 个别」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-08-20「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a01e5768ba94543）",
+      "type": "网络集成/分销商（约旦，BDCOM 在供）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "约旦 非主攻",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 13，Opened 标签 3（Simon 群发追踪）；用户表：「大口FS；大口FS BDCOM；switch」；研究档 risks：非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
+    "need": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）",
+    "breakpoint": "非主攻区（T5，约旦）；BDCOM 在供价格基准低；官网 http_error；未跟进过 → 向 Owner 具名首触",
+    "saga_now": {
+      "p1": "STC-424XGGM",
+      "tier": 25,
+      "price": "首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$349.4）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "A 邮箱 → motaz@smartsystems.jo（Motaz Alsharif；只发他，不抄 info@）",
+      "action": "首封前知悉：Elsa 已 To 直发 14 轮（2025-03-04→2026-08-20）（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
+      "one_question": "Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote? Reference: STC-424XGGM at $132.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ info@smartsystems.jo（截至 2026-10-24 无回复）",
+        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+      },
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Elsa 群发（To 直收：本户是「RU/UZ/KZ/BY/TR+PL 个别」批次的锚，其余客户在 Bcc）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发直达证据（To info@smartsystems.jo）；该批次 14 轮 2025-03-04→2026-08-20 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-15",
+        "dir": "去",
+        "who": "A/S 群发",
+        "quote": "Industrial PoE Switch、Booster PoE Switch",
+        "why": "13 封 / 3 次打开 / 0 回｜首封 2024-11-03 → 末封 2026-09-15（13 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "大口FS；大口FS BDCOM；switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hi Motaz,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?\n\nReference price: 24-GE + 4 × 10G SFP+ L2+ managed switch (Marvell AC5) (STC-424XGGM) $132.7 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

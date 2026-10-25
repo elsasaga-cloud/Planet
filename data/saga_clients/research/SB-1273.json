@@ -76,7 +76,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 20,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）",
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []
@@ -117,7 +117,7 @@
         "date": "2026-05-12",
         "dir": "out",
         "who": "Elsa → kosovaku@gmail.com",
-        "quote": "10G Enterprise SFP Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc）",
+        "quote": "10G Enterprise SFP Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
         "k": "elsa_bcc",
         "msg_id": "19e1ae3890188ab9"
@@ -126,7 +126,7 @@
         "date": "2026-08-11",
         "dir": "out",
         "who": "Elsa → kosovaku@gmail.com",
-        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc）",
+        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
         "k": "elsa_bcc",
         "msg_id": "19fef6807ae77bef"

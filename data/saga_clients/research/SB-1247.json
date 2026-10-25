@@ -1,138 +1,138 @@
 {
- "code": "SB-1247",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（spesaelettrica.it，快照 2026-10-21）",
- "summary": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
- "type": "电气材料分销商（意大利，多仓）",
- "size": "",
- "brands_seen": [
-  "Siemens",
-  "Schneider"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Spesa Elettrica；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini presenti su tutto il territorio italiano. Credia",
-   "url": "https://spesaelettrica.it/",
-   "date": "2026-10-21"
+  "code": "SB-1247",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（spesaelettrica.it，快照 2026-10-21）",
+  "summary": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
+  "type": "电气材料分销商（意大利，多仓）",
+  "size": "",
+  "brands_seen": [
+    "Siemens",
+    "Schneider"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Spesa Elettrica；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini presenti su tutto il territorio italiano. Credia",
+      "url": "https://spesaelettrica.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "电气材料专业分销，多仓库分销网络",
+      "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini",
+      "url": "https://spesaelettrica.it/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch（语境待核）",
+      "quote": "switch；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "电气材料专业分销，多仓库分销网络",
-   "quote": "Siamo specializzati nell’offerta di prodotti professionali, di qualità e delle principali marche di materiale elettrico. Possiamo contare su una fitta rete distributiva con numerosi magazzini",
-   "url": "https://spesaelettrica.it/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "电气材料分销（多品牌、多仓库）"
+  ],
+  "channels": {
+    "role": "电气材料分销商（意大利，多仓）",
+    "region": "意大利",
+    "contact": "info@spesaelettrica.it"
   },
-  {
-   "kind": "用户表",
-   "claim": "switch（语境待核）",
-   "quote": "switch；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：prodotti professionali … delle principali marche di materiale elettrico；fitta rete distributiva con numerosi magazzini",
+    "站内品牌 Siemens / Schneider；kw industrial 279 / telecom 166 / distributor 113"
+  ],
+  "risks": [
+    "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
+    "电气材料分销：网络设备非主业，量小",
+    "无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STI-280GE",
+    "tier": 20,
+    "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP"
+  },
+  "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」",
+      "type": "电气材料分销商（意大利，多仓）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「switch」；研究档 risks：表内「switch」在电气分销语境可能是开关/断路器，需求待核；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
+    "need": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
+    "breakpoint": "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
+    "saga_now": {
+      "p1": "STI-280GE",
+      "tier": 20,
+      "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@spesaelettrica.it（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-04-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@spesaelettrica.it, spesaelettrica.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@spesaelettrica.it, spesaelettrica.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 spesaelettrica.it，语言 it，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电气材料分销（多品牌、多仓库）"
- ],
- "channels": {
-  "role": "电气材料分销商（意大利，多仓）",
-  "region": "意大利",
-  "contact": "info@spesaelettrica.it"
- },
- "signals": [
-  "官网：prodotti professionali … delle principali marche di materiale elettrico；fitta rete distributiva con numerosi magazzini",
-  "站内品牌 Siemens / Schneider；kw industrial 279 / telecom 166 / distributor 113"
- ],
- "risks": [
-  "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
-  "电气材料分销：网络设备非主业，量小",
-  "无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STI-280GE",
-  "tier": 20,
-  "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP"
- },
- "email_hook": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch」",
-   "type": "电气材料分销商（意大利，多仓）",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「switch」；研究档 risks：表内「switch」在电气分销语境可能是开关/断路器，需求待核；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "意大利 Spesa Elettrica（电气材料专业分销：主流品牌电气材料、多仓库分销网络；站内 Siemens / Schneider，industrial 279 / telecom 166；表内兴趣「switch」—— 电气行业语境下可能指开关而非交换机）；表内无跟进记录。",
-  "need": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
-  "breakpoint": "表内「switch」在电气分销语境可能是开关/断路器，需求待核",
-  "saga_now": {
-   "p1": "STI-280GE",
-   "tier": 20,
-   "price": "首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "电气批发渠道的网络产品为配套 → 工业导轨 8 GE + 2 SFP 非管理 STI-280GE（$46.6 @20%）适配电工/配电箱安装场景；PoE 位 STI-288GP",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@spesaelettrica.it（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "For the networking items your electrical-trade customers pick up with their cabinets and panels, we supply DIN-rail Marvell-based 8-port gigabit (and PoE) industrial switches in neutral packing from small lots, CE/RoHS — would a DIN-rail switch SKU fit your industrial category? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-04-01",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@spesaelettrica.it, spesaelettrica.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-31",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@spesaelettrica.it, spesaelettrica.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

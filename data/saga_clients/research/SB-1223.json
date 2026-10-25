@@ -1,130 +1,130 @@
 {
- "code": "SB-1223",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（norteh.com，快照 2026-10-21）",
- "summary": "立陶宛 Norteh（CCTV 与安防设备多语言网店 EN/IT/DE/DK：摄像机、套装、录像机、报警、对讲、网络设备、门禁；Hikvision 54 / Dahua 60；表内「MC、商业 PoE 及周边」，备注「销售平台，好多个供应商」）；表内无跟进记录。",
- "type": "安防设备跨境网店（多语言，多供应商）",
- "size": "",
- "brands_seen": [
-  "Hikvision",
-  "Dahua"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：CCTV Cameras & Security Equipment Online | Norteh；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Discover security cameras, alarm systems, video surveillance and access control solutions at Norteh.com. Quality security equipment at competitive prices",
-   "url": "https://www.norteh.com/",
-   "date": "2026-10-21"
+  "code": "SB-1223",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（norteh.com，快照 2026-10-21）",
+  "summary": "立陶宛 Norteh（CCTV 与安防设备多语言网店 EN/IT/DE/DK：摄像机、套装、录像机、报警、对讲、网络设备、门禁；Hikvision 54 / Dahua 60；表内「MC、商业 PoE 及周边」，备注「销售平台，好多个供应商」）；表内无跟进记录。",
+  "type": "安防设备跨境网店（多语言，多供应商）",
+  "size": "",
+  "brands_seen": [
+    "Hikvision",
+    "Dahua"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：CCTV Cameras & Security Equipment Online | Norteh；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Discover security cameras, alarm systems, video surveillance and access control solutions at Norteh.com. Quality security equipment at competitive prices",
+      "url": "https://www.norteh.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "MC 商业POE及周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "安防摄像机、报警、监控与门禁方案网店",
+      "quote": "Discover security cameras, alarm systems, video surveillance and access control solutions at Norteh.com. Quality security equipment at competitive prices",
+      "url": "https://www.norteh.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "MC / 商业 PoE 及周边",
+      "quote": "MC 商业POE及周边产品；销售平台 好多个供应商",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "MC 商业POE及周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "立陶宛",
+    "other": "官网 norteh.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "安防摄像机、报警、监控与门禁方案网店",
-   "quote": "Discover security cameras, alarm systems, video surveillance and access control solutions at Norteh.com. Quality security equipment at competitive prices",
-   "url": "https://www.norteh.com/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "CCTV / 报警 / 对讲 / 门禁 / 网络设备网店（跨境）"
+  ],
+  "channels": {
+    "role": "安防设备跨境网店（多语言，多供应商）",
+    "region": "立陶宛",
+    "contact": "info@norteh.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "MC / 商业 PoE 及周边",
-   "quote": "MC 商业POE及周边产品；销售平台 好多个供应商",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网栏目：SURVEILLANCE CAMERAS / Camera kits / Video recorders / Alarm systems / Intercoms / Network equipment / Access control",
+    "多语言产品 feed（EN/IT/DE/DK）→ 跨境电商",
+    "站内 kw：camera 712 / cable 539 / wireless 156 / switch 138 / poe 124"
+  ],
+  "risks": [
+    "多供应商平台型网店：白牌同质化竞争，毛利薄",
+    "无具名 KP（info@）；表内无跟进"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）"
+  },
+  "email_hook": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 商业POE及周边产品」",
+      "type": "安防设备跨境网店（多语言，多供应商）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "立陶宛（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「MC 商业POE及周边产品」；研究档 risks：多供应商平台型网店：白牌同质化竞争，毛利薄；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "立陶宛 Norteh（CCTV 与安防设备多语言网店 EN/IT/DE/DK：摄像机、套装、录像机、报警、对讲、网络设备、门禁；Hikvision 54 / Dahua 60；表内「MC、商业 PoE 及周边」，备注「销售平台，好多个供应商」）；表内无跟进记录。",
+    "need": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）",
+    "breakpoint": "多供应商平台型网店：白牌同质化竞争，毛利薄",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@norteh.com（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@norteh.com, norteh.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "MC 商业POE及周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "立陶宛",
-  "other": "官网 norteh.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "CCTV / 报警 / 对讲 / 门禁 / 网络设备网店（跨境）"
- ],
- "channels": {
-  "role": "安防设备跨境网店（多语言，多供应商）",
-  "region": "立陶宛",
-  "contact": "info@norteh.com"
- },
- "signals": [
-  "官网栏目：SURVEILLANCE CAMERAS / Camera kits / Video recorders / Alarm systems / Intercoms / Network equipment / Access control",
-  "多语言产品 feed（EN/IT/DE/DK）→ 跨境电商",
-  "站内 kw：camera 712 / cable 539 / wireless 156 / switch 138 / poe 124"
- ],
- "risks": [
-  "多供应商平台型网店：白牌同质化竞争，毛利薄",
-  "无具名 KP（info@）；表内无跟进"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）"
- },
- "email_hook": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）；S/A 箱：S/A 邮箱均无往来；来源：用户表「MC 商业POE及周边产品」",
-   "type": "安防设备跨境网店（多语言，多供应商）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "立陶宛（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「MC 商业POE及周边产品」；研究档 risks：多供应商平台型网店：白牌同质化竞争，毛利薄；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
-  },
-  "situation": "立陶宛 Norteh（CCTV 与安防设备多语言网店 EN/IT/DE/DK：摄像机、套装、录像机、报警、对讲、网络设备、门禁；Hikvision 54 / Dahua 60；表内「MC、商业 PoE 及周边」，备注「销售平台，好多个供应商」）；表内无跟进记录。",
-  "need": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）",
-  "breakpoint": "多供应商平台型网店：白牌同质化竞争，毛利薄",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "网络设备栏配套 CCTV → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理位 HRUI STC-028GP（$24.2）；MC 位 STI-110GE（工业）或 HRUI 商用 MC（待核）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@norteh.com（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "For the network-equipment category behind your Hikvision and Dahua camera kits, we supply a neutral-brand 8-PoE + 2 SFP L2+ switch and a budget unmanaged 4/8-PoE line from small lots, CE/RoHS, EU-wide shipping — which band sells more on Norteh, unmanaged or managed PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-08-20",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@norteh.com, norteh.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "MC 商业POE及周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

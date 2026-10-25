@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：葡萄牙 DIPOL（波兰 DIPOL 集团分支，Skua Technology 运营；Braga +351 253 618 579）IP CCTV / LAN / WLAN / 卫星电视 / 天线 / 线缆批发（Hikvision、Dahua、TP-Link；poe 242 / switch 160 / cctv 124 / industrial 57）；表内 MC / FS / SFP / VC；无跟进。（调研 2026-10-21；表内兴趣：MC FS SFP VC）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/葡萄牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。已打开的主题（3/7 封有打开记录）：「Industrial fiber switch」(2024-08-02)、「10G media converter」(2024-09-03)、「Industrial PoE Switch」(2024-12-21) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。已打开的主题（3/7 封有打开记录）：「Industrial fiber switch」(2024-08-02)、「10G media converter」(2024-09-03)、「Industrial PoE Switch」(2024-12-21) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?
 - **最大未知**：年走量与现供应商
 - **下一步**：2026-11 S 邮箱 → dipol@skuatechnology.com 首封前知悉：Elsa 已 To 直发 1 轮（2025-02-18）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：葡萄牙 DIPOL（波兰 DIPOL 集团分支，Skua Technology 运营；Braga +351 253 618 579）IP CCTV / LAN / WLAN / 卫星电视 / 天线 / 线缆批发（Hikvision、Dahua、TP-Link；poe 242 / switch 160 / cctv 124 / industrial 57）；表内 MC / FS / SFP / VC；无跟进。
 - **对方真实需求（有据）**：CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。
 - **断点 / 为什么停在这里**：采购可能由波兰总部统一；无具名联系人
-- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter））——CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。已打开的主题（3/7 封有打开记录）：「Industrial fiber switch」(2024-08-02)、「10G media converter」(2024-09-03)、「Industrial PoE Switch」(2024-12-21) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——CCTV 室外工业 2 光 8 PoE → STI-288GP（$57.4 @20%）；商用 STC-28DGGPM。已打开的主题（3/7 封有打开记录）：「Industrial fiber switch」(2024-08-02)、「10G media converter」(2024-09-03)、「Industrial PoE Switch」(2024-12-21) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：2026-11　S 邮箱 → dipol@skuatechnology.com　首封前知悉：Elsa 已 To 直发 1 轮（2025-02-18）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）
   - 第一问（只问一个）：For the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?
 

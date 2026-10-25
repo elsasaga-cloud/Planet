@@ -73,7 +73,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1",
       "repeat": [],
       "gaps": []
@@ -106,7 +106,7 @@
         "date": "2025-06-27",
         "dir": "out",
         "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户）",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "197aff2463bb46a2"
@@ -115,7 +115,7 @@
         "date": "2025-10-08",
         "dir": "out",
         "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "199c32f3c16396bd"
@@ -160,7 +160,7 @@
         "date": "2026-05-05",
         "dir": "out",
         "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "19df7020dbaf7fd5"
@@ -169,7 +169,7 @@
         "date": "2026-08-06",
         "dir": "out",
         "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fd5ccdb2ef1199"

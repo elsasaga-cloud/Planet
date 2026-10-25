@@ -19,6 +19,14 @@ ENT = os.path.join(ROOT, 'data/saga_clients/entities.json')
 RES = os.path.join(ROOT, 'data/saga_clients/research')
 TODAY = datetime.date.today().isoformat()
 DRY = '--dry' in sys.argv
+# Elsa 稿正文里的价（第 74 批(p) 2026-10-25 逐稿读证：同一主题的稿全程同价）
+BODY_PRICE = {'24 Port PoE Managed Switch': '170USD/PC', '10G Enterprise SFP Switch': '280usd/pc',
+              '48 Port PoE Managed Switch': '300usd/pc', '24 Port Fiber Switch': '240usd/pc',
+              '10G Media Converter': '65usd/pc'}
+
+
+def body_price(subject):
+    return BODY_PRICE.get(subject, '')
 
 
 def load_entities():
@@ -50,8 +58,10 @@ def match(batches, ents):
 def quote_for(h):
     if h['subject'] == '24 Port PoE Managed Switch':
         return '24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC'
-    if h['subject'] == '10G Enterprise SFP Switch' and h['date'].startswith('2026-05'):
-        return '10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里）'
+    if h['subject'] == '10G Enterprise SFP Switch':
+        return '10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC; 正文价 280usd/pc'
+    if h['subject'] == '48 Port PoE Managed Switch':
+        return '48 Port PoE Managed Switch — Marvell 52 口 L2+ PoE 400W; 正文「Price is very competitive, 300usd/pc」'
     pt = (h.get('price_text') or '').strip()
     if pt.startswith('Hi,'):
         pt = pt.split('?', 1)[-1].strip() if '?' in pt[:20] else pt
@@ -113,7 +123,7 @@ def apply(res, meta):
             continue
         hits = sorted(v['hits'], key=lambda x: x['date'])
         h = hits[-1]
-        ptxt = '，正文「Price: 170USD/PC」' if h['subject'] == '24 Port PoE Managed Switch' else '（价格未读）'
+        ptxt = f"，正文「Price: {body_price(h['subject'])}」" if body_price(h['subject']) else '（稿内无价）'
         first = f"，首见 {hits[0]['date']}" if len(hits) >= 2 and hits[0]['date'] != h['date'] else ''
         tag = (f"Elsa 群发 BCC 已触达 {h['date']}「{h['subject']}」{ptxt}，{h['batch']} 批次 To {h['to']}{first}，0 回"
                f"（第 74 批 Bcc 头核对 msg {h['msg_id']}）")
@@ -161,7 +171,7 @@ def apply(res, meta):
         if any(k in w for k in ['待 Simon 排期', '2026-11', '2026-12', '现在']):
             a = str(nm.get('action') or '')
             if '首封前知悉' not in a:
-                price = '，$170' if h['subject'] == '24 Port PoE Managed Switch' else ''
+                price = f"，{body_price(h['subject'])}" if body_price(h['subject']) else ''
                 saw170 = any(x['subject'] == '24 Port PoE Managed Switch' for x in hits)
                 fx = "；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。" if saw170 else "。"
                 nm['action'] = (f"首封前知悉：Elsa 已 BCC 群发触达（最近 {h['date']}「{h['subject']}」{price}），"
@@ -210,7 +220,7 @@ def apply_anchor_to(res, meta):
             rounds, first, last = len(camps), camps[0]['date'], camps[-1]['date']
         else:
             rounds, first, last = len(to_hits), to_hits[0]['date'], h['date']
-        ptxt = '，最近一封正文「Price: 170USD/PC」' if h['subject'] == '24 Port PoE Managed Switch' else ''
+        ptxt = f"，最近一封正文「Price: {body_price(h['subject'])}」" if body_price(h['subject']) else ''
         span = f"{first}→{last}" if first != last else first
         tag = (f"Elsa 群发 To 直收 {rounds} 轮 {span}（本户是「{h['batch']}」批次的锚：每轮 To 本户、其余客户 Bcc；最近 {h['date']}「{h['subject']}」{ptxt}），0 回"
                f"（第 74 批核对 msg {h['msg_id']}）")

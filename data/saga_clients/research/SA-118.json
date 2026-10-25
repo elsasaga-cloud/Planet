@@ -109,7 +109,7 @@
     "saga_now": {
       "p1": "STC-2216GPM",
       "tier": 20,
-      "price": "STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率",
+      "price": "STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-24 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-24；Simon 实报就是 $65）；2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-07-09 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-07-09；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-09-26→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
       "repeat": [],
       "gaps": []
@@ -125,7 +125,7 @@
         "date": "2025-02-24",
         "dir": "去",
         "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "10G Media Converter（Elsa 群发第 1/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+        "quote": "10G Media Converter（Elsa 群发第 1/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
         "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
         "k": "elsa_bcc",
         "msg_id": "19535ff526c7efc3"
@@ -152,7 +152,7 @@
         "date": "2025-06-09",
         "dir": "去",
         "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
         "k": "elsa_bcc",
         "msg_id": "1975313dc784fd43"
@@ -161,7 +161,7 @@
         "date": "2025-07-09",
         "dir": "去",
         "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "24 Port Fiber Switch（Elsa 群发第 5/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+        "quote": "24 Port Fiber Switch（Elsa 群发第 5/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
         "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
         "k": "elsa_bcc",
         "msg_id": "197ed7299b161d74"
@@ -179,7 +179,7 @@
         "date": "2025-09-26",
         "dir": "去",
         "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 7/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 7/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
         "k": "elsa_bcc",
         "msg_id": "19984c1d62ba38d6"
@@ -249,7 +249,7 @@
         "date": "2026-05-11",
         "dir": "去",
         "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
-        "quote": "10G Enterprise SFP Switch",
+        "quote": "10G Enterprise SFP Switch（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
         "k": "elsa_campaign",
         "msg_id": "19e15ccbc917f627"

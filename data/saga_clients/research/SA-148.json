@@ -1,132 +1,132 @@
 {
- "code": "SA-148",
- "name_official": "TECHNOSYS（technosys.co.in，Kamothe, Navi Mumbai, India；IT 产品/服务小型公司）",
- "website_status": "在线（信息简略）",
- "summary": "新孟买 Kamothe 的小型 IT 公司 TECHNOSYS（官网：IT Solutions、IT Shop、云服务、照相馆、在线房产等杂项；+91 93202 07744；contact@technosys.co.in）。用户表（富通天下外贸数据）：买了台湾 KONTEN 的工业 FS；在用 EtherWAN 工业 FS/MC——与官网呈现的小型 IT 店形象不符，疑为同域名下的项目/贸易业务；群发无互动。",
- "type": "经销/集成商",
- "size": "待补证",
- "brands_seen": [
-  "EtherWAN（用户记录：在用）",
-  "EtherWAN（在用）",
-  "KONTEN（进口）"
- ],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "工业 FS MC（EtherWAN 的）；0 次跟进",
-   "quote": "工业FS MC（Etherwan的）（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司定位与联系方式",
-   "quote": "TECHNOSYS is a team of Company, Customers & Contributors … IT Solutions … IT Shop - Add: Kamothe, Navi Mumbai – 410209. Ph: +91-9320207744 Email: contact@technosys.co.in",
-   "url": "https://technosys.co.in/",
-   "date": "2018-07-23"
-  },
-  {
-   "kind": "用户表",
-   "claim": "富通天下：买 KONTEN 工业 FS；在用 EtherWAN",
-   "quote": "工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": "B",
- "override_reason": "无互动、印度非主攻区；EtherWAN 在用（台系高价）本可替代，但证据不足 → B。",
- "notes": "首触一封：EtherWAN 工业 PoE 对位 STI-288DGGPM 价差。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对；「成交」为富通天下外贸数据）"
- },
- "company_facts": {
-  "legal_name": "TECHNOSYS（全称待核）",
-  "hq": "Kamothe, Navi Mumbai 410209（+91 93202 07744；contact@technosys.co.in）",
-  "size": "小型",
-  "other": "官网业务杂（IT Shop / 云 / 照相馆）；外贸数据显示进口工业 FS"
- },
- "business_lines": [
-  "IT 产品零售/服务",
-  "（外贸数据）工业光纤交换机进口"
- ],
- "channels": {
-  "网站": "https://technosys.co.in/",
-  "电话": "+91 93202 07744（公开）",
-  "邮箱（公开）": "contact@technosys.co.in"
- },
- "signals": [
-  "在用 EtherWAN 工业 FS/MC + 进口 KONTEN 工业 FS → 工业 DIN 同口型低价替代"
- ],
- "risks": [
-  "主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 25,
-  "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）"
- },
- "email_hook": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IN/BD+TR 个别 批次 To info@rasatechbd.com，0 回（第 74 批 Bcc 头核对 msg 1a01d6edda8ab595）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下」",
-   "type": "经销/集成商",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "IN 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下」；研究档 risks：主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区；data/gmail_e/bcc_batches_2026.json"
-  },
-  "situation": "新孟买 Kamothe 的小型 IT 公司 TECHNOSYS（官网：IT Solutions、IT Shop、云服务、照相馆、在线房产等杂项；+91 93202 07744；contact@technosys.co.in）。用户表（富通天下外贸数据）：买了台湾 KONTEN 的工业 FS；在用 EtherWAN 工业 FS/MC——与官网呈现的小型 IT 店形象不符，疑为同域名下的项目/贸易业务；群发无互动。",
-  "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）",
-  "breakpoint": "主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → contact@technosys.co.in（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?"
-  },
-  "facts": [
-   {
-    "date": "2026-08-20",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@rasatechbd.com，IN/BD+TR 个别 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 contact@technosys.co.in, technosys.co.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SA-148",
+  "name_official": "TECHNOSYS（technosys.co.in，Kamothe, Navi Mumbai, India；IT 产品/服务小型公司）",
+  "website_status": "在线（信息简略）",
+  "summary": "新孟买 Kamothe 的小型 IT 公司 TECHNOSYS（官网：IT Solutions、IT Shop、云服务、照相馆、在线房产等杂项；+91 93202 07744；contact@technosys.co.in）。用户表（富通天下外贸数据）：买了台湾 KONTEN 的工业 FS；在用 EtherWAN 工业 FS/MC——与官网呈现的小型 IT 店形象不符，疑为同域名下的项目/贸易业务；群发无互动。",
+  "type": "经销/集成商",
+  "size": "待补证",
+  "brands_seen": [
+    "EtherWAN（用户记录：在用）",
+    "EtherWAN（在用）",
+    "KONTEN（进口）"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "工业 FS MC（EtherWAN 的）；0 次跟进",
+      "quote": "工业FS MC（Etherwan的）（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司定位与联系方式",
+      "quote": "TECHNOSYS is a team of Company, Customers & Contributors … IT Solutions … IT Shop - Add: Kamothe, Navi Mumbai – 410209. Ph: +91-9320207744 Email: contact@technosys.co.in",
+      "url": "https://technosys.co.in/",
+      "date": "2018-07-23"
+    },
+    {
+      "kind": "用户表",
+      "claim": "富通天下：买 KONTEN 工业 FS；在用 EtherWAN",
+      "quote": "工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
+  ],
+  "grade_override": "B",
+  "override_reason": "无互动、印度非主攻区；EtherWAN 在用（台系高价）本可替代，但证据不足 → B。",
+  "notes": "首触一封：EtherWAN 工业 PoE 对位 STI-288DGGPM 价差。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网核对；「成交」为富通天下外贸数据）"
+  },
+  "company_facts": {
+    "legal_name": "TECHNOSYS（全称待核）",
+    "hq": "Kamothe, Navi Mumbai 410209（+91 93202 07744；contact@technosys.co.in）",
+    "size": "小型",
+    "other": "官网业务杂（IT Shop / 云 / 照相馆）；外贸数据显示进口工业 FS"
+  },
+  "business_lines": [
+    "IT 产品零售/服务",
+    "（外贸数据）工业光纤交换机进口"
+  ],
+  "channels": {
+    "网站": "https://technosys.co.in/",
+    "电话": "+91 93202 07744（公开）",
+    "邮箱（公开）": "contact@technosys.co.in"
+  },
+  "signals": [
+    "在用 EtherWAN 工业 FS/MC + 进口 KONTEN 工业 FS → 工业 DIN 同口型低价替代"
+  ],
+  "risks": [
+    "主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 25,
+    "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）"
+  },
+  "email_hook": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IN/BD+TR 个别 批次 To info@rasatechbd.com，0 回（第 74 批 Bcc 头核对 msg 1a01d6edda8ab595）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下」",
+      "type": "经销/集成商",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "IN 次级（点名）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下」；研究档 risks：主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区；data/gmail_e/bcc_batches_2026.json"
+    },
+    "situation": "新孟买 Kamothe 的小型 IT 公司 TECHNOSYS（官网：IT Solutions、IT Shop、云服务、照相馆、在线房产等杂项；+91 93202 07744；contact@technosys.co.in）。用户表（富通天下外贸数据）：买了台湾 KONTEN 的工业 FS；在用 EtherWAN 工业 FS/MC——与官网呈现的小型 IT 店形象不符，疑为同域名下的项目/贸易业务；群发无互动。",
+    "need": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）",
+    "breakpoint": "主体与规模不明；印度 BIS/TEC 认证要求（EtherWAN 已取 TEC）；南亚非主攻区",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）/ 非 PoE STI-280GE（$48.6）对位 EtherWAN/KONTEN 工业 FS；MC STI-110GE（$23.4）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → contact@technosys.co.in（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "Hello Technosys team, as an alternative to the EtherWAN/KONTEN industrial fibre switches you use: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ $59.8), −40/+75 °C — do your projects require TEC/BIS-marked units, or is CE/RoHS acceptable?"
+    },
+    "facts": [
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@rasatechbd.com，IN/BD+TR 个别 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 contact@technosys.co.in, technosys.co.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

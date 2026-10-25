@@ -79,7 +79,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）、2024-08-07 $65（10G fiber media converter）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）、2024-08-07 $65（10G fiber media converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-12 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-04-12；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2025-07-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-07-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "24 口 PoE 主用 → STC-424DGGPM-280W（$140.1 @25%）；48 口 STC-448DGGPM。已打开的主题（1/9 封有打开记录）：「24 port poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -111,7 +111,7 @@
         "date": "2025-04-12",
         "dir": "去",
         "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "quote": "24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
         "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "19628286dc08373a"
@@ -138,7 +138,7 @@
         "date": "2025-07-04",
         "dir": "去",
         "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "197d3e094a95cda2"
@@ -147,7 +147,7 @@
         "date": "2025-10-06",
         "dir": "去",
         "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "199b78040ff23e1c"
@@ -165,7 +165,7 @@
         "date": "2026-09-08",
         "dir": "去",
         "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:vulsanx.com` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "1a07f2e0ee8e17c2"

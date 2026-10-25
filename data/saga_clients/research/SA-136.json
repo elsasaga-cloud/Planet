@@ -142,7 +142,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-17 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 2 轮 2025-03-12→2025-06-17；Simon 实报就是 $65）；2025-07-17 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-07-17；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-14 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-09-30→2026-05-14；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-14；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "「只要 4 & 8 口工业级 + L2/Web 管理」→ STI-288GPM（8 PoE+ 2 SFP 管理型，DIN）；4 口用 STI-154GP（非管理）/ 管理型待核",
       "repeat": [],
       "gaps": []
@@ -174,7 +174,7 @@
         "date": "2025-03-12",
         "dir": "去",
         "who": "Elsa 群发（BCC；To virtual_eye@hotmail.com）",
-        "quote": "10G Media Converter（Elsa 群发第 1/12 轮；本户在 Bcc，锚 To virtual_eye@hotmail.com）",
+        "quote": "10G Media Converter（Elsa 群发第 1/12 轮；本户在 Bcc，锚 To virtual_eye@hotmail.com；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=virtual_eye@hotmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "19588d4c2bcdaa77"
@@ -209,7 +209,7 @@
         "date": "2025-06-17",
         "dir": "去",
         "who": "Elsa 群发（BCC；To panaji@gmail.com）",
-        "quote": "10G Media Converter（Elsa 群发第 4/12 轮；本户在 Bcc，锚 To panaji@gmail.com）",
+        "quote": "10G Media Converter（Elsa 群发第 4/12 轮；本户在 Bcc，锚 To panaji@gmail.com；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "1977be69b3135799"
@@ -218,7 +218,7 @@
         "date": "2025-07-17",
         "dir": "去",
         "who": "Elsa 群发（BCC；To panaji@gmail.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 5/12 轮；本户在 Bcc，锚 To panaji@gmail.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 5/12 轮；本户在 Bcc，锚 To panaji@gmail.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "19816e764e47564b"
@@ -236,7 +236,7 @@
         "date": "2025-09-30",
         "dir": "去",
         "who": "Elsa 群发（BCC；To panaji@gmail.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 7/12 轮；本户在 Bcc，锚 To panaji@gmail.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 7/12 轮；本户在 Bcc，锚 To panaji@gmail.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "19998c7e1ab2e89f"
@@ -272,7 +272,7 @@
         "date": "2026-05-14",
         "dir": "去",
         "who": "Elsa 群发（BCC；To panaji@gmail.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 11/12 轮；本户在 Bcc，锚 To panaji@gmail.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 11/12 轮；本户在 Bcc，锚 To panaji@gmail.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "19e2508e276d3e6c"
@@ -281,7 +281,7 @@
         "date": "2026-08-14",
         "dir": "去",
         "who": "Elsa 群发（BCC；To panaji@gmail.com）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 12/12 轮；本户在 Bcc，锚 To panaji@gmail.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 12/12 轮；本户在 Bcc，锚 To panaji@gmail.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "19ffea42cec36ad4"

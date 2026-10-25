@@ -128,7 +128,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-20 $300（48 Port PoE Managed Switch）、2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
       "why": "自有工业 PoE QN-IS-225-8（8 口）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）作二供；4 口位 STI-154GP（$40.8）；云管理由其自有平台处理，Saga 只供 L2 管理/非管理硬件",
       "repeat": [],
       "gaps": []
@@ -144,7 +144,7 @@
         "date": "2025-10-15",
         "dir": "out",
         "who": "Elsa → sales@qntmnet.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:sales@qntmnet.com` 全程 complete：5 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "199e76ffdec8fcda"

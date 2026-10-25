@@ -110,7 +110,7 @@
     "saga_now": {
       "p1": "无",
       "tier": 25,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）",
+      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-01 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-05-01；Simon 实报就是 $65）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -143,7 +143,7 @@
         "date": "2025-05-01",
         "dir": "out",
         "who": "Elsa → info@nkstech.net",
-        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户）",
+        "quote": "10G Media Converter（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "1968aa52173efc13"
@@ -161,7 +161,7 @@
         "date": "2025-10-09",
         "dir": "out",
         "who": "Elsa → info@nkstech.net",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "199c80c67e1823c7"
@@ -206,7 +206,7 @@
         "date": "2026-05-05",
         "dir": "out",
         "who": "Elsa → info@nkstech.net",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19df6a67fcdf3120"
@@ -215,7 +215,7 @@
         "date": "2026-08-06",
         "dir": "out",
         "who": "Elsa → info@nkstech.net",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fd5280fde54955"

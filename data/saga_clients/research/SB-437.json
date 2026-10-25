@@ -108,7 +108,7 @@
     "saga_now": {
       "p1": "STC-424XGGPM-280W",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。",
       "repeat": [],
       "gaps": []
@@ -149,7 +149,7 @@
         "date": "2025-10-08",
         "dir": "out",
         "who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 第 2/8 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 第 2/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
         "k": "elsa_1to1",
         "msg_id": "199c1a01d9860360"
@@ -194,7 +194,7 @@
         "date": "2026-05-06",
         "dir": "out",
         "who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 第 7/8 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 第 7/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
         "k": "elsa_1to1",
         "msg_id": "19dfbdf2b114e156"

@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-09 → 2025-10-02）；最近一次客户回复：2025-04-09：have Routers with 1GE and 4 FE ports?
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-13→2026-08-04，客户回过信（2025-04-09、2025-04-09）），此前还经锚 Bcc 触达（第 74 批(m)）；—
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。
 - **对方真实需求（有据）**：交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。
 - **断点 / 为什么停在这里**：产品线不对口（路由器）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。
 - **下一步（具体）**：不动　—　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-13→2026-08-04，客户回过信（2025-04-09、2025-04-09）），此前还经锚 Bcc 触达（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -58,13 +58,13 @@ updated: 2026-10-25
 | 2025-04-09 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱） | Elsa 箱群发 BCC 触达证据（命中地址 info@ite.net.pk, ite.net.pk, sales@ite.net.pk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2025-05-13 | out | Elsa → faisal@ite.net.pk | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-06-21 | out | Elsa → faisal@ite.net.pk | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2025-10-02 | out | Elsa → info@ite.net.pk | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-10-02 | out | Elsa → info@ite.net.pk | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-04 | out | Elsa → info@ite.net.pk | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → info@ite.net.pk | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-03-02 | out | Elsa → info@ite.net.pk | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-04-03 | out | Elsa → faisal@ite.net.pk | Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2026-05-11 | out | Elsa → faisal@ite.net.pk | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
-| 2026-08-04 | out | Elsa → info@ite.net.pk | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → faisal@ite.net.pk | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → info@ite.net.pk | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 回复：have Routers with 1GE and 4 FE ports? | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：04-09 Faisal 三封要 1GE+4FE 路由器 → Elsa 答没有、可代找 + Info.docx → 无下文；用户表「有回复·跟进中」= 这条；（已核 2026-10-24，第 73 批）见上条；不是 WhatsApp

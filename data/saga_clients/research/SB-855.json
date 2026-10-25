@@ -1,131 +1,131 @@
 {
- "code": "SB-855",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（prolink2u.com，快照 2026-10-21）",
- "summary": "新加坡 Prolink（1991 年起数字生活品牌：电子配件、网络与通信、电源、智能家居；取得新加坡网络安全标签 Level 1；表内「商业 PoE 自己的 logo」「质量一般」）；表内未跟进。",
- "type": "消费/SMB 电子品牌商（新加坡，自有标 PoE）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Prolink - Connect Your Life；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies, and more. Explore our wide range of easy plug-and-play solutions designed to simplify your",
-   "url": "https://prolink2u.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业POE 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "Prolink 定位",
-   "quote": "Prolink - Connect Your Life ; Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies, and more",
-   "url": "https://prolink2u.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE 自己的 logo",
-   "quote": "商业POE 自己的logo；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Karen Kwek",
-   "role": "收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com）",
-   "email": "karen_kwek@prolink2u.com",
-   "phone": "",
-   "source": "S 邮箱 2024-11 自动回复表头"
-  },
-  {
-   "name": "Shijie Leong",
-   "role": "收件人（2025-01-21 陪产假自动回复；无人工回复）",
-   "email": "shijie_leong@prolink2u.com",
-   "phone": "",
-   "source": "S 邮箱 2025-01 自动回复表头"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 prolink2u.com，语言 en，快照状态 ok；角色判定来源：用户表"
- },
- "business_lines": [
-  "消费电子 / 网络通信 / 电源（自有品牌 Prolink）"
- ],
- "channels": {
-  "role": "消费/SMB 电子品牌商（新加坡，自有标 PoE）",
-  "region": "新加坡",
-  "contact": "sales@prolink2u.com"
- },
- "signals": [
-  "官网：Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies；页面 prolink-attains-level-1-certification-of-the-cybersecurity-labelling-scheme；kw switch 16 / camera 14",
-  "表内：商业 PoE 自己的 logo；质量一般"
- ],
- "risks": [
-  "消费/零售品牌导向（Saga 不做消费级）：仅 SMB PoE 线可对位；非主攻区（T5，新加坡）；表内「质量一般」",
-  "仅 sales@，未跟进过"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 Prolink 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）"
- },
- "email_hook": "For the PoE and unmanaged switches sold under the Prolink label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, budget 5/8/16-port units) in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your Singapore and regional dealers?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（2 封休假自动回复）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次 To apr.securitysystems@bosch.com，0 回（第 74 批 Bcc 头核对 msg 199c6c679ed7a131）",
-   "type": "新加坡 SMB 电子品牌（Prolink）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "SG",
-   "cadence": "不动",
-   "evidence": "k=351900683615a3d6 / 05e17c6906b051b1；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To apr.securitysystems@bosch.com）本户见于 2025-10-09 名单；该批次最早 2025-04-04 起共 7 轮，更早轮次 Bcc 未读"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 30,
-   "price": "—",
-   "why": "—",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-10-09",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To apr.securitysystems@bosch.com，新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次）",
-    "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 prolink2u.com, sales@prolink2u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   }
+  "code": "SB-855",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（prolink2u.com，快照 2026-10-21）",
+  "summary": "新加坡 Prolink（1991 年起数字生活品牌：电子配件、网络与通信、电源、智能家居；取得新加坡网络安全标签 Level 1；表内「商业 PoE 自己的 logo」「质量一般」）；表内未跟进。",
+  "type": "消费/SMB 电子品牌商（新加坡，自有标 PoE）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Prolink - Connect Your Life；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies, and more. Explore our wide range of easy plug-and-play solutions designed to simplify your",
+      "url": "https://prolink2u.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业POE 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Prolink 定位",
+      "quote": "Prolink - Connect Your Life ; Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies, and more",
+      "url": "https://prolink2u.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE 自己的 logo",
+      "quote": "商业POE 自己的logo；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [
+    {
+      "name": "Karen Kwek",
+      "role": "收件人（2024-11-02 休假自动回复；代理人 Goh Wan Lin wanlin_goh@prolink2u.com）",
+      "email": "karen_kwek@prolink2u.com",
+      "phone": "",
+      "source": "S 邮箱 2024-11 自动回复表头"
+    },
+    {
+      "name": "Shijie Leong",
+      "role": "收件人（2025-01-21 陪产假自动回复；无人工回复）",
+      "email": "shijie_leong@prolink2u.com",
+      "phone": "",
+      "source": "S 邮箱 2025-01 自动回复表头"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "新加坡",
+    "other": "官网 prolink2u.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "消费电子 / 网络通信 / 电源（自有品牌 Prolink）"
+  ],
+  "channels": {
+    "role": "消费/SMB 电子品牌商（新加坡，自有标 PoE）",
+    "region": "新加坡",
+    "contact": "sales@prolink2u.com"
+  },
+  "signals": [
+    "官网：Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies；页面 prolink-attains-level-1-certification-of-the-cybersecurity-labelling-scheme；kw switch 16 / camera 14",
+    "表内：商业 PoE 自己的 logo；质量一般"
+  ],
+  "risks": [
+    "消费/零售品牌导向（Saga 不做消费级）：仅 SMB PoE 线可对位；非主攻区（T5，新加坡）；表内「质量一般」",
+    "仅 sales@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 Prolink 标商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）"
+  },
+  "email_hook": "For the PoE and unmanaged switches sold under the Prolink label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, budget 5/8/16-port units) in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your Singapore and regional dealers?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（2 封休假自动回复）；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次 To apr.securitysystems@bosch.com，0 回（第 74 批 Bcc 头核对 msg 199c6c679ed7a131）",
+      "type": "新加坡 SMB 电子品牌（Prolink）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "SG",
+      "cadence": "不动",
+      "evidence": "k=351900683615a3d6 / 05e17c6906b051b1；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To apr.securitysystems@bosch.com）本户见于 2025-10-09 名单；该批次最早 2025-04-04 起共 7 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 30,
+      "price": "—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "—",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-10-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To apr.securitysystems@bosch.com，新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次）",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 prolink2u.com, sales@prolink2u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

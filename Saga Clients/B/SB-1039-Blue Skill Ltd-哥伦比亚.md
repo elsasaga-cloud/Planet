@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/哥伦比亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-10 → 2025-10-10）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GPM — 询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GPM — 询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-10 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-10；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-10→2026-08-05，0 回）（第 74 批(n)）；观察打开
@@ -46,20 +46,20 @@ updated: 2026-10-25
 - **现状一句话**：哥伦比亚 Blue Skill Ltd（安防与智能技术方案：家庭、社区、商业、持续监控；阿里巴巴询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效
 - **断点 / 为什么停在这里**：非主攻区（T5，哥伦比亚）；询盘时效待核；1 次无回复
-- **Saga 现在该推什么**：P1 **STI-244GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch））——询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效
+- **Saga 现在该推什么**：P1 **STI-244GPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-10 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-10；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——询盘 2 SFP + 4 PoE ×5 → 工业管理 4 PoE + 2 SFP STI-244GPM（$67.3 @25%，5 台 ≈ $336.5）；待核时效
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-10→2026-08-05，0 回）（第 74 批(n)）；观察打开
   - 第一问（只问一个）：Javier, following your enquiry for five 2-SFP + 4-PoE industrial switches: we can supply a managed DIN-rail 4-PoE + 2 SFP model (−40~75 °C, 12–57 V, 802.3at, CE/RoHS) from single units, EXW USD, 10–15 days — is the requirement still open, and do you need SFP modules included?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-08-04 | 去 | A 群发 | Industrial PoE Switch、16 Port PoE Managed Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-08-04（6 去 / 0 来） | `gmail_digest` |
-| 2025-10-10 | out | Elsa → javier.zuniga@blueskill.co | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
+| 2025-10-10 | out | Elsa → javier.zuniga@blueskill.co | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
 | 2025-12-03 | out | Elsa → javier.zuniga@blueskill.co | Booster PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
 | 2026-01-01 | out | Elsa → javier.zuniga@blueskill.co | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
 | 2026-02-16 | out | Elsa → javier.zuniga@blueskill.co | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
 | 2026-03-23 | out | Elsa → javier.zuniga@blueskill.co | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
 | 2026-05-04 | out | Elsa → javier.zuniga@blueskill.co | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
-| 2026-08-05 | out | Elsa → javier.zuniga@blueskill.co | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
+| 2026-08-05 | out | Elsa → javier.zuniga@blueskill.co | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:blueskill.co` 全程 complete：7 轮直收（头 msg 19fd04af1ff28c60 无 Bcc，称呼「Hi, Javier」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 工业FS；2光4PoE 5个 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

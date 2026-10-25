@@ -88,7 +88,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。",
       "repeat": [],
       "gaps": []
@@ -154,7 +154,7 @@
         "date": "2025-10-02",
         "dir": "out",
         "who": "Elsa → info@ite.net.pk",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
         "k": "elsa_1to1",
         "msg_id": "199a3ed93bb41426"
@@ -199,7 +199,7 @@
         "date": "2026-05-11",
         "dir": "out",
         "who": "Elsa → faisal@ite.net.pk",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19e154c90dd755ae"
@@ -208,7 +208,7 @@
         "date": "2026-08-04",
         "dir": "out",
         "who": "Elsa → info@ite.net.pk",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
         "k": "elsa_1to1",
         "msg_id": "19fcbedfe7807ff7"

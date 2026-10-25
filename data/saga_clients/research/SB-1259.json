@@ -97,7 +97,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-13 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-13；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-04-06 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-06；Simon 实报就是 $65）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体",
       "repeat": [],
       "gaps": []
@@ -113,7 +113,7 @@
         "date": "2025-02-13",
         "dir": "去",
         "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "194ff9bfacafefef"
@@ -122,7 +122,7 @@
         "date": "2025-04-06",
         "dir": "去",
         "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
-        "quote": "10G Media Converter（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "quote": "10G Media Converter（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "1960b66ab9d80621"
@@ -158,7 +158,7 @@
         "date": "2025-10-05",
         "dir": "去",
         "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "199b4f9e4d2823b4"
@@ -185,7 +185,7 @@
         "date": "2026-09-03",
         "dir": "去",
         "who": "Elsa 群发（BCC；To flavioprogramado@gmail.com）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "1a067dcd0eaeabe3"

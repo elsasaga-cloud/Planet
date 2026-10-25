@@ -101,7 +101,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 30,
-      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）",
+      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-14 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-14；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）",
       "why": "自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": []
@@ -117,7 +117,7 @@
         "date": "2025-02-14",
         "dir": "out",
         "who": "Elsa → george@ltsecurityinc.com.au",
-        "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
         "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19501c14dd72e51f"

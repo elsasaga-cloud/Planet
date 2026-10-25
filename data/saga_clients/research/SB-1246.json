@@ -1,236 +1,236 @@
 {
- "code": "SB-1246",
- "name_official": "Solimedia Technology Inc",
- "researched_at": "2026-10-21",
- "website_status": "在线（solimedia.net；并档 Planet 渠道档案 PB-078）",
- "summary": "温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换。类型：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）。信号：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204.08 CAD Out of stock（2025-10）、GSW-1601 / GSW-2401 / GS-4210-8P2S；但 /brand/planet/ 与工业类目 404，/product/gsd-1603/ 与 48 口管理款商品页 301 → Grandstream GWN7802P-Pro / GWN7806P → PLANET 线正被 Grandstream 替换。Planet 渠道档案 PB-078 评级 B（需求：PLANET 工业款缺货 + 工业类目下线、商用款已被 Grandstream 替换 → 工业 DIN 槽位真实空缺，但 PLANET 退出也说明其对该副线投入收缩；触达：sales@solimedia.net + 两部电话公开（Contact 页），无具名 KP；体量：温哥华单店分销，可赢；Gmail：Elsa 账号 2025-04-05 → 2026-09-08 已向 sales@solimedia.net 群发 10 封、0 回复 → 非首触、通用群发通道已疲劳；Mikrotik 仓 A-448 人工定级 A（R53 升级）→ 并档、首触以 Mikrotik 仓库为准；本仓 B ★（PLANET 退出 + 群发 10 封无回应））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1246，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "MikroTik",
-  "Grandstream",
-  "Optcore"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "PLANET GSW-1600HP 在库、归入清仓类目",
-   "quote": "16-Port 1G 802.3at PoE+ Ethernet Switch $286.62CAD + same day shipping … PLANET GSW-1600HP … Availability: In stock … SKU: GSW-1600HP Category: Deals & Bargains",
-   "url": "https://solimedia.net/product/gsw-1600hp/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "同页关联商品 PLANET GSD-504 带价",
-   "quote": "Planet GSD-504 … 5-Port Gigabit Ethernet Switch $28.95CAD",
-   "url": "https://solimedia.net/product/gsw-1600hp/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "联系方式与地址",
-   "quote": "+1 604 336 7000 / +1 604 568 9797 … sales@solimedia.net … support@solimedia.net … 329-470 Granville Street, Vancouver BC V6C1V5",
-   "url": "https://solimedia.net/contact/",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网（搜索快照）",
-   "claim": "PLANET 工业款 IGS-801M 缺货",
-   "quote": "8 Port Gig Managed Industrial Switch … PLANET IGS-801M … $204.08CAD … Out of stock",
-   "url": "https://solimedia.net/product/8-port-gig-managed-industrial-switch/",
-   "date": "2026-10-20（搜索快照 pageAge 2025-10-27）"
-  },
-  {
-   "kind": "官网（搜索快照）",
-   "claim": "PLANET GS-4210-48T4S 曾带价在售；2026-10-20 直接访问该 URL 已 301 → /product/gwn7806p/（Grandstream）",
-   "quote": "48-Port 1G Base-T + 4 Port 1G Base-X SFP Managed Switch … GS-4210-48T4S … CAD$593.14",
-   "url": "https://solimedia.net/product/48-port-1g-base-t-4-port-1g-base-x-sfp-managed-switch/",
-   "date": "2026-10-20（搜索快照 pageAge 2025-04-09）"
-  },
-  {
-   "kind": "官网",
-   "claim": "PLANET 品牌页已下线（工业类目 /product-category/data-switch/planet_industrial_switch/ 同为 404；/product/gsd-1603/ 301 → /product/gwn7802p-pro/）",
-   "quote": "404 Not Found",
-   "url": "https://solimedia.net/brand/planet/",
-   "date": "2026-10-20"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Solimedia Technology Inc",
-  "founded": "",
-  "hq": "Vancouver, BC（329-470 Granville Street, V6C 1V5）, 加拿大",
+  "code": "SB-1246",
+  "name_official": "Solimedia Technology Inc",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（solimedia.net；并档 Planet 渠道档案 PB-078）",
+  "summary": "温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换。类型：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）。信号：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204.08 CAD Out of stock（2025-10）、GSW-1601 / GSW-2401 / GS-4210-8P2S；但 /brand/planet/ 与工业类目 404，/product/gsd-1603/ 与 48 口管理款商品页 301 → Grandstream GWN7802P-Pro / GWN7806P → PLANET 线正被 Grandstream 替换。Planet 渠道档案 PB-078 评级 B（需求：PLANET 工业款缺货 + 工业类目下线、商用款已被 Grandstream 替换 → 工业 DIN 槽位真实空缺，但 PLANET 退出也说明其对该副线投入收缩；触达：sales@solimedia.net + 两部电话公开（Contact 页），无具名 KP；体量：温哥华单店分销，可赢；Gmail：Elsa 账号 2025-04-05 → 2026-09-08 已向 sales@solimedia.net 群发 10 封、0 回复 → 非首触、通用群发通道已疲劳；Mikrotik 仓 A-448 人工定级 A（R53 升级）→ 并档、首触以 Mikrotik 仓库为准；本仓 B ★（PLANET 退出 + 群发 10 封无回应））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1246，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-078（2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json）；自有品牌：否；最大未知：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）"
- },
- "business_lines": [
-  "分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GSW-1600HP",
-   "spec": "16×GE 802.3at PoE+ 非管理清仓款（$286.62 CAD）；Saga 商用线无 16 口 PoE，以 24×GE PoE+ 280W L2+（$134.5 EXW）向上对位，需说明",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GSD-504",
-   "spec": "5×GE 桌面非管理：Saga 商用线无非管理型号，不硬凑",
-   "saga": "—",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GSD-1603",
-   "spec": "16×GE 桌面非管理（商品页已 301 → Grandstream GWN7802P-Pro）：不硬凑",
-   "saga": "—",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-48T4S",
-   "spec": "48×GE + 4×SFP L2+ 管理（CAD$593.14 快照；商品页已 301 → GWN7806P）vs Saga $236.8 EXW",
-   "saga": "STC-448DGGM",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "IGS-801M",
-   "spec": "工业 8×GE 管理 DIN（CAD$204.08 Out of stock）→ Saga 8×GE + 2×SFP 管理 $68.2 EXW",
-   "saga": "STI-280GM",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GSW-1601",
-   "spec": "16×GE 非管理：不硬凑",
-   "saga": "—",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GSW-2401",
-   "spec": "24×GE 非管理：不硬凑",
-   "saga": "—",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  },
-  {
-   "brand": "PLANET",
-   "model": "GS-4210-8P2S",
-   "spec": "8×GE PoE+ + 2×SFP 管理（2022 快照）→ Saga $80.7 EXW",
-   "saga": "STC-28DGGPM",
-   "url": "https://solimedia.net",
-   "date": "2026-10-19"
-  }
- ],
- "channels": {
-  "role": "分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）",
-  "region": "加拿大"
- },
- "signals": [
-  "PLANET 退出中：商用款换成 Grandstream GWN，但 Grandstream 无工业 DIN 线，而其 PLANET 工业款 IGS-801M 已 Out of stock、工业类目下线 → 工业 DIN（管理 / PoE）出现空位；Saga STI 线以中性包装 EXW 补这个空位，不与 MikroTik / Grandstream 正面竞争",
-  "PLANET 侧预案（并档，不从本仓发）：PLANET 清仓 / IGS-801M 缺货 / Grandstream 无工业线 → 工业 DIN 空位；EXW 中性包装",
-  "样机：1 台到温哥华比对"
- ],
- "risks": [
-  "PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）",
-  "Planet 首触邮件未发送（Elsa 账号待定）"
- ],
- "saga_fit": {
-  "p1": "STI-288GPM",
-  "tier": 20,
-  "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需求："
- },
- "email_hook": "Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（S 邮箱 3 封 2025→2026，1 次记录打开，0 回；收件 sales@solimedia.net；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」）；Elsa 群发 To 直收 10 轮 2025-04-05→2026-09-08（本户是「US-3」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-08「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a08138d20436870）",
-   "type": "—",
-   "sieve": "1~2（1 次打开）",
-   "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
-   "revive": "不动（Q-33）",
-   "lane": "US 主攻（四主）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；研究档 risks：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Sa；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换。类型：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）。信号：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204",
-  "need": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需",
-  "breakpoint": "PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）",
-  "saga_now": {
-   "p1": "STI-288GPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-05 $180（24 Port PoE Managed Switch）",
-   "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需。已打开的主题（1/3 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-20) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-04-05",
-    "dir": "去",
-    "who": "Elsa 群发（To 直收：本户是「US-3」批次的锚，其余客户在 Bcc）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发直达证据（To sales@solimedia.net）；该批次 10 轮 2025-04-05→2026-09-08 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2025-06-29",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-    "quote": "48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@solimedia.net, solimedia.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-    "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@solimedia.net（截至 2026-10-24 无回复）",
-    "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "Elsa 群发（To 直收：本户是「US-3」批次的锚，其余客户在 Bcc）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发直达证据（To sales@solimedia.net）；该批次 10 轮 2025-04-05→2026-09-08 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-19",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "24 Port PoE Managed Switch、8 Port Industrial PoE Switch",
-    "why": "3 封 / 1 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-10-19（3 去 / 0 来）",
-    "k": "gmail_digest"
-   }
+  "brands_seen": [
+    "PLANET",
+    "MikroTik",
+    "Grandstream",
+    "Optcore"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "PLANET GSW-1600HP 在库、归入清仓类目",
+      "quote": "16-Port 1G 802.3at PoE+ Ethernet Switch $286.62CAD + same day shipping … PLANET GSW-1600HP … Availability: In stock … SKU: GSW-1600HP Category: Deals & Bargains",
+      "url": "https://solimedia.net/product/gsw-1600hp/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "同页关联商品 PLANET GSD-504 带价",
+      "quote": "Planet GSD-504 … 5-Port Gigabit Ethernet Switch $28.95CAD",
+      "url": "https://solimedia.net/product/gsw-1600hp/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "联系方式与地址",
+      "quote": "+1 604 336 7000 / +1 604 568 9797 … sales@solimedia.net … support@solimedia.net … 329-470 Granville Street, Vancouver BC V6C1V5",
+      "url": "https://solimedia.net/contact/",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "PLANET 工业款 IGS-801M 缺货",
+      "quote": "8 Port Gig Managed Industrial Switch … PLANET IGS-801M … $204.08CAD … Out of stock",
+      "url": "https://solimedia.net/product/8-port-gig-managed-industrial-switch/",
+      "date": "2026-10-20（搜索快照 pageAge 2025-10-27）"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "PLANET GS-4210-48T4S 曾带价在售；2026-10-20 直接访问该 URL 已 301 → /product/gwn7806p/（Grandstream）",
+      "quote": "48-Port 1G Base-T + 4 Port 1G Base-X SFP Managed Switch … GS-4210-48T4S … CAD$593.14",
+      "url": "https://solimedia.net/product/48-port-1g-base-t-4-port-1g-base-x-sfp-managed-switch/",
+      "date": "2026-10-20（搜索快照 pageAge 2025-04-09）"
+    },
+    {
+      "kind": "官网",
+      "claim": "PLANET 品牌页已下线（工业类目 /product-category/data-switch/planet_industrial_switch/ 同为 404；/product/gsd-1603/ 301 → /product/gwn7802p-pro/）",
+      "quote": "404 Not Found",
+      "url": "https://solimedia.net/brand/planet/",
+      "date": "2026-10-20"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20）"
+  },
+  "company_facts": {
+    "legal_name": "Solimedia Technology Inc",
+    "founded": "",
+    "hq": "Vancouver, BC（329-470 Granville Street, V6C 1V5）, 加拿大",
+    "size": "",
+    "other": "Planet 渠道档案 PB-078（2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json）；自有品牌：否；最大未知：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）"
+  },
+  "business_lines": [
+    "分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "GSW-1600HP",
+      "spec": "16×GE 802.3at PoE+ 非管理清仓款（$286.62 CAD）；Saga 商用线无 16 口 PoE，以 24×GE PoE+ 280W L2+（$134.5 EXW）向上对位，需说明",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-504",
+      "spec": "5×GE 桌面非管理：Saga 商用线无非管理型号，不硬凑",
+      "saga": "—",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-1603",
+      "spec": "16×GE 桌面非管理（商品页已 301 → Grandstream GWN7802P-Pro）：不硬凑",
+      "saga": "—",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-48T4S",
+      "spec": "48×GE + 4×SFP L2+ 管理（CAD$593.14 快照；商品页已 301 → GWN7806P）vs Saga $236.8 EXW",
+      "saga": "STC-448DGGM",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "IGS-801M",
+      "spec": "工业 8×GE 管理 DIN（CAD$204.08 Out of stock）→ Saga 8×GE + 2×SFP 管理 $68.2 EXW",
+      "saga": "STI-280GM",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSW-1601",
+      "spec": "16×GE 非管理：不硬凑",
+      "saga": "—",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSW-2401",
+      "spec": "24×GE 非管理：不硬凑",
+      "saga": "—",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GS-4210-8P2S",
+      "spec": "8×GE PoE+ + 2×SFP 管理（2022 快照）→ Saga $80.7 EXW",
+      "saga": "STC-28DGGPM",
+      "url": "https://solimedia.net",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）",
+    "region": "加拿大"
+  },
+  "signals": [
+    "PLANET 退出中：商用款换成 Grandstream GWN，但 Grandstream 无工业 DIN 线，而其 PLANET 工业款 IGS-801M 已 Out of stock、工业类目下线 → 工业 DIN（管理 / PoE）出现空位；Saga STI 线以中性包装 EXW 补这个空位，不与 MikroTik / Grandstream 正面竞争",
+    "PLANET 侧预案（并档，不从本仓发）：PLANET 清仓 / IGS-801M 缺货 / Grandstream 无工业线 → 工业 DIN 空位；EXW 中性包装",
+    "样机：1 台到温哥华比对"
+  ],
+  "risks": [
+    "PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）",
+    "Planet 首触邮件未发送（Elsa 账号待定）"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GPM",
+    "tier": 20,
+    "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需求："
+  },
+  "email_hook": "Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（S 邮箱 3 封 2025→2026，1 次记录打开，0 回；收件 sales@solimedia.net；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」）；Elsa 群发 To 直收 10 轮 2025-04-05→2026-09-08（本户是「US-3」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-08「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a08138d20436870）",
+      "type": "—",
+      "sieve": "1~2（1 次打开）",
+      "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
+      "revive": "不动（Q-33）",
+      "lane": "US 主攻（四主）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 3，Opened 标签 1（Simon 群发追踪）；研究档 risks：PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Sa；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换。类型：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）。信号：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204",
+    "need": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需",
+    "breakpoint": "PLANET 退出是厂方/总代原因还是销量原因；工业 DIN 年量；群发 10 封无回复是否已进其黑名单；具名采购 KP；加拿大项目是否要求 UL/CSA（Saga 无）",
+    "saga_now": {
+      "p1": "STI-288GPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-05 $180（24 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其 PLANET 工业类目曾列 IGS-801M（8×GE 管理，CAD$204.08 缺货）与 4×PoE 工业款；Grandstream 无工业 DIN → 工业 8×GE PoE+ + 2×SFP 管理（$78.9 EXW）是最能单独成交的空位款；IGS-801M 非 PoE 位由 STI-280GM（$68.2）做第二封；分销/网店 → 20%（沿用 Planet 档案 PB-078）；需。已打开的主题（1/3 封有打开记录）：「8 Port Industrial PoE Switch」(2025-01-20) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-05",
+        "dir": "去",
+        "who": "Elsa 群发（To 直收：本户是「US-3」批次的锚，其余客户在 Bcc）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发直达证据（To sales@solimedia.net）；该批次 10 轮 2025-04-05→2026-09-08 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2025-06-29",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+        "quote": "48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@solimedia.net, solimedia.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@solimedia.net（截至 2026-10-24 无回复）",
+        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（To 直收：本户是「US-3」批次的锚，其余客户在 Bcc）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发直达证据（To sales@solimedia.net）；该批次 10 轮 2025-04-05→2026-09-08 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-19",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "24 Port PoE Managed Switch、8 Port Industrial PoE Switch",
+        "why": "3 封 / 1 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-10-19（3 去 / 0 来）",
+        "k": "gmail_digest"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

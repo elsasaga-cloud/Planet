@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业POE 自己的型号）
 - **为什么是 B 级**：-6 E 冷名单（按国家群发）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-07 → 2025-10-07）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $300（48 Port PoE Managed Switch）、2024-11-28 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $300（48 Port PoE Managed Switch）、2024-11-28 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-10-07→2026-09-15，0 回）（第 74 批(m)）；—
@@ -46,19 +46,19 @@ updated: 2026-10-25
 - **现状一句话**：墨西哥 Steren（墨西哥大型电子零售连锁与自有品牌：CCTV（161）、线缆（537）、Wi-Fi、智能家居；表内「用的洪瑞（HRUI）的；商业 PoE 自己的型号」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位
 - **断点 / 为什么停在这里**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $300（48 Port PoE Managed Switch）、2024-11-28 $65（10G Media Converter））——现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-13 $300（48 Port PoE Managed Switch）、2024-11-28 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——现 PoE 由 HRUI 供货 → 按 Q-33 口径只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Steren 标作管理型上位
 - **下一步（具体）**：不动　—　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-10-07→2026-09-15，0 回）（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-06-27 | 去 | A/S 群发 | Industrial PoE Switch、90W PoE Managed Switch | 12 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2025-06-27（12 去 / 0 来） | `gmail_digest` |
-| 2025-10-07 | out | Elsa → info@steren.com.mx | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-07 | out | Elsa → info@steren.com.mx | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2025-12-01 | out | Elsa → info@steren.com.mx | Booster PoE Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2025-12-30 | out | Elsa → info@steren.com.mx | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-02-09 | out | Elsa → info@steren.com.mx | OEM Core Switching Solution（Elsa 1:1 逐月名单第 4/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2026-03-19 | out | Elsa → info@steren.com.mx | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 5/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2026-05-01 | out | Elsa → info@steren.com.mx | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
-| 2026-08-04 | out | Elsa → info@steren.com.mx | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → info@steren.com.mx | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:info@steren.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-15 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@steren.com.mx（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-09-15 | out | Elsa → info@steren.com.mx | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 用的洪瑞的 商业POE 自己的型号 | 表内备注 | `用户表` |

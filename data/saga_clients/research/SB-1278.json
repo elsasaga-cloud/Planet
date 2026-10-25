@@ -1,123 +1,123 @@
 {
- "code": "SB-1278",
- "name_official": "Agility Elektrotekniks Pvt Ltd（Baroda/Vadodara，印度）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（gmail）",
- "summary": "印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "要 catalogue；2*2 bypass→thanks 问了证书 产品对他有用；bypass 宣传册→有用",
-   "quote": "回复：thanks 问了证书 产品对他有用；有用",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Atul Tiwari",
-   "title": "（表内联系人）",
-   "email": "agilitybaroda@gmail.com",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "Agility Elektrotekniks Pvt Ltd",
-  "founded": "",
-  "hq": "Vadodara (Baroda), Gujarat, India",
-  "size": "小型",
-  "other": "gmail"
- },
- "business_lines": [
-  "电气 / 自动化工程（推断）"
- ],
- "channels": {
-  "role": "工程商",
-  "region": "印度（古吉拉特）"
- },
- "signals": [
-  "问证书 → 项目投标用途",
-  "bypass 工业机有用"
- ],
- "risks": [
-  "印度 BIS 认证要求；gmail"
- ],
- "saga_fit": {
-  "p1": "LT-IS6312GP-4GX8GT-FBP",
-  "tier": 25,
-  "why": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。"
- },
- "email_hook": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-11「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮） 批次 To kosovaku@gmail.com，0 回（第 74 批 Bcc 头核对 msg 19fef6807ae77bef）；S/A 箱：S/A 邮箱均无往来；来源：用户表「回复：thanks 问了证书 产品对他有用；有用」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "IN 次级（点名）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「回复：thanks 问了证书 产品对他有用；有用」；研究档 risks：印度 BIS 认证要求；gmail；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kosovaku@gmail.com）本户见于 2026-08-11 名单；该批次最早 2025-02-28 起共 14 轮，更早轮次 Bcc 未读"
-  },
-  "situation": "印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。",
-  "need": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。",
-  "breakpoint": "印度 BIS 认证要求；gmail",
-  "saga_now": {
-   "p1": "LT-IS6312GP-4GX8GT-FBP",
-   "tier": 25,
-   "price": "首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2023-06-19",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 领英）",
-    "quote": "用户表跟进：推「发了2*2bypass图 DS 特点」→ 对方「thanks  问了证书 产品对他有用」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.7 2023.6.19"
-   },
-   {
-    "date": "2026-08-11",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To kosovaku@gmail.com，印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮） 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 agilitybaroda@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "回复：thanks 问了证书 产品对他有用；有用",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1278",
+  "name_official": "Agility Elektrotekniks Pvt Ltd（Baroda/Vadodara，印度）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（gmail）",
+  "summary": "印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。",
+  "type": "",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "要 catalogue；2*2 bypass→thanks 问了证书 产品对他有用；bypass 宣传册→有用",
+      "quote": "回复：thanks 问了证书 产品对他有用；有用",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "kp": [
+    {
+      "name": "Atul Tiwari",
+      "title": "（表内联系人）",
+      "email": "agilitybaroda@gmail.com",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "Agility Elektrotekniks Pvt Ltd",
+    "founded": "",
+    "hq": "Vadodara (Baroda), Gujarat, India",
+    "size": "小型",
+    "other": "gmail"
+  },
+  "business_lines": [
+    "电气 / 自动化工程（推断）"
+  ],
+  "channels": {
+    "role": "工程商",
+    "region": "印度（古吉拉特）"
+  },
+  "signals": [
+    "问证书 → 项目投标用途",
+    "bypass 工业机有用"
+  ],
+  "risks": [
+    "印度 BIS 认证要求；gmail"
+  ],
+  "saga_fit": {
+    "p1": "LT-IS6312GP-4GX8GT-FBP",
+    "tier": 25,
+    "why": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。"
+  },
+  "email_hook": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-11「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮） 批次 To kosovaku@gmail.com，0 回（第 74 批 Bcc 头核对 msg 19fef6807ae77bef）；S/A 箱：S/A 邮箱均无往来；来源：用户表「回复：thanks 问了证书 产品对他有用；有用」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "IN 次级（点名）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「回复：thanks 问了证书 产品对他有用；有用」；研究档 risks：印度 BIS 认证要求；gmail；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kosovaku@gmail.com）本户见于 2026-08-11 名单；该批次最早 2025-02-28 起共 14 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "印度古吉拉特 Vadodara 电气 / 自动化工程公司（Atul Tiwari），2023 年要目录、问证书，对 2×2 bypass 与 bypass 系列宣传册回复有用。",
+    "need": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。",
+    "breakpoint": "印度 BIS 认证要求；gmail",
+    "saga_now": {
+      "p1": "LT-IS6312GP-4GX8GT-FBP",
+      "tier": 25,
+      "price": "首触锚价 LT-IS6312GP-4GX8GT-FBP $194.3 EXW（主表档位（Saga 暂无对应型号；信里不写 SmartByte 型号）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "bypass 系列 → SmartByte LT-IS6312GP-4GX8GT-FBP（SmartByte 型号；Saga 暂无对应名，报价时注明）；一般工业 PoE → STI-288GPM。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → agilitybaroda@gmail.com（Atul Tiwari）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-11「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "Atul, you asked about certificates for the bypass industrial switch — CE / FCC / RoHS files are ready (no UL / BIS); is the project a ring of panels on one fibre, and how many nodes? Reference: the bypass unit at $194.3 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2023-06-19",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 领英）",
+        "quote": "用户表跟进：推「发了2*2bypass图 DS 特点」→ 对方「thanks  问了证书 产品对他有用」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.7 2023.6.19"
+      },
+      {
+        "date": "2026-08-11",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To kosovaku@gmail.com，印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 agilitybaroda@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "回复：thanks 问了证书 产品对他有用；有用",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

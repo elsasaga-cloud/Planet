@@ -1,137 +1,137 @@
 {
- "code": "SB-1238",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（scada-hmi.it，快照 2026-10-21）",
- "summary": "意大利 Sielco Sistemi（Modbus I/O 模块、SCADA/HMI 软件（scada-hmi.it）、MQTT 云网关制造商；在线商店兼售工业交换机、工业电源、Teltonika RUT500；表内「switch / 工业电源」「质量一般」）；表内无跟进记录。",
- "type": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
- "size": "",
- "brands_seen": [
-  "Teltonika"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Sielco Sistemi Store；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
-   "quote": "Compact I/O modules with Modbus RTU/ASCII；I/O modules with Modbus TCP and Webserver；Industrial I/O modules with Modbus RTU/ASCII；Send Modbus devices variables into the Cloud using MQTT protocol；Prodotti；Information",
-   "url": "https://www.scada-hmi.it/store2/",
-   "date": "2026-10-21"
+  "code": "SB-1238",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（scada-hmi.it，快照 2026-10-21）",
+  "summary": "意大利 Sielco Sistemi（Modbus I/O 模块、SCADA/HMI 软件（scada-hmi.it）、MQTT 云网关制造商；在线商店兼售工业交换机、工业电源、Teltonika RUT500；表内「switch / 工业电源」「质量一般」）；表内无跟进记录。",
+  "type": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
+  "size": "",
+  "brands_seen": [
+    "Teltonika"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Sielco Sistemi Store；品类词 工业自动化 / OT 网络 / 网络交换 / PoE",
+      "quote": "Compact I/O modules with Modbus RTU/ASCII；I/O modules with Modbus TCP and Webserver；Industrial I/O modules with Modbus RTU/ASCII；Send Modbus devices variables into the Cloud using MQTT protocol；Prodotti；Information",
+      "url": "https://www.scada-hmi.it/store2/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "switch 工业电源",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Sielco Sistemi Store 产品",
+      "quote": "Sielco Sistemi Store ; Compact I/O modules with Modbus RTU/ASCII ; I/O modules with Modbus TCP and Webserver ; Industrial I/O modules with Modbus RTU/ASCII",
+      "url": "https://www.scada-hmi.it/store2/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch 工业电源",
+      "quote": "switch 工业电源；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "switch 工业电源",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "意大利",
+    "other": "官网 scada-hmi.it，语言 en，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Sielco Sistemi Store 产品",
-   "quote": "Sielco Sistemi Store ; Compact I/O modules with Modbus RTU/ASCII ; I/O modules with Modbus TCP and Webserver ; Industrial I/O modules with Modbus RTU/ASCII",
-   "url": "https://www.scada-hmi.it/store2/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "Modbus I/O 模块 / SCADA-HMI 软件制造",
+    "工业配件网店（交换机 / 电源 / 路由）"
+  ],
+  "channels": {
+    "role": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
+    "region": "意大利",
+    "contact": "info@sielcosistemi.com"
   },
-  {
-   "kind": "用户表",
-   "claim": "switch 工业电源",
-   "quote": "switch 工业电源；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "首页：Compact I/O modules with Modbus RTU/ASCII ; I/O modules with Modbus TCP and Webserver ; Send Modbus devices variables into the Cloud using MQTT protocol；kw switch 28 / industrial 27",
+    "站内 Teltonika RUT500 / UL508；表内：switch 工业电源"
+  ],
+  "risks": [
+    "交换机为商店配套品类：量小；表内「质量一般」",
+    "无具名 KP（info@）；无跟进记录"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 20,
+    "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做"
+  },
+  "email_hook": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch 工业电源」",
+      "type": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「switch 工业电源」；研究档 risks：交换机为商店配套品类：量小；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "意大利 Sielco Sistemi（Modbus I/O 模块、SCADA/HMI 软件（scada-hmi.it）、MQTT 云网关制造商；在线商店兼售工业交换机、工业电源、Teltonika RUT500；表内「switch / 工业电源」「质量一般」）；表内无跟进记录。",
+    "need": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
+    "breakpoint": "交换机为商店配套品类：量小；表内「质量一般」",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 20,
+      "price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@sielcosistemi.com（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-04-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@sielcosistemi.com, sielcosistemi.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@sielcosistemi.com, sielcosistemi.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "switch 工业电源",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "意大利",
-  "other": "官网 scada-hmi.it，语言 en，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "Modbus I/O 模块 / SCADA-HMI 软件制造",
-  "工业配件网店（交换机 / 电源 / 路由）"
- ],
- "channels": {
-  "role": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
-  "region": "意大利",
-  "contact": "info@sielcosistemi.com"
- },
- "signals": [
-  "首页：Compact I/O modules with Modbus RTU/ASCII ; I/O modules with Modbus TCP and Webserver ; Send Modbus devices variables into the Cloud using MQTT protocol；kw switch 28 / industrial 27",
-  "站内 Teltonika RUT500 / UL508；表内：switch 工业电源"
- ],
- "risks": [
-  "交换机为商店配套品类：量小；表内「质量一般」",
-  "无具名 KP（info@）；无跟进记录"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 20,
-  "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做"
- },
- "email_hook": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「switch 工业电源」",
-   "type": "工业 I/O 与 SCADA 软件制造商兼网店（意大利）",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「switch 工业电源」；研究档 risks：交换机为商店配套品类：量小；表内「质量一般」；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "意大利 Sielco Sistemi（Modbus I/O 模块、SCADA/HMI 软件（scada-hmi.it）、MQTT 云网关制造商；在线商店兼售工业交换机、工业电源、Teltonika RUT500；表内「switch / 工业电源」「质量一般」）；表内无跟进记录。",
-  "need": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
-  "breakpoint": "交换机为商店配套品类：量小；表内「质量一般」",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 20,
-   "price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "商店配套工业交换机 → 工业 8 GE 非管理 STI-080GE（$31.4 @20%）/ 5 GE STI-050GE（$17.0）；工业电源 Saga 不做",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@sielcosistemi.com（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "For the industrial switches you list next to your Modbus I/O modules, we supply DIN-rail 5/8-port gigabit unmanaged units (−40~75 °C, 12–58 VDC, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your Winlog customers order most? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-04-01",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@sielcosistemi.com, sielcosistemi.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-31",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@sielcosistemi.com, sielcosistemi.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "switch 工业电源",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

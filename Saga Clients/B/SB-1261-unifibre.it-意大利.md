@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：米兰近郊的光纤增值分销商（业务刚并入都灵 Optoplast），有源类目 10 款工业交换机全是 PLANET。类型：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌。信号：unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16P2T2S 1 155 €、IGS-624HPT 558 €、IGS-1020PTF 569 €（均「Su ordinazione」）；serie civile：GS-4210-24T4S 379 €、8P+2SFP managed 325 €、24-port PoE 300 W 433 €。Planet 渠道档案 PB-092 评级 B（需求：「Switch Industriali」类目 10 款全为 PLANET 带欧元价 + 商用类目 3 款 → 有源类目采购真实且只此一家品牌；触达：uniteam@optoplast.org / uniteam@unifibre.it + +39 02 3355501 公开（/contattaci），无具名 KP；体量：30 余年光纤 VAD，被 Optoplast 收购业务 → 中型、可赢但整合期不确定；Gmail：Elsa 账号 2025-04-01 → 2026-08-31 以 BCC 群发 9 封至 uniteam@unifibre.it，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无具名 KP + 整合期））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1261，意大利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS  全部是transtion的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：米兰近郊的光纤增值分销商（业务刚并入都灵 Optoplast），有源类目 10 款工业交换机全是 PLANET。类型：光纤增值分销商兼电商（30 余年；光缆 / 跳线 / 熔接机 / 测试 / 有源设备；提供熔接施工与培训）；2026 年起业务并入 Optoplast Srl；PLANET 为其「Switch Industriali」类目（10 款）与「Switch serie civile」类目的在售品牌。信号：unifibre.it/32-switch-industriali：10 款全为 PLANET 型号 — ISW-621T 134 €、ISW-621TS15 231 €、IGS-1020TF 349 €、IGS-1820TF 566 €、IGS-4215-4T2S 366 €、IGS-12040MT 867 €、IGS-4215-8P2T2S 766 €、IGS-4215-16
 - **对方真实需求（有据）**：其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿
 - **断点 / 为什么停在这里**：Optoplast 接手后采购决策人（都灵 vs 米兰）；PLANET 线年量（全部「Su ordinazione」= 零库存代订）；是否要求意大利语文档
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——其在售 IGS-4215-8P2T2S（工业 8×GE PoE+ + 2×SFP + 2×GE 管理，766 €）→ Saga STI-288GPM 同口型（8×GE PoE+ + 2×SFP 管理），20% 档 $78.9 USD EXW；IGS-624HPT / GS-4210-24T4S 由 STI-244GP / STC-424DGGM 第二封对位；增值分销 / 电商（走量）→ 20%（沿
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

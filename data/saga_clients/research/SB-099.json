@@ -95,7 +95,7 @@
     "saga_now": {
       "p1": "STC-424DGGPM-280W",
       "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2024-12-30 $240（24 Port Fiber Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2024-12-30 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-04→2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）",
       "repeat": [],
       "gaps": []
@@ -135,7 +135,7 @@
         "date": "2025-10-02",
         "dir": "out",
         "who": "Elsa → sales@agsplus.in",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:gunjan@xexagon.co.in` 全程 complete：7 轮直收；客户曾来信（见 Re: 行）",
         "k": "elsa_1to1",
         "msg_id": "199a3a280e8fb457"
@@ -188,7 +188,7 @@
         "date": "2026-05-11",
         "dir": "out",
         "who": "Elsa → sales@agsplus.in",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19e159ef6104876f"
@@ -197,7 +197,7 @@
         "date": "2026-08-04",
         "dir": "out",
         "who": "Elsa → sales@agsplus.in",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:gunjan@xexagon.co.in` 全程 complete：7 轮直收；客户曾来信（见 Re: 行）",
         "k": "elsa_1to1",
         "msg_id": "19fcafff5f9156bc"
@@ -214,7 +214,7 @@
         "date": "2026-09-08",
         "dir": "out",
         "who": "Elsa → gunjan@xexagon.co.in",
-        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc）",
+        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
         "k": "elsa_bcc",
         "msg_id": "1a08075d070c32df"

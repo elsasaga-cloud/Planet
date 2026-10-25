@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。（调研 2026-10-21；表内兴趣：对1.6T很感兴趣，DCI box，拍了照 离开展位后去了信泰那，似乎是互相很熟悉）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — DCI / 1.6T 规格外；无主推型。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — DCI / 1.6T 规格外；无主推型。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — 首封前知悉：Elsa 已 1:1 去信 2 轮（2026-02-12→2026-08-10，0 回）（第 74 批(m)）；—
@@ -47,13 +47,13 @@ updated: 2026-10-25
 - **现状一句话**：巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。
 - **对方真实需求（有据）**：DCI / 1.6T 规格外；无主推型。
 - **断点 / 为什么停在这里**：需求 1.6T / DCI 规格外
-- **Saga 现在该推什么**：P1 **—**（20% 档，按主表（研究档 saga_fit））——DCI / 1.6T 规格外；无主推型。
+- **Saga 现在该推什么**：P1 **—**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——DCI / 1.6T 规格外；无主推型。
 - **下一步（具体）**：不动　—　首封前知悉：Elsa 已 1:1 去信 2 轮（2026-02-12→2026-08-10，0 回）（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-12 | out | Elsa → eduardo.ken@precisionsolutions.com.br | DWDM Core Switching Solution（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:eduardo.ken@precisionsolutions.com.br` 全程 complete：2 轮直收；0 回 | `elsa_1to1` |
-| 2026-08-10 | out | Elsa → eduardo.ken@precisionsolutions.com.br | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-10 | out | Elsa → eduardo.ken@precisionsolutions.com.br | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：对1.6T很感兴趣，DCI box，拍了照 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。（调研 2026-10-21；表内兴趣：千兆PoE MC）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/肯尼亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 5 次（2025-03-02 → 2025-10-01）；最近一次客户回复：2025-04-22：interested
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-111GP — 千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-111GP — 千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-12 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-12；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-17、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；—
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。
 - **对方真实需求（有据）**：千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。
 - **断点 / 为什么停在这里**：身份不明；东非付款 T/T 预付
-- **Saga 现在该推什么**：P1 **STI-111GP**（25% 档，按主表（研究档 saga_fit））——千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。
+- **Saga 现在该推什么**：P1 **STI-111GP**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-12 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-12；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。
 - **下一步（具体）**：不动　—　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-17、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -56,15 +56,15 @@ updated: 2026-10-25
 | 2025-04-16 | 来 | Musine（肯尼亚，个人 gmail） | Am good .... Am interested | 一句兴趣，无需求细节；非主攻区 | `gmail_e` |
 | 2025-04-17 | 去 | Elsa | Thanks for your interest. Please see attached links for all information.（附 Download Link.pdf） | 对「Am interested」只给链接 | `gmail_e 19642de7fdf8791b` |
 | 2025-04-22 | 去 | Elsa | Did you check the product information? Any interested models? | 追问一次，之后无回 → 一句兴趣到此为止 | `gmail_e 1965c9c762c8b5a9` |
-| 2025-05-12 | out | Elsa → wafulamusine@gmail.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-05-12 | out | Elsa → wafulamusine@gmail.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-06-21 | out | Elsa → wafulamusine@gmail.com | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2025-10-01 | out | Elsa → wafulamusine@gmail.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-10-01 | out | Elsa → wafulamusine@gmail.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-03 | out | Elsa → wafulamusine@gmail.com | Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → wafulamusine@gmail.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-03-02 | out | Elsa → wafulamusine@gmail.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-04-03 | out | Elsa → wafulamusine@gmail.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2026-05-11 | out | Elsa → wafulamusine@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
-| 2026-08-04 | out | Elsa → wafulamusine@gmail.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → wafulamusine@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → wafulamusine@gmail.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：千兆PoE MC；回复：interested | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱完整往来：04-15 群发 → 04-16「Am good… Am interested」→ 04-17 Elsa 给下载链接 → 04-22 追问 → 无回；用户表「有回复·跟进中」= 这条；不动不变

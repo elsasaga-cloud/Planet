@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：美国 FiberOptic Supply（光纤材料网店：测试仪、光缆、熔接机、工具、跳线、耗材；有源组件分类（SFP 29 / MC 29 处）；表内「SFP MC 周边产品 / 卖别人的 MC」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：SFP MC 周边产品；卖别人的MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-22 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 —；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com —
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch））———
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））———
 - **下一步（具体）**：不动　—；备用具名邮箱 → bhogan@fiberopticsupply.com, bturner@fiberopticsupply.com, gcharlton@fiberopticsupply.com　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,7 +55,7 @@ updated: 2026-10-25
 | 2023-12-20 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 gcharlton@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `5fe850467aa7251b` |
 | 2024-09-27 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 bturner@fiberopticsupply.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `f88a1716b68677f2` |
 | 2025-04-05 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
-| 2025-06-29 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST | Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-06-29 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 fiberopticsupply.com, sales@fiberopticsupply.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）

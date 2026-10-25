@@ -99,7 +99,7 @@
     "saga_now": {
       "p1": "STI-288GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "自有 logo 工业 FS → STI-288GP（$62.2 @30%）贴牌；MC STI-110GE；商用 PoE STC-28DGGPM。",
       "repeat": [],
       "gaps": []
@@ -123,7 +123,7 @@
         "date": "2026-08-10",
         "dir": "out",
         "who": "Elsa → lamho@quanglam.com.vn",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(o) `from:e.sagatelecom to:quanglam.com.vn` 全程 complete：2 行；To=本户 ⇒ 1:1 直收",
         "k": "elsa_1to1",
         "msg_id": "19feae677954866c"

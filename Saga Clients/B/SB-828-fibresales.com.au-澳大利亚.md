@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 10 轮（2025-04-13→2026-08-28，0 回）（第 74 批(m)）；观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供
 - **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch））——自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 10 轮（2025-04-13→2026-08-28，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?
 
@@ -54,7 +54,7 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2025-02-26 | 去 | A/S 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 9 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2025-02-26（9 去 / 0 来） | `gmail_digest` |
 | 2026-08-28 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@fibresales.com.au（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
-| 2026-08-28 | out | Elsa → sales@fibresales.com.au | 24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
+| 2026-08-28 | out | Elsa → sales@fibresales.com.au | 24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

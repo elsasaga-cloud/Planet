@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：波兰 Kamsys（监控/报警/安防系统网店：BCS 智能摄像机、门禁、可视对讲、Dahua / Hikvision / Uniview；表内「SFP MC 工业 FS VC」「质量一般」；邮箱 sklep@、wyceny@）；表内未跟进。（调研 2026-10-21；表内兴趣：SFP MC 工业FS VC）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 —；备用具名邮箱 → piotr@kamsys.pl —
@@ -46,13 +46,13 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））———
 - **下一步（具体）**：不动　—；备用具名邮箱 → piotr@kamsys.pl　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-10-05 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 piotr@kamsys.pl | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `7d516fc6a1f3e02f` |
-| 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring | Elsa 箱群发 BCC 触达证据（命中地址 allegro@kamsys.pl, kamsys.pl, sklep@kamsys.pl, wyceny@kamsys.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 allegro@kamsys.pl, kamsys.pl, sklep@kamsys.pl, wyceny@kamsys.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 allegro@kamsys.pl, kamsys.pl, sklep@kamsys.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）

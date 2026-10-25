@@ -127,7 +127,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-05 $220（48 port managed switch）、2026-04-30 $280（10G Enterprise SFP Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-05 $220（48 port managed switch）、2026-04-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-17 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-17；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-13 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-13；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
       "why": "工业线现 HRUI/Utepo 代工 → 按 Q-33 口径只推 SmartByte/Marvell 差异化线：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）、PoE++ STI-288DGGPM-2BT、商用 L2+ STC-28DGGPM；不以 HRUI 同型号竞价",
       "repeat": [],
       "gaps": []
@@ -152,7 +152,7 @@
         "date": "2025-06-17",
         "dir": "out",
         "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "1977c4228727d6c9"
@@ -161,7 +161,7 @@
         "date": "2025-10-13",
         "dir": "out",
         "who": "Elsa → info@digisol.com, helpdesk@digisol.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:digisol.com` 全程 complete：7 轮直收（头 msg 19d42b128951e1cf 无 Bcc，称呼「Hi,」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "199dc39cede1d8dd"

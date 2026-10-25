@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。（调研 2026-10-21；表内兴趣：4+24, 4+48 10G光）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：推送 7 次（2025-03-26 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）
 - **第一问（只问一个）**：Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 仅 2025-02-27 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开
@@ -46,13 +46,13 @@ updated: 2026-10-25
 - **现状一句话**：南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。
 - **对方真实需求（有据）**：4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）
 - **断点 / 为什么停在这里**：非主攻区（T5，南非）；官网快照为托管占位页（经营状态待核）；7 次无回复 → 改向 Sales Engineer 具名续谈；WhatsApp 未尝试
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch））——4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7））——4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 仅 2025-02-27 单发过 1 封「48 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Lloyd, following your interest in 24/48-port switches with 4 × 10G uplinks: we offer Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE needed on the access ports, and how many units per configuration?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-02-27 | out | Elsa → procurement@marzetek.com | 48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-02-27 | out | Elsa → procurement@marzetek.com | 48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-06 | 去 | A 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-03-26 → 末封 2026-10-06（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 4+24, 4+48 10G光；27 61 836 5820 没尝试加 | 表内备注 | `用户表` |
 

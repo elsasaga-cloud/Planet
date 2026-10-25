@@ -1,132 +1,132 @@
 {
- "code": "SB-1199",
- "name_official": "ICP DAS Romania（icpdas.ro）",
- "researched_at": "2026-10-21",
- "website_status": "在线（icpdas.ro，快照 2026-10-21，罗马尼亚语）",
- "summary": "罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "ICP DAS",
-  "Axiomtek",
-  "EtherWAN"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "ICP DAS / ICP CON 数据采集、有线无线通信、Axiomtek 工控、自动化网店",
-   "quote": "Magazin Online ICP DAS - Echipamente ICP CON pentru achizitii de date, comunicatii prin fir si wireless, calculatoare industriale Axiomtek, automatizari.",
-   "url": "https://icpdas.ro/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "工业通信 工业 FS 周边产品；好像是 Etherwan 的",
-   "quote": "兴趣：工业通信 工业FS 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（办公室）",
-   "title": "Office",
-   "email": "office@icpdas.ro",
-   "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "（待核，ICP DAS 罗马尼亚分销）",
-  "founded": "",
-  "hq": "Romania",
-  "size": "小型工业网店",
-  "other": "小国名单"
- },
- "business_lines": [
-  "工业自动化 / 通信网店"
- ],
- "channels": {
-  "role": "工业分销网店",
-  "region": "罗马尼亚（小国）"
- },
- "signals": [
-  "工业词频极高 → 工业交换机是核心品类"
- ],
- "risks": [
-  "小国；无具名"
- ],
- "saga_fit": {
-  "p1": "STI-288GP",
-  "tier": 20,
-  "why": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
- },
- "email_hook": "（低优先；小国名单）",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：工业通信 工业FS 周边产品」",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "罗马尼亚（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：工业通信 工业FS 周边产品」；研究档 risks：小国；无具名；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）2025-02-17→2026-08-13 共 13 轮群发（24 Port Fiber Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。",
-  "need": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP：按最近实报 $60（㉕ 非管理工业线不用档位价；旧写法 $57.4 @20% 作废）。",
-  "breakpoint": "小国；无具名",
-  "saga_now": {
-   "p1": "STI-288GP",
-   "tier": 20,
-   "price": "首触锚价 STI-288GP $60 EXW（最近实报 SA-100 2025-03-18；第 72 批）；按主表（研究档 saga_fit）",
-   "why": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → office@icpdas.ro（无具名 KP）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封一问（EtherWAN 之下的入门工业档）",
-   "one_question": "Alongside the EtherWAN and ICP DAS industrial lines you carry, we supply DIN-rail 2-SFP + 8-PoE industrial unmanaged (STI-288GP) and 8-PoE + 2 SFP managed (Marvell L2+) units from small lots, −40~75 °C, CE/RoHS, neutral or your label — is an entry-price industrial tier below EtherWAN of interest to your integrator customers? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-02-17",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
-    "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 icpdas.ro, office@icpdas.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-13",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 icpdas.ro, office@icpdas.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：工业通信 工业FS 周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1199",
+  "name_official": "ICP DAS Romania（icpdas.ro）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（icpdas.ro，快照 2026-10-21，罗马尼亚语）",
+  "summary": "罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "ICP DAS",
+    "Axiomtek",
+    "EtherWAN"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "ICP DAS / ICP CON 数据采集、有线无线通信、Axiomtek 工控、自动化网店",
+      "quote": "Magazin Online ICP DAS - Echipamente ICP CON pentru achizitii de date, comunicatii prin fir si wireless, calculatoare industriale Axiomtek, automatizari.",
+      "url": "https://icpdas.ro/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "工业通信 工业 FS 周边产品；好像是 Etherwan 的",
+      "quote": "兴趣：工业通信 工业FS 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [
+    {
+      "name": "（办公室）",
+      "title": "Office",
+      "email": "office@icpdas.ro",
+      "phone": "",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "（待核，ICP DAS 罗马尼亚分销）",
+    "founded": "",
+    "hq": "Romania",
+    "size": "小型工业网店",
+    "other": "小国名单"
+  },
+  "business_lines": [
+    "工业自动化 / 通信网店"
+  ],
+  "channels": {
+    "role": "工业分销网店",
+    "region": "罗马尼亚（小国）"
+  },
+  "signals": [
+    "工业词频极高 → 工业交换机是核心品类"
+  ],
+  "risks": [
+    "小国；无具名"
+  ],
+  "saga_fit": {
+    "p1": "STI-288GP",
+    "tier": 20,
+    "why": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。"
+  },
+  "email_hook": "（低优先；小国名单）",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：工业通信 工业FS 周边产品」",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "罗马尼亚（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：工业通信 工业FS 周边产品」；研究档 risks：小国；无具名；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）2025-02-17→2026-08-13 共 13 轮群发（24 Port Fiber Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。",
+    "need": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP：按最近实报 $60（㉕ 非管理工业线不用档位价；旧写法 $57.4 @20% 作废）。",
+    "breakpoint": "小国；无具名",
+    "saga_now": {
+      "p1": "STI-288GP",
+      "tier": 20,
+      "price": "首触锚价 STI-288GP $60 EXW（最近实报 SA-100 2025-03-18；第 72 批）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → office@icpdas.ro（无具名 KP）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封一问（EtherWAN 之下的入门工业档）",
+      "one_question": "Alongside the EtherWAN and ICP DAS industrial lines you carry, we supply DIN-rail 2-SFP + 8-PoE industrial unmanaged (STI-288GP) and 8-PoE + 2 SFP managed (Marvell L2+) units from small lots, −40~75 °C, CE/RoHS, neutral or your label — is an entry-price industrial tier below EtherWAN of interest to your integrator customers? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-17",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+        "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 icpdas.ro, office@icpdas.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 icpdas.ro, office@icpdas.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：工业通信 工业FS 周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

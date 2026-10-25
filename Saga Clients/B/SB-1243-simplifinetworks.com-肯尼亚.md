@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：肯尼亚 Simplifi Networks（东非与中非网络通信设备总分销：Huawei eKit、Ubiquiti、Ruijie、MikroTik；ONV 产品；乌干达亦有邮箱；表内「PoE 配件 / 工业 FS 有自己的 logo，多数还是卖别人的」）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：POE配件工业FS 有自己的logo 多数还是卖别人的）
 - **为什么是 B 级**：-6 E 冷名单（按国家群发）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/肯尼亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-07 → 2025-10-07）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有 logo 少量工业 FS/PoE 配件（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）；商用位 STC-28DGGPM；AP 配套 PoE 位 HRUI STC-028GP；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有 logo 少量工业 FS/PoE 配件（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）；商用位 STC-28DGGPM；AP 配套 PoE 位 HRUI STC-028GP；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -45,16 +45,16 @@ updated: 2026-10-25
 - **现状一句话**：肯尼亚 Simplifi Networks（东非与中非网络通信设备总分销：Huawei eKit、Ubiquiti、Ruijie、MikroTik；ONV 产品；乌干达亦有邮箱；表内「PoE 配件 / 工业 FS 有自己的 logo，多数还是卖别人的」）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：自有 logo 少量工业 FS/PoE 配件（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）；商用位 STC-28DGGPM；AP 配套 PoE 位 HRUI STC-028GP
 - **断点 / 为什么停在这里**：非主攻区（T5，东非）：物流/结算路径待核；品牌授权分销为主（表内「多数还是卖别人的」）
-- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit））——自有 logo 少量工业 FS/PoE 配件（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）；商用位 STC-28DGGPM；AP 配套 PoE 位 HRUI STC-028GP
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有 logo 少量工业 FS/PoE 配件（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$57.4 @20%）；商用位 STC-28DGGPM；AP 配套 PoE 位 HRUI STC-028GP
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-07 | out | Elsa → kenya@simplifinetworks.com, uganda@simplifinetworks.com | 8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2025-05-05 | out | Elsa → kenya@simplifinetworks.com | Commercial PoE Switch（Elsa 1:1 逐月名单第 2/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
-| 2025-06-09 | out | Elsa → kenya@simplifinetworks.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-06-09 | out | Elsa → kenya@simplifinetworks.com | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/11 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2025-07-16 | out | Elsa → kenya@simplifinetworks.com | Managed Optical Bypass Switch（Elsa 1:1 逐月名单第 4/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
-| 2025-10-07 | out | Elsa → kenya@simplifinetworks.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 5/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2025-10-07 | out | Elsa → kenya@simplifinetworks.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 5/11 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2025-12-01 | out | Elsa → kenya@simplifinetworks.com | Booster PoE Switch（Elsa 1:1 逐月名单第 6/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-01-05 | out | Elsa → kenya@simplifinetworks.com | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 7/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-02-17 | out | Elsa → kenya@simplifinetworks.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 8/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |

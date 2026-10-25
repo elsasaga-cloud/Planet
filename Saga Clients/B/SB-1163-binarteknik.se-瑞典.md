@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27" 工业触摸屏）；表内无跟进记录。（调研 2026-10-21；表内兴趣：antaria planet的 工业FS MC SFP）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：瑞典 Binär Teknik（面向专业用户的工业电子与自动化分销：网络、PoE、光纤、工业电脑、自动化；在售 Antaira / Planet（表内「Antaira、Planet 的，工业 FS / MC / SFP」）、Moxa；站内 ESW8G-M-SFP4P、Wi-Fi 7 户外 AP、27" 工业触摸屏）；表内无跟进记录。
 - **对方真实需求（有据）**：在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
 - **断点 / 为什么停在这里**：现有 Antaira / Planet（台湾）供货稳定：需以价格/交期切入
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——在售 Antaira / Planet 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP（$57.4）同口型替换；MC 位 STI-110GE
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

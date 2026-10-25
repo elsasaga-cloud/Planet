@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：布达佩斯的网络 / 布线 / 机柜分销商，有源类目以 PLANET 工业交换机为主并自编货号。类型：网络 / 布线 / 机柜 / UPS 分销商兼电商（Digitus、X-Tech 机柜、PowerWalker UPS、Softing 测试、PLANET；另有施工服务 szolgaltatas@）；「aktív eszközök」类目以 PLANET 工业交换机为主，自编货号 L+型号。信号：lan.hu 商品页（「A LAN Kft. forgalmazásában」）：Planet ISW-801T 36 015 Ft（Cikkszám LISW-801T）、Planet IGS-10020MT 120 140 Ft + ÁFA (152 578 Ft)（LIGS-10020MT）、Planet IGSW-24040T 253 780 Ft + ÁFA (322 301 Ft)（LIGSW-24040T）、Planet IGS-801T 46 800 Ft + ÁFA (59 436 Ft)、Planet Industrial 8-Port 10/100/1000T + 2-Port SFP 102 019 Ft；FAQ 称库存实时、1–2 工作日发货。Planet 渠道档案 PB-093 评级 B（需求：5 款 PLANET 工业交换机商品页带 HUF 净价 / 含税价 + 自编货号 + 实时库存口径 → 有源类目采购真实；触达：sales@lan.hu / titkar@lan.hu + +36 1 415 2300 公开（页脚 / FAQ），无公开具名 KP（Bcc 中 jhegedus@ / wbea@ 两个具名地址角色未公开 → 不作 KP）；体量：布达佩斯分销商（D&B 「pénzügyileg legstabilabb」认证 2026-07）→ 中型、可赢；Gmail：Elsa 账号 2025-02-18 → 2026-08-13 以 BCC 群发 13 封（含 jhegedus@ / wbea@），0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（无公开具名 KP））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1214，匈牙利，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：工业FS MC SFP TP-link的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/匈牙利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））———
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

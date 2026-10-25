@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。（调研 2026-10-21；表内兴趣：工业FS Cisco产品）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）；最近一次客户回复：2025-04-30：不用非管理的
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM-2BT（90W 款） — 翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报；自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM-2BT（90W 款） — 翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报；自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-21 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-21；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1 E 邮箱 → nealc@softnetworks.net 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-05-12→2026-08-04，客户回过信（2025-04-30、2025-05-14）），此前还经锚 Bcc 触达（第 74 批(m)）；一句话问 5 月报价的反馈
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：Neal 两句话说明了筛选标准：不买非管理；管理型问了价。Elsa 的回价内容不在仓库（E 箱只存来信正文）。
 - **对方真实需求（有据）**：管理型 PoE（高端 CCTV 项目）作为翻新业务的新品补充。
 - **断点 / 为什么停在这里**：价格基准（翻新 Cisco）vs 新品。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT（90W 款）**（25% 档，自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—）——翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报
+- **Saga 现在该推什么**：P1 **STI-288DGGPM-2BT（90W 款）**（25% 档，自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-089 500 台项目实报 $130）；第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-21 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-21；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报
 - **下一步（具体）**：2027-Q1　E 邮箱 → nealc@softnetworks.net　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-05-12→2026-08-04，客户回过信（2025-04-30、2025-05-14）），此前还经锚 Bcc 触达（第 74 批(m)）；一句话问 5 月报价的反馈
   - 第一问（只问一个）：Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
 
@@ -59,13 +59,13 @@ updated: 2026-10-25
 | 2025-05-12 | out | Elsa → nealc@softnetworks.net | 90W PoE Managed Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-05-13 | 来（Elsa 箱） | Neal | What is the price for this one? | 询价 | `E 196ca1e02d95c29d` |
 | 2025-05-14 | 去 | Elsa | 1, STI-288DGGPM-2BT: 140usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE, L2+ Managed 6*PoE af/at+2*PoE af/at/bt, 240W budget, Din Rail, Redundant DC44V~57V Input, Excluding optical module and power supply（附 STI-288DGGPM-2BT.pdf） | Saga 给 Neal 的唯一实价 $140（老汇率）→ 无下文；再触同款不得默默写 $154，要点明 FX 7.2→6.7 | `gmail_e 196ccf655de0046f` |
-| 2025-06-21 | out | Elsa → nealc@softnetworks.net | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2025-10-01 | out | Elsa → nealc@softnetworks.net | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-06-21 | out | Elsa → nealc@softnetworks.net | 48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2025-10-01 | out | Elsa → nealc@softnetworks.net | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-03 | out | Elsa → nealc@softnetworks.net | Booster PoE Switch（Elsa 1:1 逐月名单第 4/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → nealc@softnetworks.net | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-04-03 | out | Elsa → nealc@softnetworks.net | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2026-05-11 | out | Elsa → nealc@softnetworks.net | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
-| 2026-08-04 | out | Elsa → nealc@softnetworks.net | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → nealc@softnetworks.net | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → nealc@softnetworks.net | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 05-14 实报 STI-288DGGPM-2BT $140/pc + 规格书；04-30 已先给 STI-288DGGPM 规格书
 

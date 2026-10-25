@@ -1,179 +1,179 @@
 {
- "code": "SB-191",
- "name_official": "Switchtec Ltd（Co. 01613368，Stone, Staffordshire, UK；switchtec.com）",
- "researched_at": "2026-10-21",
- "website_status": "在线",
- "summary": "英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Kyland",
-  "MEAN WELL",
-  "SCL"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "公司定位与规模",
-   "quote": "Switchtec Ltd operates as a UK franchisee for world-wide manufacturers of quality components … For more 40 years … carries over seven thousand product lines ex-stock",
-   "url": "https://www.switchtec.com/About_Us",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "Kyland 工业交换机品类",
-   "quote": "Unmanaged Ethernet Switches … EN50155 Ethernet Switches … Managed Ethernet Switches … Kyland Industrial Ethernet Switches",
-   "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网",
-   "claim": "地址、电话、邮箱",
-   "quote": "Switchtec Ltd, Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH Telephone: 01785 818600 … Email: sales@switchtec.com … No minimum order quantity",
-   "url": "https://www.switchtec.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "行业媒体",
-   "claim": "CEO 与 Kyland 引入",
-   "quote": "Says CEO Jeremy Lester, \"… we have many new products coming through including solutions from leading global innovator in industrial internet technology Kyland.\"",
-   "url": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "登记",
-   "claim": "法人登记",
-   "quote": "SWITCHTEC LIMITED … Brooms Road, Stone Business Park, Stone, Staffordshire, ST15 0SH … Incorporated on: 12 February 1982",
-   "url": "https://find-and-update.company-information.service.gov.uk/company/01613368",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "17 次跟进 0 回复",
-   "quote": "（用户表字段）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Jeremy Lester",
-   "role": "CEO（行业媒体公开）",
-   "email": "sales@switchtec.com（公司公开）",
-   "phone": "+44 1785 818600",
-   "source": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years"
-  },
-  {
-   "name": "Mark Stevens",
-   "role": "Southern Area Sales Manager（官网新闻公开）",
-   "email": "—（未公开）",
-   "phone": "+44 1785 818600",
-   "source": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Companies House 核对）"
- },
- "company_facts": {
-  "legal_name": "Switchtec Limited（Companies House 01613368，1982-02-12）",
-  "founded": "1982",
-  "hq": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com）",
-  "size": "11–50（LinkedIn）；7,000+ 现货品类",
-  "other": "CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道"
- },
- "business_lines": [
-  "工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）",
-  "工业以太网交换机（Kyland：非管理 Opal、管理型、EN50155）",
-  "现场技术选型支持（销售工程师）"
- ],
- "products_seen": [
-  {
-   "brand": "Kyland",
-   "model": "Opal 系列（非管理）",
-   "spec": "4×10/100 RJ45 + 1 光/电口，冗余电源，IP30 金属壳，SC/ST/SFP 可选",
-   "url": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches",
-   "date": "2026-10-21",
-   "saga": "STI-140FE（4 FE + 1 SFP，$24.3）/ STI-140GE（$28.0）"
-  },
-  {
-   "brand": "Kyland",
-   "model": "EN50155 / 管理型系列",
-   "spec": "铁路与管理型工业交换机",
-   "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
-   "date": "2026-10-21",
-   "saga": "STI-280DGGM（管理 8 GE + 2 SFP）；EN50155 守界不供"
-  }
- ],
- "channels": {
-  "网站": "https://www.switchtec.com/",
-  "电话": "+44 1785 818600（官网公开）",
-  "邮箱（公开）": "sales@switchtec.com",
-  "LinkedIn": "https://www.linkedin.com/company/switchtec-ltd"
- },
- "signals": [
-  "已建工业以太网品类（Kyland）但仅一家品牌 → 可作第二来源/价格线；无 MOQ、7,000 品类现货模式适合小批量 STI"
- ],
- "risks": [
-  "与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复"
- ],
- "saga_fit": {
-  "p1": "STI-280DGGM",
-  "tier": 20,
-  "why": "分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM"
- },
- "email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?",
- "mail_review": {
-  "binding": {
-   "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
-   "type": "英国电气/网络分销（Switchtec）",
-   "sieve": "0",
-   "stop": "自动回复/机器人，无人工回复",
-   "revive": "不动",
-   "lane": "UK",
-   "cadence": "不动",
-   "evidence": "k=0fe645b425d2839a；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）2025-03-30→2026-09-04 共 11 轮群发（Marvell Alleycat5 Solution、90W PoE Managed Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "来信全部为机器回复；无人读信或无人回信。",
-  "need": "—",
-  "breakpoint": "—",
-  "saga_now": {
-   "p1": "—",
-   "tier": 20,
-   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G fiber media converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）",
-   "why": "已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-03-30",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-04",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   }
+  "code": "SB-191",
+  "name_official": "Switchtec Ltd（Co. 01613368，Stone, Staffordshire, UK；switchtec.com）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线",
+  "summary": "英国斯塔福德郡 Stone 的工业电气/电子元器件分销商（1982 年成立，Alan Lester 创办，CEO Jeremy Lester；11–50 人；7,000+ 现货品类；无最小订量；FedEx/Royal Mail 发货）：继电器、定时器、接触器、SCL/Meanwell 电源、变压器、传感器、电机起动器，并新近代理 Kyland 工业以太网交换机（非管理 Opal 系列、管理型、EN50155 系列）。工业自动化渠道、已有中国品牌工业交换机线 → Saga STI 为价格替代/补充。用户表：17 次跟进 0 回复。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Kyland",
+    "MEAN WELL",
+    "SCL"
   ],
-  "proof_gaps": [],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "公司定位与规模",
+      "quote": "Switchtec Ltd operates as a UK franchisee for world-wide manufacturers of quality components … For more 40 years … carries over seven thousand product lines ex-stock",
+      "url": "https://www.switchtec.com/About_Us",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "Kyland 工业交换机品类",
+      "quote": "Unmanaged Ethernet Switches … EN50155 Ethernet Switches … Managed Ethernet Switches … Kyland Industrial Ethernet Switches",
+      "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网",
+      "claim": "地址、电话、邮箱",
+      "quote": "Switchtec Ltd, Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH Telephone: 01785 818600 … Email: sales@switchtec.com … No minimum order quantity",
+      "url": "https://www.switchtec.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "行业媒体",
+      "claim": "CEO 与 Kyland 引入",
+      "quote": "Says CEO Jeremy Lester, \"… we have many new products coming through including solutions from leading global innovator in industrial internet technology Kyland.\"",
+      "url": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "登记",
+      "claim": "法人登记",
+      "quote": "SWITCHTEC LIMITED … Brooms Road, Stone Business Park, Stone, Staffordshire, ST15 0SH … Incorporated on: 12 February 1982",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/01613368",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "17 次跟进 0 回复",
+      "quote": "（用户表字段）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Jeremy Lester",
+      "role": "CEO（行业媒体公开）",
+      "email": "sales@switchtec.com（公司公开）",
+      "phone": "+44 1785 818600",
+      "source": "https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Southern Area Sales Manager（官网新闻公开）",
+      "email": "—（未公开）",
+      "phone": "+44 1785 818600",
+      "source": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网 + Companies House 核对）"
+  },
+  "company_facts": {
+    "legal_name": "Switchtec Limited（Companies House 01613368，1982-02-12）",
+    "founded": "1982",
+    "hq": "Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH, UK（+44 1785 818600；sales@switchtec.com）",
+    "size": "11–50（LinkedIn）；7,000+ 现货品类",
+    "other": "CEO Jeremy Lester（创办人 Alan Lester 之子）；2024/25 新任南区销售经理 Mark Stevens；Kyland 英国渠道"
+  },
+  "business_lines": [
+    "工业电气/电子元器件分销（继电器、定时器、接触器、电源、传感器）",
+    "工业以太网交换机（Kyland：非管理 Opal、管理型、EN50155）",
+    "现场技术选型支持（销售工程师）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Kyland",
+      "model": "Opal 系列（非管理）",
+      "spec": "4×10/100 RJ45 + 1 光/电口，冗余电源，IP30 金属壳，SC/ST/SFP 可选",
+      "url": "https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches",
+      "date": "2026-10-21",
+      "saga": "STI-140FE（4 FE + 1 SFP，$24.3）/ STI-140GE（$28.0）"
+    },
+    {
+      "brand": "Kyland",
+      "model": "EN50155 / 管理型系列",
+      "spec": "铁路与管理型工业交换机",
+      "url": "https://www.switchtec.com/Products/kyland-Industrial-Ethernet-Switch",
+      "date": "2026-10-21",
+      "saga": "STI-280DGGM（管理 8 GE + 2 SFP）；EN50155 守界不供"
+    }
+  ],
+  "channels": {
+    "网站": "https://www.switchtec.com/",
+    "电话": "+44 1785 818600（官网公开）",
+    "邮箱（公开）": "sales@switchtec.com",
+    "LinkedIn": "https://www.linkedin.com/company/switchtec-ltd"
+  },
+  "signals": [
+    "已建工业以太网品类（Kyland）但仅一家品牌 → 可作第二来源/价格线；无 MOQ、7,000 品类现货模式适合小批量 STI"
+  ],
+  "risks": [
+    "与 Kyland 代理关系（同为中国品牌，需差异化：Marvell 芯片、−40~+75 ℃、价格）；EN50155 铁路线守界；17 次跟进 0 回复"
+  ],
+  "saga_fit": {
+    "p1": "STI-280DGGM",
+    "tier": 20,
+    "why": "分销 20% 档：STI-280DGGM（DIN 8 GE + 2 SFP 管理，$125.6）与 STI-140GE（4 GE + 1 SFP 非管理，$26.9）作 Kyland 之外的第二工业线；PoE 版 STI-288DGGPM"
+  },
+  "email_hook": "Alongside the Kyland range you stock, a second industrial line at a lower price point — DIN 4-port gigabit with SFP from $26.9 and 8-port managed with 2 SFP at $125.6 EXW, −40 to +75 °C — may suit your no-MOQ model; would you like two evaluation units?",
+  "mail_review": {
+    "binding": {
+      "level": "未触达（1 封自动回复）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
+      "type": "英国电气/网络分销（Switchtec）",
+      "sieve": "0",
+      "stop": "自动回复/机器人，无人工回复",
+      "revive": "不动",
+      "lane": "UK",
+      "cadence": "不动",
+      "evidence": "k=0fe645b425d2839a；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）2025-03-30→2026-09-04 共 11 轮群发（Marvell Alleycat5 Solution、90W PoE Managed Switch、8 Port Industrial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "来信全部为机器回复；无人读信或无人回信。",
+    "need": "—",
+    "breakpoint": "—",
+    "saga_now": {
+      "p1": "—",
+      "tier": 20,
+      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-07 $65（10G fiber media converter）、2024-12-24 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已打开的主题（1/28 封有打开记录）：「Passive poe switch」(2024-09-03) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-03-30",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

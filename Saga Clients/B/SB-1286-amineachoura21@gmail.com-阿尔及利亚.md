@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。（调研 2026-10-21；表内兴趣：WDM information）
 - **为什么是 B 级**：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 非洲/阿尔及利亚；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 1 次（2023-09-13 → 2023-09-13）；最近一次客户回复：2023-09-13：WDM information
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — WDM 不在 Saga 线；无主推型。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — WDM 不在 Saga 线；无主推型。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
@@ -47,13 +47,13 @@ updated: 2026-10-25
 - **现状一句话**：阿尔及利亚联系人（LinkedIn 来源），2023-09 要 WDM 资料（Saga 无 WDM / 光模块，Q-32）；无公司。
 - **对方真实需求（有据）**：WDM 不在 Saga 线；无主推型。
 - **断点 / 为什么停在这里**：需求 WDM（缺口）；身份不明
-- **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit））——WDM 不在 Saga 线；无主推型。
+- **Saga 现在该推什么**：P1 **—**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——WDM 不在 Saga 线；无主推型。
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-01 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
-| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里） | Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 amineachoura21@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：WDM information | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码

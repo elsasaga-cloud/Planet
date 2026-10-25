@@ -1,172 +1,172 @@
 {
- "code": "SB-1221",
- "name_official": "PHU Multiproject",
- "researched_at": "2026-10-21",
- "website_status": "在线（multiproject.com.pl；并档 Planet 渠道档案 PB-097）",
- "summary": "格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 zł netto（Numer katalogowy 17809）；GSW-4800 1 476,00 zł brutto / 1 200,00 zł netto「Chwilowo niedostępny」。Planet 渠道档案 PB-097 评级 B（需求：PLANET 工业 PoE IGS-624HPT 独立商品页带净价 / 含税价 + GSD-1002M / GSW-4800 → 有 PLANET 在售线，但三款中两款「Chwilowo niedostępny」且站点为含汽车 / 家用的全品类批发目录 → 需求真实性中等；触达：商品页侧栏具名 Damian Lis（+48 535 840 740，damian.lis@）/ Sławomir Janusch（slawek.janusch@）+ biuro@ 公开 → 具名邮箱可用且未被群发触达；体量：PHU（个体经营）区域批发 → 可赢但小。按 net-s.pl 口径全品类目录型本不建档，因具名 KP 邮箱公开而例外建 B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1221，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "IGS-624HPT 商品页：价 / 缺货 / 联系人侧栏 / NIP（2026-10-20 fetch_page，片段复述）",
-   "quote": "Switch PoE przemysłowy IGS-624HPT 4xGE 4xPoE 2xSFP … Planet IGS-624HPT 4-portowy przemysłowy przełącznik Ethernet 10/100/1000T 802.3at PoE + 2 porty 100/1000X SFP … Cena brutto: 1 661,12 zł … Cena netto: 1 350,50 zł … Chwilowo niedostępny … Kontakt: Damian Lis 535 840 740 damian.lis@multiproject.com.pl … Sławomir Janusch slawek.janusch@multiproject.com.pl … biuro@multiproject.com.pl … NIP 5842509422",
-   "url": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网（搜索快照）",
-   "claim": "GSD-1002M 商品页：类目路径 / 价",
-   "quote": "Strona główna » Akcesoria sieciowe / informatyczne » Switche » Switch Planet GSD-1002M 8xGE 2xSFP … Numer katalogowy: 17809 Cena brutto: 479,92 zł Cena netto: 390,18 zł … Zarządzalny switch z 8 portami 10/100/1000 Mb/s + 2 portami 100/1000X SFP",
-   "url": "https://www.multiproject.com.pl/switch-planet-gsd-1002m-8xge-2xsfp-p-16280.html",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网（搜索快照）",
-   "claim": "GSW-4800 商品页：价 / 缺货",
-   "quote": "Switch Planet GSW-4800 48xGE … Numer katalogowy: 19118 Cena brutto: 1 476,00 zł Cena netto: 1 200,00 zł Chwilowo niedostępny Niezarządzalny przełącznik PLANET GSD-4800",
-   "url": "https://www.multiproject.com.pl/switch-planet-gsw-4800-48xge-p-17435.html",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网（搜索快照）",
-   "claim": "同类目在售竞品（Pulsar PoE 交换机）→ 安防批发定位",
-   "quote": "Switch PoE Pulsar SG108-B 10xGE 8xPoE zasil. bufor … ilość portów: 10 portów (8xPoE + 2xUPLINK) … IEEE 802.3af/at, 52VDC / 30W/port (PoE+)",
-   "url": "https://www.multiproject.com.pl/switch-poe-pulsar-sg108-b-10xge-8xpoe-zasil-bufor-p-19286.html",
-   "date": "2026-10-20"
-  }
- ],
- "kp": [
-  {
-   "name": "Damian Lis",
-   "title": "联系人（商品页侧栏「Kontakt」具名，职务未注明）；公开（商品页侧栏，2026-10-20 fetch）；未被 Elsa 账号群发触达（Bcc 仅 biuro@）",
-   "email": "damian.lis@multiproject.com.pl",
-   "phone": "+48 535 840 740",
-   "source": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html"
-  },
-  {
-   "name": "Sławomir Janusch",
-   "title": "联系人（商品页侧栏「Kontakt」具名，职务未注明）；公开（商品页侧栏，2026-10-20 fetch）；未被群发触达",
-   "email": "slawek.janusch@multiproject.com.pl",
-   "phone": "",
-   "source": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "PHU Multiproject",
-  "founded": "",
-  "hq": "Gdańsk, 波兰",
+  "code": "SB-1221",
+  "name_official": "PHU Multiproject",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（multiproject.com.pl；并档 Planet 渠道档案 PB-097）",
+  "summary": "格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 zł netto（Numer katalogowy 17809）；GSW-4800 1 476,00 zł brutto / 1 200,00 zł netto「Chwilowo niedostępny」。Planet 渠道档案 PB-097 评级 B（需求：PLANET 工业 PoE IGS-624HPT 独立商品页带净价 / 含税价 + GSD-1002M / GSW-4800 → 有 PLANET 在售线，但三款中两款「Chwilowo niedostępny」且站点为含汽车 / 家用的全品类批发目录 → 需求真实性中等；触达：商品页侧栏具名 Damian Lis（+48 535 840 740，damian.lis@）/ Sławomir Janusch（slawek.janusch@）+ biuro@ 公开 → 具名邮箱可用且未被群发触达；体量：PHU（个体经营）区域批发 → 可赢但小。按 net-s.pl 口径全品类目录型本不建档，因具名 KP 邮箱公开而例外建 B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1221，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-097（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档"
- },
- "business_lines": [
-  "格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "IGS-624HPT",
-   "spec": "工业 4×GE PoE+ + 2×SFP 非管理 DIN（1 350,50 zł 净价，缺货）→ Saga 同口型 $35.2 USD EXW",
-   "saga": "STI-244GP",
-   "url": "https://multiproject.com.pl",
-   "date": "2026-10-19"
+  "brands_seen": [
+    "PLANET"
+  ],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "IGS-624HPT 商品页：价 / 缺货 / 联系人侧栏 / NIP（2026-10-20 fetch_page，片段复述）",
+      "quote": "Switch PoE przemysłowy IGS-624HPT 4xGE 4xPoE 2xSFP … Planet IGS-624HPT 4-portowy przemysłowy przełącznik Ethernet 10/100/1000T 802.3at PoE + 2 porty 100/1000X SFP … Cena brutto: 1 661,12 zł … Cena netto: 1 350,50 zł … Chwilowo niedostępny … Kontakt: Damian Lis 535 840 740 damian.lis@multiproject.com.pl … Sławomir Janusch slawek.janusch@multiproject.com.pl … biuro@multiproject.com.pl … NIP 5842509422",
+      "url": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "GSD-1002M 商品页：类目路径 / 价",
+      "quote": "Strona główna » Akcesoria sieciowe / informatyczne » Switche » Switch Planet GSD-1002M 8xGE 2xSFP … Numer katalogowy: 17809 Cena brutto: 479,92 zł Cena netto: 390,18 zł … Zarządzalny switch z 8 portami 10/100/1000 Mb/s + 2 portami 100/1000X SFP",
+      "url": "https://www.multiproject.com.pl/switch-planet-gsd-1002m-8xge-2xsfp-p-16280.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "GSW-4800 商品页：价 / 缺货",
+      "quote": "Switch Planet GSW-4800 48xGE … Numer katalogowy: 19118 Cena brutto: 1 476,00 zł Cena netto: 1 200,00 zł Chwilowo niedostępny Niezarządzalny przełącznik PLANET GSD-4800",
+      "url": "https://www.multiproject.com.pl/switch-planet-gsw-4800-48xge-p-17435.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "同类目在售竞品（Pulsar PoE 交换机）→ 安防批发定位",
+      "quote": "Switch PoE Pulsar SG108-B 10xGE 8xPoE zasil. bufor … ilość portów: 10 portów (8xPoE + 2xUPLINK) … IEEE 802.3af/at, 52VDC / 30W/port (PoE+)",
+      "url": "https://www.multiproject.com.pl/switch-poe-pulsar-sg108-b-10xge-8xpoe-zasil-bufor-p-19286.html",
+      "date": "2026-10-20"
+    }
+  ],
+  "kp": [
+    {
+      "name": "Damian Lis",
+      "title": "联系人（商品页侧栏「Kontakt」具名，职务未注明）；公开（商品页侧栏，2026-10-20 fetch）；未被 Elsa 账号群发触达（Bcc 仅 biuro@）",
+      "email": "damian.lis@multiproject.com.pl",
+      "phone": "+48 535 840 740",
+      "source": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html"
+    },
+    {
+      "name": "Sławomir Janusch",
+      "title": "联系人（商品页侧栏「Kontakt」具名，职务未注明）；公开（商品页侧栏，2026-10-20 fetch）；未被群发触达",
+      "email": "slawek.janusch@multiproject.com.pl",
+      "phone": "",
+      "source": "https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20）"
   },
-  {
-   "brand": "PLANET",
-   "model": "GSD-1002M",
-   "spec": "桌面 8×GE + 2×SFP 管理型（390,18 zł 净价）→ Saga 8×GE PoE + 2×SFP 管理型 $80.7 USD EXW（非 PoE 款 STC-28DGGM 暂停，沿用 PoE 款，注明）",
-   "saga": "STC-28DGGPM",
-   "url": "https://multiproject.com.pl",
-   "date": "2026-10-19"
+  "company_facts": {
+    "legal_name": "PHU Multiproject",
+    "founded": "",
+    "hq": "Gdańsk, 波兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-097（2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json）；自有品牌：否；最大未知：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档"
   },
-  {
-   "brand": "PLANET",
-   "model": "GSW-4800",
-   "spec": "机架 48×GE 非管理（1 200,00 zł 净价，缺货）→ Saga 48×GE + 4×SFP 管理型 $236.8 USD EXW（管理型对非管理，规格高一级，注明）",
-   "saga": "STC-448DGGM",
-   "url": "https://multiproject.com.pl",
-   "date": "2026-10-19"
+  "business_lines": [
+    "格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "IGS-624HPT",
+      "spec": "工业 4×GE PoE+ + 2×SFP 非管理 DIN（1 350,50 zł 净价，缺货）→ Saga 同口型 $35.2 USD EXW",
+      "saga": "STI-244GP",
+      "url": "https://multiproject.com.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-1002M",
+      "spec": "桌面 8×GE + 2×SFP 管理型（390,18 zł 净价）→ Saga 8×GE PoE + 2×SFP 管理型 $80.7 USD EXW（非 PoE 款 STC-28DGGM 暂停，沿用 PoE 款，注明）",
+      "saga": "STC-28DGGPM",
+      "url": "https://multiproject.com.pl",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSW-4800",
+      "spec": "机架 48×GE 非管理（1 200,00 zł 净价，缺货）→ Saga 48×GE + 4×SFP 管理型 $236.8 USD EXW（管理型对非管理，规格高一级，注明）",
+      "saga": "STC-448DGGM",
+      "url": "https://multiproject.com.pl",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）",
+    "region": "波兰"
+  },
+  "signals": [
+    "安防批发商的工业 PoE 位由 PLANET IGS-624HPT 占着但缺货 → Saga STI-244GP 同口型（4×GE PoE + 2×SFP）、Marvell 方案、中性包装 EXW，正好补其「Chwilowo niedostępny」的窗口；商品页侧栏公开两位具名联系人邮箱且未被群发打过",
+    "首触（第一封具名信）：补其缺货位 + 同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+    "样机：1 台到 Gdańsk 并行比对（PoE 预算 / 温度范围 / 外观中性）"
+  ],
+  "risks": [
+    "PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档",
+    "Planet 首触邮件未发送（Elsa 账号待定）"
+  ],
+  "saga_fit": {
+    "p1": "STI-244GP",
+    "tier": 20,
+    "why": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求："
+  },
+  "email_hook": "Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a Marvell-based, neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）；S/A 箱：S/A 邮箱均无往来；来源：调研建档",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过",
+      "revive": "不动（Q-33 供应商渠道客户）",
+      "lane": "PL 次级重点",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；研究档 risks：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 z",
+    "need": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：",
+    "breakpoint": "PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档",
+    "saga_now": {
+      "p1": "STI-244GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-03",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@multiproject.com.pl, multiproject.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@multiproject.com.pl, multiproject.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "channels": {
-  "role": "格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）",
-  "region": "波兰"
- },
- "signals": [
-  "安防批发商的工业 PoE 位由 PLANET IGS-624HPT 占着但缺货 → Saga STI-244GP 同口型（4×GE PoE + 2×SFP）、Marvell 方案、中性包装 EXW，正好补其「Chwilowo niedostępny」的窗口；商品页侧栏公开两位具名联系人邮箱且未被群发打过",
-  "首触（第一封具名信）：补其缺货位 + 同口型第二来源 + 中性包装 EXW（只谈一个型号）",
-  "样机：1 台到 Gdańsk 并行比对（PoE 预算 / 温度范围 / 外观中性）"
- ],
- "risks": [
-  "PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档",
-  "Planet 首触邮件未发送（Elsa 账号待定）"
- ],
- "saga_fit": {
-  "p1": "STI-244GP",
-  "tier": 20,
-  "why": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求："
- },
- "email_hook": "Your IGS-624HPT listing is showing 'chwilowo niedostępny' at 1 350,50 zł net — a Marvell-based, neutral-packed STI 4-port PoE + 2×SFP unit at EXW fills that slot while giving you your own margin. For your CCTV installers, is the 4-port Gigabit PoE+ + 2×SFP industrial class (IGS-624HPT) the unit they ask for most, or the 8-port managed GSD-1002M — so I send the matching sample first?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL-2 批次 To j.zaczek@mbs-systems.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05caee1683faef）；S/A 箱：S/A 邮箱均无往来；来源：调研建档",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过",
-   "revive": "不动（Q-33 供应商渠道客户）",
-   "lane": "PL 次级重点",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 z",
-  "need": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：",
-  "breakpoint": "PLANET 线年量（两款缺货 = 代订还是停售）；Damian Lis / Sławomir Janusch 职务（销售 vs 采购）；是否要求波兰语文档",
-  "saga_now": {
-   "p1": "STI-244GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "其 PLANET 工业 PoE 在售款 IGS-624HPT（4×GE PoE+ + 2×SFP 非管理，1 350,50 zł 净价，目前缺货）→ Saga STI-244GP 同口型，20% 档 $35.2 USD EXW，价差最直观；GSD-1002M 由 STC-28DGGPM 第二封对位；批发 / 电商走量（自定毛利）→ 20%（沿用 Planet 档案 PB-097）；需求：",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-04-03",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
-    "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@multiproject.com.pl, multiproject.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-01",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@multiproject.com.pl, multiproject.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

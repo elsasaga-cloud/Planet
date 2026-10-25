@@ -1,111 +1,111 @@
 {
- "code": "SB-590",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
- "summary": "波兰 Lanberg（IT 配件品牌（Impakt S.A. 旗下）：PoE 设备、商用 FS、周边，自有 logo；官网快照 HTTP 错误；表内「质量一般」；邮箱 export@）；表内未跟进。",
- "type": "波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "PoE设备 商业FS 周边产品 自己的logo",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "code": "SB-590",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "快照失败（http_error）",
+  "summary": "波兰 Lanberg（IT 配件品牌（Impakt S.A. 旗下）：PoE 设备、商用 FS、周边，自有 logo；官网快照 HTTP 错误；表内「质量一般」；邮箱 export@）；表内未跟进。",
+  "type": "波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "PoE设备 商业FS 周边产品 自己的logo",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE 设备 商业 FS 自己的 logo",
+      "quote": "PoE设备 商业FS 周边产品 自己的logo；质量一般",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "PoE 设备 商业 FS 自己的 logo",
-   "quote": "PoE设备 商业FS 周边产品 自己的logo；质量一般",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "波兰",
+    "other": "官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表"
+  },
+  "business_lines": [
+    "IT 配件 / 网络产品（品牌 Lanberg）"
+  ],
+  "channels": {
+    "role": "波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）",
+    "region": "波兰",
+    "contact": "support@lanberg.pl、export@lanberg.pl"
+  },
+  "signals": [
+    "表内：PoE 设备 商业 FS 周边产品 自己的 logo；质量一般；邮箱 support@ / export@",
+    "快照：lanberg.pl http_error"
+  ],
+  "risks": [
+    "体量较大（Impakt S.A. 旗下品牌，既定 ODM 体系）；官网快照 HTTP 错误；表内「质量一般」；未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 30,
+    "why": "自有 Lanberg 标 PoE/商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8/16 口位 HRUI（列表价，注明）"
+  },
+  "email_hook": "For the PoE and unmanaged switches in the Lanberg range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget 5/8/16-port units in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your distribution?",
+  "mail_review": {
+    "binding": {
+      "level": "同一集团见 SA-076（Lanberg = Impakt S.A. 旗下品牌）：A 邮箱 19 封群发 0 回，但 E 邮箱 2025-08-25 收到 support@lanberg.pl 对「90W PoE Managed Switch」的回复并转给 lukasz.gasiewicz@impakt.com.pl——Lanberg 的采购在 Impakt；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
+      "type": "波兰 IT 配件品牌（Lanberg；Impakt S.A. 旗下，OEM 采购，体量大）",
+      "sieve": "2（support@ 读信并内部转交）",
+      "stop": "support@ 不是采购；真正的对口在 Impakt（SA-076 已有绑定线）",
+      "revive": "并入 SA-076 跟进，不单独群发",
+      "lane": "PL 次级（但 OEM 品牌商 = 目标第一档）",
+      "cadence": "随 SA-076",
+      "evidence": "E 邮箱 index_replied 2025-08-25 support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl；A 邮箱 out 19 / 0 回；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "Lanberg 是 Impakt 的自有品牌；A 邮箱对 lanberg.pl 群发 19 封无回，E 邮箱在 2025-08-25 收到 support@lanberg.pl 的回复，内容是把 Saga 的 90W PoE 信转给 Impakt 的 Łukasz Gąsiewicz。这说明两户是同一个采购体系。",
+    "need": "见 SA-076。",
+    "breakpoint": "双档并行。",
+    "saga_now": {
+      "p1": "STC-28DGGPM（研究档）",
+      "tier": 30,
+      "price": "按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+      "why": "自有品牌 + 体量",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "随 SA-076",
+      "channel": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl",
+      "action": "并档；不再对 support@lanberg.pl 群发",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-08-25",
+        "dir": "来（E 邮箱）",
+        "who": "Support Lanberg",
+        "quote": "RE: [EXTERNAL] 90W PoE Managed Switch（转 lukasz.gasiewicz@impakt.com.pl）",
+        "why": "Lanberg 采购在 Impakt",
+        "k": "gmail_e/index_replied"
+      },
+      {
+        "date": "2025-10-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 export@lanberg.pl, lanberg.pl, support@lanberg.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [
+      "E 邮箱该信正文未入库（仅索引）"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "波兰",
-  "other": "官网 lanberg.pl，语言 ?，快照状态 http_error；角色判定来源：用户表"
- },
- "business_lines": [
-  "IT 配件 / 网络产品（品牌 Lanberg）"
- ],
- "channels": {
-  "role": "波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）",
-  "region": "波兰",
-  "contact": "support@lanberg.pl、export@lanberg.pl"
- },
- "signals": [
-  "表内：PoE 设备 商业 FS 周边产品 自己的 logo；质量一般；邮箱 support@ / export@",
-  "快照：lanberg.pl http_error"
- ],
- "risks": [
-  "体量较大（Impakt S.A. 旗下品牌，既定 ODM 体系）；官网快照 HTTP 错误；表内「质量一般」；未跟进过"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 30,
-  "why": "自有 Lanberg 标 PoE/商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8/16 口位 HRUI（列表价，注明）"
- },
- "email_hook": "For the PoE and unmanaged switches in the Lanberg range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget 5/8/16-port units in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your distribution?",
- "mail_review": {
-  "binding": {
-   "level": "同一集团见 SA-076（Lanberg = Impakt S.A. 旗下品牌）：A 邮箱 19 封群发 0 回，但 E 邮箱 2025-08-25 收到 support@lanberg.pl 对「90W PoE Managed Switch」的回复并转给 lukasz.gasiewicz@impakt.com.pl——Lanberg 的采购在 Impakt；Elsa 群发 BCC 已触达 2025-10-09「10G Enterprise SFP Switch」（价格未读），PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次 To info@axuse.com，0 回（第 74 批 Bcc 头核对 msg 199c8653559f6d15）",
-   "type": "波兰 IT 配件品牌（Lanberg；Impakt S.A. 旗下，OEM 采购，体量大）",
-   "sieve": "2（support@ 读信并内部转交）",
-   "stop": "support@ 不是采购；真正的对口在 Impakt（SA-076 已有绑定线）",
-   "revive": "并入 SA-076 跟进，不单独群发",
-   "lane": "PL 次级（但 OEM 品牌商 = 目标第一档）",
-   "cadence": "随 SA-076",
-   "evidence": "E 邮箱 index_replied 2025-08-25 support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl；A 邮箱 out 19 / 0 回；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读"
-  },
-  "situation": "Lanberg 是 Impakt 的自有品牌；A 邮箱对 lanberg.pl 群发 19 封无回，E 邮箱在 2025-08-25 收到 support@lanberg.pl 的回复，内容是把 Saga 的 90W PoE 信转给 Impakt 的 Łukasz Gąsiewicz。这说明两户是同一个采购体系。",
-  "need": "见 SA-076。",
-  "breakpoint": "双档并行。",
-  "saga_now": {
-   "p1": "STC-28DGGPM（研究档）",
-   "tier": 30,
-   "price": "按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）",
-   "why": "自有品牌 + 体量",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "随 SA-076",
-   "channel": "A 邮箱 → lukasz.gasiewicz@impakt.com.pl",
-   "action": "并档；不再对 support@lanberg.pl 群发",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-08-25",
-    "dir": "来（E 邮箱）",
-    "who": "Support Lanberg",
-    "quote": "RE: [EXTERNAL] 90W PoE Managed Switch（转 lukasz.gasiewicz@impakt.com.pl）",
-    "why": "Lanberg 采购在 Impakt",
-    "k": "gmail_e/index_replied"
-   },
-   {
-    "date": "2025-10-09",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
-    "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 export@lanberg.pl, lanberg.pl, support@lanberg.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   }
-  ],
-  "proof_gaps": [
-   "E 邮箱该信正文未入库（仅索引）"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

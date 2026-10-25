@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。（调研 2026-10-21；表内兴趣：10G DAC 3米 300个单价）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424XGGM — 询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位；首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424XGGM — 询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位；首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：英国/阿联酋 Cratsol（cratsol.co.uk / cratsol.ae：询盘「10G DAC 3 米 300 个单价」；联系人 Issac Grant（Skype）/ Amir Zahirshah；表内「质量一般」；官网快照空）；表内未跟进。
 - **对方真实需求（有据）**：询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位
 - **断点 / 为什么停在这里**：询盘品类 DAC Saga 不供（Q-32 待裁定）；实体待核（英/阿联酋双域名、官网快照空、表内「质量一般」）；联系邮箱仅 sales@
-- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（20% 档，首触锚价 STC-424XGGM $127.4 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——询盘品类 10G DAC（Saga 不供，Q-32 待裁定）→ 顺带推 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）作 10G 接入位
   - 做不了 / 要先核的：10G DAC 3 m ×300 单卖：Saga 光模块价目表（Extra Info `Price/Optical Module.xlsx`）没有 DAC/AOC，口径「随整机报、随整机发」——这条询盘本身不是 Saga 的生意；首封只能问他有没有整机（10G 接入/汇聚）需求，不报线缆价
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sales@cratsol.co.uk（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Following your enquiry for 3 m 10G DAC cables: we do not carry DAC, but we supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches (and 8-PoE + 2 SFP) neutral-brand from single units, UKCA/CE/RoHS, EXW USD — is there a 10G-uplink switch position in the same project we could quote? Reference: STC-424XGGM at $127.4 USD EXW (MOQ 1, 15-day validity).

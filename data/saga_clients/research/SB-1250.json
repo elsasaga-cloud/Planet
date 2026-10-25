@@ -1,138 +1,138 @@
 {
- "code": "SB-1250",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（standardaudio.se，快照 2026-10-21）",
- "summary": "瑞典 Standard Audio Systems AB（AV 技术系统分销：专业音频（Electro-Voice / Dynacord）、语音疏散报警（EN54）、控制系统、门口机；Taskers 线缆瑞典分销；表内「VC / switch」）；表内无跟进记录。",
- "type": "AV/专业音频系统分销商（瑞典）",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "Electro-Voice",
-  "Dynacord"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, i；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
-   "quote": "Standard Audio är systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni",
-   "url": "https://www.standardaudio.se/",
-   "date": "2026-10-21"
+  "code": "SB-1250",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（standardaudio.se，快照 2026-10-21）",
+  "summary": "瑞典 Standard Audio Systems AB（AV 技术系统分销：专业音频（Electro-Voice / Dynacord）、语音疏散报警（EN54）、控制系统、门口机；Taskers 线缆瑞典分销；表内「VC / switch」）；表内无跟进记录。",
+  "type": "AV/专业音频系统分销商（瑞典）",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "Electro-Voice",
+    "Dynacord"
+  ],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, i；品类词 工业自动化 / OT 网络 / 无线 / WiFi / 网络交换 / PoE",
+      "quote": "Standard Audio är systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni",
+      "url": "https://www.standardaudio.se/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "VC switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "Standard Audio 定位",
+      "quote": "Standard Audio är systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni",
+      "url": "https://www.standardaudio.se/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "VC switch",
+      "quote": "VC switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "VC switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "company_facts": {
+    "hq": "瑞典",
+    "other": "官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
   },
-  {
-   "kind": "官网快照",
-   "claim": "Standard Audio 定位",
-   "quote": "Standard Audio är systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni",
-   "url": "https://www.standardaudio.se/",
-   "date": "2026-10-21"
+  "business_lines": [
+    "AV 技术 / 专业音频 / 语音疏散 / 控制系统分销"
+  ],
+  "channels": {
+    "role": "AV/专业音频系统分销商（瑞典）",
+    "region": "瑞典",
+    "contact": "info@standardaudio.se"
   },
-  {
-   "kind": "用户表",
-   "claim": "VC switch",
-   "quote": "VC switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
+  "signals": [
+    "官网：systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni；kw switch 34 / wireless 19",
+    "站内 AES67 / EN54-24 / JPEG2000；表内：VC switch"
+  ],
+  "risks": [
+    "守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机",
+    "AV 行业偏好 Netgear AV / Luminex 等认证交换机；无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）"
+  },
+  "email_hook": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「VC switch」",
+      "type": "AV/专业音频系统分销商（瑞典）",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "瑞典（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「VC switch」；研究档 risks：守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@morion.ru）2025-02-24→2026-08-18 共 12 轮群发（90W PoE Managed Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "瑞典 Standard Audio Systems AB（AV 技术系统分销：专业音频（Electro-Voice / Dynacord）、语音疏散报警（EN54）、控制系统、门口机；Taskers 线缆瑞典分销；表内「VC / switch」）；表内无跟进记录。",
+    "need": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）",
+    "breakpoint": "守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-18；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@standardaudio.se（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2025-02-24",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+        "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@standardaudio.se, standardaudio.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-18",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@standardaudio.se, standardaudio.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "VC switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "瑞典",
-  "other": "官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "AV 技术 / 专业音频 / 语音疏散 / 控制系统分销"
- ],
- "channels": {
-  "role": "AV/专业音频系统分销商（瑞典）",
-  "region": "瑞典",
-  "contact": "info@standardaudio.se"
- },
- "signals": [
-  "官网：systemdistributör av produkter och tjänster inom AV-teknik, professionellt ljud, talat utrymningslarm, inrymningslarm, styrsystem, porttelefoni；kw switch 34 / wireless 19",
-  "站内 AES67 / EN54-24 / JPEG2000；表内：VC switch"
- ],
- "risks": [
-  "守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机",
-  "AV 行业偏好 Netgear AV / Luminex 等认证交换机；无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）"
- },
- "email_hook": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-18「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/NL/SE/RO/TR/KZ 批次 To info@morion.ru，0 回（第 73 批(o) Bcc 头核对 msg 1a013fddf72d5ae1）；S/A 箱：S/A 邮箱均无往来；来源：用户表「VC switch」",
-   "type": "AV/专业音频系统分销商（瑞典）",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-18）无回；S/A 箱从未单独发过",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "瑞典（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「VC switch」；研究档 risks：守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@morion.ru）2025-02-24→2026-08-18 共 12 轮群发（90W PoE Managed Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "瑞典 Standard Audio Systems AB（AV 技术系统分销：专业音频（Electro-Voice / Dynacord）、语音疏散报警（EN54）、控制系统、门口机；Taskers 线缆瑞典分销；表内「VC / switch」）；表内无跟进记录。",
-  "need": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）",
-  "breakpoint": "守界备注：语音疏散报警（EN54）系统不涉，只供通用 AV 网络交换机",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "AV over IP / Dante 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，IGMP/QoS）；24 口位 STC-424DGGPM-280W；语音疏散回路不涉（守界）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@standardaudio.se（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-18「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "For the PoE switches you specify with Dante / AES67 audio and AV-over-IP installations, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ units with IGMP snooping and QoS from small lots, CE/RoHS, neutral packing — which port count do your integrators use most in meeting rooms? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2025-02-24",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
-    "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@standardaudio.se, standardaudio.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-18",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@morion.ru，RU/NL/SE/RO/TR/KZ 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@standardaudio.se, standardaudio.se）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "VC switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

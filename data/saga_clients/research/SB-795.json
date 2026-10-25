@@ -83,7 +83,7 @@
     "saga_now": {
       "p1": "STC-28DGGPM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）",
       "repeat": [],
       "gaps": []
@@ -99,7 +99,7 @@
         "date": "2025-10-09",
         "dir": "去",
         "who": "Elsa 群发（BCC；To apr.securitysystems@bosch.com，新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次）",
-        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "Elsa 箱群发 BCC 触达证据（命中地址 alan_ftss@yahoo.com.sg）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
@@ -133,7 +133,7 @@
         "date": "2026-09-02",
         "dir": "out",
         "who": "Elsa → alan_ftss@yahoo.com.sg",
-        "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "1a05fe99a61be532"

@@ -82,7 +82,7 @@
     "saga_now": {
       "p1": "LT-IS6312GP-4GX8GT-FBP",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-09 $300（48 Port PoE Managed Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-04 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-09 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
       "why": "2 光 8 bypass → SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP 光旁路，$194.3 @25%）（SmartByte 型号；Saga 暂无对应名，报价时注明）；非 PoE 版 LT-IS6312G-4GX8GT-FBP $179.4。",
       "repeat": [],
       "gaps": []
@@ -123,7 +123,7 @@
         "date": "2025-05-04",
         "dir": "去",
         "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "19699a96e93d4ea9"
@@ -150,7 +150,7 @@
         "date": "2025-10-06",
         "dir": "去",
         "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "199b7cd286b8997d"

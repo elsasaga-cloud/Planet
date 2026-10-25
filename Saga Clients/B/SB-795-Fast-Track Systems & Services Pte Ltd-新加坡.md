@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：新加坡楼宇工程公司 Fast-Track Systems & Services Pte Ltd（2000-04-05 注册，豁免私人公司；主业「General building engineering design and consultancy services」；注册地址 113 Eunos Avenue 3 #04-18 Gordon Industrial Building；电话 +65 6749 6390 / +65 9761 1286（= 用户表 WhatsApp 号））。用户表：Alan Tan（alan_ftss@yahoo.com.sg）——2020-03 询盘，光猫 8 个成样品单；WhatsApp 已加；无后续。光猫（ONU）不在 Saga 产品线 → 对位楼宇弱电交换机。（调研 2026-10-21；表内兴趣：光猫 8个  成样品单）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+3 区域 亚太/新加坡；-10 最近活动 2020（陈旧）
 - **历史互动**：成交/下单过；WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：现在（Simon） WhatsApp（Simon） 首封前知悉：Elsa 已 1:1 去信 3 轮（2026-01-29→2026-09-02，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；一句话
@@ -47,17 +47,17 @@ updated: 2026-10-25
 - **现状一句话**：新加坡楼宇工程公司 Fast-Track Systems & Services Pte Ltd（2000-04-05 注册，豁免私人公司；主业「General building engineering design and consultancy services」；注册地址 113 Eunos Avenue 3 #04-18 Gordon Industrial Building；电话 +65 6749 6390 / +65 9761 1286（= 用户表 WhatsApp 号））。用户表：Alan Tan（alan_ftss@yahoo.com.sg）——2020-03 询盘，光猫 8 个成样品单；WhatsApp 已加；无后续。光猫（ONU）不在 Saga 产品线 → 对位楼宇弱电交换机。
 - **对方真实需求（有据）**：项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）
 - **断点 / 为什么停在这里**：ONU 不在 Saga 线；小公司；亚太非主攻区；2020 后无互动
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）
 - **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　首封前知悉：Elsa 已 1:1 去信 3 轮（2026-01-29→2026-09-02，0 回），此前还经锚 Bcc 触达（第 74 批(m)）；一句话
   - 第一问（只问一个）：Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-10-09 | 去 | Elsa 群发（BCC；To apr.securitysystems@bosch.com，新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring | Elsa 箱群发 BCC 触达证据（命中地址 alan_ftss@yahoo.com.sg）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-10-09 | 去 | Elsa 群发（BCC；To apr.securitysystems@bosch.com，新加坡（锚 bosch APR SG；2025-04-04 起月轮，7 轮，2025-10-09 止） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 alan_ftss@yahoo.com.sg）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-01-29 | out | Elsa → alan_ftss@yahoo.com.sg | OEM Core Switching Solution（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:alan_ftss@yahoo.com.sg` 全程 complete：3 轮直收；0 回 | `elsa_1to1` |
 | 2026-04-22 | out | Elsa → alan_ftss@yahoo.com.sg | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 2/3 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:alan_ftss@yahoo.com.sg` 全程 complete：3 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ alan_ftss@yahoo.com.sg（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
-| 2026-09-02 | out | Elsa → alan_ftss@yahoo.com.sg | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-09-02 | out | Elsa → alan_ftss@yahoo.com.sg | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 光猫 8个 成样品单 / Mr.Alan Tan / 65 9761 1286 已加 / Alina转 询盘 2020.3.5 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库

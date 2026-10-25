@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：越南 Hoàng Long JSC（hlc.vn；自述「专业生产工业通信网络产品：工业交换机、光电转换器，FCC/CE/RoHS」= 贴牌制造；同时经销 Lantronix SISPM1040 工业 PoE 24 口 / L3 28 口；表内「和三旺有合作，工业 FS / MC / VC」，阿里巴巴询盘 **16 槽收发器机架**；KP Hoang Nguyen Anh）；表内无跟进记录。（调研 2026-10-21；表内兴趣：和3旺有合作 工业FS MC VC）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-09 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-09；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -45,12 +45,12 @@ updated: 2026-10-25
 - **现状一句话**：越南 Hoàng Long JSC（hlc.vn；自述「专业生产工业通信网络产品：工业交换机、光电转换器，FCC/CE/RoHS」= 贴牌制造；同时经销 Lantronix SISPM1040 工业 PoE 24 口 / L3 28 口；表内「和三旺有合作，工业 FS / MC / VC」，阿里巴巴询盘 **16 槽收发器机架**；KP Hoang Nguyen Anh）；表内无跟进记录。
 - **对方真实需求（有据）**：询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）
 - **断点 / 为什么停在这里**：MC 机架（16 槽）Saga 价目无 SKU：需向 SmartByte/HRUI 询价后再报（Q-32 类配件缺口）
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit））——询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-09 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-09；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2026-09-09 | 去 | Elsa 群发（BCC；To info@hoangvanco.com.vn） | 24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To info@hoangvanco.com.vn） | 第 74 批(n) `from:e.sagatelecom to:hlc.vn` 命中行 To=info@hoangvanco.com.vn ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-09-09 | 去 | Elsa 群发（BCC；To info@hoangvanco.com.vn） | 24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To info@hoangvanco.com.vn；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:hlc.vn` 命中行 To=info@hoangvanco.com.vn ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 1 轮见 facts；S/A 箱无往来）

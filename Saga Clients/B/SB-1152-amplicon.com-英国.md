@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：英国布莱顿工业计算 / 数据通信 / 测控 / 安防自动化分销商（面向系统集成商、OEM 与制造商；Cisco、Hirschmann、Advantech、Moxa；industrial 225 / switch 129；+44 1273 570 220），Gina C.；表内「工业 FS 很多牌子的销售平台，有 Case Communications」；无跟进。（调研 2026-10-21；表内兴趣：工业FS 很多牌子的 销售平台 有case communication的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → gina.c@amplicon.com（Gina C.） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：英国布莱顿工业计算 / 数据通信 / 测控 / 安防自动化分销商（面向系统集成商、OEM 与制造商；Cisco、Hirschmann、Advantech、Moxa；industrial 225 / switch 129；+44 1273 570 220），Gina C.；表内「工业 FS 很多牌子的销售平台，有 Case Communications」；无跟进。
 - **对方真实需求（有据）**：Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。
 - **断点 / 为什么停在这里**：英国 UKCA 要求（Saga 有 UKCA）；大分销导入流程长
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit））——Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——Hirschmann/Moxa 之下的工业管理 PoE → STI-288GPM（$78.9 @20%）；非 PoE STI-280GM。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → gina.c@amplicon.com（Gina C.）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-04「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Gina, below the Hirschmann/Moxa price points on your industrial networking page — a Marvell-based DIN managed 8-PoE + 2-SFP (ERPS, −40~75 ℃, CE/UKCA/RoHS) at $79 EXW; worth one evaluation unit for the Brighton lab?
 

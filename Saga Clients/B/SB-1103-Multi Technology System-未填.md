@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：「杂」表来源的 Multi Technology System（info@multi-technology.com），对工业 PoE 与非 PoE 工业机有兴趣；国别未填，域名现为无关的数字市场页（误配）。（调研 2026-10-21；表内兴趣：工业POE 和不带POE的感兴趣）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-3 区域 未知/未填
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 工业 PoE → STI-288GP；非 PoE → STI-280GE。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 工业 PoE → STI-288GP；非 PoE → STI-280GE。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：「杂」表来源的 Multi Technology System（info@multi-technology.com），对工业 PoE 与非 PoE 工业机有兴趣；国别未填，域名现为无关的数字市场页（误配）。
 - **对方真实需求（有据）**：工业 PoE → STI-288GP；非 PoE → STI-280GE。
 - **断点 / 为什么停在这里**：国别与身份不明；域名失效
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——工业 PoE → STI-288GP；非 PoE → STI-280GE。
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——工业 PoE → STI-288GP；非 PoE → STI-280GE。
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

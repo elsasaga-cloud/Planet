@@ -1,147 +1,147 @@
 {
- "code": "SB-1162",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（bayiden.com.tr，快照 2026-10-21）",
- "summary": "土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。",
- "type": "电子综合网店（土耳其，在售 PowerMaster PoE）",
- "size": "",
- "brands_seen": [
-  "PowerMaster"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：Bayiden - Teknolojinin Bayisi；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-   "quote": "Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden&#39;de. Hızlı kargo fırsatları ile teknoloji kapınızda.",
-   "url": "https://www.bayiden.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "商业POE",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "土耳其电子综合网店",
-   "quote": "Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden’de.",
-   "url": "https://www.bayiden.com.tr/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "商业 PoE，很多种外壳",
-   "quote": "商业POE；很多种外壳",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 bayiden.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "电子综合网店（音响 / 安防 / 电脑 / LED / 元件）"
- ],
- "channels": {
-  "role": "电子综合网店（土耳其，在售 PowerMaster PoE）",
-  "region": "土耳其",
-  "contact": "info@bayiden.com.tr"
- },
- "signals": [
-  "商品页 /powermaster-poe8-2-96w-10-100-mbps-poe-ethernet-switch、/powermaster-poe24fe-2ge-1sfp-300w-…、/powermaster-poe-gigabit-ethernet-switch-16-port-…",
-  "站内 kw：switch 184 / fiber 85 / oem 31"
- ],
- "risks": [
-  "综合网店：交换机为配套品类，量小",
-  "现卖 PowerMaster（土耳其本地品牌，深圳代工）价格基准低",
-  "无具名 KP（info@）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）"
- },
- "email_hook": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?",
- "products_seen": [
-  {
-   "brand": "PowerMaster",
-   "model": "POE8-2 96W",
-   "spec": "8×100M PoE + 2 上联 96W",
-   "saga": "STC-028GFP（HRUI 列表价 $17.6，非 SmartByte）",
-   "url": "https://www.bayiden.com.tr/powermaster-poe8-2-96w-10-100-mbps-poe-ethernet-switch",
-   "date": "2026-10-21"
-  },
-  {
-   "brand": "PowerMaster",
-   "model": "POE24FE-2GE-1SFP 300W",
-   "spec": "24×100M PoE + 2 GE + 1 SFP 300W",
-   "saga": "STC-024FP 类（HRUI，待核）",
-   "url": "https://www.bayiden.com.tr/",
-   "date": "2026-10-21"
-  }
- ],
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）；S/A 箱：S/A 邮箱均无往来；来源：用户表「商业POE」",
-   "type": "电子综合网店（土耳其，在售 PowerMaster PoE）",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "TR 主攻（四主）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「商业POE」；研究档 risks：综合网店：交换机为配套品类，量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
-  },
-  "situation": "土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。",
-  "need": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）",
-  "breakpoint": "综合网店：交换机为配套品类，量小",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2026-08-20",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 bayiden.com.tr, info@bayiden.com.tr）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "商业POE",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1162",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（bayiden.com.tr，快照 2026-10-21）",
+  "summary": "土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。",
+  "type": "电子综合网店（土耳其，在售 PowerMaster PoE）",
+  "size": "",
+  "brands_seen": [
+    "PowerMaster"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：Bayiden - Teknolojinin Bayisi；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+      "quote": "Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden&#39;de. Hızlı kargo fırsatları ile teknoloji kapınızda.",
+      "url": "https://www.bayiden.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "商业POE",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "土耳其电子综合网店",
+      "quote": "Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden’de.",
+      "url": "https://www.bayiden.com.tr/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "商业 PoE，很多种外壳",
+      "quote": "商业POE；很多种外壳",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  },
+  "company_facts": {
+    "hq": "土耳其",
+    "other": "官网 bayiden.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "电子综合网店（音响 / 安防 / 电脑 / LED / 元件）"
+  ],
+  "channels": {
+    "role": "电子综合网店（土耳其，在售 PowerMaster PoE）",
+    "region": "土耳其",
+    "contact": "info@bayiden.com.tr"
+  },
+  "signals": [
+    "商品页 /powermaster-poe8-2-96w-10-100-mbps-poe-ethernet-switch、/powermaster-poe24fe-2ge-1sfp-300w-…、/powermaster-poe-gigabit-ethernet-switch-16-port-…",
+    "站内 kw：switch 184 / fiber 85 / oem 31"
+  ],
+  "risks": [
+    "综合网店：交换机为配套品类，量小",
+    "现卖 PowerMaster（土耳其本地品牌，深圳代工）价格基准低",
+    "无具名 KP（info@）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）"
+  },
+  "email_hook": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE?",
+  "products_seen": [
+    {
+      "brand": "PowerMaster",
+      "model": "POE8-2 96W",
+      "spec": "8×100M PoE + 2 上联 96W",
+      "saga": "STC-028GFP（HRUI 列表价 $17.6，非 SmartByte）",
+      "url": "https://www.bayiden.com.tr/powermaster-poe8-2-96w-10-100-mbps-poe-ethernet-switch",
+      "date": "2026-10-21"
+    },
+    {
+      "brand": "PowerMaster",
+      "model": "POE24FE-2GE-1SFP 300W",
+      "spec": "24×100M PoE + 2 GE + 1 SFP 300W",
+      "saga": "STC-024FP 类（HRUI，待核）",
+      "url": "https://www.bayiden.com.tr/",
+      "date": "2026-10-21"
+    }
+  ],
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）；S/A 箱：S/A 邮箱均无往来；来源：用户表「商业POE」",
+      "type": "电子综合网店（土耳其，在售 PowerMaster PoE）",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "TR 主攻（四主）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「商业POE」；研究档 risks：综合网店：交换机为配套品类，量小；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
+    },
+    "situation": "土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。",
+    "need": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）",
+    "breakpoint": "综合网店：交换机为配套品类，量小",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2026-08-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 bayiden.com.tr, info@bayiden.com.tr）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "商业POE",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

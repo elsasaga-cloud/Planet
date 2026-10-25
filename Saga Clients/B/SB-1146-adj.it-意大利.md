@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：意大利 ADJ（意大利 IT/电子品牌：PC、笔记本、耳机、UPS、外设、扩展坞，39 欧免运费零售；表内「商业 PoE」「质量一般」）；表内未跟进。（调研 2026-10-21；表内兴趣：商业POE）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@adj.it（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：意大利 ADJ（意大利 IT/电子品牌：PC、笔记本、耳机、UPS、外设、扩展坞，39 欧免运费零售；表内「商业 PoE」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）
 - **断点 / 为什么停在这里**：消费/办公 IT 品牌（Saga 不做消费级；仅 SMB PoE 可对位）；表内「质量一般」；仅 info@，未跟进过
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——ADJ 标 SMB 网络品类 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8 口位 HRUI STC-08GE / STC-028GP（列表价，注明）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@adj.it（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the switches in the ADJ networking range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+) plus budget unmanaged 5/8-port units in your retail packaging from small lots, CE/RoHS — which network SKU sells most through your Italian retail channel? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 

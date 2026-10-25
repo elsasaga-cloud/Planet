@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。（调研 2026-10-21；表内兴趣：工业通信  工业FS 周边产品）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。；首触锚价 STI-288GP $60 EXW（最近实报 SA-100 2025-03-18；第 72 批）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。；首触锚价 STI-288GP $60 EXW（最近实报 SA-100 2025-03-18；第 72 批）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Alongside the EtherWAN and ICP DAS industrial lines you carry, we supply DIN-rail 2-SFP + 8-PoE industrial unmanaged (STI-288GP) and 8-PoE + 2 SFP managed (Marvell L2+) units from small lots, −40~75 °C, CE/RoHS, neutral or your label — is an entry-price industrial tier below EtherWAN of interest to your integrator customers? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → office@icpdas.ro（无具名 KP） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封一问（EtherWAN 之下的入门工业档）
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：罗马尼亚工业自动化 / 数据采集 / 通信网店（ICP DAS、Axiomtek 工控；industrial 502 / switch 227 / poe 108），office@；表内「工业通信、工业 FS 周边；好像是 EtherWAN 的」；无跟进。小国名单（罗马尼亚，不主动挖）→ 低优先。
 - **对方真实需求（有据）**：EtherWAN 之下工业 2 光 8 PoE → STI-288GP：按最近实报 $60（㉕ 非管理工业线不用档位价；旧写法 $57.4 @20% 作废）。
 - **断点 / 为什么停在这里**：小国；无具名
-- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，首触锚价 STI-288GP $60 EXW（最近实报 SA-100 2025-03-18；第 72 批）；按主表（研究档 saga_fit））——EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。
+- **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，首触锚价 STI-288GP $60 EXW（最近实报 SA-100 2025-03-18；第 72 批）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——EtherWAN 之下工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → office@icpdas.ro（无具名 KP）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封一问（EtherWAN 之下的入门工业档）
   - 第一问（只问一个）：Alongside the EtherWAN and ICP DAS industrial lines you carry, we supply DIN-rail 2-SFP + 8-PoE industrial unmanaged (STI-288GP) and 8-PoE + 2 SFP managed (Marvell L2+) units from small lots, −40~75 °C, CE/RoHS, neutral or your label — is an entry-price industrial tier below EtherWAN of interest to your integrator customers? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 

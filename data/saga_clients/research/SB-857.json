@@ -87,7 +87,7 @@
     "saga_now": {
       "p1": "STI-054GP",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-22 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-22；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）",
       "why": "GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做",
       "repeat": [],
       "gaps": []
@@ -103,7 +103,7 @@
         "date": "2025-02-22",
         "dir": "out",
         "who": "Elsa → sales@tmb.com",
-        "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
         "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19529c60c4d0c0a6"

@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：土耳其 Fotech（30 年 IT 产品与方案分销：Fluke Networks / Black Box / EXFO / Sumitomo / Microsemi / Trend Networks / Tallysman 土耳其代理；光纤（271）、数据中心、网络、AV 集成；表内「台湾 CTS 的工业品，Black Box 的 MC」；邮箱 ssahin@）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：台湾CTS的工业品 黑盒的MC）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-30 → 2025-10-30）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：土耳其 Fotech（30 年 IT 产品与方案分销：Fluke Networks / Black Box / EXFO / Sumitomo / Microsemi / Trend Networks / Tallysman 土耳其代理；光纤（271）、数据中心、网络、AV 集成；表内「台湾 CTS 的工业品，Black Box 的 MC」；邮箱 ssahin@）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线
 - **断点 / 为什么停在这里**：既定代理线（CTS 台湾 / Black Box）：白牌仅预算补充
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch））——在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——在售 CTS 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE；Black Box MC 位 STI-110GE（$22.4）作预算线
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the CTS industrial switches and Black Box media converters you distribute, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which CTS port count do your integrators order most?
 
@@ -54,7 +54,7 @@ updated: 2026-10-25
 |---|---|---|---|---|---|
 | 2025-03-01 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 fotech.com.tr, info@fotech.com.tr, oadmin@fotech.com.tr）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-03-11 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来） | `gmail_digest` |
-| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里） | Elsa 箱群发 BCC 触达证据（命中地址 fotech.com.tr, info@fotech.com.tr, oadmin@fotech.com.tr）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 fotech.com.tr, info@fotech.com.tr, oadmin@fotech.com.tr）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 台湾CTS的工业品 黑盒的MC | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

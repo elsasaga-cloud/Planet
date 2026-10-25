@@ -95,7 +95,7 @@
     "saga_now": {
       "p1": "STI-080GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "RFQ 10 × 8 电口 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%，10 台 ≈ $340）或商用桌面 8 GE HRUI STC-08GE（列表价 $10.5，注明）；待核时效",
       "repeat": [],
       "gaps": []
@@ -120,7 +120,7 @@
         "date": "2026-05-05",
         "dir": "out",
         "who": "Elsa → akalooshad@skipod.lk",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/3 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/3 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "19df782381e3a053"
@@ -129,7 +129,7 @@
         "date": "2026-08-06",
         "dir": "out",
         "who": "Elsa → akalooshad@skipod.lk",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回",
         "k": "elsa_1to1",
         "msg_id": "19fd671a41e65a70"

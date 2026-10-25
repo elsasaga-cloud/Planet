@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：巴基斯坦古杰兰瓦拉的电力测试与工程公司 Ayk (Pvt.) Ltd.（1996 年成立、2006 年注册；分支拉合尔/伊斯兰堡；~90 人；业务：变压器/电缆/开关设备高压测试服务、电力测试设备独家分销（Omicron、Chauvin Arnoux、Tempo、Opal-RT、Poly、SKB、Planet、b2、Vivax Metrotech），自制变电站蓄电池充电器（NTDC 认证，365+ 台）；官网设 PLANET 产品专区（工业以太网交换机、DIN 导轨 L2+/L3 环网、工业 PoE、EN50155、媒体转换器、光纤 bypass、串口服务器）；2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala；+92 55 3255800；info@ayk.com.pk）。用户表（谷歌 + 富通天下）：卖 PLANET 的 switch；买过管理 FS；群发无互动。PLANET 经销商 → Saga 作同口型低价线（分销 20%）；客户为电网/电力公司 → 按个案守界。（调研 2026-10-21；表内兴趣：买过管理FS）
 - **为什么是 B 级**：**调研后定级 B**（历史成交但无时间与互动记录，南亚非主攻区 → B 待机回访。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：巴基斯坦古杰兰瓦拉的电力测试与工程公司 Ayk (Pvt.) Ltd.（1996 年成立、2006 年注册；分支拉合尔/伊斯兰堡；~90 人；业务：变压器/电缆/开关设备高压测试服务、电力测试设备独家分销（Omicron、Chauvin Arnoux、Tempo、Opal-RT、Poly、SKB、Planet、b2、Vivax Metrotech），自制变电站蓄电池充电器（NTDC 认证，365+ 台）；官网设 PLANET 产品专区（工业以太网交换机、DIN 导轨 L2+/L3 环网、工业 PoE、EN50155、媒体转换器、光纤 bypass、串口服务器）；2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala；+92 55 3255800；info@ayk.com.pk）。用户表（谷歌 + 富通天下）：卖 PLANET 的 sw
 - **对方真实需求（有据）**：分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）
 - **断点 / 为什么停在这里**：已有 PLANET 关系（品牌忠诚）；南亚非主攻区；巴基斯坦外汇；无互动记录
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit））——分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——分销 20% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$139.9）对位 PLANET DIN L2+ Ring PoE；MC STI-110GE（$22.4）；非 PoE STI-280GM（$68.2）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

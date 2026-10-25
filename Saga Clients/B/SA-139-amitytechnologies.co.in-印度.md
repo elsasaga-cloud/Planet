@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：印度网络产品公司，群发名单（富通天下），兴趣工业 FS，无任何跟进互动。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：**调研后定级 B**（无互动、仅群发来源、印度非主攻区；A 级自动判定来自历史成交/关键词，证据不足 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：印度网络产品公司，群发名单（富通天下），兴趣工业 FS，无任何跟进互动。
 - **对方真实需求（有据）**：默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS
 - **断点 / 为什么停在这里**：南亚非主攻区；印度 BIS 认证要求（交换机需 BIS/CRS）；无互动
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit））——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——默认 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业 FS」；非 PoE STI-280GE（$48.6）；印度进口需核 BIS
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@amitytechnologies.co.in（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Hello Amity team, for the industrial fibre switches you were looking at: DIN-rail 8× GbE + 2× SFP at $48.6 EXW (PoE+ version $59.8), −40/+75 °C — do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?
 

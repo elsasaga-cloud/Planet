@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站，商用 PoE 需求，2025-07 对 2 光 8 PoE 回复 price。（调研 2026-10-21；表内兴趣：2019年加入国际站 商业PoE）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-07-20 → 2025-10-02）；最近一次客户回复：2025-07-20：price
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型；STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型；STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:） Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：印度安防安装 / 经销商 Smart Security Systems（Rk Ahir），2019 年起阿里国际站；2025-07-26 回 Elsa 的 8 口工业 PoE 群发要价 + 手册 + 卖点，Saga 从未回复。
 - **对方真实需求（有据）**：8 口工业 PoE（他回的那封）→ 非管理 STI-288GP $60；若室内机柜用，商用桌面 8 PoE + 2 SFP 非管理 $26.2 作备选。
 - **断点 / 为什么停在这里**：我方欠答 15 个月；gmail 小商、印度低价——补答要价 + 手册一次给齐，别再空问
-- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就）——他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型
+- **Saga 现在该推什么**：P1 **STI-288GP**（25% 档，STI-288GP $60（8 PoE + 2 SFP 非管理工业机，主表 25% 档 $59.8 ≈ Simon 实报量级）；备选商用桌面 STC-028GP $26.2（HRUI，25% 档）；他回的群发正文无价，所以没有「他看过的价」要迁就；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——他回的是 8 口工业 PoE 群发（非管理）；要价 + 手册 → 直接给 STI-288GP 实价 + 规格书，不升到管理型
 - **下一步（具体）**：不动　E 邮箱 → rkahir65@gmail.com（Rk Ahir；回原串 thread 197c0e2d0ac20935，邮件客户端自动带 Re:）　Simon 2026-10-25 裁定：这桩旧欠答不用管了（T29-U51）——补答信稿留档不发；若对方再来信再按「我方欠答」口径接。原拟动作：首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；补答一封：价 + 规格书（附 STI-288GP.pdf）+ 一问；主题沿用原串，不另起
   - 第一问（只问一个）：Mr. Ahir — you asked for the price of the 8-port industrial PoE switch in July 2025 and never got it: STI-288GP (8× gigabit PoE + 2× SFP, unmanaged, DIN-rail) is $60 USD EXW, MOQ 1; is it for outdoor camera poles or indoor racks, and how many units?
 
@@ -56,7 +56,7 @@ updated: 2026-10-25
 | 2025-07-20 | 去 | Elsa（群发） | 8 Port Industrial PoE Switch（8 口千兆 PoE 工业机，30W/口、250 m PoE、SFP/SC/FC/ST 可选；正文无价） | 他回的就是这封；之前「S/A 邮箱均无往来」只对了一半——往来在 Elsa 箱 | `gmail_e thread 197c0e2d0ac20935` |
 | 2025-07-26 | 来 | Rk Ahir（Smart Security Systems） | SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE | 明确要价 + 手册 + 卖点；Elsa 邮箱里这封没有 Replied 标签、线程里没有 Elsa 回信 → 我方欠答 15 个月；用户表「回复：price」= 这条 | `gmail_e 1984519079bd6669` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：2019年加入国际站 商业PoE；回复：price | 表内备注 | `用户表` |
-| 2026-05-11 | out | Elsa → rkahir65@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → rkahir65@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-12-29 | out | Elsa → rkahir65@gmail.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：07-20 群发 → 07-26 Rk Ahir 要价 + 手册 → Saga 未回；用户表「回复：price」= 这条，不是 WhatsApp；Elsa 07-20 群发正文（有无价）未拉，只见他回信中引用的附件名「1U Umanaged.jpg」

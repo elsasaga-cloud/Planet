@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。（调研 2026-10-21；表内兴趣：OM4301网络延长器 1对  成样品单）
 - **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+8 区域 欧洲/法国；-10 最近活动 2019（陈旧）
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：现在（Simon） WhatsApp（Simon） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 一句话
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：法国个体/小型技术服务商 JguyTech（Gmail）：已成样品单——OM4301 网络延长器 1 对（成交）；无后续跟进记录。已成交客户，复购路径为网络延长/光电转换/小 PoE。
 - **对方真实需求（有据）**：终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件
 - **断点 / 为什么停在这里**：个体、单量小；0 次跟进记录（需补跟进）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit））——终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（25% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——终端 25% 档：STC-28DGGPM（$84.1）与 STI-110GE（$23.4）作延长器之后的下一件
 - **下一步（具体）**：现在（Simon）　WhatsApp（Simon）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 一句话
   - 第一问（只问一个）：How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel.
 

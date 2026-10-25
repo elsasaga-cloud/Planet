@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **是谁**：拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。（调研 2026-10-21；表内兴趣：switch POE等）
 - **为什么是 B 级**：**调研后定级 B**（仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hello Waleed / Ihsan, for your enterprise and telco access projects: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 24× GbE + 4× 10G SFP+ at $132.7, neutral packing, MOQ 1 — is there a current deployment where a sample unit could be tested against your usual Chinese source?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **现状一句话**：拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。
 - **对方真实需求（有据）**：集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）
 - **断点 / 为什么停在这里**：南亚非主攻区；巴基斯坦外汇/信用证周期；无互动
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $220（48 port managed switch））——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作企业/CCTV 接入；10G 上联 STC-424XGGM（$132.7）；8 口 STC-28DGGPM（$84.1）
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Hello Waleed / Ihsan, for your enterprise and telco access projects: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 24× GbE + 4× 10G SFP+ at $132.7, neutral packing, MOQ 1 — is there a current deployment where a sample unit could be tested against your usual Chinese source?
 

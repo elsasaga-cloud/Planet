@@ -81,7 +81,7 @@
     "saga_now": {
       "p1": "STC-424XGGM",
       "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-26 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）",
       "why": "4×10G + 24 GE → STC-424XGGM（$132.7 @25%）；4×10G + 48 口 PoE STC-448XGGPM（$349.4）；24 口 PoE 10G 上联 STC-424XGGPM-280W（$188.7）",
       "repeat": [],
       "gaps": []
@@ -97,7 +97,7 @@
         "date": "2025-02-27",
         "dir": "out",
         "who": "Elsa → procurement@marzetek.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "quote": "48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
         "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19547998bf6a8404"

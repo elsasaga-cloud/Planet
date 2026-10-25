@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：台湾 iLu Co., Ltd.（贸易公司：SFP+ DAC、以太网测试仪、网络变压器/FPCB、LevelOne、润滑油/塑料/IT 废料等杂项；表内「PoE / SFP / bypass 模块 / 大口 FS，基本都是海思的」「之前联系过，邮件中有详细的联系信息」；KP Angus Tseng（President，angus@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：POE SFP Bypass模块 大口FS；基本都是海思的）
 - **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—）——已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（2/4 封有打开记录）：「Re: 2.5G Web Managed Switch」(2024-10-25)、「Re: 2.5G Web Managed Switch」(2024-11-15) → 读者兴趣偏「2.5G」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -54,15 +54,15 @@ updated: 2026-10-25
 | 2024-10-25 | 来 | styven@ilucoltd.com | Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang | 来信原文（主题「Re: 2.5G Web Managed Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `b795aff546929794` |
 | 2024-10-25 | 去 | Simon | Sorry to tell that it is not available on our product list. We just have regular type, web managed or standard L2 managed. Please see attached 2 products for your reference.（答 Styven「flat Gigabit 8-p PoE web smart or L2?」） | 台湾 iLu 要「扁平（flat）」8 口 PoE 机壳——Saga 无此外形，如实拒绝；此后无往来 | `gmail_s 0bee126717d66cdf` |
 | 2025-04-11 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 90W PoE Managed Switch（Elsa 群发第 1/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
-| 2025-05-04 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 48 Port PoE Managed Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 48 Port PoE Managed Switch（Elsa 群发第 2/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-06-05 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 16 Port Ethernet Switch（Elsa 群发第 3/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-07-04 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | Industrial PoE Switch（Elsa 群发第 4/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-08-07 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 8 Port Industrial PoE Switch（Elsa 群发第 5/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
-| 2025-10-05 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2025-10-05 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 10G Enterprise SFP Switch（Elsa 群发第 6/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-11-17 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | Industrial PoE Switch（Elsa 群发第 7/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-02-03 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-04-27 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
-| 2026-09-07 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-09-07 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

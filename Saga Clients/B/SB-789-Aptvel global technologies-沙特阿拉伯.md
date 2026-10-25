@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：电气 / 自动化 / IoT 方案商 Aptvel Global（automation 24），联系人 Arunima Raj（+971 50，另一邮箱为 klasseducation.com），表内两份名单：要 **PLANET 48 口交换机**、交谈中问 bypass；WA 无实质回复。（调研 2026-10-21；表内兴趣：Planet 48口交换机；Planet 48口交换机 交谈中问了bypass）
 - **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯
 - **历史互动**：WhatsApp 已加
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-21) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-21) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-03 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-03；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,13 +48,13 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch））——已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-21) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-06-21 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-03 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-03；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-21) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-06-21 | 内 | Gmail 退信（S 邮箱） | arunima@klasseducation.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 474ffd9ec30588c9` |
-| 2025-10-03 | 去 | Elsa 群发（BCC；To admin@ionsecurity.com.au，AU/AE+CA/UK/HR（avigilon 批次前身） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring | Elsa 箱群发 BCC 触达证据（命中地址 aptvelglobal.com, info@aptvelglobal.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-10-03 | 去 | Elsa 群发（BCC；To admin@ionsecurity.com.au，AU/AE+CA/UK/HR（avigilon 批次前身） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 aptvelglobal.com, info@aptvelglobal.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

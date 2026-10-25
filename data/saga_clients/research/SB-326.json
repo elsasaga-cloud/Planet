@@ -80,7 +80,7 @@
     "saga_now": {
       "p1": "—",
       "tier": 25,
-      "price": "他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）",
+      "price": "他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -120,7 +120,7 @@
         "date": "2026-09-10",
         "dir": "out",
         "who": "Elsa → thuyluc1973@gmail.com",
-        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc）",
+        "quote": "24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
         "k": "elsa_bcc",
         "msg_id": "1a08a7cf5fc993e4"

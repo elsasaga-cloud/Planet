@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：巴基斯坦联系人 Waseem Shah（powerlogic1965@gmail），要目录，2025-02 对 2 光 2 电 mini 回复「need info to promote」= 想代推；身份不明。（调研 2026-10-21；表内兴趣：catalog）
 - **为什么是 B 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 4 次（2025-02-28 → 2025-06-22）；最近一次客户回复：2025-02-28：need info to promote...
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2024-09-30 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2024-09-30 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-02-28→2026-08-04，客户回过信（2025-04-08））（第 74 批(m)）；—
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-09-30 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch））——已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-09-30 $65（10G Media Converter）、2024-12-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（4/9 封有打开记录）：「Industrial Ethernet Switch」(2024-05-22)、「Re: Industrial Ethernet Switch」(2024-05-25)、「Re: Industrial Ethernet Switch」(2024-06-30)、「Re: Industrial Ethernet Switch」(2024-07-31) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　首封前知悉：Elsa 已 1:1 去信 9 轮（2025-02-28→2026-08-04，客户回过信（2025-04-08））（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -64,8 +64,8 @@ updated: 2026-10-25
 | 2025-12-29 | out | Elsa → powerlogic1965@gmail.com | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-03-02 | out | Elsa → powerlogic1965@gmail.com | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-04-03 | out | Elsa → powerlogic1965@gmail.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2026-05-11 | out | Elsa → powerlogic1965@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
-| 2026-08-04 | out | Elsa → powerlogic1965@gmail.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → powerlogic1965@gmail.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → powerlogic1965@gmail.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:powerlogic1965@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 

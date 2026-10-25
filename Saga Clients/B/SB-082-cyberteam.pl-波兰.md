@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。（调研 2026-10-21；表内兴趣：MC Switch等；MC 自己的logo 其他人在卖 无源产品 Pon等）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-10-20 → 2025-10-20）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -48,13 +48,13 @@ updated: 2026-10-25
 - **现状一句话**：波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。
 - **对方真实需求（有据）**：自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。
 - **断点 / 为什么停在这里**：PON 不供；1 次群发
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch））——自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-21 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-20 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——自有 logo MC → STI-110GE（$24.3 @30%）贴 Cyberteam 标；商用桌面 MC 按 SmartByte 另询。
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Monika, for the Cyberteam-branded media converters — DIN gigabit (and desktop) MCs under your label from small lots, plus 2-SFP + 8-PoE switches in the same look; which MC variant sells most, SFP-slot or fixed 20 km?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring | Elsa 箱群发 BCC 触达证据（命中地址 cyberteam.pl, t.b.nowak@cyberteam.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 cyberteam.pl, t.b.nowak@cyberteam.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-25 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 17 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-25（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等 | 表内备注 | `用户表` |
 

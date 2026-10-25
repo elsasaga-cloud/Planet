@@ -1,144 +1,144 @@
 {
- "code": "SC-1760",
- "name_official": "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）",
- "researched_at": "2026-10-24",
- "website_status": "（gmail 联系人；公司域未知）",
- "summary": "S 邮箱 2024-06-25 三封来信：要 8+2 / 16+2 / 24+2 PoE 的型号与价（「lo más usado aquí」）、确认 19\" 机架、问有无 VPN 设备；Simon 当日给报价单 + 规格书，答机架 OK / 无 VPN；2024-11-19 再要 4/8/16/24 口工业非管理价表 → 给了。此后无回。",
- "type": "巴西安防设备经销（CCTV）",
- "size": "（未核）",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "邮件",
-   "claim": "巴西最常用规格 8+2/16+2/24+2 PoE",
-   "quote": "Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aqui en el mercado",
-   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
-   "date": "2024-06-25"
-  },
-  {
-   "kind": "邮件",
-   "claim": "二次要价表",
-   "quote": "Can you send me your price list with the 4-8-16 and 24 door models?",
-   "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
-   "date": "2024-11-19"
-  }
- ],
- "kp": [
-  {
-   "name": "Fabian Alonzo",
-   "title": "（安防经销）",
-   "email": "transivideo@gmail.com",
-   "phone": "51 98144-0559（信尾）",
-   "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
-  }
- ],
- "grade_override": "B",
- "override_reason": "两轮主动要价（2024-06、2024-11），规格明确（CCTV 用 8+2/16+2/24+2 PoE）；巴西非主攻 → B 慢慢跟进。",
- "notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
- "deep": {
-  "done_at": "2026-10-24",
-  "level": "邮件证据"
- },
- "company_facts": {
-  "legal_name": "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.",
-  "founded": "",
-  "hq": "巴西",
-  "size": "",
-  "other": ""
- },
- "channels": {
-  "role": "经销",
-  "region": "巴西"
- },
- "risks": [
-  "巴西进口税/清关——小量不划算",
-  "价格导向经销"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165）",
-  "tier": 20,
-  "why": "典型 CCTV 经销；两次要价后沉默 = 价格；只做季度问候"
- },
- "email_hook": "（见 mail_review.draft_en）",
- "mail_review": {
-  "as_of": "2026-10-24",
-  "binding": {
-   "level": "轻度触达（S 邮箱 2024-06-25 ×3 + 2024-11-19：两轮要价，Simon 都当日给了；无后续）；Elsa 单发去信 1 封（2026-08-07「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
-   "type": "CCTV 经销",
-   "sieve": "3（要价层面）",
-   "stop": "两次拿到价表后沉默——价格/进口成本",
-   "revive": "一句话问 8+2/16+2/24+2 的年量与目标价；不发群发",
-   "lane": "巴西 非主攻",
-   "cadence": "半年",
-   "evidence": "gmail_s 2024-06-25、2024-11-19/20；digest in 4"
-  },
-  "situation": "巴西安防经销 Fabian 两次要价（CCTV 常用 8+2/16+2/24+2 PoE；工业非管理 4–24 口），都给了，没有下文。",
-  "need": "CCTV 用 PoE 交换机价表（8+2/16+2/24+2）；工业非管理小机。",
-  "breakpoint": "拿到价表后沉默；我们没问他的目标价和年量。",
-  "saga_now": {
-   "p1": "STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级",
-   "tier": "经销 20%",
-   "price": "2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表",
-   "why": "已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)",
-   "repeat": "经销：若价格进得去是持续量",
-   "gaps": "目标价；年量；进口方式"
-  },
-  "next_move": {
-   "when": "2027-Q1",
-   "channel": "S 邮箱 → transivideo@gmail.com",
-   "action": "首封前知悉：Elsa 2026-08-07 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）",
-   "one_question": "Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it."
-  },
-  "facts": [
-   {
-    "date": "2024-06-25",
-    "dir": "来",
-    "who": "Fabian Alonzo",
-    "quote": "Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aqui en el mercado",
-    "why": "市场常用规格",
-    "k": "rfq"
-   },
-   {
-    "date": "2024-06-25",
-    "dir": "来",
-    "who": "Fabian Alonzo",
-    "quote": "Todos los modelos 8, 16 y 24 puertas tienen los soportes para Rack 19\"? Tu tienes algun equipamiento de switch con posibilidad de hacer VPN?",
-    "why": "机架 + VPN（无）",
-    "k": "q"
-   },
-   {
-    "date": "2024-06-26",
-    "dir": "去",
-    "who": "Simon",
-    "quote": "Yes, all the 3 models support 19\" Rack mount… Sorry, we do not have any devices that could support/make a VPN.",
-    "why": "口径正确",
-    "k": "reply"
-   },
-   {
-    "date": "2024-11-19",
-    "dir": "来",
-    "who": "Fabian Alonzo",
-    "quote": "Can you send me your price list with the 4-8-16 and 24 door models?",
-    "why": "二次要价",
-    "k": "rfq"
-   },
-   {
-    "date": "2026-08-07",
-    "dir": "out",
-    "who": "Elsa → transivideo@gmail.com",
-    "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
-    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-    "k": "elsa_1to1",
-    "msg_id": "19fd8a947dade49b"
-   }
+  "code": "SC-1760",
+  "name_official": "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）",
+  "researched_at": "2026-10-24",
+  "website_status": "（gmail 联系人；公司域未知）",
+  "summary": "S 邮箱 2024-06-25 三封来信：要 8+2 / 16+2 / 24+2 PoE 的型号与价（「lo más usado aquí」）、确认 19\" 机架、问有无 VPN 设备；Simon 当日给报价单 + 规格书，答机架 OK / 无 VPN；2024-11-19 再要 4/8/16/24 口工业非管理价表 → 给了。此后无回。",
+  "type": "巴西安防设备经销（CCTV）",
+  "size": "（未核）",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "邮件",
+      "claim": "巴西最常用规格 8+2/16+2/24+2 PoE",
+      "quote": "Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aqui en el mercado",
+      "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+      "date": "2024-06-25"
+    },
+    {
+      "kind": "邮件",
+      "claim": "二次要价表",
+      "quote": "Can you send me your price list with the 4-8-16 and 24 door models?",
+      "url": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl",
+      "date": "2024-11-19"
+    }
   ],
-  "proof_gaps": [
-   "2024-06-25 报价单逐项价格（附件未解析）",
-   "公司规模"
+  "kp": [
+    {
+      "name": "Fabian Alonzo",
+      "title": "（安防经销）",
+      "email": "transivideo@gmail.com",
+      "phone": "51 98144-0559（信尾）",
+      "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
+    }
   ],
-  "draft_en": {
-   "subject": "8+2 / 16+2 / 24+2 PoE — volume and target price?",
-   "body": "Hi, Fabian,\n\nYou priced our 8+2 / 16+2 / 24+2 PoE switches twice in 2024 and we never heard what happened — usually that means the landed price did not work.\n\nOne question: what yearly volume and landed target price per unit would make it work in Brazil? With that I can tell you honestly whether we can meet it, instead of sending another price list.\n\nThank you.\nSimon"
+  "grade_override": "B",
+  "override_reason": "两轮主动要价（2024-06、2024-11），规格明确（CCTV 用 8+2/16+2/24+2 PoE）；巴西非主攻 → B 慢慢跟进。",
+  "notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
+  "deep": {
+    "done_at": "2026-10-24",
+    "level": "邮件证据"
+  },
+  "company_facts": {
+    "legal_name": "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.",
+    "founded": "",
+    "hq": "巴西",
+    "size": "",
+    "other": ""
+  },
+  "channels": {
+    "role": "经销",
+    "region": "巴西"
+  },
+  "risks": [
+    "巴西进口税/清关——小量不划算",
+    "价格导向经销"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165）",
+    "tier": 20,
+    "why": "典型 CCTV 经销；两次要价后沉默 = 价格；只做季度问候"
+  },
+  "email_hook": "（见 mail_review.draft_en）",
+  "mail_review": {
+    "as_of": "2026-10-24",
+    "binding": {
+      "level": "轻度触达（S 邮箱 2024-06-25 ×3 + 2024-11-19：两轮要价，Simon 都当日给了；无后续）；Elsa 单发去信 1 封（2026-08-07「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+      "type": "CCTV 经销",
+      "sieve": "3（要价层面）",
+      "stop": "两次拿到价表后沉默——价格/进口成本",
+      "revive": "一句话问 8+2/16+2/24+2 的年量与目标价；不发群发",
+      "lane": "巴西 非主攻",
+      "cadence": "半年",
+      "evidence": "gmail_s 2024-06-25、2024-11-19/20；digest in 4"
+    },
+    "situation": "巴西安防经销 Fabian 两次要价（CCTV 常用 8+2/16+2/24+2 PoE；工业非管理 4–24 口），都给了，没有下文。",
+    "need": "CCTV 用 PoE 交换机价表（8+2/16+2/24+2）；工业非管理小机。",
+    "breakpoint": "拿到价表后沉默；我们没问他的目标价和年量。",
+    "saga_now": {
+      "p1": "STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级",
+      "tier": "经销 20%",
+      "price": "2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)",
+      "repeat": "经销：若价格进得去是持续量",
+      "gaps": "目标价；年量；进口方式"
+    },
+    "next_move": {
+      "when": "2027-Q1",
+      "channel": "S 邮箱 → transivideo@gmail.com",
+      "action": "首封前知悉：Elsa 2026-08-07 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）",
+      "one_question": "Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it."
+    },
+    "facts": [
+      {
+        "date": "2024-06-25",
+        "dir": "来",
+        "who": "Fabian Alonzo",
+        "quote": "Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aqui en el mercado",
+        "why": "市场常用规格",
+        "k": "rfq"
+      },
+      {
+        "date": "2024-06-25",
+        "dir": "来",
+        "who": "Fabian Alonzo",
+        "quote": "Todos los modelos 8, 16 y 24 puertas tienen los soportes para Rack 19\"? Tu tienes algun equipamiento de switch con posibilidad de hacer VPN?",
+        "why": "机架 + VPN（无）",
+        "k": "q"
+      },
+      {
+        "date": "2024-06-26",
+        "dir": "去",
+        "who": "Simon",
+        "quote": "Yes, all the 3 models support 19\" Rack mount… Sorry, we do not have any devices that could support/make a VPN.",
+        "why": "口径正确",
+        "k": "reply"
+      },
+      {
+        "date": "2024-11-19",
+        "dir": "来",
+        "who": "Fabian Alonzo",
+        "quote": "Can you send me your price list with the 4-8-16 and 24 door models?",
+        "why": "二次要价",
+        "k": "rfq"
+      },
+      {
+        "date": "2026-08-07",
+        "dir": "out",
+        "who": "Elsa → transivideo@gmail.com",
+        "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+        "k": "elsa_1to1",
+        "msg_id": "19fd8a947dade49b"
+      }
+    ],
+    "proof_gaps": [
+      "2024-06-25 报价单逐项价格（附件未解析）",
+      "公司规模"
+    ],
+    "draft_en": {
+      "subject": "8+2 / 16+2 / 24+2 PoE — volume and target price?",
+      "body": "Hi, Fabian,\n\nYou priced our 8+2 / 16+2 / 24+2 PoE switches twice in 2024 and we never heard what happened — usually that means the landed price did not work.\n\nOne question: what yearly volume and landed target price per unit would make it work in Brazil? With that I can tell you honestly whether we can meet it, instead of sending another price list.\n\nThank you.\nSimon"
+    }
   }
- }
 }

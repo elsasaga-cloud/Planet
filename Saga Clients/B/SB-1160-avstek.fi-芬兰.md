@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目 4/4 为 PLANET、全部在库带价 → 采购真实且单一品牌；触达：myynti@avstek.fi 在 Yritysesittely 页公开（「myynti (ät) avstek.fi」），无具名 KP；体量：2015 年成立的小型承包商 + 网店（Suomen Vahvimmat AA）→ 可赢但年量小；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 13 封至 myynti@avstek.fi，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（体量小 + 无具名））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1160，芬兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。（调研 2026-10-21；表内兴趣：ONV的工业FS Moxa Planet的）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/芬兰
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目
 - **对方真实需求（有据）**：其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需
 - **断点 / 为什么停在这里**：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

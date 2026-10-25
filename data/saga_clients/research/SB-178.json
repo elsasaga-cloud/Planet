@@ -109,7 +109,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）",
+      "price": "Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W",
       "repeat": [],
       "gaps": []
@@ -222,7 +222,7 @@
         "date": "2026-05-11",
         "dir": "out",
         "who": "Elsa → shantanu.kumar@hfcl.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19e15f15c32be6ea"
@@ -231,7 +231,7 @@
         "date": "2026-08-04",
         "dir": "out",
         "who": "Elsa → shantanu.kumar@hfcl.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:shantanu.kumar@hfcl.com` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
         "k": "elsa_1to1",
         "msg_id": "19fcb92717cd5e0a"

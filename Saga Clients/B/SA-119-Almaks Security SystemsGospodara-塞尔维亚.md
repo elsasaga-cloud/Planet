@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **是谁**：塞尔维亚安防公司，2012 年 3 月成交 20 对 1V1D（视频光端机），此后无任何跟进记录。（调研 2026-10-21；表内兴趣：2012年3月买了20对1V1D）
 - **为什么是 B 级**：**调研后定级 B**（历史成交但已沉寂 13 年，塞尔维亚为非主动开发小国；成交记录使其不降 C，B 待机一次性重启。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞尔维亚
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 分销 20% 档：STC-28DGGPM 配 Hikvision/Dahua 摄像项目；24 口位 STC-424DGGPM-280W；工业 STI-288DGGPM；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 分销 20% 档：STC-28DGGPM 配 Hikvision/Dahua 摄像项目；24 口位 STC-424DGGPM-280W；工业 STI-288DGGPM；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Alongside the Hikvision and Dahua lines you distribute, the Marvell-based 8-port PoE+ 2-SFP managed switch is EXW-priced for distributor stock; what quantity per quarter would you want me to price for Belgrade?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **现状一句话**：塞尔维亚安防公司，2012 年 3 月成交 20 对 1V1D（视频光端机），此后无任何跟进记录。
 - **对方真实需求（有据）**：分销 20% 档：STC-28DGGPM 配 Hikvision/Dahua 摄像项目；24 口位 STC-424DGGPM-280W；工业 STI-288DGGPM
 - **断点 / 为什么停在这里**：塞尔维亚非主动挖掘国家（INH 规则）——仅就现有成交关系慢跟；消防/灭火线守界不供
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $65（10G Media Converter））——分销 20% 档：STC-28DGGPM 配 Hikvision/Dahua 摄像项目；24 口位 STC-424DGGPM-280W；工业 STI-288DGGPM
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——分销 20% 档：STC-28DGGPM 配 Hikvision/Dahua 摄像项目；24 口位 STC-424DGGPM-280W；工业 STI-288DGGPM
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：Alongside the Hikvision and Dahua lines you distribute, the Marvell-based 8-port PoE+ 2-SFP managed switch is EXW-priced for distributor stock; what quantity per quarter would you want me to price for Belgrade?
 

@@ -1,174 +1,174 @@
 {
- "code": "SB-1160",
- "name_official": "Avstek Oy",
- "researched_at": "2026-10-21",
- "website_status": "在线（avstek.fi；并档 Planet 渠道档案 PB-094）",
- "summary": "芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目 4/4 为 PLANET、全部在库带价 → 采购真实且单一品牌；触达：myynti@avstek.fi 在 Yritysesittely 页公开（「myynti (ät) avstek.fi」），无具名 KP；体量：2015 年成立的小型承包商 + 网店（Suomen Vahvimmat AA）→ 可赢但年量小；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 13 封至 myynti@avstek.fi，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（体量小 + 无具名））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1160，芬兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "PLANET",
-  "Dahua"
- ],
- "evidence": [
-  {
-   "kind": "官网",
-   "claim": "PoE 交换机类目 4 款全 PLANET 在库带价",
-   "quote": "# PoE kytkimet 4 tuotetta … PLANET GSD-804P KYTKIN 8P 4xPoE 144,33 € Varastossa … PLANET GSD-908HP KYTKIN 8xPoE 181,17 € Varastossa … PLANET GSW-2620HP KYTKIN 24xPoE 351,20 € Varastossa … PLANET GSW-1600HP KYTKIN 16xPoE 260,11 € Varastossa … Näytetään 1 - 4 / 4 tuotteesta",
-   "url": "https://avstek.fi/kauppa/44-poe-kytkimet",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网",
-   "claim": "公司简介 / 成立年 / 资质 / 公开邮箱",
-   "quote": "Avstek Oy on perustettu vuonna 2015. … toimitusohjelmame käsittää useita tuhansia tuotteita … ole yhteydessä myyntiimme > myynti (ät) avstek.fi … Sähköurakoitsija - Tukes S3 … Turvaurakoitsija - Turvallisuusalan elinkeinolupa … Suomen Vahvimmat AA",
-   "url": "https://avstek.fi/kauppa/content/4-yritysesittely",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网（搜索快照）",
-   "claim": "GSD-908HP 商品页",
-   "quote": "PLANET GSD-908HP on metallikoteloitu High PoE-kytkin kahdeksalla 10/10/1000Base-T PoE-porttilla (8x PoE / 4x PoE+) sekä yhdellä 10/100/1000Base-T uplink-portilla. Kytkimen PoE-virransyöttökapasiteetti on 120W.",
-   "url": "https://avstek.fi/kauppa/poe-kytkimet/232-planet-gsd-908hp-kytkin-8-x-poe.html",
-   "date": "2026-10-20"
-  },
-  {
-   "kind": "官网（搜索快照）",
-   "claim": "PLANET AP 在售",
-   "quote": "WBS-202N 2.4GHz 300M WLAN tukiasema sisä- ja ulko … PLANET WBS-202N",
-   "url": "https://avstek.fi/kauppa/wifi-laite-antenni/339-wbs-202n-24ghz-300m-wlan-tukiasema-sisae-ja-ulko.html",
-   "date": "2026-10-20"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-094，W 批次调研 2026-10-19/20）"
- },
- "company_facts": {
-  "legal_name": "Avstek Oy",
-  "founded": "",
-  "hq": "（芬兰；具体城市官网未列，待补证）, 芬兰",
+  "code": "SB-1160",
+  "name_official": "Avstek Oy",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（avstek.fi；并档 Planet 渠道档案 PB-094）",
+  "summary": "芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目 4/4 为 PLANET、全部在库带价 → 采购真实且单一品牌；触达：myynti@avstek.fi 在 Yritysesittely 页公开（「myynti (ät) avstek.fi」），无具名 KP；体量：2015 年成立的小型承包商 + 网店（Suomen Vahvimmat AA）→ 可赢但年量小；Gmail：Elsa 账号 2025-02-17 → 2026-08-13 以 BCC 群发 13 封至 myynti@avstek.fi，0 回复 → 非首触、通道疲劳；Mikrotik 仓无此户 → B ★★（体量小 + 无具名））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1160，芬兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。",
+  "type": "",
   "size": "",
-  "other": "Planet 渠道档案 PB-094（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）"
- },
- "business_lines": [
-  "安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库"
- ],
- "products_seen": [
-  {
-   "brand": "PLANET",
-   "model": "GSD-908HP",
-   "spec": "8×GE PoE + 1×GE 上行 120 W → Saga 8×GE PoE + 2×SFP 管理 $80.7 USD EXW",
-   "saga": "STC-28DGGPM",
-   "url": "https://avstek.fi",
-   "date": "2026-10-19"
+  "brands_seen": [
+    "PLANET",
+    "Dahua"
+  ],
+  "evidence": [
+    {
+      "kind": "官网",
+      "claim": "PoE 交换机类目 4 款全 PLANET 在库带价",
+      "quote": "# PoE kytkimet 4 tuotetta … PLANET GSD-804P KYTKIN 8P 4xPoE 144,33 € Varastossa … PLANET GSD-908HP KYTKIN 8xPoE 181,17 € Varastossa … PLANET GSW-2620HP KYTKIN 24xPoE 351,20 € Varastossa … PLANET GSW-1600HP KYTKIN 16xPoE 260,11 € Varastossa … Näytetään 1 - 4 / 4 tuotteesta",
+      "url": "https://avstek.fi/kauppa/44-poe-kytkimet",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网",
+      "claim": "公司简介 / 成立年 / 资质 / 公开邮箱",
+      "quote": "Avstek Oy on perustettu vuonna 2015. … toimitusohjelmame käsittää useita tuhansia tuotteita … ole yhteydessä myyntiimme > myynti (ät) avstek.fi … Sähköurakoitsija - Tukes S3 … Turvaurakoitsija - Turvallisuusalan elinkeinolupa … Suomen Vahvimmat AA",
+      "url": "https://avstek.fi/kauppa/content/4-yritysesittely",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "GSD-908HP 商品页",
+      "quote": "PLANET GSD-908HP on metallikoteloitu High PoE-kytkin kahdeksalla 10/10/1000Base-T PoE-porttilla (8x PoE / 4x PoE+) sekä yhdellä 10/100/1000Base-T uplink-portilla. Kytkimen PoE-virransyöttökapasiteetti on 120W.",
+      "url": "https://avstek.fi/kauppa/poe-kytkimet/232-planet-gsd-908hp-kytkin-8-x-poe.html",
+      "date": "2026-10-20"
+    },
+    {
+      "kind": "官网（搜索快照）",
+      "claim": "PLANET AP 在售",
+      "quote": "WBS-202N 2.4GHz 300M WLAN tukiasema sisä- ja ulko … PLANET WBS-202N",
+      "url": "https://avstek.fi/kauppa/wifi-laite-antenni/339-wbs-202n-24ghz-300m-wlan-tukiasema-sisae-ja-ulko.html",
+      "date": "2026-10-20"
+    }
+  ],
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-094，W 批次调研 2026-10-19/20）"
   },
-  {
-   "brand": "PLANET",
-   "model": "GSD-804P",
-   "spec": "8×GE 中 4×PoE+ 60 W → Saga 8×GE PoE + 2×SFP 管理（同款覆盖）",
-   "saga": "STC-28DGGPM",
-   "url": "https://avstek.fi",
-   "date": "2026-10-19"
+  "company_facts": {
+    "legal_name": "Avstek Oy",
+    "founded": "",
+    "hq": "（芬兰；具体城市官网未列，待补证）, 芬兰",
+    "size": "",
+    "other": "Planet 渠道档案 PB-094（2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json）；自有品牌：否；最大未知：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）"
   },
-  {
-   "brand": "PLANET",
-   "model": "GSW-2620HP",
-   "spec": "24×GE PoE+ + 2×SFP 220 W → Saga 24×GE PoE+ + 4×SFP 280 W 管理 $134.5 USD EXW",
-   "saga": "STC-424DGGPM-280W",
-   "url": "https://avstek.fi",
-   "date": "2026-10-19"
+  "business_lines": [
+    "安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库"
+  ],
+  "products_seen": [
+    {
+      "brand": "PLANET",
+      "model": "GSD-908HP",
+      "spec": "8×GE PoE + 1×GE 上行 120 W → Saga 8×GE PoE + 2×SFP 管理 $80.7 USD EXW",
+      "saga": "STC-28DGGPM",
+      "url": "https://avstek.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSD-804P",
+      "spec": "8×GE 中 4×PoE+ 60 W → Saga 8×GE PoE + 2×SFP 管理（同款覆盖）",
+      "saga": "STC-28DGGPM",
+      "url": "https://avstek.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSW-2620HP",
+      "spec": "24×GE PoE+ + 2×SFP 220 W → Saga 24×GE PoE+ + 4×SFP 280 W 管理 $134.5 USD EXW",
+      "saga": "STC-424DGGPM-280W",
+      "url": "https://avstek.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "GSW-1600HP",
+      "spec": "16×GE PoE+ 非管理：Saga 商用线无 16 口 PoE 款（以 24 口 STC-424DGGPM-280W 覆盖，需说明）",
+      "saga": "—",
+      "url": "https://avstek.fi",
+      "date": "2026-10-19"
+    },
+    {
+      "brand": "PLANET",
+      "model": "WBS-202N",
+      "spec": "2.4 GHz 室外 AP：Saga 无",
+      "saga": "—",
+      "url": "https://avstek.fi",
+      "date": "2026-10-19"
+    }
+  ],
+  "channels": {
+    "role": "安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库",
+    "region": "芬兰"
   },
-  {
-   "brand": "PLANET",
-   "model": "GSW-1600HP",
-   "spec": "16×GE PoE+ 非管理：Saga 商用线无 16 口 PoE 款（以 24 口 STC-424DGGPM-280W 覆盖，需说明）",
-   "saga": "—",
-   "url": "https://avstek.fi",
-   "date": "2026-10-19"
+  "signals": [
+    "小型安防安装商 + 网店，PoE 交换机类目 100% PLANET 且备库 → Saga STC 商用 PoE 同口型（8 口 / 24 口）中性包装 EXW，直接替换其自用 + 网店 SKU；体量小但决策快、无供应商审核",
+    "首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）",
+    "样机：1 台到 芬兰（地址待补） 并行比对（PoE 预算 / 管理功能 / 温度范围）"
+  ],
+  "risks": [
+    "所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）",
+    "Planet 首触邮件未发送（Elsa 账号待定）"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需求："
   },
-  {
-   "brand": "PLANET",
-   "model": "WBS-202N",
-   "spec": "2.4 GHz 室外 AP：Saga 无",
-   "saga": "—",
-   "url": "https://avstek.fi",
-   "date": "2026-10-19"
+  "email_hook": "Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself. For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：调研建档",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
+      "revive": "不动（Q-33 供应商渠道客户）",
+      "lane": "芬兰（欧洲全域主攻）",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；研究档 risks：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）2025-02-17→2026-08-13 共 13 轮群发（24 Port Fiber Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目",
+    "need": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需",
+    "breakpoint": "所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-17 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-17；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-02-17",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+        "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 avstek.fi, myynti@avstek.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-13",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 avstek.fi, myynti@avstek.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
   }
- ],
- "channels": {
-  "role": "安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库",
-  "region": "芬兰"
- },
- "signals": [
-  "小型安防安装商 + 网店，PoE 交换机类目 100% PLANET 且备库 → Saga STC 商用 PoE 同口型（8 口 / 24 口）中性包装 EXW，直接替换其自用 + 网店 SKU；体量小但决策快、无供应商审核",
-  "首触：同口型第二来源 + 中性包装 EXW（只谈一个型号）",
-  "样机：1 台到 芬兰（地址待补） 并行比对（PoE 预算 / 管理功能 / 温度范围）"
- ],
- "risks": [
-  "所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）",
-  "Planet 首触邮件未发送（Elsa 账号待定）"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需求："
- },
- "email_hook": "Every PoE switch you stock is PLANET (GSD-908HP at €181.17 incl. VAT) — a Marvell-based, neutral-packed 8-port PoE+ unit at EXW gives your camera and alarm installs the same slot at a margin you set yourself. For your camera installs, is the 8-port PoE class (GSD-908HP) the unit you go through most, or the 24-port GSW-2620HP — so I send the right sample first?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：调研建档",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
-   "revive": "不动（Q-33 供应商渠道客户）",
-   "lane": "芬兰（欧洲全域主攻）",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@iotkomponenty.sk）2025-02-17→2026-08-13 共 13 轮群发（24 Port Fiber Switch、Industrial PoE Switch、48 Port PoE Managed Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、16 Port Ethernet Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "芬兰小型安防 / 电气安装承包商兼网店，PoE 交换机类目 4 款全是 PLANET 且备库。类型：安防 / 电子 / 网络与电气产品电商兼安装承包商（2015 年成立；Tukes S3 电气承包 + 安保业许可；Ajax、Dahua / IMOU、Satel 等）；「PoE kytkimet」类目 4 款全为 PLANET 且全部在库。信号：avstek.fi/kauppa/44-poe-kytkimet：「PoE kytkimet 4 tuotetta」= PLANET GSD-804P 144,33 €、GSD-908HP 181,17 €、GSW-2620HP 351,20 €、GSW-1600HP 260,11 €（均「Varastossa」含税）；另售 PLANET WBS-202N 2.4 GHz AP。Planet 渠道档案 PB-094 评级 B（需求：PoE 交换机类目",
-  "need": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需",
-  "breakpoint": "所在城市 / 法人信息；年量（小）；是否接受 EXW 小批量（MOQ 与运费敏感）",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "其在售 GSD-908HP（8×GE PoE + 1×GE 上行，120 W，181,17 € 含税）→ Saga STC-28DGGPM（8×GE PoE + 2×SFP 管理），20% 档 $80.7 USD EXW；GSW-2620HP 由 STC-424DGGPM-280W 第二封对位；电商 + 小型安装商（自用 + 转售，走量口径）→ 20%（沿用 Planet 档案 PB-094）；需",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-02-17",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
-    "quote": "24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 avstek.fi, myynti@avstek.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-13",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 avstek.fi, myynti@avstek.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   }
-  ],
-  "proof_gaps": [
-   "无邮件往来"
-  ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
 }

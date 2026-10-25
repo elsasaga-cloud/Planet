@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：印尼 IT / 广播 / 网络安全服务商（Firman Wahyudi，LinkedIn 来源），2023 年问如何购买、印尼是否有分销商、网站，对 bypass 系列宣传册回复有用。（调研 2026-10-21；表内兴趣：1/如何买你们的产品 2/在印尼是否有分销商 3/网站）
 - **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；-6 群发批次名单；+0 仅免费邮箱；+0 区域 亚太/印度尼西亚；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 2 次；推送 8 次（2023-03-02 → 2023-09-11）；最近一次客户回复：2023-07-13：有用
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — 首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 14 轮（2025-02-28→2026-08-11，0 回）（第 74 批(m)）；—
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch））——已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣主题类别不明（看原主题）
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（续，第 66 批全量复核）：2024-12-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-11；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（2/4 封有打开记录）：「8 Port Ethernet Switch」(2024-11-08)、「48 Port PoE Managed Switch」(2024-12-05) → 读者兴趣主题类别不明（看原主题）
 - **下一步（具体）**：不动　—　首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 14 轮（2025-02-28→2026-08-11，0 回）（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -56,8 +56,8 @@ updated: 2026-10-25
 | 2023-05-31 | 来 | 用户表（Simon 跟进记录；渠道 领英） | 用户表跟进：推「发了管理小壳图 DS」→ 对方「Thanks for sharing」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/E/群发/已重新审核  08.11/领英.xlsx no.1 2023.5.31` |
 | 2023-07-13 | 来 | 用户表（Simon 跟进记录；渠道 领英） | 用户表跟进：推「发了bypass系列宣传册 Ali链接」→ 对方「有用」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/E/群发/已重新审核  08.11/领英.xlsx no.1 2023.7.13` |
 | 2025-02-28 | out | Elsa → kosovaku@gmail.com | Industrial PoE Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
-| 2026-05-12 | out | Elsa → kosovaku@gmail.com | 10G Enterprise SFP Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
-| 2026-08-11 | out | Elsa → kosovaku@gmail.com | 24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
+| 2026-05-12 | out | Elsa → kosovaku@gmail.com | 10G Enterprise SFP Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
+| 2026-08-11 | out | Elsa → kosovaku@gmail.com | 24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

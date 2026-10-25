@@ -1,127 +1,127 @@
 {
- "code": "SA-144",
- "name_official": "Mutex Systems Ltd（mutexsystemsltd.com，巴基斯坦）",
- "website_status": "未单独检索（仅用户记录）",
- "summary": "巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。",
- "type": "IT 公司",
- "size": "待补证",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户记录",
-   "claim": "买过 UnManaged Switch / 百兆交换机；网站信息少",
-   "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西（用户 Clients 表摘录）",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "买过非管理/百兆交换机",
-   "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（见 Clients 表联系人）",
-   "role": "",
-   "email": "",
-   "phone": "",
-   "source": "用户 Clients 表"
-  }
- ],
- "grade_override": "B",
- "override_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
- "notes": "回访一封即可。",
- "researched_at": "2026-10-21",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；网站信息不明）"
- },
- "company_facts": {
-  "legal_name": "Mutex Systems Ltd（mutexsystemsltd.com）",
-  "hq": "Pakistan",
-  "size": "待核",
-  "other": "用户注：IT 居多，买过非管理/百兆交换机；网站看不出业务"
- },
- "business_lines": [
-  "IT 产品供应（推测）"
- ],
- "channels": {
-  "网站": "mutexsystemsltd.com（用户注：花哨、看不明白）",
-  "邮箱": "info@mutexsystemsltd.com / support@mutexsystemsltd.com（用户表）"
- },
- "signals": [
-  "曾买百兆非管理交换机 → 千兆升级价很低（STC-08GE $10.5）"
- ],
- "risks": [
-  "南亚非主攻区；主体与需求模糊；无互动"
- ],
- "saga_fit": {
-  "p1": "STC-08GE",
-  "tier": 25,
-  "why": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）"
- },
- "email_hook": "Hello Mutex team, you previously bought unmanaged Fast Ethernet switches; the gigabit 8-port equivalent is now $10.5 EXW and the 8-port PoE version $24.2 — what quantity do your IT projects take per month?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 1a07aaaa8ce34b26）；S/A 箱：S/A 邮箱均无往来；来源：用户表「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」）",
-   "type": "IT 公司",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "巴基斯坦 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」；研究档 risks：南亚非主攻区；主体与需求模糊；无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@globalconnectsynergy.com）2025-04-09→2026-09-07 共 9 轮群发（Mini Industrial PoE Switch、Commercial Network Switch、10G Media Converter、16 Port Ethernet Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。",
-  "need": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）",
-  "breakpoint": "南亚非主攻区；主体与需求模糊；无互动",
-  "saga_now": {
-   "p1": "STC-08GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2025-04-09",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次）",
-    "quote": "Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱）",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@mutexsystemsltd.com, mutexsystemsltd.com, support@mutexsystemsltd.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-07",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@mutexsystemsltd.com, mutexsystemsltd.com, support@mutexsystemsltd.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SA-144",
+  "name_official": "Mutex Systems Ltd（mutexsystemsltd.com，巴基斯坦）",
+  "website_status": "未单独检索（仅用户记录）",
+  "summary": "巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。",
+  "type": "IT 公司",
+  "size": "待补证",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户记录",
+      "claim": "买过 UnManaged Switch / 百兆交换机；网站信息少",
+      "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西（用户 Clients 表摘录）",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "买过非管理/百兆交换机",
+      "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "kp": [
+    {
+      "name": "（见 Clients 表联系人）",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "source": "用户 Clients 表"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "grade_override": "B",
+  "override_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
+  "notes": "回访一封即可。",
+  "researched_at": "2026-10-21",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；网站信息不明）"
+  },
+  "company_facts": {
+    "legal_name": "Mutex Systems Ltd（mutexsystemsltd.com）",
+    "hq": "Pakistan",
+    "size": "待核",
+    "other": "用户注：IT 居多，买过非管理/百兆交换机；网站看不出业务"
+  },
+  "business_lines": [
+    "IT 产品供应（推测）"
+  ],
+  "channels": {
+    "网站": "mutexsystemsltd.com（用户注：花哨、看不明白）",
+    "邮箱": "info@mutexsystemsltd.com / support@mutexsystemsltd.com（用户表）"
+  },
+  "signals": [
+    "曾买百兆非管理交换机 → 千兆升级价很低（STC-08GE $10.5）"
+  ],
+  "risks": [
+    "南亚非主攻区；主体与需求模糊；无互动"
+  ],
+  "saga_fit": {
+    "p1": "STC-08GE",
+    "tier": 25,
+    "why": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）"
+  },
+  "email_hook": "Hello Mutex team, you previously bought unmanaged Fast Ethernet switches; the gigabit 8-port equivalent is now $10.5 EXW and the 8-port PoE version $24.2 — what quantity do your IT projects take per month?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 1a07aaaa8ce34b26）；S/A 箱：S/A 邮箱均无往来；来源：用户表「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」）",
+      "type": "IT 公司",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "巴基斯坦 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」；研究档 risks：南亚非主攻区；主体与需求模糊；无互动；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@globalconnectsynergy.com）2025-04-09→2026-09-07 共 9 轮群发（Mini Industrial PoE Switch、Commercial Network Switch、10G Media Converter、16 Port Ethernet Switch、8 Port Industrial PoE Switch、10G Enterprise SFP Switch、Industrial PoE Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。",
+    "need": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）",
+    "breakpoint": "南亚非主攻区；主体与需求模糊；无互动",
+    "saga_now": {
+      "p1": "STC-08GE",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2025-04-09",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次）",
+        "quote": "Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@mutexsystemsltd.com, mutexsystemsltd.com, support@mutexsystemsltd.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-07",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@mutexsystemsltd.com, mutexsystemsltd.com, support@mutexsystemsltd.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

@@ -1,151 +1,151 @@
 {
- "code": "SB-1144",
- "name_official": "",
- "researched_at": "2026-10-21",
- "website_status": "在线（accuratetechnologies.com，快照 2026-10-21）",
- "summary": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
- "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "官网标题：ATI - Provides SW/HW Solutions for Control System Development；品类词 布线 / 线缆 / 网络交换 / PoE",
-   "quote": "ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis",
-   "url": "https://www.accuratetechnologies.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "表内兴趣/备注",
-   "quote": "poe network switch 产品较少 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "官网快照",
-   "claim": "ATI 定位",
-   "quote": "ATI - Provides SW/HW Solutions for Control System Development ; control system development tools for calibration, data acquisition, rapid prototyping and network analysis ; /Products/ns-1-network-switch",
-   "url": "https://www.accuratetechnologies.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "PoE network switch 产品较少",
-   "quote": "poe network switch 产品较少 周边产品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
- },
- "company_facts": {
-  "hq": "美国",
-  "other": "官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
- },
- "business_lines": [
-  "ECU 开发工具（标定 / 采集 / 原型）",
-  "网络交换机 NS-1（配套）"
- ],
- "channels": {
-  "role": "汽车 ECU 开发工具商（美国，交换机为配套）",
-  "region": "美国",
-  "contact": "sales@accuratetechnologies.com"
- },
- "signals": [
-  "官网：ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis；页面 /Products/ns-1-network-switch、/CANBusProducts",
-  "表内：poe network switch 产品较少 周边产品"
- ],
- "risks": [
-  "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过"
- ],
- "saga_fit": {
-  "p1": "STI-080GE",
-  "tier": 30,
-  "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做"
- },
- "email_hook": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?",
- "mail_review": {
-  "binding": {
-   "level": "读而不回（S 邮箱 7 封 2024，其中 2 封被打开，0 回；收件 sales@accuratetechnologies.com；被打开主题「Industrial PoE Switch、48 port managed switch」）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）",
-   "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
-   "sieve": "2（有人在读，无人回）",
-   "stop": "读而不回 = 内容未命中或没有当下需求",
-   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-   "lane": "US 主攻（四主）",
-   "cadence": "一封；回了再说",
-   "evidence": "gmail_digest：out 7，Opened 标签 2（Simon 群发追踪）；用户表：「poe network switch 产品较少 周边产品」；研究档 risks：品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
-  "need": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做",
-  "breakpoint": "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过",
-  "saga_now": {
-   "p1": "STI-080GE",
-   "tier": 30,
-   "price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter）",
-   "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做。已打开的主题（2/7 封有打开记录）：「Industrial PoE Switch」(2024-06-20)、「90W PoE Managed Switch」(2024-11-27) → 读者兴趣偏「工业」；与 P1 同类，继续",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "2026-11",
-   "channel": "S 邮箱 → sales@accuratetechnologies.com",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
-   "one_question": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
-  },
-  "facts": [
-   {
-    "date": "2024-12-25",
-    "dir": "去",
-    "who": "S 群发",
-    "quote": "Industrial PoE Switch、48 port managed switch",
-    "why": "7 封 / 2 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-12-25（7 去 / 0 来）",
-    "k": "gmail_digest"
-   },
-   {
-    "date": "2025-04-05",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 accuratetechnologies.com, sales@accuratetechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2025-06-29",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-    "quote": "48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 accuratetechnologies.com, sales@accuratetechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-09-08",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 accuratetechnologies.com, sales@accuratetechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "poe network switch 产品较少 周边产品",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1144",
+  "name_official": "",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（accuratetechnologies.com，快照 2026-10-21）",
+  "summary": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
+  "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
+  "size": "",
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "官网标题：ATI - Provides SW/HW Solutions for Control System Development；品类词 布线 / 线缆 / 网络交换 / PoE",
+      "quote": "ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis",
+      "url": "https://www.accuratetechnologies.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "表内兴趣/备注",
+      "quote": "poe network switch 产品较少 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "官网快照",
+      "claim": "ATI 定位",
+      "quote": "ATI - Provides SW/HW Solutions for Control System Development ; control system development tools for calibration, data acquisition, rapid prototyping and network analysis ; /Products/ns-1-network-switch",
+      "url": "https://www.accuratetechnologies.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "PoE network switch 产品较少",
+      "quote": "poe network switch 产品较少 周边产品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [],
-  "draft_en": {
-   "subject": "One question — Industrial PoE Switch",
-   "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
   },
-  "as_of": "2026-10-25"
- }
+  "company_facts": {
+    "hq": "美国",
+    "other": "官网 accuratetechnologies.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  },
+  "business_lines": [
+    "ECU 开发工具（标定 / 采集 / 原型）",
+    "网络交换机 NS-1（配套）"
+  ],
+  "channels": {
+    "role": "汽车 ECU 开发工具商（美国，交换机为配套）",
+    "region": "美国",
+    "contact": "sales@accuratetechnologies.com"
+  },
+  "signals": [
+    "官网：ATI is a global, independent supplier of control system development tools for calibration, data acquisition, rapid prototyping and network analysis；页面 /Products/ns-1-network-switch、/CANBusProducts",
+    "表内：poe network switch 产品较少 周边产品"
+  ],
+  "risks": [
+    "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过"
+  ],
+  "saga_fit": {
+    "p1": "STI-080GE",
+    "tier": 30,
+    "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做"
+  },
+  "email_hook": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?",
+  "mail_review": {
+    "binding": {
+      "level": "读而不回（S 邮箱 7 封 2024，其中 2 封被打开，0 回；收件 sales@accuratetechnologies.com；被打开主题「Industrial PoE Switch、48 port managed switch」）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）",
+      "type": "汽车 ECU 开发工具商（美国，交换机为配套）",
+      "sieve": "2（有人在读，无人回）",
+      "stop": "读而不回 = 内容未命中或没有当下需求",
+      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+      "lane": "US 主攻（四主）",
+      "cadence": "一封；回了再说",
+      "evidence": "gmail_digest：out 7，Opened 标签 2（Simon 群发追踪）；用户表：「poe network switch 产品较少 周边产品」；研究档 risks：品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@solimedia.net）2025-04-05→2026-09-08 共 10 轮群发（Marvell Alleycat5 Solution、Mini Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Managed Optical Bypass Switch、Industrial PoE Switch、10G Enterprise SFP Switch、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "美国 Accurate Technologies（ATI：ECU 控制系统开发工具——标定、数据采集、快速原型、网络分析；产品含 NS-1 网络交换机、CAN 总线产品；表内「PoE network switch 产品较少，周边产品」）；表内未跟进。",
+    "need": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做",
+    "breakpoint": "品类边缘：汽车开发工具商（NS-1 可能为车载以太网/T1 交换机，Saga 不做）；需求待核；仅 sales@，未跟进过",
+    "saga_now": {
+      "p1": "STI-080GE",
+      "tier": 30,
+      "price": "首触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-21 $220（48 port managed switch）、2024-10-31 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "测试台架以太网配套 → 工业 8 GE 非管理 STI-080GE（$34.0 @30%）/ 8 GE + 2 SFP STI-280GE（$50.5）贴 ATI 标；车载以太网（100BASE-T1）Saga 不做。已打开的主题（2/7 封有打开记录）：「Industrial PoE Switch」(2024-06-20)、「90W PoE Managed Switch」(2024-11-27) → 读者兴趣偏「工业」；与 P1 同类，继续",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "2026-11",
+      "channel": "S 邮箱 → sales@accuratetechnologies.com",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
+      "one_question": "For the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+    },
+    "facts": [
+      {
+        "date": "2024-12-25",
+        "dir": "去",
+        "who": "S 群发",
+        "quote": "Industrial PoE Switch、48 port managed switch",
+        "why": "7 封 / 2 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-12-25（7 去 / 0 来）",
+        "k": "gmail_digest"
+      },
+      {
+        "date": "2025-04-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 accuratetechnologies.com, sales@accuratetechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2025-06-29",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+        "quote": "48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 accuratetechnologies.com, sales@accuratetechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 accuratetechnologies.com, sales@accuratetechnologies.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "poe network switch 产品较少 周边产品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [],
+    "draft_en": {
+      "subject": "One question — Industrial PoE Switch",
+      "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Ethernet switches you bundle with ECU calibration and data-acquisition setups, we can supply compact DIN-rail 8-GE unmanaged and 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, FCC/CE/RoHS) under your label from small lots — would a bench-grade gigabit switch fit the NS-1 line?\n\nReference price: DIN-rail 8-GE unmanaged industrial switch (STI-080GE) $32.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom · sagatele.com"
+    },
+    "as_of": "2026-10-25"
+  }
 }

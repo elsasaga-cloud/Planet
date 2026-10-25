@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：美国 Kargor（kargor.com 快照为重定向页；表内「工业 FS」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）。已打开的主题（1/7 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G fiber media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）。已打开的主题（1/7 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G fiber media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：美国 Kargor（kargor.com 快照为重定向页；表内「工业 FS」）；表内未跟进。
 - **对方真实需求（有据）**：工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）
 - **断点 / 为什么停在这里**：官网快照为重定向（实体/经营状态待核）；仅 info@，未跟进过
-- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G fiber media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch））——工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）。已打开的主题（1/7 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **STI-280GE**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G fiber media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-17 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、PoE 版 STI-288GPM（$78.9）。已打开的主题（1/7 封有打开记录）：「24 Port Fiber Switch」(2024-12-17) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
 - **下一步（具体）**：群发节奏　A 邮箱　观察打开
   - 第一问（只问一个）：For the industrial switches you source, we supply Marvell-based DIN-rail 8-GE + 2 SFP managed and 8-PoE + 2 SFP models (−40~75 °C, CE/RoHS) neutral-brand from single units, FCC, EXW USD — which port and PoE configuration do your projects use most?
 

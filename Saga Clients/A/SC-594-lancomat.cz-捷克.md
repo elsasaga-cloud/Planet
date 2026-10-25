@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：布拉格的结构化布线 / 光纤 / 机柜分销商，有源类目在售 7 款 PLANET 工业 / PoE 交换机，总经理与销售团队邮箱全部公开。类型：结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌。信号：lancomat.cz 商品页「Výrobce PLANET TECHNOLOGY」：IGS-1820TF 8 383 Kč（OutOfStock，36 měsíců）、IGS-12040MT 9 588 Kč bez DPH / 11 601 s DPH、IGS-624HPT、GSD-908HP（24 months）、IGS-5225-4T2S（60 months 保修）、IGS-10020PT（8×GE PoE 130 W managed）、IGS-6325-20T4C4X（L3 24 GLAN + 4 SFP）。Planet 渠道档案 PA-018 评级 A（需求：7 款 PLANET 工业 / PoE 交换机商品页带 CZK 价与保修（IGS-5225-4T2S 60 个月）→ 有源类目采购真实且含管理型工业款；触达：/podrobne-kontakty/ 公开 jednatel Tomáš Jahoda tjahoda@lancomat.cz +420 724 825 435、Zdeněk Zíta zzita@、销售专员 Jan Raboch jraboch@ 等 11 名具名 + 直线 → 决策人直达；体量：布拉格布线分销（IČO 27929795，约 11 名员工公开名单）→ 可赢；Gmail：Elsa 账号 2025-04-12 → 2026-08-28 以 BCC 群发 10 封至 info@lancomat.cz，0 回复 → 非首触，但具名通道未用过；Mikrotik 仓无此户 → A）。并档说明：Saga 表内本条 SC-594（捷克）自动评 C（原因：；Saga 群发已推送 0 次无回复）。（调研 2026-10-21；表内兴趣：主要是planet的）
 - **为什么是 A 级**：**调研后定级 A**（Planet 渠道档案 PA-018 评 A（PLANET 主力经销 + 具名联系人 + 可赢体量）；Saga 表内仅因群发冷名单无回应自动评 C，按调研提升）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM 对位 PLANET IGS 系列（备用） — —；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM 对位 PLANET IGS 系列（备用） — —；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：Planet 渠道挖矿（已暂停）中反查出来的捷克经销商，位于 A 目录但从未触达；按 Q-33 标记不碰。
 - **对方真实需求（有据）**：PLANET 工业/PoE 在售 SKU 的替代（若有一天要碰）。
 - **断点 / 为什么停在这里**：Q-33。
-- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 PLANET IGS 系列（备用）**（20% 档，—）———
+- **Saga 现在该推什么**：P1 **STI-288DGGPM 对位 PLANET IGS 系列（备用）**（20% 档，—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-28；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））———
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

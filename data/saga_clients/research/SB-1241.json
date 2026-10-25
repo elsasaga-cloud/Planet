@@ -1,133 +1,133 @@
 {
- "code": "SB-1241",
- "name_official": "Setik S.r.l.（意大利）",
- "researched_at": "2026-10-21",
- "website_status": "在线（setik.biz，快照 2026-10-21）",
- "summary": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Dahua",
-  "Hikvision",
-  "ZKTeco",
-  "TP-Link"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "CCTV、监控套件、报警、对讲电商；品牌 Dahua / Hikvision / ZKTeco / TP-Link；+39 0362 1855440",
-   "quote": "Shop CCTV cameras, video surveillance kits, burglar alarm systems, video intercoms and security accessories online at Setik… brands Dahua, Hikvision, ZKTeco, TP-Link",
-   "url": "https://setik.biz/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "switch；质量一般",
-   "quote": "兴趣：switch",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "（未具名）",
-   "title": "",
-   "email": "info@setik.biz",
-   "phone": "+39 0362 185 5440",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
- },
- "company_facts": {
-  "legal_name": "Setik S.r.l.（待核）",
-  "founded": "",
-  "hq": "Lombardia, Italy（+39 0362）",
-  "size": "中小型安防电商",
-  "other": ""
- },
- "business_lines": [
-  "安防电商"
- ],
- "channels": {
-  "role": "电商 / 分销",
-  "region": "意大利"
- },
- "signals": [
-  "PoE 交换机为配套品类"
- ],
- "risks": [
-  "仅 info@；电商比价"
- ],
- "saga_fit": {
-  "p1": "STC-28DGGPM",
-  "tier": 20,
-  "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。"
- },
- "email_hook": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：switch」",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
-   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-   "lane": "意大利（欧洲全域主攻）",
-   "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：switch」；研究档 risks：仅 info@；电商比价；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-  },
-  "situation": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
-  "need": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
-  "breakpoint": "仅 info@；电商比价",
-  "saga_now": {
-   "p1": "STC-28DGGPM",
-   "tier": 20,
-   "price": "首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）",
-   "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "待 Simon 排期（首封）",
-   "channel": "A 邮箱 → info@setik.biz（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
-   "one_question": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?"
-  },
-  "facts": [
-   {
-    "date": "2025-04-01",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@setik.biz, setik.biz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-08-31",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@setik.biz, setik.biz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：switch",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-1241",
+  "name_official": "Setik S.r.l.（意大利）",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（setik.biz，快照 2026-10-21）",
+  "summary": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Dahua",
+    "Hikvision",
+    "ZKTeco",
+    "TP-Link"
   ],
-  "proof_gaps": [
-   "无邮件往来"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "CCTV、监控套件、报警、对讲电商；品牌 Dahua / Hikvision / ZKTeco / TP-Link；+39 0362 1855440",
+      "quote": "Shop CCTV cameras, video surveillance kits, burglar alarm systems, video intercoms and security accessories online at Setik… brands Dahua, Hikvision, ZKTeco, TP-Link",
+      "url": "https://setik.biz/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "switch；质量一般",
+      "quote": "兴趣：switch",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [
+    {
+      "name": "（未具名）",
+      "title": "",
+      "email": "info@setik.biz",
+      "phone": "+39 0362 185 5440",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  },
+  "company_facts": {
+    "legal_name": "Setik S.r.l.（待核）",
+    "founded": "",
+    "hq": "Lombardia, Italy（+39 0362）",
+    "size": "中小型安防电商",
+    "other": ""
+  },
+  "business_lines": [
+    "安防电商"
+  ],
+  "channels": {
+    "role": "电商 / 分销",
+    "region": "意大利"
+  },
+  "signals": [
+    "PoE 交换机为配套品类"
+  ],
+  "risks": [
+    "仅 info@；电商比价"
+  ],
+  "saga_fit": {
+    "p1": "STC-28DGGPM",
+    "tier": 20,
+    "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。"
+  },
+  "email_hook": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：switch」",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-31）无回；S/A 箱从未单独发过",
+      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+      "lane": "意大利（欧洲全域主攻）",
+      "cadence": "首封后看打开",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：switch」；研究档 risks：仅 info@；电商比价；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+    },
+    "situation": "意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。",
+    "need": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
+    "breakpoint": "仅 info@；电商比价",
+    "saga_now": {
+      "p1": "STC-28DGGPM",
+      "tier": 20,
+      "price": "首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "待 Simon 排期（首封）",
+      "channel": "A 邮箱 → info@setik.biz（无具名 KP；公用地址）",
+      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+      "one_question": "Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?"
+    },
+    "facts": [
+      {
+        "date": "2025-04-01",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@setik.biz, setik.biz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-08-31",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@setik.biz, setik.biz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：switch",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

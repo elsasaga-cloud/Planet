@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：美国 Fiber Savvy（光纤分销网店：光缆按长度裁切、配件、MC/交换机周边；表内「MC FS 非常多的周边产品；销售平台」）；表内未跟进。（调研 2026-10-21；表内兴趣：MC FS 非常多的周边产品）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → sales@fibersavvy.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,14 +45,14 @@ updated: 2026-10-25
 - **现状一句话**：美国 Fiber Savvy（光纤分销网店：光缆按长度裁切、配件、MC/交换机周边；表内「MC FS 非常多的周边产品；销售平台」）；表内未跟进。
 - **对方真实需求（有据）**：网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）
 - **断点 / 为什么停在这里**：网店/比价型；主业光缆配件；仅 sales@，未跟进过
-- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）
+- **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——网店 MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）/ 桌面 MC 用 HRUI（列表价，注明）；8 GE + 2 SFP 位 HRUI STC-28GM（列表价）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sales@fibersavvy.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Alongside the bulk fibre and accessories in your shop, we supply neutral-brand gigabit media converters (desktop or industrial) and small SFP-uplink switches from small lots, FCC/CE/RoHS, EXW USD — which MC configuration do your customers order most with fibre runs? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-05 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 fibersavvy.com, sales@fibersavvy.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
-| 2025-06-29 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST | Elsa 箱群发 BCC 触达证据（命中地址 fibersavvy.com, sales@fibersavvy.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-06-29 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | Elsa 箱群发 BCC 触达证据（命中地址 fibersavvy.com, sales@fibersavvy.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 fibersavvy.com, sales@fibersavvy.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC FS 非常多的周边产品 | 表内备注 | `用户表` |
 

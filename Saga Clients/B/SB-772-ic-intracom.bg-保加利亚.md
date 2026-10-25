@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：保加利亚网络设备 / 光缆 / 机柜 / 配件供应商（IC Intracom 集团保加利亚公司，面向企业与安装商；Moxa、TP-Link；sfp 246 / switch 133 / poe 108 / industrial 103 / media converter 31；+359 2 923 1781），Hristo Chankov；表内商用 PoE、MC；无跟进。（调研 2026-10-21；表内兴趣：商业POE MC）
 - **为什么是 B 级**：+8 在卖 DPTEK/SmartByte 同类产品的经销商（已接受深圳供应链）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → hristo.chankov@ic-intracom.bg（Hristo Chankov） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：保加利亚网络设备 / 光缆 / 机柜 / 配件供应商（IC Intracom 集团保加利亚公司，面向企业与安装商；Moxa、TP-Link；sfp 246 / switch 133 / poe 108 / industrial 103 / media converter 31；+359 2 923 1781），Hristo Chankov；表内商用 PoE、MC；无跟进。
 - **对方真实需求（有据）**：商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。
 - **断点 / 为什么停在这里**：保加利亚为小国名单（不主动挖）；采购权在德国总部
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit））——商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——商用 PoE + MC → STC-28DGGPM（$80.7 @20%）+ STI-110GE。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → hristo.chankov@ic-intracom.bg（Hristo Chankov）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Hristo, for the installer channel — Marvell L2+ 8-PoE + 2-SFP at $81 EXW and gigabit fibre MC at $22; is product sourcing for IC Intracom Bulgaria local, or via the Intellinet team in Germany?
 

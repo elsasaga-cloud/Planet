@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：安防电商 Securame（Hikvision、Dahua、ZKTeco、Paradox；switch 58 / poe 38 / industrial 20；contacto@ 为西语），表内同时出现于意大利与西班牙群发名单；「FS 也有其他牌子，CCTV 为主海康大华；商业 PoE 很多种外壳」；无跟进。（调研 2026-10-21；表内兴趣：FS 也有其他牌子 CCTV为主 海康大华；商业POE 很多种外壳）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。；第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。；第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-31→2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $25.1 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → contacto@securame.com 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：安防电商 Securame（Hikvision、Dahua、ZKTeco、Paradox；switch 58 / poe 38 / industrial 20；contacto@ 为西语），表内同时出现于意大利与西班牙群发名单；「FS 也有其他牌子，CCTV 为主海康大华；商业 PoE 很多种外壳」；无跟进。
 - **对方真实需求（有据）**：CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。
 - **断点 / 为什么停在这里**：国别待核；无具名
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit））——CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +20%（028GP $25.1 / 228GP $33.2），旧表 $24/$31 不用；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-31→2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——CCTV 配套 8 PoE → STC-28DGGPM（$80.7 @20%）。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → contacto@securame.com　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Hola — para la categoría de switches PoE junto a Hikvision/Dahua: 8 PoE + 2 SFP L2+ (Marvell) a $81 y 8 PoE no gestionado a $25.1 EXW, con fotos y fichas CE; ¿quién gestiona nuevos proveedores?
 

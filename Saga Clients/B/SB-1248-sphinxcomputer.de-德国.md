@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：德国数据通信专家 / 工业自动化、网络、网络安全、IoT、嵌入式分销商（Moxa、Advantech、Siemens、Milesight；industrial 86 / switch 85；+49 6201 75437），Markus Brenner；表内「卖研华等很多牌子；工业 FS MC」；无跟进。（调研 2026-10-21；表内兴趣：卖几个有名牌子的；工业FS MC 卖研华等很多牌子）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → markus.brenner@sphinxcomputer.de（Markus Brenner） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：德国数据通信专家 / 工业自动化、网络、网络安全、IoT、嵌入式分销商（Moxa、Advantech、Siemens、Milesight；industrial 86 / switch 85；+49 6201 75437），Markus Brenner；表内「卖研华等很多牌子；工业 FS MC」；无跟进。
 - **对方真实需求（有据）**：Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。
 - **断点 / 为什么停在这里**：品牌分销导入流程
-- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。
+- **Saga 现在该推什么**：P1 **STI-288GPM**（20% 档，SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——Moxa 之下工业管理 PoE → STI-288GPM（$78.9 @20%）；MC STI-110GE。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → markus.brenner@sphinxcomputer.de（Markus Brenner）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Herr Brenner, unterhalb der Moxa/Advantech-Preispunkte: Marvell-basierter DIN-Switch 8×PoE + 2×SFP managed (ERPS, −40~75 °C, CE/RoHS) zu 79 $ EXW — ein Evaluierungsgerät für Laudenbach?
 

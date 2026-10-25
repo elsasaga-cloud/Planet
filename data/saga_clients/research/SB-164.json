@@ -82,7 +82,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 25,
-      "price": "再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）",
+      "price": "再触锚价 STI-110GE $26.5（最近实报；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "1 光 2 电千兆 MC：Saga 价目为 1 光 1 电 STI-110GE（$23.4 @25%）；1 光 2 电按 SmartByte LT-IMC 型号另询并注明。",
       "repeat": [],
       "gaps": []
@@ -139,7 +139,7 @@
         "date": "2025-10-01",
         "dir": "去",
         "who": "Elsa 群发（BCC；To sales@unilinkcommunication.com，BE/NZ/BG/TR/IE/MD/RO+非洲散户 批次）",
-        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring",
+        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "Elsa 箱群发 BCC 触达证据（命中地址 samuisso@tescom.co.tz, tescom.co.tz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
         "k": "elsa_bcc"
       },
@@ -183,7 +183,7 @@
         "date": "2026-05-11",
         "dir": "out",
         "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "19e16cd173a59698"
@@ -192,7 +192,7 @@
         "date": "2026-08-04",
         "dir": "out",
         "who": "Elsa → samuisso@tescom.co.tz",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户）",
+        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(m) `from:e.sagatelecom to:samuisso@tescom.co.tz` 全程 complete：6 轮直收；客户曾来信（见 Re: 行）",
         "k": "elsa_1to1",
         "msg_id": "19fcc807ba11176c"

@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：墨西哥 RARMX Engineering SA de CV（水处理工程服务；站内工业控制产品页；阿里巴巴 RTS 订单「5 电口」；KP Marisol Mendoza；可加 WhatsApp 52-8119924840）；表内 1 次跟进无回复。（调研 2026-10-21；表内兴趣：5电口 网站有工业控制产品）
 - **为什么是 B 级**：+12 主动询盘（阿里巴巴/自建站/转介）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-10-15 → 2025-10-15）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Marisol, following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-10-15→2026-09-15，0 回）（第 74 批(m)）；观察打开
@@ -46,20 +46,20 @@ updated: 2026-10-25
 - **现状一句话**：墨西哥 RARMX Engineering SA de CV（水处理工程服务；站内工业控制产品页；阿里巴巴 RTS 订单「5 电口」；KP Marisol Mendoza；可加 WhatsApp 52-8119924840）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
 - **断点 / 为什么停在这里**：非主攻区（T5，墨西哥）；工程公司配套（量随项目）；1 次无回复；WhatsApp 可加
-- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch））——RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
+- **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-10-15→2026-09-15，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Marisol, following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-09-15 | 去 | A 群发 | 16 Port Ethernet Switch、Marvell Alleycat5 Solution | 7 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-09-15（7 去 / 0 来） | `gmail_digest` |
-| 2025-10-15 | out | Elsa → info@rarmx.com.mx | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-15 | out | Elsa → info@rarmx.com.mx | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2025-12-01 | out | Elsa → info@rarmx.com.mx | Booster PoE Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2025-12-30 | out | Elsa → info@rarmx.com.mx | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-02-09 | out | Elsa → info@rarmx.com.mx | OEM Core Switching Solution（Elsa 1:1 逐月名单第 4/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2026-03-19 | out | Elsa → info@rarmx.com.mx | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 5/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2026-05-02 | out | Elsa → info@rarmx.com.mx | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
-| 2026-08-04 | out | Elsa → info@rarmx.com.mx | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → info@rarmx.com.mx | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:info@rarmx.com.mx` 全程 complete：8 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-15 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@rarmx.com.mx（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-09-15 | out | Elsa → info@rarmx.com.mx | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 5电口 网站有工业控制产品；52-8119924840 可加Whatsapp；5电口 网站有工业控制产品 / from: 阿里巴巴RTS订单 | 表内备注 | `用户表` |

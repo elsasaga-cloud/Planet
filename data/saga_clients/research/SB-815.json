@@ -86,7 +86,7 @@
     "saga_now": {
       "p1": "STI-288GPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-25 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-25；Simon 实报就是 $65）",
       "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。",
       "repeat": [],
       "gaps": []
@@ -102,7 +102,7 @@
         "date": "2025-02-25",
         "dir": "out",
         "who": "Elsa → info@commandonetworks.com",
-        "quote": "10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+        "quote": "10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
         "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
         "k": "elsa_1to1",
         "msg_id": "195391da8b94ccb6"

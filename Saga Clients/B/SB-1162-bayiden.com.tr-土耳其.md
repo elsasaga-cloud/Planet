@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：商业POE）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：土耳其 Bayiden（「Teknolojinin Bayisi」电子综合网店：音响 / 安防摄像机 / 电脑 / LED / 电子元件；在售 PowerMaster PoE 交换机（POE8-2 96W 百兆、POE24FE-2GE-1SFP 300W、16FE+2G 200W）；表内「商业 PoE，很多种外壳」）；表内无跟进记录。
 - **对方真实需求（有据）**：在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）
 - **断点 / 为什么停在这里**：综合网店：交换机为配套品类，量小
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——在售 PowerMaster 百兆 PoE（$20–60 价带）→ 千兆升级位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；百兆位对价 HRUI STC-028GFP（$17.6）/ STC-024FP（$9.9）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@bayiden.com.tr（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Next to the PowerMaster PoE switches you list, we can supply a neutral-brand gigabit 8-PoE + 2 SFP L2+ model and a budget FE PoE line (8/16/24 ports) from small lots — which band sells more on Bayiden, FE or gigabit PoE? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 

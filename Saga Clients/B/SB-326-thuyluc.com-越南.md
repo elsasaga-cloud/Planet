@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **是谁**：越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。（调研 2026-10-21；表内兴趣：2光6电非管理非POE SC 20km 没成）
 - **为什么是 B 级**：+22 实质回复 1 次；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 12 次（2024-02-27 → 2025-01-07）；最近一次客户回复：2024-06-20：Email发了2光6小壳信息
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — 首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 1 轮（2026-09-10→2026-09-10，0 回）（第 74 批(m)）；—
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **现状一句话**：—
 - **对方真实需求（有据）**：8 口光纤工业。
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（25% 档，他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch））——已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（25% 档，他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 1 轮（2026-09-10→2026-09-10，0 回）（第 74 批(m)）；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -56,7 +56,7 @@ updated: 2026-10-25
 | 2024-06-21 | 来 | chuyengiathuykhi@gmail.com | Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri Di | 来信原文（主题「Re: 8 port fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `6940cc80c3d991e2` |
 | 2024-06-22 | 去 | Simon → Ly Thanh Ha（Quotation.pdf） | 10 台询价的正式报价：STI-260FE（6×FE + 2×100M 光，非 PoE，非管理，DIP）$35 ×10 = $350；STI-266FP（6×FE PoE 180W + 2×100M 光）$40 ×10 = $400；合计 $750；validity 15 d；leadtime 4~7 wd；warranty 3 years；1×9 固定光口可选。 | 对方「Please quote me 10pcs」是明确的小批量意向，报价后无回——VN 线不动，但价是实报，留作百兆工业机锚 | `S 邮箱附件 `Quotation.pdf` sha=191732ce6b45da58（2024-06-22）` |
 | 2026-09-10 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ thuyluc1973@gmail.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
-| 2026-09-10 | out | Elsa → thuyluc1973@gmail.com | 24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
+| 2026-09-10 | out | Elsa → thuyluc1973@gmail.com | 24 Port PoE Managed Switch（本户为该批次的锚：每轮 To 本户、其余客户 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正） | `elsa_bcc` |
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -90,7 +90,7 @@
     "saga_now": {
       "p1": "STC-28GPM / STC-424XGGPM + ODM 一页",
       "tier": 30,
-      "price": "按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）",
+      "price": "按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-08 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-08；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
       "why": "韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
       "repeat": [],
       "gaps": "8 口 PoE 商用 = STC-28DGGPM Saga 列表价 $99（主表；Saga 标 240W、SmartByte 标 120W 电源——报价前核对电源规格）"
@@ -151,7 +151,7 @@
         "date": "2025-10-08",
         "dir": "去",
         "who": "Elsa 群发（BCC；To sales@ags-electronics.com）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 6/6 轮；本户在 Bcc，锚 To sales@ags-electronics.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(n) `from:e.sagatelecom to:n-itus.com` 命中行 To=sales@ags-electronics.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "199c1550bee6a83d"

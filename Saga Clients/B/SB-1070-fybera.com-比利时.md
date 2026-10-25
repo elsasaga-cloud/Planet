@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：比利时 Fybera（官网快照不可达；表内「MC 自己的 logo，周边产品较多，看着像国内的外壳」）；群发 12 次无回复。（调研 2026-10-21；表内兴趣：MC 自己的logo  周边产品较多 看着像国内的外壳）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/比利时；-10 推送 12 次无任何回复（聋名单）
 - **历史互动**：推送 12 次（2022-11-22 → 2023-10-19）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — 自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：待 Simon 排期（首封） A 邮箱 → sales@fybera.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-05-12「10G Enterprise SFP Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 首封：按 email_hook 一问
@@ -45,14 +45,14 @@ updated: 2026-10-25
 - **现状一句话**：比利时 Fybera（官网快照不可达；表内「MC 自己的 logo，周边产品较多，看着像国内的外壳」）；群发 12 次无回复。
 - **对方真实需求（有据）**：自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标
 - **断点 / 为什么停在这里**：官网快照不可达（站点状态待核）；12 次无回复，仅 sales@
-- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标
+- **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档））——自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → sales@fybera.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-05-12「10G Enterprise SFP Switch」），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-01 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 fybera.com, sales@fybera.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
-| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里） | Elsa 箱群发 BCC 触达证据（命中地址 fybera.com, sales@fybera.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 fybera.com, sales@fybera.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC 自己的logo 周边产品较多 看着像国内的外壳 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来

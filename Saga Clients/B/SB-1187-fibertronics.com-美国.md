@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：美国 Fibertronics（美国定制光纤网络方案制造商：MPO 线缆组件、柔性电路、配线、MMC/MDC，面向超大规模/电信/国防/工业；AS9100D；表内「主要是线缆 MC switch VC」）；表内未跟进。（调研 2026-10-21；表内兴趣：主要是线缆 MC switch VC）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port managed switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：来信全部为机器回复；无人读信或无人回信。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port managed switch））——已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（4/10 封有打开记录）：「24 Port Passive PoE Switch」(2024-09-11)、「Power Converter」(2024-09-13)、「8 Port Ethernet Switch」(2024-10-23)、「10G Ethernet Web Managed Switch」(2024-10-29) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。（调研 2026-10-21；表内兴趣：工业FS SFP AOC MC 很多牌子的）
 - **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2026；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2026-01-23 → 2026-01-23）；最近一次客户回复：2026-01-23：Can you provide Brocade switches?
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI 工业线（替代 Microsens） — 替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提；锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI 工业线（替代 Microsens） — 替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提；锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov） 首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：对 CENTEC 核心交换机群发的回应是问能否供 Brocade——把 Saga 当成了渠道货源。
 - **对方真实需求（有据）**：Brocade 原厂货（Saga 不做）。
 - **断点 / 为什么停在这里**：需求错位。
-- **Saga 现在该推什么**：P1 **STI 工业线（替代 Microsens）**（20% 档，锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—）——替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提
+- **Saga 现在该推什么**：P1 **STI 工业线（替代 Microsens）**（20% 档，锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提
 - **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）　首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-30））（第 74 批(m)）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
   - 第一问（只问一个）：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
 
@@ -57,8 +57,8 @@ updated: 2026-10-25
 | 2026-01-26 | 来（Elsa 箱） | Pavel Karpov（CCS） | Hello! Can you provide Brocade switches? | 需求错位 | `E 19bf935676cdb7e6` |
 | 2026-01-30 | 去 | Elsa | Currently, Brocade's Ethernet switch business has been integrated into other vendor portfolios, so most Brocade switches available on the market today are legacy or second-hand… We can source Brocade switches depending on the specific model… Which Brocade model(s)? Required port speed (1G, 10G, 40G)? Desired condition (new, refurbished, used)? | Pavel 要的是 Brocade 现货，Elsa 答可代找二手并反问 → 无下文；这不是 Saga 产品线的需求 | `gmail_e 19c0e0388879da5f` |
 | 2026-04-03 | out | Elsa → pkarpov@ccs-msk.ru | Industrial PoE Switch（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
-| 2026-05-11 | out | Elsa → pkarpov@ccs-msk.ru | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
-| 2026-08-04 | out | Elsa → pkarpov@ccs-msk.ru | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-05-11 | out | Elsa → pkarpov@ccs-msk.ru | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-08-04 | out | Elsa → pkarpov@ccs-msk.ru | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会/Elsa 邮箱，仓库未见原文
 

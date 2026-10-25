@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：俄罗斯 Polyvision™（视频监控设备品牌：AHD/IP 摄像机、混合/IP NVR、50 口非管理 PoE 交换机、可视对讲、大量配件；表内「有统一的型号不过是不同外壳；商业 PoE，CCTV 为主，自己的 logo；像是有 ONV 的；有人在卖他们的」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：有统一的型号 不过是不同外壳 商业POE CCTV为主 很多配件；商业POE 自己的logo 比较多的外壳）
 - **为什么是 B 级**：-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the Polyvision-branded PoE switches (4-port up to the 50-port unmanaged), we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 24/48-PoE + 4×10G) from small lots in your packaging, CE/RoHS, EXW USD — which size do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@polyvision.ru（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,7 +45,7 @@ updated: 2026-10-25
 - **现状一句话**：俄罗斯 Polyvision™（视频监控设备品牌：AHD/IP 摄像机、混合/IP NVR、50 口非管理 PoE 交换机、可视对讲、大量配件；表内「有统一的型号不过是不同外壳；商业 PoE，CCTV 为主，自己的 logo；像是有 ONV 的；有人在卖他们的」）；表内无跟进记录。
 - **对方真实需求（有据）**：自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE
 - **断点 / 为什么停在这里**：俄罗斯：结算/物流受限，非主攻区（T5）；现代工疑 ONV（深圳）价格基准低
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有 Polyvision 标商用 PoE（多外壳国产）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；48 口位 STC-448XGGPM（$363.4）对位其 50 口 PoE
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@polyvision.ru（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-26「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the Polyvision-branded PoE switches (4-port up to the 50-port unmanaged), we can be a second source on a Marvell L2+ platform (8-PoE + 2 SFP, 24/48-PoE + 4×10G) from small lots in your packaging, CE/RoHS, EXW USD — which size do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 

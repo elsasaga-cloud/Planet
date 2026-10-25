@@ -1,185 +1,185 @@
 {
- "code": "SB-267",
- "name_official": "Công ty TNHH TM DV Song Thành Công (STC Vietnam)",
- "researched_at": "2026-10-21",
- "website_status": "在线（stc-vietnam.com，快照 2026-10-21，越南语）",
- "summary": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
- "type": "",
- "size": "",
- "brands_seen": [
-  "Moxa",
-  "Advantech",
-  "Cisco"
- ],
- "evidence": [
-  {
-   "kind": "官网快照",
-   "claim": "品牌代理：NSD、Logika、Moxa、E2S、Enerdoor；pricing@ / duc@stc-vietnam.com / vantu@songthanhcong.com；关键词 automation 12 / moxa 12",
-   "quote": "STC VietNam chuyên cung cấp Encoder NSD, Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam… pricing@stc-vietnam.com… Mr. Văn Tú… Mr Đức",
-   "url": "https://stc-vietnam.com/",
-   "date": "2026-10-21"
-  },
-  {
-   "kind": "用户表",
-   "claim": "Moxa 分销商；工业 FS、串口 MC；回复价格 官网 ×2、价格、主要是工业品",
-   "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Mr. Linh",
-   "title": "（采购；表内注 MaiWe）",
-   "email": "linh@songthanhcong.com",
-   "phone": "+84 374 133 044",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  },
-  {
-   "name": "Mr. Đức",
-   "title": "Sales",
-   "email": "duc@stc-vietnam.com",
-   "phone": "+84 379 720 873",
-   "source": "https://stc-vietnam.com/"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
- },
- "company_facts": {
-  "legal_name": "Công ty TNHH TM DV Song Thành Công",
-  "founded": "",
-  "hq": "越南（胡志明市，待核）",
-  "size": "中小型工业元器件贸易商",
-  "other": "多品牌代理；有报价部"
- },
- "business_lines": [
-  "工业自动化元器件（编码器、传感器、继电器、电源）",
-  "工业网络（Moxa 交换机 / 串口服务器）"
- ],
- "products_seen": [
-  {
-   "brand": "Moxa",
-   "model": "AWK-4131A 等",
-   "spec": "工业无线 / 交换机",
-   "saga": "Saga STI 工业线对位 Moxa EDS 入门款（价差 2–3 倍）",
-   "url": "https://stc-vietnam.com/",
-   "date": "2026-10-21"
-  }
- ],
- "channels": {
-  "role": "工业元器件分销（Moxa 渠道）",
-  "region": "越南"
- },
- "signals": [
-  "多次问价工业小壳 / 2 光 16 电 / mini 工业 → 在找 Moxa 以外的低价工业线",
-  "表内另一联系人注「MaiWe」→ 已接触中国同行迈威"
- ],
- "risks": [
-  "Moxa 分销身份 → 只会拿低价线做补充",
-  "越南非主攻区；比价（MaiWe）"
- ],
- "saga_fit": {
-  "p1": "STI-244GP",
-  "tier": 20,
-  "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。"
- },
- "email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?",
- "mail_review": {
-  "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "越南 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」；研究档 risks：Moxa 分销身份 → 只会拿低价线做补充；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
-  },
-  "situation": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
-  "need": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
-  "breakpoint": "Moxa 分销身份 → 只会拿低价线做补充",
-  "saga_now": {
-   "p1": "STI-244GP",
-   "tier": 20,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2024-07-16",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「发了电口图」→ 对方「hi thanks」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.7.16"
-   },
-   {
-    "date": "2024-08-14",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「noted」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.8.14"
-   },
-   {
-    "date": "2024-10-22",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「电口」→ 对方「noted」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1022"
-   },
-   {
-    "date": "2024-11-18",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「引流机型」→ 对方「industrial grade?」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1118"
-   },
-   {
-    "date": "2024-12-10",
-    "dir": "来",
-    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-    "quote": "用户表跟进：推「Mini」→ 对方「price」",
-    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210"
-   },
-   {
-    "date": "2026-09-10",
-    "dir": "去",
-    "who": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次）",
-    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 duy@songthanhcong.com, songthanhcong.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-    "k": "elsa_bcc"
-   },
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "code": "SB-267",
+  "name_official": "Công ty TNHH TM DV Song Thành Công (STC Vietnam)",
+  "researched_at": "2026-10-21",
+  "website_status": "在线（stc-vietnam.com，快照 2026-10-21，越南语）",
+  "summary": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
+  "type": "",
+  "size": "",
+  "brands_seen": [
+    "Moxa",
+    "Advantech",
+    "Cisco"
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "evidence": [
+    {
+      "kind": "官网快照",
+      "claim": "品牌代理：NSD、Logika、Moxa、E2S、Enerdoor；pricing@ / duc@stc-vietnam.com / vantu@songthanhcong.com；关键词 automation 12 / moxa 12",
+      "quote": "STC VietNam chuyên cung cấp Encoder NSD, Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam… pricing@stc-vietnam.com… Mr. Văn Tú… Mr Đức",
+      "url": "https://stc-vietnam.com/",
+      "date": "2026-10-21"
+    },
+    {
+      "kind": "用户表",
+      "claim": "Moxa 分销商；工业 FS、串口 MC；回复价格 官网 ×2、价格、主要是工业品",
+      "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-25"
- }
+  "kp": [
+    {
+      "name": "Mr. Linh",
+      "title": "（采购；表内注 MaiWe）",
+      "email": "linh@songthanhcong.com",
+      "phone": "+84 374 133 044",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    },
+    {
+      "name": "Mr. Đức",
+      "title": "Sales",
+      "email": "duc@stc-vietnam.com",
+      "phone": "+84 379 720 873",
+      "source": "https://stc-vietnam.com/"
+    }
+  ],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "B 级加厚 v1（官网快照核对）"
+  },
+  "company_facts": {
+    "legal_name": "Công ty TNHH TM DV Song Thành Công",
+    "founded": "",
+    "hq": "越南（胡志明市，待核）",
+    "size": "中小型工业元器件贸易商",
+    "other": "多品牌代理；有报价部"
+  },
+  "business_lines": [
+    "工业自动化元器件（编码器、传感器、继电器、电源）",
+    "工业网络（Moxa 交换机 / 串口服务器）"
+  ],
+  "products_seen": [
+    {
+      "brand": "Moxa",
+      "model": "AWK-4131A 等",
+      "spec": "工业无线 / 交换机",
+      "saga": "Saga STI 工业线对位 Moxa EDS 入门款（价差 2–3 倍）",
+      "url": "https://stc-vietnam.com/",
+      "date": "2026-10-21"
+    }
+  ],
+  "channels": {
+    "role": "工业元器件分销（Moxa 渠道）",
+    "region": "越南"
+  },
+  "signals": [
+    "多次问价工业小壳 / 2 光 16 电 / mini 工业 → 在找 Moxa 以外的低价工业线",
+    "表内另一联系人注「MaiWe」→ 已接触中国同行迈威"
+  ],
+  "risks": [
+    "Moxa 分销身份 → 只会拿低价线做补充",
+    "越南非主攻区；比价（MaiWe）"
+  ],
+  "saga_fit": {
+    "p1": "STI-244GP",
+    "tier": 20,
+    "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。"
+  },
+  "email_hook": "Mr. Linh, as a Moxa house you'll know the EDS price points — for the 2-SFP + 4-port and 2-SFP + 16-port industrial sizes you priced with us, do you need managed (ring/VLAN) or will unmanaged do for the panel-level jobs?",
+  "mail_review": {
+    "binding": {
+      "level": "Elsa 群发 BCC 已触达 2026-09-10「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，越南（锚 vienthonghanoi VN） 批次 To inbox.vienthonghanoi@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1a08a3bf37753529）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "越南 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品」；研究档 risks：Moxa 分销身份 → 只会拿低价线做补充；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To inbox.vienthonghanoi@gmail.com）本户见于 2026-09-10 名单"
+    },
+    "situation": "越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。",
+    "need": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
+    "breakpoint": "Moxa 分销身份 → 只会拿低价线做补充",
+    "saga_now": {
+      "p1": "STI-244GP",
+      "tier": 20,
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+      "why": "其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2024-07-16",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「发了电口图」→ 对方「hi thanks」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.7.16"
+      },
+      {
+        "date": "2024-08-14",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「4 8口工业PoE」→ 对方「noted」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.8.14"
+      },
+      {
+        "date": "2024-10-22",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「电口」→ 对方「noted」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1022"
+      },
+      {
+        "date": "2024-11-18",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「引流机型」→ 对方「industrial grade?」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1118"
+      },
+      {
+        "date": "2024-12-10",
+        "dir": "来",
+        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+        "quote": "用户表跟进：推「Mini」→ 对方「price」",
+        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+        "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210"
+      },
+      {
+        "date": "2026-09-10",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次）",
+        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+        "why": "Elsa 箱群发 BCC 触达证据（命中地址 duy@songthanhcong.com, songthanhcong.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+        "k": "elsa_bcc"
+      },
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-25"
+  }
 }

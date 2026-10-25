@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：美国 ProPlex / TMB（AV 与娱乐行业数据分发品牌：GBS 网络交换机（5 口 PoE 导轨、Mini PoE 6 口便携、5 口千兆 PoE）、IP 级便携数据分发、Ethernet-DMX；表内「switch 外壳有一些特别，周边产品较多，北京有办事处」「细分特种行业公司」）；群发 10 次无回复。（调研 2026-10-21；表内兴趣：switch 外壳有一些特别 周边产品较多 北京有办事处）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 10 次无任何回复（聋名单）
 - **历史互动**：推送 10 次（2025-02-22 → 2025-10-23）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-22 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-22；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）
 - **第一问（只问一个）**：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 仅 2025-02-22 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；观察打开
@@ -46,13 +46,13 @@ updated: 2026-10-25
 - **现状一句话**：美国 ProPlex / TMB（AV 与娱乐行业数据分发品牌：GBS 网络交换机（5 口 PoE 导轨、Mini PoE 6 口便携、5 口千兆 PoE）、IP 级便携数据分发、Ethernet-DMX；表内「switch 外壳有一些特别，周边产品较多，北京有办事处」「细分特种行业公司」）；群发 10 次无回复。
 - **对方真实需求（有据）**：GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做
 - **断点 / 为什么停在这里**：北京有办事处（可直接在国内采购，比价激烈）；IP 级/便携特殊外壳 Saga 不做；10 次无回复
-- **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch））——GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做
+- **Saga 现在该推什么**：P1 **STI-054GP**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-09-30 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-22 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-22；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280））——GBS 5 口 PoE 导轨位 → 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 ProPlex 标；8 PoE + 2 SFP STI-288GPM（$85.5）；IP 级便携外壳 Saga 不做
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 仅 2025-02-22 单发过 1 封「24 Port Fiber Switch」，之后没再碰他（第 74 批(m)）；观察打开
   - 第一问（只问一个）：For the GBS DIN-rail PoE switches in your range, we can be a second ODM source on a Marvell platform (4/8-PoE + uplink, −40~75 °C, 12–57 V, FCC/CE/RoHS) in ProPlex packaging from small lots — which GBS SKU do your entertainment customers reorder most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
-| 2025-02-22 | out | Elsa → sales@tmb.com | 24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-02-22 | out | Elsa → sales@tmb.com | 24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-02-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、48 Port PoE Managed Switch | 14 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-02-10（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | switch 外壳有一些特别 周边产品较多 北京有办事处 | 表内备注 | `用户表` |
 

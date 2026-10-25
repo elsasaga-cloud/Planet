@@ -127,7 +127,7 @@
     "saga_now": {
       "p1": "STI-488DGGPM",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）",
+      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
       "why": "自有 CX-NPA-8GS4I-L2（8 GE PoE + 4 SFP 工业 L2）→ Saga 工业 L2+ 8 PoE + 4×2.5G SFP STI-488DGGPM（30% 档，价格见对位行）；16 口位 STI-21616GP；现供应 Hasivo = 已接受中国 ODM。已打开的主题（1/8 封有打开记录）：「8 Port Industrial PoE Switch」(2025-08-25) → 读者兴趣偏「工业」；与 P1 同类，继续",
       "repeat": [],
       "gaps": []
@@ -143,7 +143,7 @@
         "date": "2025-10-15",
         "dir": "out",
         "who": "Elsa → info@comxus.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户）",
+        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/5 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
         "why": "第 74 批(m) `from:e.sagatelecom to:info@comxus.com` 全程 complete：5 轮直收；0 回",
         "k": "elsa_1to1",
         "msg_id": "199e7b93b174dd35"

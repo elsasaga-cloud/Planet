@@ -34,7 +34,7 @@ updated: 2026-10-25
 - **是谁**：意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。（调研 2026-10-21；表内兴趣：switch）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。；首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。；首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?
 - **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@setik.biz（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **现状一句话**：意大利 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 / camera 85；+39 0362 185 5440），仅 info@；表内 switch；无跟进。
 - **对方真实需求（有据）**：CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。
 - **断点 / 为什么停在这里**：仅 info@；电商比价
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit））——CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 + STC-028GP $25.1 EXW（20% 档；028GP 按洪瑞 2026-09-30 进价 +20%，旧表 $24 不用；第 73 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——CCTV 配套 8 PoE 管理 → STC-28DGGPM（$80.7 @20%）；非管理 HRUI STC-028GP。
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → info@setik.biz（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：Buongiorno — for the switch category on setik.biz: Marvell L2+ 8-PoE + 2-SFP at $80.7 and budget unmanaged 8-PoE + 2 uplinks at $25.1 USD EXW, with photos and CE files for listing; who manages new suppliers?
 

@@ -33,7 +33,7 @@ updated: 2026-10-25
 - **是谁**：美国 Epygi Technologies（VoIP 厂商：设计制造并全球分销 IP PBX（QX 系列）、VoIP 网关、SIP 会议服务器；辅助生活方案 EVIA；表内「工业 FS」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业FS）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动 — —
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **—**（30% 档，—）——已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续
+- **Saga 现在该推什么**：P1 **—**（30% 档，—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续
 - **下一步（具体）**：不动　—　—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

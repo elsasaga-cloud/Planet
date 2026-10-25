@@ -32,7 +32,7 @@ updated: 2026-10-25
 - **是谁**：美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。（调研 2026-10-21；表内兴趣：CCTV相关的都卖 POE分销）
 - **为什么是 B 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：待 Simon 排期（首封） A 邮箱 → marketing@silmarelectronics.com（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
@@ -45,14 +45,14 @@ updated: 2026-10-25
 - **现状一句话**：美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。
 - **对方真实需求（有据）**：PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：官网 http_error（待核）；仅 marketing@；未跟进过；NDAA 场景（§889 适用范围待核）
-- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——PoE 分销 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
 - **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → marketing@silmarelectronics.com（无具名 KP；公用地址）　首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-08「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问
   - 第一问（只问一个）：For the PoE switches you distribute with CCTV lines, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (plus budget unmanaged) from small lots, FCC/CE/RoHS, EXW USD — which PoE SKU moves the most volume through your branches? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-04-05 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 marketing@silmarelectronics.com, silmarelectronics.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
-| 2025-06-29 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST | Elsa 箱群发 BCC 触达证据（命中地址 marketing@silmarelectronics.com, silmarelectronics.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2025-06-29 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | Elsa 箱群发 BCC 触达证据（命中地址 marketing@silmarelectronics.com, silmarelectronics.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 marketing@silmarelectronics.com, silmarelectronics.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | CCTV相关的都卖 POE分销 | 表内备注 | `用户表` |
 

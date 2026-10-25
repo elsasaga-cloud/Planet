@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **是谁**：菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。（调研 2026-10-21；表内兴趣：买了迈威的）
 - **为什么是 B 级**：**调研后定级 B**（在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **现状一句话**：菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。
 - **对方真实需求（有据）**：终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）
 - **断点 / 为什么停在这里**：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复
-- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter））——终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）
+- **Saga 现在该推什么**：P1 **STI-288DGGPM**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$145.7）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）
 - **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开
   - 第一问（只问一个）：Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $145.7 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?
 
@@ -59,13 +59,13 @@ updated: 2026-10-25
 | 2025-03-19 | 去 | A 群发 | 10G Media Converter | 1 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2025-03-19（1 去 / 0 来） | `gmail_digest` |
 | 2025-05-01 | out | Elsa → info@crec.com.ph | 90W PoE Managed Switch（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2025-06-18 | out | Elsa → info@crec.com.ph | 16 Port Ethernet Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
-| 2025-10-09 | out | Elsa → info@crec.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2025-10-09 | out | Elsa → info@crec.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2025-12-09 | out | Elsa → info@crec.com.ph | Booster PoE Switch（Elsa 1:1 逐月名单第 5/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-01-07 | out | Elsa → info@crec.com.ph | Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-02-18 | out | Elsa → info@crec.com.ph | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-03-24 | out | Elsa → info@crec.com.ph | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
-| 2026-05-05 | out | Elsa → info@crec.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
-| 2026-08-06 | out | Elsa → info@crec.com.ph | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-05-05 | out | Elsa → info@crec.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-08-06 | out | Elsa → info@crec.com.ph | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 买了迈威的 / 做项目的 / 富通天下 | 表内备注 | `用户表` |
 
 ## 基本事实（事实/推断/假设分层）

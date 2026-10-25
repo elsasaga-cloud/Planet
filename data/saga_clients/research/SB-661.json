@@ -120,7 +120,7 @@
     "saga_now": {
       "p1": "STI-110GE",
       "tier": 30,
-      "price": "按主表（研究档 saga_fit）",
+      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-09 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-09；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
       "why": "询盘为 16 槽 MC 机架（Saga 价目无机架，待核）→ 先以工业 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP 切入；工业交换机位 STI-288GPM；Lantronix SISPM1040 位 STI-21616GP（16 PoE）",
       "repeat": [],
       "gaps": []
@@ -136,7 +136,7 @@
         "date": "2026-09-09",
         "dir": "去",
         "who": "Elsa 群发（BCC；To info@hoangvanco.com.vn）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To info@hoangvanco.com.vn）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To info@hoangvanco.com.vn；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
         "why": "第 74 批(n) `from:e.sagatelecom to:hlc.vn` 命中行 To=info@hoangvanco.com.vn ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
         "k": "elsa_bcc",
         "msg_id": "1a08466ba46c221c"
