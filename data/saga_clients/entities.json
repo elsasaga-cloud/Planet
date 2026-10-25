@@ -26224,7 +26224,7 @@
 "next_move": {
 "when": "不主动；他 10 月来华季或下次来信时一句话",
 "channel": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱",
-"action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）",
+"action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）（第 75 批(s) 2026-10-25：WeChat 一句话版已写 `draft_en`（不主动；来华季/来信时用））",
 "one_question": "Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?"
 },
 "facts": [
@@ -26393,7 +26393,10 @@
 "用户表「已卖 ONV 工业 FS」在 S/A 邮箱无成交痕迹",
 "Simon 2024-04-19 对其称「My factory is in Huiyang district, Huizhou」——与现口径（Engineering & Supply-Chain-First）不同，后续再联系时注意口径一致"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WeChat / 私信一句话（复制即发；不发邮件；他来华季或下次来信时用）",
+"body": "Alexander, Simon here. No new catalogue - one question only. Is the 8-port L2-managed DIN PoE unit with watchdog, at Realtek-level pricing, still what FARADAY needs next to the F-802, or has your current supplier covered it? If it is still open, say so and I answer with one line and one price; the Marvell line stays where it was, and I will not send that again."
+},
 "as_of": "2026-10-24"
 }
 }
@@ -35689,7 +35692,7 @@
 "next_move": {
 "when": "不主动；他下次来信时一次性答复",
 "channel": "A 邮箱 → info@iotsistem.com（Berk）",
-"action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾",
+"action": "一句话：Marvell 线价格就是这样；若要 10/100 DIN 低价机，给 HRUI 线一张表（需 Simon 同意），否则礼貌收尾（第 75 批(s) 2026-10-25：回信模板已写 `draft_en`（只在他来信时用；HRUI 预算线不写价，Simon 同意换线后再报））",
 "one_question": "（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?"
 },
 "facts": [
@@ -35929,7 +35932,10 @@
 "proof_gaps": [
 "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Reply template - use only when Berk writes next (no proactive send)",
+"body": "Hi Berk,\n\nThanks for coming back. Straight answer, so you do not have to chase me again: the Marvell-based managed units are priced where you saw them - that line does not move, and for projects where the end customer always picks the cheapest 10/100 unit it is the wrong line, you were right about that.\n\nWhat I can do for those projects is a separate budget line: DIN-rail 10/100 copper + SC fibre, unmanaged, wide DC input, at a fraction of the managed price. If you want it, give me the exact port count (8, 16 or 24 copper), fibre type (multimode 2 km or single-mode 20 km) and whether PoE is still required, and I quote that line in one mail - no catalogue.\n\nOne question: is PoE still required, or is it plain 10/100 + fibre now?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -38375,7 +38381,7 @@
 "next_move": {
 "when": "按 Simon WeChat 节奏",
 "channel": "WeChat",
-"action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WeChat 一句话版已写 `draft_en`）",
 "one_question": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet."
 },
 "facts": [
@@ -38429,7 +38435,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "WeChat / 私信一句话（复制即发；不发邮件）",
+"body": "Pak Ismed, Simon from Saga Telecom. Next to the HR600-AFG-822S on infrateq.com, a higher-tier SKU in InfrateQ packing: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW (MOQ 1, 15-day validity). For the off-grid solar CCTV sites, the DC input range matters - what battery voltage do those sites run, 12/24 or 48 V?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -49026,7 +49035,7 @@
 "next_move": {
 "when": "按 Simon WA 节奏",
 "channel": "WhatsApp",
-"action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））",
 "one_question": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units."
 },
 "facts": [
@@ -49048,7 +49057,10 @@
 }
 ],
 "proof_gaps": [],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+"body": "Hi, Simon from Saga Telecom - ISAF follow-up. You asked whether the standard switches carry an alarm output: the commercial units do not. The industrial DIN unit is the one to look at - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW with your logo (MOQ 1, 15-day validity), as a second source next to your N-Net units; I send you its datasheet page so you see the alarm contact details exactly as specified. Which N-Net model is in your 2 + 10 cabinets today, so I line ours up against it?"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -52563,7 +52575,7 @@
 "next_move": {
 "when": "标书触发",
 "channel": "WhatsApp",
-"action": "标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）",
+"action": "标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：标书触发版已写 `draft_en`（Elsa 8 月群发他见过 $170，已点明 FX））",
 "one_question": "For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number."
 },
 "facts": [
@@ -52603,7 +52615,10 @@
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（锚月轮 11 轮，最近 2026-08-26）、0 回），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "WhatsApp / 私信一句话（复制即发；不发邮件；标书来时用）",
+"body": "Hi, Simon from Saga Telecom. For the tender lot: I hold these EXW numbers for 15 days with full CE/RoHS files, 100 % prepayment, so your bid sheet has a firm figure - 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the August mail said $170; the RMB moved from 7.2 to 6.7); 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7. EAC stays on your side. Send me the lot's spec lines and quantities and you have the sheet back the same day."
+},
 "as_of": "2026-10-25"
 }
 }

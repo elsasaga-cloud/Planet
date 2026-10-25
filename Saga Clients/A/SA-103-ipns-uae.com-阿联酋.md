@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $240（24 Port Fiber Switch）、2025-09-23 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：按 Simon WA 节奏 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步**：按 Simon WA 节奏 WhatsApp —（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 PoE（在用 N-Net，研究档）。
 - **断点 / 为什么停在这里**：渠道错位：销售台 vs 采购。
 - **Saga 现在该推什么**：P1 **STI-288DGGPM**（30% 档，—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $240（24 Port Fiber Switch）、2025-09-23 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch））——WA。已打开的主题（2/20 封有打开记录）：「24 Port Fiber Switch」(2025-08-26)、「Marvell Industrial Alert System」(2025-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：按 Simon WA 节奏　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步（具体）**：按 Simon WA 节奏　WhatsApp　—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））
   - 第一问（只问一个）：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -277,25 +277,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件）
 
 ```text
-Hi Blessen,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
-
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Hi, Simon from Saga Telecom - ISAF follow-up. You asked whether the standard switches carry an alarm output: the commercial units do not. The industrial DIN unit is the one to look at - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW with your logo (MOQ 1, 15-day validity), as a second source next to your N-Net units; I send you its datasheet page so you see the alarm contact details exactly as specified. Which N-Net model is in your 2 + 10 cabinets today, so I line ours up against it?
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

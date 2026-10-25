@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：按标书 — 标书驱动、RU 收款路径 → 只在标书触发时按标书报 EXW 15 天有效、100% 预付；—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-12 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 - **最大未知**：年走量与现供应商
-- **下一步**：标书触发 WhatsApp 标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步**：标书触发 WhatsApp 标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：标书触发版已写 `draft_en`（Elsa 8 月群发他见过 $170，已点明 FX））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：随标书变化。
 - **断点 / 为什么停在这里**：收款路径（RU）。
 - **Saga 现在该推什么**：P1 **按标书**（20% 档，—；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-12 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——标书驱动、RU 收款路径 → 只在标书触发时按标书报 EXW 15 天有效、100% 预付
-- **下一步（具体）**：标书触发　WhatsApp　标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）
+- **下一步（具体）**：标书触发　WhatsApp　标书触发（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：标书触发版已写 `draft_en`（Elsa 8 月群发他见过 $170，已点明 FX））
   - 第一问（只问一个）：For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -279,25 +279,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：WhatsApp / 私信一句话（复制即发；不发邮件；标书来时用）
 
 ```text
-Hi Nikolay,
-
-Picking up our earlier exchange about PoE / industrial switches. For tender-driven lots I can hold EXW pricing for 15 days on the 8- and 24-port PoE+ managed switches with full CE/RoHS files, on 100% prepayment, so your bid sheet has a firm number.
-
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Hi, Simon from Saga Telecom. For the tender lot: I hold these EXW numbers for 15 days with full CE/RoHS files, 100 % prepayment, so your bid sheet has a firm figure - 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the August mail said $170; the RMB moved from 7.2 to 6.7); 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7. EAC stays on your side. Send me the lot's spec lines and quantities and you have the sheet back the same day.
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

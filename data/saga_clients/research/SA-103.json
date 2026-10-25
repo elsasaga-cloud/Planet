@@ -151,7 +151,7 @@
   "next_move": {
    "when": "按 Simon WA 节奏",
    "channel": "WhatsApp",
-   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（报警继电器主表未载——信里不断言，改为「发规格书页自己看」；发前 Simon 核 SmartByte 规格书））",
    "one_question": "You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units."
   },
   "facts": [
@@ -173,7 +173,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Hi, Simon from Saga Telecom - ISAF follow-up. You asked whether the standard switches carry an alarm output: the commercial units do not. The industrial DIN unit is the one to look at - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW with your logo (MOQ 1, 15-day validity), as a second source next to your N-Net units; I send you its datasheet page so you see the alarm contact details exactly as specified. Which N-Net model is in your 2 + 10 cabinets today, so I line ours up against it?"
+  },
   "as_of": "2026-10-24"
  }
 }

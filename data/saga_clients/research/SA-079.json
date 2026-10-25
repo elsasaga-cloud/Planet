@@ -170,7 +170,7 @@
   "next_move": {
    "when": "按 Simon WeChat 节奏",
    "channel": "WeChat",
-   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）",
+   "action": "—（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(s) 2026-10-25：WeChat 一句话版已写 `draft_en`）",
    "one_question": "Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet."
   },
   "facts": [
@@ -224,7 +224,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WeChat / 私信一句话（复制即发；不发邮件）",
+   "body": "Pak Ismed, Simon from Saga Telecom. Next to the HR600-AFG-822S on infrateq.com, a higher-tier SKU in InfrateQ packing: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW (MOQ 1, 15-day validity). For the off-grid solar CCTV sites, the DC input range matters - what battery voltage do those sites run, 12/24 or 48 V?"
+  },
   "as_of": "2026-10-24"
  }
 }

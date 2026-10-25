@@ -149,7 +149,7 @@
   "next_move": {
    "when": "不主动；他 10 月来华季或下次来信时一句话",
    "channel": "WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱",
-   "action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）",
+   "action": "一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）（第 75 批(s) 2026-10-25：WeChat 一句话版已写 `draft_en`（不主动；来华季/来信时用））",
    "one_question": "Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?"
   },
   "facts": [
@@ -318,7 +318,10 @@
    "用户表「已卖 ONV 工业 FS」在 S/A 邮箱无成交痕迹",
    "Simon 2024-04-19 对其称「My factory is in Huiyang district, Huizhou」——与现口径（Engineering & Supply-Chain-First）不同，后续再联系时注意口径一致"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "WeChat / 私信一句话（复制即发；不发邮件；他来华季或下次来信时用）",
+   "body": "Alexander, Simon here. No new catalogue - one question only. Is the 8-port L2-managed DIN PoE unit with watchdog, at Realtek-level pricing, still what FARADAY needs next to the F-802, or has your current supplier covered it? If it is still open, say so and I answer with one line and one price; the Marvell line stays where it was, and I will not send that again."
+  },
   "as_of": "2026-10-24"
  }
 }

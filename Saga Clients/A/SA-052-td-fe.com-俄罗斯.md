@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不再推 Marvell 10G；他要的「DIN 8 口 L3 管理 PoE、Realtek 价位」在 Saga 自己的 Realtek 工业线上有对位：STI-488XGGPM-2BT（L3，4×10G SFP+ + 8×GE PoE 6 af/at + 2 bt 360W，2025-04 表 $170 EXW）/ L2 款 STI-288GPM-2BT $110（`docs/reference/价格表_Realtek工业线_Saga对外_2025.md`；watchdog 列表未写，待核；再报按当日汇率重核）。是否对俄开这条线——Simon 定 — C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停。已打开的主题（18/29 封有打开记录）：「Re: Din power supply」(2024-12-12)、「Re: Din power supply」(2024-12-31)、「Re: Din power supply」(2025-06-10)、「Updated Ethernet Switches Links」(2026-02-03) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD；群发里他已看到的价（续，第 66 批全量复核）：2026-05-11 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?
 - **最大未知**：年走量与现供应商
-- **下一步**：不主动；他 10 月来华季或下次来信时一句话 WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱 一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）
+- **下一步**：不主动；他 10 月来华季或下次来信时一句话 WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱 一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）（第 75 批(s) 2026-10-25：WeChat 一句话版已写 `draft_en`（不主动；来华季/来信时用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：C2 第一道筛子在 2024-05-21 已经把他筛出（Realtek 用户 + 价格优先），但 Saga 又追了 8 个月、给了全价表——投入与筛子结论不一致。真正的边界是芯片线，不是沟通。
 - **Saga 现在该推什么**：P1 **不再推 Marvell 10G；他要的「DIN 8 口 L3 管理 PoE、Realtek 价位」在 Saga 自己的 Realtek 工业线上有对位：STI-488XGGPM-2BT（L3，4×10G SFP+ + 8×GE PoE 6 af/at + 2 bt 360W，2025-04 表 $170 EXW）/ L2 款 STI-288GPM-2BT $110（`docs/reference/价格表_Realtek工业线_Saga对外_2025.md`；watchdog 列表未写，待核；再报按当日汇率重核）。是否对俄开这条线——Simon 定**（20% 档，HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD；群发里他已看到的价（续，第 66 批全量复核）：2026-05-11 $280（10G Enterprise SFP Switch））——C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停。已打开的主题（18/29 封有打开记录）：「Re: Din power supply」(2024-12-12)、「Re: Din power supply」(2024-12-31)、「Re: Din power supply」(2025-06-10)、「Updated Ethernet Switches Links」(2026-02-03) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
   - 做不了 / 要先核的：是否对俄罗斯客户开 Realtek 线——Simon 定；用户表「已卖 ONV 工业 FS」出处（邮件无）；Realtek 工业线（Hasivo 供，Saga 2025-04 对外表）有 DIN 8 口 PoE L2 $110 / L3 $170——正是他 2024-05 的价位与「reliable, not hi-end」要求；见 docs/reference/价格表_Realtek工业线_Saga对外_2025.md；HRUI 商用线无 DIN 款；对位在 Realtek 工业线（第 60 批核出），只差 watchdog 一项待核
-- **下一步（具体）**：不主动；他 10 月来华季或下次来信时一句话　WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱　一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）
+- **下一步（具体）**：不主动；他 10 月来华季或下次来信时一句话　WeChat（2024-05-20 已加 AlexRudnev）/ S 邮箱　一句话问需求是否仍在 + 明示 Marvell 线价格就是这样；若 Simon 开 Realtek 线则给 STI-488XGGPM-2BT（L3）/ STI-288GPM-2BT（L2）一行价（2025-04 表 $170 / $110，重核汇率后报）（第 75 批(s) 2026-10-25：WeChat 一句话版已写 `draft_en`（不主动；来华季/来信时用））
   - 第一问（只问一个）：Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -295,25 +295,13 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：WeChat / 私信一句话（复制即发；不发邮件；他来华季或下次来信时用）
 
 ```text
-Hi Alexander,
-
-Picking up our earlier exchange about PoE / industrial switches. Your F-802 is fast-Ethernet; the Marvell-based 8-port gigabit PoE+ with 2 SFP managed DIN switch would slot in as the F-8xx gigabit step-up in FARADAY packing, EXW, with CE/RoHS files ready.
-
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Alexander, Simon here. No new catalogue - one question only. Is the 8-port L2-managed DIN PoE unit with watchdog, at Realtek-level pricing, still what FARADAY needs next to the F-802, or has your current supplier covered it? If it is still open, say so and I answer with one line and one price; the Marvell line stays where it was, and I will not send that again.
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
