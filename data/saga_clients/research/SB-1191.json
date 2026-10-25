@@ -69,7 +69,7 @@
  "email_hook": "Hola — under the Red Lion/N-Tron price points, a Marvell DIN managed 8-PoE + 2-SFP at $79 EXW (ERPS, −40~75 ℃, CE); one evaluation unit for your Gipuzkoa customers?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）；Elsa 群发 BCC 已触达 2026-09-02「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，ES 批次 To info@garmasl.com，0 回（第 73 批(o) Bcc 头核对 msg 1a061e4cc4892abf）",
+   "level": "未触达（S 邮箱 7 封 2024→2025，1 次记录打开，0 回；收件 info@garmasl.com；主题多为「Passive PoE Switch、Mini Industrial Switch」）；Elsa 群发 To 直收 11 轮 2025-03-29→2026-09-02（本户是「ES」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-02「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a061e4cc4892abf）",
    "type": "—",
    "sieve": "1~2（1 次打开）",
    "stop": "只打通用邮箱，无记录打开",
@@ -107,9 +107,9 @@
    {
     "date": "2025-03-29",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
+    "who": "Elsa 群发（To 直收：本户是「ES」批次的锚，其余客户在 Bcc）",
     "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 garmasl.com, info@garmasl.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To info@garmasl.com）；该批次 11 轮 2025-03-29→2026-09-02 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {
@@ -123,9 +123,9 @@
    {
     "date": "2026-09-02",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To info@garmasl.com，ES 批次）",
+    "who": "Elsa 群发（To 直收：本户是「ES」批次的锚，其余客户在 Bcc）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 garmasl.com, info@garmasl.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To info@garmasl.com）；该批次 11 轮 2025-03-29→2026-09-02 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {

@@ -1,0 +1,251 @@
+{
+ "_note": "2026-10-25 02:12Z 用 Gmail 连接器在 Elsa 箱跑 `in:sent to:.<tld>`：Gmail 的 to: 同时匹配 To/Bcc 里的地址 token，所以一次查询 = 该国所有被 Elsa 触达过的邮件（群发锚 + 1:1）。complete:true 的国家 = Elsa 侧触达全集已知；.it/.tr token 噪音大（it/tr 是常见词）、结果 >200 未穷尽。锚 To 的 Bcc 名单见 bcc_batches_2026.json。",
+ "probes": {
+  ".pl": {
+   "query": "in:sent to:.pl -to:zintronic.pl -to:mbs-systems.pl",
+   "complete": true,
+   "n": 24,
+   "anchors": {
+    "info@smartsystems.jo": "2025-03-04→2026-08-20 共 13 轮",
+    "info@axuse.com": "2025-04-03→2025-10-09 共 7 轮"
+   },
+   "one_to_one": [
+    [
+     "damix@damixsat.pl, serwis@damixsat.pl",
+     "2025-02-10",
+     "194ef4d2c36a24e0"
+    ],
+    [
+     "lukasz.gasiewicz@impakt.com.pl",
+     "2025-08-26",
+     "198e64376d9fa3ca"
+    ],
+    [
+     "lukasz.gasiewicz@impakt.com.pl",
+     "2025-09-25",
+     "19980d386ab668ed"
+    ]
+   ]
+  },
+  ".de": {
+   "query": "in:sent to:.de -to:all4fiber.com",
+   "complete": true,
+   "n": 29,
+   "anchors": {
+    "khmisti39@gmail.com": "2025-02-26→2026-08-17 共 11 轮",
+    "sales@solimedia.net": "US-3 批次含 .de 地址（2025-04→2025-11 可见 7 轮）"
+   },
+   "one_to_one": [
+    [
+     "info@delock.de",
+     "2025-02-24",
+     "19537ef890cf3f79"
+    ],
+    [
+     "Sales@kti.de, CHelming@kti.de, PKaiser@kti.de",
+     "2025-02-24",
+     "19537d4122fe3853"
+    ],
+    [
+     "info@grothe.de",
+     "2025-02-24",
+     "195379d2353a87ac"
+    ],
+    [
+     "info@ipcomm.de",
+     "2025-02-24",
+     "195374abdb7e87c7"
+    ],
+    [
+     "info@wut.de",
+     "2025-02-21",
+     "195287c7548a2341"
+    ],
+    [
+     "info@luetze.de",
+     "2025-02-19",
+     "1951e66ab5cdd221"
+    ],
+    [
+     "info@helmholz.de",
+     "2025-02-19",
+     "1951d1d15408dab6"
+    ],
+    [
+     "joerg.ridder@netcatsystems.de",
+     "2025-02-12",
+     "194fa3eb1c18035e"
+    ],
+    [
+     "peter@goetz-automation.de",
+     "2025-02-12",
+     "194f97e6c4735c04"
+    ],
+    [
+     "Armin.Kaddatz@klinikum-karlsruhe.de",
+     "2025-02-12",
+     "194f9477e5088f77"
+    ]
+   ]
+  },
+  ".uk": {
+   "query": "in:sent to:.uk -to:cablenet.co.uk",
+   "complete": true,
+   "n": 34,
+   "anchors": {
+    "shop@idelectro.ru": "2025-03-09→2026-08-25 共 13 轮",
+    "paul.such@avigilon.com": "2025-07-25→2026-08-24 共 10 轮（CA/UK/HR）",
+    "admin@ionsecurity.com.au": "2025-08-22、2025-10-03（avigilon 批次早期锚）",
+    "sales@luxritesecurity.com": "2025-03-30 一轮"
+   },
+   "one_to_one": [
+    [
+     "sales@hunters-wholesalers.co.uk",
+     "2025-02-24",
+     "1953878dcbdeb44d"
+    ],
+    [
+     "graham@securitytec.co.uk",
+     "2025-02-24",
+     "195385d6745e8ebb"
+    ],
+    [
+     "sales@comtrol.co.uk, tim.jones@comtrol.co.uk",
+     "2025-02-24",
+     "1953841efd31a9fa"
+    ],
+    [
+     "sales.gb@lutze.co.uk",
+     "2025-02-21",
+     "195293bcdf3dee16"
+    ],
+    [
+     "tim.ashburner@bbc.co.uk",
+     "2025-02-21",
+     "1952905c9ef816d7"
+    ],
+    [
+     "info@b-gen.co.uk",
+     "2025-02-21",
+     "19528cedad123557"
+    ],
+    [
+     "sales@aceonline.co.uk",
+     "2025-02-21",
+     "195284587152d205"
+    ],
+    [
+     "sales@cctv-global.co.uk",
+     "2025-02-21",
+     "195282a0f74370b8"
+    ],
+    [
+     "office@innon.co.uk",
+     "2025-02-19",
+     "1951eb911e92c88b"
+    ],
+    [
+     "sales@dynamode.co.uk",
+     "2025-02-18",
+     "19519c8b85ba846e"
+    ]
+   ]
+  },
+  ".es": {
+   "query": "in:sent to:.es -to:garmasl.com",
+   "complete": true,
+   "n": 15,
+   "anchors": {
+    "office@lightwin.ch": "CH 批次含 guizaelectronic@yahoo.es；2025-02-28→2026-08-11 共 15 轮"
+   },
+   "one_to_one": []
+  },
+  ".fr": {
+   "query": "in:sent to:.fr -to:kairosmusique@gmail.com -to:faiveleytransport.com",
+   "complete": true,
+   "n": 14,
+   "anchors": {
+    "khmisti39@gmail.com": "2025-02-26→2026-08-17 共 11 轮（含 .fr 地址）"
+   },
+   "one_to_one": [
+    [
+     "info@hypercable.fr, jcducasse@hypercable.fr",
+     "2025-02-17",
+     "19513074bdf67dc9"
+    ],
+    [
+     "contact@atrs.fr, c.carasco@atrs.fr, j.navarro@atrs.fr",
+     "2025-02-12",
+     "194fa07c3a7169f8"
+    ],
+    [
+     "contact@eurotechnocom.fr",
+     "2025-02-12",
+     "194f9b55cd378feb"
+    ]
+   ]
+  },
+  ".nl": {
+   "query": "in:sent to:.nl -to:morion.ru",
+   "complete": true,
+   "n": 37,
+   "anchors": {
+    "info@dasys.fi": "北欧批次含 .nl",
+    "info@dolphin.com.bd": "2025-02-15→2026-08-13 共 15 轮（BD 锚，Bcc 含 .nl）",
+    "info@andasis.com": "misc 批次含 mediachoice.nl",
+    "info@megamobile.be": "2025-02-17 一轮（SK-2 早期锚，含 besd.nl）"
+   },
+   "one_to_one": []
+  },
+  ".cz": {
+   "query": "in:sent to:.cz -to:ergate.cz",
+   "complete": true,
+   "n": 1,
+   "anchors": {},
+   "one_to_one": [
+    [
+     "vladimir.novak@elkov.cz, nabidky.brno@elkov.cz",
+     "2025-02-10",
+     "194eedf51f6c7f7b"
+    ]
+   ]
+  },
+  ".tr": {
+   "query": "in:sent to:.tr",
+   "complete": false,
+   "n": "201+（首页 50）",
+   "anchors": {
+    "shop@idelectro.ru": "",
+    "info@smartsystems.jo": "",
+    "info@rasatechbd.com": "",
+    "jango.94.94@gmail.com": "",
+    "info@andasis.com": "",
+    "info@morion.ru": "",
+    "info@golfautomation.co.in": "",
+    "paul.such@avigilon.com": "",
+    "sales@quippro.kz": "",
+    "sibandaprofp@gmail.com": ""
+   },
+   "one_to_one": [],
+   "_warn": "token 'tr' 噪音大，未穷尽"
+  },
+  ".it": {
+   "query": "in:sent to:.it -to:sarcitalia.it",
+   "complete": false,
+   "n": "201+（首页 50）",
+   "anchors": {
+    "sofyan@mutiara-teknologi.com.my": "",
+    "komerce@skss.ru": "",
+    "S.Markin@mip-sb.ru": "",
+    "info@b2b-services.ru": "",
+    "info@rasatechbd.com": "",
+    "khmisti39@gmail.com": "",
+    "sales@quippro.kz": "",
+    "zakupki@dozor23.ru": ""
+   },
+   "one_to_one": [],
+   "_warn": "token 'it' 噪音大（it@…），未穷尽；意大利以 IT 批次 + 逐户核为准"
+  }
+ },
+ "fetched_at": "2026-10-25T02:12Z"
+}

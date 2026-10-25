@@ -66,14 +66,14 @@
  "site_mismatch": true,
  "mail_review": {
   "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP VC MC 很多周边产品；MC PoE 工业品 VC」）",
+   "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「SFP VC MC 很多周边产品；MC PoE 工业品 VC」",
    "type": "安防/网络产品分销商兼网店（波兰）",
    "sieve": "—（未入筛）",
    "stop": "Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过",
    "revive": "首封（具名 KP 优先，用研究档 email_hook）",
    "lane": "PL 次级重点",
    "cadence": "首封后看打开",
-   "evidence": "gmail_digest：out 0；用户表：「SFP VC MC 很多周边产品；MC PoE 工业品 VC」；研究档 risks：快照域名误判（poznan.pl 为市政府站，实际应为 delta.poznan.pl / shopdelta.eu）——待重抓；表内「质量一般」；平台型卖家（；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；同批次（To biuro@zintronic.pl）本户见于 2026-09-01 名单；2025-04-03 首轮名单无此地址 → 中途加入"
+   "evidence": "gmail_digest：out 0；用户表：「SFP VC MC 很多周边产品；MC PoE 工业品 VC」；研究档 risks：快照域名误判（poznan.pl 为市政府站，实际应为 delta.poznan.pl / shopdelta.eu）——待重抓；表内「质量一般」；平台型卖家（；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To j.zaczek@mbs-systems.pl）2025-04-03→2026-09-01 共 11 轮群发（L3 Managed Switch、Industrial PoE Switch、Commercial Network Switch、16 Port Ethernet Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断；同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读；同批次（To biuro@zintronic.pl）本户见于 2026-09-01 名单；2025-04-03 首轮名单无此地址 → 中途加入"
   },
   "situation": "波兰 Delta Poznań（delta.poznan.pl / shopdelta.eu：安防与网络产品分销商兼网店（SFP、VC、MC、PoE、工业品，很多周边产品；oferty@ 报价邮箱）；表内国别波兰；表内「质量一般」「销售平台」；快照抓到的是 poznan.pl 市政府官网（域名误判，待重抓））；表内未跟进。",
   "need": "MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供",
@@ -99,6 +99,14 @@
     "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
     "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 delta.poznan.pl, oferty@delta.poznan.pl, service@delta.poznan.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
+    "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 delta.poznan.pl, info@delta.poznan.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
    },
    {

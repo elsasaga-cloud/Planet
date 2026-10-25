@@ -118,14 +118,14 @@
  "email_hook": "PLANET is the one networking brand on your trade counter; a second-source industrial PoE+ switch with the same 3-year cover gives your installers a lower price point on camera jobs. On your installers' camera jobs, is the 8-port industrial PoE+ (IGS-5225 class) what they take most, or the rack-mount 8/16/24-port units?",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：调研建档）",
+   "level": "Elsa 群发 BCC 已触达 2026-08-25「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU 元器件/工业分销+UK/GR/TR 个别 批次 To shop@idelectro.ru，0 回（第 74 批 Bcc 头核对 msg 1a037f37e9507255）；S/A 箱：S/A 邮箱均无往来；来源：调研建档）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
    "revive": "不动（Q-33 供应商渠道客户）",
    "lane": "UK 主攻（四主）",
    "cadence": "不动",
-   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）"
+   "evidence": "gmail_digest：out 0；研究档 risks：PLANET 年台数；是否持有库存（自述 stock）；是否接受 EXW 直采（现从 PLANET 英国渠道拿货）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To shop@idelectro.ru）本户见于 2026-08-25 名单；该批次最早 2025-03-09 起共 13 轮，更早轮次 Bcc 未读"
   },
   "situation": "北威尔士 Wrexham 的安防/网络/电气贸易分销商，PLANET 授权分销，给全英安装商供货（贸易账户、批量折扣、次日达、贸易柜台）。类型：分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）。信号：官网品牌页自述「As an authorised Planet distributor Connectec stock a wide range of Planet products」；首页「Shop for Planet Business networking and communication products」；在售 IGS-5225-8P4S / IGS-801T / WGS-5225-8UP2SV / GS-4210-8HP2S；Mi",
   "need": "对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求：",
@@ -144,11 +144,20 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-08-25",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To shop@idelectro.ru，RU 元器件/工业分销+UK/GR/TR 个别 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 connectec.uk, sales@connectec.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [
    "无邮件往来"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

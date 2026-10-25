@@ -78,7 +78,7 @@
  "email_hook": "For the OT networking projects where a Moxa switch is over-budget, we supply DIN-rail 8-port managed PoE (Marvell L2+) and unmanaged gigabit switches (2 SFP, −40~75 °C, neutral packing) from small lots — would a bench sample help you position a value tier?",
  "mail_review": {
   "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「串口 工业FS」）",
+   "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）；S/A 箱：S/A 邮箱均无往来；来源：用户表「串口 工业FS」",
    "type": "工业网络与边缘计算分销商（Moxa 渠道）",
    "sieve": "—（未入筛）",
    "stop": "Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过",

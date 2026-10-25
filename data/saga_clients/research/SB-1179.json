@@ -105,7 +105,7 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」）",
+   "level": "Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-2 批次 To info@allisontecusa.com，0 回（第 73 批(o) Bcc 头核对 msg 1a081a79b20c7fbc）；S/A 箱：S/A 邮箱均无往来；来源：用户表「主要是CCTV 少量商业POE」",
    "type": "分销商（AV / 安防 / 网络，面向集成商）",
    "sieve": "—（未入筛）",
    "stop": "Elsa 群发 BCC 触达过（最近 2026-09-08）无回；S/A 箱从未单独发过",

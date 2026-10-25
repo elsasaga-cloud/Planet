@@ -72,14 +72,14 @@
  "email_hook": "For the PoE switches that power your IP intercom and video-door systems, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ELFON packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with Optima IP kits?",
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封盘点通知群发）",
+   "level": "未触达（1 封盘点通知群发）；Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）",
    "type": "波兰楼宇对讲制造商（Elfon）",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",
    "revive": "不动",
    "lane": "PL",
    "cadence": "不动",
-   "evidence": "k=5d17b345298031ed"
+   "evidence": "k=5d17b345298031ed；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -98,9 +98,18 @@
    "action": "—",
    "one_question": ""
   },
-  "facts": [],
+  "facts": [
+   {
+    "date": "2026-08-20",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 elfon.com.pl, zamowienia@elfon.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

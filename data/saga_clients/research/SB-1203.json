@@ -75,7 +75,7 @@
  "email_hook": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range?",
  "mail_review": {
   "binding": {
-   "level": "Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次 To info@iotkomponenty.sk，0 回（第 73 批(o) Bcc 头核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS 光猫 一小部分 多数还是其他的」）",
+   "level": "Elsa 群发 To 直收 13 轮 2025-02-17→2026-08-13（本户是「SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户」批次的锚：首轮 2025-02-17 本户在 Bcc、To 为 info@megamobile.be，2025-03-08 起每轮 To 本户、其余客户 Bcc；最近 2026-08-13「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 19ffb6888b465b84）；S/A 箱：S/A 邮箱均无往来；来源：用户表「工业FS 光猫 一小部分 多数还是其他的」",
    "type": "小型 IoT 组件网店（USR 为主）",
    "sieve": "—（未入筛）",
    "stop": "Elsa 群发 BCC 触达过（最近 2026-08-13）无回；S/A 箱从未单独发过",
@@ -98,7 +98,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → info@iotkomponenty.sk（无具名 KP；公用地址）",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+   "action": "首封前知悉：Elsa 已 To 直发 13 轮（2025-02-17→2026-08-13）（最近 2026-08-13「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
    "one_question": "Next to the USR routers and serial servers you list, we supply compact DIN-rail 5/8-port gigabit industrial switches (Marvell-based, −40~75 °C, neutral packing) from single units — would a small industrial switch SKU fit your IoT range? Reference: STI-050GE at $25 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -113,9 +113,9 @@
    {
     "date": "2026-08-13",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次）",
+    "who": "Elsa 群发（To 直收：本户是「SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户」批次的锚，其余客户在 Bcc）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@iotkomponenty.sk, iotkomponenty.sk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To info@iotkomponenty.sk）；该批次 13 轮 2025-02-17→2026-08-13 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {

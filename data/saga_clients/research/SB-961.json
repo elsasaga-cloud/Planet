@@ -1,136 +1,145 @@
 {
-  "code": "SB-961",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（netcatsystems.de，快照 2026-10-21）",
-  "summary": "德国 NetCat SYSTEMS GmbH（「We supply IT」IT 采购/供应链服务商：全品类、ISO9001、定制方案；站内 Cisco / Ubiquiti / Netgear；表内「PoE」「可以着重跟一下」，备注电话加不上；KP Joerg Ridder）；群发 15 次无回复。",
-  "type": "IT 采购服务商/经销（德国，用户标「着重跟」）",
-  "size": "",
-  "brands_seen": [
-    "Ubiquiti",
-    "Cisco",
-    "Netgear"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：NetCat SYSTEMS GmbH；品类词 网络交换 / PoE",
-      "quote": "We supply IT.；Wir übernehmen die Beschaffung für Sie.；Umfassende Produktpalette；Zuverlässigkeit；Maßgeschneiderte Lösungen；Supply Chain Solutions für",
-      "url": "https://netcatsystems.de/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "POE；T 49-2307-96100 加不上",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "NetCat 首页",
-      "quote": "NetCat SYSTEMS GmbH ; We supply IT. ; Wir übernehmen die Beschaffung für Sie. ; Umfassende Produktpalette ; Supply Chain Solutions",
-      "url": "https://netcatsystems.de/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "PoE；着重跟",
-      "quote": "POE；可以着重跟一下；T 49-2307-96100 加不上",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Joerg Ridder",
-      "title": "（职务待核）",
-      "email": "joerg.ridder@netcatsystems.de",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-961",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（netcatsystems.de，快照 2026-10-21）",
+ "summary": "德国 NetCat SYSTEMS GmbH（「We supply IT」IT 采购/供应链服务商：全品类、ISO9001、定制方案；站内 Cisco / Ubiquiti / Netgear；表内「PoE」「可以着重跟一下」，备注电话加不上；KP Joerg Ridder）；群发 15 次无回复。",
+ "type": "IT 采购服务商/经销（德国，用户标「着重跟」）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "Netgear"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：NetCat SYSTEMS GmbH；品类词 网络交换 / PoE",
+   "quote": "We supply IT.；Wir übernehmen die Beschaffung für Sie.；Umfassende Produktpalette；Zuverlässigkeit；Maßgeschneiderte Lösungen；Supply Chain Solutions für",
+   "url": "https://netcatsystems.de/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "德国",
-    "other": "官网 netcatsystems.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "POE；T 49-2307-96100 加不上",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT 采购 / 供应链服务"
-  ],
-  "channels": {
-    "role": "IT 采购服务商/经销（德国，用户标「着重跟」）",
-    "region": "德国",
-    "contact": "joerg.ridder@netcatsystems.de"
+  {
+   "kind": "官网快照",
+   "claim": "NetCat 首页",
+   "quote": "NetCat SYSTEMS GmbH ; We supply IT. ; Wir übernehmen die Beschaffung für Sie. ; Umfassende Produktpalette ; Supply Chain Solutions",
+   "url": "https://netcatsystems.de/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页 We supply IT. ; Wir übernehmen die Beschaffung für Sie. ; Umfassende Produktpalette ; Supply Chain Solutions；站内品牌 Cisco / Ubiquiti / Netgear",
-    "表内：PoE；可以着重跟一下；T 49-2307-96100 加不上；KP Mr. Joerg Ridder"
-  ],
-  "risks": [
-    "采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低",
-    "15 次无回复，用户标「着重跟」→ 改具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "企业 IT 采购配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作品牌线下的预算位；24 口 STC-424DGGPM-280W（$134.5）"
-  },
-  "email_hook": "Mr. Ridder, for the PoE switches you procure for customer projects next to Cisco and Netgear, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, CE/RoHS, EXW USD — is there a budget band your customers ask for below the branded lines?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 joerg.ridder@netcatsystems.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
-      "type": "IT 采购服务商/经销（德国，用户标「着重跟」）",
-      "sieve": "1（只收到群发）",
-      "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "DE 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 24；用户表：「POE；T 49-2307-96100 加不上」；研究档 risks：采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低"
-    },
-    "situation": "德国 NetCat SYSTEMS GmbH（「We supply IT」IT 采购/供应链服务商：全品类、ISO9001、定制方案；站内 Cisco / Ubiquiti / Netgear；表内「PoE」「可以着重跟一下」，备注电话加不上；KP Joerg Ridder）；群发 15 次无回复。",
-    "need": "企业 IT 采购配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作品牌线下的预算位；24 口 STC-424DGGPM-280W（$134.5）",
-    "breakpoint": "采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）",
-      "why": "企业 IT 采购配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作品牌线下的预算位；24 口 STC-424DGGPM-280W（$134.5）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Mr. Ridder, for the PoE switches you procure for customer projects next to Cisco and Netgear, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, CE/RoHS, EXW USD — is there a budget band your customers ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-23",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
-        "why": "24 封 / 0 次打开 / 0 回｜首封 2024-06-16 → 末封 2026-09-23（24 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "POE；T 49-2307-96100 加不上",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "PoE；着重跟",
+   "quote": "POE；可以着重跟一下；T 49-2307-96100 加不上",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Joerg Ridder",
+   "title": "（职务待核）",
+   "email": "joerg.ridder@netcatsystems.de",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "德国",
+  "other": "官网 netcatsystems.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "IT 采购 / 供应链服务"
+ ],
+ "channels": {
+  "role": "IT 采购服务商/经销（德国，用户标「着重跟」）",
+  "region": "德国",
+  "contact": "joerg.ridder@netcatsystems.de"
+ },
+ "signals": [
+  "首页 We supply IT. ; Wir übernehmen die Beschaffung für Sie. ; Umfassende Produktpalette ; Supply Chain Solutions；站内品牌 Cisco / Ubiquiti / Netgear",
+  "表内：PoE；可以着重跟一下；T 49-2307-96100 加不上；KP Mr. Joerg Ridder"
+ ],
+ "risks": [
+  "采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低",
+  "15 次无回复，用户标「着重跟」→ 改具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "企业 IT 采购配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作品牌线下的预算位；24 口 STC-424DGGPM-280W（$134.5）"
+ },
+ "email_hook": "Mr. Ridder, for the PoE switches you procure for customer projects next to Cisco and Netgear, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, CE/RoHS, EXW USD — is there a budget band your customers ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 24 封 2024→2026，无记录打开，0 回；收件 joerg.ridder@netcatsystems.de；主题多为「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 1:1 去信 2025-02-12「16 Port PoE Managed Switch」（To joerg.ridder@netcatsystems.de），0 回（Elsa 箱 in:sent 核对 msg 194fa3eb1c18035e）",
+   "type": "IT 采购服务商/经销（德国，用户标「着重跟」）",
+   "sieve": "1（只收到群发）",
+   "stop": "24 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "DE 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 24；用户表：「POE；T 49-2307-96100 加不上」；研究档 risks：采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+  },
+  "situation": "德国 NetCat SYSTEMS GmbH（「We supply IT」IT 采购/供应链服务商：全品类、ISO9001、定制方案；站内 Cisco / Ubiquiti / Netgear；表内「PoE」「可以着重跟一下」，备注电话加不上；KP Joerg Ridder）；群发 15 次无回复。",
+  "need": "企业 IT 采购配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作品牌线下的预算位；24 口 STC-424DGGPM-280W（$134.5）",
+  "breakpoint": "采购代理型经销（品牌导向，按客户指定采购）：白牌契合度低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-22 $280（10G Enterprise SFP Switch）",
+   "why": "企业 IT 采购配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作品牌线下的预算位；24 口 STC-424DGGPM-280W（$134.5）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port PoE Managed Switch」给 joerg.ridder@netcatsystems.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 换收件人再发一封",
+   "one_question": "Mr. Ridder, for the PoE switches you procure for customer projects next to Cisco and Netgear, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models from small lots, CE/RoHS, EXW USD — is there a budget band your customers ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-02-12",
+    "dir": "去",
+    "who": "Elsa 1:1 去信（To joerg.ridder@netcatsystems.de）",
+    "quote": "16 Port PoE Managed Switch — Marvell-based 16 PoE L2+ managed, 2×1G/2.5G/10G fiber + 16×1G RJ45/PoE, PoE management, alarm output, customizable Web GUI（摘要无价）",
+    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Mr. Joerg」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+    "k": "elsa_1to1",
+    "msg_id": "194fa3eb1c18035e"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+    "why": "24 封 / 0 次打开 / 0 回｜首封 2024-06-16 → 末封 2026-09-23（24 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "POE；T 49-2307-96100 加不上",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

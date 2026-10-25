@@ -70,14 +70,14 @@
  "email_hook": "Arunima, for the PLANET 48-port requirement — our 48 GE + 4×10G SFP+ L2+ (Marvell) is $275 EXW at 1 pc, PoE version $349; and yes we have a fibre-bypass industrial model. Is the 48-port for a non-PoE core or camera aggregation?",
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封自动回复）；退信：arunima@klasseducation.com 2024-06-21",
+   "level": "未触达（1 封自动回复）；退信：arunima@klasseducation.com 2024-06-21；Elsa 群发 BCC 已触达 2025-10-03「10G Enterprise SFP Switch」（价格未读），AU/AE+CA/UK/HR（avigilon 批次前身） 批次 To admin@ionsecurity.com.au，0 回（第 74 批 Bcc 头核对 msg 199a8c61c9839390）",
    "type": "沙特/阿联酋 IT（Aptvel）",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",
    "revive": "不动；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
    "lane": "SA",
    "cadence": "不动",
-   "evidence": "k=474ffd9ec30588c9"
+   "evidence": "k=474ffd9ec30588c9；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To admin@ionsecurity.com.au）本户见于 2025-10-03 名单；该批次最早 2025-08-22 起共 2 轮，更早轮次 Bcc 未读"
   },
   "situation": "来信全部为机器回复；无人读信或无人回信。",
   "need": "—",
@@ -104,12 +104,20 @@
     "quote": "arunima@klasseducation.com 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
     "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
     "k": "gmail_s 474ffd9ec30588c9"
+   },
+   {
+    "date": "2025-10-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To admin@ionsecurity.com.au，AU/AE+CA/UK/HR（avigilon 批次前身） 批次）",
+    "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 aptvelglobal.com, info@aptvelglobal.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
    }
   ],
   "proof_gaps": [
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

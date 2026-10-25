@@ -1,127 +1,137 @@
 {
-  "code": "SB-530",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（dynamode.co.uk，快照 2026-10-21）",
-  "summary": "英国 Dynamode UK（计算机与网络设备自有品牌，「From the Manufacture To U」：PoE 交换机 SW40010-2-POE / SW80010-G-POE / SW2402100-G-POE、MC 41、摄像机、Wi-Fi；表内「MC / switch / 周边产品，比较杂」）；群发 10 次无回复。",
-  "type": "英国自有品牌网络配件商（OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Aruba"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Dynamode UK；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Dynamode UK",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC switch 周边产品 比较杂一些",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Dynamode UK 自有品牌",
-      "quote": "Your One-Stop For Computer and Networking Devices ; From the Manufacture To U ; Exclusive Products",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC switch 周边产品 比较杂",
-      "quote": "MC switch 周边产品 比较杂一些",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-530",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（dynamode.co.uk，快照 2026-10-21）",
+ "summary": "英国 Dynamode UK（计算机与网络设备自有品牌，「From the Manufacture To U」：PoE 交换机 SW40010-2-POE / SW80010-G-POE / SW2402100-G-POE、MC 41、摄像机、Wi-Fi；表内「MC / switch / 周边产品，比较杂」）；群发 10 次无回复。",
+ "type": "英国自有品牌网络配件商（OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Aruba"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Dynamode UK；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Dynamode UK",
+   "url": "https://www.dynamode.co.uk/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 dynamode.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC switch 周边产品 比较杂一些",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "计算机与网络设备（自有品牌 Dynamode）"
-  ],
-  "channels": {
-    "role": "英国自有品牌网络配件商（OEM 采购）",
-    "region": "英国",
-    "contact": "sales@dynamode.co.uk"
+  {
+   "kind": "官网快照",
+   "claim": "Dynamode UK 自有品牌",
+   "quote": "Your One-Stop For Computer and Networking Devices ; From the Manufacture To U ; Exclusive Products",
+   "url": "https://www.dynamode.co.uk/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "站内型号 SW40010-2-POE / SW40010-G-POE / SW80010-G-POE / SW80010-2-POE / SW2402100-G-POE（自有）",
-    "首页：From the Manufacture To U；Exclusive Products；kw media converter 41 / camera 50"
-  ],
-  "risks": [
-    "品类杂、单品量小；现代工深圳价格基准低",
-    "10 次无回复，仅 sales@，无具名 KP"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 SW80010-G-POE（8 GE PoE + 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dynamode 标；SW40010 位 HRUI STC-204GP（$20.4）；SW2402100 位 STC-424DGGPM-280W；MC 位 STI-110GE / 商用 MC 待核"
-  },
-  "email_hook": "For the SW-series PoE switches under the Dynamode label (SW80010-G-POE, SW2402100-G-POE), we can be a second ODM source on a Marvell platform from small lots in your packaging, CE/RoHS/UKCA — which model do you reorder most often?",
-  "products_seen": [
-    {
-      "brand": "Dynamode（自有）",
-      "model": "SW80010-G-POE",
-      "spec": "8 口千兆 PoE + 上联（推断）",
-      "saga": "STC-28DGGPM",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Dynamode（自有）",
-      "model": "SW2402100-G-POE",
-      "spec": "24 口千兆 PoE + 2 上联（推断）",
-      "saga": "STC-424DGGPM-280W",
-      "url": "https://www.dynamode.co.uk/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（2 封自动回复）",
-      "type": "英国自有品牌网络配件商（Dynamode）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "UK",
-      "cadence": "不动",
-      "evidence": "k=38c9744f2d9b362b / 1796d3be871fec93"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC switch 周边产品 比较杂",
+   "quote": "MC switch 周边产品 比较杂一些",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 dynamode.co.uk，语言 en，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "计算机与网络设备（自有品牌 Dynamode）"
+ ],
+ "channels": {
+  "role": "英国自有品牌网络配件商（OEM 采购）",
+  "region": "英国",
+  "contact": "sales@dynamode.co.uk"
+ },
+ "signals": [
+  "站内型号 SW40010-2-POE / SW40010-G-POE / SW80010-G-POE / SW80010-2-POE / SW2402100-G-POE（自有）",
+  "首页：From the Manufacture To U；Exclusive Products；kw media converter 41 / camera 50"
+ ],
+ "risks": [
+  "品类杂、单品量小；现代工深圳价格基准低",
+  "10 次无回复，仅 sales@，无具名 KP"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 SW80010-G-POE（8 GE PoE + 上联）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Dynamode 标；SW40010 位 HRUI STC-204GP（$20.4）；SW2402100 位 STC-424DGGPM-280W；MC 位 STI-110GE / 商用 MC 待核"
+ },
+ "email_hook": "For the SW-series PoE switches under the Dynamode label (SW80010-G-POE, SW2402100-G-POE), we can be a second ODM source on a Marvell platform from small lots in your packaging, CE/RoHS/UKCA — which model do you reorder most often?",
+ "products_seen": [
+  {
+   "brand": "Dynamode（自有）",
+   "model": "SW80010-G-POE",
+   "spec": "8 口千兆 PoE + 上联（推断）",
+   "saga": "STC-28DGGPM",
+   "url": "https://www.dynamode.co.uk/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Dynamode（自有）",
+   "model": "SW2402100-G-POE",
+   "spec": "24 口千兆 PoE + 2 上联（推断）",
+   "saga": "STC-424DGGPM-280W",
+   "url": "https://www.dynamode.co.uk/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封自动回复）；Elsa 1:1 去信 2025-02-18「8 Port Industrial PoE Switch」（To sales@dynamode.co.uk），0 回（Elsa 箱 in:sent 核对 msg 19519c8b85ba846e）",
+   "type": "英国自有品牌网络配件商（Dynamode）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "UK",
+   "cadence": "不动",
+   "evidence": "k=38c9744f2d9b362b / 1796d3be871fec93；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-15 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 2025-02 已 1:1 发过「8 Port Industrial PoE Switch」给 sales@dynamode.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 —",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-02-18",
+    "dir": "去",
+    "who": "Elsa 1:1 去信（To sales@dynamode.co.uk）",
+    "quote": "8 Port Industrial PoE Switch — Marvell based unmanaged 8 GE PoE, 30W/port, 250 m PoE, watchdog, DIP, SFP/SC/FC/ST（摘要无价）",
+    "why": "Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封",
+    "k": "elsa_1to1",
+    "msg_id": "19519c8b85ba846e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

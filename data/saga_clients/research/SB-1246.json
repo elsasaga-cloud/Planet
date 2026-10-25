@@ -161,7 +161,7 @@
  "email_hook": "Your switch line-up is moving from PLANET to Grandstream GWN — which leaves no industrial DIN-rail unit on the shelf now that the IGS-801M is gone; a neutral-packed Marvell-based industrial line at EXW fills exactly that slot. Now that the PLANET industrial units are being cleared, where do you send customers who ask for an 8-port industrial PoE DIN-rail switch — or is that an order you currently lose?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 3 封 2025→2026，1 次记录打开，0 回；收件 sales@solimedia.net；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2026-09-08「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US-3 批次 To sales@solimedia.net，0 回（第 73 批(o) Bcc 头核对 msg 1a08138d20436870）",
+   "level": "未触达（S 邮箱 3 封 2025→2026，1 次记录打开，0 回；收件 sales@solimedia.net；主题多为「24 Port PoE Managed Switch、8 Port Industrial PoE Switch」）；Elsa 群发 To 直收 10 轮 2025-04-05→2026-09-08（本户是「US-3」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-08「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a08138d20436870）",
    "type": "—",
    "sieve": "1~2（1 次打开）",
    "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
@@ -191,9 +191,9 @@
    {
     "date": "2025-04-05",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "who": "Elsa 群发（To 直收：本户是「US-3」批次的锚，其余客户在 Bcc）",
     "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@solimedia.net, solimedia.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To sales@solimedia.net）；该批次 10 轮 2025-04-05→2026-09-08 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {
@@ -207,9 +207,9 @@
    {
     "date": "2026-09-08",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To sales@solimedia.net，US-3 批次）",
+    "who": "Elsa 群发（To 直收：本户是「US-3」批次的锚，其余客户在 Bcc）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 sales@solimedia.net, solimedia.net）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To sales@solimedia.net）；该批次 10 轮 2025-04-05→2026-09-08 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {

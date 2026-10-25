@@ -93,7 +93,7 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 2 封 2025，其中 2 封被打开，0 回；收件 icecom@icecom.is；被打开主题「Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2026-08-21「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IS/SE/BG/RU/LT 批次 To icecom@icecom.is，0 回（第 73 批(o) Bcc 头核对 msg 1a023557cf116242）",
+   "level": "读而不回（A/S 邮箱 2 封 2025，其中 2 封被打开，0 回；收件 icecom@icecom.is；被打开主题「Industrial PoE Switch」）；Elsa 群发 To 直收 14 轮 2025-03-05→2026-08-21（本户是「IS/SE/BG/RU/LT」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-08-21「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a023557cf116242）",
    "type": "IT/通信系统集成商（冰岛）",
    "sieve": "2（有人在读，无人回）",
    "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -116,7 +116,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → icecom@icecom.is",
-   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
+   "action": "首封前知悉：Elsa 已 To 直发 14 轮（2025-03-05→2026-08-21）（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）",
    "one_question": "For the industrial switches and media converters you deploy with Teltonika and Cambium links, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units and gigabit MCs (−40~75 °C, CE/RoHS, neutral packing) from small lots, EXW USD — which port count do your installations use most? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -131,9 +131,9 @@
    {
     "date": "2025-03-05",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "who": "Elsa 群发（To 直收：本户是「IS/SE/BG/RU/LT」批次的锚，其余客户在 Bcc）",
     "quote": "Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional,",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 icecom.is, icecom@icecom.is）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To icecom@icecom.is）；该批次 14 轮 2025-03-05→2026-08-21 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {
@@ -147,9 +147,9 @@
    {
     "date": "2026-08-21",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次）",
+    "who": "Elsa 群发（To 直收：本户是「IS/SE/BG/RU/LT」批次的锚，其余客户在 Bcc）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 icecom.is, icecom@icecom.is）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To icecom@icecom.is）；该批次 14 轮 2025-03-05→2026-08-21 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {

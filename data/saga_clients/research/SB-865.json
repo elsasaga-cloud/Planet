@@ -81,7 +81,7 @@
  "email_hook": "Maciej, for a BCS-branded PoE switch line (E-link today) — Marvell L2+ 8/24-PoE and DIN industrial 8-PoE under the BCS label from small lots, CE/RoHS; which SKU should I sample first?",
  "mail_review": {
   "binding": {
-   "level": "未触达（4 封来信全部自动回复）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）",
+   "level": "未触达（4 封来信全部自动回复）；Elsa 群发 To 直收 11 轮 2025-04-03→2026-09-01（本户是「PL-2」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-01「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a05caee1683faef）",
    "type": "波兰 BCS 安防品牌电商（sklep-bcs.pl）",
    "sieve": "0",
    "stop": "自动回复",
@@ -119,9 +119,9 @@
    {
     "date": "2025-04-03",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次）",
+    "who": "Elsa 群发（To 直收：本户是「PL-2」批次的锚，其余客户在 Bcc）",
     "quote": "L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@sklep-bcs.pl, j.zaczek@mbs-systems.pl, m.zawodniak@mbs-systems.pl, mbs-systems.pl, sklep-bcs.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To j.zaczek@mbs-systems.pl）；该批次 11 轮 2025-04-03→2026-09-01 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,25 +33,26 @@ updated: 2026-10-24
 - **是谁**：英国 Comtrol UK Ltd（30+ 年获奖增值分销商，专业通信设备，具设计制造能力；栏目以太网交换机与 MC、串口通信、光纤转换、定制设计、楼宇实时监测、SFP；Omnitron 分销（OmniConverter PoE 交换机）；表内「MC 光猫 工业 FS，很多是 omnitron 的产品」；KP Tim Jones）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：MC 光猫 工业FS  很多是omnitron的产品）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-08 → 2025-11-06）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE。已打开的主题（2/27 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18)、「24 Port Fiber Switch」(2025-07-07) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-26)、Product Link_2026Q2(2026-02-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE。已打开的主题（2/27 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18)、「24 Port Fiber Switch」(2025-07-07) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-26)、Product Link_2026Q2(2026-02-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@） 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@） 首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 sales@comtrol.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-817` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-817` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 sales@comtrol.co.uk, tim.jones@comtrol.co.uk；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）** ｜ 类型：专业通信设备增值分销商（英国，Omnitron 为主） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：UK 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 27，Opened 标签 2（Simon 群发追踪）；用户表：「MC 光猫 工业FS 很多是omnitron的产品」；研究档 risks：Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供
+- **绑定等级：读而不回（A/S 邮箱 27 封 2024→2026，其中 2 封被打开，0 回；收件 sales@comtrol.co.uk, tim.jones@comtrol.co.uk；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 1:1 去信 2025-02-24「16 Port Ethernet Switch」（To sales@comtrol.co.uk…），0 回（Elsa 箱 in:sent 核对 msg 1953841efd31a9fa）** ｜ 类型：专业通信设备增值分销商（英国，Omnitron 为主） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：UK 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 27，Opened 标签 2（Simon 群发追踪）；用户表：「MC 光猫 工业FS 很多是omnitron的产品」；研究档 risks：Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：英国 Comtrol UK Ltd（30+ 年获奖增值分销商，专业通信设备，具设计制造能力；栏目以太网交换机与 MC、串口通信、光纤转换、定制设计、楼宇实时监测、SFP；Omnitron 分销（OmniConverter PoE 交换机）；表内「MC 光猫 工业 FS，很多是 omnitron 的产品」；KP Tim Jones）；群发 19 次无回复。
 - **对方真实需求（有据）**：Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE
 - **断点 / 为什么停在这里**：Omnitron 为既定主线（美国品牌，分销协议）：白牌仅预算补位；光猫（ONU）Saga 不供
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch））——Omnitron MC/PoE 既定线 → 工业千兆 MC STI-110GE（$22.4 @20%）/ PoE MC STI-111GP（$27.8）作预算位；工业 PoE 位 STI-288GPM（$78.9）对位 OmniConverter PoE。已打开的主题（2/27 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18)、「24 Port Fiber Switch」(2025-07-07) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-26)、Product Link_2026Q2(2026-02-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@）　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → tim.jones@comtrol.co.uk（Tim Jones；只发他，不抄 sales@）　首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 sales@comtrol.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）
   - 第一问（只问一个）：Tim, alongside the Omnitron OmniConverter range you distribute, we supply Marvell/Realtek-based industrial gigabit and PoE media converters and DIN-rail 8-PoE + 2 SFP switches (−40~75 °C, CE/RoHS/UKCA, neutral packing) from small lots, EXW USD — is there a budget MC or PoE position your customers ask for below the Omnitron line? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-24 | 去 | Elsa 1:1 去信（To sales@comtrol.co.uk, tim.jones@comtrol.co.uk） | 16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（摘要无价） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Tim」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 27 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-18（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC 光猫 工业FS 很多是omnitron的产品 | 表内备注 | `用户表` |
 
@@ -310,12 +311,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -80,13 +80,13 @@ def anchor_summary(meta, hits, all_batches):
         n_between = sum(1 for c in camps if first <= c['date'] <= last)
         subj = []
         for c in camps:
-            if first <= c['date'] <= last and c['subject'] not in subj:
+            if first <= c['date'] <= last and c['subject'] and c['subject'] not in subj:
                 subj.append(c['subject'])
         read_ids = {b['msg_id'] for b in all_batches}
         oldest, newest = camps[0], camps[-1]
         parts = []
         if len(mine) >= 2:
-            parts.append(f"同批次（To {to}）{first}→{last} 共 {n_between} 轮群发（{'、'.join(subj)}），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断")
+            parts.append(f"同批次（To {to}）{first}→{last} 共 {n_between} 轮群发" + (f"（{'、'.join(subj)}）" if subj else '') + "，本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断")
         else:
             parts.append(f"同批次（To {to}）本户见于 {first} 名单")
         if oldest['msg_id'] in read_ids and oldest['date'] < first:
@@ -121,7 +121,7 @@ def apply(res, meta):
         b = mr.get('binding')
         if isinstance(b, dict):
             lvl = str(b.get('level') or '')
-            if 'Bcc 头核对' not in lvl:
+            if 'Bcc 头核对' not in lvl and 'To 直收' not in lvl:
                 b['level'] = (tag + '；S/A 箱：' + lvl[4:]) if lvl.startswith('未发信（') else (lvl + '；' + tag)
                 ev = str(b.get('evidence') or '')
                 if 'bcc_batches_2026.json' not in ev:
@@ -129,7 +129,7 @@ def apply(res, meta):
                 changed = True
         else:
             s = str(b or '')
-            if 'Bcc 头核对' not in s:
+            if 'Bcc 头核对' not in s and 'To 直收' not in s:
                 mr['binding'] = (tag + '；S/A 箱：' + s[4:]) if s.startswith('未发信（') else (s + '；' + tag)
                 changed = True
         facts = mr.setdefault('facts', [])
@@ -176,6 +176,63 @@ def apply(res, meta):
     return n, fa
 
 
+FREEMAIL = {'gmail.com', 'hotmail.com', 'yahoo.com', 'outlook.com', 'live.com', 'icloud.com', 'yandex.ru', 'mail.ru', 'wp.pl', 'yahoo.fr'}
+
+
+def apply_anchor_to(res, meta):
+    """本户就是某批次的锚（每轮 To 直收、其余人 Bcc）→ 把「BCC 已触达」改写成「To 直收 N 轮」。幂等：level 含「To 直收」即跳过。"""
+    anchors = meta.get('anchors') or {}
+    n = 0
+    for c, v in sorted(res.items()):
+        if v['grade'] not in ('A', 'B'):
+            continue
+        hits = sorted(v['hits'], key=lambda x: x['date'])
+        to_hits = [h for h in hits if h['to'].split('@')[-1].lower() not in FREEMAIL
+                   and h['to'].split('@')[-1].lower() in {m.split('@')[-1].lower() for m in h['matched']}]
+        if not to_hits:
+            continue
+        p = os.path.join(RES, f'{c}.json')
+        if not os.path.exists(p):
+            continue
+        d = json.load(open(p, encoding='utf-8'))
+        mr = d.get('mail_review') or {}
+        b = mr.get('binding')
+        if not isinstance(b, dict):
+            continue
+        lvl = str(b.get('level') or '')
+        if 'To 直收' in lvl:
+            continue
+        h = to_hits[-1]
+        a = anchors.get(h['to']) or {}
+        camps = sorted(a.get('campaigns') or [], key=lambda x: x['date'])
+        if camps:
+            rounds, first, last = len(camps), camps[0]['date'], camps[-1]['date']
+        else:
+            rounds, first, last = len(to_hits), to_hits[0]['date'], h['date']
+        ptxt = '，最近一封正文「Price: 170USD/PC」' if h['subject'] == '24 Port PoE Managed Switch' else ''
+        span = f"{first}→{last}" if first != last else first
+        tag = (f"Elsa 群发 To 直收 {rounds} 轮 {span}（本户是「{h['batch']}」批次的锚：每轮 To 本户、其余客户 Bcc；最近 {h['date']}「{h['subject']}」{ptxt}），0 回"
+               f"（第 74 批核对 msg {h['msg_id']}）")
+        import re as _re
+        new_lvl, k = _re.subn(r'Elsa 群发 BCC 已触达 [^；]*?（第 7\d 批(?:\(o\))? Bcc 头核对 msg [0-9a-f]+）', tag, lvl, count=1)
+        if k == 0:
+            new_lvl = lvl + '；' + tag
+        b['level'] = new_lvl
+        for f in mr.get('facts') or []:
+            if f.get('k') == 'elsa_bcc' and str(f.get('who', '')).startswith('Elsa 群发（BCC；To ' + h['to']):
+                f['who'] = f"Elsa 群发（To 直收：本户是「{h['batch']}」批次的锚，其余客户在 Bcc）"
+                f['why'] = f"Elsa 箱群发直达证据（To {h['to']}）；该批次 {rounds} 轮 {span} 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信"
+        nm = mr.get('next_move') or {}
+        act = str(nm.get('action') or '')
+        if '首封前知悉：Elsa 已 BCC 群发触达' in act:
+            nm['action'] = act.replace('首封前知悉：Elsa 已 BCC 群发触达', f'首封前知悉：Elsa 已 To 直发 {rounds} 轮（{span}）', 1)
+        mr['as_of'] = TODAY
+        n += 1
+        if not DRY:
+            json.dump(d, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    return n
+
+
 def main():
     meta = json.load(open(BATCHES, encoding='utf-8'))
     ents = load_entities()
@@ -184,6 +241,8 @@ def main():
     print(f"batches {len(meta['batches'])}  matched entities {len(res)}  by grade {dict(by)}")
     n, fa = apply(res, meta)
     print(f"{'DRY ' if DRY else ''}patched {n} research JSONs, facts added {fa}")
+    na = apply_anchor_to(res, meta)
+    print(f"{'DRY ' if DRY else ''}anchor-To rewrites {na}")
     out = os.path.join(ROOT, 'data/gmail_e/bcc_match_latest.json')
     if not DRY:
         json.dump(res, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -33,25 +33,27 @@ updated: 2026-10-24
 - **是谁**：德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。（调研 2026-10-21；表内兴趣：工业FS  自己的牌子  质量还行 主要是工业电缆；自己的牌子）
 - **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；-22 推送 27 次无任何回复（聋名单）
 - **历史互动**：推送 27 次（2024-05-08 → 2025-11-05）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2026-11 A 邮箱 → dimitrios.koutrouvis@luetze.de 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → dimitrios.koutrouvis@luetze.de 首封前知悉：Elsa 2025-02 已 1:1 发过「90W PoE Managed Switch」给 info@luetze.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-546` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-546` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 37 封 2024→2026，其中 2 封被打开，0 回；收件 dimitrios.koutrouvis@luetze.de, info@luetze.de；被打开主题「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）** ｜ 类型：德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：DE 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 37，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comu」；研究档 risks：体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@
+- **绑定等级：读而不回（A/S 邮箱 37 封 2024→2026，其中 2 封被打开，0 回；收件 dimitrios.koutrouvis@luetze.de, info@luetze.de；被打开主题「Mini Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 1:1 去信 2025-02-19「90W PoE Managed Switch」（To info@luetze.de），0 回（Elsa 箱 in:sent 核对 msg 1951e66ab5cdd221）；Elsa 1:1 去信 2025-02-21「8 Port Industrial PoE Switch」（To sales.gb@lutze.co.uk），0 回（Elsa 箱 in:sent 核对 msg 195293bcdf3dee16）** ｜ 类型：德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：DE 主攻（四主） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 37，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comu」；研究档 risks：体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@；data/gmail_e/elsa_sent_tld_probe_2026-10-25.json（国别后缀探测，该国 Elsa 触达全集 complete:true）
 - **现状一句话**：德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。
 - **对方真实需求（有据）**：自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观
 - **断点 / 为什么停在这里**：体量较大（LÜTZE 集团，多国分支）：供应商准入与质量体系要求高；27 次无回复，仅 info@/sales.gb@
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → dimitrios.koutrouvis@luetze.de　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → dimitrios.koutrouvis@luetze.de　首封前知悉：Elsa 2025-02 已 1:1 发过「90W PoE Managed Switch」给 info@luetze.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）
   - 第一问（只问一个）：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-19 | 去 | Elsa 1:1 去信（To info@luetze.de） | 90W PoE Managed Switch — Marvell L2 managed PoE, programmable GUI, 2×PoE af/at/bt + 6×PoE af/at, 240W, PoE management（摘要无价） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
+| 2025-02-21 | 去 | Elsa 1:1 去信（To sales.gb@lutze.co.uk） | 8 Port Industrial PoE Switch — Marvell based unmanaged 8 GE PoE, 30W/port, 250 m PoE, watchdog, DIP, SFP/SC/FC/ST（摘要无价） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-23 | 去 | A/S 群发 | Mini Industrial PoE Switch、10G Enterprise SFP Switch | 37 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-23（37 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial | 表内备注 | `用户表` |
 
@@ -306,12 +308,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

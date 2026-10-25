@@ -96,14 +96,14 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）；Elsa 群发 BCC 已触达 2026-09-04「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，UK 批次 To sales@cablenet.co.uk，0 回（第 73 批(o) Bcc 头核对 msg 1a06ba5722292bab）",
+   "level": "未触达→拒（4Gon/Cadmus 工单 2025-01-27「This is not an item we would find useful, sorry」）；Elsa 群发 To 直收 1 轮 2025-03-30（本户是「UK-安防分销（一轮）」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2025-03-30「8 Port Industrial PoE Switch」），0 回（第 74 批核对 msg 195e6ec4be897295）",
    "type": "英国 Trade 安防分销（Luxrite / 4Gon / Cadmus 同一集团）",
    "sieve": "0",
    "stop": "明确「not useful」",
    "revive": "不动",
    "lane": "UK",
    "cadence": "不动",
-   "evidence": "k=2300dd9d2d1f3408；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
+   "evidence": "k=2300dd9d2d1f3408；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sales@luxritesecurity.com）本户见于 2025-03-30 名单；同批次（To sales@cablenet.co.uk）本户见于 2026-09-04 名单；2025-03-30 首轮名单无此地址 → 中途加入"
   },
   "situation": "英国 Trade 安防分销（Luxrite Security 的 sales@ 直接进 4Gon Solutions / Cadmus Distribution Group 的 Zendesk 工单台——三者同一集团；4Gon 另有档 SC-406）。Simon 2025-01-26 发 16 口 PoE L2+ 群发 → 次日工单台真人回「not an item we would find useful」——明确婉拒。2026-10-07 Simon 又把 $180 的 24 口 PoE 群发发到 info@4gon.co.uk（SC-406 的地址），同一集团再被打一次；不动。",
   "need": "—",
@@ -130,6 +130,14 @@
     "quote": "Hi Simon, thank you. This is not an item we would find useful, sorry. We appreciate your enquiry. 4Gon Solutions",
     "why": "真人婉拒（不是自动回复）；Luxrite 的销售邮箱由 4Gon 工单台接管，说明同一集团",
     "k": "gmail_s 2300dd9d2d1f3408"
+   },
+   {
+    "date": "2025-03-30",
+    "dir": "去",
+    "who": "Elsa 群发（To 直收：本户是「UK-安防分销（一轮）」批次的锚，其余客户在 Bcc）",
+    "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+    "why": "Elsa 箱群发直达证据（To sales@luxritesecurity.com）；该批次 1 轮 2025-03-30 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
+    "k": "elsa_bcc"
    },
    {
     "date": "2026-09-04",

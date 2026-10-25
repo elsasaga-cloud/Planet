@@ -74,7 +74,7 @@
  "email_hook": "For the media converters you list alongside LAN cabling, we supply neutral-brand gigabit and Fast Ethernet MCs (industrial and desktop) from single units, CE/RoHS, EXW USD — which MC configuration do your installer customers buy most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 support@solidcable.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）；Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，US+南亚/中东杂 批次 To support@solidcable.com，0 回（第 73 批(o) Bcc 头核对 msg 1a07ae282a6d4592）",
+   "level": "未触达（A/S 邮箱 21 封 2024→2026，1 次记录打开，0 回；收件 support@solidcable.com；主题多为「10G Enterprise SFP Switch、Mini Industrial PoE Switch」）；Elsa 群发 To 直收 1 轮 2026-09-07（本户是「US+南亚/中东杂」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-07「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a07ae282a6d4592）",
    "type": "通信工程材料电商/批发（日本，MC 现 ONV）",
    "sieve": "1~2（1 次打开）",
    "stop": "只打通用邮箱，无记录打开",
@@ -112,9 +112,9 @@
    {
     "date": "2026-09-07",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To support@solidcable.com，US+南亚/中东杂 批次）",
+    "who": "Elsa 群发（To 直收：本户是「US+南亚/中东杂」批次的锚，其余客户在 Bcc）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 solidcable.com, support@solidcable.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To support@solidcable.com）；该批次 1 轮 2026-09-07 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {
@@ -136,6 +136,6 @@
   ],
   "proof_gaps": [],
   "draft_en": null,
-  "as_of": "2026-10-24"
+  "as_of": "2026-10-25"
  }
 }

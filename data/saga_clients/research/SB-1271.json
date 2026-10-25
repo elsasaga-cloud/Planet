@@ -60,7 +60,7 @@
  "email_hook": "For the PoE switches you sell with Zintronic camera kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE port count do your customers buy most?",
  "mail_review": {
   "binding": {
-   "level": "未触达（S 邮箱 7 封 2024→2025，无记录打开，0 回；收件 biuro@zintronic.pl；主题多为「48 port managed switch、2.5G Switch」）；Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）",
+   "level": "未触达（S 邮箱 7 封 2024→2025，无记录打开，0 回；收件 biuro@zintronic.pl；主题多为「48 port managed switch、2.5G Switch」）；Elsa 群发 To 直收 10 轮 2025-04-03→2026-09-01（本户是「PL」批次的锚：每轮 To 本户、其余客户 Bcc；最近 2026-09-01「24 Port PoE Managed Switch」，最近一封正文「Price: 170USD/PC」），0 回（第 74 批核对 msg 1a05bfb71364077f）",
    "type": "CCTV 网店/品牌（波兰，PoE 现 Hasivo）",
    "sieve": "1（只收到群发）",
    "stop": "只打通用邮箱，无记录打开",
@@ -98,9 +98,9 @@
    {
     "date": "2025-04-03",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+    "who": "Elsa 群发（To 直收：本户是「PL」批次的锚，其余客户在 Bcc）",
     "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@zintronic.pl, zintronic.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To biuro@zintronic.pl）；该批次 10 轮 2025-04-03→2026-09-01 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {
@@ -114,9 +114,9 @@
    {
     "date": "2026-09-01",
     "dir": "去",
-    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+    "who": "Elsa 群发（To 直收：本户是「PL」批次的锚，其余客户在 Bcc）",
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-    "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@zintronic.pl, zintronic.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "why": "Elsa 箱群发直达证据（To biuro@zintronic.pl）；该批次 10 轮 2025-04-03→2026-09-01 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信",
     "k": "elsa_bcc"
    },
    {
