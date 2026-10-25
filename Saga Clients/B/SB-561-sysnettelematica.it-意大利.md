@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）；换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）
 - **断点 / 为什么停在这里**：快照为托管占位页（官网待核）；CTC Union（台湾）价格基准中等；12 次无回复 → 改向 Deputy CTO 具名首触
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，换人再触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-07 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch））——工业 FS（现 CTC Union）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、工业千兆 MC STI-110GE（$23.4）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））
   - 第一问（只问一个）：Stefano, alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -266,23 +266,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
+**主题**：Alongside the CTC Union industrial switches you deploy - the most price-sensitive position
 
 ```text
 Hi Stefano,
 
-Some time ago you had a product mail from us - "16 Port PoE Managed Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. Alongside the CTC Union industrial switches you deploy, we supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which industrial position in your telematics projects is most price-sensitive?
+We wrote to you once in February 2025 about a 16-port PoE managed switch, and since then only general product mails - most recently "Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
 
-We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the CTCU class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
+Alongside the CTC Union industrial switches you deploy, three units from single pieces, -40 to 75 C, CE/RoHS, EXW, 15-day validity: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged - model STI-280GE - $46 USD; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $82.2; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which industrial position in your telematics projects is the most price-sensitive - that is where a second source pays off first?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

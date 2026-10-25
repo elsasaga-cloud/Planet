@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；换人再触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STI-488XGGPM 明写 L2+ 非 L3）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做
 - **断点 / 为什么停在这里**：现用 Maiwe（武汉）价格基准低
 - **Saga 现在该推什么**：P1 **STI-154GP**（25% 档，换人再触锚价 STI-154GP $39.2 EXW（主表档位（2024 实报 $36–38 低于档位，可用档位；PDF 上限 $51.7）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-23 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——现用 Maiwe MIEN2205P-4T（5 口工业 PoE）→ 工业 4 PoE + 1 GE STI-154GP（$39.2 @25%）；8 PoE + 4×10G 位 STI-488XGGPM（L2+，非 L3）；M12/EtherCAT 不做。已打开的主题（1/20 封有打开记录）：「24 port poe switch」(2024-08-05) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 仅 2025-02-17 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STI-488XGGPM 明写 L2+ 非 L3）
   - 第一问（只问一个）：Gianni, next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent? Reference: STI-154GP at $39.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -289,23 +289,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-154GP - industrial DIN-rail switch (neutral label)
+**主题**：Next to the Maiwe units you specify - the 5-port PoE and the 8-PoE + 4 x 10G, honestly compared
 
 ```text
 Hi Gianni,
 
-Some time ago you had a product mail from us - "8 Port Industrial PoE Switch" on 17 February 2025 - and there was no reason to answer a mass mail. This one is specific. Next to the Maiwe industrial switches you specify, we supply DIN-rail 5-port and 8-PoE + 4×10G industrial units (−40~75 °C, neutral packing; the latter L2+ managed on a Marvell platform) from small lots for your building-automation and IoT projects — which model do you use most often, so we quote its equivalent?
+We wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently "Industrial PoE Switch" on 16 September 2026 - none of which needed an answer. This one is specific.
 
-We supply an industrial DIN-rail switch, 4x Gigabit PoE+ plus 1 SFP and 1 copper uplink (unmanaged) - model STI-154GP - that fits the same slot as your Maiwe MIEN2205P-4T at a lower landed cost, and we can ship it with neutral packaging. Current price: $39.2 USD EXW (valid 15 days).
+Next to the Maiwe units you specify, two equivalents from small lots, neutral packing, -40 to 75 C, CE/RoHS: MIEN2205P-4T position - DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - model STI-154GP - $39.2 USD EXW (MOQ 1, 15-day validity); MISCOM8212GP-4XGF position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - STI-488XGGPM - $171.9 - L2+, not L3, said up front. M12 and EtherCAT we do not do.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which Maiwe model do you use most often in the building-automation jobs, so I quote that equivalent properly?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
