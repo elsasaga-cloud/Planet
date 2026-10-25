@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜；首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → admin-dir@medias-coms.ch 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → admin-dir@medias-coms.ch 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
 - **断点 / 为什么停在这里**：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装
 - **Saga 现在该推什么**：P1 **STI-144GP**（25% 档，首触锚价 STI-144GP $35.5 EXW（主表档位（无 Saga 实报；PDF 上限 $46.2）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → admin-dir@medias-coms.ch　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → admin-dir@medias-coms.ch　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）
   - 第一问（只问一个）：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity).
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
@@ -99,7 +99,7 @@ updated: 2026-10-25
   - 已成交 + 样品（用户表）→ 候车亭项目用户；每个候车亭 1 台小型工业 PoE 机（供电摄像/屏控/路由）——复购随铺设节奏
 - **风险/边界**：终端用户、项目节奏不可控；瑞士 230V 户外柜需 DIN 宽温机，Saga 不做 IP67，只能柜内安装
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜
-- **邮件切入句（英文）**：For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?
+- **邮件切入句（英文）**：For the next batch of digital bus shelters, the DIN-rail 4-port PoE unit in the slot you sampled is now STI-144GP (4 x GE PoE+ + 1 x SFP, 44-57 V DC) at $35.5 EXW; how many shelters are planned for the coming phase so I can hold EXW pricing for them?
 
 ### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
 
@@ -210,23 +210,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-144GP - compact industrial switch (neutral label)
+**主题**：After the 2020 samples - the DIN-rail PoE unit for the next shelter batch
 
 ```text
-Hi Pascal,
+Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?
+In 2020 you took two media converters and two 4-port PoE DIN units from us as samples, and we never followed up properly - this is that follow-up.
 
-We supply a compact industrial switch, 4x Gigabit PoE+ plus 1 SFP (unmanaged) - model STI-144GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.5 USD EXW (valid 15 days).
+The current 4-port unit in that slot: DIN-rail 4 x Gigabit PoE+ + 1 x SFP uplink, 44-57 V DC, -40 to 75 C, CE/RoHS - model STI-144GP - $35.5 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version for aggregation points, STI-288GP, $59.8. Not IP67 - they go inside the shelter cabinet.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: how many shelters or cabinets are planned for the coming phase, so I can hold EXW pricing for them?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

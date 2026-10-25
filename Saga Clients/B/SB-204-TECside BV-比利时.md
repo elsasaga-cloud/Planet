@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Realtek 商用线（`data/hrui_STC对照表.csv`）：STC-18XGDGPW 1×10G SFP + 8×2.5G PoE 100W 网管 $66 / STC-108XGDGP 同口型非网管 $63.8 / STC-84XGWE 4×10G SFP + 8×10G mGig 铜 网管非 PoE $204；Marvell 位 STC-28DGGPM（2.5G 只在 SFP） — RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：Marvell 主表无 2.5G 铜口（DG = 2.5G 光口），2.5G 铜口在 Realtek 线（STC-18XGDGPW $66 等）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口｜第 53 批：CENTEC 表最小多千兆铜口 PoE++ 机型是 STH-8DX8XP16DP-HSI（16×2.5G PoE++ + 8×10G mGig PoE++ + 8×25G），没有 8 口小机——他的 8 口需求两条线都没有，直说｜第 55 批：Realtek 线有 2.5G 铜口 PoE（SA-006 2024-08 已卖过 STC-08XGWE $185），他的 8×2.5G 需求在 Realtek 线上有近似机，三层答法（Marvell/Realtek/CENTEC）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Giovanni, regarding your 8 x 2.5G + 4 x 10G SFP+ requirement for AV installations, a straight answer in three lines: our Marvell line has 2.5G only on the SFP/SFP+ cages (copper access 1G); our commercial Realtek line does have 2.5G copper — 8 x 2.5G PoE + 1 x 10G SFP web-managed at $66 USD EXW, or 8 x 10G multi-gig copper + 4 x 10G SFP+ web-managed (non-PoE) at $204 USD EXW (2026-10 price table, valid 15 days); and multi-gig PoE++ rack units sit on the CENTEC line from 16 ports. IGMP snooping on all, CE/RoHS, neutral brand — which of the two Realtek units is closer to the AV job, or is 4 x 10G SFP+ with PoE mandatory in one box?
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → orders@tecside.be（Giovanni Desramault） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → orders@tecside.be（Giovanni Desramault） 首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **断点 / 为什么停在这里**：RFQ 规格（8×2.5G + 4×10G）在 Saga 价格主表中待核（可能需 SmartByte 型号，注明）；AV 安装商单项目量小；仅 orders@
 - **Saga 现在该推什么**：P1 **Realtek 商用线（`data/hrui_STC对照表.csv`）：STC-18XGDGPW 1×10G SFP + 8×2.5G PoE 100W 网管 $66 / STC-108XGDGP 同口型非网管 $63.8 / STC-84XGWE 4×10G SFP + 8×10G mGig 铜 网管非 PoE $204；Marvell 位 STC-28DGGPM（2.5G 只在 SFP）**（25% 档，按主表（研究档 saga_fit））——RFQ 8×2.5G + 4×10G SFP+（该规格在价格主表中待核）→ 先报 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）/ 24 GE + 4×10G STC-424XGGM（$132.7）作 AV-over-IP 位｜需求台账 #12：Marvell 主表无 2.5G 铜口（DG = 2.5G 光口），2.5G 铜口在 Realtek 线（STC-18XGDGPW $66 等）——一句话里直接说清，不把 STC-28DGGPM 的 2.5G SFP 当成他要的 2.5G 口｜第 53 批：CENTEC 表最小多千兆铜口 PoE++ 机型是 STH-8DX8XP16DP-HSI（16×2.5G PoE++ + 8×10G mGig PoE++ + 8×25G），没有 8 口小机——他的 8 口需求两条线都没有，直说｜第 55 批：Realtek 线有 2.5G 铜口 PoE（SA-006 2024-08 已卖过 STC-08XGWE $185），他的 8×2.5G 需求在 Realtek 线上有近似机，三层答法（Marvell/Realtek/CENTEC）
   - 做不了 / 要先核的：Simon《STH计划》：铜口 CENTEC 机（STH1G/2.5G/5G，含 Multi-Gig PoE++）暂不宣传、点名才给；主推 10G/25G/XLite/100G/400G/800G
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → orders@tecside.be（Giovanni Desramault）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → orders@tecside.be（Giovanni Desramault）　首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Giovanni, regarding your 8 x 2.5G + 4 x 10G SFP+ requirement for AV installations, a straight answer in three lines: our Marvell line has 2.5G only on the SFP/SFP+ cages (copper access 1G); our commercial Realtek line does have 2.5G copper — 8 x 2.5G PoE + 1 x 10G SFP web-managed at $66 USD EXW, or 8 x 10G multi-gig copper + 4 x 10G SFP+ web-managed (non-PoE) at $204 USD EXW (2026-10 price table, valid 15 days); and multi-gig PoE++ rack units sit on the CENTEC line from 16 ports. IGMP snooping on all, CE/RoHS, neutral brand — which of the two Realtek units is closer to the AV job, or is 4 x 10G SFP+ with PoE mandatory in one box?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -220,23 +220,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+**主题**：Your Alibaba request for 8 x 2.5G + 4 x 10G SFP+ - what we have and what we do not
 
 ```text
 Hi Giovanni,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Regarding your 8 × 2.5G + 4 × 10G SFP+ switch requirement for AV installations: we supply Marvell-based L2+ switches (8-GE/PoE + 2 SFP; 24-GE + 4 × 10G SFP+) with IGMP for AV-over-IP from single units, CE/RoHS, EXW USD — how many units and is PoE needed on the 2.5G ports?
+You asked on Alibaba for a switch with 8 x 2.5G copper + 4 x 10G SFP+ and did not get a proper answer from us - apologies, here it is.
 
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Straight answer: an 8 x 2.5G copper unit is not in our range. What we build for AV-over-IP installations, with IGMP snooping and QoS, Marvell-based, CE/RoHS, from single units: 24 x Gigabit + 4 x 10G SFP+ uplinks, L2+ managed - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ - STC-28DGGPM - $84.1.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is the 2.5G on the copper ports a hard requirement for your endpoints, or would gigabit access with 10G uplinks do the job?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

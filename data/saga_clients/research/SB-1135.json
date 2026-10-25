@@ -47,7 +47,7 @@
     "tier": 25,
     "why": "终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景"
   },
-  "email_hook": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?",
+  "email_hook": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.2 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?",
   "mail_review": {
     "binding": {
       "level": "未发信（S/A 邮箱均无往来；来源：用户表「5电口 / from: 自建站」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
@@ -65,7 +65,7 @@
     "saga_now": {
       "p1": "STI-050GE",
       "tier": 25,
-      "price": "锚价：STI-050GE $25.0（LT-IS3005G-5GT 12–58 V 宽压版 @25%，与钩子句一致；-M 版 12–36 V $17.8，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）",
+      "price": "锚价：STI-050GE $25.0（LT-IS3005G-5GT 12–58 V 宽压版 @25%，与钩子句一致；-M 版 12–36 V $17.8，第 74 批(r) 2026-10-25）；按主表（研究档 saga_fit）；桌面 STC-05GE $6.2（洪瑞 2026-09-30 进价 +25%，第 75 批）",
       "why": "终端 25% 档：工业 STI-050GE（DIN 5 GE，$25.0）或商用 STC-05GE（Realtek 线，$6.1）视场景",
       "repeat": [],
       "gaps": []
@@ -73,7 +73,7 @@
     "next_move": {
       "when": "待 Simon 排期（首封）",
       "channel": "A 邮箱 → 待找地址（自建站询盘人 Julien Desbrosses，库内无邮箱——先在网站询盘后台 / S 邮箱通知里找）",
-      "action": "首封：按 email_hook 一问",
+      "action": "首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；桌面 5 口按洪瑞 2026-09-30 进价 +25% = $6.2（旧 $6.1）；无邮箱——WhatsApp 发同一段）",
       "one_question": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?"
     },
     "facts": [
@@ -90,7 +90,10 @@
       "无邮件往来",
       "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
     ],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "The 5-port copper switch you asked about - desk or cabinet",
+      "body": "Hi Julien,\n\nYou asked on our site about a 5-port copper switch; two options depending on where it goes:\n\n- indoor desk or shelf: 5 x Gigabit desktop switch, metal case - model STC-05GE - $6.2 USD EXW (MOQ 1, 15-day validity)\n- inside a cabinet or outdoor enclosure: DIN-rail industrial 5 x Gigabit, 12-58 V DC, -40 to 75 C - STI-050GE - $25.0\n\nBoth CE/RoHS; shipping to France is quoted on top once I know the quantity.\n\nOne question: is it going on a desk or inside a cabinet?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

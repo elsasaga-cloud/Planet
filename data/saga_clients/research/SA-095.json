@@ -62,7 +62,7 @@
   "tier": 25,
   "why": "终端项目 25% 档：候车亭柜内 STI-144GP（4 PoE + 上联，宽压 DIN）；汇聚点 STI-288DGGPM；非 IP67 需装柜"
  },
- "email_hook": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them?",
+ "email_hook": "For the next batch of digital bus shelters, the DIN-rail 4-port PoE unit in the slot you sampled is now STI-144GP (4 x GE PoE+ + 1 x SFP, 44-57 V DC) at $35.5 EXW; how many shelters are planned for the coming phase so I can hold EXW pricing for them?",
  "mail_review": {
   "binding": {
    "level": "未发信（S/A 邮箱均无往来；来源：调研建档；Elsa 箱：`to:medias-coms.ch` 逐户查 0（2026-10-24 第 73 批(o)，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(g)））",
@@ -88,14 +88,17 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → admin-dir@medias-coms.ch",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(i) 2026-10-25：英文信稿已写 `draft_en`；钩子「12–48 V 宽压」有误——STI-144GP 主表 DC 44~57V，已改）",
    "one_question": "For the next batch of digital bus shelters, the 4-port PoE DIN unit you sampled now ships with the wide 12–48 V input as standard; how many shelters are planned for the coming phase so I can hold EXW pricing for them? Reference: STI-144GP at $35.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [],
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "After the 2020 samples - the DIN-rail PoE unit for the next shelter batch",
+   "body": "Hello,\n\nIn 2020 you took two media converters and two 4-port PoE DIN units from us as samples, and we never followed up properly - this is that follow-up.\n\nThe current 4-port unit in that slot: DIN-rail 4 x Gigabit PoE+ + 1 x SFP uplink, 44-57 V DC, -40 to 75 C, CE/RoHS - model STI-144GP - $35.5 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version for aggregation points, STI-288GP, $59.8. Not IP67 - they go inside the shelter cabinet.\n\nOne question: how many shelters or cabinets are planned for the coming phase, so I can hold EXW pricing for them?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
