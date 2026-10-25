@@ -90015,7 +90015,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → info@regionprof.ru（Коровина Марина Григорьевна）",
-"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问",
+"action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））",
 "one_question": "Здравствуйте, вы импортируете промышленные коммутаторы Maiwe — предлагаем второй источник той же конфигурации: DIN-rail 2 SFP + 8 GbE L2+ с ERPS 139,9 USD EXW (без PoE 68,2 USD), −40/+75 °C, расчёт в CNY. Какие модели Maiwe у вас в наибольшем обороте, чтобы подготовить прямое сопоставление?"
 },
 "facts": [
@@ -90047,7 +90047,10 @@
 "proof_gaps": [
 "无邮件往来"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "A second source for the Maiwe-class industrial switches you import",
+"body": "Hello,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 21 August - and there was no reason to answer a mass mail. This one is specific to Region-Prof.\n\nYou import Maiwe industrial switches. We supply the same configurations as a second source, DIN-rail, -40 to 75 C, from single units, with settlement in CNY if that is easier than USD:\n\n- 2 x SFP + 8 x Gigabit PoE+, L2+ managed with ring redundancy, model STI-288DGGPM - $139.9 USD EXW (distributor price, MOQ 1, 15-day validity)\n- Same chassis without PoE, L2 managed, model STI-280GM - $68.2 USD EXW\n- Unmanaged 8 x PoE+ + 2 x SFP, model STI-288GP - $57.4 USD EXW\n\nNeutral housing and packaging; your own label is possible.\n\nOne question: which Maiwe models move most in your catalogue - I will prepare a direct one-to-one comparison for those?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-25"
 }
 }
@@ -106435,14 +106438,17 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → r.hannemann@isimko.de（德语）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））",
 "one_question": "Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer\": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19\"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?"
 },
 "facts": [],
 "proof_gaps": [
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Your 12 x fibre / 12 x copper request - the two closest units",
+"body": "Hi Mr Hannemann,\n\nYou asked us for one unit with 12 x fibre + 12 x copper ports. We do not build that exact layout; the two closest are:\n\n- Industrial, DIN-rail, -40 to 75 C: 8 x SFP + 4 x 10G SFP+ and 8 x Gigabit RJ45, L2+ managed, model STI-488DGGGM - $332.6 USD EXW (MOQ 1, 15-day validity)\n- 19-inch rack: 16 x SFP + 8 x combo (SFP / RJ45) + 4 x 10G SFP+, L3, model STC-4168XGGCM - $392.4 USD EXW\n\nBoth Marvell-based, CE/RoHS, neutral housing; industrial unit with 3-year warranty together with our DIN power supply.\n\nOne question: which of the two fits the control cabinet in your project - the DIN-rail unit or the 19-inch one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -289393,7 +289399,7 @@
 "next_move": {
 "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
 "channel": "A 邮箱 → eds@eds.com.tr（Osman Yıldız；土耳其语）",
-"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+"action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里）；「以前的客户」只据用户表，具体型号未知——信里请对方报型号，不编）",
 "one_question": "Osman Bey, ISAF'ta görüşmemizin devamı olarak: önceki siparişlerinizdeki modellerin güncel karşılıklarını ve EDS etiketli DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (137,5 USD EXW) fiyatını tek sayfada hazırladım — ithalat tarafında Münevver Hanım'a mı yoksa Gülnihal Hanım'a mı iletmemi istersiniz?"
 },
 "facts": [
@@ -289410,7 +289416,10 @@
 "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文",
 "在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Following our meeting at ISAF - EDS-label industrial PoE switch and your earlier models",
+"body": "Hi Osman,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nTwo things for EDS:\n\n1. An EDS-labelled DIN-rail industrial switch, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). Logo on the front panel is free; colour box from 200 sets.\n2. EDS bought from us before. If you let me know which models those were, I will map each one to its current equivalent and price on one page.\n\nOne question: on the import side, should I send that page to Münevver Hanım or to Gülnihal Hanım?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -305904,7 +305913,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核））",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））",
 "one_question": "Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?"
 },
 "facts": [
@@ -305921,7 +305930,10 @@
 "无邮件往来",
 "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "I/O modules - not us; two small industrial switches for your gateway customers",
+"body": "Hi Enes,\n\nYou asked us about I/O modules through our website - those are not in our range, so a straight no on that.\n\nWhat we do build, and what your IoT / gateway customers tend to need next to a cellular gateway in the cabinet: a DIN-rail 4 x Gigabit PoE+ + 1 x SFP industrial switch, model STI-144GP - $34.1 USD EXW, and a 5 x Gigabit industrial switch, model STI-050GE - $17.0 USD EXW (distributor prices, MOQ 1, 15-day validity, CE/RoHS, -40 to 75 C).\n\nOne question: would it help to drop one sample of each at your Shenzhen office for a look?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }
@@ -374317,7 +374329,7 @@
 "next_move": {
 "when": "待 Simon 排期（首封）",
 "channel": "A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)）",
-"action": "首封：按 email_hook 一问",
+"action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））",
 "one_question": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?"
 },
 "facts": [
@@ -374334,7 +374346,10 @@
 "无邮件往来",
 "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
 ],
-"draft_en": null,
+"draft_en": {
+"subject": "Industrial PoE switch for the 22opt.ru listings - $57 per unit, photos available",
+"body": "Hi Pavel,\n\nFollowing your interest in industrial PoE switches (and the GPON question - GPON we do not make): the unit that fits a wholesale listing is a DIN-rail 8 x Gigabit PoE+ + 2 x SFP industrial switch, -40 to 75 C, unmanaged, model STI-288GP - $57.4 USD EXW per unit (MOQ 1, 15-day validity; lower in carton quantities). Product photos and a short spec sheet for the 22opt.ru product cards are ready.\n\nOne question: shall I send the price list and the photos for the listings?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+},
 "as_of": "2026-10-24"
 }
 }

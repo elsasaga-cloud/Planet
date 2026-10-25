@@ -37,7 +37,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封） A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)） 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,7 +48,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。
 - **断点 / 为什么停在这里**：俄罗斯收款 / 制裁 / 物流（经哈萨克斯坦或中欧班列）
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit））——工业 PoE 上架款 → STI-288GP（$57.4 @20%）；商用 8/16/24 PoE 配套 STC-28DGGPM / STC-424DGGPM-280W。
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)）　首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））
   - 第一问（只问一个）：Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -249,27 +249,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
+**主题**：Industrial PoE switch for the 22opt.ru listings - $57 per unit, photos available
 
 ```text
-Hi Gorodilov,
+Hi Pavel,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+Following your interest in industrial PoE switches (and the GPON question - GPON we do not make): the unit that fits a wholesale listing is a DIN-rail 8 x Gigabit PoE+ + 2 x SFP industrial switch, -40 to 75 C, unmanaged, model STI-288GP - $57.4 USD EXW per unit (MOQ 1, 15-day validity; lower in carton quantities). Product photos and a short spec sheet for the 22opt.ru product cards are ready.
 
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: shall I send the price list and the photos for the listings?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?
 
 ## 新跟进记录（仓库外发出后补）
 

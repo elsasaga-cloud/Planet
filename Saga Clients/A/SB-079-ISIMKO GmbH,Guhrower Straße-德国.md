@@ -39,7 +39,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGGM（8 GE + 8 SFP + 4×10G）/ STC-4168XGGCM（16 SFP + 8 Combo） — 总经理亲自问 12 光 12 电 → 工业光纤汇聚；两款就近对位，hook 已带 25% 档价；锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180
 - **第一问（只问一个）**：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → r.hannemann@isimko.de（德语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → r.hannemann@isimko.de（德语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -50,7 +50,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：12 × 光 + 12 × 电 工业汇聚（研究档询价）
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **STI-488DGGGM（8 GE + 8 SFP + 4×10G）/ STC-4168XGGCM（16 SFP + 8 Combo）**（25% 档，锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180）——总经理亲自问 12 光 12 电 → 工业光纤汇聚；两款就近对位，hook 已带 25% 档价
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → r.hannemann@isimko.de（德语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频
+- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → r.hannemann@isimko.de（德语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））
   - 第一问（只问一个）：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文
@@ -254,27 +254,28 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-488DGGGM - industrial L2+ managed switch (Marvell-based, neutral label)
+**主题**：Your 12 x fibre / 12 x copper request - the two closest units
 
 ```text
-Hi Ralph,
+Hi Mr Hannemann,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
+You asked us for one unit with 12 x fibre + 12 x copper ports. We do not build that exact layout; the two closest are:
 
-We supply a Marvell-based industrial L2+ managed switch, 8x Gigabit plus 8 SFP plus 4x 2.5G SFP uplinks - model STI-488DGGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $332.6 USD EXW (valid 15 days).
+- Industrial, DIN-rail, -40 to 75 C: 8 x SFP + 4 x 10G SFP+ and 8 x Gigabit RJ45, L2+ managed, model STI-488DGGGM - $332.6 USD EXW (MOQ 1, 15-day validity)
+- 19-inch rack: 16 x SFP + 8 x combo (SFP / RJ45) + 4 x 10G SFP+, L3, model STC-4168XGGCM - $392.4 USD EXW
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+Both Marvell-based, CE/RoHS, neutral housing; industrial unit with 3-year warranty together with our DIN power supply.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which of the two fits the control cabinet in your project - the DIN-rail unit or the 19-inch one?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 研究档备注（未并入正文）：客户语言一句话（研究档 email_hook；要用就整段单发，不混进英文信）：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 客户语言一句话（研究档 email_hook；对方若不读英文，整段单发 WhatsApp/邮件）：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
 
 ## 新跟进记录（仓库外发出后补）
 

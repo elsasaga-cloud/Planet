@@ -93,7 +93,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → 22opt@mail.ru（Gorodilov Pavel (Городилов Павел)）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））",
    "one_question": "Павел, по промышленным PoE: 8×PoE + 2×SFP, DIN-рейка, −40~75 ℃ — $57 EXW за 1 шт. (оптом дешевле), GPON не делаем; прислать прайс и фото для карточек на 22opt.ru?"
   },
   "facts": [
@@ -110,7 +110,10 @@
    "无邮件往来",
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Industrial PoE switch for the 22opt.ru listings - $57 per unit, photos available",
+   "body": "Hi Pavel,\n\nFollowing your interest in industrial PoE switches (and the GPON question - GPON we do not make): the unit that fits a wholesale listing is a DIN-rail 8 x Gigabit PoE+ + 2 x SFP industrial switch, -40 to 75 C, unmanaged, model STI-288GP - $57.4 USD EXW per unit (MOQ 1, 15-day validity; lower in carton quantities). Product photos and a short spec sheet for the 22opt.ru product cards are ready.\n\nOne question: shall I send the price list and the photos for the listings?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

@@ -111,7 +111,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → enes@ebcoelectronic.com（Enes（姓待核））",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`（= 客户语言钩子句的英文版，客户语言一句话留在备注里））",
    "one_question": "Enes Bey, I/O modülü ürün gamımızda yok; ancak IoT/gateway müşterileriniz için DIN ray 4 port PoE + 1 SFP endüstriyel switch (34,1 USD) ve 5 port endüstriyel switch (17,0 USD) sunabiliriz — Shenzhen ofisinize numune bırakalım mı?"
   },
   "facts": [
@@ -128,7 +128,10 @@
    "无邮件往来",
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "I/O modules - not us; two small industrial switches for your gateway customers",
+   "body": "Hi Enes,\n\nYou asked us about I/O modules through our website - those are not in our range, so a straight no on that.\n\nWhat we do build, and what your IoT / gateway customers tend to need next to a cellular gateway in the cabinet: a DIN-rail 4 x Gigabit PoE+ + 1 x SFP industrial switch, model STI-144GP - $34.1 USD EXW, and a 5 x Gigabit industrial switch, model STI-050GE - $17.0 USD EXW (distributor prices, MOQ 1, 15-day validity, CE/RoHS, -40 to 75 C).\n\nOne question: would it help to drop one sample of each at your Shenzhen office for a look?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
