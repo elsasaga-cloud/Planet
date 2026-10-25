@@ -103,7 +103,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → javier.ferre@multiguide.com（Javier Ferre）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）",
    "one_question": "Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -119,7 +119,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Your Alibaba request for a 1-fibre + 2-copper switch - parking-guidance nodes",
+   "body": "Hi Javier,\n\nYou asked on Alibaba for a 1-fibre + 2-copper commercial switch and did not get a proper answer from us - apologies, here it is.\n\nFor the fibre node in a parking-guidance installation we have two compact DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 1 x SFP + 1 x Gigabit RJ45 (media converter), model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); 2 x SFP + 2 x Gigabit RJ45, model STI-220GE - $30.1. Both can carry the multiGuide label from small lots.\n\nOne question: how many nodes per car park, and do the sensors or displays need PoE from the switch?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）
-- **下一步**：待 Simon 排期（首封） A 邮箱 → javier.ferre@multiguide.com（Javier Ferre） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → javier.ferre@multiguide.com（Javier Ferre） 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）
 - **断点 / 为什么停在这里**：交换机为系统配套（量随项目）；1 SFP + 2 GE 精确规格在 Saga 列表中待核（注明）；未跟进过
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——RFQ 1 光 2 电商用交换机 → 工业千兆 MC STI-110GE（$24.3 @30%，1 SFP + 1 GE，注明口数差异）/ 5 GE STI-050GE（$18.5）；1 SFP + 2 GE 商用型号用 HRUI（列表价，注明）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → javier.ferre@multiguide.com（Javier Ferre）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → javier.ferre@multiguide.com（Javier Ferre）　首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`）
   - 第一问（只问一个）：Javier, following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -218,23 +218,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：Your Alibaba request for a 1-fibre + 2-copper switch - parking-guidance nodes
 
 ```text
 Hi Javier,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your enquiry for a 1-fibre + 2-copper switch for parking-guidance installations: we supply compact fibre-uplink units (1 SFP + 1/2 GE, DIN-rail, −40~75 °C, CE/RoHS) and 5/8-GE switches under your label from small lots, EXW USD — how many nodes per car park, and is PoE needed for sensors or displays?
+You asked on Alibaba for a 1-fibre + 2-copper commercial switch and did not get a proper answer from us - apologies, here it is.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $26.5 USD EXW (valid 15 days).
+For the fibre node in a parking-guidance installation we have two compact DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 1 x SFP + 1 x Gigabit RJ45 (media converter), model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); 2 x SFP + 2 x Gigabit RJ45, model STI-220GE - $30.1. Both can carry the multiGuide label from small lots.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: how many nodes per car park, and do the sensors or displays need PoE from the switch?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

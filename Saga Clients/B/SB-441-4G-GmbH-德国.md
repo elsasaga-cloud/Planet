@@ -35,7 +35,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
-- **下一步**：待 Simon 排期（首封） A 邮箱 → mk@4g-gmbh.de（Michael Kleiböhmer） 首封：按 email_hook 一问
+- **下一步**：待 Simon 排期（首封） A 邮箱 → mk@4g-gmbh.de（Michael Kleiböhmer） 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；STI-280GE 是非管理型（研究档 need 写「管理」有误，信稿按非管理 + 管理型 STI-280GM 分开写））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -46,7 +46,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）
 - **断点 / 为什么停在这里**：已有订单接触（珊姐跟进中，勿重复首触、先核对沟通记录）；官网 unreachable；订单品类为光配件（Saga 列表外）
 - **Saga 现在该推什么**：P1 **STI-280GE**（25% 档，首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit））——Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）
-- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → mk@4g-gmbh.de（Michael Kleiböhmer）　首封：按 email_hook 一问
+- **下一步（具体）**：待 Simon 排期（首封）　A 邮箱 → mk@4g-gmbh.de（Michael Kleiböhmer）　首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；STI-280GE 是非管理型（研究档 need 写「管理」有误，信稿按非管理 + 管理型 STI-280GM 分开写））
   - 第一问（只问一个）：Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -205,23 +205,21 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-280GE - industrial DIN-rail switch (neutral label)
+**主题**：After your OM-FBS-22-SLC order - the Ethernet side of the same installations
 
 ```text
 Hi Michael,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote?
+Thank you for the OM-FBS-22-SLC order through our shop; my colleague handled that one. For the Ethernet side of the same installations we also supply from single units, CE/RoHS: a DIN-rail 8 x Gigabit + 2 x SFP unmanaged switch, -40 to 75 C - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP L2 managed version, Marvell-based - STI-288GPM - $82.2.
 
-We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $46 USD EXW (valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: is there a switch position in your next project I can quote?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

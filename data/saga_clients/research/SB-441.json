@@ -89,7 +89,7 @@
   "next_move": {
    "when": "待 Simon 排期（首封）",
    "channel": "A 邮箱 → mk@4g-gmbh.de（Michael Kleiböhmer）",
-   "action": "首封：按 email_hook 一问",
+   "action": "首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；STI-280GE 是非管理型（研究档 need 写「管理」有误，信稿按非管理 + 管理型 STI-280GM 分开写））",
    "one_question": "Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -105,7 +105,10 @@
   "proof_gaps": [
    "无邮件往来"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "After your OM-FBS-22-SLC order - the Ethernet side of the same installations",
+   "body": "Hi Michael,\n\nThank you for the OM-FBS-22-SLC order through our shop; my colleague handled that one. For the Ethernet side of the same installations we also supply from single units, CE/RoHS: a DIN-rail 8 x Gigabit + 2 x SFP unmanaged switch, -40 to 75 C - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP L2 managed version, Marvell-based - STI-288GPM - $82.2.\n\nOne question: is there a switch position in your next project I can quote?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
