@@ -36,7 +36,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-448DGGGM — 询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）；换人再触锚价 STI-448DGGGM $205.5 EXW（主表档位（PDF 上限 $220）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $65（10G media converter）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports? Reference: STI-448DGGGM at $205.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；阿里询盘「欠答」开头；PoE 版写 on request；钩子「10–15 days」不写）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -47,7 +47,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error；询盘时效待核；19 次无回复 → 改向 CEO 具名续谈
 - **Saga 现在该推什么**：P1 **STI-448DGGGM**（25% 档，换人再触锚价 STI-448DGGGM $205.5 EXW（主表档位（PDF 上限 $220）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $65（10G media converter）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $300（48 Port PoE Managed Switch）、2025-09-02 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2026-06-22 $16000（32 Port 400GB DC Switch））——询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；阿里询盘「欠答」开头；PoE 版写 on request；钩子「10–15 days」不写）
   - 第一问（只问一个）：Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports? Reference: STI-448DGGGM at $205.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -267,23 +267,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-448DGGGM - industrial L2+ managed switch (Marvell-based, neutral label)
+**主题**：Your Alibaba enquiry - 8 fibre + 8 copper managed industrial switch, the proper answer
 
 ```text
-Hi Kim,
+Dear Mr. Kim,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?
+You asked on Alibaba for an 8-fibre + 8-copper managed industrial switch and did not get a proper answer from us - apologies, here it is (the product mails since were general ones).
 
-We supply a Marvell-based industrial L2+ managed switch, 8x Gigabit plus 4 SFP plus 4x 2.5G SFP - model STI-448DGGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $205.5 USD EXW (valid 15 days).
+DIN-rail industrial L2+ managed switch, 8 x Gigabit RJ45 + 4 x 1G SFP + 4 x 1G/2.5G SFP, Marvell-based, -40 to 75 C, redundant 12-58 V DC input, ring redundancy, CE/RoHS - model STI-448DGGGM - $205.5 USD EXW (MOQ 1, 15-day validity); PoE on the copper ports on request. KC stays on your side.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: how many units is the project, and is PoE needed on the copper ports?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 

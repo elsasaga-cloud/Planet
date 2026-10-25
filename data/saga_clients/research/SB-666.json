@@ -90,7 +90,7 @@
     "next_move": {
       "when": "2027-Q1（换人后）",
       "channel": "A 邮箱 → 具名 KP",
-      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封",
+      "action": "首封前知悉：Elsa 仅 2025-02-24 单发过 1 封「90W PoE Managed Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；SECON 两项报价「欠答」开头；「from 50 pcs」不写；STC-2216GPM 为 HRUI）",
       "one_question": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?"
     },
     "facts": [
@@ -121,7 +121,10 @@
       }
     ],
     "proof_gaps": [],
-    "draft_en": null,
+    "draft_en": {
+      "subject": "The two quotes you asked for at SECON - industrial 2 + 8 managed PoE, commercial 16-port",
+      "body": "Dear Mr. Ko,\n\nAt SECON you asked for two quotes - industrial 2-fibre + 8-copper managed PoE, and commercial 16-port PoE - and what you had from us since were general product mails. Here they are, EXW, 15-day validity, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $82.2 USD; commercial 16 x Gigabit PoE+ + 2 x SFP, L2 managed - STC-2216GPM - $147.6. These are single-unit prices; project quantities are priced against the actual number. KC stays on your side.\n\nOne question: which project are these for, and roughly how many of each?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+    },
     "as_of": "2026-10-24"
   }
 }

@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。已打开的主题（1/35 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +30%（028GP $27.2 / 228GP $35.9），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（10G media converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-02-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($35.9) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；管理版明写 2 上联非 2+2；STC-228GP 为 HRUI）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。
 - **断点 / 为什么停在这里**：韩国 KC 认证；44 次跟进无回复
 - **Saga 现在该推什么**：P1 **STC-228GP**（30% 档，第 73 批 2026-10-24：无管理款按洪瑞 2026-09-30 进价 +30%（028GP $27.2 / 228GP $35.9），旧表 $24/$31 不用；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（10G media converter）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $300（48 Port PoE Managed Switch）、2025-02-28 $240（24 Port Fiber Switch）、2025-10-01 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch））——2 SFP + 2 GE + 8 PoE = HRUI 列表 STC-228GP（$30.8，非管理）；管理型升级 STC-28DGGPM（$87.4 @30%）；OEM 口径。已打开的主题（1/35 封有打开记录）：「48 Port PoE Managed Switch」(2024-12-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ae) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；KC stays on your side）；管理版明写 2 上联非 2+2；STC-228GP 为 HRUI）
   - 第一问（只问一个）：Byron, the 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($35.9) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -300,23 +300,23 @@ Assistant Manager
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：The 2 + 2 + 8 unit you asked about - unmanaged exists exactly, managed is 2 SFP + 8
 
 ```text
 Hi Byron,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. The 2-SFP + 2-GE uplink + 8-PoE unit you asked about exists in unmanaged ($35.9) and Marvell L2+ managed ($87) versions, and can carry the INTERCOAX label from small lots; which one matches the EoC kits you ship?
+Over the past months you had a steady stream of product mails from us - most recently "Industrial PoE Switch" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $35.9 USD EXW (valid 15 days).
+You bought samples from us before and asked about a 2 x SFP + 2 x Gigabit uplink + 8 x PoE unit. Exactly that layout exists unmanaged: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP - model STC-228GP - $35.9 USD EXW with the INTERCOAX label (MOQ 1, 15-day validity). The managed version is 8 x Gigabit PoE+ + 2 x SFP, L2+ on a Marvell platform - STC-28DGGPM - $87.4 - two uplinks, not four, said up front. CE/RoHS; KC stays on your side.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: which one matches the EoC kits you ship - the unmanaged 2 + 2 + 8, or managed?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
