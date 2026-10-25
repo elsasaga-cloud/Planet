@@ -103,7 +103,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
+   "action": "换收件人再发一封（第 75 批(aa) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））",
    "one_question": "Cesar, for the industrial switches and media converters sold under the Fiber Optic Link label, we can be an ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, gigabit/PoE MC; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which model do your dealers reorder most? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -125,7 +125,10 @@
    }
   ],
   "proof_gaps": [],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "Industrial switches and converters under the Fiber Optic Link label - an ODM source that leaves your margin intact",
+   "body": "Hi Cesar,\n\nOver the past months you had a few product mails from us - most recently \"Industrial PoE Switch\" on 24 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches and media converters sold under the Fiber Optic Link label, an ODM source in your housing from small lots, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5; PoE version - STI-111GP - $30.1. ONUs and GPON gear we do not carry.\n\nOne question: which model do your dealers reorder most - the managed switch or the converter?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }
