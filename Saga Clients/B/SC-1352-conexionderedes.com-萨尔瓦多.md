@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1352` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）** ｜ 类型：集成商转发 ｜ 筛子：3（资料转发层面） ｜ 停点：他把 CENTEC 资料转给 DC 客户后沉默；我们 09-09 推的是 16 口 DIN PoE，与 DC 无关 ｜ 复活：一句话问 DC 客户的反馈/是否已定；不再推新品 ｜ 通路：中美洲 非主攻（其他 B） ｜ 节奏：季度 ｜ 证据：gmail_a 2024-08-05 → 2026-09-09；digest in 3 / out 24
+- **绑定等级：轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）；Elsa 箱 to:conexionderedes.com 逐户查 0（`from:e.sagatelecom to:conexionderedes.com` complete，含 spam/trash）（第 74 批(o)）** ｜ 类型：集成商转发 ｜ 筛子：3（资料转发层面） ｜ 停点：他把 CENTEC 资料转给 DC 客户后沉默；我们 09-09 推的是 16 口 DIN PoE，与 DC 无关 ｜ 复活：一句话问 DC 客户的反馈/是否已定；不再推新品 ｜ 通路：中美洲 非主攻（其他 B） ｜ 节奏：季度 ｜ 证据：gmail_a 2024-08-05 → 2026-09-09；digest in 3 / out 24
 - **现状一句话**：萨尔瓦多集成商总经理 Antonio 2026-01 把 CENTEC 资料（PeakNetX V3.1 / Function List V2.4 / STH25G）转给一个数据中心客户，承诺反馈后沉默；此后 Saga 只发了群发和一封不相关的 DIN PoE 推送。
 - **对方真实需求（有据）**：数据中心客户的核心/汇聚方案（CENTEC 25G/100G）；更早对光纤旁路机有兴趣。
 - **断点 / 为什么停在这里**：「I'll leave you with some feedback」之后没人追问；我们的下一封是 16 口 DIN PoE——话题断了。
@@ -279,12 +279,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 7）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 7）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

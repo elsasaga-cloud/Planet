@@ -1,5 +1,5 @@
 {
- "_note": "第 74 批(g) 2026-10-25 03:15Z–03:25Z：A 级（含 grade_override A）尚未核实 Elsa 触达的 66 户逐户 `in:sent to:<域>`（max 5）；0 条且 complete:true = Elsa 箱从未发过本域（To 与 Bcc 都查）。另 17 户为第 73 批(o) 2026-10-24 的逐户 0 结果补记。SC-1006 域为 live.com.my 免费邮箱，未探。 第 74 批(h) 03:16Z–03:19Z：美国/加拿大 B 级 116 户逐户同法（115 户 0，1 户命中拉美批）。 第 74 批(i) 03:21Z–03:25Z：土耳其 B 级 100 户逐户同法（100 户全 0，complete）。 第 74 批(j) 03:26Z–03:31Z：德国 24 / 英国 18 / 意大利 27 共 69 户 B 级逐户同法（全 0，complete；SB-459 只查 casecomms.com，uk.com 泛域不查）。 第 74 批(k) 03:29Z–03:33Z：欧洲其余 22 国 B 级 70 户逐户同法（西 8 / 立陶宛 6 / 白俄 6 / 法 5 / 捷 5 / 保 5 / 塞尔维亚 5 / 格鲁吉亚 4 / 塞浦路斯 4 / 瑞士 3 / 挪威 3 / 葡 3 / 斯洛伐克 2 / 荷 2 / 波 2 / 乌 / 匈 / 罗 / 爱 / 比 / 瑞典 / 克 各 1；全 0，complete；SB-021 只查 avicam-bg.com）。 第 74 批(l) 03:33Z–03:43Z：俄罗斯 B 级 43 户逐户（36 零 / 7 命中：SB-045 tdtorus、SB-1006 trassir、SB-1011 dexi → 锚 sales@cmd-sec.ru（RU-3，15 轮）；SB-980 hunter-cctv、SB-997 polyvision → 锚 sales@soyuzsp.ru（RU-4，13 轮）；SB-930 optimus-cctv、SB-985 keno-cctv 双锚）；同时纠正「201+」= result_size_estimate 估算伪数，六锚真实轮数 11–15 ｜ (m) 03:45Z–04:02Z：对 120 个有 elsa_1to1 事实的 A/B 户逐户 `from:e.sagatelecom to:<地址>`（to 列水合、complete:true）拉全程 365 行：84 户 = 2025-02 单发 1 封后再没碰；30 户 = 逐月 1:1 名单（3–16 轮；个性化「Hi, <名>」= 回过一次信的人，无称呼「Hi,」= PH/ID/MX/KZ 等单发名单）；5 户本身是锚（dozor23 / kosovaku / thuyluc1973 / fibresales / gunjan@xexagon）；To≠本户的行 = 本户在该轮锚的 Bcc 里 → 新增锚 9 个（bcc_batches_2026.json 批次 70–84，anchors 53）。规律：客户回信后 Elsa 把他从 Bcc 名单剔出、转进 1:1 名单。 (n) 2026-10-25 04:09Z：其余 B（韩/澳/印/新/阿联酋/台/泰/马/巴基斯坦/以/沙/越/南非/巴西/印尼/菲/日/肯/哈/黎/伊等 303 户）按国别 6 户一组 OR 查 in:sent（complete）；191 户所在组为 0 → 逐户记 0；112 户所在组有命中 → 逐户 from:e.sagatelecom to:<域> 复核（见 (o)）。 (n-2 04:19Z) 27 个命中组拆 112 户逐户 from:e.sagatelecom to:<户> 全程：68 户 0（本列表）、22 户直收 1:1（patch_n.py）、22 户锚 Bcc（patch_n.py）；新见锚 sofyan/desmond/panaji/virtual_eye/amr_sha/techzoneme/baycom/ags-electronics/wisali/hoangvanco/thuanan/stephengala/fibresales/setevoe/flavioprogramado 的轮次记在各户 facts，不另登 bcc_batches。",
+ "_note": "第 74 批(g) 2026-10-25 03:15Z–03:25Z：A 级（含 grade_override A）尚未核实 Elsa 触达的 66 户逐户 `in:sent to:<域>`（max 5）；0 条且 complete:true = Elsa 箱从未发过本域（To 与 Bcc 都查）。另 17 户为第 73 批(o) 2026-10-24 的逐户 0 结果补记。SC-1006 域为 live.com.my 免费邮箱，未探。 第 74 批(h) 03:16Z–03:19Z：美国/加拿大 B 级 116 户逐户同法（115 户 0，1 户命中拉美批）。 第 74 批(i) 03:21Z–03:25Z：土耳其 B 级 100 户逐户同法（100 户全 0，complete）。 第 74 批(j) 03:26Z–03:31Z：德国 24 / 英国 18 / 意大利 27 共 69 户 B 级逐户同法（全 0，complete；SB-459 只查 casecomms.com，uk.com 泛域不查）。 第 74 批(k) 03:29Z–03:33Z：欧洲其余 22 国 B 级 70 户逐户同法（西 8 / 立陶宛 6 / 白俄 6 / 法 5 / 捷 5 / 保 5 / 塞尔维亚 5 / 格鲁吉亚 4 / 塞浦路斯 4 / 瑞士 3 / 挪威 3 / 葡 3 / 斯洛伐克 2 / 荷 2 / 波 2 / 乌 / 匈 / 罗 / 爱 / 比 / 瑞典 / 克 各 1；全 0，complete；SB-021 只查 avicam-bg.com）。 第 74 批(l) 03:33Z–03:43Z：俄罗斯 B 级 43 户逐户（36 零 / 7 命中：SB-045 tdtorus、SB-1006 trassir、SB-1011 dexi → 锚 sales@cmd-sec.ru（RU-3，15 轮）；SB-980 hunter-cctv、SB-997 polyvision → 锚 sales@soyuzsp.ru（RU-4，13 轮）；SB-930 optimus-cctv、SB-985 keno-cctv 双锚）；同时纠正「201+」= result_size_estimate 估算伪数，六锚真实轮数 11–15 ｜ (m) 03:45Z–04:02Z：对 120 个有 elsa_1to1 事实的 A/B 户逐户 `from:e.sagatelecom to:<地址>`（to 列水合、complete:true）拉全程 365 行：84 户 = 2025-02 单发 1 封后再没碰；30 户 = 逐月 1:1 名单（3–16 轮；个性化「Hi, <名>」= 回过一次信的人，无称呼「Hi,」= PH/ID/MX/KZ 等单发名单）；5 户本身是锚（dozor23 / kosovaku / thuyluc1973 / fibresales / gunjan@xexagon）；To≠本户的行 = 本户在该轮锚的 Bcc 里 → 新增锚 9 个（bcc_batches_2026.json 批次 70–84，anchors 53）。规律：客户回信后 Elsa 把他从 Bcc 名单剔出、转进 1:1 名单。 (n) 2026-10-25 04:09Z：其余 B（韩/澳/印/新/阿联酋/台/泰/马/巴基斯坦/以/沙/越/南非/巴西/印尼/菲/日/肯/哈/黎/伊等 303 户）按国别 6 户一组 OR 查 in:sent（complete）；191 户所在组为 0 → 逐户记 0；112 户所在组有命中 → 逐户 from:e.sagatelecom to:<域> 复核（见 (o)）。 (n-2 04:19Z) 27 个命中组拆 112 户逐户 from:e.sagatelecom to:<户> 全程：68 户 0（本列表）、22 户直收 1:1（patch_n.py）、22 户锚 Bcc（patch_n.py）；新见锚 sofyan/desmond/panaji/virtual_eye/amr_sha/techzoneme/baycom/ags-electronics/wisali/hoangvanco/thuanan/stephengala/fibresales/setevoe/flavioprogramado 的轮次记在各户 facts，不另登 bcc_batches。 (o 04:26Z) A/B 最后 38 户无 Elsa 口径者收口：10 户有地址逐户查（8 命中：SA-118 golf 锚 Bcc 8 + 直收 6、SA-076 axuse 锚 Bcc 6、SB-325/SC-1006 sofyan 锚 Bcc 9、SC-1034 desmond 锚 Bcc 7、SB-437 直收 8、SB-487 直收 2、SC-2186 单发 1；SC-1352 0；SB-679 按 U51 不动）；28 户仓内无邮箱/域名 → noaddr[]（不写未触达）。zero 728 / hits 57 / noaddr 28。",
  "zero": [
   {
    "code": "SA-001",
@@ -3574,6 +3574,11 @@
    "code": "SB-914",
    "q": "to:prismwifi.com",
    "as_of": "2026-10-25 第 74 批(n)"
+  },
+  {
+   "code": "SC-1352",
+   "q": "to:conexionderedes.com",
+   "as_of": "2026-10-25"
   }
  ],
  "hits": {
@@ -4023,6 +4028,126 @@
    "last": "2026-08-05",
    "anchors": null,
    "as_of": "2026-10-25 第 74 批(n)"
+  },
+  "SA-118": {
+   "q": "to:topica.mn",
+   "kind": "bcc8+direct6",
+   "rounds": 14,
+   "first": "2025-02-24",
+   "last": "2026-08-04",
+   "anchors": [
+    "info@golfautomation.co.in"
+   ],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
+  },
+  "SA-076": {
+   "q": "to:impakt.com.pl",
+   "kind": "bcc",
+   "rounds": 6,
+   "first": "2025-04-03",
+   "last": "2025-08-25",
+   "anchors": [
+    "info@axuse.com"
+   ],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
+  },
+  "SB-325": {
+   "q": "to:th-it.com",
+   "kind": "bcc",
+   "rounds": 9,
+   "first": "2025-04-11",
+   "last": "2026-09-08",
+   "anchors": [
+    "sofyan@mutiara-teknologi.com.my"
+   ],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
+  },
+  "SB-437": {
+   "q": "(to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)",
+   "kind": "direct",
+   "rounds": 8,
+   "first": "2025-06-09",
+   "last": "2026-08-10",
+   "anchors": [],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
+  },
+  "SB-487": {
+   "q": "to:quanglam.com.vn",
+   "kind": "direct",
+   "rounds": 2,
+   "first": "2026-02-13",
+   "last": "2026-08-10",
+   "anchors": [],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
+  },
+  "SC-1034": {
+   "q": "to:marugged.com",
+   "kind": "bcc",
+   "rounds": 7,
+   "first": "2025-04-12",
+   "last": "2026-09-08",
+   "anchors": [
+    "desmond@multitradepac.com"
+   ],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
+  },
+  "SC-2186": {
+   "q": "to:arnoldomohr@gmail.com",
+   "kind": "direct",
+   "rounds": 1,
+   "first": "2025-02-18",
+   "last": "2025-02-18",
+   "anchors": [],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
+  },
+  "SC-1006": {
+   "q": "(to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)",
+   "kind": "bcc",
+   "rounds": 9,
+   "first": "2025-04-11",
+   "last": "2026-09-08",
+   "anchors": [
+    "sofyan@mutiara-teknologi.com.my"
+   ],
+   "as_of": "2026-10-25",
+   "batch": "第 74 批(o)"
   }
- }
+ },
+ "noaddr": [
+  "SA-022",
+  "SA-059",
+  "SB-095",
+  "SB-1014",
+  "SB-1135",
+  "SB-1279",
+  "SB-1280",
+  "SB-1281",
+  "SB-1332",
+  "SB-1333",
+  "SB-157",
+  "SB-296",
+  "SB-333",
+  "SB-384",
+  "SB-387",
+  "SB-515",
+  "SB-516",
+  "SB-574",
+  "SB-576",
+  "SB-606",
+  "SB-630",
+  "SB-790",
+  "SB-792",
+  "SB-794",
+  "SB-804",
+  "SB-806",
+  "SB-807",
+  "SB-931"
+ ]
 }

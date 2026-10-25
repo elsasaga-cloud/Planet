@@ -1,100 +1,100 @@
 {
- "code": "SB-804",
- "name_official": "Steve（+63 917；表内国家印度尼西亚，电话为菲律宾）",
- "researched_at": "2026-10-21",
- "website_status": "无域名、无邮箱",
- "summary": "WhatsApp 联系人 Steve（电话 +63 为菲律宾号，表内国家印尼 — 待核），问过 2 光 4 电 PoE 未成；WA 4 次无实质回复。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "问过 2 光 4 电 POE 没成；电话 639178552172（菲律宾国码）",
-   "quote": "兴趣：问过2光4电 POE 没成",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [
-  {
-   "name": "Steve",
-   "title": "（表内联系人）",
-   "email": "",
-   "phone": "+63 917 855 2172",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
-  }
- ],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（未知）",
-  "founded": "",
-  "hq": "（菲律宾？表内印尼，待核）",
+  "code": "SB-804",
+  "name_official": "Steve（+63 917；表内国家印度尼西亚，电话为菲律宾）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名、无邮箱",
+  "summary": "WhatsApp 联系人 Steve（电话 +63 为菲律宾号，表内国家印尼 — 待核），问过 2 光 4 电 PoE 未成；WA 4 次无实质回复。",
+  "type": "",
   "size": "",
-  "other": "仅 WhatsApp"
- },
- "channels": {
-  "role": "（未知）",
-  "region": "东南亚"
- },
- "risks": [
-  "无邮箱；国别待核"
- ],
- "saga_fit": {
-  "p1": "STI-244GP",
-  "tier": 25,
-  "why": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。"
- },
- "email_hook": "（无邮箱；WhatsApp 报 STI-244GP $36.6）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问过2光4电 POE 没成」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
-   "lane": "印度尼西亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：问过2光4电 POE 没成」；研究档 risks：无邮箱；国别待核"
-  },
-  "situation": "WhatsApp 联系人 Steve（电话 +63 为菲律宾号，表内国家印尼 — 待核），问过 2 光 4 电 PoE 未成；WA 4 次无实质回复。",
-  "need": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。",
-  "breakpoint": "无邮箱；国别待核",
-  "saga_now": {
-   "p1": "STI-244GP",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：问过2光4电 POE 没成",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "问过 2 光 4 电 POE 没成；电话 639178552172（菲律宾国码）",
+      "quote": "兴趣：问过2光4电 POE 没成",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "kp": [
+    {
+      "name": "Steve",
+      "title": "（表内联系人）",
+      "email": "",
+      "phone": "+63 917 855 2172",
+      "source": "（本地 Clients/ 表格，无公开 URL）"
+    }
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "（菲律宾？表内印尼，待核）",
+    "size": "",
+    "other": "仅 WhatsApp"
+  },
+  "channels": {
+    "role": "（未知）",
+    "region": "东南亚"
+  },
+  "risks": [
+    "无邮箱；国别待核"
+  ],
+  "saga_fit": {
+    "p1": "STI-244GP",
+    "tier": 25,
+    "why": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。"
+  },
+  "email_hook": "（无邮箱；WhatsApp 报 STI-244GP $36.6）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问过2光4电 POE 没成」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）；WhatsApp 已加 → 唤醒走 WhatsApp 一句话，不走邮件",
+      "lane": "印度尼西亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：问过2光4电 POE 没成」；研究档 risks：无邮箱；国别待核"
+    },
+    "situation": "WhatsApp 联系人 Steve（电话 +63 为菲律宾号，表内国家印尼 — 待核），问过 2 光 4 电 PoE 未成；WA 4 次无实质回复。",
+    "need": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。",
+    "breakpoint": "无邮箱；国别待核",
+    "saga_now": {
+      "p1": "STI-244GP",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "2 光 4 电 PoE = STI-244GP（$36.6 @25%）。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：问过2光4电 POE 没成",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

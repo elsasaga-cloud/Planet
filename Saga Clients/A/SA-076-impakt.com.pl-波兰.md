@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -44,7 +44,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-076` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）** ｜ 类型：波兰自有品牌集团（Lanberg / Genesis / Natec…）+ 分销——第一档 OEM 类型；波兰 = 次重点市场；Elsa 曾先接触（Alan 2025-09-29 原话） ｜ 筛子：2 ｜ 停点：2025-10-03 Alan 报 1G SFP MC 13 USD/pc（MOQ 1）→ 10-15 追问无回；此后群发只发给 Bartosz（不是 Łukasz） ｜ 复活：Łukasz 的 Lanberg MC/交换机补 SKU 立项；给他一张 MC + 8/16 口 PoE 的 CE 版对位表 ｜ 通路：PL/EU（CE 有） ｜ 节奏：2024-06 → 2026-09 去信 30 封；最后来信 2025-10-03 ｜ 证据：k=93d83062626fac30 / 897f6d9873002938 / c220bcc3035956bf / 43168b7db932dd31
+- **绑定等级：未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）；Elsa 群发 BCC 已触达 6 轮 2025-04-03→2025-08-25（锚 To info@axuse.com，本户在 Bcc）→ 08-25「90W PoE Managed Switch」那轮 Łukasz 回信 → Elsa 08-26 / 09-25 Re:（已入库）→ 之后剔出 Bcc（10-09 头 199c8653559f6d15 Bcc 27 人已无 impakt）；即 Impakt 的线索源头是 Elsa 群发 Bcc，不是 A 邮箱** ｜ 类型：波兰自有品牌集团（Lanberg / Genesis / Natec…）+ 分销——第一档 OEM 类型；波兰 = 次重点市场；Elsa 曾先接触（Alan 2025-09-29 原话） ｜ 筛子：2 ｜ 停点：2025-10-03 Alan 报 1G SFP MC 13 USD/pc（MOQ 1）→ 10-15 追问无回；此后群发只发给 Bartosz（不是 Łukasz） ｜ 复活：Łukasz 的 Lanberg MC/交换机补 SKU 立项；给他一张 MC + 8/16 口 PoE 的 CE 版对位表 ｜ 通路：PL/EU（CE 有） ｜ 节奏：2024-06 → 2026-09 去信 30 封；最后来信 2025-10-03 ｜ 证据：k=93d83062626fac30 / 897f6d9873002938 / c220bcc3035956bf / 43168b7db932dd31
 - **现状一句话**：Impakt 的产品开发经理 Łukasz Gąsiewicz 2025-09-29 主动转发同事 Bartosz 收到的群发并要「actual offer」，10-03 贴图说「We looking for devices like this with CE power supply. Prices? MOQ?」——是 1G SFP 媒体转换器。Alan 报 13 USD/pc、MOQ 1、附规格书，10-15 追问后无回。之后的群发全部发回 Bartosz，Łukasz 再没收到针对性内容。
 - **对方真实需求（有据）**：Lanberg 品牌的 MC（CE 电源）与小型交换机补 SKU；价格敏感（自有品牌比价）。
 - **断点 / 为什么停在这里**：决策人找对了、产品找对了、价格给了，停在「没有第二封针对性的信」——群发名单没有把 Łukasz 设为主收件人。
@@ -55,6 +55,11 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-04-03 | 去 | Elsa 群发（BCC；To info@axuse.com） | Mini Industrial PoE Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To info@axuse.com） | 第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-04-28 | 去 | Elsa 群发（BCC；To info@axuse.com） | 48 Port PoE Managed Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To info@axuse.com） | 第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-05-25 | 去 | Elsa 群发（BCC；To info@axuse.com） | 48 Port PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To info@axuse.com） | 第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-06-25 | 去 | Elsa 群发（BCC；To info@axuse.com） | Marvell Alleycat5 Solution（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To info@axuse.com） | 第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-07-25 | 去 | Elsa 群发（BCC；To info@axuse.com） | 16 Port Ethernet Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To info@axuse.com） | 第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
 | 2025-08-25 | 来（E 邮箱） | support@lanberg.pl → lukasz.gasiewicz@impakt.com.pl | RE: [EXTERNAL] 90W PoE Managed Switch | Lanberg（SB-590）支持邮箱把 Saga 的信转到 Impakt 采购——两户同一体系 | `gmail_e/index_replied` |
 | 2025-08-26 | 去 | Elsa | Please see attached file and check on the links.（附 Download Link_Alan.pdf；抄 support@lanberg.pl） | Elsa 首回只给下载链接 | `gmail_e 198e64376d9fa3ca` |
 | 2025-09-16 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「24PoE」→ 对方「INFO」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.25 2025.9.16` |
@@ -327,12 +332,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 74）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 74）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

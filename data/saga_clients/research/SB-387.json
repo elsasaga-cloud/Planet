@@ -1,95 +1,95 @@
 {
- "code": "SB-387",
- "name_official": "Rolins（印度尼西亚；个人）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（仅表内信息）",
- "summary": "印尼联系人 Rolins（+62 852），兴趣「FS 板子」（光纤交换机板卡），2025-06 问「12–24 SFP switch ready?」（全光口汇聚机）；无邮箱。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣 FS 板子；回复 12-24 sfp switch ready?",
-   "quote": "兴趣：FS板子；回复：12-24 sfp switch ready?",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（未知）",
-  "founded": "",
-  "hq": "印度尼西亚",
+  "code": "SB-387",
+  "name_official": "Rolins（印度尼西亚；个人）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "印尼联系人 Rolins（+62 852），兴趣「FS 板子」（光纤交换机板卡），2025-06 问「12–24 SFP switch ready?」（全光口汇聚机）；无邮箱。",
+  "type": "",
   "size": "",
-  "other": "仅 WhatsApp"
- },
- "channels": {
-  "role": "（未知，疑 ISP/工程商）",
-  "region": "印度尼西亚"
- },
- "signals": [
-  "明确型号级需求：12–24 口全 SFP 交换机"
- ],
- "risks": [
-  "商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高"
- ],
- "saga_fit": {
-  "p1": "STI-4168DGGCM-U",
-  "tier": 25,
-  "why": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。"
- },
- "email_hook": "（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：FS板子；回复：12-24 sfp switch ready?」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "印度尼西亚 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：FS板子；回复：12-24 sfp switch ready?」；研究档 risks：商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高"
-  },
-  "situation": "印尼联系人 Rolins（+62 852），兴趣「FS 板子」（光纤交换机板卡），2025-06 问「12–24 SFP switch ready?」（全光口汇聚机）；无邮箱。",
-  "need": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。",
-  "breakpoint": "商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高",
-  "saga_now": {
-   "p1": "STI-4168DGGCM-U",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：FS板子；回复：12-24 sfp switch ready?",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣 FS 板子；回复 12-24 sfp switch ready?",
+      "quote": "兴趣：FS板子；回复：12-24 sfp switch ready?",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "印度尼西亚",
+    "size": "",
+    "other": "仅 WhatsApp"
+  },
+  "channels": {
+    "role": "（未知，疑 ISP/工程商）",
+    "region": "印度尼西亚"
+  },
+  "signals": [
+    "明确型号级需求：12–24 口全 SFP 交换机"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "risks": [
+    "商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高"
+  ],
+  "saga_fit": {
+    "p1": "STI-4168DGGCM-U",
+    "tier": 25,
+    "why": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。"
+  },
+  "email_hook": "（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：FS板子；回复：12-24 sfp switch ready?」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "印度尼西亚 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：FS板子；回复：12-24 sfp switch ready?」；研究档 risks：商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高"
+    },
+    "situation": "印尼联系人 Rolins（+62 852），兴趣「FS 板子」（光纤交换机板卡），2025-06 问「12–24 SFP switch ready?」（全光口汇聚机）；无邮箱。",
+    "need": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。",
+    "breakpoint": "商用全光口 24 SFP 机 Saga 价目无；仅工业 STI-4168DGGCM-U（16 SFP + 8 combo）价高",
+    "saga_now": {
+      "p1": "STI-4168DGGCM-U",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "12–24 SFP 需求唯一对位 = Saga 工业 STI-4168DGGCM-U（16×SFP + 8 combo + 4×2.5G SFP，$421.5/439.1/456.7）；商用 24 SFP 款需按 SmartByte 型号另询并注明。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：FS板子；回复：12-24 sfp switch ready?",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

@@ -87,7 +87,7 @@
   "mail_review": {
     "as_of": "2026-10-24",
     "binding": {
-      "level": "轻度触达（A 邮箱 5 封实质来信：2026-01-15/01-19 对 CENTEC 表兴趣 + 2 月项目；03-10/03-11 带终端客户 C9300L-48P-4X 等价 + 堆叠 8 台需求；Alan 03-12 给 STH-2QX4DX48GP-HSI 堆叠参数并问数量 → 无回 7 个月）",
+      "level": "轻度触达（A 邮箱 5 封实质来信：2026-01-15/01-19 对 CENTEC 表兴趣 + 2 月项目；03-10/03-11 带终端客户 C9300L-48P-4X 等价 + 堆叠 8 台需求；Alan 03-12 给 STH-2QX4DX48GP-HSI 堆叠参数并问数量 → 无回 7 个月）；Elsa 1:1 去信 1 封（2025-02-18「16 Port Ethernet Switch」DIN 16 口千兆稿，To 仅 arnoldomohr@gmail.com，头 19518491f1515deb 无 Bcc，称呼「Hi, Mr. Arnoldo」）——他 2026-01 才在 A 邮箱主动写 CENTEC，比 Elsa 这封晚 11 个月；全箱 `from:e.sagatelecom to:arnoldomohr@gmail.com` 仅此 1 条，complete",
       "type": "方案商（为终端客户选型）",
       "sieve": "4~5（具体型号 + 堆叠参数层面）",
       "stop": "停在「what is the quantity you need?」（2026-03-12 去）——他要先回客户，后无音；STH1G 无价也让我们没法主动给数",
@@ -129,6 +129,15 @@
         "quote": "「Its not free samples, we do not do free samples. **90usd/pc, STC-2224GFP-24V** 2×1G SFP + 2×GE 上联 + 24×100M PoE 下联，非管理，被动 PoE 300W，AC，1U，含电源线。Please let me know if you decide to proceed」+ 被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%",
         "why": "样品价 $90 给了就无回——这位的模式是「免费样品 / 高端项目」两头问，没有付费动作；2026-03 的 8 台堆叠需求也无回。下一步只回不追",
         "k": "k=c9057ef48518bc9c（S 邮箱 2024-11-24 01:46Z）；附件 sha=052eecb9f79ac4d7"
+      },
+      {
+        "date": "2025-02-18",
+        "dir": "out",
+        "who": "Elsa → arnoldomohr@gmail.com",
+        "quote": "16 Port Ethernet Switch（Elsa 1:1 第 1/1 轮；To 仅本户）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:arnoldomohr@gmail.com` 全程 complete：1 行；To=本户 ⇒ 1:1 直收",
+        "k": "elsa_1to1",
+        "msg_id": "19518491f1515deb"
       },
       {
         "date": "2026-01-15",

@@ -110,7 +110,7 @@
   },
   "mail_review": {
     "binding": {
-      "level": "轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）",
+      "level": "轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户 rajaking@/wizardsinc.co 在 Bcc）——**2026-08 成单之后（09-08）仍收到 $170 的 24 口 PoE 群发稿**；成单户不该留在群发 Bcc 里",
       "type": "吉隆坡 ICT/门禁/CCTV 集成商（Technology Park Malaysia 孵化器；CEO Raja Kumaran）——第四档集成商，但一次就买了 7 台管理/非管理工业 PoE 做测试",
       "sieve": "5（T/T 全款，RMB 结算，EXW 发到客户在华货代）",
       "stop": "无——单子在 2026-08-21，距今 2 个月；「Sample Testing」说明后面有项目",
@@ -139,7 +139,7 @@
     "next_move": {
       "when": "现在（距发货 ≈2 个月）",
       "channel": "WhatsApp（Simon）",
-      "action": "一句话问测试结论与项目批量",
+      "action": "先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量",
       "one_question": "Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?"
     },
     "facts": [
@@ -150,6 +150,78 @@
         "quote": "名单行：「47 WizardsInc Sdn Bhd 马来西亚 Raja King 公海 产品线比较像 rajaking@live.com.my 60 12-203 6165 已加」",
         "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
         "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
+        "date": "2025-04-11",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19623a5f07b9a5bf"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19699a96e93d4ea9"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "1973f4fbd2176398"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "197d44f5b17bb6b9"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "199b7cd286b8997d"
+      },
+      {
+        "date": "2025-11-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19a9f3c99302ff20"
+      },
+      {
+        "date": "2026-02-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19c2c14168a821f5"
+      },
+      {
+        "date": "2026-04-29",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19dd7f65aff0636e"
       },
       {
         "date": "2026-08-18",
@@ -182,10 +254,20 @@
         "quote": "LT-IS3210GP-2GX8T → STI-288GPM ×2 @¥460；LT-IS6018GP-2GX16GT-STI → STI-21616GP ×4 @¥952；LT-IS6318GP-2GX16GT → STI-21616GPM ×1 @¥1,280；明纬 NDR-240-48 ×7 @¥220；工业 SFP STI-G20-SD / STI-G2-MD 各 14 @¥28；货拉拉运费 ¥193；合计 ¥8,525。",
         "why": "对照 PI ¥10,500：整单毛利 **18.8%**；分项 STI-288GPM 550/460 = 16.4%、STI-21616GP 1,140/952 = 16.5%、STI-21616GPM 1,550/1,280 = 17.4%、NDR 270/220 = 18.5%、SFP 50/28 = 44%——整机没到 Marvell 25% 底线，是光模块把整单拉到 18.8%；08-18 报价单里 NDR 报 ¥170、288GP 非管理 ¥400，三天后 PI 改成 NDR ¥270、288GPM 管理 ¥550（客户自己升级）",
         "k": "PI 包 `19_马来西亚_Raja_可发展/郑州仨戛…P20260821-01_未税8525RMB.doc` + `STS-20260818-001.xlsx` + `STSC20260821019.xlsx`"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；成单（2026-08 PI）之后仍在 Bcc",
+        "k": "elsa_bcc",
+        "msg_id": "1a07fb58f139416e"
       }
     ],
     "proof_gaps": [
-      "WhatsApp 往来未入库；无邮件"
+      "WhatsApp 往来未入库；无邮件",
+      "成单户仍在 Elsa 群发 Bcc 名单（sofyan 锚，2026-09-08 仍收）——剔出后只走 1:1/WhatsApp（第 74 批(o)）"
     ],
     "draft_en": {
       "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",

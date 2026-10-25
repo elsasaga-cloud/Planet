@@ -81,7 +81,7 @@
   "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）",
+      "level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户在 Bcc）；2026-09-08 那轮「24 Port PoE Managed Switch」即被回「we don't need this currently」——第二次拒之后仍在 Bcc 名单上（剔除名单 §一 已列）",
       "type": "马来西亚 IT 租赁商（TH-IT）",
       "sieve": "1",
       "stop": "两次书面拒绝；2027 前不发；若再发只发给采购口而非 Rental Sales Manager",
@@ -133,12 +133,93 @@
         "k": "8ceb773d69d13c9f"
       },
       {
+        "date": "2025-04-11",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19623a5f07b9a5bf"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19699a96e93d4ea9"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "1973f4fbd2176398"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "197d44f5b17bb6b9"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "199b7cd286b8997d"
+      },
+      {
+        "date": "2025-11-20",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19a9f3c99302ff20"
+      },
+      {
+        "date": "2026-02-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19c2c14168a821f5"
+      },
+      {
+        "date": "2026-04-29",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19dd7f65aff0636e"
+      },
+      {
         "date": "2026-09-08",
         "dir": "来",
         "who": "Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚）",
         "quote": "Thanks, we don't need this currently.",
         "why": "Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发",
         "k": "Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；就是这封被回「we don't need this currently」",
+        "k": "elsa_bcc",
+        "msg_id": "1a07fb58f139416e"
       }
     ],
     "proof_gaps": [],

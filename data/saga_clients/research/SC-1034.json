@@ -77,7 +77,7 @@
   "email_hook": "Which PLANET wall-mount or DIN PoE model do your customers spec most, and would a 3-year-warranty alternative at a lower price fit your line card?",
   "mail_review": {
     "binding": {
-      "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）",
+      "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com，本户在 Bcc；最近一轮 2026-09-08「24 Port PoE Managed Switch」）；0 回；S 邮箱那 1 封之外还有这 7 轮——「未触达」是 S/A 口径",
       "type": "—",
       "sieve": "1（只收到群发）",
       "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
@@ -111,6 +111,69 @@
         "quote": "名单行：「5 https://marugged.com/serial-converters/ 马来西亚 Moxa sales@marugged.com」",
         "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
         "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+      },
+      {
+        "date": "2025-04-12",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19628286dc08373a"
+      },
+      {
+        "date": "2025-05-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19699410e40c0aa2"
+      },
+      {
+        "date": "2025-06-05",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "1973ef1711c6bc51"
+      },
+      {
+        "date": "2025-07-04",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "197d3e094a95cda2"
+      },
+      {
+        "date": "2025-10-06",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "199b78040ff23e1c"
+      },
+      {
+        "date": "2025-11-19",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "19a9a0dfef96747f"
+      },
+      {
+        "date": "2026-09-08",
+        "dir": "去",
+        "who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+        "quote": "24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+        "why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+        "k": "elsa_bcc",
+        "msg_id": "1a07f2e0ee8e17c2"
       },
       {
         "date": "2026-10-07",

@@ -1,92 +1,92 @@
 {
- "code": "SB-931",
- "name_official": "Usman（巴基斯坦；个人）",
- "researched_at": "2026-10-21",
- "website_status": "无域名（仅表内信息）",
- "summary": "巴基斯坦个人联系人，2023-11 对看门狗系列（5 口交换机）想测样但不想付样品费，此后无进展；无邮箱、无公司。",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [
-  {
-   "kind": "用户表",
-   "claim": "兴趣：5 口交换机；回复：想测样但不想付样品费",
-   "quote": "兴趣：5口交换机；回复：想测样但不想付样品费",
-   "url": "（本地 Clients/ 表格，无公开 URL）",
-   "date": "2026-10-21"
-  }
- ],
- "kp": [],
- "grade_override": null,
- "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
- "deep": {
-  "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
- },
- "company_facts": {
-  "legal_name": "（未知）",
-  "founded": "",
-  "hq": "巴基斯坦（拉合尔号段 +92 300）",
+  "code": "SB-931",
+  "name_official": "Usman（巴基斯坦；个人）",
+  "researched_at": "2026-10-21",
+  "website_status": "无域名（仅表内信息）",
+  "summary": "巴基斯坦个人联系人，2023-11 对看门狗系列（5 口交换机）想测样但不想付样品费，此后无进展；无邮箱、无公司。",
+  "type": "",
   "size": "",
-  "other": ""
- },
- "channels": {
-  "role": "（未知）",
-  "region": "巴基斯坦"
- },
- "risks": [
-  "要免费样品、身份不明 → 低优先"
- ],
- "saga_fit": {
-  "p1": "STI-050GE",
-  "tier": 25,
-  "why": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。"
- },
- "email_hook": "（无邮箱；不主动跟进）",
- "mail_review": {
-  "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5口交换机；回复：想测样但不想付样品费」）",
-   "type": "—",
-   "sieve": "—（未入筛）",
-   "stop": "从未触达",
-   "revive": "不动（非主攻区；J5：有证据再动）",
-   "lane": "巴基斯坦 非主攻",
-   "cadence": "不动",
-   "evidence": "gmail_digest：out 0；用户表：「兴趣：5口交换机；回复：想测样但不想付样品费」；研究档 risks：要免费样品、身份不明 → 低优先"
-  },
-  "situation": "巴基斯坦个人联系人，2023-11 对看门狗系列（5 口交换机）想测样但不想付样品费，此后无进展；无邮箱、无公司。",
-  "need": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。",
-  "breakpoint": "要免费样品、身份不明 → 低优先",
-  "saga_now": {
-   "p1": "STI-050GE",
-   "tier": 25,
-   "price": "按主表（研究档 saga_fit）",
-   "why": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。",
-   "repeat": [],
-   "gaps": []
-  },
-  "next_move": {
-   "when": "不动",
-   "channel": "—",
-   "action": "—",
-   "one_question": ""
-  },
-  "facts": [
-   {
-    "date": "2026-10-21",
-    "dir": "用户表",
-    "who": "Simon",
-    "quote": "兴趣：5口交换机；回复：想测样但不想付样品费",
-    "why": "表内备注",
-    "k": "用户表"
-   }
+  "brands_seen": [],
+  "evidence": [
+    {
+      "kind": "用户表",
+      "claim": "兴趣：5 口交换机；回复：想测样但不想付样品费",
+      "quote": "兴趣：5口交换机；回复：想测样但不想付样品费",
+      "url": "（本地 Clients/ 表格，无公开 URL）",
+      "date": "2026-10-21"
+    }
   ],
-  "proof_gaps": [
-   "无邮件往来",
-   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  "kp": [],
+  "grade_override": null,
+  "override_reason": "",
+  "notes": "（无首轮调研；由 deepen.py 建档）",
+  "deep": {
+    "done_at": "2026-10-21",
+    "level": "无域名 · 仅表内信息"
+  },
+  "company_facts": {
+    "legal_name": "（未知）",
+    "founded": "",
+    "hq": "巴基斯坦（拉合尔号段 +92 300）",
+    "size": "",
+    "other": ""
+  },
+  "channels": {
+    "role": "（未知）",
+    "region": "巴基斯坦"
+  },
+  "risks": [
+    "要免费样品、身份不明 → 低优先"
   ],
-  "draft_en": null,
-  "as_of": "2026-10-24"
- }
+  "saga_fit": {
+    "p1": "STI-050GE",
+    "tier": 25,
+    "why": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。"
+  },
+  "email_hook": "（无邮箱；不主动跟进）",
+  "mail_review": {
+    "binding": {
+      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5口交换机；回复：想测样但不想付样品费」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+      "type": "—",
+      "sieve": "—（未入筛）",
+      "stop": "从未触达",
+      "revive": "不动（非主攻区；J5：有证据再动）",
+      "lane": "巴基斯坦 非主攻",
+      "cadence": "不动",
+      "evidence": "gmail_digest：out 0；用户表：「兴趣：5口交换机；回复：想测样但不想付样品费」；研究档 risks：要免费样品、身份不明 → 低优先"
+    },
+    "situation": "巴基斯坦个人联系人，2023-11 对看门狗系列（5 口交换机）想测样但不想付样品费，此后无进展；无邮箱、无公司。",
+    "need": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。",
+    "breakpoint": "要免费样品、身份不明 → 低优先",
+    "saga_now": {
+      "p1": "STI-050GE",
+      "tier": 25,
+      "price": "按主表（研究档 saga_fit）",
+      "why": "5 口工业机 STI-050GE（$17.0/17.8/18.5）；样品需付费。",
+      "repeat": [],
+      "gaps": []
+    },
+    "next_move": {
+      "when": "不动",
+      "channel": "—",
+      "action": "—",
+      "one_question": ""
+    },
+    "facts": [
+      {
+        "date": "2026-10-21",
+        "dir": "用户表",
+        "who": "Simon",
+        "quote": "兴趣：5口交换机；回复：想测样但不想付样品费",
+        "why": "表内备注",
+        "k": "用户表"
+      }
+    ],
+    "proof_gaps": [
+      "无邮件往来",
+      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+    ],
+    "draft_en": null,
+    "as_of": "2026-10-24"
+  }
 }

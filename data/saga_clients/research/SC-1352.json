@@ -71,7 +71,7 @@
   "mail_review": {
     "as_of": "2026-10-24",
     "binding": {
-      "level": "轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）",
+      "level": "轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）；Elsa 箱 to:conexionderedes.com 逐户查 0（`from:e.sagatelecom to:conexionderedes.com` complete，含 spam/trash）（第 74 批(o)）",
       "type": "集成商转发",
       "sieve": "3（资料转发层面）",
       "stop": "他把 CENTEC 资料转给 DC 客户后沉默；我们 09-09 推的是 16 口 DIN PoE，与 DC 无关",

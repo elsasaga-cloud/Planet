@@ -58,7 +58,7 @@
   "email_hook": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?",
   "mail_review": {
     "binding": {
-      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；S/A 邮箱 0 封",
+      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
       "type": "—",
       "sieve": "3（已加 WhatsApp，表内有往来）",
       "stop": "仓库只有用户表一行；往来在 Simon 手机",

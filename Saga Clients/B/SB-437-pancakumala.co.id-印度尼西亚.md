@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,27 +38,35 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2027-Q1 A 邮箱 → customerservice.pkj@gmail.com 季度
+- **下一步**：2027-Q1 A 邮箱 → customerservice.pkj@gmail.com 首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-437` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）；Elsa 1:1 去信 8 轮 2025-06-09→2026-08-10（To 仅本户 customerservice.pkj@gmail.com + info@pancakumala.co.id；08-10 头 19fe965f028e38cc 无 Bcc，称呼「Hi,」= 无称呼逐月单发名单，正文 Price: 170USD/PC；其中 2025-12-05 那封是在 10-08 线程里以 Re: 形式续发「Booster PoE Switch」稿，不是答复）；10-07 空回之后无任何文字来信** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1 ｜ 通路：印度尼西亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 3；用户表：「兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式」；研究档 risks：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。
 - **对方真实需求（有据）**：对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
 - **断点 / 为什么停在这里**：DCN 渠道身份：只会拿 DCN 不覆盖的低价 SKU
 - **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-05-01 $300（48 Port PoE Managed Switch））——对位其 DCN S5750E-28X-P-EI（24 PoE + 4×10G）→ Saga STC-424XGGPM-280W；DIN 工业补 STI-288GPM；经销 20%。
-- **下一步（具体）**：2027-Q1　A 邮箱 → customerservice.pkj@gmail.com　季度
+- **下一步（具体）**：2027-Q1　A 邮箱 → customerservice.pkj@gmail.com　首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度
   - 第一问（只问一个）：For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-05-01 | 去 | A 群发 | Industrial PoE Switch、24 Port Fiber Switch | 3 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2025-05-01（3 去 / 0 来） | `gmail_digest` |
+| 2025-06-09 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | Mini Industrial PoE Switch（Elsa 1:1 第 1/8 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
 | 2025-10-07 | 来 | Dian for Johandi Halim（PT PKJ，雅加达） | （仅签名档，无正文） | 空回复，不计实质 | `gmail_e` |
+| 2025-10-08 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | 10G Enterprise SFP Switch（Elsa 1:1 第 2/8 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
+| 2025-12-05 | out | Elsa → customerservice.pkj@gmail.com | Re: 10G Enterprise SFP Switch（在 10-08 线程里以 Re: 续发「Booster PoE Switch」稿：4×10G 光 + 8×GE PoE 240W、DC12-54V 升压、DI/DO/RS485/bypass——不是答复；第 3/8 轮） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
+| 2026-01-06 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | Marvell Industrial Alert System（Elsa 1:1 第 4/8 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
+| 2026-02-27 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | Updated Ethernet Switches Links（Elsa 1:1 第 5/8 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
+| 2026-03-30 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | Marvell Managed Commercial Switches（Elsa 1:1 第 6/8 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
+| 2026-05-06 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | 10G Enterprise SFP Switch（Elsa 1:1 第 7/8 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
+| 2026-08-10 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | 24 Port PoE Managed Switch（Elsa 1:1 第 8/8 轮；To 仅本户）；正文 Price: 170USD/PC | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机；2026-08-10 Elsa 群发给他看过 24 口 PoE $170（第 74 批(o)）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -269,12 +277,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

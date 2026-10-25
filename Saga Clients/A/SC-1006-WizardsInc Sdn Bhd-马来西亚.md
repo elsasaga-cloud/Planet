@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,31 +38,40 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP / STI-21616GPM（已测）→ 项目批量 — 刚成交、毛利好、项目型；按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让
 - **第一问（只问一个）**：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在（距发货 ≈2 个月） WhatsApp（Simon） 一句话问测试结论与项目批量
+- **下一步**：现在（距发货 ≈2 个月） WhatsApp（Simon） 先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1006` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）** ｜ 类型：吉隆坡 ICT/门禁/CCTV 集成商（Technology Park Malaysia 孵化器；CEO Raja Kumaran）——第四档集成商，但一次就买了 7 台管理/非管理工业 PoE 做测试 ｜ 筛子：5（T/T 全款，RMB 结算，EXW 发到客户在华货代） ｜ 停点：无——单子在 2026-08-21，距今 2 个月；「Sample Testing」说明后面有项目 ｜ 复活：—（活跃） ｜ 通路：MY 非主攻；按 J5 看证据：2026 年最大一张单之一 ｜ 节奏：WhatsApp；项目节奏（问 7 台测试结论） ｜ 证据：PI STSC20260819019（RMB 9,090，08-19）→ 改版 STSC20260821019（RMB 10,500，08-21）；报价单 STS-20260818-001（RMB 7,580，36 件）；采购合同 STSC20260819019 向 SmartByte 成本 RMB 5,348（中性设备、PVC 膜、不放保修卡、管理线放、序列号 202608210001~）；PL + 发货图片 STI-21616GP/GPM 多张
+- **绑定等级：轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户 rajaking@/wizardsinc.co 在 Bcc）——**2026-08 成单之后（09-08）仍收到 $170 的 24 口 PoE 群发稿**；成单户不该留在群发 Bcc 里** ｜ 类型：吉隆坡 ICT/门禁/CCTV 集成商（Technology Park Malaysia 孵化器；CEO Raja Kumaran）——第四档集成商，但一次就买了 7 台管理/非管理工业 PoE 做测试 ｜ 筛子：5（T/T 全款，RMB 结算，EXW 发到客户在华货代） ｜ 停点：无——单子在 2026-08-21，距今 2 个月；「Sample Testing」说明后面有项目 ｜ 复活：—（活跃） ｜ 通路：MY 非主攻；按 J5 看证据：2026 年最大一张单之一 ｜ 节奏：WhatsApp；项目节奏（问 7 台测试结论） ｜ 证据：PI STSC20260819019（RMB 9,090，08-19）→ 改版 STSC20260821019（RMB 10,500，08-21）；报价单 STS-20260818-001（RMB 7,580，36 件）；采购合同 STSC20260819019 向 SmartByte 成本 RMB 5,348（中性设备、PVC 膜、不放保修卡、管理线放、序列号 202608210001~）；PL + 发货图片 STI-21616GP/GPM 多张
 - **现状一句话**：8 月 18–21 日三天内报价 → PI → 改版 PI（加了 2 台 STI-288GPM 和 1 台 STI-21616GPM 管理型），42 件，RMB 10,500，成本 5,348——毛利约 49%，是 PI 包里利润率最好的一单。全程 RMB 结算、发到客户在华货代，邮件零往来：这是 WhatsApp 成交的典型。「Sample Testing」+ 7 台交换机 + 28 只工业光模块 = 在搭一个门禁/CCTV 项目的测试环。
 - **对方真实需求（有据）**：工业 PoE（8/16 口，管理 + 非管理）+ 工业光模块（20KM 单模 / 2KM 多模）+ DIN 电源 NDR-240-48。
 - **断点 / 为什么停在这里**：无。风险只有一个：测试结论没人问——按 C10「每单之后一句话」。
 - **Saga 现在该推什么**：P1 **STI-21616GP / STI-21616GPM（已测）→ 项目批量**（25% 档，按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让）——刚成交、毛利好、项目型
   - 复购/在买项：2026-08-21（唯一）
   - 做不了 / 要先核的：测试结论；项目规模与时间表；为何 RMB 结算（马来西亚客户在华有货代/公司？）
-- **下一步（具体）**：现在（距发货 ≈2 个月）　WhatsApp（Simon）　一句话问测试结论与项目批量
+- **下一步（具体）**：现在（距发货 ≈2 个月）　WhatsApp（Simon）　先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量
   - 第一问（只问一个）：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「47 WizardsInc Sdn Bhd 马来西亚 Raja King 公海 产品线比较像 rajaking@live.com.my 60 12-203 6165 已加」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 9_马来西亚_Sugito` |
+| 2025-04-11 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-11-20 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2026-02-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2026-04-29 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
 | 2026-08-18 | 报价 | Simon → Raja King | STS-20260818-001：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 件 RMB 7,580 | 报价 | `PI STS-20260818-001` |
 | 2026-08-21 | PI | Simon → WizardsInc | STI-288GPM ×2 @550、STI-21616GP ×4 @1,140、STI-21616GPM ×1 @1,550、光模块 … TOTAL 42 / RMB 10,500；T/T in advance, EXW；Sample Testing | 成交 | `PI STSC20260821019` |
 | 2026-08-21 | 采购合同 | Saga → SmartByte | TOTAL 42 / 5,348 RMB；中性设备，常规 PVC 膜，不放保修卡…管理线放…序列号 202608210001~ | 成本与贴牌要求 | `采购合同_STSC20260819019` |
 | 2026-08-21 | 内 | 凌特（SmartByte）销售合同 P20260821-01（未税 ¥8,525） | LT-IS3210GP-2GX8T → STI-288GPM ×2 @¥460；LT-IS6018GP-2GX16GT-STI → STI-21616GP ×4 @¥952；LT-IS6318GP-2GX16GT → STI-21616GPM ×1 @¥1,280；明纬 NDR-240-48 ×7 @¥220；工业 SFP STI-G20-SD / STI-G2-MD 各 14 @¥28；货拉拉运费 ¥193；合计 ¥8,525。 | 对照 PI ¥10,500：整单毛利 **18.8%**；分项 STI-288GPM 550/460 = 16.4%、STI-21616GP 1,140/952 = 16.5%、STI-21616GPM 1,550/1,280 = 17.4%、NDR 270/220 = 18.5%、SFP 50/28 = 44%——整机没到 Marvell 25% 底线，是光模块把整单拉到 18.8%；08-18 报价单里 NDR 报 ¥170、288GP 非管理 ¥400，三天后 PI 改成 NDR ¥270、288GPM 管理 ¥550（客户自己升级） | `PI 包 `19_马来西亚_Raja_可发展/郑州仨戛…P20260821-01_未税8525RMB.doc` + `STS-20260818-001.xlsx` + `STSC20260821019.xlsx`` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；成单（2026-08 PI）之后仍在 Bcc | `elsa_bcc` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库；无邮件
+- **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库；无邮件；成单户仍在 Elsa 群发 Bcc 名单（sofyan 锚，2026-09-08 仍收）——剔出后只走 1:1/WhatsApp（第 74 批(o)）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -241,12 +250,12 @@ Raja — how did the 16-port managed vs unmanaged units behave in the test ring,
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

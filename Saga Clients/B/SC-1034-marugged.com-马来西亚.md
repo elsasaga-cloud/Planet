@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -45,7 +45,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1034` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：马来西亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1
+- **绑定等级：未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com，本户在 Bcc；最近一轮 2026-09-08「24 Port PoE Managed Switch」）；0 回；S 邮箱那 1 封之外还有这 7 轮——「未触达」是 S/A 口径** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：马来西亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 1
 - **现状一句话**：马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SC-1034（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
 - **对方真实需求（有据）**：对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：
 - **断点 / 为什么停在这里**：无回复
@@ -55,6 +55,13 @@ updated: 2026-10-24
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「5 https://marugged.com/serial-converters/ 马来西亚 Moxa sales@marugged.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 9_马来西亚_Sugito` |
+| 2025-04-12 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-11-19 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
 | 2026-10-07 | 去 | S 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回｜首封 2026-10-07 → 末封 2026-10-07（1 去 / 0 来） | `gmail_digest` |
 
 ## 基本事实（事实/推断/假设分层）
@@ -245,12 +252,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 12）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 12）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

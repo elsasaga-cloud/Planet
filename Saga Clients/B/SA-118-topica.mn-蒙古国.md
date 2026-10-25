@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,24 +38,33 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。；STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率
 - **第一问（只问一个）**：Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2026-11 Elsa 或 A 邮箱 → info@topica.mn 补答 + 一问
+- **下一步**：2026-11 Elsa 或 A 邮箱 → info@topica.mn 首封前知悉：Elsa 已 Bcc 8 轮 + 1:1 直收 6 轮（2025-02-24→2026-08-04），对方只在 2025-10-30 回过一次、三问未得答——这封是补答，不是首封，且他 2026-08 看到过 24 口 PoE $170（现价轮 $180 要先说明）（第 74 批(o)）；补答 + 一问
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-118` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回** ｜ 类型：贸易商 ｜ 筛子：2（问价/MOQ/保修） ｜ 停点：2025-10-30 来信后 Elsa 回复未入库 ｜ 复活：补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌 ｜ 通路：蒙古国 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回；Elsa 群发 BCC 已触达 8 轮 2025-02-24→2025-10-28（锚 To info@golfautomation.co.in，本户在 Bcc）→ 10-28 那轮 A.Bayar 10-30 回信 → Elsa 10-31 Re:（已入库）→ 之后改为 1:1 直收 6 轮 2025-12-04→2026-08-04（To 仅 info@topica.mn；08-04 头 19fcb6dd212d4d23 无 Bcc，称呼「Hi,」，正文 Price: 170USD/PC = 24 口 PoE STC-424XGGPM-280W 的 8 月旧价）；10-30 之后再无来信** ｜ 类型：贸易商 ｜ 筛子：2（问价/MOQ/保修） ｜ 停点：2025-10-30 来信后 Elsa 回复未入库 ｜ 复活：补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌 ｜ 通路：蒙古国 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。
 - **对方真实需求（有据）**：16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。
 - **断点 / 为什么停在这里**：蒙古物流（经二连浩特陆运）与小量
 - **Saga 现在该推什么**：P1 **STC-2216GPM**（20% 档，STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率）——16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。
-- **下一步（具体）**：2026-11　Elsa 或 A 邮箱 → info@topica.mn　补答 + 一问
+- **下一步（具体）**：2026-11　Elsa 或 A 邮箱 → info@topica.mn　首封前知悉：Elsa 已 Bcc 8 轮 + 1:1 直收 6 轮（2025-02-24→2026-08-04），对方只在 2025-10-30 回过一次、三问未得答——这封是补答，不是首封，且他 2026-08 看到过 24 口 PoE $170（现价轮 $180 要先说明）（第 74 批(o)）；补答 + 一问
   - 第一问（只问一个）：Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2025-02-24 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | 10G Media Converter（Elsa 群发第 1/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-04-14 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | Industrial PoE Switch（Elsa 群发第 2/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-05-07 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | Commercial PoE Switch（Elsa 群发第 3/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-06-09 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | 48 Port PoE Managed Switch（Elsa 群发第 4/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-07-09 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | 24 Port Fiber Switch（Elsa 群发第 5/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-08-10 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | Industrial PoE Switch（Elsa 群发第 6/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-09-26 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | 10G Enterprise SFP Switch（Elsa 群发第 7/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-10-28 | 去 | Elsa 群发（BCC；To info@golfautomation.co.in） | Industrial PoE Switch（Elsa 群发第 8/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单；就是这封 A.Bayar 10-30 回了 | `elsa_bcc` |
 | 2025-10-30 | 来 | A.Bayar（Topica LLC） | May we have your price list, MOQ , Warranty information? | 三问齐全 = 贸易商式评估；Elsa 是否回了价表未入库 | `gmail_e` |
 | 2025-10-31 | 去 | Elsa | 1, please see attached download link. 2, I am also attaching a datasheet, you can find plenty of useful information in it.（附 Download Link_Alan.pdf + STI-244GP.pdf） | 他问的 price list / MOQ / warranty 一个都没正面答——只给了下载链接 + 一本规格书 → 无下文 | `gmail_e 19a38c06fc7947d2` |
+| 2025-12-04 | out | Elsa → info@topica.mn | Booster PoE Switch（Elsa 1:1 第 9/14 轮；To 仅本户） | 第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
 | 2025-12-29 | 去 | Elsa 群发（To info@topica.mn，直接收件非 BCC） | Marvell Industrial Alert System | Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明 | `elsa_campaign` |
 | 2026-03-02 | 去 | Elsa 群发（To info@topica.mn，直接收件非 BCC） | Updated Ethernet Switches Links | Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明 | `elsa_campaign` |
 | 2026-04-03 | 去 | Elsa 群发（To info@topica.mn，直接收件非 BCC） | Industrial PoE Switch | Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明 | `elsa_campaign` |
@@ -63,7 +72,7 @@ updated: 2026-10-24
 | 2026-08-04 | 去 | Elsa 群发（To info@topica.mn，直接收件非 BCC） | 24 Port PoE Managed Switch — Price: 170USD/PC | Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明 | `elsa_campaign` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC SFP switch 很多外壳；回复：需要16 port的 | 表内备注 | `用户表` |
 
-- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty
+- **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty；2026-08-04 Elsa 群发给他看过 24 口 PoE $170；补答信若报 STC-424XGGPM-280W 现价 $180，先说 8 月那轮是 $170、汇率 7.2→6.7（第 74 批(o)）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -263,12 +272,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

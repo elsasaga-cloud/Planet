@@ -12651,7 +12651,7 @@
 "email_hook": "Abdulaziz, picking up our WhatsApp thread: the DIN-rail 8× GbE PoE+ + 2× SFP industrial switch you looked at is $59.8 EXW (managed version $145.7), with a matching 48 V DIN power supply — what is the project it is for, so I can send the right pair?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；S/A 邮箱 0 封",
+"level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「Abdulaziz Al Jowasem · 966 5036 69457 已加 · 谈合作，看了中科德能的工业FS还有金升阳的工业电源」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "未知（疑为个体贸易/集成）",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -29352,7 +29352,7 @@
 "email_hook": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；S/A 邮箱 0 封",
+"level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -36696,7 +36696,7 @@
 "email_hook": "The RSGE-24P series is unmanaged today, so a Marvell-based 24-port PoE+ L2+ managed unit with 4 SFP in Lanberg packing is the gap I would fill first, and I can quote it with the 8-port PoE+ 2 SFP model as a second line.",
 "mail_review": {
 "binding": {
-"level": "未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）",
+"level": "未绑定（询问阶段，但决策链正确：产品开发经理 Łukasz 2025-10 主动要「带 CE 电源的 MC」价格与 MOQ）；Elsa 群发 BCC 已触达 6 轮 2025-04-03→2025-08-25（锚 To info@axuse.com，本户在 Bcc）→ 08-25「90W PoE Managed Switch」那轮 Łukasz 回信 → Elsa 08-26 / 09-25 Re:（已入库）→ 之后剔出 Bcc（10-09 头 199c8653559f6d15 Bcc 27 人已无 impakt）；即 Impakt 的线索源头是 Elsa 群发 Bcc，不是 A 邮箱",
 "type": "波兰自有品牌集团（Lanberg / Genesis / Natec…）+ 分销——第一档 OEM 类型；波兰 = 次重点市场；Elsa 曾先接触（Alan 2025-09-29 原话）",
 "sieve": "2",
 "stop": "2025-10-03 Alan 报 1G SFP MC 13 USD/pc（MOQ 1）→ 10-15 追问无回；此后群发只发给 Bartosz（不是 Łukasz）",
@@ -36726,6 +36726,51 @@
 "one_question": "Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?"
 },
 "facts": [
+{
+"date": "2025-04-03",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@axuse.com）",
+"quote": "Mini Industrial PoE Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "195fb17dc4cbfd9e"
+},
+{
+"date": "2025-04-28",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@axuse.com）",
+"quote": "48 Port PoE Managed Switch（Elsa 群发第 2/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1967c1b82fddb7e4"
+},
+{
+"date": "2025-05-25",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@axuse.com）",
+"quote": "48 Port PoE Managed Switch（Elsa 群发第 3/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19706f048da10720"
+},
+{
+"date": "2025-06-25",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@axuse.com）",
+"quote": "Marvell Alleycat5 Solution（Elsa 群发第 4/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "197a6ac511c9c568"
+},
+{
+"date": "2025-07-25",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@axuse.com）",
+"quote": "16 Port Ethernet Switch（Elsa 群发第 5/6 轮；本户在 Bcc，锚 To info@axuse.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:impakt.com.pl` 全程 complete：6 行；To=info@axuse.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1984103b880e1257"
+},
 {
 "date": "2025-08-25",
 "dir": "来（E 邮箱）",
@@ -56130,7 +56175,7 @@
 "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回",
+"level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回；Elsa 群发 BCC 已触达 8 轮 2025-02-24→2025-10-28（锚 To info@golfautomation.co.in，本户在 Bcc）→ 10-28 那轮 A.Bayar 10-30 回信 → Elsa 10-31 Re:（已入库）→ 之后改为 1:1 直收 6 轮 2025-12-04→2026-08-04（To 仅 info@topica.mn；08-04 头 19fcb6dd212d4d23 无 Bcc，称呼「Hi,」，正文 Price: 170USD/PC = 24 口 PoE STC-424XGGPM-280W 的 8 月旧价）；10-30 之后再无来信",
 "type": "贸易商",
 "sieve": "2（问价/MOQ/保修）",
 "stop": "2025-10-30 来信后 Elsa 回复未入库",
@@ -56153,10 +56198,82 @@
 "next_move": {
 "when": "2026-11",
 "channel": "Elsa 或 A 邮箱 → info@topica.mn",
-"action": "补答 + 一问",
+"action": "首封前知悉：Elsa 已 Bcc 8 轮 + 1:1 直收 6 轮（2025-02-24→2026-08-04），对方只在 2025-10-30 回过一次、三问未得答——这封是补答，不是首封，且他 2026-08 看到过 24 口 PoE $170（现价轮 $180 要先说明）（第 74 批(o)）；补答 + 一问",
 "one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (Elsa's 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
 },
 "facts": [
+{
+"date": "2025-02-24",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "10G Media Converter（Elsa 群发第 1/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19535ff526c7efc3"
+},
+{
+"date": "2025-04-14",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "Industrial PoE Switch（Elsa 群发第 2/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1963275244054936"
+},
+{
+"date": "2025-05-07",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "Commercial PoE Switch（Elsa 群发第 3/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "196a901f5b0907a1"
+},
+{
+"date": "2025-06-09",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "48 Port PoE Managed Switch（Elsa 群发第 4/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1975313dc784fd43"
+},
+{
+"date": "2025-07-09",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "24 Port Fiber Switch（Elsa 群发第 5/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "197ed7299b161d74"
+},
+{
+"date": "2025-08-10",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "Industrial PoE Switch（Elsa 群发第 6/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19891d2fb7f37292"
+},
+{
+"date": "2025-09-26",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "10G Enterprise SFP Switch（Elsa 群发第 7/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19984c1d62ba38d6"
+},
+{
+"date": "2025-10-28",
+"dir": "去",
+"who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+"quote": "Industrial PoE Switch（Elsa 群发第 8/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单；就是这封 A.Bayar 10-30 回了",
+"k": "elsa_bcc",
+"msg_id": "19a293a064e0de07"
+},
 {
 "date": "2025-10-30",
 "dir": "来",
@@ -56172,6 +56289,15 @@
 "quote": "1, please see attached download link. 2, I am also attaching a datasheet, you can find plenty of useful information in it.（附 Download Link_Alan.pdf + STI-244GP.pdf）",
 "why": "他问的 price list / MOQ / warranty 一个都没正面答——只给了下载链接 + 一本规格书 → 无下文",
 "k": "gmail_e 19a38c06fc7947d2"
+},
+{
+"date": "2025-12-04",
+"dir": "out",
+"who": "Elsa → info@topica.mn",
+"quote": "Booster PoE Switch（Elsa 1:1 第 9/14 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19ae7dfdf6f341f3"
 },
 {
 "date": "2025-12-29",
@@ -56228,7 +56354,8 @@
 }
 ],
 "proof_gaps": [
-"（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty"
+"（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty",
+"2026-08-04 Elsa 群发给他看过 24 口 PoE $170；补答信若报 STC-424XGGPM-280W 现价 $180，先说 8 月那轮是 $170、汇率 7.2→6.7（第 74 批(o)）"
 ],
 "draft_en": {
 "subject": "Price list, MOQ, warranty — Topica",
@@ -111382,7 +111509,7 @@
 "email_hook": "（无邮箱；WhatsApp：Good to meet at CPSE — for the 200-pc 5-port industrial requirement, I can hold a 200-pc EXW price for 15 days once you confirm DC input range (12–36 V or 44–57 V).）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -118548,7 +118675,7 @@
 "email_hook": "（无邮箱；WhatsApp 报 STC-28DGGPM $84 + GMC $23）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主动问了GMC和商业POE价格」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主动问了GMC和商业POE价格」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -166504,7 +166631,7 @@
 "email_hook": "For the 5-port copper switch you asked about on our site: desktop gigabit is $6.1 EXW, DIN-rail industrial (12–58 V DC, −40 to +75 °C) $25.0 — indoor desk or inside a cabinet?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「5电口 / from: 自建站」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「5电口 / from: 自建站」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -207208,7 +207335,7 @@
 "email_hook": "You asked for our price book after the single-fiber media converter post — I can send the converter and 8-port PoE pages on WhatsApp; which quantity range should I price?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「单纤MC下留言；2023.8.17 发了商业POE组合图 → 问了价格册 还有router」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「单纤MC下留言；2023.8.17 发了商业POE组合图 → 问了价格册 还有router」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -207884,7 +208011,7 @@
 "email_hook": "（无邮箱；WhatsApp：Catalogue is updated for 2026 — which switch size do you actually quote most, 8-port or 24-port?）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对无线IP感兴趣；回复：catalog」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对无线IP感兴趣；回复：catalog」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -208253,7 +208380,7 @@
 "email_hook": "（无邮箱；不主动跟进，待其再询）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对多功能有兴趣；回复：印度货币价格」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对多功能有兴趣；回复：印度货币价格」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -211515,7 +211642,7 @@
 "email_hook": "（无联系方式，不发送）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「2023.12.25 发了商业POE价格册 → 回复：问了一个别的东西（Whatsapp）；2024.1.23 发了2光」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「2023.12.25 发了商业POE价格册 → 回复：问了一个别的东西（Whatsapp）；2024.1.23 发了2光」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -211741,7 +211868,7 @@
 "email_hook": "（无邮箱；待用户补联系方式）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：flat Gigabit 8-p PoE web smart or L2?」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：flat Gigabit 8-p PoE web smart or L2?」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -223647,7 +223774,7 @@
 "email_hook": "（无邮箱；WhatsApp 一句：You mentioned the 24-fibre combo unit — if that project is live, our 24-port + 4×10G SFP+ aggregation switch quotes from 1 pc EXW.）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对2.5G/10G有兴趣 不过有供应商 也问了周边产品；回复：有兴趣 稍后谈；近期可能有需求」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对2.5G/10G有兴趣 不过有供应商 也问了周边产品；回复：有兴趣 稍后谈；近期可能有需求」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -271614,7 +271741,7 @@
 "email_hook": "You asked the price of the 24-port fiber combo switch after we sent the catalog — I can quote it with the 8-port PoE model on one sheet; how many units would a first order be?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「之前想要光端机 不能做 POE switch；2023.12.15 → product list(给他发了商业和电源价格」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -284788,7 +284915,7 @@
 "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
 "mail_review": {
 "binding": {
-"level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）",
+"level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户在 Bcc）；2026-09-08 那轮「24 Port PoE Managed Switch」即被回「we don't need this currently」——第二次拒之后仍在 Bcc 名单上（剔除名单 §一 已列）",
 "type": "马来西亚 IT 租赁商（TH-IT）",
 "sieve": "1",
 "stop": "两次书面拒绝；2027 前不发；若再发只发给采购口而非 Rental Sales Manager",
@@ -284840,12 +284967,93 @@
 "k": "8ceb773d69d13c9f"
 },
 {
+"date": "2025-04-11",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19623a5f07b9a5bf"
+},
+{
+"date": "2025-05-04",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19699a96e93d4ea9"
+},
+{
+"date": "2025-06-05",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1973f4fbd2176398"
+},
+{
+"date": "2025-07-04",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "197d44f5b17bb6b9"
+},
+{
+"date": "2025-10-06",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "199b7cd286b8997d"
+},
+{
+"date": "2025-11-20",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19a9f3c99302ff20"
+},
+{
+"date": "2026-02-05",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19c2c14168a821f5"
+},
+{
+"date": "2026-04-29",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19dd7f65aff0636e"
+},
+{
 "date": "2026-09-08",
 "dir": "来",
 "who": "Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚）",
 "quote": "Thanks, we don't need this currently.",
 "why": "Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发",
 "k": "Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；就是这封被回「we don't need this currently」",
+"k": "elsa_bcc",
+"msg_id": "1a07fb58f139416e"
 }
 ],
 "proof_gaps": [],
@@ -287971,7 +288179,7 @@
 "email_hook": "（无邮箱；不主动跟进）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：chip?；price list；prices；啥是2.5g；MCU processor」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「回复：chip?；price list；prices；啥是2.5g；MCU processor」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -305346,7 +305554,7 @@
 "email_hook": "（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -306212,7 +306420,7 @@
 "email_hook": "（无邮箱；WhatsApp：The 16-SFP + 8-combo unit is in stock as an industrial model; if you need a rack 24-SFP commercial version, tell me the uplink type (4×1G or 4×10G) and I'll confirm lead time.）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：FS板子；回复：12-24 sfp switch ready?」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：FS板子；回复：12-24 sfp switch ready?」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -323539,7 +323747,7 @@
 "email_hook": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya.",
 "mail_review": {
 "binding": {
-"level": "未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）",
+"level": "未触达（Elsa 邮箱 2025-10-07 PT Panca Kumala Jaya 回信仅签名档、无正文——视为误触/空回；A 邮箱 3 封 0 回）；Elsa 1:1 去信 8 轮 2025-06-09→2026-08-10（To 仅本户 customerservice.pkj@gmail.com + info@pancakumala.co.id；08-10 头 19fe965f028e38cc 无 Bcc，称呼「Hi,」= 无称呼逐月单发名单，正文 Price: 170USD/PC；其中 2025-12-05 那封是在 10-08 线程里以 Re: 形式续发「Booster PoE Switch」稿，不是答复）；10-07 空回之后无任何文字来信",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
@@ -323562,7 +323770,7 @@
 "next_move": {
 "when": "2027-Q1",
 "channel": "A 邮箱 → customerservice.pkj@gmail.com",
-"action": "季度",
+"action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-09→2026-08-10，只有 2025-10-07 一封空回）且他 2026-08 看到过 24 口 PoE $170（第 74 批(o)）；季度",
 "one_question": "For the DCN-based IPTV and CCTV jobs — where DCN is over-spec, would a Marvell 24-PoE + 4×10G L2+ at $181 EXW or a DIN-rail 8-PoE + 2-SFP at $79 fill the lower tier? Happy to send 1 sample of each to Kedoya."
 },
 "facts": [
@@ -323575,12 +323783,84 @@
 "k": "gmail_digest"
 },
 {
+"date": "2025-06-09",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
+"quote": "Mini Industrial PoE Switch（Elsa 1:1 第 1/8 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19752a16b275eb8f"
+},
+{
 "date": "2025-10-07",
 "dir": "来",
 "who": "Dian for Johandi Halim（PT PKJ，雅加达）",
 "quote": "（仅签名档，无正文）",
 "why": "空回复，不计实质",
 "k": "gmail_e"
+},
+{
+"date": "2025-10-08",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
+"quote": "10G Enterprise SFP Switch（Elsa 1:1 第 2/8 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "199c1a01d9860360"
+},
+{
+"date": "2025-12-05",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com",
+"quote": "Re: 10G Enterprise SFP Switch（在 10-08 线程里以 Re: 续发「Booster PoE Switch」稿：4×10G 光 + 8×GE PoE 240W、DC12-54V 升压、DI/DO/RS485/bypass——不是答复；第 3/8 轮）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19aec3cd131590ae"
+},
+{
+"date": "2026-01-06",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
+"quote": "Marvell Industrial Alert System（Elsa 1:1 第 4/8 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19b910850dd13e5a"
+},
+{
+"date": "2026-02-27",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
+"quote": "Updated Ethernet Switches Links（Elsa 1:1 第 5/8 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19c9cd3002547dac"
+},
+{
+"date": "2026-03-30",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
+"quote": "Marvell Managed Commercial Switches（Elsa 1:1 第 6/8 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19d3cf850f8a1a37"
+},
+{
+"date": "2026-05-06",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
+"quote": "10G Enterprise SFP Switch（Elsa 1:1 第 7/8 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19dfbdf2b114e156"
+},
+{
+"date": "2026-08-10",
+"dir": "out",
+"who": "Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id",
+"quote": "24 Port PoE Managed Switch（Elsa 1:1 第 8/8 轮；To 仅本户）；正文 Price: 170USD/PC",
+"why": "第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19fe965f028e38cc"
 },
 {
 "date": "2026-10-21",
@@ -323592,7 +323872,8 @@
 }
 ],
 "proof_gaps": [
-"（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机"
+"（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机",
+"2026-08-10 Elsa 群发给他看过 24 口 PoE $170（第 74 批(o)）"
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
@@ -339128,7 +339409,7 @@
 "email_hook": "Anh Lâm, for your own-label industrial switch line — we supply the 2-SFP + 8-PoE DIN unit (and a Marvell managed version) under your brand from small lots; shall I quote it next to the AOA unit you buy today?",
 "mail_review": {
 "binding": {
-"level": "未发信（Elsa 邮箱 2026-02-13 lamho@quanglam.com.vn 仅 Gmail 表情反应「💖」，无文字——不计实质回复；S/A 邮箱 0 封）",
+"level": "未发信（Elsa 邮箱 2026-02-13 lamho@quanglam.com.vn 仅 Gmail 表情反应「💖」，无文字——不计实质回复；S/A 邮箱 0 封）；Elsa 1:1 去信 2 轮（2026-02-13「DWDM Core Switching Solution」→ 同日只有 💖 表情；2026-08-10「24 Port PoE Managed Switch」，头 19feae677954866c 无 Bcc，称呼「Hi, Lam」= 个性化名单）；无文字来信",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -339156,20 +339437,29 @@
 },
 "facts": [
 {
-"date": "2026-10-21",
-"dir": "用户表",
-"who": "Simon",
-"quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
-"why": "表内备注",
-"k": "用户表"
-},
-{
 "date": "2026-02-13",
 "dir": "来",
 "who": "Lam Ho（Quang Lam，越南）",
 "quote": "（Gmail emoji reaction 💖，无正文）",
 "why": "非实质",
 "k": "gmail_e"
+},
+{
+"date": "2026-08-10",
+"dir": "out",
+"who": "Elsa → lamho@quanglam.com.vn",
+"quote": "24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom to:quanglam.com.vn` 全程 complete：2 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19feae677954866c"
+},
+{
+"date": "2026-10-21",
+"dir": "用户表",
+"who": "Simon",
+"quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
+"why": "表内备注",
+"k": "用户表"
 }
 ],
 "proof_gaps": [
@@ -350216,7 +350506,7 @@
 "email_hook": "We do not carry GPON OLTs or routers, but if your deployments need PoE access switches or fiber media converters behind the ONT I can send prices — is that part of your projects?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -350587,7 +350877,7 @@
 "email_hook": "（无邮箱；WhatsApp：The 8-PoE + 2-SFP managed unit you priced in 2023 is now Marvell-based at the same EXW level — want the 2026 sheet?）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：在光模块下评论了手机号；回复：2G/4FE；price；稍后谈」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：在光模块下评论了手机号；回复：2G/4FE；price；稍后谈」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -374401,7 +374691,7 @@
 "email_hook": "Holil Bey, ISAF'ta istediğiniz PoE switch için: 8 port gigabit PoE + 2 SFP 34,6 USD, yönetilebilir sürüm 74,0 USD EXW — firma adınızı ve kaç adet gerektiğini yazarsanız teklif hazırlayayım.",
 "mail_review": {
 "binding": {
-"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「要PoE交换机 拿了彩页 / 90 538 985 9429 已加」；S/A 邮箱 0 封",
+"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「要PoE交换机 拿了彩页 / 90 538 985 9429 已加」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -374993,7 +375283,7 @@
 "email_hook": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；S/A 邮箱 0 封",
+"level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -383486,7 +383776,7 @@
 "email_hook": "（无邮箱；WhatsApp 一句：Still working with your current PoE supplier? If a backup source for 8-port PoE at factory price helps, one sample ships from 1 pc.）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对POE switch感兴趣；回复：在和dja合作」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对POE switch感兴趣；回复：在和dja合作」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -391150,7 +391440,7 @@
 "email_hook": "Вы спрашивали про PON — у нас его нет, но для коммерческих оптических коммутаторов (8 портов + 2 SFP, L2+) могу прислать прайс в USD; какое количество вам обычно нужно?",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「商业FS；2024.4.23 发了10G MC信息 → 有Pon产品嘛？」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「商业FS；2024.4.23 发了10G MC信息 → 有Pon产品嘛？」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -437014,7 +437304,7 @@
 "email_hook": "İbrahim Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE endüstriyel switch: L2+ yönetilebilir, toplam PoE bütçesi 240 W (port başına 30 W), EXW 145,7 USD; bypass'lı sürüm 4 SFP + 8 PoE olarak 194,3 USD — projenizde bypass şart mı yoksa ERPS halka yeterli mi?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；S/A 邮箱 0 封",
+"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了2光8带bypass, 问了POE功率 / Ibrahim / BİLGEN ELEKTRONİK」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -437710,7 +438000,7 @@
 "email_hook": "Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, unmanaged $34.6, 24-port 280 W $140.1; which port count sells most in your market so I can quote a first lot?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD」；S/A 邮箱 0 封",
+"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp 要商业级POE交换机和catalog, 不要推商业级的， 新桥拿了他们的彩页 / Toshko Todorov / Elektronik LTD」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -438394,7 +438684,7 @@
 "email_hook": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote.",
 "mail_review": {
 "binding": {
-"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；S/A 邮箱 0 封",
+"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp , 问了收发器和交换机 英文不是很好 / Fadi」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -441611,7 +441901,7 @@
 "email_hook": "（无邮箱；WhatsApp 报 STI-244GP $36.6）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问过2光4电 POE 没成」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：问过2光4电 POE 没成」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -442136,7 +442426,7 @@
 "email_hook": "Uğur Bey, ISAF'ta 'not bad' dediğiniz 2 SFP + 8 port Realtek PoE yönetilebilir switch: dahili güç kaynaklı sürüm EXW 71,0 USD, DIN ray endüstriyel L2 sürümü 78,9 USD (distribütör fiyatı) — ilk parti için 20 mi 50 adet mi düşünelim?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IM」；S/A 邮箱 0 封",
+"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过） / UGUR IM」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -442363,7 +442653,7 @@
 "email_hook": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (ERPS halka) sürümü 145,7 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?",
 "mail_review": {
 "binding": {
-"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax」；S/A 邮箱 0 封",
+"level": "轻度触达（展会名片 + WhatsApp 已加，邮件 0 封）：用户表「Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd / Ugur Simsek Netmax」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "3（已加 WhatsApp，表内有往来）",
 "stop": "仓库只有用户表一行；往来在 Simon 手机",
@@ -484285,7 +484575,7 @@
 "email_hook": "（无邮箱；不主动跟进）",
 "mail_review": {
 "binding": {
-"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5口交换机；回复：想测样但不想付样品费」）",
+"level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：5口交换机；回复：想测样但不想付样品费」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
 "type": "—",
 "sieve": "—（未入筛）",
 "stop": "从未触达",
@@ -525825,7 +526115,7 @@
 },
 "mail_review": {
 "binding": {
-"level": "轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）",
+"level": "轻度绑定（2026-08 一单 RMB 10,500 / 42 件：STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源；PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户 rajaking@/wizardsinc.co 在 Bcc）——**2026-08 成单之后（09-08）仍收到 $170 的 24 口 PoE 群发稿**；成单户不该留在群发 Bcc 里",
 "type": "吉隆坡 ICT/门禁/CCTV 集成商（Technology Park Malaysia 孵化器；CEO Raja Kumaran）——第四档集成商，但一次就买了 7 台管理/非管理工业 PoE 做测试",
 "sieve": "5（T/T 全款，RMB 结算，EXW 发到客户在华货代）",
 "stop": "无——单子在 2026-08-21，距今 2 个月；「Sample Testing」说明后面有项目",
@@ -525854,7 +526144,7 @@
 "next_move": {
 "when": "现在（距发货 ≈2 个月）",
 "channel": "WhatsApp（Simon）",
-"action": "一句话问测试结论与项目批量",
+"action": "先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量",
 "one_question": "Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?"
 },
 "facts": [
@@ -525865,6 +526155,78 @@
 "quote": "名单行：「47 WizardsInc Sdn Bhd 马来西亚 Raja King 公海 产品线比较像 rajaking@live.com.my 60 12-203 6165 已加」",
 "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
 "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
+{
+"date": "2025-04-11",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19623a5f07b9a5bf"
+},
+{
+"date": "2025-05-04",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19699a96e93d4ea9"
+},
+{
+"date": "2025-06-05",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1973f4fbd2176398"
+},
+{
+"date": "2025-07-04",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "197d44f5b17bb6b9"
+},
+{
+"date": "2025-10-06",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "199b7cd286b8997d"
+},
+{
+"date": "2025-11-20",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19a9f3c99302ff20"
+},
+{
+"date": "2026-02-05",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19c2c14168a821f5"
+},
+{
+"date": "2026-04-29",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19dd7f65aff0636e"
 },
 {
 "date": "2026-08-18",
@@ -525897,10 +526259,20 @@
 "quote": "LT-IS3210GP-2GX8T → STI-288GPM ×2 @¥460；LT-IS6018GP-2GX16GT-STI → STI-21616GP ×4 @¥952；LT-IS6318GP-2GX16GT → STI-21616GPM ×1 @¥1,280；明纬 NDR-240-48 ×7 @¥220；工业 SFP STI-G20-SD / STI-G2-MD 各 14 @¥28；货拉拉运费 ¥193；合计 ¥8,525。",
 "why": "对照 PI ¥10,500：整单毛利 **18.8%**；分项 STI-288GPM 550/460 = 16.4%、STI-21616GP 1,140/952 = 16.5%、STI-21616GPM 1,550/1,280 = 17.4%、NDR 270/220 = 18.5%、SFP 50/28 = 44%——整机没到 Marvell 25% 底线，是光模块把整单拉到 18.8%；08-18 报价单里 NDR 报 ¥170、288GP 非管理 ¥400，三天后 PI 改成 NDR ¥270、288GPM 管理 ¥550（客户自己升级）",
 "k": "PI 包 `19_马来西亚_Raja_可发展/郑州仨戛…P20260821-01_未税8525RMB.doc` + `STS-20260818-001.xlsx` + `STSC20260821019.xlsx`"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+"quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+"why": "第 74 批(o) `from:e.sagatelecom (to:wizardsinc.co OR to:rajaking@live.com.my OR to:rajaking@outlook.com)` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；成单（2026-08 PI）之后仍在 Bcc",
+"k": "elsa_bcc",
+"msg_id": "1a07fb58f139416e"
 }
 ],
 "proof_gaps": [
-"WhatsApp 往来未入库；无邮件"
+"WhatsApp 往来未入库；无邮件",
+"成单户仍在 Elsa 群发 Bcc 名单（sofyan 锚，2026-09-08 仍收）——剔出后只走 1:1/WhatsApp（第 74 批(o)）"
 ],
 "draft_en": {
 "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
@@ -529896,7 +530268,7 @@
 "email_hook": "Which PLANET wall-mount or DIN PoE model do your customers spec most, and would a 3-year-warranty alternative at a lower price fit your line card?",
 "mail_review": {
 "binding": {
-"level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）",
+"level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 sales@marugged.com；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 7 轮 2025-04-12→2026-09-08（锚 To desmond@multitradepac.com，本户在 Bcc；最近一轮 2026-09-08「24 Port PoE Managed Switch」）；0 回；S 邮箱那 1 封之外还有这 7 轮——「未触达」是 S/A 口径",
 "type": "—",
 "sieve": "1（只收到群发）",
 "stop": "只打通用邮箱，无记录打开；Q-33 供应商渠道客户",
@@ -529930,6 +530302,69 @@
 "quote": "名单行：「5 https://marugged.com/serial-converters/ 马来西亚 Moxa sales@marugged.com」",
 "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
 "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+},
+{
+"date": "2025-04-12",
+"dir": "去",
+"who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+"quote": "24 Port Fiber Switch（Elsa 群发第 1/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19628286dc08373a"
+},
+{
+"date": "2025-05-04",
+"dir": "去",
+"who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+"quote": "8 Port Industrial PoE Switch（Elsa 群发第 2/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19699410e40c0aa2"
+},
+{
+"date": "2025-06-05",
+"dir": "去",
+"who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+"quote": "Mini Industrial PoE Switch（Elsa 群发第 3/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1973ef1711c6bc51"
+},
+{
+"date": "2025-07-04",
+"dir": "去",
+"who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+"quote": "48 Port PoE Managed Switch（Elsa 群发第 4/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "197d3e094a95cda2"
+},
+{
+"date": "2025-10-06",
+"dir": "去",
+"who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+"quote": "10G Enterprise SFP Switch（Elsa 群发第 5/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "199b78040ff23e1c"
+},
+{
+"date": "2025-11-19",
+"dir": "去",
+"who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+"quote": "Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "19a9a0dfef96747f"
+},
+{
+"date": "2026-09-08",
+"dir": "去",
+"who": "Elsa 群发（BCC；To desmond@multitradepac.com）",
+"quote": "24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com）",
+"why": "第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单",
+"k": "elsa_bcc",
+"msg_id": "1a07f2e0ee8e17c2"
 },
 {
 "date": "2026-10-07",
@@ -575988,7 +576423,7 @@
 "mail_review": {
 "as_of": "2026-10-24",
 "binding": {
-"level": "轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）",
+"level": "轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）；Elsa 箱 to:conexionderedes.com 逐户查 0（`from:e.sagatelecom to:conexionderedes.com` complete，含 spam/trash）（第 74 批(o)）",
 "type": "集成商转发",
 "sieve": "3（资料转发层面）",
 "stop": "他把 CENTEC 资料转给 DC 客户后沉默；我们 09-09 推的是 16 口 DIN PoE，与 DC 无关",
@@ -702655,7 +703090,7 @@
 "mail_review": {
 "as_of": "2026-10-24",
 "binding": {
-"level": "轻度触达（A 邮箱 5 封实质来信：2026-01-15/01-19 对 CENTEC 表兴趣 + 2 月项目；03-10/03-11 带终端客户 C9300L-48P-4X 等价 + 堆叠 8 台需求；Alan 03-12 给 STH-2QX4DX48GP-HSI 堆叠参数并问数量 → 无回 7 个月）",
+"level": "轻度触达（A 邮箱 5 封实质来信：2026-01-15/01-19 对 CENTEC 表兴趣 + 2 月项目；03-10/03-11 带终端客户 C9300L-48P-4X 等价 + 堆叠 8 台需求；Alan 03-12 给 STH-2QX4DX48GP-HSI 堆叠参数并问数量 → 无回 7 个月）；Elsa 1:1 去信 1 封（2025-02-18「16 Port Ethernet Switch」DIN 16 口千兆稿，To 仅 arnoldomohr@gmail.com，头 19518491f1515deb 无 Bcc，称呼「Hi, Mr. Arnoldo」）——他 2026-01 才在 A 邮箱主动写 CENTEC，比 Elsa 这封晚 11 个月；全箱 `from:e.sagatelecom to:arnoldomohr@gmail.com` 仅此 1 条，complete",
 "type": "方案商（为终端客户选型）",
 "sieve": "4~5（具体型号 + 堆叠参数层面）",
 "stop": "停在「what is the quantity you need?」（2026-03-12 去）——他要先回客户，后无音；STH1G 无价也让我们没法主动给数",
@@ -702697,6 +703132,15 @@
 "quote": "「Its not free samples, we do not do free samples. **90usd/pc, STC-2224GFP-24V** 2×1G SFP + 2×GE 上联 + 24×100M PoE 下联，非管理，被动 PoE 300W，AC，1U，含电源线。Please let me know if you decide to proceed」+ 被动 PoE 手册《Passive PoE.pdf》（2024 版）内含价表：STC-024FP-24V $14 / 014GP-24V $20 / 028FP-24V $20 / 028GP-24V $31 / 1116CGFP-24V $51 / 2216GP-24V $84 / 2224GP-24V $92 / 0224GFP-24V $84 / 2024GP-24V $90（24V 被动 PoE，AC 输入，1U）；条款：批量 50/50，T/T 每笔 $25，PayPal 5%",
 "why": "样品价 $90 给了就无回——这位的模式是「免费样品 / 高端项目」两头问，没有付费动作；2026-03 的 8 台堆叠需求也无回。下一步只回不追",
 "k": "k=c9057ef48518bc9c（S 邮箱 2024-11-24 01:46Z）；附件 sha=052eecb9f79ac4d7"
+},
+{
+"date": "2025-02-18",
+"dir": "out",
+"who": "Elsa → arnoldomohr@gmail.com",
+"quote": "16 Port Ethernet Switch（Elsa 1:1 第 1/1 轮；To 仅本户）",
+"why": "第 74 批(o) `from:e.sagatelecom to:arnoldomohr@gmail.com` 全程 complete：1 行；To=本户 ⇒ 1:1 直收",
+"k": "elsa_1to1",
+"msg_id": "19518491f1515deb"
 },
 {
 "date": "2026-01-15",

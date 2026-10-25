@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -43,7 +43,7 @@ updated: 2026-10-24
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-515` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：厄瓜多尔 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」；研究档 risks：需求 GPON/路由器均不在 Saga 产品线
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：厄瓜多尔 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「GPON switch和Router；2024.8.14 10G MC → 问了一个不相关的」；研究档 risks：需求 GPON/路由器均不在 Saga 产品线
 - **现状一句话**：个人买家 Ernesto Guevara（仅 WA 电话 +505 7778 9314——+505 为尼加拉瓜区号，表内国别「厄瓜多尔」待核）。需求 GPON 交换机与路由器（Saga 均不做），2024-08 对 10G MC 问了不相关产品；18 次推送 1 次实质回复。→ B 低优先，P1 待核（p1 null）。
 - **对方真实需求（有据）**：GPON + 路由器 → Saga 无；待其出现交换机/MC 需求再对位
 - **断点 / 为什么停在这里**：需求 GPON/路由器均不在 Saga 产品线
@@ -228,12 +228,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
