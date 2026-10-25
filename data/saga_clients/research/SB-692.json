@@ -94,7 +94,7 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）",
+   "action": "—（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：事实去重）",
    "one_question": ""
   },
   "facts": [
@@ -121,14 +121,6 @@
     "quote": "Ausente - Out of office｜Estaré fuera de la oficina con acceso limitado al email hasta el 19 de  Agosto. En caso de urgencia llamar al 933408712.",
     "why": "自动回复/退信（机器，不算人工回复）",
     "k": "3e83fe6bdfdeb580"
-   },
-   {
-    "date": "2024-08-05",
-    "dir": "来",
-    "who": "jrsalvador@davantel.com",
-    "quote": "Ausente - Out of office｜Estaré fuera de la oficina con acceso limitado al email hasta el 19 de  Agosto. En caso de urgencia llamar al 933408712.",
-    "why": "自动回复/退信（机器，不算人工回复）",
-    "k": "f3e06f468c9f4dc0"
    }
   ],
   "proof_gaps": [],

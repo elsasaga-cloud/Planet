@@ -161,6 +161,32 @@ STH_MODELS = load_sth_models()
 OUT_IDX = load_out_index()
 
 
+# ---- 规格 × 型号 口径（Errors & Dead Ends 固化；窗口 = 型号后 140 字符）----
+UNMANAGED_STI = {'STI-050GE', 'STI-080GE', 'STI-240GE', 'STI-280GE', 'STI-054GP', 'STI-054FP', 'STI-144GP', 'STI-154GP', 'STI-244GP', 'STI-288GP', 'STI-488GP',
+                 'STI-110GE', 'STI-110FE', 'STI-111GP', 'STI-220GE', 'STI-21616GP', 'STI-0160GE', 'STI-222GP'}
+HRUI_MODELS = {'STC-28GPM', 'STC-28GM', 'STC-2216GPM', 'STC-208GP', 'STC-028GP', 'STC-228GP', 'STC-204GP', 'STC-114GP', 'STC-2016GP', 'STC-2024GP', 'STC-024GP',
+               'STC-024FP', 'STC-028GFP', 'STC-114XGDGP', 'STC-18XGDGE', 'STC-108XGDGP', 'STC-08GE', 'STC-05GE', 'STC-624XGDGPM', 'STC-128GFP'}
+SPEC_RULES = [  # (型号, 窗口内不该出现的正则, 说明)
+    ('STI-21616GP', r'(?<!un)managed|L2\+|VLAN', 'STI-21616GP 是非管理型（管理型 = STI-21616XGGPM）'),
+    ('STC-424XGGPM-280W', r'\bL3\b|static routing', '商用 STC-424XGGPM-280W 无 L3'),
+    ('STI-488XGGPM', r'(?<!not )\bL3\b', 'STI-488XGGPM 是 L2+（L3 的是 Realtek 线 STI-488XGGPM-2BT）'),
+    ('STI-154GP', r'2 ?x ?SFP|2 x SFP|2×SFP', 'STI-154GP = 4 PoE + 1 GE + 1 SFP'),
+    ('STI-144GP', r'2 ?x ?SFP|2×SFP|RJ45 uplink', 'STI-144GP = 4 PoE + 1 SFP'),
+    ('STI-054GP', r'SFP', 'STI-054GP = 4 PoE + 1 GE（无 SFP）'),
+    ('STI-244GP', r'(?<!un)managed|L2\+', 'STI-244GP 是非管理型'),
+    ('STC-28DGGPM', r'unmanaged', 'STC-28DGGPM 是 L2+ 管理型'),
+    ('STI-288DGGPM', r'unmanaged', 'STI-288DGGPM 是 L2+ 管理型'),
+    ('STC-204GP', r'Marvell|(?<!un)managed', 'STC-204GP = HRUI 非管理 4 PoE + 2 GE'),
+    ('STI-110GE', r'2 ?x ?SFP|PoE', 'STI-110GE = 1 RJ45 + 1 SFP，无 PoE（PoE 版 = STI-111GP）'),
+    ('STI-21616XGGPM', r'unmanaged', 'STI-21616XGGPM 是 L2+ 管理型'),
+    ('STI-042GE', r'.', 'STI-042GE 不在任何价表'),
+]
+LEAD_RE = re.compile(r'(\d{1,2})\s*[-–~to]+\s*(\d{1,2})\s*working days')
+VALID_RE = re.compile(r'(\d{1,3})-day validity|valid(?:ity)? (?:for )?(\d{1,3}) days')
+WHEN_OK = re.compile(r'^(现在|立即|2026-1[12]|2027|不动|群发节奏|待 Simon|按 WA|按 Simon|跟 PI|被动|随 S[ABC]-|待新地址|不主动|不单独发|按群发|Elsa|待|随|第 \d+ 单|标书|季度|停止|—)')
+BIND_VOCAB = ('未发信', '未触达', '已发未回', '读而不回', '地址失效', '代答', '欠答', '轻度', '较深', '深度', '深绑定', '已触达', '去信', '未绑定', '成交', '成单', '绑定', '被动', '穷举', '退信', '自动回复', '婉拒', '拒', '无邮件', '中度', '误归属', '直收', '单发')
+
+
 def allowed_prices(model, domains=()):
     out = set()
     r = render.PRICES.get(model)
@@ -271,6 +297,20 @@ def main():
         if not m['summary']:
             soft.append((c, '无 summary', g))
         # ---- 对：结构 ----
+        if m['when'] and not WHEN_OK.match(m['when']):
+            soft.append((c, 'when 词表外', m['when'][:40]))
+        if btxt and not any(v in btxt for v in BIND_VOCAB):
+            soft.append((c, '绑定行无等级词', btxt[:60]))
+        seen_f = set()
+        for f in facts:
+            key = (str(f.get('date')), str(f.get('quote'))[:80])
+            if key in seen_f:
+                soft.append((c, '事实重复', f'{key[0]} {key[1][:50]}'))
+            seen_f.add(key)
+            if not re.match(r'\d{4}(-\d{2}){0,2}$', str(f.get('date') or '')):
+                soft.append((c, '事实日期格式', str(f.get('date'))[:20]))
+            if not str(f.get('quote') or '').strip():
+                soft.append((c, '事实 quote 为空', str(f.get('date'))))
         if m['tier'] not in (20, 25, 30, None):
             hard.append((c, '档位非 20/25/30', str(m['tier'])))
         for tok in MODEL_RE.findall(str(m['p1'])):
@@ -306,6 +346,42 @@ def main():
             for price_only in re.findall(r'\$(\d{3}\.\d)\b', body):
                 if abs(float(price_only) - 202.1) <= TOL or abs(float(price_only) - 194.3) <= TOL or abs(float(price_only) - 186.5) <= TOL:
                     pass  # bypass 无型号
+            # 规格 × 型号
+            # 条目分段：上一型号之后 → 本型号之后第一个「;」或换行（稿子惯用「描述 - 型号 - 价」或「型号: 描述」）
+            mtoks = list(MODEL_RE.finditer(body))
+            for i_, mm in enumerate(mtoks):
+                mdl = mm.group(1)
+                start = max([mtoks[i_ - 1].end() if i_ else 0] + [body.rfind(ch, 0, mm.start()) + 1 for ch in ('\n', ';', ':')])
+                nxt = mtoks[i_ + 1].start() if i_ + 1 < len(mtoks) else len(body)
+                stop_c = [k for k in (body.find(';', mm.end()), body.find('\n', mm.end()), body.find('. ', mm.end())) if k != -1]
+                stop = min(stop_c + [nxt])
+                seg = body[start:stop]
+                for model, bad, why in SPEC_RULES:
+                    if mdl == model and re.search(bad, seg):
+                        hard.append((c, '规格与型号口径冲突', f'{why} ← …{seg.strip()[:160]}…'.replace('\n', ' ')))
+                if (mdl in UNMANAGED_STI or mdl in HRUI_MODELS) and re.search(r'Marvell', seg):
+                    soft.append((c, '非 Marvell 型号与「Marvell」同条目', f'{mdl} ← …{seg.strip()[:140]}…'.replace('\n', ' ')))
+                if mdl.startswith('STC-') and re.search(r'3-year warranty|three-year warranty', seg):
+                    hard.append((c, '商用 STC 写成 3 年保', mdl))
+                if mdl.startswith('STI-') and re.search(r'1-year warranty|one-year warranty', seg):
+                    hard.append((c, '工业 STI 写成 1 年保', mdl))
+            for a, b_ in LEAD_RE.findall(body):
+                if (int(a), int(b_)) not in ((4, 7), (5, 7), (4, 6), (3, 5), (7, 10), (10, 15)):
+                    soft.append((c, '交期写法非常规', f'{a}-{b_} working days'))
+            for v1, v2 in VALID_RE.findall(body):
+                v = v1 or v2
+                if v and int(v) != 15:
+                    hard.append((c, '报价有效期非 15 天', f'{v} 天'))
+            if re.search(r'\battached\b|\battachment\b', body, re.I) and '附' not in (str(nm.get('action')) + str(sn.get('price')) + str(d.get('notes'))):
+                soft.append((c, '稿称「attached」但 action/notes 无附件说明', subj[:40]))
+            # 锚价 vs 稿价（同型号）
+            am = re.search(r'(?:锚价|再触锚价|触锚价|首触锚价|再触价)[：:]?\s*(ST[CIH]-[0-9A-Z-]+)\S*\s*\$?(\d+(?:\.\d+)?)', str(sn.get('price') or ''))
+            if am:
+                amodel, aprice = am.group(1), float(am.group(2))
+                for pm_, pp, _ in pairs_in(body):
+                    if pm_ == amodel and abs(pp - aprice) > TOL:
+                        soft.append((c, '稿价 ≠ saga_now 锚价', f'{amodel} 稿 ${pp} vs 锚 ${aprice}'))
+                        break
             # Elsa 已见价冲突
             sp = str(sn.get('price') or '')
             if '$170（24 Port PoE' in sp and 'STC-424XGGPM-280W' in body and '$180' in body and '170' not in body:

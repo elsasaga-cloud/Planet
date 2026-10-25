@@ -35,10 +35,10 @@ updated: 2026-10-25
 - **是谁**：HCS Kablolama Sistemleri（HES Cabling Systems）：土耳其最大电缆制造商 HES Hacılar Elektrik 为本地 LAN 市场创立的结构化布线品牌（2000-11-22 成立；51–200 人；铜缆/光缆布线系统、CPR 认证；İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a Başakşehir；+90 212 438 25 75；info@hescs.com）。ISAF 记录：Cihat Tunçbilek（Product & Product Development Manager，2015 年起在 HCS）——找商业级 PoE 交换机，问是否带 L2/L3；无后续跟进。品牌方补有源产品 → OEM 30%。（调研 2026-10-21；表内兴趣：找商业级POE交换机 问是否带L2/L3）
 - **为什么是 A 级**：**调研后定级 A**（B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进）；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号） — 布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3；锚价：STC-424DGGPM-280W 145,7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号） — 布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3；锚价：STC-424DGGPM-280W $145.7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 - **最大未知**：年走量与现供应商
-- **下一步**：待 Simon 排期（首封；ISAF 续） A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+- **下一步**：待 Simon 排期（首封；ISAF 续） A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：锚价小数写法 145,7 → $145.7）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -48,8 +48,8 @@ updated: 2026-10-25
 - **现状一句话**：仓库无邮件。
 - **对方真实需求（有据）**：24 口 PoE+ L2+ / 24 口 + 4×10G L3 商用机（HCS 标）
 - **断点 / 为什么停在这里**：—
-- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号）**（30% 档，锚价：STC-424DGGPM-280W 145,7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—）——布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3
-- **下一步（具体）**：待 Simon 排期（首封；ISAF 续）　A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
+- **Saga 现在该推什么**：P1 **STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号）**（30% 档，锚价：STC-424DGGPM-280W $145.7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—）——布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3
+- **下一步（具体）**：待 Simon 排期（首封；ISAF 续）　A 邮箱 → ctuncbilek@hescs.com（Cihat Tunçbilek；土耳其语）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`——ISAF 问题 L2/L3 两款并列、OEM 30% 价、只问一个「先打样哪款」；Turkish 一句话版留在 one_question 备用，发信用英文）（第 75 批(ak) 2026-10-25：信稿复检修正——「(VLAN, QoS, IGMP, LACP, PoE sc」→「(VLAN, QoS)」）（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：去掉杜撰型号 STC-424XGGM(L3)，tier 25→30 与文本一致）（第 76 批(c) 2026-10-25：0 事实户补时间线事实）（第 76 批(d) 2026-10-25：锚价小数写法 145,7 → $145.7）
   - 第一问（只问一个）：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |

@@ -81,6 +81,11 @@
    "SB-843",
    "英文稿含非 ASCII",
    "š | After the bypass module - switches for t"
+  ],
+  [
+   "SB-933",
+   "稿价 ≠ saga_now 锚价",
+   "STI-42424XGGPM-4BT 稿 $500.0 vs 锚 $550.0"
   ]
  ],
  "depth": {
@@ -7295,7 +7300,7 @@
    "action": true,
    "draft": true,
    "p1": "STC-28DGGPM",
-   "tier": 20,
+   "tier": 30,
    "signals": 2,
    "kp": 1,
    "summary": true
@@ -9570,11 +9575,11 @@
    "grade": "B",
    "iso": "IN",
    "country": "印度",
-   "facts": 25,
+   "facts": 24,
    "in": 3,
-   "out": 21,
+   "out": 20,
    "pi": 0,
-   "elsa": 17,
+   "elsa": 16,
    "binding": true,
    "need": true,
    "situation": true,
@@ -21472,8 +21477,8 @@
    "grade": "B",
    "iso": "ES",
    "country": "西班牙",
-   "facts": 4,
-   "in": 2,
+   "facts": 3,
+   "in": 1,
    "out": 2,
    "pi": 0,
    "elsa": 0,
@@ -27810,7 +27815,7 @@
   "A_zero_facts": 0,
   "B_total": 1136,
   "B_draft": 483,
-  "B_facts": 3521,
+  "B_facts": 3519,
   "B_zero_facts": 0,
   "opener_ok": 221
  }
