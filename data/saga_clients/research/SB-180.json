@@ -118,7 +118,7 @@
   "next_move": {
    "when": "2027-Q1（换人后）",
    "channel": "A 邮箱 → 具名 KP",
-   "action": "换收件人再发一封",
+   "action": "换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语）；意文一页摘要是提议，Simon 决定）",
    "one_question": "For the Switch Ethernet Industriali line on iotech-italia.net, a Marvell-based DIN 8-port PoE+ managed switch with 2 SFP (−40 to +75 °C, 12–58 V) at $137.5 EXW complements the Wlink routers you represent; would a datasheet in Italian-ready format help?"
   },
   "facts": [
@@ -142,7 +142,10 @@
   "proof_gaps": [
    "用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
   ],
-  "draft_en": null,
+  "draft_en": {
+   "subject": "For the industrial switch line on iotech-italia.net - next to the Wlink routers",
+   "body": "Hello Luca,\n\nOver the past months you had a few product mails from us - most recently \"Marvell Industrial Alert System\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial Ethernet switch line you represent next to the Wlink routers, at representative/distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based - model STI-288DGGPM - $137.5 USD; the non-PoE version - STI-280DGGM - $121; compact 4 x PoE+ + 1 x SFP, unmanaged - STI-144GP - $34.1. English datasheets; an Italian one-page summary I can prepare from your wording.\n\nOne question: do your customers buy the industrial switch with the router as a kit, or separately per cabinet?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
+  },
   "as_of": "2026-10-24"
  }
 }

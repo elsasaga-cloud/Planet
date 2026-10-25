@@ -38,7 +38,7 @@ updated: 2026-10-25
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $65（10G Media Converter）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -49,7 +49,7 @@ updated: 2026-10-25
 - **对方真实需求（有据）**：对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。
 - **断点 / 为什么停在这里**：13 次群发无回复；无具名
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $65（10G Media Converter）、2025-03-06 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch））——对位 Hasivo 工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封（第 75 批(ab) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用；英文稿，不混意大利语））
   - 第一问（只问一个）：Buongiorno — beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -271,23 +271,23 @@ updated: 2026-10-25
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
+**主题**：Beside the Hasivo industrial switches - two DIN numbers and a sample to Vicenza
 
 ```text
-Hello,
+Hello Bos Italy team,
 
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Beside the Hasivo industrial switches: DIN 2-SFP + 8-PoE at $57 and Marvell managed at $79 EXW, CE/RoHS; shall I send a sample to Vicenza?
+Over the past months you had a few product mails from us - most recently "Industrial PoE Switch" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.
 
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+Beside the Hasivo industrial switches in your range, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier.
 
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+One question: shall I send one of each to Vicenza, or only the unmanaged?
 
 Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
+Simon
+Saga Telecom - sagatele.com
 ```
 
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
