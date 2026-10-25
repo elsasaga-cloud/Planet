@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,24 +36,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）。已打开的主题（2/21 封有打开记录）：「Industrial poe switch」(2024-06-28)、「Industrial fiber switch」(2024-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-18 $65（10G Media Converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the MT-TP7 industrial PoE range (TP7308POE, TP7-16GT240BT), we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 90 W PoE++ option, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which model would you dual-source first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → info@mtechnology.it 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → info@mtechnology.it 首封前知悉：Elsa 2025-02-17 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-013` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 21 封 2024→2026，其中 2 封被打开，0 回；收件 info@mtechnology.it；被打开主题「Industrial PoE Switch、Industrial poe switch」）** ｜ 类型：工业视频监控方案商（自有型号工业 PoE，Utepo 代工迹象，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS(Upeto式的外壳)是他们自己的型号 PoE配件 CCTV为主」；研究档 risks：现代工 Utepo 式（深圳）价格基准低
+- **绑定等级：读而不回（A/S 邮箱 21 封 2024→2026，其中 2 封被打开，0 回；收件 info@mtechnology.it；被打开主题「Industrial PoE Switch、Industrial poe switch」）；Elsa 单发去信 1 封（2025-02-17「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：工业视频监控方案商（自有型号工业 PoE，Utepo 代工迹象，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：意大利（欧洲全域主攻） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 21，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS(Upeto式的外壳)是他们自己的型号 PoE配件 CCTV为主」；研究档 risks：现代工 Utepo 式（深圳）价格基准低
 - **现状一句话**：意大利 Mtechnology（面向工业与极端环境的智能视频监控系统；自有型号工业 PoE 交换机 MT-TP7-16GT240BT（20 口管理，16 Hi-PoE 90W/240W）、MT-TP7308POE、MT-TP7324GE-POE、MT-TP7224E-POE，PoE 电源配件；表内「工业 FS（Utepo 式外壳）是他们自己的型号，PoE 配件，CCTV 为主」）；群发 13 次无回复。
 - **对方真实需求（有据）**：自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）
 - **断点 / 为什么停在这里**：现代工 Utepo 式（深圳）价格基准低
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-18 $65（10G Media Converter）、2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——自有 MT-TP7308POE（8 口工业 PoE）→ 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ BT 版 STI-288DGGPM-2BT 贴 MT 标；16 口 90W 管理（MT-TP7-16GT240BT）→ STI-21616XGGPM（L2+，列表价参考）。已打开的主题（2/21 封有打开记录）：「Industrial poe switch」(2024-06-28)、「Industrial fiber switch」(2024-08-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → info@mtechnology.it　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → info@mtechnology.it　首封前知悉：Elsa 2025-02-17 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
   - 第一问（只问一个）：For the MT-TP7 industrial PoE range (TP7308POE, TP7-16GT240BT), we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 90 W PoE++ option, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which model would you dual-source first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Industrial poe switch | 21 封 / 2 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS(Upeto式的外壳)是他们自己的型号 PoE配件 CCTV为主 | 表内备注 | `用户表` |
+| 2025-02-17 | out | Elsa → info@mtechnology.it | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -304,12 +305,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 61）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 61）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

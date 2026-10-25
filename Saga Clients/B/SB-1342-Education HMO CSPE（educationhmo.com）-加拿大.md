@@ -21,12 +21,13 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
+s_mail: 2 msgs (out 1 / in 1), 2026-09-29 -> 2026-09-30
 p1: STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）
 price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -97,6 +98,17 @@ updated: 2026-10-24
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：a.sagatelecom　|　**邮件**：2 封（去 1 / 来 1）　|　**期间**：2026-09-29 → 2026-09-30　|　**最后去信**：2026-09-29
+- **对方邮箱**：casault.alain@educationhmo.com
+- **最后一封来信**：2026-09-30 casault.alain@educationhmo.com「RE: Managed PoE Switches」：Hello Alan, Not for the moment, but I’ll keep your Email for futur reference. Thank you, AC De : Alan from Saga Telecom <a.sagatelecom@gmail.com> Envoyé : 29 septembre 2026 04:30 À : Alain Casault <casault.alain@educationhmo.com> Objet : Managed PoE Switches M
+- ⚠️ **对方来信在我们最后一封之后（同一线程我方发过）——待回**
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| Managed PoE Switches | 2026-09-29 | 2026-09-30 | 1 | 1 | 2 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -187,12 +199,12 @@ updated: 2026-10-24
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

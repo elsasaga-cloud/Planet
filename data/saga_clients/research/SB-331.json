@@ -71,5 +71,56 @@
   "tier": 30,
   "why": "上市巨头，自研网络产品线，非 Saga 可承接 → 改 C"
  },
- "email_hook": "（不发送：巨头）"
+ "email_hook": "（不发送：巨头）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 1 封 2025-01-22→2025-01-22、A 13 封 2025-04-15→2026-02-12，共 14 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-28「8 Port Industrial PoE Switch」→ media@yamaha.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "上市巨头（Yamaha，媒体箱）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-331（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "Yamaha Corporation 企业站 media@（媒体箱；Yamaha 网络交换机 SWX/SWR 为日本自研线）",
+  "need": "无外采口（自研 + 媒体箱）",
+  "breakpoint": "收件 media@ 不是采购口；巨头自研",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "无外采口（自研 + 媒体箱）",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：media@ 不是采购口，巨头自研",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-02-12",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "16 Port PoE Managed Switch, Commercial PoE Switch, Managed Optical Bypass Switch, Marvell Alleycat5 Solution",
+    "why": "S 1 封 2025-01-22→2025-01-22、A 13 封 2025-04-15→2026-02-12，共 14 封群发，0 真实回复｜首封 2025-01-22 → 末封 2026-02-12",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-28",
+    "dir": "out",
+    "who": "Elsa → media@yamaha.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1954859ce129ada0"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

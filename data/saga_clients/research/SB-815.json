@@ -1,122 +1,131 @@
 {
-  "code": "SB-815",
-  "name_official": "COMMANDO Networks（美国）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（commandonetworks.com，快照 2026-10-21）",
-  "summary": "美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "COMMANDO（自有）",
-    "Cisco"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "网络硬件品牌：交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆",
-      "quote": "COMMANDO is a technology company focused on networking hardware… Switching Routing Wireless Network Accessories, Access Points, Media Converters, SFP Modules, PoE Injectors",
-      "url": "https://commandonetworks.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Cisco switch MC SFP 工业 FS；北京 深圳有办事处；可以尝试多跟进一下",
-      "quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "info@commandonetworks.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ "code": "SB-815",
+ "name_official": "COMMANDO Networks（美国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（commandonetworks.com，快照 2026-10-21）",
+ "summary": "美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "COMMANDO（自有）",
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "网络硬件品牌：交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆",
+   "quote": "COMMANDO is a technology company focused on networking hardware… Switching Routing Wireless Network Accessories, Access Points, Media Converters, SFP Modules, PoE Injectors",
+   "url": "https://commandonetworks.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "COMMANDO Networks（待核）",
-    "founded": "",
-    "hq": "USA（北京 / 深圳办事处）",
-    "size": "中小型品牌商",
-    "other": "中国办事处直采"
-  },
-  "business_lines": [
-    "网络硬件（自有品牌全线）"
-  ],
-  "channels": {
-    "role": "品牌商（OEM 直采）",
-    "region": "美国"
-  },
-  "signals": [
-    "全线贴牌 → 工业 FS / MC 补 SKU"
-  ],
-  "risks": [
-    "有深圳办事处 → 可能直接对接原厂，贸易商空间有限",
-    "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。"
-  },
-  "email_hook": "For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@commandonetworks.com；主题多为「Managed Optical Bypass Switch、16 Port PoE Managed Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "US 主攻（四主）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 14；用户表：「兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处」；研究档 risks：有深圳办事处 → 可能直接对接原厂，贸易商空间有限"
-    },
-    "situation": "美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。",
-    "need": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。",
-    "breakpoint": "有深圳办事处 → 可能直接对接原厂，贸易商空间有限",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
-      "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit."
-    },
-    "facts": [
-      {
-        "date": "2026-02-11",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、16 Port PoE Managed Switch",
-        "why": "14 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-02-11（14 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Cisco switch MC SFP 工业 FS；北京 深圳有办事处；可以尝试多跟进一下",
+   "quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@commandonetworks.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "COMMANDO Networks（待核）",
+  "founded": "",
+  "hq": "USA（北京 / 深圳办事处）",
+  "size": "中小型品牌商",
+  "other": "中国办事处直采"
+ },
+ "business_lines": [
+  "网络硬件（自有品牌全线）"
+ ],
+ "channels": {
+  "role": "品牌商（OEM 直采）",
+  "region": "美国"
+ },
+ "signals": [
+  "全线贴牌 → 工业 FS / MC 补 SKU"
+ ],
+ "risks": [
+  "有深圳办事处 → 可能直接对接原厂，贸易商空间有限",
+  "美国：常要求 UL 列名（Saga 无 UL，仅 FCC/CE）→ 首触即说明"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。"
+ },
+ "email_hook": "For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@commandonetworks.com；主题多为「Managed Optical Bypass Switch、16 Port PoE Managed Switch」）；Elsa 单发去信 1 封（2025-02-25「10G Media Converter」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "US 主攻（四主）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 14；用户表：「兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处」；研究档 risks：有深圳办事处 → 可能直接对接原厂，贸易商空间有限"
+  },
+  "situation": "美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。",
+  "need": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。",
+  "breakpoint": "有深圳办事处 → 可能直接对接原厂，贸易商空间有限",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）",
+   "why": "工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 2025-02-25 单发过「10G Media Converter」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
+   "one_question": "For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit."
+  },
+  "facts": [
+   {
+    "date": "2026-02-11",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、16 Port PoE Managed Switch",
+    "why": "14 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-02-11（14 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-25",
+    "dir": "out",
+    "who": "Elsa → info@commandonetworks.com",
+    "quote": "10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "195391da8b94ccb6"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

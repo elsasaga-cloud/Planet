@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,18 +38,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2024-12-30 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：待 Simon 定 Q-33 WhatsApp（Simon） 一句话
+- **下一步**：待 Simon 定 Q-33 WhatsApp（Simon） 首封前知悉：Elsa 2026-09-08 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-099` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话 ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
+- **绑定等级：读而不回→轻度触达（Elsa 邮箱 2025-06-04 Vinod Tyagi（AGS Plus）回「Share the price. What's App number +91…」；S 邮箱 12 封 3 次打开 0 回；Q-33 标记保留——AGS Plus/Xexagon 是否为供应商渠道客户待 Simon 核）；补核（第 73 批）：Elsa 06-06 只回下载链接、未报价，之后邮件无回；Elsa 单发去信 2 封（2026-05-11「10G Enterprise SFP Switch」；2026-09-08「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求；Q-33 供应商渠道客户 ｜ 复活：Q-33 不碰；若 Simon 解除标记 → WhatsApp 一句话 ｜ 通路：IN 次级（点名） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 12，Opened 标签 3（Simon 群发追踪）；用户表：「兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price」；研究档 risks：新桥价格基准低；官网占位；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）
 - **现状一句话**：印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。
 - **对方真实需求（有据）**：24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。
 - **断点 / 为什么停在这里**：新桥价格基准低；官网占位
 - **Saga 现在该推什么**：P1 **STC-424DGGPM-280W**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2024-12-30 $240（24 Port Fiber Switch））——24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）
-- **下一步（具体）**：待 Simon 定 Q-33　WhatsApp（Simon）　一句话
+- **下一步（具体）**：待 Simon 定 Q-33　WhatsApp（Simon）　首封前知悉：Elsa 2026-09-08 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话
   - 第一问（只问一个）：Vinod — you asked for prices last June (and left your WhatsApp number); Elsa sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -59,6 +59,8 @@ updated: 2026-10-24
 | 2025-06-06 | 去 | Elsa | Please see attached file and check the full information.（附 Download Link_Alan.pdf） | Vinod 06-04「Share the price」+ 留 WhatsApp 号，Elsa 06-06 只回下载链接、没报价 → 无下文 | `gmail_e 19743ee9ad289a26` |
 | 2026-09-08 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ gunjan@xexagon.co.in（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：主要是CCTV 新桥的商业PoE;工业FS 周边产品；回复：price | 表内备注 | `用户表` |
+| 2026-05-11 | out | Elsa → sales@agsplus.in | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-09-08 | out | Elsa → gunjan@xexagon.co.in | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Q-33 标记依据待核（供应商渠道客户不碰）；（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-04 要价 + 留 WhatsApp → 06-06 只回下载链接 → 无下文）；之后是否在 WhatsApp 上谈过只有 Simon 手机知道
 
@@ -278,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

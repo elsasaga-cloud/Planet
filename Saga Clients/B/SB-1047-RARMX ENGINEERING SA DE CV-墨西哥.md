@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,18 +36,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Marisol, following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2026-09-15 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1047` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 7 封 2025，无记录打开，0 回；收件 info@rarmx.com.mx；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」）** ｜ 类型：水处理工程公司（墨西哥，工业控制配套） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：墨西哥 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「5电口 网站有工业控制产品；52-8119924840 可加Whatsapp；5电口 网站有工业控制产品 / from: 阿里巴巴RTS订单」；研究档 risks：非主攻区（T5，墨西哥）；工程公司配套（量随项目）；1 次无回复；WhatsApp 可加
+- **绑定等级：未触达（A 邮箱 7 封 2025，无记录打开，0 回；收件 info@rarmx.com.mx；主题多为「16 Port Ethernet Switch、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2026-09-15「16 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-30「Marvell Industrial Alert System」）** ｜ 类型：水处理工程公司（墨西哥，工业控制配套） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：墨西哥 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 7；用户表：「5电口 网站有工业控制产品；52-8119924840 可加Whatsapp；5电口 网站有工业控制产品 / from: 阿里巴巴RTS订单」；研究档 risks：非主攻区（T5，墨西哥）；工程公司配套（量随项目）；1 次无回复；WhatsApp 可加
 - **现状一句话**：墨西哥 RARMX Engineering SA de CV（水处理工程服务；站内工业控制产品页；阿里巴巴 RTS 订单「5 电口」；KP Marisol Mendoza；可加 WhatsApp 52-8119924840）；表内 1 次跟进无回复。
 - **对方真实需求（有据）**：RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
 - **断点 / 为什么停在这里**：非主攻区（T5，墨西哥）；工程公司配套（量随项目）；1 次无回复；WhatsApp 可加
 - **Saga 现在该推什么**：P1 **STI-050GE**（25% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-07-02 $300（48 Port PoE Managed Switch）、2025-09-15 $240（24 Port Fiber Switch））——RTS 已购 5 电口 → 工业 5 GE 非管理 STI-050GE（$17.8 @25%）复购、8 GE + 2 SFP 管理 STI-280GE（$48.6）用于水厂 PLC 网络
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2026-09-15 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
   - 第一问（只问一个）：Marisol, following your 5-port industrial switch order: for the PLC and SCADA networks in your water-treatment projects we also supply DIN-rail 8-GE + 2 SFP managed units (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — how many switches does your next plant need?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,8 @@ updated: 2026-10-24
 | 2025-09-15 | 去 | A 群发 | 16 Port Ethernet Switch、Marvell Alleycat5 Solution | 7 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-09-15（7 去 / 0 来） | `gmail_digest` |
 | 2026-09-15 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@rarmx.com.mx（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-10-21 | 用户表 | Simon | 5电口 网站有工业控制产品；52-8119924840 可加Whatsapp；5电口 网站有工业控制产品 / from: 阿里巴巴RTS订单 | 表内备注 | `用户表` |
+| 2026-09-15 | out | Elsa → info@rarmx.com.mx | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2025-12-30 | out | Elsa → info@rarmx.com.mx | Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -260,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

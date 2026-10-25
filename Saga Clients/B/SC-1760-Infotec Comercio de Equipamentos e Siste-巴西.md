@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -39,20 +39,20 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级 — 已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)；2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表
 - **第一问（只问一个）**：Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it.
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2027-Q1 S 邮箱 → transivideo@gmail.com 一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）
+- **下一步**：2027-Q1 S 邮箱 → transivideo@gmail.com 首封前知悉：Elsa 2026-08-07 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1760` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（S 邮箱 2024-06-25 ×3 + 2024-11-19：两轮要价，Simon 都当日给了；无后续）** ｜ 类型：CCTV 经销 ｜ 筛子：3（要价层面） ｜ 停点：两次拿到价表后沉默——价格/进口成本 ｜ 复活：一句话问 8+2/16+2/24+2 的年量与目标价；不发群发 ｜ 通路：巴西 非主攻 ｜ 节奏：半年 ｜ 证据：gmail_s 2024-06-25、2024-11-19/20；digest in 4
+- **绑定等级：轻度触达（S 邮箱 2024-06-25 ×3 + 2024-11-19：两轮要价，Simon 都当日给了；无后续）；Elsa 单发去信 1 封（2026-08-07「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：CCTV 经销 ｜ 筛子：3（要价层面） ｜ 停点：两次拿到价表后沉默——价格/进口成本 ｜ 复活：一句话问 8+2/16+2/24+2 的年量与目标价；不发群发 ｜ 通路：巴西 非主攻 ｜ 节奏：半年 ｜ 证据：gmail_s 2024-06-25、2024-11-19/20；digest in 4
 - **现状一句话**：巴西安防经销 Fabian 两次要价（CCTV 常用 8+2/16+2/24+2 PoE；工业非管理 4–24 口），都给了，没有下文。
 - **对方真实需求（有据）**：CCTV 用 PoE 交换机价表（8+2/16+2/24+2）；工业非管理小机。
 - **断点 / 为什么停在这里**：拿到价表后沉默；我们没问他的目标价和年量。
 - **Saga 现在该推什么**：P1 **STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级**（经销 20%% 档，2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表）——已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)
   - 复购/在买项：经；销；：；若；价；格；进；得；去；是；持；续；量
   - 做不了 / 要先核的：目；标；价；；；年；量；；；进；口；方；式
-- **下一步（具体）**：2027-Q1　S 邮箱 → transivideo@gmail.com　一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）
+- **下一步（具体）**：2027-Q1　S 邮箱 → transivideo@gmail.com　首封前知悉：Elsa 2026-08-07 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 8+2/16+2/24+2 的年量与目标价（他两次要价都没说量）
   - 第一问（只问一个）：Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -61,6 +61,7 @@ updated: 2026-10-24
 | 2024-06-25 | 来 | Fabian Alonzo | Todos los modelos 8, 16 y 24 puertas tienen los soportes para Rack 19"? Tu tienes algun equipamiento de switch con posibilidad de hacer VPN? | 机架 + VPN（无） | `q` |
 | 2024-06-26 | 去 | Simon | Yes, all the 3 models support 19" Rack mount… Sorry, we do not have any devices that could support/make a VPN. | 口径正确 | `reply` |
 | 2024-11-19 | 来 | Fabian Alonzo | Can you send me your price list with the 4-8-16 and 24 door models? | 二次要价 | `rfq` |
+| 2026-08-07 | out | Elsa → transivideo@gmail.com | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2024-06-25 报价单逐项价格（附件未解析）；公司规模
 
@@ -238,12 +239,12 @@ Simon
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,24 +36,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-25 单发过「Mini Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-864` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 35 封 2025→2026，无记录打开，0 回；收件 contact@tracnova.com, ramesh@sitech-bitdriver.com；主题多为「Managed Optical Bypass Switch、90W PoE Managed Switch」）** ｜ 类型：美国光纤通信设备制造商（串口/MC 为主，交换机二供口径） ｜ 筛子：1（只收到群发） ｜ 停点：35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 35；用户表：「VC多功能 光猫 机架 工业FS；Switch MC 串口为主」；研究档 risks：主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线
+- **绑定等级：未触达（A/S 邮箱 35 封 2025→2026，无记录打开，0 回；收件 contact@tracnova.com, ramesh@sitech-bitdriver.com；主题多为「Managed Optical Bypass Switch、90W PoE Managed Switch」）；Elsa 单发去信 1 封（2025-02-25「Mini Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：美国光纤通信设备制造商（串口/MC 为主，交换机二供口径） ｜ 筛子：1（只收到群发） ｜ 停点：35 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：US 主攻（四主） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 35；用户表：「VC多功能 光猫 机架 工业FS；Switch MC 串口为主」；研究档 risks：主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线
 - **现状一句话**：美国 S.I. Tech, Inc. / Bit-Driver（制造光纤调制解调器、复用器、中继器、线缆组件等 LAN/WAN/工业通信设备；Bit-Driver 商店；表内「VC 多功能 光猫 机架 工业 FS / Switch MC 串口为主」「可以尝试多跟进一下」；KP Ramesh S（President））；群发 19 次无回复。
 - **对方真实需求（有据）**：以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供
 - **断点 / 为什么停在这里**：主业串口光纤调制解调器/复用器（自研，Saga 不供）：以太网 MC/交换机为副线
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-08-06 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch））——以太网 MC/交换机位 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 工业 8 GE + 2 SFP STI-280GE（$50.5）贴 S.I. Tech 标；串口光猫/复用器 Saga 不供
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-25 单发过「Mini Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
   - 第一问（只问一个）：Ramesh, for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, we can be a second source on a Marvell/Realtek platform (gigabit MC, DIN-rail 8-GE/8-PoE + 2 SFP; −40~75 °C, FCC/CE/RoHS) in your housing from small lots — which Ethernet model do your SCADA customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、90W PoE Managed Switch | 35 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-10（35 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | VC多功能 光猫 机架 工业FS；Switch MC 串口为主 | 表内备注 | `用户表` |
+| 2025-02-25 | out | Elsa → sales@sitech-bitdriver.com | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -310,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

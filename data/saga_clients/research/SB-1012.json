@@ -69,7 +69,7 @@
  "email_hook": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?",
  "mail_review": {
   "binding": {
-   "level": "读而不回（A/S 邮箱 10 封 2024→2026，其中 5 封被打开，0 回；收件 zakupki@dozor23.ru；被打开主题「10G Enterprise SFP Switch、Saga Q3 Product Links」）",
+   "level": "读而不回（A/S 邮箱 10 封 2024→2026，其中 5 封被打开，0 回；收件 zakupki@dozor23.ru；被打开主题「10G Enterprise SFP Switch、Saga Q3 Product Links」）；Elsa 单发去信 1 封（2025-02-22「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "—",
    "sieve": "2（有人在读，无人回）",
    "stop": "读而不回 = 内容未命中或没有当下需求",
@@ -92,7 +92,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "A 邮箱 → zakupki@dozor23.ru",
-   "action": "短信一问（email_hook）",
+   "action": "首封前知悉：Elsa 2025-02-22 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）",
    "one_question": "Сергей, по 4/8-портовым PoE для камер: 8×PoE + 2×SFP управляемый — $84 EXW за 1 шт., неуправляемый 8×PoE — около $26.2; оплата через третью страну или в юанях. Какой вариант пригодится на ближайший объект?"
   },
   "facts": [
@@ -111,6 +111,15 @@
     "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2025-02-22",
+    "dir": "out",
+    "who": "Elsa → zakupki@dozor23.ru",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1952d875b7672370"
    }
   ],
   "proof_gaps": [

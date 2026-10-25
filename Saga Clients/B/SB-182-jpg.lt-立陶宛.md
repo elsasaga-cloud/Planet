@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -37,23 +37,24 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — 首封前知悉：Elsa 2025-02-10 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-182` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@jpg.lt；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）** ｜ 类型：安防网店（立陶宛，丰润达 PoE 在售） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：立陶宛（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 21；用户表：「商业PoE 丰润达的 销售平台」；研究档 risks：小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）
+- **绑定等级：未触达（A/S 邮箱 21 封 2024→2026，无记录打开，0 回；收件 info@jpg.lt；主题多为「Industrial PoE Switch、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-10「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：安防网店（立陶宛，丰润达 PoE 在售） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：立陶宛（欧洲全域主攻） ｜ 节奏：不动 ｜ 证据：gmail_digest：out 21；用户表：「商业PoE 丰润达的 销售平台」；研究档 risks：小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）
 - **现状一句话**：立陶宛 jpg.lt（视频监控与安防系统网店：IP 摄像机、Dahua PoE、PoE 分离器、16 口 PoE（LT-54312 / 3220-16GT240）、Ajax、Teltonika、GPS 追踪器；表内「商业 PoE 丰润达的；销售平台」「可以尝试多跟进一下」；表内国别「意大利」有误：.lt 域名 + 立陶宛语站点 → 立陶宛）；群发 12 次无回复。
 - **对方真实需求（有据）**：在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP
 - **断点 / 为什么停在这里**：小国（立陶宛，非主动挖掘范围）：网店量小；国别已更正（表内误填意大利）
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（20% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-15 $280（10G Enterprise SFP Switch））——在售丰润达商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；16 口 240W 位 STC-2216GPM（HRUI 列表价）；非管理位 HRUI STC-028GP
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 2025-02-10 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-08 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 21 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-10-08（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE 丰润达的 销售平台 | 表内备注 | `用户表` |
+| 2025-02-10 | out | Elsa → info@jpg.lt | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -301,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

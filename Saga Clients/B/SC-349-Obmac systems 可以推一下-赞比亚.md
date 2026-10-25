@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -39,20 +39,20 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推；若其 ICT 项目再来，按 2024 清单复购 — 已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购；按主表
 - **第一问（只问一个）**：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
-- **下一步**：2027-Q1 LinkedIn / WhatsApp（若有） 一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
+- **下一步**：2027-Q1 LinkedIn / WhatsApp（若有） 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-349` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度绑定（一单 $9,350 / 265 件，2024-01-17：STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600；PI 包「gg」；之后 2025 年 9 封群发 0 回）** ｜ 类型：卢萨卡 ICT + 机电承包商（Obmac；Pythias Kachepa，Gmail 私箱）——2026 起转向 11 MWp 光伏 EPC（研究档 2026-10-23 核查），网络设备为项目配套 ｜ 筛子：5（T/T 全款，FedEx 空运 120kg 到赞比亚） ｜ 停点：项目结束即结束：2024-01 之后无询价；Alan 2025 年 9 封群发（pythiask@gmail.com）无回 ｜ 复活：其下一个 ICT 项目；只跟 LinkedIn（研究档） ｜ 通路：ZM 非主攻 ｜ 节奏：半年一句话；不群发 ｜ 证据：PI STSC20240117003（CI 2024-01-17，$9,350；研究档：采购 HRUI + SmartByte RMB 33,800，利润 RMB 23,118）；A 邮箱 2025-02-13 → 2025-10-10 去信 9 封 0 回
+- **绑定等级：轻度绑定（一单 $9,350 / 265 件，2024-01-17：STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600；PI 包「gg」；之后 2025 年 9 封群发 0 回）；Elsa 单发去信 1 封（2026-09-14「16 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：卢萨卡 ICT + 机电承包商（Obmac；Pythias Kachepa，Gmail 私箱）——2026 起转向 11 MWp 光伏 EPC（研究档 2026-10-23 核查），网络设备为项目配套 ｜ 筛子：5（T/T 全款，FedEx 空运 120kg 到赞比亚） ｜ 停点：项目结束即结束：2024-01 之后无询价；Alan 2025 年 9 封群发（pythiask@gmail.com）无回 ｜ 复活：其下一个 ICT 项目；只跟 LinkedIn（研究档） ｜ 通路：ZM 非主攻 ｜ 节奏：半年一句话；不群发 ｜ 证据：PI STSC20240117003（CI 2024-01-17，$9,350；研究档：采购 HRUI + SmartByte RMB 33,800，利润 RMB 23,118）；A 邮箱 2025-02-13 → 2025-10-10 去信 9 封 0 回
 - **现状一句话**：2024-01 一张 265 件的项目单——15 台 L3 24 光口汇聚（HRUI 线 STC-4248XGGCM）+ 50 台 4 口工业 PoE + 200 只工业 SFP——是 PI 包里件数最多、利润额最高的一单（利润 RMB 23,118）。之后两年没有第二单，Simon 标「gg」。2025 年 Alan 对其私人 Gmail 发了 9 封群发，零互动。研究档查到公司重心转向光伏 EPC。
 - **对方真实需求（有据）**：项目型：ICT 工程配套（汇聚 + 工业 PoE + 光模块）。
 - **断点 / 为什么停在这里**：项目型客户没有项目；群发对私人 Gmail 无效。
 - **Saga 现在该推什么**：P1 **不推；若其 ICT 项目再来，按 2024 清单复购**（25% 档，按主表）——已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购
   - 复购/在买项：2024-01-17 唯一一单：265 台 $9,350（STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC；Simon 利润 RMB 23,118；PI 复盘 #3——金额最大的单次 C 档客户，Simon 标 gg）
   - 做不了 / 要先核的：2024 设备运行反馈（从未问）
-- **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
+- **下一步（具体）**：2027-Q1　LinkedIn / WhatsApp（若有）　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话问 2024 那批设备的运行情况 + 光伏电站项目是否需要工业交换机
   - 第一问（只问一个）：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -61,6 +61,7 @@ updated: 2026-10-24
 | 2024-01-17 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20240117003：成本 43,870 / 收款 66,988 / 利润 23,118（34.5%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2025-10-10 | 去 | Alan（群发） | 10G Enterprise SFP Switch… | 9 封群发的最后一封，0 回 | `ec7dd11fac1e257c` |
 | 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ pythiask@gmail.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
+| 2026-09-14 | out | Elsa → pythiask@gmail.com | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：成交前的沟通（2023）不在 A/S 邮箱——应在 WhatsApp
 
@@ -250,12 +251,12 @@ updated: 2026-10-24
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

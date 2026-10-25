@@ -26,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -37,23 +37,24 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — 首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1139` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易」）；但 Elsa 邮箱 2026-08/09 已群发 1 封（无回）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：埃及 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关」；研究档 risks：埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易」）；但 Elsa 邮箱 2026-08/09 已群发 1 封（无回）；Elsa 单发去信 1 封（2026-09-14「16 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：埃及 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关」；研究档 risks：埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证
 - **现状一句话**：埃及开罗 Tubal Egypt（官网为可折叠铝管制造商，Heliopolis），董事会成员 Daniel Adel Harvey（评「good」）主要处理 PoE：对 2 光 10 电讲解比较懂，问告警口能否外接 EMS，问 **SKD（外壳与板分开供货）**便于清关 —— Saga 回复可以；1 次跟进无实质回复。网络业务疑为其另一公司 / 新业务（待核）。
 - **对方真实需求（有据）**：2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。
 - **断点 / 为什么停在这里**：埃及外汇配额 / 进口登记（ACID）→ T/T 预付或信用证
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit））——2 光 8/10 电带告警口（DI/DO 可接 EMS）工业管理 PoE → STI-288GPM（$85.5 @30%）；SKD 按 OEM 口径与 SmartByte 确认散件出货。
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@tubal-egypt.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关 | 表内备注 | `用户表` |
+| 2026-09-14 | out | Elsa → info@tubal-egypt.com | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -241,12 +242,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

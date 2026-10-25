@@ -1936,6 +1936,28 @@
     "ttiecoro@hotmail.com",
     "7017620435@mail.ru"
    ]
+  },
+  {
+   "msg_id": "1a07aaaa8ce34b26",
+   "date": "2026-09-07",
+   "subject": "24 Port PoE Managed Switch",
+   "price_text": "Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI Price: 170USD/PC",
+   "to": "info@globalconnectsynergy.com",
+   "batch": "巴基斯坦（锚 globalconnectsynergy PK）",
+   "bcc": [
+    "support@mutexsystemsltd.com",
+    "info@ayk.com.pk",
+    "info@ahmerenterprises.com",
+    "umarmsibtain@gmail.com",
+    "hkkswat@gmail.com",
+    "info@mutexsystemsltd.com",
+    "info@ltepakistan.com",
+    "bblkhipk@hotmail.com",
+    "rafidone@gmail.com",
+    "jalal.hamid@gmail.com",
+    "resco@reliable.com.pk",
+    "apac@ict-integrators.com"
+   ]
   }
  ],
  "campaign_24poe_heads": {
@@ -4469,6 +4491,17 @@
     }
    ],
    "_src": "to:.ro 探测；2025 年同批锚为 sibandaprofp"
+  },
+  "globalconnectsynergy.com": {
+   "batch": "巴基斯坦（锚 globalconnectsynergy PK）",
+   "campaigns": [
+    {
+     "msg_id": "1a07aaaa8ce34b26",
+     "date": "2026-09-07",
+     "subject": "24 Port PoE Managed Switch"
+    }
+   ],
+   "_src": "第 74 批(e) 非锚普查里看似 1:1 的一行，读头发现 Bcc 12（PK 名单）；该锚其他轮次未查"
   }
  },
  "_anchors_note": "anchors = 每个群发批次的 To 首收件人（Elsa 的名单顺序稳定，同一批次每轮都是同一个 To）；campaigns = 该批次收到的全部群发（`from:e.sagatelecom to:<anchor>` complete:true）。首尾两轮 Bcc 都读过的批次，名单稳定（UK 21→38、DE 42→40、PL 19→28、US-3 43→39、IT 31→25，少数地址中途剔除/加入）。 ｜ 2026-10-25 02:0x 追加 16 锚（共 21）：每锚 `from:e.sagatelecom to:<锚>` 一次拉全程（complete:true）；锚 To 即该批次每轮同一收件人，Bcc 名单 2025-02→2026-09 基本稳定；andasis 批次最后一轮 2026-05-12（8–9 月 24-PoE 轮未发该批）；avigilon/nssi 批次 2025-07/08 才建。"

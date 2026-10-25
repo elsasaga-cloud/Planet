@@ -143,7 +143,7 @@
  "email_hook": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回",
+   "level": "未绑定（Elsa 邮箱 2026-01-26 Pavel Karpov 问「Can you provide Brocade switches?」→ Elsa 01-30 回复 → 无下文）；补核（第 73 批）：Elsa 01-30 答可代找二手 Brocade 并反问型号/速率/新旧，之后无回；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "莫斯科企业网/工业以太网分销（Microsens/Lenovo 合作）",
    "sieve": "0（邮件层无人工回复）",
    "stop": "需求是 Brocade（品牌货源），不是 OEM",
@@ -166,7 +166,7 @@
   "next_move": {
    "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
    "channel": "E 邮箱 → pkarpov@ccs-msk.ru（Elsa 原串，Pavel Karpov）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
+   "action": "首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频",
    "one_question": "For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -185,6 +185,15 @@
     "quote": "Currently, Brocade's Ethernet switch business has been integrated into other vendor portfolios, so most Brocade switches available on the market today are legacy or second-hand… We can source Brocade switches depending on the specific model… Which Brocade model(s)? Required port speed (1G, 10G, 40G)? Desired condition (new, refurbished, used)?",
     "why": "Pavel 要的是 Brocade 现货，Elsa 答可代找二手并反问 → 无下文；这不是 Saga 产品线的需求",
     "k": "gmail_e 19c0e0388879da5f"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → pkarpov@ccs-msk.ru",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e16ce005f0bc62"
    }
   ],
   "proof_gaps": [

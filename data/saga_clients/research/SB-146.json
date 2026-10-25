@@ -94,7 +94,7 @@
  "email_hook": "Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@fti-optronic.com；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）",
+   "level": "未触达（A/S 邮箱 13 封 2024→2026，1 次记录打开，0 回；收件 info@fti-optronic.com；主题多为「Marvell Alleycat5 Solution、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-28「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "—",
    "sieve": "1~2（1 次打开）",
    "stop": "只打通用邮箱，无记录打开",
@@ -117,7 +117,7 @@
   "next_move": {
    "when": "群发节奏",
    "channel": "A 邮箱",
-   "action": "观察打开",
+   "action": "首封前知悉：Elsa 2025-02-28 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
    "one_question": "Вы отметили интерес к 5-портовому промышленному неуправляемому коммутатору: можем поставить его под вашей маркой (нейтральная упаковка, шелкография логотипа), 5×GE DIN от $17 EXW; прислать образец и спецификацию?"
   },
   "facts": [
@@ -136,6 +136,15 @@
     "quote": "MC SFP 机架；2024.4.26 群发了5电口 → 有兴趣",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2025-02-28",
+    "dir": "out",
+    "who": "Elsa → info@fti-optronic.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1954b08732160d1d"
    }
   ],
   "proof_gaps": [

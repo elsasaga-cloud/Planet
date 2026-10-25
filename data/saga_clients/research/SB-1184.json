@@ -1,146 +1,155 @@
 {
-  "code": "SB-1184",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（everbesthk.com，快照 2026-10-21）",
-  "summary": "香港 Everbest Technologies Ltd. 永佳科技（1991 年起港澳独家分销：ATEN、AVer、AverMedia、CyberPower、DIGIEVER、DrayTek、LevelOne、Zyxel、Vivotek、Axis；SI 研讨会（TP-Link 交换机海报）；表内「卖几个有名的牌子」「可以尝试多跟进一下」；KP Allen Chan（Director，allenc@）、Ariel Cheng（Product Manager））；群发 9 次无回复。",
-  "type": "港澳品牌独家分销商（香港）",
-  "size": "",
-  "brands_seen": [
-    "LevelOne",
-    "Axis",
-    "Zyxel",
-    "Vivotek",
-    "DrayTek",
-    "ATEN"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Everbest Home Page - Everbest Technologies Ltd.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Everbest Technologies Ltd. (永佳科技有限公司) Bringing Innovative Products into HK & Macau since 1991. Sole Distributor in Hong Kong & Macau - ATEN, AVer, AverMedia, CyberPower, DIGIEVER, DrayTek, LevelOne, LifeSmart, VIVOTEK, Zyxel. Authorized Dis",
-      "url": "https://www.everbesthk.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "卖几个有名的牌子",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Everbest 定位",
-      "quote": "Everbest Technologies Ltd. (永佳科技有限公司) Bringing Innovative Products into HK & Macau since 1991. Sole Distributor in Hong Kong & Macau - ATEN, AVer, AverMedia, CyberPower, DIGIEVER, DrayTek, LevelOne",
-      "url": "https://www.everbesthk.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "卖几个有名的牌子",
-      "quote": "卖几个有名的牌子；可以尝试多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ariel Cheng",
-      "title": "Product Manager",
-      "email": "sales@everbesthk.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Allen Chan",
-      "title": "Director",
-      "email": "allenc@everbesthk.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1184",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（everbesthk.com，快照 2026-10-21）",
+ "summary": "香港 Everbest Technologies Ltd. 永佳科技（1991 年起港澳独家分销：ATEN、AVer、AverMedia、CyberPower、DIGIEVER、DrayTek、LevelOne、Zyxel、Vivotek、Axis；SI 研讨会（TP-Link 交换机海报）；表内「卖几个有名的牌子」「可以尝试多跟进一下」；KP Allen Chan（Director，allenc@）、Ariel Cheng（Product Manager））；群发 9 次无回复。",
+ "type": "港澳品牌独家分销商（香港）",
+ "size": "",
+ "brands_seen": [
+  "LevelOne",
+  "Axis",
+  "Zyxel",
+  "Vivotek",
+  "DrayTek",
+  "ATEN"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Everbest Home Page - Everbest Technologies Ltd.；品类词 安防监控（CCTV / 门禁） / 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Everbest Technologies Ltd. (永佳科技有限公司) Bringing Innovative Products into HK & Macau since 1991. Sole Distributor in Hong Kong & Macau - ATEN, AVer, AverMedia, CyberPower, DIGIEVER, DrayTek, LevelOne, LifeSmart, VIVOTEK, Zyxel. Authorized Dis",
+   "url": "https://www.everbesthk.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "香港",
-    "other": "官网 everbesthk.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "卖几个有名的牌子",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT/AV/安防品牌独家分销（港澳）"
-  ],
-  "channels": {
-    "role": "港澳品牌独家分销商（香港）",
-    "region": "香港",
-    "contact": "sales@everbesthk.com、allenc@everbesthk.com"
+  {
+   "kind": "官网快照",
+   "claim": "Everbest 定位",
+   "quote": "Everbest Technologies Ltd. (永佳科技有限公司) Bringing Innovative Products into HK & Macau since 1991. Sole Distributor in Hong Kong & Macau - ATEN, AVer, AverMedia, CyberPower, DIGIEVER, DrayTek, LevelOne",
+   "url": "https://www.everbesthk.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Bringing Innovative Products into HK & Macau since 1991. Sole Distributor in Hong Kong & Macau - ATEN, AVer, AverMedia, CyberPower, DIGIEVER, DrayTek, LevelOne",
-    "页面 /si-seminar/tp_link-seminar_switch_poster/、/our-products-everbest/；KP Allen Chan / Director；Ariel Cheng / Product Manager"
-  ],
-  "risks": [
-    "品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）",
-    "9 次无回复 → 改向 Product Manager 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低"
-  },
-  "email_hook": "Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 allenc@everbesthk.com, ariel@everbesthk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "港澳品牌独家分销商（香港）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "香港 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「卖几个有名的牌子」；研究档 risks：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）"
-    },
-    "situation": "香港 Everbest Technologies Ltd. 永佳科技（1991 年起港澳独家分销：ATEN、AVer、AverMedia、CyberPower、DIGIEVER、DrayTek、LevelOne、Zyxel、Vivotek、Axis；SI 研讨会（TP-Link 交换机海报）；表内「卖几个有名的牌子」「可以尝试多跟进一下」；KP Allen Chan（Director，allenc@）、Ariel Cheng（Product Manager））；群发 9 次无回复。",
-    "need": "品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低",
-    "breakpoint": "品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 20,
-      "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
-      "why": "品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-15",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "20 封 / 1 次打开 / 0 回｜首封 2024-12-24 → 末封 2026-09-15（20 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "卖几个有名的牌子",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "卖几个有名的牌子",
+   "quote": "卖几个有名的牌子；可以尝试多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ariel Cheng",
+   "title": "Product Manager",
+   "email": "sales@everbesthk.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Allen Chan",
+   "title": "Director",
+   "email": "allenc@everbesthk.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "香港",
+  "other": "官网 everbesthk.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "IT/AV/安防品牌独家分销（港澳）"
+ ],
+ "channels": {
+  "role": "港澳品牌独家分销商（香港）",
+  "region": "香港",
+  "contact": "sales@everbesthk.com、allenc@everbesthk.com"
+ },
+ "signals": [
+  "官网：Bringing Innovative Products into HK & Macau since 1991. Sole Distributor in Hong Kong & Macau - ATEN, AVer, AverMedia, CyberPower, DIGIEVER, DrayTek, LevelOne",
+  "页面 /si-seminar/tp_link-seminar_switch_poster/、/our-products-everbest/；KP Allen Chan / Director；Ariel Cheng / Product Manager"
+ ],
+ "risks": [
+  "品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）",
+  "9 次无回复 → 改向 Product Manager 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低"
+ },
+ "email_hook": "Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2024→2026，1 次记录打开，0 回；收件 allenc@everbesthk.com, ariel@everbesthk.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-12「90W PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "港澳品牌独家分销商（香港）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "香港 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20，Opened 标签 1（Simon 群发追踪）；用户表：「卖几个有名的牌子」；研究档 risks：品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）"
+  },
+  "situation": "香港 Everbest Technologies Ltd. 永佳科技（1991 年起港澳独家分销：ATEN、AVer、AverMedia、CyberPower、DIGIEVER、DrayTek、LevelOne、Zyxel、Vivotek、Axis；SI 研讨会（TP-Link 交换机海报）；表内「卖几个有名的牌子」「可以尝试多跟进一下」；KP Allen Chan（Director，allenc@）、Ariel Cheng（Product Manager））；群发 9 次无回复。",
+  "need": "品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低",
+  "breakpoint": "品牌独家分销模式（厂商授权）：白牌与其定位冲突，契合度低；非主攻区（T5）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 20,
+   "price": "换人再触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-24 $300（48 Port PoE Managed Switch）、2025-03-14 $240（24 Port Fiber Switch）、2025-10-14 $280（10G Enterprise SFP Switch）",
+   "why": "品牌授权分销为主 → 白牌价位 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作 SI 项目补位；预期低。已打开的主题（1/20 封有打开记录）：「Booster PoE Switch」(2025-11-14) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 2025-02-12 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
+   "one_question": "Allen, alongside the LevelOne, Zyxel and DrayTek switches you distribute to Hong Kong SIs, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ model and 24-PoE + 4 SFP from small lots, CE/RoHS, EXW USD — is there a price band your SIs ask for below the branded lines? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-15",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "20 封 / 1 次打开 / 0 回｜首封 2024-12-24 → 末封 2026-09-15（20 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "卖几个有名的牌子",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-12",
+    "dir": "out",
+    "who": "Elsa → sales@everbesthk.com",
+    "quote": "90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194f8f5189fd4446"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

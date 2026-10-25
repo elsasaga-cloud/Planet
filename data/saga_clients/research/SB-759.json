@@ -1,153 +1,162 @@
 {
-  "code": "SB-759",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（ccdact.com.au，快照 2026-10-21）",
-  "summary": "澳大利亚 CCD Networking（「leading manufacturer of premium network infrastructure equipment」：MC、SFP、网线，自有 CCD-5100/7100/9100 MC、CCD-POE-4100；表内「MC / SFP 自己的牌子，标价较高」「可以多跟进一下」；KP Marcus King（Director，mk@ccdact.com））；群发 21 次无回复。",
-  "type": "澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：CCD Networking - Computer Networking Products Australia；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables.",
-      "url": "https://ccd.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC SFP 自己的牌子 标价较高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "CCD Networking 定位",
-      "quote": "CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables.",
-      "url": "https://ccd.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC SFP 自己的牌子 标价较高",
-      "quote": "MC SFP 自己的牌子 标价较高；可以多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Marcus King",
-      "title": "Director",
-      "email": "mk@ccdact.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-759",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（ccdact.com.au，快照 2026-10-21）",
+ "summary": "澳大利亚 CCD Networking（「leading manufacturer of premium network infrastructure equipment」：MC、SFP、网线，自有 CCD-5100/7100/9100 MC、CCD-POE-4100；表内「MC / SFP 自己的牌子，标价较高」「可以多跟进一下」；KP Marcus King（Director，mk@ccdact.com））；群发 21 次无回复。",
+ "type": "澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：CCD Networking - Computer Networking Products Australia；品类词 安防监控（CCTV / 门禁） / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables.",
+   "url": "https://ccd.au/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "澳大利亚",
-    "other": "官网 ccdact.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC SFP 自己的牌子 标价较高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "MC / SFP / 网线（自有品牌 CCD）"
-  ],
-  "channels": {
-    "role": "澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）",
-    "region": "澳大利亚",
-    "contact": "mk@ccdact.com、sales@ccdact.com.au"
+  {
+   "kind": "官网快照",
+   "claim": "CCD Networking 定位",
+   "quote": "CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables.",
+   "url": "https://ccd.au/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables；站内 CCD-POE-4100 / CCD-5100 / CCD-7100 / CCD-9100",
-    "kw media converter 48 / poe 47 / sfp 36 / fibre 74；KP Marcus King / Director"
-  ],
-  "risks": [
-    "SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价",
-    "非主攻区（T5）；21 次无回复 → 改向 Director 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 30,
-    "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）"
-  },
-  "email_hook": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?",
-  "products_seen": [
-    {
-      "brand": "CCD（自有）",
-      "model": "CCD-POE-4100",
-      "spec": "4 口 PoE 交换机",
-      "saga": "HRUI STC-204GP（列表价，注明）",
-      "url": "https://ccd.au/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "CCD（自有）",
-      "model": "CCD-5100",
-      "spec": "媒体转换器",
-      "saga": "STI-110GE（工业）/ 桌面型注明",
-      "url": "https://ccd.au/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 4 封被打开，0 回；收件 mk@ccdact.com, sales@ccdact.com.au；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）",
-      "type": "澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "澳大利亚 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 31，Opened 标签 4（Simon 群发追踪）；用户表：「MC SFP 自己的牌子 标价较高」；研究档 risks：SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价"
-    },
-    "situation": "澳大利亚 CCD Networking（「leading manufacturer of premium network infrastructure equipment」：MC、SFP、网线，自有 CCD-5100/7100/9100 MC、CCD-POE-4100；表内「MC / SFP 自己的牌子，标价较高」「可以多跟进一下」；KP Marcus King（Director，mk@ccdact.com））；群发 21 次无回复。",
-    "need": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）",
-    "breakpoint": "SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 30,
-      "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
-      "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）。已打开的主题（4/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-29)、「8 Port Industrial PoE Switch」(2025-01-22)、「Commercial Network Switch」(2025-08-05)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → mk@ccdact.com",
-      "action": "短信一问（email_hook）",
-      "one_question": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-01",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
-        "why": "31 封 / 4 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-10-01（31 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC SFP 自己的牌子 标价较高",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Industrial PoE Switch",
-      "body": "Hi Marcus,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC SFP 自己的牌子 标价较高",
+   "quote": "MC SFP 自己的牌子 标价较高；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Marcus King",
+   "title": "Director",
+   "email": "mk@ccdact.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "澳大利亚",
+  "other": "官网 ccdact.com.au，语言 en，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "MC / SFP / 网线（自有品牌 CCD）"
+ ],
+ "channels": {
+  "role": "澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）",
+  "region": "澳大利亚",
+  "contact": "mk@ccdact.com、sales@ccdact.com.au"
+ },
+ "signals": [
+  "官网：CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables；站内 CCD-POE-4100 / CCD-5100 / CCD-7100 / CCD-9100",
+  "kw media converter 48 / poe 47 / sfp 36 / fibre 74；KP Marcus King / Director"
+ ],
+ "risks": [
+  "SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价",
+  "非主攻区（T5）；21 次无回复 → 改向 Director 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 30,
+  "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）"
+ },
+ "email_hook": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?",
+ "products_seen": [
+  {
+   "brand": "CCD（自有）",
+   "model": "CCD-POE-4100",
+   "spec": "4 口 PoE 交换机",
+   "saga": "HRUI STC-204GP（列表价，注明）",
+   "url": "https://ccd.au/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "CCD（自有）",
+   "model": "CCD-5100",
+   "spec": "媒体转换器",
+   "saga": "STI-110GE（工业）/ 桌面型注明",
+   "url": "https://ccd.au/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 31 封 2024→2026，其中 4 封被打开，0 回；收件 mk@ccdact.com, sales@ccdact.com.au；被打开主题「Industrial PoE Switch、Marvell Industrial Alert System」）；Elsa 单发去信 1 封（2025-02-25「10G Media Converter」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "澳大利亚 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 31，Opened 标签 4（Simon 群发追踪）；用户表：「MC SFP 自己的牌子 标价较高」；研究档 risks：SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价"
+  },
+  "situation": "澳大利亚 CCD Networking（「leading manufacturer of premium network infrastructure equipment」：MC、SFP、网线，自有 CCD-5100/7100/9100 MC、CCD-POE-4100；表内「MC / SFP 自己的牌子，标价较高」「可以多跟进一下」；KP Marcus King（Director，mk@ccdact.com））；群发 21 次无回复。",
+  "need": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）",
+  "breakpoint": "SFP 为其主品类之一，Saga 不供（Q-32）；商用桌面 MC 需以 SmartByte/HRUI 型号注明报价",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 30,
+   "price": "首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）",
+   "why": "自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；桌面商用 MC Saga 列表无（HRUI/SmartByte 注明）；CCD-POE-4100 位 HRUI STC-204GP（列表价）；SFP 不供（Q-32）。已打开的主题（4/31 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-29)、「8 Port Industrial PoE Switch」(2025-01-22)、「Commercial Network Switch」(2025-08-05)、「Optional Marvell Chipset Solutions」(2025-12-10) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → mk@ccdact.com",
+   "action": "首封前知悉：Elsa 2025-02-25 单发过「10G Media Converter」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）",
+   "one_question": "Marcus, for the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-01",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Marvell Industrial Alert System",
+    "why": "31 封 / 4 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-10-01（31 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC SFP 自己的牌子 标价较高",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-25",
+    "dir": "out",
+    "who": "Elsa → mk@ccdact.com",
+    "quote": "10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1953a82b6a25f4a4"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Industrial PoE Switch",
+   "body": "Hi Marcus,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for Marvell/Realtek-based gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS — which CCD model do you reorder most often?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

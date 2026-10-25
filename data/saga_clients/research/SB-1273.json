@@ -61,7 +61,7 @@
  "email_hook": "Firman, you asked how to buy and whether we have an Indonesian distributor — we sell direct EXW from 1 pc (no local stock yet); is the bypass industrial switch still for a broadcast link, and what fibre distance?",
  "mail_review": {
   "binding": {
-   "level": "未触达（1 封自动回复）",
+   "level": "未触达（1 封自动回复）；Elsa 单发去信 2 封（2026-05-12「10G Enterprise SFP Switch」；2026-08-11「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-28「Industrial PoE Switch」）",
    "type": "印尼 IT 广播/安全公司",
    "sieve": "0",
    "stop": "自动回复/机器人，无人工回复",
@@ -84,7 +84,7 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "首封前知悉：Elsa 2026-08-11 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
    "one_question": ""
   },
   "facts": [
@@ -103,6 +103,33 @@
     "quote": "用户表跟进：推「发了bypass系列宣传册 Ali链接」→ 对方「有用」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/E/群发/已重新审核  08.11/领英.xlsx no.1 2023.7.13"
+   },
+   {
+    "date": "2026-05-12",
+    "dir": "out",
+    "who": "Elsa → kosovaku@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e1ae3890188ab9"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "who": "Elsa → kosovaku@gmail.com",
+    "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19fef6807ae77bef"
+   },
+   {
+    "date": "2025-02-28",
+    "dir": "out",
+    "who": "Elsa → kosovaku@gmail.com",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1954a9a97c7bafcd"
    }
   ],
   "proof_gaps": [

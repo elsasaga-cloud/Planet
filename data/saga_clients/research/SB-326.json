@@ -1,124 +1,133 @@
 {
-  "code": "SB-326",
-  "name_official": "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（快照 2026-10-21，越南语）",
-  "summary": "越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "主业液压产品",
-      "quote": "Công ty Cổ Phần MTS chuyên cung cấp các loại Sản phẩm Thủy lực, Ống mềm, Đầu nối, Van thủy lực, Bơm thủy lực, Xilanh thủy lực",
-      "url": "https://thuyluc.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣 2 光 6 电非管理非 POE SC 20km 没成；Email 发了 2 光 6 小壳信息",
-      "quote": "兴趣：2光6电非管理非POE SC 20km 没成",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ly Thanh Ha (Lee Thanh Ha)",
-      "title": "（表内联系人）",
-      "email": "hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址）",
-      "phone": "+84 912 336 758",
-      "source": "（本地 Clients/ 表格，无公开 URL）",
-      "role": "；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照：行业外）"
+ "code": "SB-326",
+ "name_official": "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（快照 2026-10-21，越南语）",
+ "summary": "越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "主业液压产品",
+   "quote": "Công ty Cổ Phần MTS chuyên cung cấp các loại Sản phẩm Thủy lực, Ống mềm, Đầu nối, Van thủy lực, Bơm thủy lực, Xilanh thủy lực",
+   "url": "https://thuyluc.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Công ty Cổ Phần MTS",
-    "founded": "",
-    "hq": "越南",
-    "size": "中小型",
-    "other": "液压行业（行业外）"
-  },
-  "business_lines": [
-    "液压元件贸易"
-  ],
-  "channels": {
-    "role": "行业外终端 / 偶发采购",
-    "region": "越南"
-  },
-  "risks": [
-    "行业外，需求一次性"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 25,
-    "why": "2 光 6 电非管理非 PoE（SC 20 km）≈ Saga STI-280GE（2 SFP + 8 GE，$46.6/48.6/50.5）+ SC 20 km 模块（Q-32）。"
-  },
-  "email_hook": "（低优先；若再询再报）",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2024-06-21 Ly Thanh Ha「Please quote me 10pcs」→ 报价已发；无后续）",
-      "type": "越南液压/自动化公司（MTS JSC）",
-      "sieve": "3（10 台询价）",
-      "stop": "报价后无回",
-      "revive": "不动",
-      "lane": "VN",
-      "cadence": "不动",
-      "evidence": "k=6940cc80c3d991e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
-    },
-    "situation": "—",
-    "need": "8 口光纤工业。",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 25,
-      "price": "他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）",
-      "why": "已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-06-21",
-        "dir": "来",
-        "who": "chuyengiathuykhi@gmail.com",
-        "quote": "Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri Di",
-        "why": "来信原文（主题「Re: 8 port fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "6940cc80c3d991e2"
-      },
-      {
-        "date": "2024-06-22",
-        "dir": "去",
-        "who": "Simon → Ly Thanh Ha（Quotation.pdf）",
-        "quote": "10 台询价的正式报价：STI-260FE（6×FE + 2×100M 光，非 PoE，非管理，DIP）$35 ×10 = $350；STI-266FP（6×FE PoE 180W + 2×100M 光）$40 ×10 = $400；合计 $750；validity 15 d；leadtime 4~7 wd；warranty 3 years；1×9 固定光口可选。",
-        "why": "对方「Please quote me 10pcs」是明确的小批量意向，报价后无回——VN 线不动，但价是实报，留作百兆工业机锚",
-        "k": "S 邮箱附件 `Quotation.pdf` sha=191732ce6b45da58（2024-06-22）"
-      },
-      {
-        "date": "2026-09-10",
-        "dir": "去",
-        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-        "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ thuyluc1973@gmail.com（截至 2026-10-24 无回复）",
-        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "兴趣 2 光 6 电非管理非 POE SC 20km 没成；Email 发了 2 光 6 小壳信息",
+   "quote": "兴趣：2光6电非管理非POE SC 20km 没成",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ly Thanh Ha (Lee Thanh Ha)",
+   "title": "（表内联系人）",
+   "email": "hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址）",
+   "phone": "+84 912 336 758",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "；Project Manager, MTS JSC（2024-06-21 签名；发信地址 chuyengiathuykhi@gmail.com）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：行业外）"
+ },
+ "company_facts": {
+  "legal_name": "Công ty Cổ Phần MTS",
+  "founded": "",
+  "hq": "越南",
+  "size": "中小型",
+  "other": "液压行业（行业外）"
+ },
+ "business_lines": [
+  "液压元件贸易"
+ ],
+ "channels": {
+  "role": "行业外终端 / 偶发采购",
+  "region": "越南"
+ },
+ "risks": [
+  "行业外，需求一次性"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "2 光 6 电非管理非 PoE（SC 20 km）≈ Saga STI-280GE（2 SFP + 8 GE，$46.6/48.6/50.5）+ SC 20 km 模块（Q-32）。"
+ },
+ "email_hook": "（低优先；若再询再报）",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2024-06-21 Ly Thanh Ha「Please quote me 10pcs」→ 报价已发；无后续）；Elsa 单发去信 1 封（2026-09-10「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "越南液压/自动化公司（MTS JSC）",
+   "sieve": "3（10 台询价）",
+   "stop": "报价后无回",
+   "revive": "不动",
+   "lane": "VN",
+   "cadence": "不动",
+   "evidence": "k=6940cc80c3d991e2；第 19 批回补来信原文 1 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "8 口光纤工业。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）",
+   "why": "已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 2026-09-10 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-06-21",
+    "dir": "来",
+    "who": "chuyengiathuykhi@gmail.com",
+    "quote": "Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri Di",
+    "why": "来信原文（主题「Re: 8 port fiber switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "6940cc80c3d991e2"
+   },
+   {
+    "date": "2024-06-22",
+    "dir": "去",
+    "who": "Simon → Ly Thanh Ha（Quotation.pdf）",
+    "quote": "10 台询价的正式报价：STI-260FE（6×FE + 2×100M 光，非 PoE，非管理，DIP）$35 ×10 = $350；STI-266FP（6×FE PoE 180W + 2×100M 光）$40 ×10 = $400；合计 $750；validity 15 d；leadtime 4~7 wd；warranty 3 years；1×9 固定光口可选。",
+    "why": "对方「Please quote me 10pcs」是明确的小批量意向，报价后无回——VN 线不动，但价是实报，留作百兆工业机锚",
+    "k": "S 邮箱附件 `Quotation.pdf` sha=191732ce6b45da58（2024-06-22）"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+    "quote": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ thuyluc1973@gmail.com（截至 2026-10-24 无回复）",
+    "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "out",
+    "who": "Elsa → thuyluc1973@gmail.com",
+    "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1a08a7cf5fc993e4"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

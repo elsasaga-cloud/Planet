@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,7 +36,24 @@ updated: 2026-10-24
 - **历史互动**：推送 14 次（2024-07-09 → 2025-10-20）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：PROmesh 为 Indu-Sol 自研自产工业交换机（德国）→ 非 OEM 买家 → 改 C（与 SB-314 同口径））
 - **最大未知**：年走量与现供应商
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：不动 — 不动：同行厂商（与 SB-314 同线）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-856` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：已发未回（无人工回复、无打开记录；S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「24 Port Fiber Switch」→ info@indu-sol.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）** ｜ 类型：同行厂商（Indu-Sol PROmesh 自产） ｜ 筛子：1 ｜ 停点：读 ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：['mail_dump.py SB-856（S/A 全量）', 'data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）']
+- **现状一句话**：德国 PROmesh / Indu-Sol（自产工业交换机品牌；与 SB-314 InduSol America 同集团；同行）
+- **对方真实需求（有据）**：同行厂商，无外采口
+- **断点 / 为什么停在这里**：同行；info@ 17 封 0 回
+- **Saga 现在该推什么**：P1 **None**（None% 档，None）——同行厂商，无外采口
+  - 复购/在买项：无；成；单；；；不；动
+- **下一步（具体）**：不动　—　不动：同行厂商（与 SB-314 同线）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-03-06 | 去 | S/A 群发 | 8 port network switch, Industrial poe switch, Rack Managed Switch, 10G Media Converter | S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复｜首封 2024-07-11 → 末封 2026-03-06 | `gmail_digest` |
+| 2025-02-10 | out | Elsa → info@indu-sol.com | 24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -202,8 +219,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → C
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

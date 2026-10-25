@@ -26,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,7 +36,24 @@ updated: 2026-10-24
 - **历史互动**：推送 17 次（2024-05-09 → 2025-10-09）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：内地手机号 + 香港壳 + Utepo 贴牌自有型号 → 同行出口商，非海外渠道 → 改 C）
 - **最大未知**：年走量与现供应商
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：不动 — 不动：同行贸易商，留群发名单
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-248` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：已发未回（无人工回复、无打开记录；S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「Mini Industrial PoE Switch」→ office@ansecnetwork.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）** ｜ 类型：港资贸易商（自有型号，Utepo 代工，同行） ｜ 筛子：1（无人读/无人回） ｜ 停点：读 ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：['mail_dump.py SB-248（S/A 全量）', 'data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）']
+- **现状一句话**：香港 ANSEC Network（自有 AS- 型号转卖 Utepo 工业 FS 的贸易商，内地手机；同行）
+- **对方真实需求（有据）**：同行贸易商：只可能在 Utepo 断供/涨价时找二供
+- **断点 / 为什么停在这里**：同行 + 自有型号已有代工；S/A 26 封 0 回
+- **Saga 现在该推什么**：P1 **None**（None% 档，None）——同行贸易商：只可能在 Utepo 断供/涨价时找二供
+  - 复购/在买项：无；成；单；；；不；动
+- **下一步（具体）**：不动　—　不动：同行贸易商，留群发名单
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-08 | 去 | S/A 群发 | Marvell Industrial Alert System, Industrial PoE Switch, 10G Enterprise SFP Switch, 48 port managed switch | S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复｜首封 2024-07-04 → 末封 2026-10-08 | `gmail_digest` |
+| 2025-02-10 | out | Elsa → office@ansecnetwork.com | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -216,8 +233,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 47）；人工/调研定级 → C
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 47）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

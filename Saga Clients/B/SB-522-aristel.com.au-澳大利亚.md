@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,23 +36,24 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Aristel 标作管理型上位。已打开的主题（1/33 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2025-01-21 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $220（48 port switch）、2025-04-22 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — 首封前知悉：Elsa 2025-02-24 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-522` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 33 封 2024→2026，1 次记录打开，0 回；收件 sales@aristel.com.au；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）** ｜ 类型：澳洲电话/网络系统品牌商（PoE 现由 HRUI 供货 → Q-33 口径） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 33，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE 洪瑞的」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线
+- **绑定等级：未触达（A/S 邮箱 33 封 2024→2026，1 次记录打开，0 回；收件 sales@aristel.com.au；主题多为「Marvell Industrial Alert System、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-24「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：澳洲电话/网络系统品牌商（PoE 现由 HRUI 供货 → Q-33 口径） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开；Q-33 供应商渠道客户 ｜ 复活：不动（Q-33） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 33，Opened 标签 1（Simon 群发追踪）；用户表：「商业POE 洪瑞的」；研究档 risks：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线
 - **现状一句话**：澳大利亚 Aristel Networks（电话/网络系统供应商，「Over 60k Systems Installed」；自有 AN42N 4 口 PoE 交换机、SP/TE/SN 系列；表内「商业 PoE，洪瑞（HRUI）的」；KP Abraha Teklu（Technical Manager））；群发 22 次无回复。
 - **对方真实需求（有据）**：现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Aristel 标作管理型上位
 - **断点 / 为什么停在这里**：现供 HRUI（Saga 供应商）：按 Q-33 口径只推 SmartByte 差异化线
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-08 $65（10G Media Converter）、2025-01-21 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-26 $220（48 port switch）、2025-04-22 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch））——现 PoE 由 HRUI 供货 → 按 Q-33 口径不以 HRUI 同型号竞价，只推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Aristel 标作管理型上位。已打开的主题（1/33 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 2025-02-24 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-29 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 33 封 / 1 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-29（33 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业POE 洪瑞的 | 表内备注 | `用户表` |
+| 2025-02-24 | out | Elsa → sales@aristel.com.au | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -313,12 +314,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

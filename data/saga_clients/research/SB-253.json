@@ -1,168 +1,186 @@
 {
-  "code": "SB-253",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（watchnetinc.com，快照 2026-10-21）",
-  "summary": "WatchNET inc（北美 CCTV、门禁与 NVR 方案商，总部加拿大安大略（表内国别「美国」，待核）；自有 POESW04R3 / POESW08R3 / POESW16R3 PoE 交换机（Utepo 代工，表内「utepo 的商业 switch / good」）；KP Harish Vettukuzhiyil（VP Sales & Marketing）、Junaize E（Technical Support Engineer））；群发 19 次无回复。",
-  "type": "北美安防品牌商（自有 POESW 系列，OEM 采购）",
-  "size": "",
-  "brands_seen": [
-    "Utepo"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Home Page - WatchNET inc - CCTV, Access Control and NVRs；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
-      "quote": "WatchNET provides cutting-edge surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America.",
-      "url": "https://watchnetinc.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "WatchNET 定位",
-      "quote": "Home Page - WatchNET inc - CCTV, Access Control and NVRs ; surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America ; POESW08R3",
-      "url": "https://watchnetinc.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "Utepo 的商业 switch / good",
-      "quote": "Utepo / 网站：主要是商业POE switch / 主要是CCTV 商业PoE Utepo的；utepo的商业switch / good",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Harish Vettukuzhiyil",
-      "title": "Vice President Sales & Marketing",
-      "email": "harish@watchnetinc.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Junaize E",
-      "title": "Technical Support Engineer",
-      "email": "",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-253",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（watchnetinc.com，快照 2026-10-21）",
+ "summary": "WatchNET inc（北美 CCTV、门禁与 NVR 方案商，总部加拿大安大略（表内国别「美国」，待核）；自有 POESW04R3 / POESW08R3 / POESW16R3 PoE 交换机（Utepo 代工，表内「utepo 的商业 switch / good」）；KP Harish Vettukuzhiyil（VP Sales & Marketing）、Junaize E（Technical Support Engineer））；群发 19 次无回复。",
+ "type": "北美安防品牌商（自有 POESW 系列，OEM 采购）",
+ "size": "",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Home Page - WatchNET inc - CCTV, Access Control and NVRs；品类词 安防监控（CCTV / 门禁） / 网络交换 / PoE",
+   "quote": "WatchNET provides cutting-edge surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America.",
+   "url": "https://watchnetinc.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "美国",
-    "other": "官网 watchnetinc.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "CCTV / NVR / 门禁（自有品牌 WatchNET）",
-    "配套 PoE 交换机（POESW 系列）"
-  ],
-  "channels": {
-    "role": "北美安防品牌商（自有 POESW 系列，OEM 采购）",
-    "region": "美国",
-    "contact": "info@watchnetinc.com、harish@watchnetinc.com"
+  {
+   "kind": "官网快照",
+   "claim": "WatchNET 定位",
+   "quote": "Home Page - WatchNET inc - CCTV, Access Control and NVRs ; surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America ; POESW08R3",
+   "url": "https://watchnetinc.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：WatchNET provides cutting-edge surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America；站内 POESW04R3 / POESW08R3 / POESW16R3 / VMS-2000-V2；kw camera 67",
-    "表内：Utepo 的商业 switch / good；主要是 CCTV 商业 PoE；KP Harish Vettukuzhiyil / Vice President Sales & Marketing；Junaize E / Technical Support Engineer"
-  ],
-  "risks": [
-    "国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低",
-    "19 次无回复 → 改向 VP Sales & Marketing 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）"
-  },
-  "email_hook": "Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most?",
-  "products_seen": [
-    {
-      "brand": "WatchNET（自有，Utepo 代工）",
-      "model": "POESW08R3",
-      "spec": "8 口 PoE 交换机",
-      "saga": "STC-28DGGPM",
-      "url": "https://watchnetinc.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "WatchNET（自有，Utepo 代工）",
-      "model": "POESW16R3",
-      "spec": "16 口 PoE 交换机",
-      "saga": "STC-2216GPM（HRUI 列表价，注明）",
-      "url": "https://watchnetinc.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 37 封 2024→2026，1 次记录打开，0 回；收件 harish@watchnetinc.com, info@watchnetinc.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）",
-      "type": "北美安防品牌商（自有 POESW 系列，OEM 采购）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "37 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "US 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 37，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的」；研究档 risks：国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低"
-    },
-    "situation": "WatchNET inc（北美 CCTV、门禁与 NVR 方案商，总部加拿大安大略（表内国别「美国」，待核）；自有 POESW04R3 / POESW08R3 / POESW16R3 PoE 交换机（Utepo 代工，表内「utepo 的商业 switch / good」）；KP Harish Vettukuzhiyil（VP Sales & Marketing）、Junaize E（Technical Support Engineer））；群发 19 次无回复。",
-    "need": "自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）",
-    "breakpoint": "国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-07-15 $65（10G media converter）、2024-08-18 $300（PoE managed switch）、2024-12-26 $240（24 Port Fiber Switch）、2025-01-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-07 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
-      "why": "自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（1/37 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-07) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-14",
-        "dir": "去",
-        "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
-        "quote": "Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@watchnetinc.com（截至 2026-10-24 无回复）",
-        "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
-        "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
-      },
-      {
-        "date": "2026-09-18",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
-        "why": "37 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-18（37 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "Utepo 的商业 switch / good",
+   "quote": "Utepo / 网站：主要是商业POE switch / 主要是CCTV 商业PoE Utepo的；utepo的商业switch / good",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Harish Vettukuzhiyil",
+   "title": "Vice President Sales & Marketing",
+   "email": "harish@watchnetinc.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Junaize E",
+   "title": "Technical Support Engineer",
+   "email": "",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "美国",
+  "other": "官网 watchnetinc.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "CCTV / NVR / 门禁（自有品牌 WatchNET）",
+  "配套 PoE 交换机（POESW 系列）"
+ ],
+ "channels": {
+  "role": "北美安防品牌商（自有 POESW 系列，OEM 采购）",
+  "region": "美国",
+  "contact": "info@watchnetinc.com、harish@watchnetinc.com"
+ },
+ "signals": [
+  "官网：WatchNET provides cutting-edge surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America；站内 POESW04R3 / POESW08R3 / POESW16R3 / VMS-2000-V2；kw camera 67",
+  "表内：Utepo 的商业 switch / good；主要是 CCTV 商业 PoE；KP Harish Vettukuzhiyil / Vice President Sales & Marketing；Junaize E / Technical Support Engineer"
+ ],
+ "risks": [
+  "国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低",
+  "19 次无回复 → 改向 VP Sales & Marketing 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）"
+ },
+ "email_hook": "Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most?",
+ "products_seen": [
+  {
+   "brand": "WatchNET（自有，Utepo 代工）",
+   "model": "POESW08R3",
+   "spec": "8 口 PoE 交换机",
+   "saga": "STC-28DGGPM",
+   "url": "https://watchnetinc.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "WatchNET（自有，Utepo 代工）",
+   "model": "POESW16R3",
+   "spec": "16 口 PoE 交换机",
+   "saga": "STC-2216GPM（HRUI 列表价，注明）",
+   "url": "https://watchnetinc.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 37 封 2024→2026，1 次记录打开，0 回；收件 harish@watchnetinc.com, info@watchnetinc.com；主题多为「Industrial PoE Switch、8 Port Industrial PoE Switch」）；Elsa 单发去信 1 封（2026-09-14「16 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-12-31「Marvell Industrial Alert System」）",
+   "type": "北美安防品牌商（自有 POESW 系列，OEM 采购）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "37 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "US 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 37，Opened 标签 1（Simon 群发追踪）；用户表：「Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的」；研究档 risks：国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低"
+  },
+  "situation": "WatchNET inc（北美 CCTV、门禁与 NVR 方案商，总部加拿大安大略（表内国别「美国」，待核）；自有 POESW04R3 / POESW08R3 / POESW16R3 PoE 交换机（Utepo 代工，表内「utepo 的商业 switch / good」）；KP Harish Vettukuzhiyil（VP Sales & Marketing）、Junaize E（Technical Support Engineer））；群发 19 次无回复。",
+  "need": "自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）",
+  "breakpoint": "国别待核：WatchNET 总部在加拿大安大略（表内美国）；现供 Utepo（深圳）价格基准低",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-07-15 $65（10G media converter）、2024-08-18 $300（PoE managed switch）、2024-12-26 $240（24 Port Fiber Switch）、2025-01-08 $65（10G Media Converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-07 $300（48 Port PoE Managed Switch）、2025-10-07 $280（10G Enterprise SFP Switch）",
+   "why": "自有 POESW 系列（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 WatchNET 标；16 口位 HRUI STC-2216GPM（列表价，注明）；24 口 STC-424DGGPM-280W（$145.7）。已打开的主题（1/37 封有打开记录）：「10G Enterprise SFP Switch」(2025-10-07) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 2026-09-14 单发过「16 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
+   "one_question": "Harish, for the POESW-series switches that ship with your NVR and camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP, FCC/CE/RoHS) from small lots in your packaging — which model do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+    "quote": "Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@watchnetinc.com（截至 2026-10-24 无回复）",
+    "why": "仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据",
+    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+   },
+   {
+    "date": "2026-09-18",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、8 Port Industrial PoE Switch",
+    "why": "37 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-18（37 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "out",
+    "who": "Elsa → info@watchnetinc.com",
+    "quote": "16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1a09f5bf8587cfc5"
+   },
+   {
+    "date": "2025-12-31",
+    "dir": "out",
+    "who": "Elsa → info@watchnetinc.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b7322831deee59"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,24 +38,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02-12 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-266` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 vismin@rspotsolutions.com；主题多为「Marvell Alleycat5 Solution」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多」；研究档 risks：亚太非主攻区；1 次跟进无回复；低价竞争
+- **绑定等级：未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 vismin@rspotsolutions.com；主题多为「Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-12「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：1 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：菲律宾 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 1；用户表：「从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多」；研究档 risks：亚太非主攻区；1 次跟进无回复；低价竞争
 - **现状一句话**：菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。
 - **对方真实需求（有据）**：分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
 - **断点 / 为什么停在这里**：亚太非主攻区；1 次跟进无回复；低价竞争
 - **Saga 现在该推什么**：P1 **STC-228GP**（20% 档，Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit））——分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02-12 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
   - 第一问（只问一个）：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-17 | 去 | A 群发 | Marvell Alleycat5 Solution | 1 封 / 0 次打开 / 0 回｜首封 2025-03-17 → 末封 2025-03-17（1 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多 | 表内备注 | `用户表` |
+| 2025-02-12 | out | Elsa → vismin@rspotsolutions.com | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -251,12 +252,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

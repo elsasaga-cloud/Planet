@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,24 +36,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → george@ltsecurityinc.com.au 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → george@ltsecurityinc.com.au 首封前知悉：Elsa 2025-02-14 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-150` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 30 封 2024→2026，其中 4 封被打开，0 回；收件 george@ltsecurityinc.com.au, info@ltsecurityinc.com.au；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）** ｜ 类型：安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 30，Opened 标签 4（Simon 群发追踪）；用户表：「工业FS MC 周边产品 Upeto的工业FS 自己的型号」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报
+- **绑定等级：读而不回（A/S 邮箱 30 封 2024→2026，其中 4 封被打开，0 回；收件 george@ltsecurityinc.com.au, info@ltsecurityinc.com.au；被打开主题「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-02-14「24 Port Fiber Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：澳大利亚 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 30，Opened 标签 4（Simon 群发追踪）；用户表：「工业FS MC 周边产品 Upeto的工业FS 自己的型号」；研究档 risks：非主攻区（T5）；RCM 合规由客户申报
 - **现状一句话**：澳大利亚 LTS Security（LT Security 产品澳洲授权进口分销：CCTV、对讲、Ajax、PRO-X，KNX 认证，Trade Account；表内「工业 FS / MC / 周边；Utepo 的工业 FS，自己的型号」；KP George Lu（Technical Support Specialist，george@））；群发 21 次无回复。
 - **对方真实需求（有据）**：自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM
 - **断点 / 为什么停在这里**：非主攻区（T5）；RCM 合规由客户申报
 - **Saga 现在该推什么**：P1 **STI-288GP**（30% 档，首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-01 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-08 $280（10G Enterprise SFP Switch））——自有型号工业 FS 现由 Utepo 代工 → 工业非管理 8 PoE + 2 SFP STI-288GP（$62.2 @30%）/ 管理型 STI-288GPM 作二供；商用位 STC-28DGGPM。已打开的主题（4/30 封有打开记录）：「Commercial Network Switch」(2025-05-07)、「Industrial PoE Switch」(2025-06-24)、「Managed Optical Bypass Switch」(2025-07-14)、「L3 Managed Switch」(2025-10-27) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-01)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → george@ltsecurityinc.com.au　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → george@ltsecurityinc.com.au　首封前知悉：Elsa 2025-02-14 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
   - 第一问（只问一个）：George, for the industrial PoE switches you carry under your own model numbers, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP, −40~75 °C) from small lots in your housing, CE/RoHS — would a sample against your current Utepo unit be useful? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-18 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 30 封 / 4 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-09-18（30 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC 周边产品 Upeto的工业FS 自己的型号 | 表内备注 | `用户表` |
+| 2025-02-14 | out | Elsa → george@ltsecurityinc.com.au | 24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -314,12 +315,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

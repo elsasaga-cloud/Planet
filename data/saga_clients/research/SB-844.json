@@ -69,5 +69,56 @@
   "tier": 30,
   "why": "上市巨头（自研工业通信产品线，含铁路），非 Saga 可承接 → 改 C"
  },
- "email_hook": "（不发送：上市巨头）"
+ "email_hook": "（不发送：上市巨头）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 6 封 2024-07-09→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「48 Port SFP Switch」→ info@kontron.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "上市嵌入式巨头（轨交/TSN）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-844（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "德国 Kontron（上市嵌入式/IoT 巨头：TSN 工业通讯、FRMCS 铁路）",
+  "need": "巨头自研 + 轨交主营 → 守界",
+  "breakpoint": "info@ 17 封 0 回；巨头准入不走 info@",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "巨头自研 + 轨交主营 → 守界",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：巨头自研 + 轨交",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-03-06",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Industrial PoE Switch, Marvell Industrial Alert System, 24 port managed switch, 8 port Network Switch",
+    "why": "S 6 封 2024-07-09→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复｜首封 2024-07-09 → 末封 2026-03-06",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "who": "Elsa → info@kontron.com",
+    "quote": "48 Port SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194efd68011655a8"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

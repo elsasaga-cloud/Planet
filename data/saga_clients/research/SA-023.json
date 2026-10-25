@@ -134,7 +134,7 @@
  "email_hook": "Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.",
  "mail_review": {
   "binding": {
-   "level": "未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII",
+   "level": "未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表）",
    "sieve": "0（邮件层无人工回复）",
    "stop": "可信度核验（网站/地址）后停；当时 sagatele.com 未上线",
@@ -157,7 +157,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "E 或 A 邮箱 → ak@impulsecctv.com",
-   "action": "一封：sagatele.com + 地址 + 一句话",
+   "action": "首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；一封：sagatele.com + 地址 + 一句话",
    "one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
   },
   "facts": [
@@ -192,6 +192,15 @@
     "quote": "For detailed CENTEC-based product information(specifications and datasheets), we usually provide them directly to partners via email… 1. Are you working on a project or developing your own brand? 2. Is this regarding MII compliance, or just a regular import?（附 8C48XF.png）",
     "why": "Amol 01-07 要网站 + 地址，Elsa 01-08 没给（当时无官网），反问项目/品牌 + MII → 无下文；现在 sagatele.com 上线，信稿补这一笔是对的",
     "k": "gmail_e 19b9ccd03f17ff1c"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → ak@impulsecctv.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e160cd5dd086ce"
    }
   ],
   "proof_gaps": [

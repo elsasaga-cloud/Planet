@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,23 +38,24 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线） — 他要的是 550 只 90W 注入器（非 Saga 品类）+ 南美批发价位 → 只有 HRUI/Realtek 非管理 PoE 线能对位，是否开线 Simon 定；在此之前不主动；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $220（48 port managed switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：— — 不主动；若 Simon 开 Realtek 线则一次对位表
+- **下一步**：— — 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；不主动；若 Simon 开 Realtek 线则一次对位表
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-147` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）** ｜ 类型：玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕 ｜ 复活：其再次询价 ｜ 通路：BO 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com
+- **绑定等级：未绑定（Elsa 邮箱 2025-07-02 Eduardo Miranda 要 5/8/16/24 口非管理 PoE（10/100 与千兆）「with your standard brand name and standard carton box」+ 图片 → Elsa 07-03 回复 → 无下文）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：玻利维亚圣克鲁斯批发分销（布线/光纤/网络，Gerente Eduardo Miranda）——南美非主攻 ｜ 筛子：0（邮件层无人工回复） ｜ 停点：Elsa 回复后无下文（回复正文未入库）；用户表「550 只 90W 注入器」需求在邮件无痕 ｜ 复活：其再次询价 ｜ 通路：BO 非主攻 ｜ 节奏：不主动 ｜ 证据：邮件：去信 8 封（2024-06-28 → 2025-01-10），来信 0；Opened 标签 0 次；收件人 emiranda@surlink-tech.com
 - **现状一句话**：Eduardo 的来信是一张清楚的采购清单：非管理 PoE 全口数、Saga 标准品牌与标准彩盒、要图片——是批发商选品。Elsa 回了，之后无回。
 - **对方真实需求（有据）**：非管理 PoE 5/8/16/24 口（商用，标准包装）。
 - **断点 / 为什么停在这里**：回复后静默；价格段（南美批发）可能不匹配 Marvell。
 - **Saga 现在该推什么**：P1 **HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线）**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $220（48 port managed switch））——他要的是 550 只 90W 注入器（非 Saga 品类）+ 南美批发价位 → 只有 HRUI/Realtek 非管理 PoE 线能对位，是否开线 Simon 定；在此之前不主动
-- **下一步（具体）**：—　—　不主动；若 Simon 开 Realtek 线则一次对位表
+- **下一步（具体）**：—　—　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；不主动；若 Simon 开 Realtek 线则一次对位表
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-07-02 | 来（Elsa 箱） | Ing. Eduardo Miranda（Gerente） | Switch 10 100 non manageable poe / 10 100 1000 non manageable poe 5 ports 8 ports 16 ports 24 ports Must be with your standart brand name and standart carton box. Need to have pictures | 采购清单 | `E 197cbce0cb34789f` |
 | 2025-07-03 | 去 | Elsa | Please see attached quotation including 1, prices 2, photos 3, packing info. It is about unit price. If you are doing a bulk purchase, lets discuss the final prices.（附 Quotation.xls，3.7 MB） | Elsa 次日回了整张报价单（5/8/16/24 口非管理 PoE）→ 无下文；报价单数字在附件里，连接器不拉附件 | `gmail_e 197cf9203e1b9d65` |
+| 2026-05-11 | out | Elsa → emiranda@surlink-tech.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「550 只 90W 注入器」出处未见；（已核 2026-10-24，第 73 批）Elsa 07-03 回 Quotation.xls（单价 + 照片 + 装箱，「批量再谈」）；表内数字仍未入库（附件需 Takeout）
 
@@ -284,12 +285,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-07**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-08**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

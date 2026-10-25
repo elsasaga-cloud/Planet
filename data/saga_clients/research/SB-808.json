@@ -71,5 +71,56 @@
   "tier": 25,
   "why": "消费级 DTC 品牌、母公司在深圳、仅 support@ → 非 Saga 出口客户画像（INH：不做消费级；大陆背景公司非出口客户）→ 改 C"
  },
- "email_hook": "（不发送：消费级安防品牌，深圳母公司）"
+ "email_hook": "（不发送：消费级安防品牌，深圳母公司）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（只收到自动回执/假期回复，无人工回复、无打开记录；S 1 封 2025-01-15→2025-01-15、A 13 封 2025-04-07→2026-02-06，共 14 封群发，0 真实回复（24 封自动回执/假期回复，不算回）；Elsa 单发去信 1 封（2025-02-19「Industrial PoE Switch」→ support@annke.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "消费级安防品牌（DTC，深圳母公司）",
+   "sieve": "1（工单自动回执）",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-808（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "ANNKE（消费级安防 DTC 品牌，深圳母公司；只有 support@ 工单箱，每封都回「Support welcome email」验证信）",
+  "need": "消费级 + 深圳母公司：无外采口",
+  "breakpoint": "support@ 是工单箱（20+ 封自动验证信）；不是采购口",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "消费级 + 深圳母公司：无外采口",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：工单箱 + 消费级 + 深圳母公司",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-02-06",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Managed Optical Bypass Switch, 16 Port PoE Managed Switch, Marvell Alleycat5 Solution, Commercial Network Switch",
+    "why": "S 1 封 2025-01-15→2025-01-15、A 13 封 2025-04-07→2026-02-06，共 14 封群发，0 真实回复（24 封自动回执/假期回复，不算回）｜首封 2025-01-15 → 末封 2026-02-06",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-19",
+    "dir": "out",
+    "who": "Elsa → support@annke.com",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951eef143ec1245"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

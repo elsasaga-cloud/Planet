@@ -54,7 +54,7 @@
  "email_hook": "Waseem, to promote the mini industrial switch you'll need the datasheet and dealer price — which customers would you pitch it to (CCTV installers, ISPs, factories)? I'll send the matching pack.",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）",
+   "level": "轻度触达（2024-05-24 Waseem「send me your website」→ Drive 链接；2025-02-28 Elsa 邮箱再回「no need sample… we promote your product in Pakistan」= 想做推广不是买）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）；另 Elsa 单发 1 封（2025-02-28「Mini Industrial PoE Switch」）",
    "type": "巴基斯坦电源/工程（Power Logic；Gmail）",
    "sieve": "1",
    "stop": "—",
@@ -77,7 +77,7 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
    "one_question": ""
   },
   "facts": [
@@ -112,6 +112,24 @@
     "quote": "Please see attached download link file. Each link contains full information about our products. Please check and let me know the interested models.（附 Download Link.pdf + MINI.png）",
     "why": "对 02-28「想做推广不是买」隔 39 天只回下载链接 → 无下文；不动不变",
     "k": "gmail_e 19614d7a8d5db131"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → powerlogic1965@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e1643c261fdf64"
+   },
+   {
+    "date": "2025-02-28",
+    "dir": "out",
+    "who": "Elsa → powerlogic1965@gmail.com",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；之后 Elsa 箱 Replied 标签见 2025-02-28 来信",
+    "k": "elsa_1to1",
+    "msg_id": "1954aecfd9609f11"
    }
   ],
   "proof_gaps": [],

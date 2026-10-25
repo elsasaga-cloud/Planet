@@ -56,5 +56,56 @@
   "tier": 20,
   "why": "不主动跟进（竞品厂商）。"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；A 11 封 2025-04-08→2026-03-10，共 11 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-19「16 Port Ethernet Switch」→ info@westermo.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "同行厂商办事处（Westermo）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-877（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "Westermo 奥地利/德语区办事处（瑞典工业网络制造商，Beijer 集团；厂商办事处非渠道客户）",
+  "need": "同行厂商办事处，无外采口",
+  "breakpoint": "同行；A 11 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "同行厂商办事处，无外采口",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：同行厂商办事处",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-03-10",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Marvell Industrial Alert System, Marvell Software Function List, Industrial PoE Switch, Managed Optical Bypass Switch",
+    "why": "A 11 封 2025-04-08→2026-03-10，共 11 封群发，0 真实回复｜首封 2025-04-08 → 末封 2026-03-10",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-19",
+    "dir": "out",
+    "who": "Elsa → info@westermo.com",
+    "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951e1446a8eb836"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

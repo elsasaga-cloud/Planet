@@ -1,118 +1,127 @@
 {
-  "code": "SB-666",
-  "name_official": "NaSys Inc.（나시스，韩国）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（nasys.kr，快照 403）",
-  "summary": "韩国项目型公司 NaSys（SECON 2023），Sales Director Ko Hyeun Wook（naver 邮箱）：做项目、需求量较大，要商用与工业 PoE 报价单 —— 工业 2 光 8 电网管 PoE、商用 16 口；35 次跟进无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "nasys.kr 返回 403",
-      "quote": "title: 403 Forbidden",
-      "url": "https://nasys.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "做项目的，需求量比较大，POE 交换机，商业级和工业级要报价单，工业级 2 光 8 电网管 POE，商业级 16 口",
-      "quote": "兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ko Hyeun Wook",
-      "title": "Sales Director",
-      "email": "korino77@naver.com",
-      "phone": "+82 10 2950 1474",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照 403 + 表内）"
+ "code": "SB-666",
+ "name_official": "NaSys Inc.（나시스，韩国）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（nasys.kr，快照 403）",
+ "summary": "韩国项目型公司 NaSys（SECON 2023），Sales Director Ko Hyeun Wook（naver 邮箱）：做项目、需求量较大，要商用与工业 PoE 报价单 —— 工业 2 光 8 电网管 PoE、商用 16 口；35 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "nasys.kr 返回 403",
+   "quote": "title: 403 Forbidden",
+   "url": "https://nasys.kr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "NaSys Inc.",
-    "founded": "（待核）",
-    "hq": "Korea（+82 31 601 9264）",
-    "size": "中小型项目商",
-    "other": "naver 个人邮箱"
-  },
-  "business_lines": [
-    "安防 / 网络项目集成"
-  ],
-  "channels": {
-    "role": "项目集成商",
-    "region": "韩国"
-  },
-  "signals": [
-    "明确两口型 + 量大 + 要报价单"
-  ],
-  "risks": [
-    "韩国 KC；35 次跟进无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。"
-  },
-  "email_hook": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 korino77@naver.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 27；用户表：「兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口」；研究档 risks：韩国 KC；35 次跟进无回复"
-    },
-    "situation": "韩国项目型公司 NaSys（SECON 2023），Sales Director Ko Hyeun Wook（naver 邮箱）：做项目、需求量较大，要商用与工业 PoE 报价单 —— 工业 2 光 8 电网管 PoE、商用 16 口；35 次跟进无实质回复。",
-    "need": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。",
-    "breakpoint": "韩国 KC；35 次跟进无回复",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$147.6；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
-      "why": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-02",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
-        "why": "27 封 / 0 次打开 / 0 回｜首封 2024-12-11 → 末封 2026-10-02（27 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "做项目的，需求量比较大，POE 交换机，商业级和工业级要报价单，工业级 2 光 8 电网管 POE，商业级 16 口",
+   "quote": "兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ko Hyeun Wook",
+   "title": "Sales Director",
+   "email": "korino77@naver.com",
+   "phone": "+82 10 2950 1474",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 403 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "NaSys Inc.",
+  "founded": "（待核）",
+  "hq": "Korea（+82 31 601 9264）",
+  "size": "中小型项目商",
+  "other": "naver 个人邮箱"
+ },
+ "business_lines": [
+  "安防 / 网络项目集成"
+ ],
+ "channels": {
+  "role": "项目集成商",
+  "region": "韩国"
+ },
+ "signals": [
+  "明确两口型 + 量大 + 要报价单"
+ ],
+ "risks": [
+  "韩国 KC；35 次跟进无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。"
+ },
+ "email_hook": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 27 封 2024→2026，无记录打开，0 回；收件 korino77@naver.com；主题多为「Industrial PoE Switch、Managed Optical Bypass Switch」）；Elsa 单发去信 1 封（2025-02-24「90W PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "27 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 27；用户表：「兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口」；研究档 risks：韩国 KC；35 次跟进无回复"
+  },
+  "situation": "韩国项目型公司 NaSys（SECON 2023），Sales Director Ko Hyeun Wook（naver 邮箱）：做项目、需求量较大，要商用与工业 PoE 报价单 —— 工业 2 光 8 电网管 PoE、商用 16 口；35 次跟进无实质回复。",
+  "need": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。",
+  "breakpoint": "韩国 KC；35 次跟进无回复",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-2216GPM $137.5→$147.6；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-08-21 $240（24 Port Fiber Switch）、2025-09-10 $65（10G Media Converter）、2025-09-26 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）",
+   "why": "工业 2 光 8 电网管 PoE = STI-288GPM（$82.2 @25%）；商用 16 口 PoE = HRUI STC-2216GPM（$137.5）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 2025-02-24 单发过「90W PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
+   "one_question": "Mr. Ko, the two quotes you asked for: industrial 2-SFP + 8-PoE managed $82 EXW, commercial 16-PoE + 2-SFP managed $147.6 (1-pc prices; project tiers from 50 pcs). Which project is this for, and when does it ship?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-02",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
+    "why": "27 封 / 0 次打开 / 0 回｜首封 2024-12-11 → 末封 2026-10-02（27 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-24",
+    "dir": "out",
+    "who": "Elsa → korino77@naver.com",
+    "quote": "90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19535aec0dd69528"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

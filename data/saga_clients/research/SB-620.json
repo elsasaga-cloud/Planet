@@ -1,129 +1,138 @@
 {
-  "code": "SB-620",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（solway.co.kr，快照 2026-10-21）",
-  "summary": "韩国 Solway（solway.co.kr；表内「bypass」；KP Jinsoo Kim（公司邮箱 + gmail）；官网为防爬验证页）；表内未跟进。",
-  "type": "网络设备公司（韩国，bypass 需求）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：solway.co.kr",
-      "quote": "ìëë±ë¡ë°©ì§ë¥¼ ìí´ ë³´ìì ì°¨ë¥¼ ê±°ì¹ê³ ììµëë¤.",
-      "url": "http://solway.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "bypass",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "bypass",
-      "quote": "bypass",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Jinsoo Kim",
-      "title": "（职务待核）",
-      "email": "jskim@solway.co.kr",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-620",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（solway.co.kr，快照 2026-10-21）",
+ "summary": "韩国 Solway（solway.co.kr；表内「bypass」；KP Jinsoo Kim（公司邮箱 + gmail）；官网为防爬验证页）；表内未跟进。",
+ "type": "网络设备公司（韩国，bypass 需求）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：solway.co.kr",
+   "quote": "ìëë±ë¡ë°©ì§ë¥¼ ìí´ ë³´ìì ì°¨ë¥¼ ê±°ì¹ê³ ììµëë¤.",
+   "url": "http://solway.co.kr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "韩国",
-    "other": "官网 solway.co.kr，语言 ko，快照状态 ok；角色判定来源：待核"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "bypass",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络设备（韩国，待核）"
-  ],
-  "channels": {
-    "role": "网络设备公司（韩国，bypass 需求）",
-    "region": "韩国",
-    "contact": "jskim@solway.co.kr、jinsookim2982@gmail.com"
-  },
-  "signals": [
-    "表内：bypass；KP Jinsoo Kim；jskim@solway.co.kr / jinsookim2982@gmail.com",
-    "快照：验证页"
-  ],
-  "risks": [
-    "bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；官网为验证页（业务待核）；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 25,
-    "why": "bypass 款不在 Saga 列表 → 以 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）"
-  },
-  "email_hook": "Jinsoo, following your interest in bypass switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD; KC by your side — which ports need to be bypassed on power failure, copper or fibre?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（2026-02-06 Kim/Lee：「Copper Bypass equipment as well? best pricing for both Optic and Copper Bypass」→ Alan：仅光 bypass）",
-      "type": "韩国网络设备公司（Solway；bypass 需求）",
-      "sieve": "2",
-      "stop": "铜 bypass 无",
-      "revive": "若光 bypass 报价已给则等；否则补价",
-      "lane": "KR 次级",
-      "cadence": "一封",
-      "evidence": "k=60de5a43f2413966 / ad3c414a423e33cb"
-    },
-    "situation": "—",
-    "need": "光/铜 bypass。",
-    "breakpoint": "产品线。",
-    "saga_now": {
-      "p1": "光 bypass 管理型",
-      "tier": 25,
-      "price": "按主表；历史报价（邮件原话，老汇率）：2026-02-06 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $240（24 Port Fiber Switch）、2025-09-01 $65（10G Media Converter）、2025-09-23 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": [
-        "光 bypass 报价是否已给"
-      ]
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → jskim@solway.co.kr",
-      "action": "补价",
-      "one_question": "What volume would copper bypass need, and in which form — built-in or a separate 1U module?"
-    },
-    "facts": [
-      {
-        "date": "2026-02-06",
-        "dir": "来",
-        "who": "Kim",
-        "quote": "Could you please provide me with your best pricing for both Optic and Copper Bypass switches?",
-        "why": "要价",
-        "k": "60de5a43f2413966"
-      },
-      {
-        "date": "2026-02-06",
-        "dir": "去",
-        "who": "Saga（Alan）",
-        "quote": "Hi, Lee, Thanks for your reply. 1, Sorry, we do not have copper bypass, just fiber bypass. I believe you know the differences and applications very well. 2, for now, we only have optical bypass managed switch. That is an optical component fixed inside the swit",
-        "why": "历史报价点（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）：",
-        "k": "ad3c414a423e33cb"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "Re: OEM Core Switching Solution — bypass pricing follow-up",
-      "body": "Jinsoo-nim,\n\nIn February I quoted the optical-bypass managed industrial switch at USD 280 and confirmed we have no copper bypass today. Two updates:\n\n1. Current list for the 1-channel optical-bypass unit is USD 225.4 EXW and the 2-channel unit USD 283.7 EXW (snapshot 2026-10-17, valid 15 days).\n2. Copper bypass can be developed if there is a quantity behind it — what volume would your project need, and in which form (built into the switch, or a separate 1U module)?\n\nAlan Yan\nSaga Telecom"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "bypass",
+   "quote": "bypass",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Jinsoo Kim",
+   "title": "（职务待核）",
+   "email": "jskim@solway.co.kr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 solway.co.kr，语言 ko，快照状态 ok；角色判定来源：待核"
+ },
+ "business_lines": [
+  "网络设备（韩国，待核）"
+ ],
+ "channels": {
+  "role": "网络设备公司（韩国，bypass 需求）",
+  "region": "韩国",
+  "contact": "jskim@solway.co.kr、jinsookim2982@gmail.com"
+ },
+ "signals": [
+  "表内：bypass；KP Jinsoo Kim；jskim@solway.co.kr / jinsookim2982@gmail.com",
+  "快照：验证页"
+ ],
+ "risks": [
+  "bypass 款不在 Saga 列表（以 SmartByte 替代，注明）；非主攻区（T5，韩国；KC 由客户侧）；官网为验证页（业务待核）；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 25,
+  "why": "bypass 款不在 Saga 列表 → 以 SmartByte LT-IS6312GP-4GX8GT-FBP（$194.3 @25%，注明）替代；常规工业 8 GE + 2 SFP 管理 STI-280GE（$48.6）"
+ },
+ "email_hook": "Jinsoo, following your interest in bypass switches: we can supply an industrial 8-GE + 4-SFP managed switch with hardware bypass (−40~75 °C, 12–58 V redundant, CE/RoHS) from single units, EXW USD; KC by your side — which ports need to be bypassed on power failure, copper or fibre?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（2026-02-06 Kim/Lee：「Copper Bypass equipment as well? best pricing for both Optic and Copper Bypass」→ Alan：仅光 bypass）；Elsa 单发去信 1 封（2025-02-12「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "韩国网络设备公司（Solway；bypass 需求）",
+   "sieve": "2",
+   "stop": "铜 bypass 无",
+   "revive": "若光 bypass 报价已给则等；否则补价",
+   "lane": "KR 次级",
+   "cadence": "一封",
+   "evidence": "k=60de5a43f2413966 / ad3c414a423e33cb"
+  },
+  "situation": "—",
+  "need": "光/铜 bypass。",
+  "breakpoint": "产品线。",
+  "saga_now": {
+   "p1": "光 bypass 管理型",
+   "tier": 25,
+   "price": "按主表；历史报价（邮件原话，老汇率）：2026-02-06 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-05 $240（24 Port Fiber Switch）、2025-09-01 $65（10G Media Converter）、2025-09-23 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（3/29 封有打开记录）：「24 Port Fiber Switch」(2025-08-05)、「10G Media Converter」(2025-09-01)、「Re: OEM Core Switching Solution」(2026-02-06) → 读者兴趣偏「MC/光电」；当前 P1 属「旁路/Booster」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：STI-488XGGPM2B-2BT(2026-02-06)、Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": [
+    "光 bypass 报价是否已给"
+   ]
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → jskim@solway.co.kr",
+   "action": "首封前知悉：Elsa 2025-02-12 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；补价",
+   "one_question": "What volume would copper bypass need, and in which form — built-in or a separate 1U module?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-06",
+    "dir": "来",
+    "who": "Kim",
+    "quote": "Could you please provide me with your best pricing for both Optic and Copper Bypass switches?",
+    "why": "要价",
+    "k": "60de5a43f2413966"
+   },
+   {
+    "date": "2026-02-06",
+    "dir": "去",
+    "who": "Saga（Alan）",
+    "quote": "Hi, Lee, Thanks for your reply. 1, Sorry, we do not have copper bypass, just fiber bypass. I believe you know the differences and applications very well. 2, for now, we only have optical bypass managed switch. That is an optical component fixed inside the swit",
+    "why": "历史报价点（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）：",
+    "k": "ad3c414a423e33cb"
+   },
+   {
+    "date": "2025-02-12",
+    "dir": "out",
+    "who": "Elsa → jskim@solway.co.kr",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194f7900bedf9f78"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "Re: OEM Core Switching Solution — bypass pricing follow-up",
+   "body": "Jinsoo-nim,\n\nIn February I quoted the optical-bypass managed industrial switch at USD 280 and confirmed we have no copper bypass today. Two updates:\n\n1. Current list for the 1-channel optical-bypass unit is USD 225.4 EXW and the 2-channel unit USD 283.7 EXW (snapshot 2026-10-17, valid 15 days).\n2. Copper bypass can be developed if there is a quantity behind it — what volume would your project need, and in which form (built into the switch, or a separate 1U module)?\n\nAlan Yan\nSaga Telecom"
+  },
+  "as_of": "2026-10-24"
+ }
 }

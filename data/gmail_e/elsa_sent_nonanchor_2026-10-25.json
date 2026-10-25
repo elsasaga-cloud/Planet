@@ -1,0 +1,3618 @@
+{
+ "_note": "Elsa 箱 in:sent 排除 39 个锚域/地址后的「非锚单发」普查（To 仅本户或少数几人；非 BCC 批次）。已完整覆盖窗口：2025-02-10→2025-03-14（Elsa 箱首波 1:1，complete=true）；2025-12-30→12-31「Marvell Industrial Alert System」波（第 1 页）；2026-05-07→05-21（第 1 页）；2026-08-06 18:20→08-07 22:04（第 1 页）；2026-08-10→08-31（完整）；2026-09-01→09-15（完整，Elsa 最后一封 2026-09-15）。未爬窗口：2025-03-15→2025-12-29（-subject:Re 下 201+ 条，仅取第 1 页=12-30/31 波；next_page_token 16614792254875895227）；2026-01-01→2026-05-07 及 2026-05-21→2026-08-06（token 09803759952060759798）；2026-08-07 22:04→08-10（token 08459476813814537633）。按户查全史用 from:e.sagatelecom to:<addr>。一条看似 1:1 的行也可能带 Bcc（globalconnectsynergy 2026-09-07 Bcc 12）。",
+ "fetched_at": "2026-10-25T02:36Z",
+ "rows": [
+  {
+   "msg_id": "194f0445eb0abfc2",
+   "date": "2025-02-10",
+   "to": "gaelle.euzenat@schneider-electric.com",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f028e7579ede3",
+   "date": "2025-02-10",
+   "to": "guilera@guilera.com, compras@guilera.com, info@adilec.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f00d6f567b8d4",
+   "date": "2025-02-10",
+   "to": "enquiries@regalsecurity.co.za, sales@regalsecurity.co.za",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194eff1f9bf46879",
+   "date": "2025-02-10",
+   "to": "info@dalessandris.it",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194efd68011655a8",
+   "date": "2025-02-10",
+   "to": "info@kontron.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194efbb0a8202565",
+   "date": "2025-02-10",
+   "to": "angelng@qnv.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ef9f927c4790c",
+   "date": "2025-02-10",
+   "to": "info@southernelements.co.za",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ef841ad1b0cfa",
+   "date": "2025-02-10",
+   "to": "info@jpg.lt",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ef68a4707fa73",
+   "date": "2025-02-10",
+   "to": "info@indu-sol.com",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ef4d2c36a24e0",
+   "date": "2025-02-10",
+   "to": "damix@damixsat.pl, serwis@damixsat.pl",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ef31b43384449",
+   "date": "2025-02-10",
+   "to": "info@digitclik.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194eefac7b8fc0d9",
+   "date": "2025-02-10",
+   "to": "sales@gemaxxnetwork.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194eedf51f6c7f7b",
+   "date": "2025-02-10",
+   "to": "vladimir.novak@elkov.cz, nabidky.brno@elkov.cz",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194eec3d9476127c",
+   "date": "2025-02-10",
+   "to": "alex@sla.vn, sales@sla.vn",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194eea860b5b2ef9",
+   "date": "2025-02-10",
+   "to": "info@bioroles.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ee8cebee783dc",
+   "date": "2025-02-10",
+   "to": "trankhienbg@gmail.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ee71724b1f457",
+   "date": "2025-02-10",
+   "to": "rick_wu@carelink.com.hk",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ee55fb3a5e2f3",
+   "date": "2025-02-10",
+   "to": "sales@bbcpl.in",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ee1f0c66f27b1",
+   "date": "2025-02-10",
+   "to": "tranquangdung.vva@gmail.com",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "194ee0480457f4da",
+   "date": "2025-02-10",
+   "to": "viswanadh@sritech.in",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194ede81f9a170ff",
+   "date": "2025-02-10",
+   "to": "info@phuongdung.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194edcca7af30c65",
+   "date": "2025-02-10",
+   "to": "office@ansecnetwork.com, support@ansecnetwork.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fae2905f6753a",
+   "date": "2025-02-12",
+   "to": "adriano.rojas@argsoluciones.com",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fac804486ce73",
+   "date": "2025-02-12",
+   "to": "flavio@portwell.com.br",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194faac8ca1722c3",
+   "date": "2025-02-12",
+   "to": "soporte@pagina.mx",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fa9117b17bab2",
+   "date": "2025-02-12",
+   "to": "rody@serimco.com, info@serimco.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fa759ff94386b",
+   "date": "2025-02-12",
+   "to": "alfacomp@alfacomp.ind.br",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fa5a26f0d88ed",
+   "date": "2025-02-12",
+   "to": "info@videosorveglianza.it",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fa3eb1c18035e",
+   "date": "2025-02-12",
+   "to": "joerg.ridder@netcatsystems.de",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fa233983129b3",
+   "date": "2025-02-12",
+   "to": "info@sicurit.it",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fa07c3a7169f8",
+   "date": "2025-02-12",
+   "to": "contact@atrs.fr, c.carasco@atrs.fr, j.navarro@atrs.fr",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f9ec4b0f59477",
+   "date": "2025-02-12",
+   "to": "sales@raredist.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f9d0d21638563",
+   "date": "2025-02-12",
+   "to": "info@gvinformatica.it",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f9b55cd378feb",
+   "date": "2025-02-12",
+   "to": "contact@eurotechnocom.fr",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f999e51cfd4e2",
+   "date": "2025-02-12",
+   "to": "safiy@ccs.com.eg",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f97e6c4735c04",
+   "date": "2025-02-12",
+   "to": "peter@goetz-automation.de",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f962f715ac9e4",
+   "date": "2025-02-12",
+   "to": "info@ecogreenshop.it",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f9477e5088f77",
+   "date": "2025-02-12",
+   "to": "Armin.Kaddatz@klinikum-karlsruhe.de",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f92c095a54250",
+   "date": "2025-02-12",
+   "to": "contact@elfcams.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f9109144cd71e",
+   "date": "2025-02-12",
+   "to": "info@esiegypt.com, sales@esiegypt.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f8f5189fd4446",
+   "date": "2025-02-12",
+   "to": "sales@everbesthk.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f8d9a2d0d87a7",
+   "date": "2025-02-12",
+   "to": "info@crec.com.ph",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f8be2a4c1f4c4",
+   "date": "2025-02-12",
+   "to": "marketing@tactio.net",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f8a2b288efa2d",
+   "date": "2025-02-12",
+   "to": "info@nkstech.net",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f8873dc01217a",
+   "date": "2025-02-12",
+   "to": "sales@channel.com.ph",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f86bc5a7e00f2",
+   "date": "2025-02-12",
+   "to": "sales@skyware.com.hk",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f85138e873c46",
+   "date": "2025-02-12",
+   "to": "sales@moduletek.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f834d7efc3066",
+   "date": "2025-02-12",
+   "to": "support@ansysph.com",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f8195e7171b7c",
+   "date": "2025-02-12",
+   "to": "zytel@info.com.ph",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "194f7fde9c995e72",
+   "date": "2025-02-12",
+   "to": "sales@testronix.com.ph",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f7e2702ce87a3",
+   "date": "2025-02-12",
+   "to": "vismin@rspotsolutions.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f7c6f8c3d4c07",
+   "date": "2025-02-12",
+   "to": "sales@view-tel.co.kr",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f7ab82b6715e0",
+   "date": "2025-02-12",
+   "to": "triplehris@triplenet.co.kr",
+   "subject": "48 Port 10G Core Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f7900bedf9f78",
+   "date": "2025-02-12",
+   "to": "jskim@solway.co.kr",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f77495ad0fe55",
+   "date": "2025-02-12",
+   "to": "sales@cloudtronics.com.au",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194f646759c1fda8",
+   "date": "2025-02-12",
+   "to": "businesswise1@hotmail.com",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "194ff9bfacafefef",
+   "date": "2025-02-13",
+   "to": "flavioprogramado@gmail.com",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fd7795f68b94c",
+   "date": "2025-02-13",
+   "to": "chris@kital.com.ph, glemm@kital.com.ph",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fd5b321fa3fc8",
+   "date": "2025-02-13",
+   "to": "info@macktechbiz.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fd3fba721c967",
+   "date": "2025-02-13",
+   "to": "sales@industrialethernet.info",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fd2445c68656b",
+   "date": "2025-02-13",
+   "to": "ej@megacraft.co.kr",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fd08cd6fafb37",
+   "date": "2025-02-13",
+   "to": "sales@hyundaihds.co.kr",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fced5546bc53e",
+   "date": "2025-02-13",
+   "to": "sales@stdl.kr",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fcd1df7534ff0",
+   "date": "2025-02-13",
+   "to": "zenithtek@zenithtek.co.kr",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fcb6663d15d80",
+   "date": "2025-02-13",
+   "to": "info@c4line.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fc9af082436fe",
+   "date": "2025-02-13",
+   "to": "info@jdktech.com.au",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fb884703096b1",
+   "date": "2025-02-13",
+   "to": "contato@dnetworks.com.br",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fb6cd175a50f6",
+   "date": "2025-02-13",
+   "to": "info@chipcom.gt",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fb51595c24c30",
+   "date": "2025-02-13",
+   "to": "sales@datacom.com.br",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fb35e14edb88c",
+   "date": "2025-02-13",
+   "to": "midavo@gmail.com, david@comred.pe",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "194fafef28a62198",
+   "date": "2025-02-13",
+   "to": "daniel@itsbrasil.net",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195026617538abdc",
+   "date": "2025-02-14",
+   "to": "sales@tninstruments.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195024aa0a9f161a",
+   "date": "2025-02-14",
+   "to": "hipro@hiprotech.co.kr",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195022f2962020e9",
+   "date": "2025-02-14",
+   "to": "sales@zaram.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19501c14dd72e51f",
+   "date": "2025-02-14",
+   "to": "george@ltsecurityinc.com.au, info@ltsecurityinc.com.au",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19500aea25619ede",
+   "date": "2025-02-14",
+   "to": "contato@suprinordeste.com.br",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19508d60a2901a0b",
+   "date": "2025-02-15",
+   "to": "info@b2b-services.ru",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1950db8a7cac2172",
+   "date": "2025-02-16",
+   "to": "ibrakagg5@gmail.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1950cc7de8ebf489",
+   "date": "2025-02-16",
+   "to": "kriganec@gmail.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19514356a4871b8e",
+   "date": "2025-02-17",
+   "to": "info@ad-in.net, ordini@ad-in.net",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951419f3fa96c82",
+   "date": "2025-02-17",
+   "to": "info@armadi-rack.it",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19513fe7d11649b9",
+   "date": "2025-02-17",
+   "to": "info@mtechnology.it",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19513e3042800422",
+   "date": "2025-02-17",
+   "to": "sales@dynamix.ua",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19513909f6192d93",
+   "date": "2025-02-17",
+   "to": "sales@ntema.com.ua",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195137528e25f9a3",
+   "date": "2025-02-17",
+   "to": "info@voxplus.it",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951359b1ce2c608",
+   "date": "2025-02-17",
+   "to": "sales@kyolis.com, stephane.manuse@kyolis.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195133e38f872bc7",
+   "date": "2025-02-17",
+   "to": "sysnettelematica@legalmail.it",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19513074bdf67dc9",
+   "date": "2025-02-17",
+   "to": "info@hypercable.fr, jcducasse@hypercable.fr",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19512ebd4c3c6228",
+   "date": "2025-02-17",
+   "to": "info@kyma.it",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19512d05d105e244",
+   "date": "2025-02-17",
+   "to": "jkpgmtv@gmail.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19512b4e5098f4fe",
+   "date": "2025-02-17",
+   "to": "ncs@ncsnetwork.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19512996f7604f76",
+   "date": "2025-02-17",
+   "to": "obchod@kabel.sk",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195127df715ac6df",
+   "date": "2025-02-17",
+   "to": "kti@ktinet.com.tw",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19512627e7762a20",
+   "date": "2025-02-17",
+   "to": "privacy-lsnetworks@ml.jp.panasonic.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951247098b1fbae",
+   "date": "2025-02-17",
+   "to": "rubytech@mail.rubytech.com.tw",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195122b912fb00ba",
+   "date": "2025-02-17",
+   "to": "sales@centrixsecurity.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951211052b8ea59",
+   "date": "2025-02-17",
+   "to": "sales@hoatech.com.tw",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19519c8b85ba846e",
+   "date": "2025-02-18",
+   "to": "sales@dynamode.co.uk",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19519ae2dd3e1a7c",
+   "date": "2025-02-18",
+   "to": "sales@brainboxes.com",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951992b53a25744",
+   "date": "2025-02-18",
+   "to": "info@advance.technology",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19519773fb4d8406",
+   "date": "2025-02-18",
+   "to": "sales@icpdatatec.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195195bc7dffc718",
+   "date": "2025-02-18",
+   "to": "info@alcom.be",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19519404ed1a5f15",
+   "date": "2025-02-18",
+   "to": "info@optimum.ge",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951924d9cf007e9",
+   "date": "2025-02-18",
+   "to": "office@fiberstore.ro",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195190961a5cd765",
+   "date": "2025-02-18",
+   "to": "silvana.pavic@h1telekom.hr, branka.trogrlic@h1telekom.hr",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19518edeb4f4494f",
+   "date": "2025-02-18",
+   "to": "sales@telecomspecialties.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19518d2739210e0c",
+   "date": "2025-02-18",
+   "to": "sales@eurolan.net, office@eurolan.net",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19518b6fa77e743d",
+   "date": "2025-02-18",
+   "to": "support@tekeir.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195189b858da24dc",
+   "date": "2025-02-18",
+   "to": "Info@csejo.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951864946d11752",
+   "date": "2025-02-18",
+   "to": "easyview@safirecctv.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19518491f1515deb",
+   "date": "2025-02-18",
+   "to": "arnoldomohr@gmail.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195182da64edab0d",
+   "date": "2025-02-18",
+   "to": "info@telenet.com.gr",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951812317a8f9f1",
+   "date": "2025-02-18",
+   "to": "info@niveoprofessional.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19517f6b9de255f4",
+   "date": "2025-02-18",
+   "to": "sales@repotec.com",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "19517db406f57d77",
+   "date": "2025-02-18",
+   "to": "info@lantechcom.tw, lim@lantechcom.tw, ken.woolley@lantechcom.tw",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19517bfcb0365dc4",
+   "date": "2025-02-18",
+   "to": "jill@tailyn.com.tw, sales@tailyn.com.tw",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951eef143ec1245",
+   "date": "2025-02-19",
+   "to": "support@annke.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951eb911e92c88b",
+   "date": "2025-02-19",
+   "to": "office@innon.co.uk",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951e9d9a38dc54c",
+   "date": "2025-02-19",
+   "to": "info@hubnetix.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951e66ab5cdd221",
+   "date": "2025-02-19",
+   "to": "info@luetze.de",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951e4b355960072",
+   "date": "2025-02-19",
+   "to": "ctservicemolise@gmail.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951e2fbca736df1",
+   "date": "2025-02-19",
+   "to": "mail@elvis.com.ua",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951e1446a8eb836",
+   "date": "2025-02-19",
+   "to": "info@westermo.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951df8ce474aa1a",
+   "date": "2025-02-19",
+   "to": "info@sicurtecnicanapoli.it",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951ddd57e11fd39",
+   "date": "2025-02-19",
+   "to": "sales@dimiks.ua",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951dc1e1cae2410",
+   "date": "2025-02-19",
+   "to": "info@tronteq.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951da66944d1691",
+   "date": "2025-02-19",
+   "to": "info@atlantis-land.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951d8af0ea3d94a",
+   "date": "2025-02-19",
+   "to": "deps@deps.ua, lviv@deps.ua, kharkov@deps.ua, odessa@deps.ua",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "1951d8af02c37de7",
+   "date": "2025-02-19",
+   "to": "justinmwangi100@gmail.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951d6f7bea333ac",
+   "date": "2025-02-19",
+   "to": "michael.goldbach@duagon.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951d54020ebb30d",
+   "date": "2025-02-19",
+   "to": "info@benzotronic.it",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951d388c03a3c89",
+   "date": "2025-02-19",
+   "to": "info@ritmindustry.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951d1d15408dab6",
+   "date": "2025-02-19",
+   "to": "info@helmholz.de",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951d019c9216642",
+   "date": "2025-02-19",
+   "to": "sales@rapidmax.com.tw",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951ce6276e6ad43",
+   "date": "2025-02-19",
+   "to": "wnc.info@wnc.com.tw",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951ccaaf6790a46",
+   "date": "2025-02-19",
+   "to": "sales@cameo.com.tw",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951caf37c1fcba7",
+   "date": "2025-02-19",
+   "to": "sales@origo.tw",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951c93c15e1136e",
+   "date": "2025-02-19",
+   "to": "info@xp-networks.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951c7848c022b82",
+   "date": "2025-02-19",
+   "to": "sales@atop.com.tw",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951c5dbd2bfe53f",
+   "date": "2025-02-19",
+   "to": "issales@cerio.com.tw",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951c415a1d90017",
+   "date": "2025-02-19",
+   "to": "request@primmcon.com",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "1951c25e30fea69c",
+   "date": "2025-02-19",
+   "to": "info@leonton.com, sales@leonton.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951c0a6dc8e0fa3",
+   "date": "2025-02-19",
+   "to": "service@etentech.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951beef451e67d5",
+   "date": "2025-02-19",
+   "to": "terry.huang@proscend.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951b8118afafed5",
+   "date": "2025-02-19",
+   "to": "sales@infronttech.com.au",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951a6e6f0d83f0c",
+   "date": "2025-02-19",
+   "to": "Sales@dataswitchworks.com",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951a52f91f994d7",
+   "date": "2025-02-19",
+   "to": "ventas@comtelec.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951a37816a0bc0f",
+   "date": "2025-02-19",
+   "to": "sales@denwaip.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951a1c0807b7e9d",
+   "date": "2025-02-19",
+   "to": "sgregson@lutze.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1951a0092f448f14",
+   "date": "2025-02-19",
+   "to": "dweinberg@murrinc.com, info@murrinc.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19519e51a0383648",
+   "date": "2025-02-19",
+   "to": "ventas@argseguridad.com",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195227a5fd528b9e",
+   "date": "2025-02-20",
+   "to": "sales@soyuzsp.ru",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195293bcdf3dee16",
+   "date": "2025-02-21",
+   "to": "sales.gb@lutze.co.uk",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195292140589153c",
+   "date": "2025-02-21",
+   "to": "sales@lanode.com, donal@lanode.com",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952905c9ef816d7",
+   "date": "2025-02-21",
+   "to": "tim.ashburner@bbc.co.uk",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19528ea53bc8c29b",
+   "date": "2025-02-21",
+   "to": "mark.basham@technetix.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19528cedad123557",
+   "date": "2025-02-21",
+   "to": "info@b-gen.co.uk",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19528b363fdb19ed",
+   "date": "2025-02-21",
+   "to": "internationalsales@lindy.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952897ed817bbe3",
+   "date": "2025-02-21",
+   "to": "sales@wildix.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195287c7548a2341",
+   "date": "2025-02-21",
+   "to": "info@wut.de",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952860fe6ece27e",
+   "date": "2025-02-21",
+   "to": "info@ic-line.net",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "195284587152d205",
+   "date": "2025-02-21",
+   "to": "sales@aceonline.co.uk",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195282a0f74370b8",
+   "date": "2025-02-21",
+   "to": "sales@cctv-global.co.uk",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195280e98d1e3563",
+   "date": "2025-02-21",
+   "to": "im@moon.kz",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19527f321a90a863",
+   "date": "2025-02-21",
+   "to": "sales@import-telecom.com",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195278545b4505aa",
+   "date": "2025-02-21",
+   "to": "sales@cmd-sec.ru",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952d875b7672370",
+   "date": "2025-02-22",
+   "to": "zakupki@dozor23.ru",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952c9029f2a5446",
+   "date": "2025-02-22",
+   "to": "sales@bas-ip.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19529e18362fe3c1",
+   "date": "2025-02-22",
+   "to": "sales@us.pepperl-fuchs.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19529c60c4d0c0a6",
+   "date": "2025-02-22",
+   "to": "sales@tmb.com",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952973a69b9ef5f",
+   "date": "2025-02-22",
+   "to": "questions@interlogix.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19529582e5ad3ee4",
+   "date": "2025-02-22",
+   "to": "henry@henrich-inc.com, customer_service@henrich-inc.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19532abe14cc1351",
+   "date": "2025-02-23",
+   "to": "komerce@skss.ru",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953208eb3cddb40",
+   "date": "2025-02-23",
+   "to": "msk@nnz.ru",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952ed0f035ea473",
+   "date": "2025-02-23",
+   "to": "sales@52networks.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1952eb579f39a107",
+   "date": "2025-02-23",
+   "to": "sales@commfront.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195389455fce08e1",
+   "date": "2025-02-24",
+   "to": "hello@groundcontrol.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953878dcbdeb44d",
+   "date": "2025-02-24",
+   "to": "sales@hunters-wholesalers.co.uk",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195385d6745e8ebb",
+   "date": "2025-02-24",
+   "to": "graham@securitytec.co.uk",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953841efd31a9fa",
+   "date": "2025-02-24",
+   "to": "sales@comtrol.co.uk, tim.jones@comtrol.co.uk",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195380b01b423643",
+   "date": "2025-02-24",
+   "to": "office@kst-bg.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19537ef890cf3f79",
+   "date": "2025-02-24",
+   "to": "info@delock.de",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19537d4122fe3853",
+   "date": "2025-02-24",
+   "to": "Sales@kti.de, CHelming@kti.de, PKaiser@kti.de",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19537b89a3706c5c",
+   "date": "2025-02-24",
+   "to": "sales@nag.kz",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195379d2353a87ac",
+   "date": "2025-02-24",
+   "to": "info@grothe.de",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953781addf01013",
+   "date": "2025-02-24",
+   "to": "info@pulsar.kz",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195376634cb1de8f",
+   "date": "2025-02-24",
+   "to": "poe-link@ukr.net",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195374abdb7e87c7",
+   "date": "2025-02-24",
+   "to": "info@ipcomm.de",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195372f460b811de",
+   "date": "2025-02-24",
+   "to": "manager@volokno.kz",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953713cfa3efedd",
+   "date": "2025-02-24",
+   "to": "info@donvision.ru",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19536f859af48e3e",
+   "date": "2025-02-24",
+   "to": "zakaz@stereotv.com.ua",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19536dce0416b677",
+   "date": "2025-02-24",
+   "to": "info@reichelt.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19536c168d4ca3fc",
+   "date": "2025-02-24",
+   "to": "scm@ray.life",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19536a5f25e8d11d",
+   "date": "2025-02-24",
+   "to": "info@rscommunication.co.in",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195368a7a72938e7",
+   "date": "2025-02-24",
+   "to": "sales@devray.in",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195366f0235067df",
+   "date": "2025-02-24",
+   "to": "info@plexonics.com, sales-india@plexonics.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19536538cdd068f5",
+   "date": "2025-02-24",
+   "to": "insuner@hanmail.net, kis@hstw.net",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195361d891ab0f66",
+   "date": "2025-02-24",
+   "to": "vikash@sissurat.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19535ff526c7efc3",
+   "date": "2025-02-24",
+   "to": "info@golfautomation.co.in",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "19535e5afb6acf14",
+   "date": "2025-02-24",
+   "to": "pedro@handream.net",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19535ca38980e08d",
+   "date": "2025-02-24",
+   "to": "leey@dgtas.co.kr, dgtas@dgtas.co.kr",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19535aec0dd69528",
+   "date": "2025-02-24",
+   "to": "korino77@naver.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953593488087ef5",
+   "date": "2025-02-24",
+   "to": "jryoun74@hcin4.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953577d3a8a9b21",
+   "date": "2025-02-24",
+   "to": "info@ynminc.com, sales@ynminc.com",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195355c5b3a61a3c",
+   "date": "2025-02-24",
+   "to": "sales@aristel.com.au",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953540e5362cc13",
+   "date": "2025-02-24",
+   "to": "cs@firesecurityproducts.zendesk.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953b0c0b8c70cc5",
+   "date": "2025-02-25",
+   "to": "mintusony@gmail.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953ad51c091a062",
+   "date": "2025-02-25",
+   "to": "hdnvina@handream.net",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953ab9a5af35293",
+   "date": "2025-02-25",
+   "to": "jasonk@soltech.co.kr, ksh@soltech.co.kr",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953a9e2e725aa91",
+   "date": "2025-02-25",
+   "to": "scale@goriver.co.kr",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953a82b6a25f4a4",
+   "date": "2025-02-25",
+   "to": "mk@ccdact.com, sales@ccdact.com.au",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "1953a6740e1c2132",
+   "date": "2025-02-25",
+   "to": "paul@cabledistribution.com.au",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195395496e7f59eb",
+   "date": "2025-02-25",
+   "to": "info@crystalrugged.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1953939208f22876",
+   "date": "2025-02-25",
+   "to": "sales@poewit.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195391da8b94ccb6",
+   "date": "2025-02-25",
+   "to": "info@commandonetworks.com",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "19539023189b0300",
+   "date": "2025-02-25",
+   "to": "bfrench@saucontech.com, billf1@saucontech.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19538e6ba0bc6c0a",
+   "date": "2025-02-25",
+   "to": "info@ablnetsolutions.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19538cb4307c419f",
+   "date": "2025-02-25",
+   "to": "info@kbcnetworks.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19538b0b65109cc5",
+   "date": "2025-02-25",
+   "to": "sales@sitech-bitdriver.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19542aa1ea181180",
+   "date": "2025-02-26",
+   "to": "eletrotecnicasoares@bol.com.br",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954821f5bcb3a37",
+   "date": "2025-02-27",
+   "to": "harshul@eion.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195480768947a1b5",
+   "date": "2025-02-27",
+   "to": "info@is5com.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19547b503e3dfdb3",
+   "date": "2025-02-27",
+   "to": "info@townet.it",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19547998bf6a8404",
+   "date": "2025-02-27",
+   "to": "procurement@marzetek.com",
+   "subject": "48 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195477e15afe6264",
+   "date": "2025-02-27",
+   "to": "info@hdcabling.co.za, johan@hdcabling.co.za, sheldon@hdcabling.co.za",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195471036014e766",
+   "date": "2025-02-27",
+   "to": "comercial@gtlan.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954b3f635d55353",
+   "date": "2025-02-28",
+   "to": "info@bargas.ru, ag@bargas.ru",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954b23eb305640a",
+   "date": "2025-02-28",
+   "to": "sale@npotelecom.ru, afonin@npotelecom.ru",
+   "subject": "24 Port Fiber Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954b08732160d1d",
+   "date": "2025-02-28",
+   "to": "info@fti-optronic.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954aecfd9609f11",
+   "date": "2025-02-28",
+   "to": "powerlogic1965@gmail.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954ad1842ffc634",
+   "date": "2025-02-28",
+   "to": "Info@starcom.com.pk",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954a9a97c7bafcd",
+   "date": "2025-02-28",
+   "to": "kosovaku@gmail.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954a7f1e60d6ab0",
+   "date": "2025-02-28",
+   "to": "tcsong@cominet.co.kr",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954a63a9c3d6d04",
+   "date": "2025-02-28",
+   "to": "hanaend-a@naver.com",
+   "subject": "48 Port SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954a4830468fb5d",
+   "date": "2025-02-28",
+   "to": "sales@optowiz.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954a2cb80d517dd",
+   "date": "2025-02-28",
+   "to": "sales@hyteckorea.co.kr",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954a114336a2462",
+   "date": "2025-02-28",
+   "to": "unitel@unitelco.co.kr",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19549da5456e2357",
+   "date": "2025-02-28",
+   "to": "info@ctccommunications.com.au",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19548ac3433d0709",
+   "date": "2025-02-28",
+   "to": "info@getsecurityalarm.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954890bd013ce60",
+   "date": "2025-02-28",
+   "to": "info@infinicoreinc.com",
+   "subject": "L3 Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19548754532821ba",
+   "date": "2025-02-28",
+   "to": "sales@olsontech.com",
+   "subject": "16 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1954859ce129ada0",
+   "date": "2025-02-28",
+   "to": "media@yamaha.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1955216c88123b10",
+   "date": "2025-03-01",
+   "to": "amin.aboud@gmail.com",
+   "subject": "90W PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19554d992918f714",
+   "date": "2025-03-02",
+   "to": "mdakhtar943.phusro@gmail.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19566d219e29cefa",
+   "date": "2025-03-05",
+   "to": "info@alastor.com.ar",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "1956476c52554cf3",
+   "date": "2025-03-05",
+   "to": "sales@sprintintercom.com.au",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195699d20cd6dbf6",
+   "date": "2025-03-06",
+   "to": "ashu.ent@gmail.com",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "19575ad3329eb28e",
+   "date": "2025-03-08",
+   "to": "justinmwangi100@gmail.com",
+   "subject": "Mini Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1957a78002eb6d9d",
+   "date": "2025-03-09",
+   "to": "info@b2b-services.ru",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "195791035d35ef73",
+   "date": "2025-03-09",
+   "to": "sales@tninstruments.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1957f11607ce69c0",
+   "date": "2025-03-10",
+   "to": "moscow@stilsoft.ru",
+   "subject": "Marvell Alleycat5 Solution",
+   "note": ""
+  },
+  {
+   "msg_id": "1958392f13a8180b",
+   "date": "2025-03-11",
+   "to": "panaji@gmail.com",
+   "subject": "Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19588d4c2bcdaa77",
+   "date": "2025-03-12",
+   "to": "virtual_eye@hotmail.com",
+   "subject": "10G Media Converter",
+   "note": ""
+  },
+  {
+   "msg_id": "1958e16960904a0b",
+   "date": "2025-03-13",
+   "to": "sureshch1968@gmail.com",
+   "subject": "16 Port Ethernet Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19593586b3b65bc6",
+   "date": "2025-03-14",
+   "to": "mail@techzoneme.com",
+   "subject": "8 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6fe161488f22e",
+   "date": "2025-12-30",
+   "to": "ventas@syscom.mx",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6fc5e905f2a78",
+   "date": "2025-12-30",
+   "to": "info@rarmx.com.mx",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6faa7201b36be",
+   "date": "2025-12-30",
+   "to": "info@steren.com.mx",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6f8efbf745377",
+   "date": "2025-12-30",
+   "to": "soporte@pagina.mx",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6f73836e76a28",
+   "date": "2025-12-30",
+   "to": "soporte@tvc.mx",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6f580d28f9087",
+   "date": "2025-12-30",
+   "to": "jesusportillo@live.com.mx",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e8ea24402625",
+   "date": "2025-12-30",
+   "to": "sales@hasnet.co.tz",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e7c53e1f5585",
+   "date": "2025-12-30",
+   "to": "bj.servicios@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e6a02af77ed1",
+   "date": "2025-12-30",
+   "to": "a.izankad@powerintegration.ma",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e57b33616a3f",
+   "date": "2025-12-30",
+   "to": "info@masec.ma",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e45654ec3fba",
+   "date": "2025-12-30",
+   "to": "wahdatechnique@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e33151b9dc37",
+   "date": "2025-12-30",
+   "to": "begdouriomar@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e20c4cb5c743",
+   "date": "2025-12-30",
+   "to": "digiteck.maroc@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6e0e75fb1e9f4",
+   "date": "2025-12-30",
+   "to": "sales@microviewng.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6dfc264844c50",
+   "date": "2025-12-30",
+   "to": "info@netproict.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6de9d633ad257",
+   "date": "2025-12-30",
+   "to": "eustaceamah@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6dd7860761688",
+   "date": "2025-12-30",
+   "to": "info@microzone.lk",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6dc44d00fb252",
+   "date": "2025-12-30",
+   "to": "info@rovidu.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6db1123124996",
+   "date": "2025-12-30",
+   "to": "info@techgates.lk",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6d9c0432c5781",
+   "date": "2025-12-30",
+   "to": "obchod@kabel.sk",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6d87e08c139ee",
+   "date": "2025-12-30",
+   "to": "nimanthasampath@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b74b5575ef28f3",
+   "date": "2025-12-31",
+   "to": "wernerh@zp30.com.py",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b73b4fe73575ce",
+   "date": "2025-12-31",
+   "to": "pythiask@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b73a2af249ce5e",
+   "date": "2025-12-31",
+   "to": "sales.ebsa@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b73905f4cadddd",
+   "date": "2025-12-31",
+   "to": "info@securico.co.zw",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b737e0f4d6d55a",
+   "date": "2025-12-31",
+   "to": "Sales@petanetworks.net",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b736bc165ec839",
+   "date": "2025-12-31",
+   "to": "sales@raredist.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b735971d30f6fe",
+   "date": "2025-12-31",
+   "to": "safiy@ccs.com.eg",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b734721f74edfe",
+   "date": "2025-12-31",
+   "to": "sales@esiegypt.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b7334d1284f25e",
+   "date": "2025-12-31",
+   "to": "daniel@tuplast.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b7322831deee59",
+   "date": "2025-12-31",
+   "to": "info@watchnetinc.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b731033358acfc",
+   "date": "2025-12-31",
+   "to": "info@emiceg.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b72fde307a9619",
+   "date": "2025-12-31",
+   "to": "sales@sama-link.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b72eb933319ff7",
+   "date": "2025-12-31",
+   "to": "inquiry@gstegypt.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b72d94536117e5",
+   "date": "2025-12-31",
+   "to": "info@lra.org.ls",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b72c6f5afc917b",
+   "date": "2025-12-31",
+   "to": "sales@shams-almaarifa.net",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b72b4a4277473d",
+   "date": "2025-12-31",
+   "to": "store@alnabaa.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b72a255975bac2",
+   "date": "2025-12-31",
+   "to": "info@helptechco.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b7290f10eb010e",
+   "date": "2025-12-31",
+   "to": "hello@ict.com.mm",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b710f8099cdb90",
+   "date": "2025-12-31",
+   "to": "gerencia@telserdom.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b70f4085fe10ca",
+   "date": "2025-12-31",
+   "to": "ventas@comtelec.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b70d89302684dd",
+   "date": "2025-12-31",
+   "to": "adv@laumaille.com, info@laumaille.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b70bd1aaffb0b9",
+   "date": "2025-12-31",
+   "to": "erodriguez@corporationit.com, krivas@corporationit.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b70a1a2e22972f",
+   "date": "2025-12-31",
+   "to": "info@hentel.com.ec",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b70862db64f40b",
+   "date": "2025-12-31",
+   "to": "comercial@konectsoluciones.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b706ab5643feec",
+   "date": "2025-12-31",
+   "to": "info@inredtel.net",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b704f3d800e862",
+   "date": "2025-12-31",
+   "to": "jloaiza@fisoluciones.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b7033c67d40835",
+   "date": "2025-12-31",
+   "to": "saikooperu@gmail.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b70184f5b8e320",
+   "date": "2025-12-31",
+   "to": "midavo@gmail.com, david@comred.pe",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19b6ffdc3aebf46a",
+   "date": "2025-12-31",
+   "to": "ventas@topsecurityperu.com",
+   "subject": "Marvell Industrial Alert System",
+   "note": ""
+  },
+  {
+   "msg_id": "19e01cef1267a9e7",
+   "date": "2026-05-07",
+   "to": "ladha@bbl.com.pk",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e01bca30954678",
+   "date": "2026-05-07",
+   "to": "qamar@terralink.com.pk, info@terralink.com.pk",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e01aa53c5658ce",
+   "date": "2026-05-07",
+   "to": "contact@tayabally.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e0198036e95376",
+   "date": "2026-05-07",
+   "to": "javed.hashmi@futurepointt.com, sales@futurepointt.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e0185b25bba59f",
+   "date": "2026-05-07",
+   "to": "support@fastcompk.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e017365cf993e5",
+   "date": "2026-05-07",
+   "to": "tabish@almehboobtraders.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e014ec5f463218",
+   "date": "2026-05-07",
+   "to": "info@onsite.com.pk",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e17566a946ac7c",
+   "date": "2026-05-11",
+   "to": "depcompras@cronte.net, depcomprascronte@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e173af2f80e177",
+   "date": "2026-05-11",
+   "to": "emiranda@surlink-tech.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e171f7d88803f6",
+   "date": "2026-05-11",
+   "to": "sales@eminnovate.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e170405d9f7966",
+   "date": "2026-05-11",
+   "to": "NealC@softnetworks.net",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e16ce005f0bc62",
+   "date": "2026-05-11",
+   "to": "pkarpov@ccs-msk.ru, sales@ccs-msk.ru",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e16cd173a59698",
+   "date": "2026-05-11",
+   "to": "samuisso@tescom.co.tz",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e16b19fc662d79",
+   "date": "2026-05-11",
+   "to": "ismail@3lines.com.sa",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e169629b5e1b3c",
+   "date": "2026-05-11",
+   "to": "wafulamusine@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e167ab07a22c33",
+   "date": "2026-05-11",
+   "to": "varun@vintronsmartvision.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e165f38a954945",
+   "date": "2026-05-11",
+   "to": "ildar.i.salimov@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e1643c261fdf64",
+   "date": "2026-05-11",
+   "to": "powerlogic1965@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e16284b82a9f6d",
+   "date": "2026-05-11",
+   "to": "shajahan007@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e16284b4c6305d",
+   "date": "2026-05-11",
+   "to": "vipinjangra786@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e160cd5dd086ce",
+   "date": "2026-05-11",
+   "to": "ak@impulsecctv.com, info@impulsecctv.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e15f15c32be6ea",
+   "date": "2026-05-11",
+   "to": "shantanu.kumar@hfcl.com, iosales@hfcl.com, info@hfcl.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e15f15c221a2de",
+   "date": "2026-05-11",
+   "to": "rkahir65@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e15d5e5b7845db",
+   "date": "2026-05-11",
+   "to": "harish@andatelecom.com, subhash@andatelecom.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e15ccbc917f627",
+   "date": "2026-05-11",
+   "to": "info@topica.mn",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e15ba6fae4fb11",
+   "date": "2026-05-11",
+   "to": "info@citsindia.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e159ef6104876f",
+   "date": "2026-05-11",
+   "to": "sales@agsplus.in, gunjan@xexagon.co.in",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e157eeaf6de784",
+   "date": "2026-05-11",
+   "to": "sales@quippro.kz",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e156808fcb03be",
+   "date": "2026-05-11",
+   "to": "info@microtech.net.pk, sales@microtech.net.pk",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e154c90dd755ae",
+   "date": "2026-05-11",
+   "to": "faisal@ite.net.pk",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e1532043bfa92d",
+   "date": "2026-05-11",
+   "to": "infoautomation18@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e14deb41eb339a",
+   "date": "2026-05-11",
+   "to": "hill@atwtechnology.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e1cbb095569f07",
+   "date": "2026-05-12",
+   "to": "amin.aboud@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e1ae3890188ab9",
+   "date": "2026-05-12",
+   "to": "kosovaku@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e1ab045775f9fd",
+   "date": "2026-05-12",
+   "to": "mdakhtar943.phusro@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e2577ab4e815b5",
+   "date": "2026-05-14",
+   "to": "sureshch1968@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e2508e276d3e6c",
+   "date": "2026-05-14",
+   "to": "panaji@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e2bed1b8d82f12",
+   "date": "2026-05-15",
+   "to": "eletrotecnicasoares@bol.com.br",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e2b2e62ae874b7",
+   "date": "2026-05-15",
+   "to": "lezdco@gmail.com",
+   "subject": "Re: S10（客户回了，Elsa 回复）",
+   "note": ""
+  },
+  {
+   "msg_id": "19e2fe816657562c",
+   "date": "2026-05-16",
+   "to": "mail@techzoneme.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e2f95b1ededf29",
+   "date": "2026-05-16",
+   "to": "alminiaco@gmail.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e2ef2ba7ba4053",
+   "date": "2026-05-16",
+   "to": "info@golfautomation.co.in",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e40c876512ee59",
+   "date": "2026-05-19",
+   "to": "info@alastor.com.ar",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e3f7df4331958c",
+   "date": "2026-05-19",
+   "to": "sales@sprintintercom.com.au",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e454f8505fe2cb",
+   "date": "2026-05-20",
+   "to": "info@b2b-services.ru",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e4a7a74788f1fd",
+   "date": "2026-05-21",
+   "to": "msk@nnz.ru",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e4a4cae276afc3",
+   "date": "2026-05-21",
+   "to": "S.Markin@mip-sb.ru",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e4a112d46fc735",
+   "date": "2026-05-21",
+   "to": "sales@bas-ip.com",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e49d5ab1504dee",
+   "date": "2026-05-21",
+   "to": "sales@cmd-sec.ru",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19e49642276b9952",
+   "date": "2026-05-21",
+   "to": "moscow@stilsoft.ru",
+   "subject": "10G Enterprise SFP Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd7cca1b8bdb64",
+   "date": "2026-08-06",
+   "to": "daniel@itsbrasil.net",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd7bb3ce379a02",
+   "date": "2026-08-06",
+   "to": "thales.rollo@teltex.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd7a8edb0794a6",
+   "date": "2026-08-06",
+   "to": "jaf@voipforall.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd7969cfe7471c",
+   "date": "2026-08-06",
+   "to": "helectromar@live.cl",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd75fafe415162",
+   "date": "2026-08-06",
+   "to": "anibal.navas@octopuss.cl",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd74d5ec3770fa",
+   "date": "2026-08-06",
+   "to": "ventas@argseguridad.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd73b11c7bd40b",
+   "date": "2026-08-06",
+   "to": "claudiodevincenti@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd728c15b10e12",
+   "date": "2026-08-06",
+   "to": "psdata@psdata.com.ar",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd71671869d277",
+   "date": "2026-08-06",
+   "to": "teletechnonet1@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd7042001b2e9e",
+   "date": "2026-08-06",
+   "to": "rody@serimco.com, info@serimco.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd6f1d2a40db84",
+   "date": "2026-08-06",
+   "to": "info@chipcom.gt",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd696453aed748",
+   "date": "2026-08-06",
+   "to": "sidix76@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdc89b4e957298",
+   "date": "2026-08-07",
+   "to": "ssyc@ssycsa.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb85b30d5af83",
+   "date": "2026-08-07",
+   "to": "info@datatech.com.bd",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb736384b2f0f",
+   "date": "2026-08-07",
+   "to": "info@verbalbd.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb6113c10c1df",
+   "date": "2026-08-07",
+   "to": "corporatesales@stel.com.bd",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb4ec28d114e9",
+   "date": "2026-08-07",
+   "to": "info@techlandbd.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb3c74c95ca6f",
+   "date": "2026-08-07",
+   "to": "info@otech.com.bd",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb2a24a0fbd8e",
+   "date": "2026-08-07",
+   "to": "info@ryans.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb17d480750ae",
+   "date": "2026-08-07",
+   "to": "webteam@startechbd.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdb0585c5f79d1",
+   "date": "2026-08-07",
+   "to": "seljafar@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdaf3361687b8b",
+   "date": "2026-08-07",
+   "to": "approbd@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdae0e7653fe19",
+   "date": "2026-08-07",
+   "to": "ladha@bbl.com.pk",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdace965c980a4",
+   "date": "2026-08-07",
+   "to": "qamar@terralink.com.pk, info@terralink.com.pk",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdabc46754ee15",
+   "date": "2026-08-07",
+   "to": "contact@tayabally.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fdaa9f824efa36",
+   "date": "2026-08-07",
+   "to": "javed.hashmi@futurepointt.com, sales@futurepointt.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda97a8849f0c5",
+   "date": "2026-08-07",
+   "to": "support@fastcompk.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda85595614e67",
+   "date": "2026-08-07",
+   "to": "tabish@almehboobtraders.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda730927641d1",
+   "date": "2026-08-07",
+   "to": "info@onsite.com.pk",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda4e6aa0b6fc1",
+   "date": "2026-08-07",
+   "to": "sales@neteon.com.my, franky.wong@neteon.com.my",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda3c1b29d1b0b",
+   "date": "2026-08-07",
+   "to": "agathijan@yahoo.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda29caeb01c4f",
+   "date": "2026-08-07",
+   "to": "chingch@itmax.com.my",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda177c9f8451a",
+   "date": "2026-08-07",
+   "to": "info@magnet.com.my, jimmyl@magnet.com.my",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fda052c4842b61",
+   "date": "2026-08-07",
+   "to": "sales@centrixsecurity.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd9f2dcd8e6ece",
+   "date": "2026-08-07",
+   "to": "afiq@ettix.co, sales@ettix.co",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd9e08c3cfa299",
+   "date": "2026-08-07",
+   "to": "sales@ks-itsolutions.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd8cde5afe3eec",
+   "date": "2026-08-07",
+   "to": "matcardosocaetano@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd8bb95bc708cc",
+   "date": "2026-08-07",
+   "to": "vendas@abovenet.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd8a947dade49b",
+   "date": "2026-08-07",
+   "to": "transivideo@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd896f7da620ab",
+   "date": "2026-08-07",
+   "to": "vanessa.ramos@intelbras.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd884a67e0e75b",
+   "date": "2026-08-07",
+   "to": "vendas@altus.com.br, maicon.lima@altus.com.br, renato@altus.com.br, jeferson@altus.com.br, sandro@altus.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd872572539abd",
+   "date": "2026-08-07",
+   "to": "caroline.souza@datacom.com.br, selecao@datacom.com.br, angela.bersano@datacom.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd86008de7e49d",
+   "date": "2026-08-07",
+   "to": "contato@suprinordeste.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd84db95478aab",
+   "date": "2026-08-07",
+   "to": "flavio@portwell.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd83b68e933093",
+   "date": "2026-08-07",
+   "to": "alfacomp@alfacomp.ind.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd82918218294d",
+   "date": "2026-08-07",
+   "to": "sac@flexport.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd816ca54a6d6c",
+   "date": "2026-08-07",
+   "to": "contato@twmtel.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd8047bcf22d69",
+   "date": "2026-08-07",
+   "to": "contato@logosautomacao.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd7f22aa21b6bf",
+   "date": "2026-08-07",
+   "to": "info-br@weg.net",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fd7dfda6850378",
+   "date": "2026-08-07",
+   "to": "cft.leo28@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fec54ad5850372",
+   "date": "2026-08-10",
+   "to": "comex@cnca.com.ar",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fec425c8748a35",
+   "date": "2026-08-10",
+   "to": "indico-support@cern.ch",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fec300cb344126",
+   "date": "2026-08-10",
+   "to": "arsitec@arsitec.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fec1dbf6643b9d",
+   "date": "2026-08-10",
+   "to": "contato@ascenty.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fec0b6fa48d2cb",
+   "date": "2026-08-10",
+   "to": "comercial@fiberx.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19febf91edd8ba6c",
+   "date": "2026-08-10",
+   "to": "marketing@parks.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19febe6cfb8ee459",
+   "date": "2026-08-10",
+   "to": "info@etistel.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19febd481e3f857e",
+   "date": "2026-08-10",
+   "to": "eduardo.ken@precisionsolutions.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19febc230849b203",
+   "date": "2026-08-10",
+   "to": "idan@comcast-sa.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19febafe1389b6cc",
+   "date": "2026-08-10",
+   "to": "info@silicanetworks.com, contacto@silicanetworks.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb9d90d8879c1",
+   "date": "2026-08-10",
+   "to": "muhammad@bridgetechnologies.com, ehab@bridgetechnologies.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb8b435aef440",
+   "date": "2026-08-10",
+   "to": "amr.refaat@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb78f3c806184",
+   "date": "2026-08-10",
+   "to": "wale.olawoye@fob.ng, adetola.akinmade@fob.ng, lanre.ore@fob.ng",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb66a31eac470",
+   "date": "2026-08-10",
+   "to": "mohamed.taha@afro-group.com, mohamed.eid@afro-group.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb54537643a63",
+   "date": "2026-08-10",
+   "to": "venustradekhulna@gmail.com, lal.venus.trade@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb4b2bfc58cdc",
+   "date": "2026-08-10",
+   "to": "sales@smartnet.co.zm",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb420588f26da",
+   "date": "2026-08-10",
+   "to": "projexoninfo@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb38ddaf6a6d0",
+   "date": "2026-08-10",
+   "to": "info@msp-ict.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb2fb5fbd5d6f",
+   "date": "2026-08-10",
+   "to": "bhattaraijm@gmail.com, info@maxdigitaltv.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb268cb26e0f1",
+   "date": "2026-08-10",
+   "to": "info@nextik.co.in",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb1d6590e1807",
+   "date": "2026-08-10",
+   "to": "unsar@redtag.com.pk",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb143cfac112c",
+   "date": "2026-08-10",
+   "to": "sales@echola.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb0b15dd79af8",
+   "date": "2026-08-10",
+   "to": "Info@baradinn.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feb01edb66c2c8",
+   "date": "2026-08-10",
+   "to": "cdotweb@cdot.in",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feaf8c6642af1c",
+   "date": "2026-08-10",
+   "to": "hadi@parman.ir",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19feaef9eecfb85b",
+   "date": "2026-08-10",
+   "to": "info@inteltec.com.lb",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fef6807ae77bef",
+   "date": "2026-08-11",
+   "to": "kosovaku@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19ff6489778e0195",
+   "date": "2026-08-12",
+   "to": "amin.aboud@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19ff472eac147a12",
+   "date": "2026-08-12",
+   "to": "mdakhtar943.phusro@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19fff12096e4d075",
+   "date": "2026-08-14",
+   "to": "sureshch1968@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "19ffea42cec36ad4",
+   "date": "2026-08-14",
+   "to": "panaji@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a01030ab6b2fbd1",
+   "date": "2026-08-17",
+   "to": "eletrotecnicasoares@bol.com.br",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a00e1740d3438ea",
+   "date": "2026-08-17",
+   "to": "mintusony@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0133d9dac918f4",
+   "date": "2026-08-18",
+   "to": "info@golfautomation.co.in",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a019368be177be6",
+   "date": "2026-08-19",
+   "to": "mail@techzoneme.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0189ae660c8ece",
+   "date": "2026-08-19",
+   "to": "alminiaco@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0188761ea260f1",
+   "date": "2026-08-19",
+   "to": "bandasonkelly@gmail.com",
+   "subject": "Re: P24（客户回了，Elsa 回复）",
+   "note": ""
+  },
+  {
+   "msg_id": "1a024d42cad7311d",
+   "date": "2026-08-21",
+   "to": "info@alastor.com.ar",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0224ce5c1ca421",
+   "date": "2026-08-21",
+   "to": "sales@sprintintercom.com.au",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a027692fa49a039",
+   "date": "2026-08-22",
+   "to": "ashu.ent@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a038dcf48285ffc",
+   "date": "2026-08-25",
+   "to": "info@b2b-services.ru",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0385cc8d836447",
+   "date": "2026-08-25",
+   "to": "moscow@stilsoft.ru",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a03df102140ed72",
+   "date": "2026-08-26",
+   "to": "sales@bas-ip.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a03d832440f86d9",
+   "date": "2026-08-26",
+   "to": "sales@cmd-sec.ru",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a03cf9d14adefe7",
+   "date": "2026-08-26",
+   "to": "sales@soyuzsp.ru",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0431bf17b5975b",
+   "date": "2026-08-27",
+   "to": "komerce@skss.ru",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a042a98104e6196",
+   "date": "2026-08-27",
+   "to": "msk@nnz.ru",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0423ba53810488",
+   "date": "2026-08-27",
+   "to": "S.Markin@mip-sb.ru",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a045b847fd024f7",
+   "date": "2026-08-28",
+   "to": "sales@fibresales.com.au",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a05742f104a4334",
+   "date": "2026-08-31",
+   "to": "danny@peila.co.il",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a05a8a7b638d91b",
+   "date": "2026-09-01",
+   "to": "sales@ags-electronics.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0614002b01a0f4",
+   "date": "2026-09-02",
+   "to": "georgeross@kcs.org.za",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a05fe99a61be532",
+   "date": "2026-09-02",
+   "to": "alan_ftss@yahoo.com.sg",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a067dcd0eaeabe3",
+   "date": "2026-09-03",
+   "to": "flavioprogramado@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0657ebcdd430b2",
+   "date": "2026-09-03",
+   "to": "syukronmakmun14@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a06548b94960c24",
+   "date": "2026-09-03",
+   "to": "cleanworldmanagement@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a06b530ca69031f",
+   "date": "2026-09-04",
+   "to": "mohamed.k2r2m@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a06a6fffaf4fbf3",
+   "date": "2026-09-04",
+   "to": "stephengala@yahoo.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a07c2c1996302a5",
+   "date": "2026-09-07",
+   "to": "businesswise1@hotmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a07bbd534787f4c",
+   "date": "2026-09-07",
+   "to": "sales@rts.ua",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a07b18861ffdac9",
+   "date": "2026-09-07",
+   "to": "sanjiv@aquakenya.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a07aaaa8ce34b26",
+   "date": "2026-09-07",
+   "to": "info@globalconnectsynergy.com",
+   "subject": "P24|BCC:PK 12",
+   "note": "BCC:PK 12"
+  },
+  {
+   "msg_id": "1a07a5843eabee23",
+   "date": "2026-09-07",
+   "to": "info@baycom.com.tw",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a079b80d2048589",
+   "date": "2026-09-07",
+   "to": "sales@aibaotech.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a080bf0f41d58a2",
+   "date": "2026-09-08",
+   "to": "amr_sha@hotmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a08075d070c32df",
+   "date": "2026-09-08",
+   "to": "gunjan@xexagon.co.in",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a07fec7dd405d59",
+   "date": "2026-09-08",
+   "to": "support@sislinfotech.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a07fb58f139416e",
+   "date": "2026-09-08",
+   "to": "sofyan@mutiara-teknologi.com.my",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a07f2e0ee8e17c2",
+   "date": "2026-09-08",
+   "to": "desmond@multitradepac.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a08556982baed33",
+   "date": "2026-09-09",
+   "to": "thuanan.sales1@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a08a7cf5fc993e4",
+   "date": "2026-09-10",
+   "to": "thuyluc1973@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a08a3bf37753529",
+   "date": "2026-09-10",
+   "to": "inbox.vienthonghanoi@gmail.com",
+   "subject": "24 Port PoE Managed Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a0a4a5933e498",
+   "date": "2026-09-14",
+   "to": "midavo@gmail.com, david@comred.pe",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a093419592875",
+   "date": "2026-09-14",
+   "to": "ventas@topsecurityperu.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a080f1d362b15",
+   "date": "2026-09-14",
+   "to": "wernerh@zp30.com.py",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a06ea02ee3999",
+   "date": "2026-09-14",
+   "to": "a.izankad@powerintegration.ma",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a05c5334c2844",
+   "date": "2026-09-14",
+   "to": "info@masec.ma",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a04a03a672ffc",
+   "date": "2026-09-14",
+   "to": "wahdatechnique@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a037b3fbebedf",
+   "date": "2026-09-14",
+   "to": "begdouriomar@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a025621006c24",
+   "date": "2026-09-14",
+   "to": "digiteck.maroc@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a0131545ac1cd",
+   "date": "2026-09-14",
+   "to": "sales@microviewng.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a000c4cae3b1c",
+   "date": "2026-09-14",
+   "to": "info@netproict.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09fee75a91ca33",
+   "date": "2026-09-14",
+   "to": "eustaceamah@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09fdc24eede558",
+   "date": "2026-09-14",
+   "to": "info@securico.co.zw",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09fc9d6aabc59d",
+   "date": "2026-09-14",
+   "to": "Sales@petanetworks.net",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09fb78612e8fad",
+   "date": "2026-09-14",
+   "to": "sales@raredist.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09fa5365b4cfe8",
+   "date": "2026-09-14",
+   "to": "safiy@ccs.com.eg",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09f92e661baa31",
+   "date": "2026-09-14",
+   "to": "sales@esiegypt.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09f777138ed71f",
+   "date": "2026-09-14",
+   "to": "info@tubal-egypt.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09f5bf8587cfc5",
+   "date": "2026-09-14",
+   "to": "info@watchnetinc.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09f4080f660a44",
+   "date": "2026-09-14",
+   "to": "info@emiceg.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09f250a971063c",
+   "date": "2026-09-14",
+   "to": "sales@sama-link.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09f0992df0fda7",
+   "date": "2026-09-14",
+   "to": "inquiry@gstegypt.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09eee1cf997f0c",
+   "date": "2026-09-14",
+   "to": "a.frances@buzman.co.tz",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09ed2a5b87fc3d",
+   "date": "2026-09-14",
+   "to": "sales@hasnet.co.tz",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09eb72c7427e63",
+   "date": "2026-09-14",
+   "to": "helpdesk@ibc.al",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09e9bb6c6f1449",
+   "date": "2026-09-14",
+   "to": "pythiask@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09e803eff2b0e9",
+   "date": "2026-09-14",
+   "to": "sales.ebsa@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09e64c77eaa7c4",
+   "date": "2026-09-14",
+   "to": "bj.servicios@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09e4950280013e",
+   "date": "2026-09-14",
+   "to": "info@lra.org.ls",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09e2dd98a199aa",
+   "date": "2026-09-14",
+   "to": "sales@shams-almaarifa.net",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09e134c4301382",
+   "date": "2026-09-14",
+   "to": "store@alnabaa.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09df6ebbb2b5e3",
+   "date": "2026-09-14",
+   "to": "info@helptechco.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09ddb73f00e11a",
+   "date": "2026-09-14",
+   "to": "hello@ict.com.mm",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a09dbffd0ddf09f",
+   "date": "2026-09-14",
+   "to": "diamondstar.sopheap@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a125bde799584",
+   "date": "2026-09-15",
+   "to": "ventas@syscom.mx",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a1136c23f286d",
+   "date": "2026-09-15",
+   "to": "info@rarmx.com.mx",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a1011db9a60cb",
+   "date": "2026-09-15",
+   "to": "info@steren.com.mx",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a0eecfd1e7571",
+   "date": "2026-09-15",
+   "to": "soporte@pagina.mx",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a0dc7e9a6631d",
+   "date": "2026-09-15",
+   "to": "soporte@tvc.mx",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  },
+  {
+   "msg_id": "1a0a0b7de3c311ee",
+   "date": "2026-09-15",
+   "to": "saikooperu@gmail.com",
+   "subject": "16 Port Industrial PoE Switch",
+   "note": ""
+  }
+ ]
+}

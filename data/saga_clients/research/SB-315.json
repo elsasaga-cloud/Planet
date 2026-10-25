@@ -76,7 +76,7 @@
  "country_fix": "美国",
  "mail_review": {
   "binding": {
-   "level": "未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@infinicoreinc.com；主题多为「90W PoE Managed Switch、Marvell Alleycat5 Solution」）",
+   "level": "未触达（A/S 邮箱 11 封 2025→2026，无记录打开，0 回；收件 info@infinicoreinc.com；主题多为「90W PoE Managed Switch、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-28「L3 Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "—",
    "sieve": "1（只收到群发）",
    "stop": "只打通用邮箱，无记录打开",
@@ -99,7 +99,7 @@
   "next_move": {
    "when": "群发节奏",
    "channel": "A 邮箱",
-   "action": "观察打开",
+   "action": "首封前知悉：Elsa 2025-02-28 单发过「L3 Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开",
    "one_question": "For the lab racks around your FlowDirector systems, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW; if you are adding test benches this quarter I can ship one unit for evaluation."
   },
   "facts": [
@@ -118,6 +118,15 @@
     "quote": "（用户表字段）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2025-02-28",
+    "dir": "out",
+    "who": "Elsa → info@infinicoreinc.com",
+    "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1954890bd013ce60"
    }
   ],
   "proof_gaps": [

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,18 +36,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W；Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11（Simon 先定 MII 口径） WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档 一句话定调
+- **下一步**：2026-11（Simon 先定 MII 口径） WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档 首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话定调
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-178` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达→WhatsApp 线（Elsa 邮箱 6 来 5 去 2026-01-08 → 04-06：HFCL DGM Shantanu Rana 问 MII 60%，Elsa 答「SKD 起步 → CKD 深度本地化 → 软件/合规随项目推进」并附 STH100G 规格书 + 软件功能表 V2.4 + PeakNetX 性能 + CENTEC Web UI；04-05 Elsa 报工业 PoE 2 SFP + 4 PoE 非管理 120W $35/pc、附印度出货 AWB 与客户 WhatsApp 确认截图；04-06 对方要 WhatsApp，Elsa「My colleague Simon said hi on WhatsApp」→ 之后在 Simon 手机；S/A 邮箱 9 封 0 回)** ｜ 类型：印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复） ｜ 筛子：3（要价要证要 WhatsApp，但 MII 门槛未解） ｜ 停点：2026-04-06 转 Simon WhatsApp 后邮件侧无记录；Elsa 5-11 / 8-04 仍按群发节奏发新品信 ｜ 复活：Simon 判断：MII 60% 做不到就一句话说清（不设印度组装）；能走「SKD + 印度伙伴组装」才值得继续 ｜ 通路：IN 次级（Simon 2026-08 点名）；但 HFCL 体量属「OEM 品牌商」首选序列（《背景信息》） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；Elsa 回复正文 2026-10-24 经 Gmail 连接器读取（msg 19b9ce96044d34d2 / 19d5dda75eb2844d / 19d5df7137413d07 / 19d61799606c69e0）
+- **绑定等级：轻度触达→WhatsApp 线（Elsa 邮箱 6 来 5 去 2026-01-08 → 04-06：HFCL DGM Shantanu Rana 问 MII 60%，Elsa 答「SKD 起步 → CKD 深度本地化 → 软件/合规随项目推进」并附 STH100G 规格书 + 软件功能表 V2.4 + PeakNetX 性能 + CENTEC Web UI；04-05 Elsa 报工业 PoE 2 SFP + 4 PoE 非管理 120W $35/pc、附印度出货 AWB 与客户 WhatsApp 确认截图；04-06 对方要 WhatsApp，Elsa「My colleague Simon said hi on WhatsApp」→ 之后在 Simon 手机；S/A 邮箱 9 封 0 回)；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复） ｜ 筛子：3（要价要证要 WhatsApp，但 MII 门槛未解） ｜ 停点：2026-04-06 转 Simon WhatsApp 后邮件侧无记录；Elsa 5-11 / 8-04 仍按群发节奏发新品信 ｜ 复活：Simon 判断：MII 60% 做不到就一句话说清（不设印度组装）；能走「SKD + 印度伙伴组装」才值得继续 ｜ 通路：IN 次级（Simon 2026-08 点名）；但 HFCL 体量属「OEM 品牌商」首选序列（《背景信息》） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9；用户表：「工业FS 自己的logo；回复里有详细联系方式」；研究档 risks：体量大（上市集团）：决策链长、BIS 认证与 SKD 本地化要求；仅二供/补位口径；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）；Elsa 回复正文 2026-10-24 经 Gmail 连接器读取（msg 19b9ce96044d34d2 / 19d5dda75eb2844d / 19d5df7137413d07 / 19d61799606c69e0）
 - **现状一句话**：印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。
 - **对方真实需求（有据）**：自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W
 - **断点 / 为什么停在这里**：MII 60% 本地含量（印度公共采购口径）——Saga 无印度产能；只有 SKD/伙伴组装一条路，且偏离 C1「接口层」
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch））——自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W
-- **下一步（具体）**：2026-11（Simon 先定 MII 口径）　WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档　一句话定调
+- **下一步（具体）**：2026-11（Simon 先定 MII 口径）　WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档　首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话定调
   - 第一问（只问一个）：Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -64,6 +64,7 @@ updated: 2026-10-24
 | 2026-04-06 | 来 | Shantanu Rana | Can you text me on wats app | 对方把渠道切到 WhatsApp → 之后仓库失明；Elsa 的回复正文未入库 | `gmail_e` |
 | 2026-04-06 | 去 | Elsa | My colleague Simon said hi on WhatsApp. | 渠道交接点：此后进展只在 Simon 手机 | `gmail_e 19d61799606c69e0` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo；回复里有详细联系方式 | 表内备注 | `用户表` |
+| 2026-05-11 | out | Elsa → shantanu.kumar@hfcl.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 之后（2026-04-06 →）的进展只在 Simon 手机；SKD/CKD 能力承诺是否得到 SmartByte/HRUI 支持未核
 
@@ -296,12 +297,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

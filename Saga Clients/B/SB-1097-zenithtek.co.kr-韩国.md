@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,18 +36,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）。已打开的主题（1/34 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-02) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-30 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（10G managed switch）、2025-06-02 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封
+- **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 2025-02-13 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1097` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 34 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2024-12-02，是退信触发的像素，不算；真实打开 0 次），0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）** ｜ 类型：网络产品公司（韩国，待核） ｜ 筛子：1~2（1 次打开） ｜ 停点：34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「MC switch等」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复
+- **绑定等级：未触达（A/S 邮箱 34 封 2024→2026，0 次有效打开（1 次「打开」与退信同日 2024-12-02，是退信触发的像素，不算；真实打开 0 次），0 回；收件 chaesj@zenithtek.co.kr, zenithtek@zenithtek.co.kr；主题多为「Managed Optical Bypass Switch、Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-02-13「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：网络产品公司（韩国，待核） ｜ 筛子：1~2（1 次打开） ｜ 停点：34 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱 ｜ 复活：停发群发；若要继续，换具名邮箱 + 只问一句 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：gmail_digest：out 34，Opened 标签 1（Simon 群发追踪）；用户表：「MC switch等」；研究档 risks：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复
 - **现状一句话**：韩国 Zenithtek（zenithtek.co.kr；表内「MC switch 等」「可以尝试多跟进一下」；官网 http_error）；群发 23 次无回复。
 - **对方真实需求（有据）**：MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国；KC 由客户侧）；官网 http_error（业务待核）；23 次无回复
 - **Saga 现在该推什么**：P1 **STI-110GE**（20% 档，换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-30 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-27 $220（10G managed switch）、2025-06-02 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch））——MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）。已打开的主题（1/34 封有打开记录）：「Mini Industrial PoE Switch」(2024-12-02) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1
-- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　换收件人再发一封
+- **下一步（具体）**：2027-Q1（换人后）　A 邮箱 → 具名 KP　首封前知悉：Elsa 2025-02-13 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封
   - 第一问（只问一个）：For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -56,6 +56,7 @@ updated: 2026-10-24
 | 2024-12-02 | 内 | Gmail 退信（S 邮箱） | chaesj@zenithtek.co.kr 退信：505 this account is unknown user (#5.5.1) | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_s 8e5ecbcce5f0622a` |
 | 2026-09-25 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 34 封 / 1 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-25（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC switch等 | 表内备注 | `用户表` |
+| 2025-02-13 | out | Elsa → zenithtek@zenithtek.co.kr | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -295,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

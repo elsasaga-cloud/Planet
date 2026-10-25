@@ -1,130 +1,139 @@
 {
-  "code": "SB-375",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（volokno.kz，快照 2026-10-21）",
-  "summary": "哈萨克斯坦 Альянс / volokno.kz（阿拉木图光缆与电信设备贸易生产公司：光缆、SFP/AOC、MikroTik 206 / Ubiquiti 27、FTTH、架空线金具；表内「工业 FS 中科德能的」）；群发 17 次无回复。",
-  "type": "光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）",
-  "size": "",
-  "brands_seen": [
-    "MikroTik",
-    "Ubiquiti"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Волоконно оптический кабель купить в Алматы；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Реализация телекоммуникационного оборудования и кабельно-проводниковой продукции в Алматы от компании Альянс. Подробнее – на сайте",
-      "url": "https://volokno.kz/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 中科德能的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "阿拉木图电信设备与线缆产品销售",
-      "quote": "Реализация телекоммуникационного оборудования и кабельно-проводниковой продукции в Алматы от компании Альянс.",
-      "url": "https://volokno.kz/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 中科德能的",
-      "quote": "工业FS 中科德能的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-375",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（volokno.kz，快照 2026-10-21）",
+ "summary": "哈萨克斯坦 Альянс / volokno.kz（阿拉木图光缆与电信设备贸易生产公司：光缆、SFP/AOC、MikroTik 206 / Ubiquiti 27、FTTH、架空线金具；表内「工业 FS 中科德能的」）；群发 17 次无回复。",
+ "type": "光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）",
+ "size": "",
+ "brands_seen": [
+  "MikroTik",
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Волоконно оптический кабель купить в Алматы；品类词 电信 / FTTH / ISP 设备 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Реализация телекоммуникационного оборудования и кабельно-проводниковой продукции в Алматы от компании Альянс. Подробнее – на сайте",
+   "url": "https://volokno.kz/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "哈萨克斯坦",
-    "other": "官网 volokno.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 中科德能的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光缆 / 架空线金具 / 电信设备贸易"
-  ],
-  "channels": {
-    "role": "光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）",
-    "region": "哈萨克斯坦",
-    "contact": "manager@volokno.kz、manager8@volokno.kz"
+  {
+   "kind": "官网快照",
+   "claim": "阿拉木图电信设备与线缆产品销售",
+   "quote": "Реализация телекоммуникационного оборудования и кабельно-проводниковой продукции в Алматы от компании Альянс.",
+   "url": "https://volokno.kz/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Реализация телекоммуникационного оборудования и кабельно-проводниковой продукции в Алматы",
-    "站内 kw：mikrotik 206 / sfp 187 / poe 165 / ftth 21"
-  ],
-  "risks": [
-    "非主攻区（T5）；中亚结算/物流按单核",
-    "MikroTik 为主的贸易商：工业交换机为配套；现货源国产低价；17 次无回复，无具名 KP"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GP",
-    "tier": 20,
-    "why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换"
-  },
-  "email_hook": "Alongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 manager@volokno.kz；被打开主题「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）",
-      "type": "光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "哈萨克斯坦 非主攻",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 中科德能的」；研究档 risks：非主攻区（T5）；中亚结算/物流按单核"
-    },
-    "situation": "哈萨克斯坦 Альянс / volokno.kz（阿拉木图光缆与电信设备贸易生产公司：光缆、SFP/AOC、MikroTik 206 / Ubiquiti 27、FTTH、架空线金具；表内「工业 FS 中科德能的」）；群发 17 次无回复。",
-    "need": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换",
-    "breakpoint": "非主攻区（T5）；中亚结算/物流按单核",
-    "saga_now": {
-      "p1": "STI-288GP",
-      "tier": 20,
-      "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-09-18 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch）",
-      "why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换。已打开的主题（2/26 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-24)、「10G L3 Managed Switch」(2026-06-05) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → manager@volokno.kz",
-      "action": "短信一问（email_hook）",
-      "one_question": "Alongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-10-07",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
-        "why": "26 封 / 2 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-10-07（26 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 中科德能的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — 10G Enterprise SFP Switch",
-      "body": "Hello,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 中科德能的",
+   "quote": "工业FS 中科德能的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "哈萨克斯坦",
+  "other": "官网 volokno.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光缆 / 架空线金具 / 电信设备贸易"
+ ],
+ "channels": {
+  "role": "光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）",
+  "region": "哈萨克斯坦",
+  "contact": "manager@volokno.kz、manager8@volokno.kz"
+ },
+ "signals": [
+  "官网：Реализация телекоммуникационного оборудования и кабельно-проводниковой продукции в Алматы",
+  "站内 kw：mikrotik 206 / sfp 187 / poe 165 / ftth 21"
+ ],
+ "risks": [
+  "非主攻区（T5）；中亚结算/物流按单核",
+  "MikroTik 为主的贸易商：工业交换机为配套；现货源国产低价；17 次无回复，无具名 KP"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GP",
+  "tier": 20,
+  "why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换"
+ },
+ "email_hook": "Alongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 manager@volokno.kz；被打开主题「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-24「24 Port Fiber Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "哈萨克斯坦 非主攻",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 中科德能的」；研究档 risks：非主攻区（T5）；中亚结算/物流按单核"
+  },
+  "situation": "哈萨克斯坦 Альянс / volokno.kz（阿拉木图光缆与电信设备贸易生产公司：光缆、SFP/AOC、MikroTik 206 / Ubiquiti 27、FTTH、架空线金具；表内「工业 FS 中科德能的」）；群发 17 次无回复。",
+  "need": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换",
+  "breakpoint": "非主攻区（T5）；中亚结算/物流按单核",
+  "saga_now": {
+   "p1": "STI-288GP",
+   "tier": 20,
+   "price": "首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-09-18 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch）",
+   "why": "在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换。已打开的主题（2/26 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-24)、「10G L3 Managed Switch」(2026-06-05) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → manager@volokno.kz",
+   "action": "首封前知悉：Elsa 2025-02-24 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）",
+   "one_question": "Alongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-10-07",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "10G Enterprise SFP Switch、Marvell Alleycat5 Solution",
+    "why": "26 封 / 2 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-10-07（26 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 中科德能的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-24",
+    "dir": "out",
+    "who": "Elsa → manager@volokno.kz",
+    "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "195372f460b811de"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — 10G Enterprise SFP Switch",
+   "body": "Hello,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

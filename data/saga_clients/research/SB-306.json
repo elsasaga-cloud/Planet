@@ -69,5 +69,56 @@
   "tier": 25,
   "why": "国防为首要行业、军用加固 PoE 交换机 = 守界 → 改 C"
  },
- "email_hook": "（不发送：军工守界）"
+ "email_hook": "（不发送：军工守界）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 1 封 2025-01-20→2025-01-20、A 13 封 2025-04-11→2026-02-11，共 14 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-25「8 Port Industrial PoE Switch」→ info@crystalrugged.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "国防加固计算制造商（军工）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-306（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "美国 Crystal Group（国防加固计算，AS9100D；「ruggedized PoE switch military」）",
+  "need": "军工加固 → 守界（INH：军工/轨交主营 PASS）",
+  "breakpoint": "军工属性；info@ 14 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "军工加固 → 守界（INH：军工/轨交主营 PASS）",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：守界（军工）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-02-11",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Managed Optical Bypass Switch, 16 Port PoE Managed Switch, 48 Port PoE Managed Switch, 16 Port Ethernet Switch",
+    "why": "S 1 封 2025-01-20→2025-01-20、A 13 封 2025-04-11→2026-02-11，共 14 封群发，0 真实回复｜首封 2025-01-20 → 末封 2026-02-11",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-25",
+    "dir": "out",
+    "who": "Elsa → info@crystalrugged.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "195395496e7f59eb"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

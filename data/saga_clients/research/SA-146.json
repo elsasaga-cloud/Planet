@@ -1,138 +1,147 @@
 {
-  "code": "SA-146",
-  "name_official": "Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）",
-  "website_status": "在线",
-  "summary": "菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。",
-  "type": "经销/集成商",
-  "size": "待补证",
-  "brands_seen": [
-    "迈威 Maiwe（用户记录）",
-    "Maiwe 迈威（外贸数据在采）",
-    "GE-Harris（RTU）"
-  ],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "买了迈威的；0 回复",
-      "quote": "买了迈威的（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "公司定位与地址",
-      "quote": "NKS or NAYON KONTROL SYSTEMS is a technology-based company established to provide solutions for SCADA and Automation systems primarily for electric utilities in the Philippines. … No. 4 Illinois St. Brgy. Silangan, District III Cubao, Quezon City Philippines 1109 Phone: (+632) 913-1347 … Email: info@nks.ph",
-      "url": "https://www.nkstech.net/about.php",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "行业名录",
-      "claim": "客户名单",
-      "quote": "NKS's growing list of clients now include: National Grid Corporation of the Philippines (NGCP), Meralco, First Gen Corporation, DMCI, Citicore, Global Business Power Corporation, TransAsia, TEAM Energy, Manila Water and Palau Public Utilities.",
-      "url": "https://www.pe2.org/members/nayon-kontrol-systems-nks",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "名录",
-      "claim": "规模",
-      "quote": "Nayon Kontrol Systems Information … Employees · 43 … Founded · 1996 … Address · No. 4 Illinois St, Brgy. Silangan, Cubao, Quezon City",
-      "url": "https://rocketreach.co/nayon-kontrol-systems-profile_b7c271fac1827400",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "富通天下：买了迈威的",
-      "quote": "买了迈威的 / 富通天下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mark Delapaz",
-      "role": "（NKS 员工，ZoomInfo 公开；职务待核）",
-      "email": "—",
-      "phone": "+632 8913 1347（公司）",
-      "source": "https://www.zoominfo.com/p/Mark-Delapaz/-1345711402"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。",
-  "notes": "一封'迈威对位 STI 工业线'邮件。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+ "code": "SA-146",
+ "name_official": "Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）",
+ "website_status": "在线",
+ "summary": "菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [
+  "迈威 Maiwe（用户记录）",
+  "Maiwe 迈威（外贸数据在采）",
+  "GE-Harris（RTU）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "买了迈威的；0 回复",
+   "quote": "买了迈威的（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Nayon Kontrol Systems",
-    "founded": "1996",
-    "hq": "No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109（+632 8913 1347；info@nks.ph）",
-    "size": "43（RocketReach）/ 46–60（ZoomInfo）",
-    "other": "GE-Harris D20 RTU 专长；关联 NKS Solar One Inc."
+  {
+   "kind": "官网",
+   "claim": "公司定位与地址",
+   "quote": "NKS or NAYON KONTROL SYSTEMS is a technology-based company established to provide solutions for SCADA and Automation systems primarily for electric utilities in the Philippines. … No. 4 Illinois St. Brgy. Silangan, District III Cubao, Quezon City Philippines 1109 Phone: (+632) 913-1347 … Email: info@nks.ph",
+   "url": "https://www.nkstech.net/about.php",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "电力 SCADA / 变电站自动化集成",
-    "RTU / 网关 / 运维"
-  ],
-  "channels": {
-    "网站": "https://www.nkstech.net/",
-    "电话": "+632 8913 1347（公开）",
-    "邮箱": "info@nks.ph（官网公开）；info@nkstech.net（用户表）"
+  {
+   "kind": "行业名录",
+   "claim": "客户名单",
+   "quote": "NKS's growing list of clients now include: National Grid Corporation of the Philippines (NGCP), Meralco, First Gen Corporation, DMCI, Citicore, Global Business Power Corporation, TransAsia, TEAM Energy, Manila Water and Palau Public Utilities.",
+   "url": "https://www.pe2.org/members/nayon-kontrol-systems-nks",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "变电站自动化集成商已外采 Maiwe → DIN 管理型工业交换机（ERPS、IEC 61850 环境）第二来源",
-    "客户 Citicore（SA-142）同在名单 → 可串联"
-  ],
-  "risks": [
-    "变电站需 IEC 61850-3/IEEE 1613 认证（Saga 仅 CE/RoHS/FCC → 仅限非认证场景）；电力公共事业按个案守界；亚太非主攻区"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 25,
-    "why": "集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）"
+  {
+   "kind": "名录",
+   "claim": "规模",
+   "quote": "Nayon Kontrol Systems Information … Employees · 43 … Founded · 1996 … Address · No. 4 Illinois St, Brgy. Silangan, Cubao, Quezon City",
+   "url": "https://rocketreach.co/nayon-kontrol-systems-profile_b7c271fac1827400",
+   "date": "2026-10-21"
   },
-  "email_hook": "Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $145.7), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（0 回复：档案里的 1 封「来信」是 Avanca 的 Steven 回群发时抄送 info@nkstech.net）",
-      "type": "菲律宾电力 SCADA 集成商",
-      "sieve": "0",
-      "stop": "4 封去信零回复",
-      "revive": "—",
-      "lane": "PH",
-      "cadence": "2024-11 → 2025-03 去信 4 封",
-      "evidence": "k=d691da1b4d887acd（实为 SA-132 来信）"
-    },
-    "situation": "研究档的「来信」为误归属（Steven Fu 的回复抄送了 NKS）。NKS 本身零回复。",
-    "need": "—",
-    "breakpoint": "误归属更正。",
-    "saga_now": {
-      "p1": "无",
-      "tier": 25,
-      "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）",
-      "why": "不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2024-11-06",
-        "dir": "来",
-        "who": "Steven Fu（Avanca，抄送 NKS）",
-        "quote": "Could you send me datasheet ?",
-        "why": "误归属说明",
-        "k": "d691da1b4d887acd"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "富通天下：买了迈威的",
+   "quote": "买了迈威的 / 富通天下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mark Delapaz",
+   "role": "（NKS 员工，ZoomInfo 公开；职务待核）",
+   "email": "—",
+   "phone": "+632 8913 1347（公司）",
+   "source": "https://www.zoominfo.com/p/Mark-Delapaz/-1345711402"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "同 SA-142 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。",
+ "notes": "一封'迈威对位 STI 工业线'邮件。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "Nayon Kontrol Systems",
+  "founded": "1996",
+  "hq": "No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109（+632 8913 1347；info@nks.ph）",
+  "size": "43（RocketReach）/ 46–60（ZoomInfo）",
+  "other": "GE-Harris D20 RTU 专长；关联 NKS Solar One Inc."
+ },
+ "business_lines": [
+  "电力 SCADA / 变电站自动化集成",
+  "RTU / 网关 / 运维"
+ ],
+ "channels": {
+  "网站": "https://www.nkstech.net/",
+  "电话": "+632 8913 1347（公开）",
+  "邮箱": "info@nks.ph（官网公开）；info@nkstech.net（用户表）"
+ },
+ "signals": [
+  "变电站自动化集成商已外采 Maiwe → DIN 管理型工业交换机（ERPS、IEC 61850 环境）第二来源",
+  "客户 Citicore（SA-142）同在名单 → 可串联"
+ ],
+ "risks": [
+  "变电站需 IEC 61850-3/IEEE 1613 认证（Saga 仅 CE/RoHS/FCC → 仅限非认证场景）；电力公共事业按个案守界；亚太非主攻区"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "集成 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，$145.7）作非 61850 认证要求的站内/光伏 SCADA 网络；非 PoE STI-280GM（$71.0）"
+ },
+ "email_hook": "Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $145.7), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（0 回复：档案里的 1 封「来信」是 Avanca 的 Steven 回群发时抄送 info@nkstech.net）；Elsa 单发去信 1 封（2025-02-12「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "菲律宾电力 SCADA 集成商",
+   "sieve": "0",
+   "stop": "4 封去信零回复",
+   "revive": "—",
+   "lane": "PH",
+   "cadence": "2024-11 → 2025-03 去信 4 封",
+   "evidence": "k=d691da1b4d887acd（实为 SA-132 来信）"
+  },
+  "situation": "研究档的「来信」为误归属（Steven Fu 的回复抄送了 NKS）。NKS 本身零回复。",
+  "need": "—",
+  "breakpoint": "误归属更正。",
+  "saga_now": {
+   "p1": "无",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）",
+   "why": "不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 2025-02-12 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2024-11-06",
+    "dir": "来",
+    "who": "Steven Fu（Avanca，抄送 NKS）",
+    "quote": "Could you send me datasheet ?",
+    "why": "误归属说明",
+    "k": "d691da1b4d887acd"
+   },
+   {
+    "date": "2025-02-12",
+    "dir": "out",
+    "who": "Elsa → info@nkstech.net",
+    "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194f8a2b288efa2d"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

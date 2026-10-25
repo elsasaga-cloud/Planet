@@ -69,5 +69,61 @@
   "tier": 20,
   "why": "Netceed 为全球性电信/数据中心基础设施分销集团（体量过大，供应商准入体系）→ 改 C"
  },
- "email_hook": "（不发送：巨头）"
+ "email_hook": "（不发送：巨头）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（只收到自动回执/假期回复，无人工回复、无打开记录；A 11 封 2025-04-08→2026-01-29，共 11 封群发，0 真实回复（1 封自动回执/假期回复，不算回）；Elsa 单发去信 1 封（2025-02-12「48 Port PoE Managed Switch」→ contact@eurotechnocom.fr，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "全球电信基础设施分销集团",
+   "sieve": "1（旧址）",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-415（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "法国 Netceed（原 USTC/Eurotechnocom：全球电信/数据中心基础设施分销集团；表内「SFP PoE switch DAC」「之前的 mail 不行了」）",
+  "need": "分销集团：10G/25G 汇聚 + PoE 接入的中国二线品牌线（STC-424XGGM / STC-448XGGPM）",
+  "breakpoint": "旧址 contact@eurotechnocom.fr 已并入 netceed.com（hello.fr@netceed.com）；A 11 封 0 回；集团采购走供应商准入",
+  "saga_now": {
+   "p1": "STC-448XGGPM",
+   "tier": 20,
+   "price": "$335（主表 20% 档）",
+   "why": "分销集团：10G/25G 汇聚 + PoE 接入的中国二线品牌线（STC-424XGGM / STC-448XGGPM）",
+   "repeat": "无成单；待首次真实回复",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1",
+   "channel": "A 邮箱 → hello.fr@netceed.com（新集团地址；eurotechnocom.fr 旧址停用）",
+   "action": "换新地址只问一句：Netceed 供应商准入（vendor onboarding）走哪个入口；不发目录",
+   "one_question": "Netceed now covers the old Eurotechnocom contacts — could you point us to the vendor onboarding entry for Ethernet switching (Marvell-based L2+ 24/48-PoE, 10G uplink, CE/RoHS)? Reference: STC-448XGGPM at $335 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-01-29",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Marvell Alleycat5 Solution, Marvell Industrial Alert System, 8 Port Industrial PoE Switch, Mini Industrial PoE Switch",
+    "why": "A 11 封 2025-04-08→2026-01-29，共 11 封群发，0 真实回复（1 封自动回执/假期回复，不算回）｜首封 2025-04-08 → 末封 2026-01-29",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-12",
+    "dir": "out",
+    "who": "Elsa → contact@eurotechnocom.fr",
+    "quote": "48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194f9b55cd378feb"
+   }
+  ],
+  "proof_gaps": [
+   "KP 姓名/职务待核（现用通用箱或自动回复给出的地址）"
+  ],
+  "draft_en": {
+   "subject": "One question — STC-448XGGPM",
+   "body": "Hello,\n\nWe have sent you a few mails over the past year and you never had a reason to reply — fair enough. No brochure this time, just one question:\n\nNetceed now covers the old Eurotechnocom contacts — could you point us to the vendor onboarding entry for Ethernet switching (Marvell-based L2+ 24/48-PoE, 10G uplink, CE/RoHS)? Reference: STC-448XGGPM at $335 USD EXW (MOQ 1, 15-day validity).\n\nIf the answer is no, a one-word reply closes the loop on our side.\n\nBest regards,\nAlan\nSaga Telecom"
+  }
+ }
 }

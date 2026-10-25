@@ -1,140 +1,149 @@
 {
-  "code": "SB-836",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（groundcontrol.com，快照 2026-10-21）",
-  "summary": "英国 Ground Control（卫星 IoT 与追踪设备设计制造商（RockFLEET、Iridium/Viasat 空时）；表内「PoE 配件 Elink 的」「可以多跟进一下」；KP Scotty Thibodeaux（IoT Solution Architect））；群发 15 次无回复。",
-  "type": "卫星 IoT 设备制造商（英国，PoE 配件为配套）",
-  "size": "",
-  "brands_seen": [
-    "Elink"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control",
-      "quote": "We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs. Discover our range of solutions.",
-      "url": "https://www.groundcontrol.com:443/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "PoE配件 Elink的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control；品类词 网络交换 / PoE",
-      "quote": "We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs. Discover our range of solutions.",
-      "url": "https://www.groundcontrol.com:443/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Ground Control 定位",
-      "quote": "Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control ; We design & build satellite-based IoT & tracking devices",
-      "url": "https://www.groundcontrol.com:443/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "PoE 配件 Elink",
-      "quote": "PoE配件 Elink的；可以多跟进一下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Scotty Thibodeaux",
-      "title": "IoT Solution Architect",
-      "email": "scotty.thibodeaux@groundcontrol.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-836",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（groundcontrol.com，快照 2026-10-21）",
+ "summary": "英国 Ground Control（卫星 IoT 与追踪设备设计制造商（RockFLEET、Iridium/Viasat 空时）；表内「PoE 配件 Elink 的」「可以多跟进一下」；KP Scotty Thibodeaux（IoT Solution Architect））；群发 15 次无回复。",
+ "type": "卫星 IoT 设备制造商（英国，PoE 配件为配套）",
+ "size": "",
+ "brands_seen": [
+  "Elink"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control",
+   "quote": "We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs. Discover our range of solutions.",
+   "url": "https://www.groundcontrol.com:443/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 groundcontrol.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "PoE配件 Elink的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "卫星 IoT / 追踪设备（自有品牌 Ground Control）"
-  ],
-  "channels": {
-    "role": "卫星 IoT 设备制造商（英国，PoE 配件为配套）",
-    "region": "英国",
-    "contact": "hello@groundcontrol.com、scotty.thibodeaux@groundcontrol.com"
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control；品类词 网络交换 / PoE",
+   "quote": "We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs. Discover our range of solutions.",
+   "url": "https://www.groundcontrol.com:443/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs ; RockFLEET Assured ; Environmental Monitoring",
-    "表内：PoE 配件 Elink 的；KP Scotty T / IoT Solution Architect；可以多跟进一下"
-  ],
-  "risks": [
-    "PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-054GP",
-    "tier": 30,
-    "why": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）"
+  {
+   "kind": "官网快照",
+   "claim": "Ground Control 定位",
+   "quote": "Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control ; We design & build satellite-based IoT & tracking devices",
+   "url": "https://www.groundcontrol.com:443/",
+   "date": "2026-10-21"
   },
-  "email_hook": "Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hello@groundcontrol.com, scotty.thibodeaux@groundcontrol.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）",
-      "type": "卫星 IoT 设备制造商（英国，PoE 配件为配套）",
-      "sieve": "1~2（1 次打开）",
-      "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「PoE配件 Elink的」；研究档 risks：PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触"
-    },
-    "situation": "英国 Ground Control（卫星 IoT 与追踪设备设计制造商（RockFLEET、Iridium/Viasat 空时）；表内「PoE 配件 Elink 的」「可以多跟进一下」；KP Scotty Thibodeaux（IoT Solution Architect））；群发 15 次无回复。",
-    "need": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）",
-    "breakpoint": "PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触",
-    "saga_now": {
-      "p1": "STI-054GP",
-      "tier": 30,
-      "price": "换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
-      "why": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-24",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
-        "why": "25 封 / 1 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-24（25 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "PoE配件 Elink的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "PoE 配件 Elink",
+   "quote": "PoE配件 Elink的；可以多跟进一下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Scotty Thibodeaux",
+   "title": "IoT Solution Architect",
+   "email": "scotty.thibodeaux@groundcontrol.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 groundcontrol.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "卫星 IoT / 追踪设备（自有品牌 Ground Control）"
+ ],
+ "channels": {
+  "role": "卫星 IoT 设备制造商（英国，PoE 配件为配套）",
+  "region": "英国",
+  "contact": "hello@groundcontrol.com、scotty.thibodeaux@groundcontrol.com"
+ },
+ "signals": [
+  "官网：We design & build satellite-based IoT & tracking devices to solve your remote critical communication needs ; RockFLEET Assured ; Environmental Monitoring",
+  "表内：PoE 配件 Elink 的；KP Scotty T / IoT Solution Architect；可以多跟进一下"
+ ],
+ "risks": [
+  "PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-054GP",
+  "tier": 30,
+  "why": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）"
+ },
+ "email_hook": "Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 25 封 2024→2026，1 次记录打开，0 回；收件 hello@groundcontrol.com, scotty.thibodeaux@groundcontrol.com；主题多为「Industrial PoE Switch、10G Enterprise SFP Switch」）；Elsa 单发去信 1 封（2025-02-24「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "卫星 IoT 设备制造商（英国，PoE 配件为配套）",
+   "sieve": "1~2（1 次打开）",
+   "stop": "25 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 25，Opened 标签 1（Simon 群发追踪）；用户表：「PoE配件 Elink的」；研究档 risks：PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触"
+  },
+  "situation": "英国 Ground Control（卫星 IoT 与追踪设备设计制造商（RockFLEET、Iridium/Viasat 空时）；表内「PoE 配件 Elink 的」「可以多跟进一下」；KP Scotty Thibodeaux（IoT Solution Architect））；群发 15 次无回复。",
+  "need": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）",
+  "breakpoint": "PoE 配件（注入器/分离器）Saga 不供（Q-32）；交换机为卫星方案配套（量小）；15 次无回复 → 改向 Solution Architect 具名首触",
+  "saga_now": {
+   "p1": "STI-054GP",
+   "tier": 30,
+   "price": "换人再触锚价 STI-054GP $32.5 EXW（最近实报 $32.5（SB-093 $33）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-22 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-07-07 $240（24 Port Fiber Switch）、2025-10-13 $280（10G Enterprise SFP Switch）",
+   "why": "远端站点配套 PoE（现 Elink 配件）→ 工业 4 PoE + 1 GE STI-054GP（$33.8 @30%）/ 4 PoE + 1 SFP STI-154GP（$40.8）贴 Ground Control 标；PoE 注入器类配件 Saga 不供（Q-32）。已打开的主题（1/25 封有打开记录）：「Industrial PoE Switch」(2025-08-21) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 2025-02-24 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
+   "one_question": "Scotty, for the PoE feeding cameras and sensors next to your satellite terminals at remote sites, we can supply compact industrial 4-PoE + 1 uplink switches (−40~75 °C, 12–57 V, CE/RoHS/UKCA) under your label from small lots — which input voltage do your remote installations provide? Reference: STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-24",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "why": "25 封 / 1 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-24（25 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "PoE配件 Elink的",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-24",
+    "dir": "out",
+    "who": "Elsa → hello@groundcontrol.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "195389455fce08e1"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

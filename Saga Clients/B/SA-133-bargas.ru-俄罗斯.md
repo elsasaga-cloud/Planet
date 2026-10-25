@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -39,22 +39,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（2/16 封有打开记录）：「Re: Mini Industrial PoE Switch」(2024-12-18)、「Re: Mini Industrial PoE Switch」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-25 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
-- **下一步**：不动 — —
+- **下一步**：不动 — 首封前知悉：Elsa 2025-02-28 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-133` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（「kruto」→ 付样说明 + STI-222GP 33 USD → 无）** ｜ 类型：俄罗斯网店 ｜ 筛子：1 ｜ 停点：付样 + 价后无回 ｜ 复活：— ｜ 通路：RU ｜ 节奏：2024-12 → 2026-08 去信 16 封；最后来信 2024-12-18 ｜ 证据：k=d5f6464213d5a032 / 347a1cb99eeabbb1
+- **绑定等级：未绑定（「kruto」→ 付样说明 + STI-222GP 33 USD → 无）；Elsa 单发去信 1 封（2025-02-28「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：俄罗斯网店 ｜ 筛子：1 ｜ 停点：付样 + 价后无回 ｜ 复活：— ｜ 通路：RU ｜ 节奏：2024-12 → 2026-08 去信 16 封；最后来信 2024-12-18 ｜ 证据：k=d5f6464213d5a032 / 347a1cb99eeabbb1
 - **现状一句话**：对方回了一句俄式赞叹，Simon 说明非免费样并报 STI-222GP 33 USD。无回。
 - **对方真实需求（有据）**：迷你工业 PoE。
 - **断点 / 为什么停在这里**：付样筛子。
 - **Saga 现在该推什么**：P1 **无**（20% 档，—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-25 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch））——不投入。已打开的主题（2/16 封有打开记录）：「Re: Mini Industrial PoE Switch」(2024-12-18)、「Re: Mini Industrial PoE Switch」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 2025-02-28 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-12-18 | 去 | Simon | it is not free samples… Price: 33usd/pc, STI-222GP | 付样说明 | `347a1cb99eeabbb1` |
+| 2025-02-28 | out | Elsa → info@bargas.ru | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -288,12 +289,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

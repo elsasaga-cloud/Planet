@@ -1,144 +1,153 @@
 {
-  "code": "SB-004",
-  "name_official": "Tailyn Technologies, Inc.（台林电通，台湾）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（tailyn.com.tw，快照 2026-10-21）",
-  "summary": "台湾 40 年工业通信 / 电信 / 车载电子厂商（桃园，+886 3 322 2201），产品含工业交换机、PoE、L2+ 机架交换机、铁路方案（EN50155）、IEC 61850、SFP28/QSFP28；有 ODM 业务。表内 Gary / Jill 兴趣工业 FS，2025-07 对 Alarm 功能回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。 铁路 / 车载线守界。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "40 年工业应用 / 电信 / 车载；产品：工业通信、PoE 交换机 / 铁路方案、L2+ 机架交换机、非管理交换机；型号关键词 EN50155 / IEC61850 / QSFP28；odm 3",
-      "quote": "TAILYN has accumulated 40 years of devoted focus in industrial applications, telecommunications, telematics… PoE Switch, Railway Solution… Layer 2+ Switch… Unmanaged Switch",
-      "url": "https://tailyn.com.tw/en/home/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "兴趣工业 FS；2025-07 Alarm→INFO",
-      "quote": "兴趣：工业FS；回复：INFO",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Gary Chen",
-      "title": "（表内联系人）",
-      "email": "garychen@tailyn.com.tw",
-      "phone": "+886 3 322 2201",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    },
-    {
-      "name": "Jill",
-      "title": "（表内联系人）",
-      "email": "jill@tailyn.com.tw",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照：台系制造商 ODM）"
+ "code": "SB-004",
+ "name_official": "Tailyn Technologies, Inc.（台林电通，台湾）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tailyn.com.tw，快照 2026-10-21）",
+ "summary": "台湾 40 年工业通信 / 电信 / 车载电子厂商（桃园，+886 3 322 2201），产品含工业交换机、PoE、L2+ 机架交换机、铁路方案（EN50155）、IEC 61850、SFP28/QSFP28；有 ODM 业务。表内 Gary / Jill 兴趣工业 FS，2025-07 对 Alarm 功能回复 INFO。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进（其产品多在深圳采购）。 铁路 / 车载线守界。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "40 年工业应用 / 电信 / 车载；产品：工业通信、PoE 交换机 / 铁路方案、L2+ 机架交换机、非管理交换机；型号关键词 EN50155 / IEC61850 / QSFP28；odm 3",
+   "quote": "TAILYN has accumulated 40 years of devoted focus in industrial applications, telecommunications, telematics… PoE Switch, Railway Solution… Layer 2+ Switch… Unmanaged Switch",
+   "url": "https://tailyn.com.tw/en/home/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Tailyn Technologies, Inc.（台林電通）",
-    "founded": "约 1985",
-    "hq": "桃园，台湾",
-    "size": "中型制造商（自有工厂）",
-    "other": "ODM 能力；铁路 / 电力认证产品线"
-  },
-  "business_lines": [
-    "工业以太网 / PoE 交换机（含 EN50155 铁路）",
-    "电信接入设备",
-    "车载 / 无线通信"
-  ],
-  "channels": {
-    "role": "台系制造商（自有工厂；潜在 ODM 买方）",
-    "region": "全球"
-  },
-  "signals": [
-    "对工业 FS 与告警功能有兴趣 → 可能找外购补充 SKU"
-  ],
-  "risks": [
-    "自有工厂 + 铁路 / 车载主业：Saga 仅能供非铁路工业入门款；守界 EN50155 不接",
-    "台系厂商口径"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "工业管理 PoE（带告警继电器 DI/DO）→ Saga STI-288GPM 作其入门 ODM 补充（OEM 30%）；铁路用途不供。"
-  },
-  "email_hook": "Gary, you asked about the alarm relay on our industrial managed PoE unit — it's DI/DO + SNMP trap on the 8-PoE + 2-SFP model; if Tailyn needs an entry-level ODM SKU for non-railway panels, I can send the spec and sample price.",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（Gary Chen 4 封：2025-07 要 Alert System 资料 → 2026-04「will let you know if any model useful」→ 2026-08「don't have requirement so far」）",
-      "type": "台湾工业电脑/网络厂商（Tailyn 台林；Gary = 采购/产品）——台湾厂商口径：只谈 OEM/ODM 二供",
-      "sieve": "2",
-      "stop": "明确「暂无需求」",
-      "revive": "不动；年度一次",
-      "lane": "TW 非主攻",
-      "cadence": "年度",
-      "evidence": "k=dde2fa9ba8c3c6b8 / ddab5b933723562b / 8f58c5f5654aaa52；第 19 批回补来信原文 3 条（gmail_s/gmail_a）"
-    },
-    "situation": "—",
-    "need": "—",
-    "breakpoint": "无需求。",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-28 $65（10G Media Converter）、2025-09-15 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
-      "why": "已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-07-10",
-        "dir": "来",
-        "who": "garychen@tailyn.com.tw",
-        "quote": "Thans Alan. Best regards, Gary [cid:ii_197f35afd4e4cff311] T +886-3-3222201 # 6501 F +886-3-3222563 E garychen@tailyn.com.tw<mailto:garychen@tailyn.co",
-        "why": "来信原文（主题「FW: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "0d09f0573445aee7"
-      },
-      {
-        "date": "2025-07-10",
-        "dir": "来",
-        "who": "garychen@tailyn.com.tw",
-        "quote": "Hi Alan, Could you mail us the details of Marvell Industrial Alert System? Best regards, Gary [cid:image001.png@01DBF1A3.E0233A90] T +886-3-3222201 #",
-        "why": "来信原文（主题「RE: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "dde2fa9ba8c3c6b8"
-      },
-      {
-        "date": "2026-04-02",
-        "dir": "来",
-        "who": "garychen@tailyn.com.tw",
-        "quote": "Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC2A7.356B3E60] T +886-3-3222201 # 6501 F +886-",
-        "why": "来信原文（主题「RE: FW: [External]Marvell Industria」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
-        "k": "ddab5b933723562b"
-      },
-      {
-        "date": "2026-08-11",
-        "dir": "来",
-        "who": "Gary Chen",
-        "quote": "Thanks Alan and I don't have requirement so far.",
-        "why": "无需求",
-        "k": "8f58c5f5654aaa52"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "兴趣工业 FS；2025-07 Alarm→INFO",
+   "quote": "兴趣：工业FS；回复：INFO",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Gary Chen",
+   "title": "（表内联系人）",
+   "email": "garychen@tailyn.com.tw",
+   "phone": "+886 3 322 2201",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "Jill",
+   "title": "（表内联系人）",
+   "email": "jill@tailyn.com.tw",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：台系制造商 ODM）"
+ },
+ "company_facts": {
+  "legal_name": "Tailyn Technologies, Inc.（台林電通）",
+  "founded": "约 1985",
+  "hq": "桃园，台湾",
+  "size": "中型制造商（自有工厂）",
+  "other": "ODM 能力；铁路 / 电力认证产品线"
+ },
+ "business_lines": [
+  "工业以太网 / PoE 交换机（含 EN50155 铁路）",
+  "电信接入设备",
+  "车载 / 无线通信"
+ ],
+ "channels": {
+  "role": "台系制造商（自有工厂；潜在 ODM 买方）",
+  "region": "全球"
+ },
+ "signals": [
+  "对工业 FS 与告警功能有兴趣 → 可能找外购补充 SKU"
+ ],
+ "risks": [
+  "自有工厂 + 铁路 / 车载主业：Saga 仅能供非铁路工业入门款；守界 EN50155 不接",
+  "台系厂商口径"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "工业管理 PoE（带告警继电器 DI/DO）→ Saga STI-288GPM 作其入门 ODM 补充（OEM 30%）；铁路用途不供。"
+ },
+ "email_hook": "Gary, you asked about the alarm relay on our industrial managed PoE unit — it's DI/DO + SNMP trap on the 8-PoE + 2-SFP model; if Tailyn needs an entry-level ODM SKU for non-railway panels, I can send the spec and sample price.",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（Gary Chen 4 封：2025-07 要 Alert System 资料 → 2026-04「will let you know if any model useful」→ 2026-08「don't have requirement so far」）；Elsa 单发去信 1 封（2025-02-18「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "台湾工业电脑/网络厂商（Tailyn 台林；Gary = 采购/产品）——台湾厂商口径：只谈 OEM/ODM 二供",
+   "sieve": "2",
+   "stop": "明确「暂无需求」",
+   "revive": "不动；年度一次",
+   "lane": "TW 非主攻",
+   "cadence": "年度",
+   "evidence": "k=dde2fa9ba8c3c6b8 / ddab5b933723562b / 8f58c5f5654aaa52；第 19 批回补来信原文 3 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "无需求。",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-28 $65（10G Media Converter）、2025-09-15 $300（48 Port PoE Managed Switch）、2025-10-20 $280（10G Enterprise SFP Switch）",
+   "why": "已打开的主题（5/25 封有打开记录）：「Re: [External]Marvell Industrial Alert」(2025-07-10)、「10G Enterprise SFP Switch」(2025-10-20)、「Re: FW: [External]Marvell Industrial A」(2026-03-30)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 2025-02-18 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-07-10",
+    "dir": "来",
+    "who": "garychen@tailyn.com.tw",
+    "quote": "Thans Alan. Best regards, Gary [cid:ii_197f35afd4e4cff311] T +886-3-3222201 # 6501 F +886-3-3222563 E garychen@tailyn.com.tw<mailto:garychen@tailyn.co",
+    "why": "来信原文（主题「FW: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "0d09f0573445aee7"
+   },
+   {
+    "date": "2025-07-10",
+    "dir": "来",
+    "who": "garychen@tailyn.com.tw",
+    "quote": "Hi Alan, Could you mail us the details of Marvell Industrial Alert System? Best regards, Gary [cid:image001.png@01DBF1A3.E0233A90] T +886-3-3222201 #",
+    "why": "来信原文（主题「RE: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "dde2fa9ba8c3c6b8"
+   },
+   {
+    "date": "2026-04-02",
+    "dir": "来",
+    "who": "garychen@tailyn.com.tw",
+    "quote": "Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC2A7.356B3E60] T +886-3-3222201 # 6501 F +886-",
+    "why": "来信原文（主题「RE: FW: [External]Marvell Industria」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
+    "k": "ddab5b933723562b"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "来",
+    "who": "Gary Chen",
+    "quote": "Thanks Alan and I don't have requirement so far.",
+    "why": "无需求",
+    "k": "8f58c5f5654aaa52"
+   },
+   {
+    "date": "2025-02-18",
+    "dir": "out",
+    "who": "Elsa → jill@tailyn.com.tw",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19517bfcb0365dc4"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

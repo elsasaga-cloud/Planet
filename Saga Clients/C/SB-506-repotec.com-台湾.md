@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,7 +38,24 @@ updated: 2026-10-24
 - **历史互动**：推送 3 次（2025-02-18 → 2025-04-18）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：Q-33 待裁定；不主动报价。）
 - **最大未知**：年走量与现供应商
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：不动 — 不动：Q-33（SmartByte 直接面谈）
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-506` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：已发未回（无人工回复、无打开记录；A 2 封 2025-03-20→2025-04-18，共 2 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-18「10G Media Converter」→ sales@repotec.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）** ｜ 类型：台系品牌 + SmartByte 直接客户（Q-33） ｜ 筛子：— ｜ 停点：渠 ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：['mail_dump.py SB-506（S/A 全量）', 'data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）']
+- **现状一句话**：台湾 REPOTEC（MC/FS/工业小壳/SFP 品牌；表内「不跟了，他们那在面谈了」= SmartByte 原厂直接面谈 → Q-33）
+- **对方真实需求（有据）**：Q-33：不碰
+- **断点 / 为什么停在这里**：SmartByte 直接客户 + 台系品牌
+- **Saga 现在该推什么**：P1 **None**（None% 档，None）——Q-33：不碰
+  - 复购/在买项：无；成；单；；；不；动
+- **下一步（具体）**：不动　—　不动：Q-33（SmartByte 直接面谈）
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2025-04-18 | 去 | S/A 群发 | Marvell Alleycat5 Solution, Commercial Network Switch | A 2 封 2025-03-20→2025-04-18，共 2 封群发，0 真实回复｜首封 2025-03-20 → 末封 2025-04-18 | `gmail_digest` |
+| 2025-02-18 | out | Elsa → sales@repotec.com | 10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -185,8 +202,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）；人工/调研定级 → C
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

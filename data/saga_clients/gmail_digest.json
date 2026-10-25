@@ -8479,6 +8479,41 @@
 ],
 "attachments": []
 },
+"SC-5320": {
+"pending_reply": false,
+"account": "s.sagatelecom",
+"messages": 3,
+"out": 2,
+"in": 1,
+"first": "2024-03-15",
+"last": "2024-06-22",
+"emails": [
+"a.digidis@gmail.com"
+],
+"threads": [
+{
+"id": "1793558252923531644",
+"subject": "Commercial poe switch",
+"first": "2024-03-15",
+"last": "2024-06-22",
+"in": 1,
+"out": 3,
+"atts": 6,
+"acct": "s"
+}
+],
+"last_in": {
+"date": "2024-03-15",
+"from": "a.digidis@gmail.com",
+"subject": "Re: Commercial poe switch",
+"snippet": "hi dear could you please send me your catalogue product thank you",
+"thr": "1793558252923531644",
+"auto": false
+},
+"last_out": "2024-06-22",
+"quotes": [],
+"attachments": []
+},
 "SC-2284": {
 "pending_reply": false,
 "account": "s.sagatelecom+a.sagatelecom",
@@ -128627,41 +128662,6 @@
 ],
 "attachments": []
 },
-"SC-2220": {
-"pending_reply": true,
-"account": "s.sagatelecom",
-"messages": 1,
-"out": 0,
-"in": 1,
-"first": "2024-06-17",
-"last": "2024-06-17",
-"emails": [
-"graybarsupport@graybar.com"
-],
-"threads": [
-{
-"id": "1802020509321986156",
-"subject": "10G media converter",
-"first": "2024-06-17",
-"last": "2024-06-17",
-"in": 1,
-"out": 1,
-"atts": 2,
-"acct": "s"
-}
-],
-"last_in": {
-"date": "2024-06-17",
-"from": "graybarsupport@graybar.com",
-"subject": "RE: 10G media converter",
-"snippet": "Please remove this email from your list. Graybar Support Corporate - Centerpoint, MO www.graybar.com<http://www.graybar.com>",
-"thr": "1802020509321986156",
-"auto": false
-},
-"last_out": "",
-"quotes": [],
-"attachments": []
-},
 "SC-2312": {
 "pending_reply": false,
 "account": "s.sagatelecom",
@@ -128702,6 +128702,41 @@
 "ctx": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE,"
 }
 ],
+"attachments": []
+},
+"SC-2220": {
+"pending_reply": true,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2024-06-17",
+"last": "2024-06-17",
+"emails": [
+"graybarsupport@graybar.com"
+],
+"threads": [
+{
+"id": "1802020509321986156",
+"subject": "10G media converter",
+"first": "2024-06-17",
+"last": "2024-06-17",
+"in": 1,
+"out": 1,
+"atts": 2,
+"acct": "s"
+}
+],
+"last_in": {
+"date": "2024-06-17",
+"from": "graybarsupport@graybar.com",
+"subject": "RE: 10G media converter",
+"snippet": "Please remove this email from your list. Graybar Support Corporate - Centerpoint, MO www.graybar.com<http://www.graybar.com>",
+"thr": "1802020509321986156",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
 "attachments": []
 },
 "SC-1558": {
@@ -243857,6 +243892,41 @@
 ],
 "attachments": []
 },
+"SC-2205": {
+"pending_reply": true,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2024-08-08",
+"last": "2024-08-08",
+"emails": [
+"kajubia@gmail.com"
+],
+"threads": [
+{
+"id": "1805541117772121943",
+"subject": "24 port poe switch",
+"first": "2024-08-03",
+"last": "2024-08-08",
+"in": 4,
+"out": 1,
+"atts": 8,
+"acct": "s"
+}
+],
+"last_in": {
+"date": "2024-08-08",
+"from": "kajubia@gmail.com",
+"subject": "Re: 24 port poe switch",
+"snippet": "9",
+"thr": "1805541117772121943",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
+"attachments": []
+},
 "SC-2407": {
 "pending_reply": false,
 "account": "s.sagatelecom",
@@ -243939,41 +244009,6 @@
 "auto": false
 },
 "last_out": "2025-01-18",
-"quotes": [],
-"attachments": []
-},
-"SC-2205": {
-"pending_reply": true,
-"account": "s.sagatelecom",
-"messages": 1,
-"out": 0,
-"in": 1,
-"first": "2024-08-08",
-"last": "2024-08-08",
-"emails": [
-"kajubia@gmail.com"
-],
-"threads": [
-{
-"id": "1805541117772121943",
-"subject": "24 port poe switch",
-"first": "2024-08-03",
-"last": "2024-08-08",
-"in": 4,
-"out": 1,
-"atts": 8,
-"acct": "s"
-}
-],
-"last_in": {
-"date": "2024-08-08",
-"from": "kajubia@gmail.com",
-"subject": "Re: 24 port poe switch",
-"snippet": "9",
-"thr": "1805541117772121943",
-"auto": false
-},
-"last_out": "",
 "quotes": [],
 "attachments": []
 },
@@ -261287,41 +261322,6 @@
 "quotes": [],
 "attachments": []
 },
-"SC-623": {
-"pending_reply": true,
-"account": "s.sagatelecom",
-"messages": 1,
-"out": 0,
-"in": 1,
-"first": "2025-01-27",
-"last": "2025-01-27",
-"emails": [
-"shop@murrelektronik.com"
-],
-"threads": [
-{
-"id": "1822008593065399821",
-"subject": "24 Port Fiber Switch",
-"first": "2025-01-26",
-"last": "2025-01-27",
-"in": 1,
-"out": 1,
-"atts": 6,
-"acct": "s"
-}
-],
-"last_in": {
-"date": "2025-01-27",
-"from": "shop@murrelektronik.com",
-"subject": "AW: 24 Port Fiber Switch",
-"snippet": "Dear Customer, Thank you for your interest in our products. We need you location please first to forward your request to the right person. Thank you. Your Shop - Team [cid:image002.png@01DB7098.7B5B4300]<https://www.murrelektronik.com/de/> [cid:image003.png@01",
-"thr": "1822008593065399821",
-"auto": false
-},
-"last_out": "",
-"quotes": [],
-"attachments": []
-},
 "SC-2008": {
 "pending_reply": true,
 "account": "s.sagatelecom",
@@ -261362,6 +261362,41 @@
 "ctx": "Price: 240usd/pc"
 }
 ],
+"attachments": []
+},
+"SC-623": {
+"pending_reply": true,
+"account": "s.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2025-01-27",
+"last": "2025-01-27",
+"emails": [
+"shop@murrelektronik.com"
+],
+"threads": [
+{
+"id": "1822008593065399821",
+"subject": "24 Port Fiber Switch",
+"first": "2025-01-26",
+"last": "2025-01-27",
+"in": 1,
+"out": 1,
+"atts": 6,
+"acct": "s"
+}
+],
+"last_in": {
+"date": "2025-01-27",
+"from": "shop@murrelektronik.com",
+"subject": "AW: 24 Port Fiber Switch",
+"snippet": "Dear Customer, Thank you for your interest in our products. We need you location please first to forward your request to the right person. Thank you. Your Shop - Team [cid:image002.png@01DB7098.7B5B4300]<https://www.murrelektronik.com/de/> [cid:image003.png@01",
+"thr": "1822008593065399821",
+"auto": false
+},
+"last_out": "",
+"quotes": [],
 "attachments": []
 },
 "SB-259": {
@@ -263835,13 +263870,14 @@
 "SA-039": {
 "pending_reply": false,
 "account": "s.sagatelecom+a.sagatelecom",
-"messages": 15,
-"out": 15,
-"in": 0,
+"messages": 20,
+"out": 18,
+"in": 2,
 "first": "2025-01-23",
 "last": "2026-09-08",
 "emails": [
 "brandon@getsecurityalarm.com",
+"brandonwadams@gmail.com",
 "info@getsecurityalarm.com"
 ],
 "threads": [
@@ -263996,7 +264032,14 @@
 "acct": "s"
 }
 ],
-"last_in": null,
+"last_in": {
+"date": "2025-09-09",
+"from": "brandonwadams@gmail.com",
+"subject": "Re: Industrial PoE Switch",
+"snippet": "Alan, I have used this POE in solar configurations, I like the overcurrent protection Can you send pricing, Where is the product located, shipped from? Let me know, Respectfully Submitted, On Mon, Sep 8, 2025 at 10:00 AM Alan from Saga Telecom < a.sagatelecom@",
+"thr": "1842432583274214068",
+"auto": false
+},
 "last_out": "2026-09-08",
 "quotes": [],
 "attachments": []
@@ -288574,41 +288617,6 @@
 "quotes": [],
 "attachments": []
 },
-"SC-1036": {
-"pending_reply": true,
-"account": "a.sagatelecom",
-"messages": 1,
-"out": 0,
-"in": 1,
-"first": "2025-02-27",
-"last": "2025-02-27",
-"emails": [
-"support@msy.com.au"
-],
-"threads": [
-{
-"id": "1824576262880872121",
-"subject": "Mini Industrial PoE Switch",
-"first": "2025-02-27",
-"last": "2025-02-27",
-"in": 1,
-"out": 1,
-"atts": 1,
-"acct": "a"
-}
-],
-"last_in": {
-"date": "2025-02-27",
-"from": "support@msy.com.au",
-"subject": "Mini Industrial PoE Switch",
-"snippet": "##- Please type your reply above this line -## Hello Alan Thank you for reaching out to MSY. This is just a quick automated email to let you know that we have received your help request: number (41151). Our team will respond to your request as soon as possible",
-"thr": "1824576262880872121",
-"auto": false
-},
-"last_out": "",
-"quotes": [],
-"attachments": []
-},
 "SC-260": {
 "pending_reply": false,
 "account": "a.sagatelecom",
@@ -288641,6 +288649,41 @@
 "auto": false
 },
 "last_out": "2025-02-27",
+"quotes": [],
+"attachments": []
+},
+"SC-1036": {
+"pending_reply": true,
+"account": "a.sagatelecom",
+"messages": 1,
+"out": 0,
+"in": 1,
+"first": "2025-02-27",
+"last": "2025-02-27",
+"emails": [
+"support@msy.com.au"
+],
+"threads": [
+{
+"id": "1824576262880872121",
+"subject": "Mini Industrial PoE Switch",
+"first": "2025-02-27",
+"last": "2025-02-27",
+"in": 1,
+"out": 1,
+"atts": 1,
+"acct": "a"
+}
+],
+"last_in": {
+"date": "2025-02-27",
+"from": "support@msy.com.au",
+"subject": "Mini Industrial PoE Switch",
+"snippet": "##- Please type your reply above this line -## Hello Alan Thank you for reaching out to MSY. This is just a quick automated email to let you know that we have received your help request: number (41151). Our team will respond to your request as soon as possible",
+"thr": "1824576262880872121",
+"auto": false
+},
+"last_out": "",
 "quotes": [],
 "attachments": []
 },
@@ -344749,6 +344792,41 @@
 "quotes": [],
 "attachments": []
 },
+"SC-5319": {
+"pending_reply": false,
+"account": "a.sagatelecom",
+"messages": 5,
+"out": 2,
+"in": 3,
+"first": "2026-01-20",
+"last": "2026-01-20",
+"emails": [
+"huili0126@163.com"
+],
+"threads": [
+{
+"id": "1854478904505061554",
+"subject": "OEM Core Switching Solution",
+"first": "2026-01-20",
+"last": "2026-01-20",
+"in": 3,
+"out": 3,
+"atts": 9,
+"acct": "a"
+}
+],
+"last_in": {
+"date": "2026-01-20",
+"from": "huili0126@163.com",
+"subject": "Re: OEM Core Switching Solution",
+"snippet": "Hi Alan, This is Tina, let me know which company you are from? Do you have Core Switches, Must be configured for redundancy. Uplinks of 10GB or higher (Include allaccessories, SFPs, Transceivers, and management modules required) Contact me for more details. Ti",
+"thr": "1854478904505061554",
+"auto": false
+},
+"last_out": "2026-01-20",
+"quotes": [],
+"attachments": []
+},
 "SB-270": {
 "pending_reply": false,
 "account": "a.sagatelecom",
@@ -349685,6 +349763,41 @@
 ],
 "last_in": null,
 "last_out": "2026-09-30",
+"quotes": [],
+"attachments": []
+},
+"SB-1342": {
+"pending_reply": true,
+"account": "a.sagatelecom",
+"messages": 2,
+"out": 1,
+"in": 1,
+"first": "2026-09-29",
+"last": "2026-09-30",
+"emails": [
+"casault.alain@educationhmo.com"
+],
+"threads": [
+{
+"id": "1877474671027531985",
+"subject": "Managed PoE Switches",
+"first": "2026-09-29",
+"last": "2026-09-30",
+"in": 1,
+"out": 1,
+"atts": 2,
+"acct": "a"
+}
+],
+"last_in": {
+"date": "2026-09-30",
+"from": "casault.alain@educationhmo.com",
+"subject": "RE: Managed PoE Switches",
+"snippet": "Hello Alan, Not for the moment, but I’ll keep your Email for futur reference. Thank you, AC De : Alan from Saga Telecom <a.sagatelecom@gmail.com> Envoyé : 29 septembre 2026 04:30 À : Alain Casault <casault.alain@educationhmo.com> Objet : Managed PoE Switches M",
+"thr": "1877474671027531985",
+"auto": false
+},
+"last_out": "2026-09-29",
 "quotes": [],
 "attachments": []
 },

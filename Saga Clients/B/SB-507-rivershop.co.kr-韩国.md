@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,24 +36,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $240（24 Port Fiber Switch）、2025-09-11 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
-- **下一步**：2026-11 A 邮箱 → scale@goriver.co.kr 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → scale@goriver.co.kr 首封前知悉：Elsa 2025-02-25 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-507` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 3 封被打开，0 回；收件 scale@goriver.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）** ｜ 类型：韩国配件品牌商（NEXI，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS 自己的品牌 NEXi」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱
+- **绑定等级：读而不回（A/S 邮箱 34 封 2024→2026，其中 3 封被打开，0 回；收件 scale@goriver.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 单发去信 1 封（2025-02-25「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：韩国配件品牌商（NEXI，OEM 采购） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：KR 次级（点名） ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 34，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS 自己的品牌 NEXi」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱
 - **现状一句话**：韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。
 - **对方真实需求（有据）**：NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）
 - **断点 / 为什么停在这里**：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $240（24 Port Fiber Switch）、2025-09-11 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch））——NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题
-- **下一步（具体）**：2026-11　A 邮箱 → scale@goriver.co.kr　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → scale@goriver.co.kr　首封前知悉：Elsa 2025-02-25 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
   - 第一问（只问一个）：For the PoE and industrial switches sold under the NEXI label, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-08 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 34 封 / 3 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-08（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的品牌 NEXi | 表内备注 | `用户表` |
+| 2025-02-25 | out | Elsa → scale@goriver.co.kr | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -310,12 +311,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 39）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

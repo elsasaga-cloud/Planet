@@ -63,5 +63,56 @@
  "email_hook": "（⛔ 不发送：Q-33 裁定不碰，SmartByte 经销名单客户）",
  "signals": [
   "Q-33 裁定：不碰（2026-10-21）"
- ]
+ ],
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 1 封 2025-01-23→2025-01-23、A 1 封 2025-03-21→2025-03-21，共 2 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-19「Mini Industrial PoE Switch」→ office@innon.co.uk，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "SmartByte 英国经销渠道（Q-33）",
+   "sieve": "—",
+   "stop": "渠",
+   "evidence": [
+    "mail_dump.py SB-501（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "英国 Innon（BMS/工业物联网分销；表内「出现了 Charter Controls」= SmartByte 英国经销渠道 → Q-33）",
+  "need": "Q-33 渠道客户：不碰",
+  "breakpoint": "SmartByte 现有渠道（Q-33 不碰，标记）",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "Q-33 渠道客户：不碰",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：Q-33（SmartByte 英国渠道）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2025-03-21",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "L3 Managed Switch, Marvell Alleycat5 Solution",
+    "why": "S 1 封 2025-01-23→2025-01-23、A 1 封 2025-03-21→2025-03-21，共 2 封群发，0 真实回复｜首封 2025-01-23 → 末封 2025-03-21",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-19",
+    "dir": "out",
+    "who": "Elsa → office@innon.co.uk",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951eb911e92c88b"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

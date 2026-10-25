@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,7 +36,27 @@ updated: 2026-10-24
 - **历史互动**：推送 7 次（2025-04-08 → 2025-10-22）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：Netceed 为全球性电信/数据中心基础设施分销集团（体量过大，供应商准入体系）→ 改 C）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：不跟进；仅归档防重复开发
+- **下一步**：2027-Q1 A 邮箱 → hello.fr@netceed.com（新集团地址；eurotechnocom.fr 旧址停用） 换新地址只问一句：Netceed 供应商准入（vendor onboarding）走哪个入口；不发目录
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-415` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：已发未回（只收到自动回执/假期回复，无人工回复、无打开记录；A 11 封 2025-04-08→2026-01-29，共 11 封群发，0 真实回复（1 封自动回执/假期回复，不算回）；Elsa 单发去信 1 封（2025-02-12「48 Port PoE Managed Switch」→ contact@eurotechnocom.fr，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）** ｜ 类型：全球电信基础设施分销集团 ｜ 筛子：1（旧址） ｜ 停点：读 ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：['mail_dump.py SB-415（S/A 全量）', 'data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）']
+- **现状一句话**：法国 Netceed（原 USTC/Eurotechnocom：全球电信/数据中心基础设施分销集团；表内「SFP PoE switch DAC」「之前的 mail 不行了」）
+- **对方真实需求（有据）**：分销集团：10G/25G 汇聚 + PoE 接入的中国二线品牌线（STC-424XGGM / STC-448XGGPM）
+- **断点 / 为什么停在这里**：旧址 contact@eurotechnocom.fr 已并入 netceed.com（hello.fr@netceed.com）；A 11 封 0 回；集团采购走供应商准入
+- **Saga 现在该推什么**：P1 **STC-448XGGPM**（20% 档，$335（主表 20% 档））——分销集团：10G/25G 汇聚 + PoE 接入的中国二线品牌线（STC-424XGGM / STC-448XGGPM）
+  - 复购/在买项：无；成；单；；；待；首；次；真；实；回；复
+- **下一步（具体）**：2027-Q1　A 邮箱 → hello.fr@netceed.com（新集团地址；eurotechnocom.fr 旧址停用）　换新地址只问一句：Netceed 供应商准入（vendor onboarding）走哪个入口；不发目录
+  - 第一问（只问一个）：Netceed now covers the old Eurotechnocom contacts — could you point us to the vendor onboarding entry for Ethernet switching (Marvell-based L2+ 24/48-PoE, 10G uplink, CE/RoHS)? Reference: STC-448XGGPM at $335 USD EXW (MOQ 1, 15-day validity).
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-01-29 | 去 | S/A 群发 | Marvell Alleycat5 Solution, Marvell Industrial Alert System, 8 Port Industrial PoE Switch, Mini Industrial PoE Switch | A 11 封 2025-04-08→2026-01-29，共 11 封群发，0 真实回复（1 封自动回执/假期回复，不算回）｜首封 2025-04-08 → 末封 2026-01-29 | `gmail_digest` |
+| 2025-02-12 | out | Elsa → contact@eurotechnocom.fr | 48 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：KP 姓名/职务待核（现用通用箱或自动回复给出的地址）
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -177,7 +197,23 @@ updated: 2026-10-24
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-> C 级不出邮件样板（不主动跟进）。
+**主题**：One question — STC-448XGGPM
+
+```text
+Hello,
+
+We have sent you a few mails over the past year and you never had a reason to reply — fair enough. No brochure this time, just one question:
+
+Netceed now covers the old Eurotechnocom contacts — could you point us to the vendor onboarding entry for Ethernet switching (Marvell-based L2+ 24/48-PoE, 10G uplink, CE/RoHS)? Reference: STC-448XGGPM at $335 USD EXW (MOQ 1, 15-day validity).
+
+If the answer is no, a one-word reply closes the loop on our side.
+
+Best regards,
+Alan
+Saga Telecom
+```
+
+> 本稿来自「针对性复盘」（有据可查的现状），替代下方自动样板；发送前只核价格快照日期。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -193,8 +229,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）；人工/调研定级 → C
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

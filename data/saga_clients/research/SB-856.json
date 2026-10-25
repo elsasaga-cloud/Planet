@@ -70,5 +70,56 @@
   "tier": 25,
   "why": "PROmesh 为 Indu-Sol 自研自产工业交换机（德国）→ 非 OEM 买家 → 改 C（与 SB-314 同口径）"
  },
- "email_hook": "（不发送：同行厂商）"
+ "email_hook": "（不发送：同行厂商）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「24 Port Fiber Switch」→ info@indu-sol.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "同行厂商（Indu-Sol PROmesh 自产）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-856（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "德国 PROmesh / Indu-Sol（自产工业交换机品牌；与 SB-314 InduSol America 同集团；同行）",
+  "need": "同行厂商，无外采口",
+  "breakpoint": "同行；info@ 17 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "同行厂商，无外采口",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：同行厂商（与 SB-314 同线）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-03-06",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "8 port network switch, Industrial poe switch, Rack Managed Switch, 10G Media Converter",
+    "why": "S 6 封 2024-07-11→2024-12-05、A 11 封 2025-03-20→2026-03-06，共 17 封群发，0 真实回复｜首封 2024-07-11 → 末封 2026-03-06",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "who": "Elsa → info@indu-sol.com",
+    "quote": "24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194ef68a4707fa73"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

@@ -1,166 +1,175 @@
 {
-  "code": "SB-1049",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（fibermart.co.kr，快照 2026-10-21）",
-  "summary": "韩国 SOLTECH（솔텍：光传输/网络设备厂商，自有 SFC 系列（SFC510HP / SFC516HP / SFC1200-HDFT），Fibermart 网店（光缆、交换机、机柜、光配件）；表内「几个工业交换机型号」「质量高」「Simon 客户」；KP Kim Kwang Young（金广永）/ Jason（jasonk@、kky@），电话 +82-10-3046-5653）；群发 23 次无回复。",
-  "type": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
-  "size": "",
-  "brands_seen": [
-    "MikroTik",
-    "Hikvision",
-    "Dahua",
-    "TP-Link"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：파이버마트 - 통신 네트워크 전문 쇼핑몰；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재, 전기용품 종합 쇼핑몰",
-      "url": "https://fibermart.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mobile.: 82-70-4628-5232 | fax.: 82-2-701-6200 | 网址: www.fibermart.co.kr www.soltech.co.kr www.solmate.net",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Fibermart/SOLTECH 网店",
-      "quote": "파이버마트 - 통신 네트워크 전문 쇼핑몰 ; 솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재, 전기용품 종합 쇼핑몰",
-      "url": "https://fibermart.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "几个工业交换机型号；Simon 客户",
-      "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永）；质量高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Kim Kwang Young（金广永）",
-      "title": "（Simon 客户联系人）",
-      "email": "kky@soltech.co.kr",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Jason",
-      "title": "（表内联系人）",
-      "email": "jasonk@soltech.co.kr",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1049",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（fibermart.co.kr，快照 2026-10-21）",
+ "summary": "韩国 SOLTECH（솔텍：光传输/网络设备厂商，自有 SFC 系列（SFC510HP / SFC516HP / SFC1200-HDFT），Fibermart 网店（光缆、交换机、机柜、光配件）；表内「几个工业交换机型号」「质量高」「Simon 客户」；KP Kim Kwang Young（金广永）/ Jason（jasonk@、kky@），电话 +82-10-3046-5653）；群发 23 次无回复。",
+ "type": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
+ "size": "",
+ "brands_seen": [
+  "MikroTik",
+  "Hikvision",
+  "Dahua",
+  "TP-Link"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：파이버마트 - 통신 네트워크 전문 쇼핑몰；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재, 전기용품 종합 쇼핑몰",
+   "url": "https://fibermart.co.kr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "韩国",
-    "other": "官网 fibermart.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mobile.: 82-70-4628-5232 | fax.: 82-2-701-6200 | 网址: www.fibermart.co.kr www.soltech.co.kr www.solmate.net",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光传输 / 网络设备制造（自有品牌 SOLTECH）",
-    "Fibermart 网店（光缆 / 交换机 / 机柜）"
-  ],
-  "channels": {
-    "role": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
-    "region": "韩国",
-    "contact": "kky@soltech.co.kr、jasonk@soltech.co.kr"
+  {
+   "kind": "官网快照",
+   "claim": "Fibermart/SOLTECH 网店",
+   "quote": "파이버마트 - 통신 네트워크 전문 쇼핑몰 ; 솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재, 전기용품 종합 쇼핑몰",
+   "url": "https://fibermart.co.kr/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "快照（fibermart.co.kr）：솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재；站内 SFC510HP / SFC516HP / SFC1200-HDFT；kw sfp 50 / cctv 55 / poe 40",
-    "表内：几个工业交换机型号；Simon 客户 / attn: Kwang Young Kim(金广永)；telephone 82-10-3046-5653"
-  ],
-  "risks": [
-    "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）",
-    "自研能力强（光传输厂商）：仅二供口径"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 30,
-    "why": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报"
-  },
-  "email_hook": "Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?",
-  "products_seen": [
-    {
-      "brand": "SOLTECH（自有）",
-      "model": "SFC516HP",
-      "spec": "16 口 PoE 交换机",
-      "saga": "STI-21616GP（工业）/ STC-2216GPM（HRUI 列表价）",
-      "url": "https://fibermart.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "SOLTECH（自有）",
-      "model": "SFC510HP",
-      "spec": "8 PoE + 2 上联",
-      "saga": "STI-288GPM",
-      "url": "https://fibermart.co.kr/",
-      "date": "2026-10-21"
-    }
-  ],
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 jasonk@soltech.co.kr, ksh@soltech.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）",
-      "type": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 34，Opened 标签 5（Simon 群发追踪）；用户表：「几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mo」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）"
-    },
-    "situation": "韩国 SOLTECH（솔텍：光传输/网络设备厂商，自有 SFC 系列（SFC510HP / SFC516HP / SFC1200-HDFT），Fibermart 网店（光缆、交换机、机柜、光配件）；表内「几个工业交换机型号」「质量高」「Simon 客户」；KP Kim Kwang Young（金广永）/ Jason（jasonk@、kky@），电话 +82-10-3046-5653）；群发 23 次无回复。",
-    "need": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报",
-    "breakpoint": "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 30,
-      "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-23 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
-      "why": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报。已打开的主题（5/34 封有打开记录）：「Industrial PoE Switch」(2024-11-26)、「48 Port PoE Managed Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-10-24)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-10)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → jasonk@soltech.co.kr",
-      "action": "短信一问（email_hook）",
-      "one_question": "Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-        "why": "34 封 / 5 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-09-08（34 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mobile.: 82-70-4628-5232 | fax.: 82-2-701-",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Jason,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "几个工业交换机型号；Simon 客户",
+   "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永）；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Kim Kwang Young（金广永）",
+   "title": "（Simon 客户联系人）",
+   "email": "kky@soltech.co.kr",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Jason",
+   "title": "（表内联系人）",
+   "email": "jasonk@soltech.co.kr",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 fibermart.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+ },
+ "business_lines": [
+  "光传输 / 网络设备制造（自有品牌 SOLTECH）",
+  "Fibermart 网店（光缆 / 交换机 / 机柜）"
+ ],
+ "channels": {
+  "role": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
+  "region": "韩国",
+  "contact": "kky@soltech.co.kr、jasonk@soltech.co.kr"
+ },
+ "signals": [
+  "快照（fibermart.co.kr）：솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재；站内 SFC510HP / SFC516HP / SFC1200-HDFT；kw sfp 50 / cctv 55 / poe 40",
+  "表内：几个工业交换机型号；Simon 客户 / attn: Kwang Young Kim(金广永)；telephone 82-10-3046-5653"
+ ],
+ "risks": [
+  "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）",
+  "自研能力强（光传输厂商）：仅二供口径"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 30,
+  "why": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报"
+ },
+ "email_hook": "Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?",
+ "products_seen": [
+  {
+   "brand": "SOLTECH（自有）",
+   "model": "SFC516HP",
+   "spec": "16 口 PoE 交换机",
+   "saga": "STI-21616GP（工业）/ STC-2216GPM（HRUI 列表价）",
+   "url": "https://fibermart.co.kr/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "SOLTECH（自有）",
+   "model": "SFC510HP",
+   "spec": "8 PoE + 2 上联",
+   "saga": "STI-288GPM",
+   "url": "https://fibermart.co.kr/",
+   "date": "2026-10-21"
+  }
+ ],
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 5 封被打开，0 回；收件 jasonk@soltech.co.kr, ksh@soltech.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 单发去信 1 封（2025-02-25「L3 Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 34，Opened 标签 5（Simon 群发追踪）；用户表：「几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mo」；研究档 risks：非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）"
+  },
+  "situation": "韩国 SOLTECH（솔텍：光传输/网络设备厂商，自有 SFC 系列（SFC510HP / SFC516HP / SFC1200-HDFT），Fibermart 网店（光缆、交换机、机柜、光配件）；表内「几个工业交换机型号」「质量高」「Simon 客户」；KP Kim Kwang Young（金广永）/ Jason（jasonk@、kky@），电话 +82-10-3046-5653）；群发 23 次无回复。",
+  "need": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报",
+  "breakpoint": "非主攻区（T5，韩国）；KC 认证由客户申报；23 次无回复（Simon 客户，线下渠道待核）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 30,
+   "price": "首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-026 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-23 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）、2025-08-25 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "自有 SFC 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 16 口位 STI-21616GP 贴 SOLTECH 标；KC 认证由客户申报。已打开的主题（5/34 封有打开记录）：「Industrial PoE Switch」(2024-11-26)、「48 Port PoE Managed Switch」(2024-12-19)、「8 Port Industrial PoE Switch」(2025-10-24)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-10)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → jasonk@soltech.co.kr",
+   "action": "首封前知悉：Elsa 2025-02-25 单发过「L3 Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）",
+   "one_question": "Mr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "34 封 / 5 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-09-08（34 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） | telephone: 82-10-3046-5653 | mobile.: 82-70-4628-5232 | fax.: 82-2-701-",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-25",
+    "dir": "out",
+    "who": "Elsa → jasonk@soltech.co.kr",
+    "quote": "L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1953ab9a5af35293"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Managed Optical Bypass Switch",
+   "body": "Hi Jason,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nMr. Kim, for the SFC industrial switch models you asked about, we can be a second ODM source on a Marvell platform (DIN-rail 8-PoE + 2 SFP managed, 16-PoE + 2×10G) from small lots in your housing, CE/RoHS — which SFC model would you evaluate first?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom · sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

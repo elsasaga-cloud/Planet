@@ -69,5 +69,56 @@
   "tier": 30,
   "why": "内地手机号 + 香港壳 + Utepo 贴牌自有型号 → 同行出口商，非海外渠道 → 改 C"
  },
- "email_hook": "（不发送：同行）"
+ "email_hook": "（不发送：同行）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-10「Mini Industrial PoE Switch」→ office@ansecnetwork.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "港资贸易商（自有型号，Utepo 代工，同行）",
+   "sieve": "1（无人读/无人回）",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-248（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "香港 ANSEC Network（自有 AS- 型号转卖 Utepo 工业 FS 的贸易商，内地手机；同行）",
+  "need": "同行贸易商：只可能在 Utepo 断供/涨价时找二供",
+  "breakpoint": "同行 + 自有型号已有代工；S/A 26 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "同行贸易商：只可能在 Utepo 断供/涨价时找二供",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：同行贸易商，留群发名单",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-10-08",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Marvell Industrial Alert System, Industrial PoE Switch, 10G Enterprise SFP Switch, 48 port managed switch",
+    "why": "S 7 封 2024-07-04→2025-01-27、A 19 封 2025-03-13→2026-10-08，共 26 封群发，0 真实回复｜首封 2024-07-04 → 末封 2026-10-08",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "who": "Elsa → office@ansecnetwork.com",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194edcca7af30c65"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

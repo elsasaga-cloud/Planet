@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,24 +38,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02-25 单发过「10G Media Converter」（未见回复（Elsa 箱 Replied 标签无））；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-815` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@commandonetworks.com；主题多为「Managed Optical Bypass Switch、16 Port PoE Managed Switch」）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14；用户表：「兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处」；研究档 risks：有深圳办事处 → 可能直接对接原厂，贸易商空间有限
+- **绑定等级：未触达（A/S 邮箱 14 封 2025→2026，无记录打开，0 回；收件 info@commandonetworks.com；主题多为「Managed Optical Bypass Switch、16 Port PoE Managed Switch」）；Elsa 单发去信 1 封（2025-02-25「10G Media Converter」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：— ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：US 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 14；用户表：「兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处」；研究档 risks：有深圳办事处 → 可能直接对接原厂，贸易商空间有限
 - **现状一句话**：美国网络硬件品牌 COMMANDO（交换、路由、无线、AP、MC、SFP、PoE 注入器、光缆；switch 90 / poe 78 / sfp 44 / industrial 29），info@；表内「Cisco switch MC SFP 工业 FS；北京 / 深圳有办事处；可多跟进」；群发 9 次无回复。自有品牌（中国办事处直采）→ OEM 30%，贸易商空间有限。
 - **对方真实需求（有据）**：工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。
 - **断点 / 为什么停在这里**：有深圳办事处 → 可能直接对接原厂，贸易商空间有限
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch））——工业管理 PoE 补 SKU → STI-288GPM（$85.5 @30%）贴 COMMANDO 标。
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02-25 单发过「10G Media Converter」（未见回复（Elsa 箱 Replied 标签无））；观察打开
   - 第一问（只问一个）：For the COMMANDO industrial switch line — Marvell-based DIN managed 8-PoE + 2-SFP under your label from small lots; since you have a Shenzhen office, happy to host your team at the factory for a line audit.
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-11 | 去 | A/S 群发 | Managed Optical Bypass Switch、16 Port PoE Managed Switch | 14 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-02-11（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处 | 表内备注 | `用户表` |
+| 2025-02-25 | out | Elsa → info@commandonetworks.com | 10G Media Converter（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -282,12 +283,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

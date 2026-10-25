@@ -100,7 +100,7 @@
  "email_hook": "Harish, we can't help on the EDFA — but for the ATMIS-6208PI / 6216PI class we build the same 2-SFP + 8/16-PoE industrial units on Marvell under your label from small lots; shall I quote those two against your current ONV cost?",
  "mail_review": {
   "binding": {
-   "level": "轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）",
+   "level": "轻度触达（Elsa 邮箱 3 封来信：2025-06-17 Harish Gupta 董事催内部「Nitin/Subhash please reply」；2026-08-04 Subhash 两封——先要 datasheet，收到后答「will check… no a days Stacking is mandatory」；S/A 邮箱 9 封 1 次打开 0 回）；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；之后 Elsa 箱 Replied 标签见 2026-08-04 来信）（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "—",
    "sieve": "3（要了规格书、给了卡点）",
    "stop": "2026-08-04 对方「will check」后无下文（Elsa 侧）",
@@ -123,7 +123,7 @@
   "next_move": {
    "when": "2026-11",
    "channel": "Elsa 邮箱 → subhash@andatelecom.com（抄 harish@）",
-   "action": "只问一句",
+   "action": "首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（之后 Elsa 箱 Replied 标签见 2026-08-04 来信）；只问一句",
    "one_question": "Subhash — on stacking: our Marvell access units do not stack (redundancy there is ERPS G.8032 + 10G uplinks). Where stacking is mandatory we have the CENTEC-based STH-2QX4DX48GP, 48×1G PoE++ + 4×25G + 2×40G, stacking up to 8 units as one logical switch. Is stacking a tender clause in your projects, and at what port count?"
   },
   "facts": [
@@ -182,6 +182,15 @@
     "quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → harish@andatelecom.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；之后 Elsa 箱 Replied 标签见 2026-08-04 来信",
+    "k": "elsa_1to1",
+    "msg_id": "19e15d5e5b7845db"
    }
   ],
   "proof_gaps": [

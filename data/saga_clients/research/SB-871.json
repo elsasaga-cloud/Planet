@@ -72,5 +72,56 @@
   "tier": 25,
   "why": "自产 M12 车载交换机（EN50155 场景）且标榜德国制造 → 非 OEM 买家；品类为 Saga 不做的轨道/车载 → 改 C"
  },
- "email_hook": "（不发送：同行厂商 + 轨道/车载品类不符）"
+ "email_hook": "（不发送：同行厂商 + 轨道/车载品类不符）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "已发未回（无人工回复、无打开记录；A 11 封 2025-04-08→2026-03-10，共 11 封群发，0 真实回复；Elsa 单发去信 1 封（2025-02-19「16 Port Ethernet Switch」→ info@tronteq.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "同行厂商（车载 M12，轨交）",
+   "sieve": "1",
+   "stop": "读",
+   "evidence": [
+    "mail_dump.py SB-871（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "德国 TRONTEQ（公交/有轨电车车载 M12 交换机制造商，Made in Germany；同行 + 轨交）",
+  "need": "同行 + 轨交主营 → 守界",
+  "breakpoint": "同行；A 11 封 0 回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "同行 + 轨交主营 → 守界",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：同行 + 轨交",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-03-10",
+    "dir": "去",
+    "who": "S/A 群发",
+    "quote": "Marvell Alleycat5 Solution, Commercial PoE Switch, 48 Port PoE Managed Switch, Mini Industrial PoE Switch",
+    "why": "A 11 封 2025-04-08→2026-03-10，共 11 封群发，0 真实回复｜首封 2025-04-08 → 末封 2026-03-10",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-19",
+    "dir": "out",
+    "who": "Elsa → info@tronteq.com",
+    "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1951dc1e1cae2410"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

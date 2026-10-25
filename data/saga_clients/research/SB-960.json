@@ -56,5 +56,48 @@
   "tier": 25,
   "why": "不推进"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」→ ildar.i.salimov@gmail.com，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "阿里 RFQ（光开关组件，品类不符）",
+   "sieve": "—",
+   "stop": "品",
+   "evidence": [
+    "mail_dump.py SB-960（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "克罗地亚 LLT d.o.o. / Solarstore.hr（阿里巴巴 RFQ：Ildar Salimov 要 100 pcs OSW1x2 12V 锁存光开关——光开关组件，非以太网交换机；WhatsApp 已加）",
+  "need": "需求是光开关组件，不在产品线内",
+  "breakpoint": "品类不符；S/A 0 封；Elsa 2026-05 10G 单发无回（Gmail 地址）",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "需求是光开关组件，不在产品线内",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：品类不符（光开关组件）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → ildar.i.salimov@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e165f38a954945"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

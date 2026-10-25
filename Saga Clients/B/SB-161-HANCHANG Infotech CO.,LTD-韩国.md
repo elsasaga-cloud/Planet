@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 5
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,18 +36,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 + STC-424XGGPM — 品牌商 + 主动要价。已打开的主题（4/42 封有打开记录）：「24 Port Fiber Switch」(2025-02-04)、「Optional Marvell Chipset Solutions」(2025-12-08)、「Re: OEM Core Switching Solution」(2026-01-19)、「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-22)、Performance of PeakNetX Platform_EN_V3(2026-01-19)、STH25G Series(2026-01-19)、Saga Software Function List_EN_V2.4(2026-01-19)、Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180；他 2024 收过 $300 / $240 群发，48 口与汇聚款别高于那两个数无解释；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 EXW; is the first project 10G/25G aggregation or 100G core?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在 A 邮箱 → jryoun74@hcin4.com 补价
+- **下一步**：现在 A 邮箱 → jryoun74@hcin4.com 首封前知悉：Elsa 2025-02-24 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；补价
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-161` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：轻度触达（2 封：2025-02 要数据表 + 网站；2026-01-16「please give about price」对 CENTEC 核心 → Alan「still working on new prices for 2026」→ 之后只发链接，未补价）** ｜ 类型：韩国网络品牌商（Hanchang Infotech；自有标商用 FS，现 Volktek；Peter/Park）——第一档品牌商 ｜ 筛子：2（两次要资料/价格） ｜ 停点：Saga 欠价：CENTEC 2026Q2 价表在库（U29） ｜ 复活：补发 Q2 价表 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
+- **绑定等级：轻度触达（2 封：2025-02 要数据表 + 网站；2026-01-16「please give about price」对 CENTEC 核心 → Alan「still working on new prices for 2026」→ 之后只发链接，未补价）；Elsa 单发去信 1 封（2025-02-24「16 Port Ethernet Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：韩国网络品牌商（Hanchang Infotech；自有标商用 FS，现 Volktek；Peter/Park）——第一档品牌商 ｜ 筛子：2（两次要资料/价格） ｜ 停点：Saga 欠价：CENTEC 2026Q2 价表在库（U29） ｜ 复活：补发 Q2 价表 ｜ 通路：KR 次级（点名） ｜ 节奏：一封 ｜ 证据：k=8b775668d592d1fe / edd3336a251448b6 / eae2ff437c2f5e46；第 19 批回补来信原文 1 条（gmail_s/gmail_a）
 - **现状一句话**：—
 - **对方真实需求（有据）**：CENTEC 核心/汇聚 + 商用 FS 贴标。
 - **断点 / 为什么停在这里**：Saga 未补价。
 - **Saga 现在该推什么**：P1 **STH 系列 + STC-424XGGPM**（30% 档，2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180；他 2024 收过 $300 / $240 群发，48 口与汇聚款别高于那两个数无解释；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch））——品牌商 + 主动要价。已打开的主题（4/42 封有打开记录）：「24 Port Fiber Switch」(2025-02-04)、「Optional Marvell Chipset Solutions」(2025-12-08)、「Re: OEM Core Switching Solution」(2026-01-19)、「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-22)、Performance of PeakNetX Platform_EN_V3(2026-01-19)、STH25G Series(2026-01-19)、Saga Software Function List_EN_V2.4(2026-01-19)、Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：现在　A 邮箱 → jryoun74@hcin4.com　补价
+- **下一步（具体）**：现在　A 邮箱 → jryoun74@hcin4.com　首封前知悉：Elsa 2025-02-24 单发过「16 Port Ethernet Switch」（未见回复（Elsa 箱 Replied 标签无））；补价
   - 第一问（只问一个）：Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 EXW; is the first project 10G/25G aggregation or 100G core?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 2025-02-04 | 来 | jryoun74@hcin4.com | ﻿thank you for infromations... please attach datasheet and website... thank you! ---------- Original message ---------- From: "Alan from Saga Telecom" | 来信原文（主题「RE: 24 Port Fiber Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `8b775668d592d1fe` |
 | 2026-01-16 | 来 | Peter (jryoun74) | thank you for informations~ please give about price~ | 要价 | `edd3336a251448b6` |
 | 2026-01-19 | 去 | Saga（Alan） | Hi, Peter, Thanks for your interest. 1, we are still working on the new prices for 2026. I will let you know when ready. 2, please see attached files to know about our software features. Btw, is there any specific specification you need?… | Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `eae2ff437c2f5e46` |
+| 2025-02-24 | out | Elsa → jryoun74@hcin4.com | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -289,12 +290,12 @@ Alan
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,16 +35,16 @@ updated: 2026-10-24
 - **是谁**：巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。（调研 2026-10-21；表内兴趣：IT居多 买过 UnManaged Switch；买了百兆交换机  网站看不出啥东西）
 - **为什么是 B 级**：**调研后定级 B**（低值历史成交、无互动、南亚非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦
 - **历史互动**：成交/下单过
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08GE — 默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）；按主表（研究档 saga_fit）
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-08GE — 默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
-## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
 
-> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-144` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-144` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-25。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」）** ｜ 类型：IT 公司 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」；研究档 risks：南亚非主攻区；主体与需求模糊；无互动
+- **绑定等级：Elsa 群发 BCC 已触达 2026-09-07「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，巴基斯坦（锚 globalconnectsynergy PK） 批次 To info@globalconnectsynergy.com，0 回（第 74 批 Bcc 头核对 msg 1a07aaaa8ce34b26）；S/A 箱：S/A 邮箱均无往来；来源：用户表「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」）** ｜ 类型：IT 公司 ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：巴基斯坦 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌」；研究档 risks：南亚非主攻区；主体与需求模糊；无互动；data/gmail_e/bcc_batches_2026.json
 - **现状一句话**：巴基斯坦 IT 公司（IT 为主），曾买过非管理/百兆交换机，群发名单，无互动；用户备注网站看不出业务。
 - **对方真实需求（有据）**：默认 25% 档：STC-08GE（8 GE 桌面非管理，$10.5）作百兆升级；PoE 版 STC-028GP（$24.2）
 - **断点 / 为什么停在这里**：南亚非主攻区；主体与需求模糊；无互动
@@ -53,6 +53,7 @@ updated: 2026-10-24
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
+| 2026-09-07 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@mutexsystemsltd.com, mutexsystemsltd.com, support@mutexsystemsltd.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
@@ -248,12 +249,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

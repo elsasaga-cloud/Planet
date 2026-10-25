@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,22 +36,23 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/15 封有打开记录）：「24 Port Fiber Switch」(2025-08-08)、「Re: 24 Port Fiber Switch」(2025-08-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：不动 — —
+- **下一步**：不动 — 首封前知悉：Elsa 2025-02-28 单发过「16 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-1121` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（3 封来信 = Olson 营销信 + Antronix Peter（SA-066）抄送 sales@olsontech.com 的误归属）** ｜ 类型：美国 CATV/PON 光设备商（Olson Technology） ｜ 筛子：0 ｜ 停点：误归属：真实回复人是 SA-066 Peter Tarquinio ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=42afe1e39f3c25e0 / b64dad136b4bdc24（属 SA-066）
+- **绑定等级：未触达（3 封来信 = Olson 营销信 + Antronix Peter（SA-066）抄送 sales@olsontech.com 的误归属）；Elsa 单发去信 1 封（2025-02-28「16 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：美国 CATV/PON 光设备商（Olson Technology） ｜ 筛子：0 ｜ 停点：误归属：真实回复人是 SA-066 Peter Tarquinio ｜ 复活：不动 ｜ 通路：US ｜ 节奏：不动 ｜ 证据：k=42afe1e39f3c25e0 / b64dad136b4bdc24（属 SA-066）
 - **现状一句话**：—
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：—
 - **Saga 现在该推什么**：P1 **—**（30% 档，历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch））——已打开的主题（2/15 封有打开记录）：「24 Port Fiber Switch」(2025-08-08)、「Re: 24 Port Fiber Switch」(2025-08-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续
-- **下一步（具体）**：不动　—　—
+- **下一步（具体）**：不动　—　首封前知悉：Elsa 2025-02-28 单发过「16 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-08-09 | 去 | Saga（Alan） | Hi, Peter, Thanks for your interest. There are 2 versions for this model. 225usd/pc, L2+ managed 310usd/pc, L3 managed Please see attached datasheets and let me know if you need web/cli manual & software list. Thank you. On Sat, Aug 9, 2025 at 3:21 AM Peter Ta | 历史报价点（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_a 回补）：225usd / 310usd | `7533abba594ebc6d` |
+| 2025-02-28 | out | Elsa → sales@olsontech.com | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -280,12 +281,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

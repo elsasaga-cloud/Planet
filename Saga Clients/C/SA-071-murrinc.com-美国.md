@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -38,22 +38,23 @@ updated: 2026-10-24
 - **历史互动**：实质回复 1 次；推送 1 次（2025-06-02 → 2025-06-02）；最近一次客户回复：2025-06-02：INFO
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：年走量与现供应商
-- **下一步**：不动；移出群发 — —
+- **下一步**：不动；移出群发 — 首封前知悉：Elsa 2025-02-19 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-071` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未绑定（渠道总监反向推销：「I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga?」）** ｜ 类型：德国 Murrelektronik 美国子公司（自有交换机线）——c_sub 体量过大 ｜ 筛子：1 ｜ 停点：对方是卖方；Alan 回附件后无 ｜ 复活：无 ｜ 通路：US ｜ 节奏：2025-04 → 2026-09 去信 15 封；最后来信 2025-06-02 ｜ 证据：k=268d43fb3ab8fa30
+- **绑定等级：未绑定（渠道总监反向推销：「I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga?」）；Elsa 单发去信 1 封（2025-02-19「Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：德国 Murrelektronik 美国子公司（自有交换机线）——c_sub 体量过大 ｜ 筛子：1 ｜ 停点：对方是卖方；Alan 回附件后无 ｜ 复活：无 ｜ 通路：US ｜ 节奏：2025-04 → 2026-09 去信 15 封；最后来信 2025-06-02 ｜ 证据：k=268d43fb3ab8fa30
 - **现状一句话**：Dave Weinberg（Director of Channel Development）用玩笑回了群发并反过来推销自家全线。Alan 回了个附件。
 - **对方真实需求（有据）**：—
 - **断点 / 为什么停在这里**：巨头 + 反向推销；移出群发。
 - **Saga 现在该推什么**：P1 **无**（30% 档，—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-09 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch））——移出群发
-- **下一步（具体）**：不动；移出群发　—　—
+- **下一步（具体）**：不动；移出群发　—　首封前知悉：Elsa 2025-02-19 单发过「Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；—
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-06-02 | 来 | Dave Weinberg（Director of Channel Development） | I see your 16 port Gigabit switch and I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga? | 反向推销 | `268d43fb3ab8fa30` |
+| 2025-02-19 | out | Elsa → dweinberg@murrinc.com | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -173,8 +174,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）；人工/调研定级 → C
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

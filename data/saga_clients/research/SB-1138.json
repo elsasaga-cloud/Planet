@@ -61,7 +61,7 @@
  "email_hook": "（不主动发送）",
  "mail_review": {
   "binding": {
-   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对1.6T很感兴趣，DCI box，拍了照」）",
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对1.6T很感兴趣，DCI box，拍了照」）；Elsa 单发去信 1 封（2026-08-10「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "—",
    "sieve": "—（未入筛）",
    "stop": "从未触达",
@@ -84,7 +84,7 @@
   "next_move": {
    "when": "不动",
    "channel": "—",
-   "action": "—",
+   "action": "首封前知悉：Elsa 2026-08-10 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；—",
    "one_question": ""
   },
   "facts": [
@@ -95,6 +95,15 @@
     "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "who": "Elsa → eduardo.ken@precisionsolutions.com.br",
+    "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19febd481e3f857e"
    }
   ],
   "proof_gaps": [

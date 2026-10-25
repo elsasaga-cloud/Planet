@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,18 +36,18 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2026-08-28 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-828` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 sales@fibresales.com.au；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）** ｜ 类型：光纤配件品牌商（澳大利亚，自有标 MC） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：澳大利亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过
+- **绑定等级：未触达（A/S 邮箱 9 封 2024→2025，1 次记录打开，0 回；收件 sales@fibresales.com.au；主题多为「8 Port Industrial PoE Switch、48 Port PoE Managed Switch」）；Elsa 单发去信 1 封（2026-08-28「24 Port PoE Managed Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：光纤配件品牌商（澳大利亚，自有标 MC） ｜ 筛子：1~2（1 次打开） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：澳大利亚 非主攻 ｜ 节奏：季度 ｜ 证据：gmail_digest：out 9，Opened 标签 1（Simon 群发追踪）；用户表：「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS」；研究档 risks：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过
 - **现状一句话**：澳大利亚 Fibresales（官网重定向，内容未抓到；表内「MC SFP 自己的牌子（周边产品）VC（比较少）没有工业 FS」「质量一般」）；表内未跟进。
 - **对方真实需求（有据）**：自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供
 - **断点 / 为什么停在这里**：非主攻区（T5，澳大利亚）；官网重定向未抓到；表内「质量一般」；未跟进过
 - **Saga 现在该推什么**：P1 **STI-110GE**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch））——自有标 MC → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）；SFP Saga 不供。已打开的主题（1/9 封有打开记录）：「48 Port PoE Managed Switch」(2025-01-02) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2026-08-28 单发过「24 Port PoE Managed Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
   - 第一问（只问一个）：For the media converters sold under your own label with your fibre accessories, we can supply gigabit MCs (desktop or industrial) in your packaging from small lots, CE/RoHS; RCM by your side — which MC configuration do your customers order most?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -55,6 +55,7 @@ updated: 2026-10-24
 | 2025-02-26 | 去 | A/S 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 9 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2025-02-26（9 去 / 0 来） | `gmail_digest` |
 | 2026-08-28 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@fibresales.com.au（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-10-21 | 用户表 | Simon | MC SFP 自己的牌子（周边产品）VC（比较少）没有工业FS | 表内备注 | `用户表` |
+| 2026-08-28 | out | Elsa → sales@fibresales.com.au | 24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -254,12 +255,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

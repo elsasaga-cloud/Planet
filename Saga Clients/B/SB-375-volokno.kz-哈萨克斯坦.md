@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,24 +36,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换。已打开的主题（2/26 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-24)、「10G L3 Managed Switch」(2026-06-05) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-09-18 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
-- **下一步**：2026-11 A 邮箱 → manager@volokno.kz 短信一问（email_hook）
+- **下一步**：2026-11 A 邮箱 → manager@volokno.kz 首封前知悉：Elsa 2025-02-24 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-375` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 manager@volokno.kz；被打开主题「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）** ｜ 类型：光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：哈萨克斯坦 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 中科德能的」；研究档 risks：非主攻区（T5）；中亚结算/物流按单核
+- **绑定等级：读而不回（A/S 邮箱 26 封 2024→2026，其中 2 封被打开，0 回；收件 manager@volokno.kz；被打开主题「10G Enterprise SFP Switch、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-24「24 Port Fiber Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主） ｜ 筛子：2（有人在读，无人回） ｜ 停点：读而不回 = 内容未命中或没有当下需求 ｜ 复活：一封「只问一句」的短信给打开过的地址（不附图不附表） ｜ 通路：哈萨克斯坦 非主攻 ｜ 节奏：一封；回了再说 ｜ 证据：gmail_digest：out 26，Opened 标签 2（Simon 群发追踪）；用户表：「工业FS 中科德能的」；研究档 risks：非主攻区（T5）；中亚结算/物流按单核
 - **现状一句话**：哈萨克斯坦 Альянс / volokno.kz（阿拉木图光缆与电信设备贸易生产公司：光缆、SFP/AOC、MikroTik 206 / Ubiquiti 27、FTTH、架空线金具；表内「工业 FS 中科德能的」）；群发 17 次无回复。
 - **对方真实需求（有据）**：在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换
 - **断点 / 为什么停在这里**：非主攻区（T5）；中亚结算/物流按单核
 - **Saga 现在该推什么**：P1 **STI-288GP**（20% 档，首触锚价 STI-288GP $60 EXW（最近实报 $60（SA-100 2025-03-18；SB-1276 / SA-030 同价）（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-09-18 $65（10G Media Converter）、2025-10-22 $280（10G Enterprise SFP Switch））——在售「中科德能」工业交换机 → 工业非管理 8 PoE + 2 SFP STI-288GP（$57.4 @20%）/ 管理型 STI-288GPM 同口型替换。已打开的主题（2/26 封有打开记录）：「Marvell Alleycat5 Solution」(2025-03-24)、「10G L3 Managed Switch」(2026-06-05) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Product Link_2026Q3(2026-07-09)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）
-- **下一步（具体）**：2026-11　A 邮箱 → manager@volokno.kz　短信一问（email_hook）
+- **下一步（具体）**：2026-11　A 邮箱 → manager@volokno.kz　首封前知悉：Elsa 2025-02-24 单发过「24 Port Fiber Switch」（未见回复（Elsa 箱 Replied 标签无））；短信一问（email_hook）
   - 第一问（只问一个）：Alongside the MikroTik and fiber lines you carry in Almaty, we supply DIN-rail 8-PoE + 2 SFP industrial switches (unmanaged and managed, −40~75 °C) in neutral packing from small lots, EXW — which industrial switch model do you ship most today? Reference: STI-288GP at $60 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 26 封 / 2 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-10-07（26 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 中科德能的 | 表内备注 | `用户表` |
+| 2025-02-24 | out | Elsa → manager@volokno.kz | 24 Port Fiber Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -312,12 +313,12 @@ Saga Telecom · sagatele.com
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

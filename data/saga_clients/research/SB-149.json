@@ -1,141 +1,150 @@
 {
-  "code": "SB-149",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（lindy.co.uk，快照 2026-10-21）",
-  "summary": "英国 LINDY Electronics（lindy.co.uk / lindy.de / lindy.com；连接方案品牌：线缆、USB/KVM/AV 切换器、网络交换机（自有品牌，含工业款）、光纤 MC；Trade Accounts；表内「MC 似乎比较有名，SFP，工业 FS 自己的牌子，价格很高」；KP Darren Casey（Director，darren.casey@）、Megan Fairbairn（Purchase））；群发 10 次无回复。",
-  "type": "欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Computer, Audio & Video Connection Solutions from LINDY Electronics；品类词 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Lindy Electronics offer a vast selection of connectivity solutions. Choose from a range of high quality cables and electronics from Lindy. From computers to networking, we have all of your needs covered — order now!",
-      "url": "https://www.lindy.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "LINDY 连接方案：线缆与电子产品",
-      "quote": "Lindy Electronics offer a vast selection of connectivity solutions. Choose from a range of high quality cables and electronics from Lindy. From computers to networking",
-      "url": "https://www.lindy.co.uk/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC 有名，SFP，工业 FS 自己的牌子，价格很高",
-      "quote": "MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Megan Fairbairn",
-      "title": "Purchase",
-      "email": "internationalsales@lindy.com",
-      "phone": "",
-      "source": "用户表"
-    },
-    {
-      "name": "Darren Casey",
-      "title": "Director",
-      "email": "darren.casey@lindy.co.uk",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-149",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（lindy.co.uk，快照 2026-10-21）",
+ "summary": "英国 LINDY Electronics（lindy.co.uk / lindy.de / lindy.com；连接方案品牌：线缆、USB/KVM/AV 切换器、网络交换机（自有品牌，含工业款）、光纤 MC；Trade Accounts；表内「MC 似乎比较有名，SFP，工业 FS 自己的牌子，价格很高」；KP Darren Casey（Director，darren.casey@）、Megan Fairbairn（Purchase））；群发 10 次无回复。",
+ "type": "欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Computer, Audio & Video Connection Solutions from LINDY Electronics；品类词 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Lindy Electronics offer a vast selection of connectivity solutions. Choose from a range of high quality cables and electronics from Lindy. From computers to networking, we have all of your needs covered — order now!",
+   "url": "https://www.lindy.co.uk/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "英国",
-    "other": "官网 lindy.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "线缆 / USB / KVM / AV 连接产品（自有品牌）",
-    "网络交换机 / 光纤 MC（自有品牌）"
-  ],
-  "channels": {
-    "role": "欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）",
-    "region": "英国",
-    "contact": "internationalsales@lindy.com、darren.casey@lindy.co.uk"
+  {
+   "kind": "官网快照",
+   "claim": "LINDY 连接方案：线缆与电子产品",
+   "quote": "Lindy Electronics offer a vast selection of connectivity solutions. Choose from a range of high quality cables and electronics from Lindy. From computers to networking",
+   "url": "https://www.lindy.co.uk/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "栏目 /networking-c5/switches-c246、/kvm-c6/desktop-kvm-switches-c296、/audio-video-c2/switches-c175",
-    "官网：Trade Accounts Available；Free Technical Support",
-    "KP：Darren Casey / Director；Megan Fairbairn / Purchase（表内）"
-  ],
-  "risks": [
-    "成熟品牌（英/德双总部）：供应商导入流程长、文档要求高",
-    "现有 ODM 未知（表内「价格很高」= 品牌溢价而非成本）；10 次无回复 → 改向 Purchase 具名首触"
-  ],
-  "saga_fit": {
-    "p1": "STI-080GE",
-    "tier": 30,
-    "why": "Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE"
-  },
-  "email_hook": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 20 封 2025→2026，无记录打开，0 回；收件 darren.casey@lindy.co.uk, internationalsales@lindy.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）",
-      "type": "欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）",
-      "sieve": "1（只收到群发）",
-      "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
-      "lane": "UK 主攻（四主）",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 20；用户表：「MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高」；研究档 risks：成熟品牌（英/德双总部）：供应商导入流程长、文档要求高"
-    },
-    "situation": "英国 LINDY Electronics（lindy.co.uk / lindy.de / lindy.com；连接方案品牌：线缆、USB/KVM/AV 切换器、网络交换机（自有品牌，含工业款）、光纤 MC；Trade Accounts；表内「MC 似乎比较有名，SFP，工业 FS 自己的牌子，价格很高」；KP Darren Casey（Director，darren.casey@）、Megan Fairbairn（Purchase））；群发 10 次无回复。",
-    "need": "Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE",
-    "breakpoint": "成熟品牌（英/德双总部）：供应商导入流程长、文档要求高",
-    "saga_now": {
-      "p1": "STI-080GE",
-      "tier": 30,
-      "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-27 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
-      "why": "Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2027-Q1（换人后）",
-      "channel": "A 邮箱 → 具名 KP",
-      "action": "换收件人再发一封",
-      "one_question": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2026-09-10",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
-        "why": "20 封 / 0 次打开 / 0 回｜首封 2025-01-27 → 末封 2026-09-10（20 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC 有名，SFP，工业 FS 自己的牌子，价格很高",
+   "quote": "MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Megan Fairbairn",
+   "title": "Purchase",
+   "email": "internationalsales@lindy.com",
+   "phone": "",
+   "source": "用户表"
+  },
+  {
+   "name": "Darren Casey",
+   "title": "Director",
+   "email": "darren.casey@lindy.co.uk",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "英国",
+  "other": "官网 lindy.co.uk，语言 en-GB，快照状态 ok；角色判定来源：用户表"
+ },
+ "business_lines": [
+  "线缆 / USB / KVM / AV 连接产品（自有品牌）",
+  "网络交换机 / 光纤 MC（自有品牌）"
+ ],
+ "channels": {
+  "role": "欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）",
+  "region": "英国",
+  "contact": "internationalsales@lindy.com、darren.casey@lindy.co.uk"
+ },
+ "signals": [
+  "栏目 /networking-c5/switches-c246、/kvm-c6/desktop-kvm-switches-c296、/audio-video-c2/switches-c175",
+  "官网：Trade Accounts Available；Free Technical Support",
+  "KP：Darren Casey / Director；Megan Fairbairn / Purchase（表内）"
+ ],
+ "risks": [
+  "成熟品牌（英/德双总部）：供应商导入流程长、文档要求高",
+  "现有 ODM 未知（表内「价格很高」= 品牌溢价而非成本）；10 次无回复 → 改向 Purchase 具名首触"
+ ],
+ "saga_fit": {
+  "p1": "STI-080GE",
+  "tier": 30,
+  "why": "Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE"
+ },
+ "email_hook": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 20 封 2025→2026，无记录打开，0 回；收件 darren.casey@lindy.co.uk, internationalsales@lindy.com；主题多为「Marvell Industrial Alert System、Industrial PoE Switch」）；Elsa 单发去信 1 封（2025-02-21「Mini Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
+   "type": "欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）",
+   "sieve": "1（只收到群发）",
+   "stop": "20 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "停发群发；若要继续，换具名邮箱 + 只问一句",
+   "lane": "UK 主攻（四主）",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 20；用户表：「MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高」；研究档 risks：成熟品牌（英/德双总部）：供应商导入流程长、文档要求高"
+  },
+  "situation": "英国 LINDY Electronics（lindy.co.uk / lindy.de / lindy.com；连接方案品牌：线缆、USB/KVM/AV 切换器、网络交换机（自有品牌，含工业款）、光纤 MC；Trade Accounts；表内「MC 似乎比较有名，SFP，工业 FS 自己的牌子，价格很高」；KP Darren Casey（Director，darren.casey@）、Megan Fairbairn（Purchase））；群发 10 次无回复。",
+  "need": "Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE",
+  "breakpoint": "成熟品牌（英/德双总部）：供应商导入流程长、文档要求高",
+  "saga_now": {
+   "p1": "STI-080GE",
+   "tier": 30,
+   "price": "换人再触锚价 STI-080GE $32.5 EXW（最近实报 SB-1019 2025-07-07 $32.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-27 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）",
+   "why": "Lindy 自有品牌工业交换机标价高 → 工业非管理 8 GE STI-080GE（$34.0 @30%）、5 GE STI-050GE（$18.5）贴 Lindy 标；商用桌面位 HRUI STC-08GE（$10.5）；MC 位 STI-110GE",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2027-Q1（换人后）",
+   "channel": "A 邮箱 → 具名 KP",
+   "action": "首封前知悉：Elsa 2025-02-21 单发过「Mini Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；换收件人再发一封",
+   "one_question": "Megan, for the industrial and desktop gigabit switches sold under the LINDY brand, we can be a second ODM source on a Marvell platform (5/8-port DIN-rail, −40~75 °C; 8-port desktop) from small lots with CE/RoHS/UKCA reports — which SKU would you consider dual-sourcing first? Reference: STI-080GE at $32.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2026-09-10",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Marvell Industrial Alert System、Industrial PoE Switch",
+    "why": "20 封 / 0 次打开 / 0 回｜首封 2025-01-27 → 末封 2026-09-10（20 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "MC,似乎是比较有名 SFP 工业FS 自己的牌子 价格很高",
+    "why": "表内备注",
+    "k": "用户表"
+   },
+   {
+    "date": "2025-02-21",
+    "dir": "out",
+    "who": "Elsa → internationalsales@lindy.com",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19528b363fdb19ed"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

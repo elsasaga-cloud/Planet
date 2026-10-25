@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-25
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,24 +36,25 @@ updated: 2026-10-24
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?
 - **最大未知**：年走量与现供应商
-- **下一步**：群发节奏 A 邮箱 观察打开
+- **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02-21 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-329` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
-- **绑定等级：未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 sales@wildix.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）** ｜ 类型：UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：UK 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「商业PoE 自己的logo 周边产品」；研究档 risks：体量大（全球 UCaaS 厂商）：周边硬件供应链既定，准入流程长
+- **绑定等级：未触达（A/S 邮箱 13 封 2025→2026，无记录打开，0 回；收件 sales@wildix.com；主题多为「Marvell Industrial Alert System、Marvell Alleycat5 Solution」）；Elsa 单发去信 1 封（2025-02-21「8 Port Industrial PoE Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）** ｜ 类型：UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大） ｜ 筛子：1（只收到群发） ｜ 停点：只打通用邮箱，无记录打开 ｜ 复活：保持季度群发到 2027-Q1；无打开即停 ｜ 通路：UK 主攻（四主） ｜ 节奏：季度 ｜ 证据：gmail_digest：out 13；用户表：「商业PoE 自己的logo 周边产品」；研究档 risks：体量大（全球 UCaaS 厂商）：周边硬件供应链既定，准入流程长
 - **现状一句话**：Wildix（AI 云 VoIP / UCaaS 厂商：PBX、视频会议、WebRTC；自有标商用 PoE 与周边产品；表内「商业 PoE 自己的 logo 周边产品」「很大的一个公司」「可以尝试多跟进一下」）；群发 10 次无回复。
 - **对方真实需求（有据）**：话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
 - **断点 / 为什么停在这里**：体量大（全球 UCaaS 厂商）：周边硬件供应链既定，准入流程长
 - **Saga 现在该推什么**：P1 **STC-28DGGPM**（30% 档，按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-04-22 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch））——话机部署配套自有标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）/ 24 口 STC-424DGGPM-280W 贴 Wildix 标
-- **下一步（具体）**：群发节奏　A 邮箱　观察打开
+- **下一步（具体）**：群发节奏　A 邮箱　首封前知悉：Elsa 2025-02-21 单发过「8 Port Industrial PoE Switch」（未见回复（Elsa 箱 Replied 标签无））；观察打开
   - 第一问（只问一个）：For the Wildix-branded PoE switches that ship with your IP phone deployments, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE + 4 SFP) from small lots in your packaging, UKCA/CE/RoHS — which size do your partners order most with new PBX rollouts?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-02-11 | 去 | A/S 群发 | Marvell Industrial Alert System、Marvell Alleycat5 Solution | 13 封 / 0 次打开 / 0 回｜首封 2025-01-24 → 末封 2026-02-11（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE 自己的logo 周边产品 | 表内备注 | `用户表` |
+| 2025-02-21 | out | Elsa → sales@wildix.com | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -281,12 +282,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-23**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-24**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
+- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

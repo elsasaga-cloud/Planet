@@ -36,5 +36,48 @@
   "tier": 25,
   "why": "不供伊朗。"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "仅 Elsa 单发（S/A 邮箱 0 封；Elsa 单发去信 1 封（2026-08-10「24 Port PoE Managed Switch」→ hadi@parman.ir，未见回复（Elsa 箱 Replied 标签无）））（第 74 批(e)：S/A mail_dump + Elsa 箱 in:sent 排锚扫描 2026-10-25）",
+   "type": "伊朗电信设备公司（守界）",
+   "sieve": "—",
+   "stop": "界",
+   "evidence": [
+    "mail_dump.py SB-994（S/A 全量）",
+    "data/gmail_e/elsa_sent_nonanchor_2026-10-25.json（Elsa 1:1 普查）"
+   ]
+  },
+  "situation": "伊朗 Parman（WDM 与交换机电信设备公司；Product Manager Mohammad Hadi 展会询工业/高速交换机）",
+  "need": "守界（伊朗：结算/合规）",
+  "breakpoint": "伊朗；S/A 0 封；Elsa 2026-08 24-PoE 单发无回",
+  "saga_now": {
+   "p1": null,
+   "tier": null,
+   "price": null,
+   "why": "守界（伊朗：结算/合规）",
+   "repeat": "无成单；不动",
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "不动：守界（伊朗）",
+   "one_question": null
+  },
+  "facts": [
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "who": "Elsa → hadi@parman.ir",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19feaf8c6642af1c"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null
+ }
 }

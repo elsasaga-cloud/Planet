@@ -94,7 +94,7 @@
  ],
  "mail_review": {
   "binding": {
-   "level": "轻度触达→WhatsApp 线（Elsa 邮箱 6 来 5 去 2026-01-08 → 04-06：HFCL DGM Shantanu Rana 问 MII 60%，Elsa 答「SKD 起步 → CKD 深度本地化 → 软件/合规随项目推进」并附 STH100G 规格书 + 软件功能表 V2.4 + PeakNetX 性能 + CENTEC Web UI；04-05 Elsa 报工业 PoE 2 SFP + 4 PoE 非管理 120W $35/pc、附印度出货 AWB 与客户 WhatsApp 确认截图；04-06 对方要 WhatsApp，Elsa「My colleague Simon said hi on WhatsApp」→ 之后在 Simon 手机；S/A 邮箱 9 封 0 回)",
+   "level": "轻度触达→WhatsApp 线（Elsa 邮箱 6 来 5 去 2026-01-08 → 04-06：HFCL DGM Shantanu Rana 问 MII 60%，Elsa 答「SKD 起步 → CKD 深度本地化 → 软件/合规随项目推进」并附 STH100G 规格书 + 软件功能表 V2.4 + PeakNetX 性能 + CENTEC Web UI；04-05 Elsa 报工业 PoE 2 SFP + 4 PoE 非管理 120W $35/pc、附印度出货 AWB 与客户 WhatsApp 确认截图；04-06 对方要 WhatsApp，Elsa「My colleague Simon said hi on WhatsApp」→ 之后在 Simon 手机；S/A 邮箱 9 封 0 回)；Elsa 单发去信 1 封（2026-05-11「10G Enterprise SFP Switch」；To 本户、非 BCC；未见回复（Elsa 箱 Replied 标签无））（第 74 批(e) Elsa 箱 in:sent 排锚扫描）",
    "type": "印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复）",
    "sieve": "3（要价要证要 WhatsApp，但 MII 门槛未解）",
    "stop": "2026-04-06 转 Simon WhatsApp 后邮件侧无记录；Elsa 5-11 / 8-04 仍按群发节奏发新品信",
@@ -117,7 +117,7 @@
   "next_move": {
    "when": "2026-11（Simon 先定 MII 口径）",
    "channel": "WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档",
-   "action": "一句话定调",
+   "action": "首封前知悉：Elsa 2026-05-11 单发过「10G Enterprise SFP Switch」（未见回复（Elsa 箱 Replied 标签无））；一句话定调",
    "one_question": "Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?"
   },
   "facts": [
@@ -216,6 +216,15 @@
     "quote": "工业FS 自己的logo；回复里有详细联系方式",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → shantanu.kumar@hfcl.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e15f15c32be6ea"
    }
   ],
   "proof_gaps": [
